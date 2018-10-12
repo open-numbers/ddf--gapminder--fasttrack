@@ -1,0 +1,14 @@
+{
+    "name": "ddf--gapminder--test_fasttrack",
+    "author": "Gapminder",
+    "description": "Testing Dataset for Fast Track docs",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "CC-BY-4.0",
+    "title": "Testing Dataset for Fast Track docs",
+    "version": "0.0.1",
+    "resources": []
+}
