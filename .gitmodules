@@ -1,0 +1,3 @@
+[submodule "etl/source/ddf--gapminder--ontology"]
+	path = etl/source/ddf--gapminder--ontology
+	url = https://github.com/open-numbers/ddf--gapminder--ontology
