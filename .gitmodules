@@ -1,3 +1,6 @@
 [submodule "etl/source/ddf--gapminder--ontology"]
 	path = etl/source/ddf--gapminder--ontology
 	url = https://github.com/open-numbers/ddf--gapminder--ontology
+[submodule "etl/source/ddf--gapminder--geo_entity_domain"]
+	path = etl/source/ddf--gapminder--geo_entity_domain
+	url = https://github.com/open-numbers/ddf--gapminder--geo_entity_domain
