@@ -1,7 +1,7 @@
-concept,concept_type,source_url,name_short,name,description,unit,domain,indicator_url,color,scales,drill_up,tags
-democrperc,measure,https://docs.google.com/spreadsheets/d/1km9lsO1FxYBRMpG244HGevtLUSR9JLCTqRAYICyPZ8k,Democracy share,Share of population living in democracies,"The sum of populations in all countries categirized as Democracies according to the Polity IV criteria for, as a share of the total world population.",Percent,,,,,,
-democrpop,measure,https://docs.google.com/spreadsheets/d/1km9lsO1FxYBRMpG244HGevtLUSR9JLCTqRAYICyPZ8k,Democracy population,Number of people living in democracies,"The sum of population of all countries categirized as democracies according to the Polity IV criteria for, as a share of total population.",Number of people,,,,,,
-democrix,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,Democracy index,Quality of the democracy,"The democracy index is using the data from the Economist Inteligence Unit to express the quality of democracies as a number between 0 and 100. It's based on 60 different aspects of societies that are relevant to democracy universal suffrage for all adults, voter participation, perception of human rights protection and freedom to form organizations and parties.
+concept,concept_type,source_url,version,updated,name_short,name,description,unit,topic,domain,indicator_url,color,scales,drill_up,tags
+democrperc,measure,https://docs.google.com/spreadsheets/d/1km9lsO1FxYBRMpG244HGevtLUSR9JLCTqRAYICyPZ8k,v1,2018-09-05,Democracy share,Share of population living in democracies,"The sum of populations in all countries categirized as Democracies according to the Polity IV criteria for, as a share of the total world population.",Percent,governance,,,,,,
+democrpop,measure,https://docs.google.com/spreadsheets/d/1km9lsO1FxYBRMpG244HGevtLUSR9JLCTqRAYICyPZ8k,v1,2018-09-05,Democracy population,Number of people living in democracies,"The sum of population of all countries categirized as democracies according to the Polity IV criteria for, as a share of total population.",Number of people,governance,,,,,,
+democrix,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Democracy index,Quality of the democracy,"The democracy index is using the data from the Economist Inteligence Unit to express the quality of democracies as a number between 0 and 100. It's based on 60 different aspects of societies that are relevant to democracy universal suffrage for all adults, voter participation, perception of human rights protection and freedom to form organizations and parties.
 The democracy index is calculated from the 60 indicators, divided into five ""sub indexes"", which are:
 1. Electoral pluralism index;
 2. Government index;
@@ -9,9 +9,9 @@ The democracy index is calculated from the 60 indicators, divided into five ""su
 4. Political culture index;
 5. Civil liberty index.
 The sub-indexes are based on the sum of scores on roughly 12 indicators per sub-index, converted into a score between 0 and 100.
-(The Economist publishes the index with a scale from 0 to 10, but Gapminder has converted it to 0 to 100 to make it easier to communicate as a percentage.)",Percent,,,,,,
-democrixelect,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,Electoral pluralism index,Index of the electoral process and pluralism,,Percent,,,,,,
-democrixgov,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,Government index,Index of the functioning of government,"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+(The Economist publishes the index with a scale from 0 to 10, but Gapminder has converted it to 0 to 100 to make it easier to communicate as a percentage.)",Percent,governance,,,,,,
+democrixelect,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Electoral pluralism index,Index of the electoral process and pluralism,,Percent,governance,,,,,,
+democrixgov,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Government index,Index of the functioning of government,"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
 1. Do freely elected representatives determine government policy?;
 2. Is the legislature the supreme political body, with a clear supremacy over other branches of
 government?;
@@ -28,8 +28,8 @@ electorate in between elections?;
 11. Is the civil service willing to and capable of implementing government policy?;
 12. Popular perceptions of the extent to which citizens have free choice and control over their lives.;
 13. Public confidence in government.;
-14. Public confidence in political parties.",Percent,,,,,,
-democrixpolpart,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,Political participation index,Index of the political participation,"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+14. Public confidence in political parties.",Percent,governance,,,,,,
+democrixpolpart,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Political participation index,Index of the political participation,"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
 1. Voter participation/turn-out for national elections.;
 2. Do ethnic, religious and other minorities have a reasonable degree of autonomy and voice in the
 political process?;
@@ -40,8 +40,8 @@ organisations.;
 6. The preparedness of population to take part in lawful demonstrations.;
 7. Adult literacy;
 8. Extent to which adult population shows an interest in and follows politics in the news. ;
-9. The authorities make a serious effort to promote political participation.;""",Percent,,,,,,
-democrixpolcult,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,Political culture index,Index of the political culture,"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+9. The authorities make a serious effort to promote political participation.;""",Percent,governance,,,,,,
+democrixpolcult,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Political culture index,Index of the political culture,"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
 1. Is there a sufficient degree of societal consensus and cohesion to underpin a stable, functioning
 democracy?;
 2. Perceptions of leadership; proportion of the population that desires a strong leader who bypasses
@@ -54,8 +54,8 @@ democracies are not good at maintaining public order.;
 6. Perception of democracy and the economic system; proportion of the population that believes
 that democracy benefits economic performance.;
 7. Degree of popular support for democracy.;
-8. There is a strong tradition of the separation of Church and State.;",Percent,,,,,,
-democrixlib,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,Civil liberties index,Index of the civil liberties,"""This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+8. There is a strong tradition of the separation of Church and State.;",Percent,governance,,,,,,
+democrixlib,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Civil liberties index,Index of the civil liberties,"""This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
 1. Is there a free electronic media?;
 2. Is there a free print media?;
 3. Is there freedom of expression and protest (bar only generally accepted restrictions, such as
@@ -75,54 +75,56 @@ permitted both publicly and privately? Do some religious groups feel intimidated
 14. Extent to which citizens enjoy personal freedoms. Consider gender equality, right to travel, choice of work and study.;
 15. Popular perceptions on protection of human rights; proportion of the population that think that basic human rights are well-protected.;
 16. There is no significant discrimination on the basis of people’s race, colour or religious beliefs;
-17. Extent to which the government invokes new risks and threats as an excuse for curbing civil liberties.",Percent,,,,,,
-democrixch,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,Change in democracy index,Annual change of democracy index compared to previouse year,"The annual change of percentage points compared to preivouse year is calculated by taking the Democracy index any year, and subtract the value for the previouse year.",Percent,,,,,,
-world_6region,entity_set,,,World Regions (6 colors),,,geo,https://docs.google.com/spreadsheet/pub?key=phT4mwjvEuGBtdf1ZeO7_PQ,"{""palette"": {""east_asia_pacific"": ""#f03838"", ""sub_saharan_africa"": ""#4e7af0"", ""south_asia"": ""#35d1d1"", ""europe_central_asia"": ""#f49d37"", ""middle_east_north_africa"": ""#5be56b"", ""america"": ""#ebcc21""}, ""selectable"": false}",,,categorizations
-income_groups,entity_set,,,Income groups,,,geo,https://docs.google.com/spreadsheet/pub?key=phT4mwjvEuGCSmAe5aq7HKw,"{""palette"": {""upper_middle_income"": ""#a7cb7d"", ""lower_middle_income"": ""#7ea1d1"", ""high_income"": ""#7bc135"", ""low_income"": ""#4366f4""}}",,,categorizations
-landlocked,entity_set,,,Landlocked,,,geo,https://docs.google.com/spreadsheet/pub?key=rBwKBodk7Y08pGiA4OAfzUA,"{""palette"": {""landlocked"": ""#f05656"", ""coastline"": ""#7487ef""}}",,,categorizations
-g77_and_oecd_countries,entity_set,,,G77 and OECD countries,,,geo,https://docs.google.com/spreadsheet/pub?key=tVI_UCwI1enCk4p61fWxUig,"{""palette"": {""others"": ""#f05656"", ""oecd"": ""#71c44c"", ""g77"": ""#7487ef""}}",,,categorizations
-main_religion_2008,entity_set,,,Main religion 2008,,,geo,https://docs.google.com/spreadsheet/pub?key=0ArtujvvFrPjVdHUzTGVicFJZQ1NjaFhqelV5SDNxMVE,"{""palette"": {""muslim"": ""#71c44c"", ""christian"": ""#7487ef"", ""eastern_religions"": ""#f05656""}, ""selectable"": false}",,,categorizations
-geo,entity_domain,,,Geographic location,,,,https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--country.csv,,,,_none
-country,entity_set,,,Country,,,geo,https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--country.csv,,,"[""world_6region"", ""income_groups"", ""landlocked"", ""g77_and_oecd_countries"", ""main_religion_2008"", ""world_4region""]",categorizations
-name_long,string,,,Name Long,,,,,,,,_none
-world_4region,entity_set,,,World Regions,,,geo,https://docs.google.com/spreadsheet/pub?key=0ArfEDsV3bBwCdHlocWJBM1Uyd1ZPeHduU3c4WGplMEE,"{""shades"": {""fill3"": 2, ""print_stroke"": 5, ""print_fill"": 4, ""fill2"": 1, ""shade"": 3, ""fill1"": 0}, ""palette"": {""americas"": [""#7feb00"", ""#5de200"", ""#81f201"", ""#00b900"", ""#b5ea32"", ""#008d36""], ""europe"": [""#ffe700"", ""#fbdd00"", ""#fff400"", ""#fbaf09"", ""#ffe700"", ""#b17f4a""], ""africa"": [""#00d5e9"", ""#00c8ec"", ""#00e1ec"", ""#0098df"", ""#77dff7"", ""#0586c6""], ""asia"": [""#ff5872"", ""#ff5178"", ""#ff658a"", ""#da0025"", ""#fa4e73"", ""#b2043a""], ""_default"": [""#ffb600"", ""#ffaa14"", ""#ffc500"", ""#fb6d19"", ""#ffb600"", ""#9b4838""]}, ""selectable"": false}",,,categorizations
-global,entity_set,,,World,,,geo,,,,,_none
-gapminder_list,string,,,Gapminder list,,,,,,,,_none
-alternative_1,string,,,Alternative 1,,,,,,,,_none
-alternative_2,string,,,Alternative 2,,,,,,,,_none
-alternative_3,string,,,Alternative 3,,,,,,,,_none
-alternative_4_cdiac,string,,,Alternative 4 (CDIAC),,,,,,,,_none
-pandg,string,,,pandg,,,,,,,,_none
-god_id,string,,,GOD_ID,,,,,,,,_none
-alt_5,string,,,ALT 5,,,,,,,,_none
-upper_case_name,string,,,Upper Case Name,,,,,,,,_none
-iso3166_1_alpha2,string,,,ISO 3166-1 alpha-2,,,,http://www.iso.org/iso/home/standards/country_codes.htm,,,,_none
-iso3166_1_alpha3,string,,,ISO 3166-1 alpha-3,,,,http://www.iso.org/iso/home/standards/country_codes.htm,,,,_none
-iso3166_1_numeric,string,,,ISO 3166-1 numeric,,,,http://www.iso.org/iso/home/standards/country_codes.htm,,,,_none
-iso3166_2,string,,,ISO 3166-2,,,,https://en.wikipedia.org/wiki/ISO_3166-2,,,,_none
-unicode_region_subtag,string,,,Unicode CLDR Region subtag,,,,http://www.unicode.org/reports/tr35/#unicode_region_subtag_validity,,,,
-gwid,string,,,Gwid,,,,,,,,_none
-arb1,string,,,arb1,,,,,,,,_none
-arb2,string,,,arb2,,,,,,,,_none
-arb3,string,,,arb3,,,,,,,,_none
-arb4,string,,,arb4,,,,,,,,_none
-arb5,string,,,arb5,,,,,,,,_none
-arb6,string,,,arb6,,,,,,,,_none
-unit,string,,,Unit,,,,,,,,_none
-color,string,,,Color,,,,,,,,_none
-domain,string,,,Domain,,,,,,,,_none
-drill_up,string,,,Drill up,,,,,,,,_none
-shape_lores_svg,string,,,Shapes,,,,,,,,_none
-synonym,string,,,Synonym,,,,,,,,_none
-name,string,,,Name,,,,,,,,_none
-name_short,string,,,Short Name,,,,,,,,_none
-tags,string,,,Tags,,,,,,,,_none
-indicator_url,string,,,Indicator URL,,,,,,,,_none
-description,string,,,Description,,,,,,,,_none
-source_url,string,,,Source URL,,,,,,,,_none
-scales,string,,,Scales,,,,,,,,_none
-rank,string,,,,,,,,,,,
-latitude,string,,,,,,,,,,,
-longitude,string,,,,,,,,,,,
-time,time,,,,,,,,,,,
-un_state,boolean,,,,,,,,,,,
+17. Extent to which the government invokes new risks and threats as an excuse for curbing civil liberties.",Percent,governance,,,,,,
+democrixch,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Change in democracy index,Annual change of democracy index compared to previouse year,"The annual change of percentage points compared to preivouse year is calculated by taking the Democracy index any year, and subtract the value for the previouse year.",Percent,governance,,,,,,
+global,entity_set,,,,,World,,,,geo,,,,,_none
+domain,string,,,,,Domain,,,,,,,,,_none
+drill_up,string,,,,,Drill up,,,,,,,,,_none
+world_6region,entity_set,,,,,World Regions (6 colors),,,,geo,https://docs.google.com/spreadsheet/pub?key=phT4mwjvEuGBtdf1ZeO7_PQ,"{""palette"": {""east_asia_pacific"": ""#f03838"", ""sub_saharan_africa"": ""#4e7af0"", ""south_asia"": ""#35d1d1"", ""europe_central_asia"": ""#f49d37"", ""middle_east_north_africa"": ""#5be56b"", ""america"": ""#ebcc21""}, ""selectable"": false}",,,categorizations
+income_groups,entity_set,,,,,Income groups,,,,geo,https://docs.google.com/spreadsheet/pub?key=phT4mwjvEuGCSmAe5aq7HKw,"{""palette"": {""upper_middle_income"": ""#a7cb7d"", ""lower_middle_income"": ""#7ea1d1"", ""high_income"": ""#7bc135"", ""low_income"": ""#4366f4""}}",,,categorizations
+landlocked,entity_set,,,,,Landlocked,,,,geo,https://docs.google.com/spreadsheet/pub?key=rBwKBodk7Y08pGiA4OAfzUA,"{""palette"": {""landlocked"": ""#f05656"", ""coastline"": ""#7487ef""}}",,,categorizations
+g77_and_oecd_countries,entity_set,,,,,G77 and OECD countries,,,,geo,https://docs.google.com/spreadsheet/pub?key=tVI_UCwI1enCk4p61fWxUig,"{""palette"": {""others"": ""#f05656"", ""oecd"": ""#71c44c"", ""g77"": ""#7487ef""}}",,,categorizations
+main_religion_2008,entity_set,,,,,Main religion 2008,,,,geo,https://docs.google.com/spreadsheet/pub?key=0ArtujvvFrPjVdHUzTGVicFJZQ1NjaFhqelV5SDNxMVE,"{""palette"": {""muslim"": ""#71c44c"", ""christian"": ""#7487ef"", ""eastern_religions"": ""#f05656""}, ""selectable"": false}",,,categorizations
+geo,entity_domain,,,,,Geographic location,,,,,https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--country.csv,,,,_none
+country,entity_set,,,,,Country,,,,geo,https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--country.csv,,,"[""world_6region"", ""income_groups"", ""landlocked"", ""g77_and_oecd_countries"", ""main_religion_2008"", ""world_4region""]",categorizations
+un_state,boolean,,,,,UN member states and permanent observers,,,,,https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--un_state.csv,,,,_none
+name_long,string,,,,,Name Long,,,,,,,,,_none
+world_4region,entity_set,,,,,World Regions,,,,geo,https://docs.google.com/spreadsheet/pub?key=0ArfEDsV3bBwCdHlocWJBM1Uyd1ZPeHduU3c4WGplMEE,"{""shades"": {""fill3"": 2, ""print_stroke"": 5, ""print_fill"": 4, ""fill2"": 1, ""shade"": 3, ""fill1"": 0}, ""palette"": {""americas"": [""#7feb00"", ""#5de200"", ""#81f201"", ""#00b900"", ""#b5ea32"", ""#008d36""], ""europe"": [""#ffe700"", ""#fbdd00"", ""#fff400"", ""#fbaf09"", ""#ffe700"", ""#b17f4a""], ""africa"": [""#00d5e9"", ""#00c8ec"", ""#00e1ec"", ""#0098df"", ""#77dff7"", ""#0586c6""], ""asia"": [""#ff5872"", ""#ff5178"", ""#ff658a"", ""#da0025"", ""#fa4e73"", ""#b2043a""], ""_default"": [""#ffb600"", ""#ffaa14"", ""#ffc500"", ""#fb6d19"", ""#ffb600"", ""#9b4838""]}, ""selectable"": false}",,,categorizations
+latitude,measure,,,,,Latitude,,degrees,,,https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--country.csv,,"[""linear""]",,_none
+longitude,measure,,,,,Longitude,,degrees,,,https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--country.csv,,"[""linear""]",,_none
+gapminder_list,string,,,,,Gapminder list,,,,,,,,,_none
+alternative_1,string,,,,,Alternative 1,,,,,,,,,_none
+alternative_2,string,,,,,Alternative 2,,,,,,,,,_none
+alternative_3,string,,,,,Alternative 3,,,,,,,,,_none
+alternative_4_cdiac,string,,,,,Alternative 4 (CDIAC),,,,,,,,,_none
+pandg,string,,,,,pandg,,,,,,,,,_none
+god_id,string,,,,,GOD_ID,,,,,,,,,_none
+alt_5,string,,,,,ALT 5,,,,,,,,,_none
+upper_case_name,string,,,,,Upper Case Name,,,,,,,,,_none
+iso3166_1_alpha2,string,,,,,ISO 3166-1 alpha-2,,,,,http://www.iso.org/iso/home/standards/country_codes.htm,,,,_none
+iso3166_1_alpha3,string,,,,,ISO 3166-1 alpha-3,,,,,http://www.iso.org/iso/home/standards/country_codes.htm,,,,_none
+iso3166_1_numeric,string,,,,,ISO 3166-1 numeric,,,,,http://www.iso.org/iso/home/standards/country_codes.htm,,,,_none
+iso3166_2,string,,,,,ISO 3166-2,,,,,https://en.wikipedia.org/wiki/ISO_3166-2,,,,_none
+unicode_region_subtag,string,,,,,Unicode CLDR Region subtag,,,,,http://www.unicode.org/reports/tr35/#unicode_region_subtag_validity,,,,
+gwid,string,,,,,Gwid,,,,,,,,,_none
+arb1,string,,,,,arb1,,,,,,,,,_none
+arb2,string,,,,,arb2,,,,,,,,,_none
+arb3,string,,,,,arb3,,,,,,,,,_none
+arb4,string,,,,,arb4,,,,,,,,,_none
+arb5,string,,,,,arb5,,,,,,,,,_none
+arb6,string,,,,,arb6,,,,,,,,,_none
+color,string,,,,,Color,,,,,,,,,_none
+shape_lores_svg,string,,,,,Shapes,,,,,,,,,_none
+rank,measure,,,,,Ranking order,,,,,,,,,_none
+time,time,,,,,Time,,,,,,,,,
+version,string,,,,,Version,,,,,,,,,
+updated,string,,,,,Updated,,,,,,,,,
+topic,string,,,,,Topic,,,,,,,,,
+unit,string,,,,,Unit,,,,,,,,,
+name,string,,,,,Name,,,,,,,,,_none
+name_short,string,,,,,Short Name,,,,,,,,,_none
+tags,string,,,,,Tags,,,,,,,,,_none
+indicator_url,string,,,,,Indicator URL,,,,,,,,,_none
+description,string,,,,,Description,,,,,,,,,_none
+source_url,string,,,,,Source URL,,,,,,,,,_none
+scales,string,,,,,Scales,,,,,,,,,_none

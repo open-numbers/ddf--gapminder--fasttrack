@@ -3,7 +3,7 @@
     "language": {
         "id": "en"
     },
-    "created": "2018-10-16T02:35:18.813178+00:00",
+    "created": "2018-10-16T07:12:17.224507+00:00",
     "resources": [
         {
             "path": "ddf--concepts.csv",
@@ -20,6 +20,12 @@
                         "name": "source_url"
                     },
                     {
+                        "name": "version"
+                    },
+                    {
+                        "name": "updated"
+                    },
+                    {
                         "name": "name_short"
                     },
                     {
@@ -30,6 +36,9 @@
                     },
                     {
                         "name": "unit"
+                    },
+                    {
+                        "name": "topic"
                     },
                     {
                         "name": "domain"
@@ -819,7 +828,34 @@
                 "primaryKey": [
                     "concept"
                 ],
+                "value": "topic",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
                 "value": "unit",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "updated",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "version",
                 "resources": [
                     "ddf--concepts"
                 ]
