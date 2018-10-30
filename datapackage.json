@@ -1,1994 +1,2334 @@
 {
-    "name": "ddf--gapminder--test_fasttrack",
-    "language": {
-        "id": "en"
+  "name": "ddf--gapminder--test_fasttrack",
+  "title": "ddf--gapminder--test_fasttrack",
+  "description": "",
+  "version": "0.0.1",
+  "language": {
+    "id": "en",
+    "name": "English"
+  },
+  "translations": [],
+  "license": "",
+  "author": "",
+  "resources": [
+    {
+      "path": "ddf--concepts.csv",
+      "name": "ddf--concepts",
+      "schema": {
+        "fields": [
+          {
+            "name": "concept"
+          },
+          {
+            "name": "concept_type"
+          },
+          {
+            "name": "source_url"
+          },
+          {
+            "name": "version"
+          },
+          {
+            "name": "updated"
+          },
+          {
+            "name": "name_short"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "description"
+          },
+          {
+            "name": "unit"
+          },
+          {
+            "name": "topic"
+          },
+          {
+            "name": "domain"
+          },
+          {
+            "name": "indicator_url"
+          },
+          {
+            "name": "color"
+          },
+          {
+            "name": "scales"
+          },
+          {
+            "name": "drill_up"
+          },
+          {
+            "name": "tags"
+          }
+        ],
+        "primaryKey": "concept"
+      }
     },
-    "created": "2018-10-16T07:12:17.224507+00:00",
-    "resources": [
-        {
-            "path": "ddf--concepts.csv",
-            "name": "ddf--concepts",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "concept"
-                    },
-                    {
-                        "name": "concept_type"
-                    },
-                    {
-                        "name": "source_url"
-                    },
-                    {
-                        "name": "version"
-                    },
-                    {
-                        "name": "updated"
-                    },
-                    {
-                        "name": "name_short"
-                    },
-                    {
-                        "name": "name"
-                    },
-                    {
-                        "name": "description"
-                    },
-                    {
-                        "name": "unit"
-                    },
-                    {
-                        "name": "topic"
-                    },
-                    {
-                        "name": "domain"
-                    },
-                    {
-                        "name": "indicator_url"
-                    },
-                    {
-                        "name": "color"
-                    },
-                    {
-                        "name": "scales"
-                    },
-                    {
-                        "name": "drill_up"
-                    },
-                    {
-                        "name": "tags"
-                    }
-                ],
-                "primaryKey": "concept"
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrix--by--country--time.csv",
-            "name": "ddf--datapoints--democrix--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrix"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrix--by--global--time.csv",
-            "name": "ddf--datapoints--democrix--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrix"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrix--by--world_4region--time.csv",
-            "name": "ddf--datapoints--democrix--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrix"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixch--by--country--time.csv",
-            "name": "ddf--datapoints--democrixch--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixch"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixch--by--global--time.csv",
-            "name": "ddf--datapoints--democrixch--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixch"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixch--by--world_4region--time.csv",
-            "name": "ddf--datapoints--democrixch--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixch"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixelect--by--country--time.csv",
-            "name": "ddf--datapoints--democrixelect--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixelect"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixelect--by--global--time.csv",
-            "name": "ddf--datapoints--democrixelect--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixelect"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixelect--by--world_4region--time.csv",
-            "name": "ddf--datapoints--democrixelect--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixelect"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixgov--by--country--time.csv",
-            "name": "ddf--datapoints--democrixgov--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixgov"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixgov--by--global--time.csv",
-            "name": "ddf--datapoints--democrixgov--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixgov"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixgov--by--world_4region--time.csv",
-            "name": "ddf--datapoints--democrixgov--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixgov"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixlib--by--country--time.csv",
-            "name": "ddf--datapoints--democrixlib--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixlib"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixlib--by--global--time.csv",
-            "name": "ddf--datapoints--democrixlib--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixlib"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixlib--by--world_4region--time.csv",
-            "name": "ddf--datapoints--democrixlib--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixlib"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixpolcult--by--country--time.csv",
-            "name": "ddf--datapoints--democrixpolcult--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixpolcult"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixpolcult--by--global--time.csv",
-            "name": "ddf--datapoints--democrixpolcult--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixpolcult"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixpolcult--by--world_4region--time.csv",
-            "name": "ddf--datapoints--democrixpolcult--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixpolcult"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixpolpart--by--country--time.csv",
-            "name": "ddf--datapoints--democrixpolpart--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixpolpart"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixpolpart--by--global--time.csv",
-            "name": "ddf--datapoints--democrixpolpart--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixpolpart"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrixpolpart--by--world_4region--time.csv",
-            "name": "ddf--datapoints--democrixpolpart--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrixpolpart"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrperc--by--global--time.csv",
-            "name": "ddf--datapoints--democrperc--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrperc"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democrpop--by--global--time.csv",
-            "name": "ddf--datapoints--democrpop--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democrpop"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--entities--geo--country.csv",
-            "name": "ddf--entities--geo--country",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "gwid"
-                    },
-                    {
-                        "name": "name"
-                    },
-                    {
-                        "name": "world_6region"
-                    },
-                    {
-                        "name": "income_groups"
-                    },
-                    {
-                        "name": "landlocked"
-                    },
-                    {
-                        "name": "g77_and_oecd_countries"
-                    },
-                    {
-                        "name": "main_religion_2008"
-                    },
-                    {
-                        "name": "gapminder_list"
-                    },
-                    {
-                        "name": "alternative_1"
-                    },
-                    {
-                        "name": "alternative_2"
-                    },
-                    {
-                        "name": "alternative_3"
-                    },
-                    {
-                        "name": "alternative_4_cdiac"
-                    },
-                    {
-                        "name": "pandg"
-                    },
-                    {
-                        "name": "god_id"
-                    },
-                    {
-                        "name": "alt_5"
-                    },
-                    {
-                        "name": "upper_case_name"
-                    },
-                    {
-                        "name": "iso3166_1_alpha2"
-                    },
-                    {
-                        "name": "iso3166_1_alpha3"
-                    },
-                    {
-                        "name": "iso3166_1_numeric"
-                    },
-                    {
-                        "name": "iso3166_2"
-                    },
-                    {
-                        "name": "unicode_region_subtag"
-                    },
-                    {
-                        "name": "arb1"
-                    },
-                    {
-                        "name": "arb2"
-                    },
-                    {
-                        "name": "arb3"
-                    },
-                    {
-                        "name": "arb4"
-                    },
-                    {
-                        "name": "arb5"
-                    },
-                    {
-                        "name": "arb6"
-                    },
-                    {
-                        "name": "is--country"
-                    },
-                    {
-                        "name": "un_state"
-                    },
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "latitude"
-                    },
-                    {
-                        "name": "longitude"
-                    }
-                ],
-                "primaryKey": "country"
-            }
-        },
-        {
-            "path": "ddf--entities--geo--global.csv",
-            "name": "ddf--entities--geo--global",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "is--global"
-                    },
-                    {
-                        "name": "name"
-                    },
-                    {
-                        "name": "unicode_region_subtag"
-                    },
-                    {
-                        "name": "latitude"
-                    },
-                    {
-                        "name": "longitude"
-                    }
-                ],
-                "primaryKey": "geo"
-            }
-        },
-        {
-            "path": "ddf--entities--geo--world_4region.csv",
-            "name": "ddf--entities--geo--world_4region",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "rank"
-                    },
-                    {
-                        "name": "is--world_4region"
-                    },
-                    {
-                        "name": "name"
-                    },
-                    {
-                        "name": "name_short"
-                    },
-                    {
-                        "name": "name_long"
-                    },
-                    {
-                        "name": "description"
-                    },
-                    {
-                        "name": "latitude"
-                    },
-                    {
-                        "name": "longitude"
-                    },
-                    {
-                        "name": "color"
-                    },
-                    {
-                        "name": "shape_lores_svg"
-                    }
-                ],
-                "primaryKey": "geo"
-            }
-        }
-    ],
-    "ddfSchema": {
-        "concepts": [
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "color",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "concept_type",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "description",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "domain",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "drill_up",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "indicator_url",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "name",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "name_short",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "scales",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "source_url",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "tags",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "topic",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "unit",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "updated",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "version",
-                "resources": [
-                    "ddf--concepts"
-                ]
-            }
+    {
+      "path": "ddf--datapoints--democrix--by--country--time.csv",
+      "name": "democrix--by--country--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "country"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrix"
+          }
         ],
-        "entities": [
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "alt_5",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "alt_5",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "alternative_1",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "alternative_1",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "alternative_2",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "alternative_2",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "alternative_3",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "alternative_3",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "alternative_4_cdiac",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "alternative_4_cdiac",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "arb1",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "arb1",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "arb2",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "arb2",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "arb3",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "arb3",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "arb4",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "arb4",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "arb5",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "arb5",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "arb6",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "arb6",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "color",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "world_4region"
-                ],
-                "value": "color",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "description",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "world_4region"
-                ],
-                "value": "description",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "g77_and_oecd_countries",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "g77_and_oecd_countries",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "gapminder_list",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "gapminder_list",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "god_id",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "god_id",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "gwid",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "gwid",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "income_groups",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "income_groups",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "is--country",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "is--country",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "is--global",
-                "resources": [
-                    "ddf--entities--geo--global"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global"
-                ],
-                "value": "is--global",
-                "resources": [
-                    "ddf--entities--geo--global"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "is--world_4region",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "world_4region"
-                ],
-                "value": "is--world_4region",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "iso3166_1_alpha2",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "iso3166_1_alpha2",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "iso3166_1_alpha3",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "iso3166_1_alpha3",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "iso3166_1_numeric",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "iso3166_1_numeric",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "iso3166_2",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "iso3166_2",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "landlocked",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "landlocked",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "latitude",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "latitude",
-                "resources": [
-                    "ddf--entities--geo--country",
-                    "ddf--entities--geo--global",
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global"
-                ],
-                "value": "latitude",
-                "resources": [
-                    "ddf--entities--geo--global"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "world_4region"
-                ],
-                "value": "latitude",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "longitude",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "longitude",
-                "resources": [
-                    "ddf--entities--geo--country",
-                    "ddf--entities--geo--global",
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global"
-                ],
-                "value": "longitude",
-                "resources": [
-                    "ddf--entities--geo--global"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "world_4region"
-                ],
-                "value": "longitude",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "main_religion_2008",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "main_religion_2008",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "name",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "name",
-                "resources": [
-                    "ddf--entities--geo--country",
-                    "ddf--entities--geo--global",
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global"
-                ],
-                "value": "name",
-                "resources": [
-                    "ddf--entities--geo--global"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "world_4region"
-                ],
-                "value": "name",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "name_long",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "world_4region"
-                ],
-                "value": "name_long",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "name_short",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "world_4region"
-                ],
-                "value": "name_short",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "pandg",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "pandg",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "rank",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "world_4region"
-                ],
-                "value": "rank",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "shape_lores_svg",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "world_4region"
-                ],
-                "value": "shape_lores_svg",
-                "resources": [
-                    "ddf--entities--geo--world_4region"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "un_state",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "un_state",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "unicode_region_subtag",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "unicode_region_subtag",
-                "resources": [
-                    "ddf--entities--geo--country",
-                    "ddf--entities--geo--global"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global"
-                ],
-                "value": "unicode_region_subtag",
-                "resources": [
-                    "ddf--entities--geo--global"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "upper_case_name",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "upper_case_name",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "world_4region",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "world_4region",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country"
-                ],
-                "value": "world_6region",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo"
-                ],
-                "value": "world_6region",
-                "resources": [
-                    "ddf--entities--geo--country"
-                ]
-            }
+        "primaryKey": [
+          "country",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrix--by--global--time.csv",
+      "name": "democrix--by--global--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "global"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrix"
+          }
         ],
-        "datapoints": [
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "democrix",
-                "resources": [
-                    "ddf--datapoints--democrix--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "democrix",
-                "resources": [
-                    "ddf--datapoints--democrix--by--country--time",
-                    "ddf--datapoints--democrix--by--global--time",
-                    "ddf--datapoints--democrix--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "democrix",
-                "resources": [
-                    "ddf--datapoints--democrix--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "democrix",
-                "resources": [
-                    "ddf--datapoints--democrix--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "democrixch",
-                "resources": [
-                    "ddf--datapoints--democrixch--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "democrixch",
-                "resources": [
-                    "ddf--datapoints--democrixch--by--country--time",
-                    "ddf--datapoints--democrixch--by--global--time",
-                    "ddf--datapoints--democrixch--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "democrixch",
-                "resources": [
-                    "ddf--datapoints--democrixch--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "democrixch",
-                "resources": [
-                    "ddf--datapoints--democrixch--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "democrixelect",
-                "resources": [
-                    "ddf--datapoints--democrixelect--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "democrixelect",
-                "resources": [
-                    "ddf--datapoints--democrixelect--by--country--time",
-                    "ddf--datapoints--democrixelect--by--global--time",
-                    "ddf--datapoints--democrixelect--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "democrixelect",
-                "resources": [
-                    "ddf--datapoints--democrixelect--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "democrixelect",
-                "resources": [
-                    "ddf--datapoints--democrixelect--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "democrixgov",
-                "resources": [
-                    "ddf--datapoints--democrixgov--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "democrixgov",
-                "resources": [
-                    "ddf--datapoints--democrixgov--by--country--time",
-                    "ddf--datapoints--democrixgov--by--global--time",
-                    "ddf--datapoints--democrixgov--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "democrixgov",
-                "resources": [
-                    "ddf--datapoints--democrixgov--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "democrixgov",
-                "resources": [
-                    "ddf--datapoints--democrixgov--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "democrixlib",
-                "resources": [
-                    "ddf--datapoints--democrixlib--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "democrixlib",
-                "resources": [
-                    "ddf--datapoints--democrixlib--by--country--time",
-                    "ddf--datapoints--democrixlib--by--global--time",
-                    "ddf--datapoints--democrixlib--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "democrixlib",
-                "resources": [
-                    "ddf--datapoints--democrixlib--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "democrixlib",
-                "resources": [
-                    "ddf--datapoints--democrixlib--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "democrixpolcult",
-                "resources": [
-                    "ddf--datapoints--democrixpolcult--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "democrixpolcult",
-                "resources": [
-                    "ddf--datapoints--democrixpolcult--by--country--time",
-                    "ddf--datapoints--democrixpolcult--by--global--time",
-                    "ddf--datapoints--democrixpolcult--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "democrixpolcult",
-                "resources": [
-                    "ddf--datapoints--democrixpolcult--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "democrixpolcult",
-                "resources": [
-                    "ddf--datapoints--democrixpolcult--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "democrixpolpart",
-                "resources": [
-                    "ddf--datapoints--democrixpolpart--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "democrixpolpart",
-                "resources": [
-                    "ddf--datapoints--democrixpolpart--by--country--time",
-                    "ddf--datapoints--democrixpolpart--by--global--time",
-                    "ddf--datapoints--democrixpolpart--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "democrixpolpart",
-                "resources": [
-                    "ddf--datapoints--democrixpolpart--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "democrixpolpart",
-                "resources": [
-                    "ddf--datapoints--democrixpolpart--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "democrperc",
-                "resources": [
-                    "ddf--datapoints--democrperc--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "democrperc",
-                "resources": [
-                    "ddf--datapoints--democrperc--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "democrpop",
-                "resources": [
-                    "ddf--datapoints--democrpop--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "democrpop",
-                "resources": [
-                    "ddf--datapoints--democrpop--by--global--time"
-                ]
-            }
+        "primaryKey": [
+          "global",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrix--by--world_4region--time.csv",
+      "name": "democrix--by--world_4region--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "world_4region"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrix"
+          }
         ],
-        "synonyms": []
+        "primaryKey": [
+          "world_4region",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixch--by--country--time.csv",
+      "name": "democrixch--by--country--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "country"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixch"
+          }
+        ],
+        "primaryKey": [
+          "country",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixch--by--global--time.csv",
+      "name": "democrixch--by--global--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "global"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixch"
+          }
+        ],
+        "primaryKey": [
+          "global",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixch--by--world_4region--time.csv",
+      "name": "democrixch--by--world_4region--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "world_4region"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixch"
+          }
+        ],
+        "primaryKey": [
+          "world_4region",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixelect--by--country--time.csv",
+      "name": "democrixelect--by--country--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "country"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixelect"
+          }
+        ],
+        "primaryKey": [
+          "country",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixelect--by--global--time.csv",
+      "name": "democrixelect--by--global--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "global"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixelect"
+          }
+        ],
+        "primaryKey": [
+          "global",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixelect--by--world_4region--time.csv",
+      "name": "democrixelect--by--world_4region--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "world_4region"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixelect"
+          }
+        ],
+        "primaryKey": [
+          "world_4region",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixgov--by--country--time.csv",
+      "name": "democrixgov--by--country--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "country"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixgov"
+          }
+        ],
+        "primaryKey": [
+          "country",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixgov--by--global--time.csv",
+      "name": "democrixgov--by--global--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "global"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixgov"
+          }
+        ],
+        "primaryKey": [
+          "global",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixgov--by--world_4region--time.csv",
+      "name": "democrixgov--by--world_4region--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "world_4region"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixgov"
+          }
+        ],
+        "primaryKey": [
+          "world_4region",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixlib--by--country--time.csv",
+      "name": "democrixlib--by--country--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "country"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixlib"
+          }
+        ],
+        "primaryKey": [
+          "country",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixlib--by--global--time.csv",
+      "name": "democrixlib--by--global--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "global"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixlib"
+          }
+        ],
+        "primaryKey": [
+          "global",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixlib--by--world_4region--time.csv",
+      "name": "democrixlib--by--world_4region--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "world_4region"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixlib"
+          }
+        ],
+        "primaryKey": [
+          "world_4region",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixpolcult--by--country--time.csv",
+      "name": "democrixpolcult--by--country--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "country"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixpolcult"
+          }
+        ],
+        "primaryKey": [
+          "country",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixpolcult--by--global--time.csv",
+      "name": "democrixpolcult--by--global--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "global"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixpolcult"
+          }
+        ],
+        "primaryKey": [
+          "global",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixpolcult--by--world_4region--time.csv",
+      "name": "democrixpolcult--by--world_4region--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "world_4region"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixpolcult"
+          }
+        ],
+        "primaryKey": [
+          "world_4region",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixpolpart--by--country--time.csv",
+      "name": "democrixpolpart--by--country--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "country"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixpolpart"
+          }
+        ],
+        "primaryKey": [
+          "country",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixpolpart--by--global--time.csv",
+      "name": "democrixpolpart--by--global--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "global"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixpolpart"
+          }
+        ],
+        "primaryKey": [
+          "global",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrixpolpart--by--world_4region--time.csv",
+      "name": "democrixpolpart--by--world_4region--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "world_4region"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrixpolpart"
+          }
+        ],
+        "primaryKey": [
+          "world_4region",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrperc--by--global--time.csv",
+      "name": "democrperc--by--global--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "global"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrperc"
+          }
+        ],
+        "primaryKey": [
+          "global",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--datapoints--democrpop--by--global--time.csv",
+      "name": "democrpop--by--global--time",
+      "schema": {
+        "fields": [
+          {
+            "name": "global"
+          },
+          {
+            "name": "time"
+          },
+          {
+            "name": "democrpop"
+          }
+        ],
+        "primaryKey": [
+          "global",
+          "time"
+        ]
+      }
+    },
+    {
+      "path": "ddf--entities--geo--country.csv",
+      "name": "geo--country",
+      "schema": {
+        "fields": [
+          {
+            "name": "country"
+          },
+          {
+            "name": "gwid"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "world_6region"
+          },
+          {
+            "name": "income_groups"
+          },
+          {
+            "name": "landlocked"
+          },
+          {
+            "name": "g77_and_oecd_countries"
+          },
+          {
+            "name": "main_religion_2008"
+          },
+          {
+            "name": "gapminder_list"
+          },
+          {
+            "name": "alternative_1"
+          },
+          {
+            "name": "alternative_2"
+          },
+          {
+            "name": "alternative_3"
+          },
+          {
+            "name": "alternative_4_cdiac"
+          },
+          {
+            "name": "pandg"
+          },
+          {
+            "name": "god_id"
+          },
+          {
+            "name": "alt_5"
+          },
+          {
+            "name": "upper_case_name"
+          },
+          {
+            "name": "iso3166_1_alpha2"
+          },
+          {
+            "name": "iso3166_1_alpha3"
+          },
+          {
+            "name": "iso3166_1_numeric"
+          },
+          {
+            "name": "iso3166_2"
+          },
+          {
+            "name": "unicode_region_subtag"
+          },
+          {
+            "name": "arb1"
+          },
+          {
+            "name": "arb2"
+          },
+          {
+            "name": "arb3"
+          },
+          {
+            "name": "arb4"
+          },
+          {
+            "name": "arb5"
+          },
+          {
+            "name": "arb6"
+          },
+          {
+            "name": "is--country"
+          },
+          {
+            "name": "un_state"
+          },
+          {
+            "name": "world_4region"
+          },
+          {
+            "name": "latitude"
+          },
+          {
+            "name": "longitude"
+          }
+        ],
+        "primaryKey": "country"
+      }
+    },
+    {
+      "path": "ddf--entities--geo--g77_and_oecd_countries.csv",
+      "name": "geo--g77_and_oecd_countries",
+      "schema": {
+        "fields": [
+          {
+            "name": "g77_and_oecd_countries"
+          },
+          {
+            "name": "is--g77_and_oecd_countries"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "rank"
+          }
+        ],
+        "primaryKey": "g77_and_oecd_countries"
+      }
+    },
+    {
+      "path": "ddf--entities--geo--global.csv",
+      "name": "geo--global",
+      "schema": {
+        "fields": [
+          {
+            "name": "geo"
+          },
+          {
+            "name": "is--global"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "unicode_region_subtag"
+          },
+          {
+            "name": "latitude"
+          },
+          {
+            "name": "longitude"
+          }
+        ],
+        "primaryKey": "geo"
+      }
+    },
+    {
+      "path": "ddf--entities--geo--income_groups.csv",
+      "name": "geo--income_groups",
+      "schema": {
+        "fields": [
+          {
+            "name": "income_groups"
+          },
+          {
+            "name": "is--income_groups"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "rank"
+          }
+        ],
+        "primaryKey": "income_groups"
+      }
+    },
+    {
+      "path": "ddf--entities--geo--landlocked.csv",
+      "name": "geo--landlocked",
+      "schema": {
+        "fields": [
+          {
+            "name": "landlocked"
+          },
+          {
+            "name": "is--landlocked"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "rank"
+          }
+        ],
+        "primaryKey": "landlocked"
+      }
+    },
+    {
+      "path": "ddf--entities--geo--main_religion_2008.csv",
+      "name": "geo--main_religion_2008",
+      "schema": {
+        "fields": [
+          {
+            "name": "main_religion_2008"
+          },
+          {
+            "name": "is--main_religion_2008"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "rank"
+          }
+        ],
+        "primaryKey": "main_religion_2008"
+      }
+    },
+    {
+      "path": "ddf--entities--geo--world_4region.csv",
+      "name": "geo--world_4region",
+      "schema": {
+        "fields": [
+          {
+            "name": "geo"
+          },
+          {
+            "name": "rank"
+          },
+          {
+            "name": "is--world_4region"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "name_short"
+          },
+          {
+            "name": "name_long"
+          },
+          {
+            "name": "description"
+          },
+          {
+            "name": "latitude"
+          },
+          {
+            "name": "longitude"
+          },
+          {
+            "name": "color"
+          },
+          {
+            "name": "shape_lores_svg"
+          }
+        ],
+        "primaryKey": "geo"
+      }
+    },
+    {
+      "path": "ddf--entities--geo--world_6region.csv",
+      "name": "geo--world_6region",
+      "schema": {
+        "fields": [
+          {
+            "name": "world_6region"
+          },
+          {
+            "name": "is--world_6region"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "name_long"
+          },
+          {
+            "name": "name_short"
+          },
+          {
+            "name": "rank"
+          },
+          {
+            "name": "shape_lores_svg"
+          }
+        ],
+        "primaryKey": "world_6region"
+      }
     }
+  ],
+  "ddfSchema": {
+    "datapoints": [
+      {
+        "primaryKey": [
+          "country",
+          "time"
+        ],
+        "value": "democrix",
+        "resources": [
+          "democrix--by--country--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country",
+          "time"
+        ],
+        "value": "democrixch",
+        "resources": [
+          "democrixch--by--country--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country",
+          "time"
+        ],
+        "value": "democrixelect",
+        "resources": [
+          "democrixelect--by--country--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country",
+          "time"
+        ],
+        "value": "democrixgov",
+        "resources": [
+          "democrixgov--by--country--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country",
+          "time"
+        ],
+        "value": "democrixlib",
+        "resources": [
+          "democrixlib--by--country--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country",
+          "time"
+        ],
+        "value": "democrixpolcult",
+        "resources": [
+          "democrixpolcult--by--country--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country",
+          "time"
+        ],
+        "value": "democrixpolpart",
+        "resources": [
+          "democrixpolpart--by--country--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo",
+          "time"
+        ],
+        "value": "democrix",
+        "resources": [
+          "democrix--by--country--time",
+          "democrix--by--global--time",
+          "democrix--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo",
+          "time"
+        ],
+        "value": "democrixch",
+        "resources": [
+          "democrixch--by--country--time",
+          "democrixch--by--global--time",
+          "democrixch--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo",
+          "time"
+        ],
+        "value": "democrixelect",
+        "resources": [
+          "democrixelect--by--country--time",
+          "democrixelect--by--global--time",
+          "democrixelect--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo",
+          "time"
+        ],
+        "value": "democrixgov",
+        "resources": [
+          "democrixgov--by--country--time",
+          "democrixgov--by--global--time",
+          "democrixgov--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo",
+          "time"
+        ],
+        "value": "democrixlib",
+        "resources": [
+          "democrixlib--by--country--time",
+          "democrixlib--by--global--time",
+          "democrixlib--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo",
+          "time"
+        ],
+        "value": "democrixpolcult",
+        "resources": [
+          "democrixpolcult--by--country--time",
+          "democrixpolcult--by--global--time",
+          "democrixpolcult--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo",
+          "time"
+        ],
+        "value": "democrixpolpart",
+        "resources": [
+          "democrixpolpart--by--country--time",
+          "democrixpolpart--by--global--time",
+          "democrixpolpart--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo",
+          "time"
+        ],
+        "value": "democrperc",
+        "resources": [
+          "democrperc--by--global--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo",
+          "time"
+        ],
+        "value": "democrpop",
+        "resources": [
+          "democrpop--by--global--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global",
+          "time"
+        ],
+        "value": "democrix",
+        "resources": [
+          "democrix--by--global--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global",
+          "time"
+        ],
+        "value": "democrixch",
+        "resources": [
+          "democrixch--by--global--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global",
+          "time"
+        ],
+        "value": "democrixelect",
+        "resources": [
+          "democrixelect--by--global--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global",
+          "time"
+        ],
+        "value": "democrixgov",
+        "resources": [
+          "democrixgov--by--global--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global",
+          "time"
+        ],
+        "value": "democrixlib",
+        "resources": [
+          "democrixlib--by--global--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global",
+          "time"
+        ],
+        "value": "democrixpolcult",
+        "resources": [
+          "democrixpolcult--by--global--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global",
+          "time"
+        ],
+        "value": "democrixpolpart",
+        "resources": [
+          "democrixpolpart--by--global--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global",
+          "time"
+        ],
+        "value": "democrperc",
+        "resources": [
+          "democrperc--by--global--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global",
+          "time"
+        ],
+        "value": "democrpop",
+        "resources": [
+          "democrpop--by--global--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "time",
+          "world_4region"
+        ],
+        "value": "democrix",
+        "resources": [
+          "democrix--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "time",
+          "world_4region"
+        ],
+        "value": "democrixch",
+        "resources": [
+          "democrixch--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "time",
+          "world_4region"
+        ],
+        "value": "democrixelect",
+        "resources": [
+          "democrixelect--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "time",
+          "world_4region"
+        ],
+        "value": "democrixgov",
+        "resources": [
+          "democrixgov--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "time",
+          "world_4region"
+        ],
+        "value": "democrixlib",
+        "resources": [
+          "democrixlib--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "time",
+          "world_4region"
+        ],
+        "value": "democrixpolcult",
+        "resources": [
+          "democrixpolcult--by--world_4region--time"
+        ]
+      },
+      {
+        "primaryKey": [
+          "time",
+          "world_4region"
+        ],
+        "value": "democrixpolpart",
+        "resources": [
+          "democrixpolpart--by--world_4region--time"
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "alt_5",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "alternative_1",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "alternative_2",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "alternative_3",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "alternative_4_cdiac",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "arb1",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "arb2",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "arb3",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "arb4",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "arb5",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "arb6",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "g77_and_oecd_countries",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "gapminder_list",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "god_id",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "gwid",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "income_groups",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "is--country",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "iso3166_1_alpha2",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "iso3166_1_alpha3",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "iso3166_1_numeric",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "iso3166_2",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "landlocked",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "latitude",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "longitude",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "main_religion_2008",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "name",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "pandg",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "un_state",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "unicode_region_subtag",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "upper_case_name",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "world_4region",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "country"
+        ],
+        "value": "world_6region",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "g77_and_oecd_countries"
+        ],
+        "value": "is--g77_and_oecd_countries",
+        "resources": [
+          "geo--g77_and_oecd_countries"
+        ]
+      },
+      {
+        "primaryKey": [
+          "g77_and_oecd_countries"
+        ],
+        "value": "name",
+        "resources": [
+          "geo--g77_and_oecd_countries"
+        ]
+      },
+      {
+        "primaryKey": [
+          "g77_and_oecd_countries"
+        ],
+        "value": "rank",
+        "resources": [
+          "geo--g77_and_oecd_countries"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "alt_5",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "alternative_1",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "alternative_2",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "alternative_3",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "alternative_4_cdiac",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "arb1",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "arb2",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "arb3",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "arb4",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "arb5",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "arb6",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "color",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "description",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "g77_and_oecd_countries",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "gapminder_list",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "god_id",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "gwid",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "income_groups",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "is--country",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "is--g77_and_oecd_countries",
+        "resources": [
+          "geo--g77_and_oecd_countries"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "is--global",
+        "resources": [
+          "geo--global"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "is--income_groups",
+        "resources": [
+          "geo--income_groups"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "is--landlocked",
+        "resources": [
+          "geo--landlocked"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "is--main_religion_2008",
+        "resources": [
+          "geo--main_religion_2008"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "is--world_4region",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "is--world_6region",
+        "resources": [
+          "geo--world_6region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "iso3166_1_alpha2",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "iso3166_1_alpha3",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "iso3166_1_numeric",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "iso3166_2",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "landlocked",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "latitude",
+        "resources": [
+          "geo--country",
+          "geo--global",
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "longitude",
+        "resources": [
+          "geo--country",
+          "geo--global",
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "main_religion_2008",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "name",
+        "resources": [
+          "geo--country",
+          "geo--g77_and_oecd_countries",
+          "geo--global",
+          "geo--income_groups",
+          "geo--landlocked",
+          "geo--main_religion_2008",
+          "geo--world_4region",
+          "geo--world_6region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "name_long",
+        "resources": [
+          "geo--world_4region",
+          "geo--world_6region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "name_short",
+        "resources": [
+          "geo--world_4region",
+          "geo--world_6region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "pandg",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "rank",
+        "resources": [
+          "geo--g77_and_oecd_countries",
+          "geo--income_groups",
+          "geo--landlocked",
+          "geo--main_religion_2008",
+          "geo--world_4region",
+          "geo--world_6region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "shape_lores_svg",
+        "resources": [
+          "geo--world_4region",
+          "geo--world_6region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "un_state",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "unicode_region_subtag",
+        "resources": [
+          "geo--country",
+          "geo--global"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "upper_case_name",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "world_4region",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "world_6region",
+        "resources": [
+          "geo--country"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global"
+        ],
+        "value": "is--global",
+        "resources": [
+          "geo--global"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global"
+        ],
+        "value": "latitude",
+        "resources": [
+          "geo--global"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global"
+        ],
+        "value": "longitude",
+        "resources": [
+          "geo--global"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global"
+        ],
+        "value": "name",
+        "resources": [
+          "geo--global"
+        ]
+      },
+      {
+        "primaryKey": [
+          "global"
+        ],
+        "value": "unicode_region_subtag",
+        "resources": [
+          "geo--global"
+        ]
+      },
+      {
+        "primaryKey": [
+          "income_groups"
+        ],
+        "value": "is--income_groups",
+        "resources": [
+          "geo--income_groups"
+        ]
+      },
+      {
+        "primaryKey": [
+          "income_groups"
+        ],
+        "value": "name",
+        "resources": [
+          "geo--income_groups"
+        ]
+      },
+      {
+        "primaryKey": [
+          "income_groups"
+        ],
+        "value": "rank",
+        "resources": [
+          "geo--income_groups"
+        ]
+      },
+      {
+        "primaryKey": [
+          "landlocked"
+        ],
+        "value": "is--landlocked",
+        "resources": [
+          "geo--landlocked"
+        ]
+      },
+      {
+        "primaryKey": [
+          "landlocked"
+        ],
+        "value": "name",
+        "resources": [
+          "geo--landlocked"
+        ]
+      },
+      {
+        "primaryKey": [
+          "landlocked"
+        ],
+        "value": "rank",
+        "resources": [
+          "geo--landlocked"
+        ]
+      },
+      {
+        "primaryKey": [
+          "main_religion_2008"
+        ],
+        "value": "is--main_religion_2008",
+        "resources": [
+          "geo--main_religion_2008"
+        ]
+      },
+      {
+        "primaryKey": [
+          "main_religion_2008"
+        ],
+        "value": "name",
+        "resources": [
+          "geo--main_religion_2008"
+        ]
+      },
+      {
+        "primaryKey": [
+          "main_religion_2008"
+        ],
+        "value": "rank",
+        "resources": [
+          "geo--main_religion_2008"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_4region"
+        ],
+        "value": "color",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_4region"
+        ],
+        "value": "description",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_4region"
+        ],
+        "value": "is--world_4region",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_4region"
+        ],
+        "value": "latitude",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_4region"
+        ],
+        "value": "longitude",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_4region"
+        ],
+        "value": "name",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_4region"
+        ],
+        "value": "name_long",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_4region"
+        ],
+        "value": "name_short",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_4region"
+        ],
+        "value": "rank",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_4region"
+        ],
+        "value": "shape_lores_svg",
+        "resources": [
+          "geo--world_4region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_6region"
+        ],
+        "value": "is--world_6region",
+        "resources": [
+          "geo--world_6region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_6region"
+        ],
+        "value": "name",
+        "resources": [
+          "geo--world_6region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_6region"
+        ],
+        "value": "name_long",
+        "resources": [
+          "geo--world_6region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_6region"
+        ],
+        "value": "name_short",
+        "resources": [
+          "geo--world_6region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_6region"
+        ],
+        "value": "rank",
+        "resources": [
+          "geo--world_6region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "world_6region"
+        ],
+        "value": "shape_lores_svg",
+        "resources": [
+          "geo--world_6region"
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "color",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "concept_type",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "description",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "domain",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "drill_up",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "indicator_url",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "name",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "name_short",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "scales",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "source_url",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "tags",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "topic",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "unit",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "updated",
+        "resources": [
+          "ddf--concepts"
+        ]
+      },
+      {
+        "primaryKey": [
+          "concept"
+        ],
+        "value": "version",
+        "resources": [
+          "ddf--concepts"
+        ]
+      }
+    ],
+    "synonyms": []
+  }
 }
