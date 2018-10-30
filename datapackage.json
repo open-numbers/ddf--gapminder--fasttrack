@@ -841,6 +841,24 @@
         ],
         "primaryKey": "world_6region"
       }
+    },
+    {
+      "path": "ddf--entities--tag.csv",
+      "name": "tag",
+      "schema": {
+        "fields": [
+          {
+            "name": "tag"
+          },
+          {
+            "name": "name"
+          },
+          {
+            "name": "parent"
+          }
+        ],
+        "primaryKey": "tag"
+      }
     }
   ],
   "ddfSchema": {
@@ -2045,6 +2063,24 @@
         "value": "rank",
         "resources": [
           "geo--main_religion_2008"
+        ]
+      },
+      {
+        "primaryKey": [
+          "tag"
+        ],
+        "value": "name",
+        "resources": [
+          "tag"
+        ]
+      },
+      {
+        "primaryKey": [
+          "tag"
+        ],
+        "value": "parent",
+        "resources": [
+          "tag"
         ]
       },
       {
