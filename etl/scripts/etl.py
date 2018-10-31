@@ -10,7 +10,7 @@ from io import BytesIO
 from decimal import Decimal
 from ddf_utils.str import format_float_digits
 
-# TODO: Some of below functions should be moved in ddf_utils.
+# TODO: Some of below functions should be moved into ddf_utils.
 
 # fasttrack doc id
 DOCID = "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo"
@@ -109,11 +109,13 @@ def serve_concepts(concepts, entities_columns):
 
     # first, concepts from google spreadsheet
     cdf1 = concepts.copy()
-    cdf1 = cdf1.rename(columns={'concept_id': 'concept'})
+    cdf1 = cdf1.rename(columns={'concept_id': 'concept', 'topic': 'tags'})
     cdf1 = cdf1.set_index('concept')
 
     # second, entity concepts
-    geo_concepts = ['geo', 'country', 'world_4region', 'global', 'domain', 'drill_up']
+    geo_concepts = ['geo', 'country', 'world_4region', 'global', 'g77_and_oecd_countries',
+                    'income_groups', 'landlocked', 'main_religion_2008', 'world_6region',
+                    'domain', 'drill_up']
     cdf2 = concepts_geo[concepts_geo.concept.isin(geo_concepts)].copy()
     cdf2 = cdf2.set_index('concept')
 
@@ -121,24 +123,28 @@ def serve_concepts(concepts, entities_columns):
     cdf3 = concepts_geo[concepts_geo.concept.isin(entities_columns)].copy()
     cdf3 = cdf3.set_index('concept')
 
-    # concepts that are no in the ontology
-    cdf4 = pd.DataFrame([['time', 'Time', 'time'],
-                         ['version', 'Version', 'string'],
-                         ['updated', 'Updated', 'string'],
-                         ['topic', 'Topic', 'string'],
-                         ['unit', 'Unit', 'string']], columns=['concept', 'name', 'concept_type'])
+    # also check them in ontology
+    cdf4 = concepts_ontology[concepts_ontology.concept.isin(entities_columns)].copy()
     cdf4 = cdf4.set_index('concept')
 
+    # concepts that are no in the ontology
+    cdf5 = pd.DataFrame([['time', 'Time', 'time'],
+                         ['version', 'Version', 'string'],
+                         ['updated', 'Updated', 'string'],
+                         ['unit', 'Unit', 'string']], columns=['concept', 'name', 'concept_type'])
+    cdf5 = cdf5.set_index('concept')
+
+    # import ipdb; ipdb.set_trace()
     # combining above concepts
-    cdf_full = pd.concat([cdf1, cdf2, cdf3, cdf4], sort=False)
+    cdf_full = pd.concat([cdf1, cdf2, cdf3, cdf4, cdf5], sort=False)
 
     # check all columns and see if it's in ontology. Use ontology if possible
-    cdf5 = concepts_ontology[concepts_ontology.concept.isin(cdf_full.columns)]
-    cdf5 = cdf5.set_index('concept')
-    cdf_full = pd.concat([cdf_full, cdf5], sort=False)
+    cdf6 = concepts_ontology[concepts_ontology.concept.isin(cdf_full.columns)]
+    cdf6 = cdf6.set_index('concept')
+    cdf_full = pd.concat([cdf_full, cdf6], sort=False)
 
     # removing duplications
-    cdf_full = cdf_full.reset_index().drop_duplicates(subset=['concept'], keep='last')
+    cdf_full = cdf_full.reset_index().dropna(how='all').drop_duplicates(subset=['concept'], keep='last')
     cdf_full.to_csv('../../ddf--concepts.csv', index=False)
 
 
@@ -147,6 +153,7 @@ def main():
     fo = open_google_spreadsheet(DOCID)
     concepts = pd.read_excel(fo, sheet_name='concepts')
     datapoints = pd.read_excel(fo, sheet_name='datapoints')
+    tags = pd.read_excel(fo, sheet_name='topics')
 
     # construct a dictionary, keys are docids, values are dictionaries which
     # keys are sheet names and values are the csv links for the docid/sheet name pair.
@@ -169,12 +176,19 @@ def main():
 
     # entities
     entities_columns = set()  # mark down the columns, use to create concept table later
-    for e in ['country', 'global', 'world_4region']:
+    for e in ['country', 'global', 'world_4region', 'g77_and_oecd_countries',
+              'income_groups', 'landlocked', 'main_religion_2008', 'world_6region']:
         edf = pd.read_csv(f'../source/ddf--gapminder--geo_entity_domain/ddf--entities--geo--{e}.csv',
                           na_filter=False, dtype=str)
         edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False)
         for c in edf.columns:
             entities_columns.add(c)
+
+    # tags entities
+    tags = tags.rename(columns={'topic_id': 'tag', 'topic_name': 'name', 'parent_topic': 'parent' })
+    tags.to_csv('../../ddf--entities--tag.csv', index=False)
+    for c in tags.columns:
+        entities_columns.add(c)
 
     # concepts
     serve_concepts(concepts, entities_columns)
