@@ -71,6 +71,9 @@ def parse_dimension_pairs(dimensions):
 
 def serve_datapoints(datapoints, concept_map, csv_dict):
 
+    # translate plural form to singal form
+    translate_dict = {'countries': 'country', 'world_4regions': 'world_4region'}
+
     def get_dataframe(docid, sheet_name, dimension_pairs, concept_name, copy=True):
         df = csv_dict[docid][sheet_name]
         columns = [find_column(df, x) for x in dimension_pairs]
@@ -85,6 +88,7 @@ def serve_datapoints(datapoints, concept_map, csv_dict):
         docid, sheet_name = get_docid_sheet(row['csv_link'])
         df = get_dataframe(docid, sheet_name, dimension_pairs, row['concept_name'])
         by = [find_column(df, x) for x in dimension_pairs]
+
         df = df.set_index(by)
         # print(df.columns)
         df = df.rename(columns=concept_map)
@@ -99,6 +103,7 @@ def serve_datapoints(datapoints, concept_map, csv_dict):
                 by_fn.append('time')
             else:
                 by_fn.append(v)
+        by_fn = [translate_dict.get(x, x) for x in by_fn]
         df.index.names = by_fn
         df.dropna().to_csv('../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)))
 
