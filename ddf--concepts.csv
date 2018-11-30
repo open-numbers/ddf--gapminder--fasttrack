@@ -1,7 +1,7 @@
 concept,concept_type,source_url,version,updated,name_short,name,description,unit,tags,domain,indicator_url,color,scales,drill_up
-democrperc,measure,https://docs.google.com/spreadsheets/d/1km9lsO1FxYBRMpG244HGevtLUSR9JLCTqRAYICyPZ8k,v1,2018-09-05,Democracy share,Share of population living in democracies,"The sum of populations in all countries categirized as Democracies according to the Polity IV criteria for, as a share of the total world population.",Percent,governance,,,,,
-democrpop,measure,https://docs.google.com/spreadsheets/d/1km9lsO1FxYBRMpG244HGevtLUSR9JLCTqRAYICyPZ8k,v1,2018-09-05,Democracy population,Number of people living in democracies,"The sum of population of all countries categirized as democracies according to the Polity IV criteria for, as a share of total population.",Number of people,governance,,,,,
-democrix,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Democracy index,Quality of the democracy,"The democracy index is using the data from the Economist Inteligence Unit to express the quality of democracies as a number between 0 and 100. It's based on 60 different aspects of societies that are relevant to democracy universal suffrage for all adults, voter participation, perception of human rights protection and freedom to form organizations and parties.
+democrperc,measure,https://docs.google.com/spreadsheets/d/1km9lsO1FxYBRMpG244HGevtLUSR9JLCTqRAYICyPZ8k,v2,2018-10-18,Democracy as share of people,Share of population living in democracies,"The sum of populations in all countries categirized as Democracies according to the Polity IV criteria for, as a share of the total world population.",Percent,governance,,,,,
+democrpop,measure,https://docs.google.com/spreadsheets/d/1km9lsO1FxYBRMpG244HGevtLUSR9JLCTqRAYICyPZ8k,v2,2018-10-18,Democracy population,Number of people living in democracies,"The sum of population of all countries categirized as democracies according to the Polity IV criteria for, as a share of total population.",Number of people,governance,,,,,
+democrixeiu,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Democracy index (EIU),Democracy index (EIU),"This democracy index is using the data from the Economist Inteligence Unit to express the quality of democracies as a number between 0 and 100. It's based on 60 different aspects of societies that are relevant to democracy universal suffrage for all adults, voter participation, perception of human rights protection and freedom to form organizations and parties.
 The democracy index is calculated from the 60 indicators, divided into five ""sub indexes"", which are:
 1. Electoral pluralism index;
 2. Government index;
@@ -10,8 +10,23 @@ The democracy index is calculated from the 60 indicators, divided into five ""su
 5. Civil liberty index.
 The sub-indexes are based on the sum of scores on roughly 12 indicators per sub-index, converted into a score between 0 and 100.
 (The Economist publishes the index with a scale from 0 to 10, but Gapminder has converted it to 0 to 100 to make it easier to communicate as a percentage.)",Percent,governance,,,,,
-democrixelect,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Electoral pluralism index,Index of the electoral process and pluralism,,Percent,governance,,,,,
-democrixgov,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Government index,Index of the functioning of government,"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+democrixelecteiu,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Electoral pluralism index (EIU),Index of the electoral process and pluralism (EIU),"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+1. Are elections for the national legislature and head of government free?;
+2. Are elections for the national legislature and head of government fair?;
+3. Are municipal elections both free and fair?;
+4. Is there universal suffrage for all adults?;
+5. Can citizens cast their vote free of significant threats to their security from state or non-state
+bodies?;
+6. Do laws provide for broadly equal campaigning opportunities?;
+7. Is the process of financing political parties transparent and generally accepted?;
+8. Following elections, are the constitutional mechanisms for the orderly transfer of power from one
+government to another clear, established and accepted?;
+9. Are citizens free to form political parties that are independent of the government? ;
+10. Do opposition parties have a realistic prospect of achieving government?;
+11. Is potential access to public office open to all citizens?;
+12. Are citizens allowed to form political and civic organisations, free of state interference and
+surveillance?;",Percent,governance,,,,,
+democrixgoveiu,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Government index (EIU),Index of the functioning of government (EIU),"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
 1. Do freely elected representatives determine government policy?;
 2. Is the legislature the supreme political body, with a clear supremacy over other branches of
 government?;
@@ -29,7 +44,7 @@ electorate in between elections?;
 12. Popular perceptions of the extent to which citizens have free choice and control over their lives.;
 13. Public confidence in government.;
 14. Public confidence in political parties.",Percent,governance,,,,,
-democrixpolpart,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Political participation index,Index of the political participation,"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+democrixpolparteiu,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Political participation index (EIU),Index of the political participation (EIU),"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
 1. Voter participation/turn-out for national elections.;
 2. Do ethnic, religious and other minorities have a reasonable degree of autonomy and voice in the
 political process?;
@@ -41,7 +56,7 @@ organisations.;
 7. Adult literacy;
 8. Extent to which adult population shows an interest in and follows politics in the news. ;
 9. The authorities make a serious effort to promote political participation.;""",Percent,governance,,,,,
-democrixpolcult,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Political culture index,Index of the political culture,"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+democrixpolculteiu,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Political culture index (EIU),Index of the political culture (EIU),"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
 1. Is there a sufficient degree of societal consensus and cohesion to underpin a stable, functioning
 democracy?;
 2. Perceptions of leadership; proportion of the population that desires a strong leader who bypasses
@@ -55,7 +70,7 @@ democracies are not good at maintaining public order.;
 that democracy benefits economic performance.;
 7. Degree of popular support for democracy.;
 8. There is a strong tradition of the separation of Church and State.;",Percent,governance,,,,,
-democrixlib,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Civil liberties index,Index of the civil liberties,"""This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+democrixlibeiu,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Civil liberties index (EIU),Index of the civil liberties (EIU),"""This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
 1. Is there a free electronic media?;
 2. Is there a free print media?;
 3. Is there freedom of expression and protest (bar only generally accepted restrictions, such as
@@ -76,7 +91,7 @@ permitted both publicly and privately? Do some religious groups feel intimidated
 15. Popular perceptions on protection of human rights; proportion of the population that think that basic human rights are well-protected.;
 16. There is no significant discrimination on the basis of people’s race, colour or religious beliefs;
 17. Extent to which the government invokes new risks and threats as an excuse for curbing civil liberties.",Percent,governance,,,,,
-democrixch,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Change in democracy index,Annual change of democracy index compared to previouse year,"The annual change of percentage points compared to preivouse year is calculated by taking the Democracy index any year, and subtract the value for the previouse year.",Percent,governance,,,,,
+democrixcheiu,measure,https://docs.google.com/spreadsheets/d/1d0noZrwAWxNBTDSfDgG06_aLGWUz4R6fgDhRaUZbDzE,v1,2018-10-01,Change in democracy index (EIU),Democracy index annual change compared to previouse year (EIU),"The annual change of percentage points compared to preivouse year is calculated by taking the Democracy index any year, and subtract the value for the previouse year.",Percent,governance,,,,,
 global,entity_set,,,,,World,,,_none,geo,,,,
 domain,string,,,,,Domain,,,_none,,,,,
 drill_up,string,,,,,Drill up,,,_none,,,,,
