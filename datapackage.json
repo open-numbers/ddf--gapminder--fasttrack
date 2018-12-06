@@ -5,7 +5,7 @@
         "name": "English"
     },
     "author": "",
-    "created": "2018-12-05T15:38:00.687104+00:00",
+    "created": "2018-12-06T00:29:07.619969+00:00",
     "description": "",
     "license": "",
     "title": "ddf--gapminder--test_fasttrack",
@@ -314,6 +314,27 @@
                 ],
                 "primaryKey": [
                     "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "path": "ddf--datapoints--gini--by--country--time.csv",
+            "name": "ddf--datapoints--gini--by--country--time",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gini"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
                     "time"
                 ]
             }
@@ -2289,6 +2310,26 @@
                 "value": "electoral_pluralism_index_eiu",
                 "resources": [
                     "ddf--datapoints--electoral_pluralism_index_eiu--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gini",
+                "resources": [
+                    "ddf--datapoints--gini--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gini",
+                "resources": [
+                    "ddf--datapoints--gini--by--country--time"
                 ]
             },
             {
