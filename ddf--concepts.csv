@@ -44,6 +44,54 @@ electorate in between elections?;
 12. Popular perceptions of the extent to which citizens have free choice and control over their lives.;
 13. Public confidence in government.;
 14. Public confidence in political parties.",Percent,governance,,,,,
+political_participation_index_eiu,measure,http://gapm.io/ddemocrixeiu,v1,2018-10-01,Political participation index (EIU),Index of the political participation (EIU),"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+1. Voter participation/turn-out for national elections.;
+2. Do ethnic, religious and other minorities have a reasonable degree of autonomy and voice in the
+political process?;
+3. Women in parliament.;
+4. Extent of political participation. Membership of political parties and political non-governmental
+organisations.;
+5. Citizens’ engagement with politics;
+6. The preparedness of population to take part in lawful demonstrations.;
+7. Adult literacy;
+8. Extent to which adult population shows an interest in and follows politics in the news. ;
+9. The authorities make a serious effort to promote political participation.;""",Percent,governance,,,,,
+political_culture_index_eiu,measure,http://gapm.io/ddemocrixeiu,v1,2018-10-01,Political culture index (EIU),Index of the political culture (EIU),"This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+1. Is there a sufficient degree of societal consensus and cohesion to underpin a stable, functioning
+democracy?;
+2. Perceptions of leadership; proportion of the population that desires a strong leader who bypasses
+parliament and elections.;
+3. Perceptions of military rule; proportion of the population that would prefer military rule.;
+4. Perceptions of rule by experts or technocratic government; proportion of the population that
+would prefer rule by experts or technocrats.;
+5. Perception of democracy and public order; proportion of the population that believes that
+democracies are not good at maintaining public order.;
+6. Perception of democracy and the economic system; proportion of the population that believes
+that democracy benefits economic performance.;
+7. Degree of popular support for democracy.;
+8. There is a strong tradition of the separation of Church and State.;",Percent,governance,,,,,
+civil_liberties_index_eiu,measure,http://gapm.io/ddemocrixeiu,v1,2018-10-01,Civil liberties index (EIU),Index of the civil liberties (EIU),"""This is one of five subindexes of the democracy index composed fomr the following indicators estimated by experts in each field:
+1. Is there a free electronic media?;
+2. Is there a free print media?;
+3. Is there freedom of expression and protest (bar only generally accepted restrictions, such as
+banning advocacy of violence)?;
+4. Is media coverage robust? Is there open and free discussion of public issues, with a reasonable diversity of opinions?;
+5. Are there political restrictions on access to the Internet?;
+6. Are citizens free to form professional organisations and trade unions?;
+7. Do institutions provide citizens with the opportunity to petition government to redress grievances?;
+8. The use of torture by the state.;
+9. The degree to which the judiciary is independent of government influence. Consider the views of international legal and judicial watchdogs. Have the courts ever issued an
+important judgement against the government, or a senior government official?;
+10. The degree of religious tolerance and freedom of religious expression. Are all religions permitted to operate freely, or are some restricted? Is the right to worship
+permitted both publicly and privately? Do some religious groups feel intimidated by others, even if the law requires equality and protection?;
+11. The degree to which citizens are treated equally under the law. Consider whether favoured groups or individuals are spared prosecution under the law.;
+12. Do citizens enjoy basic security?;
+13. Extent to which private property rights are protected and private business is free from undue government influence;
+14. Extent to which citizens enjoy personal freedoms. Consider gender equality, right to travel, choice of work and study.;
+15. Popular perceptions on protection of human rights; proportion of the population that think that basic human rights are well-protected.;
+16. There is no significant discrimination on the basis of people’s race, colour or religious beliefs;
+17. Extent to which the government invokes new risks and threats as an excuse for curbing civil liberties.",Percent,governance,,,,,
+change_in_democracy_index_eiu,measure,http://gapm.io/ddemocrixeiu,v1,2018-10-01,Change in democracy index (EIU),Democracy index (EIU) change compared to previouse year,The annual change of percentage points compared to preivouse year is calculated simply by taking the Democracy index form EIU one year and subtract the value for the previouse year. A negative number means the Democracy Index declined.,Percentage points,governance,,,,,
 gini,measure,http://gapm.io/ddgini,v3,2018-12-05,Gini,Gini coefficient,Gini shows income inequality in a society. A higher number means more inequality.,Coefficient,inequality,,,,,
 global,entity_set,,,,,World,,,_none,geo,,,,
 domain,string,,,,,Domain,,,_none,,,,,
