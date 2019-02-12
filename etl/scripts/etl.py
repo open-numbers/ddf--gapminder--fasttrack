@@ -76,12 +76,23 @@ def serve_datapoints(datapoints, concept_map, csv_dict):
 
     def get_dataframe(docid, sheet_name, dimension_pairs, concept_name, copy=True):
         df = csv_dict[docid][sheet_name]
+        # do some cleanups
+        df = df.dropna(axis=0, how='all')
+        df.columns = df.columns.map(lambda x: x.replace('#N/A', '').strip())
+
         columns = [find_column(df, x) for x in dimension_pairs]
         columns.append(concept_name)
-        if copy:
-            return df[columns].copy()
-        else:
-            return df[columns]
+        try:
+            if copy:
+                return df[columns].copy()
+            else:
+                return df[columns]
+        except KeyError:
+            print("column mismatch!\n"
+                  "expected columns: {}\n"
+                  "actual columns: {}".format(columns, list(df.columns)))
+            print("in file {}, sheet {}".format(docid, sheet_name))
+            raise KeyError("Key not found.")
 
     for _, row in datapoints.iterrows():
         dimension_pairs = parse_dimension_pairs(row['dimensions'])
@@ -94,7 +105,11 @@ def serve_datapoints(datapoints, concept_map, csv_dict):
         df = df.rename(columns=concept_map)
         concept = df.columns[0]
         if df[concept].dtype == 'object':
-            df[concept] = df[concept].map(parse_number).map(format_float_digits)
+            try:
+                df[concept] = df[concept].map(parse_number).map(format_float_digits)
+            except AttributeError:
+                print("can't convert the column to numbers. Maybe it contains non-numeric values?")
+                raise
         else:
             df[concept] = df[concept].map(format_float_digits)
         by_fn = list()
