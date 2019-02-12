@@ -5,7 +5,7 @@
         "name": "English"
     },
     "author": "",
-    "created": "2018-12-06T00:29:07.619969+00:00",
+    "created": "2019-02-12T15:13:00.929080+00:00",
     "description": "",
     "license": "",
     "title": "ddf--gapminder--test_fasttrack",
@@ -13,8 +13,8 @@
     "version": "0.0.1",
     "resources": [
         {
-            "path": "ddf--concepts.csv",
             "name": "ddf--concepts",
+            "path": "ddf--concepts.csv",
             "schema": {
                 "fields": [
                     {
@@ -67,260 +67,8 @@
             }
         },
         {
-            "path": "ddf--datapoints--change_in_democracy_index_eiu--by--country--time.csv",
-            "name": "ddf--datapoints--change_in_democracy_index_eiu--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "change_in_democracy_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--change_in_democracy_index_eiu--by--global--time.csv",
-            "name": "ddf--datapoints--change_in_democracy_index_eiu--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "change_in_democracy_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--change_in_democracy_index_eiu--by--world_4region--time.csv",
-            "name": "ddf--datapoints--change_in_democracy_index_eiu--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "change_in_democracy_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--civil_liberties_index_eiu--by--country--time.csv",
-            "name": "ddf--datapoints--civil_liberties_index_eiu--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "civil_liberties_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--civil_liberties_index_eiu--by--global--time.csv",
-            "name": "ddf--datapoints--civil_liberties_index_eiu--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "civil_liberties_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--civil_liberties_index_eiu--by--world_4region--time.csv",
-            "name": "ddf--datapoints--civil_liberties_index_eiu--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "civil_liberties_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democracy_index_eiu--by--country--time.csv",
-            "name": "ddf--datapoints--democracy_index_eiu--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democracy_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democracy_index_eiu--by--global--time.csv",
-            "name": "ddf--datapoints--democracy_index_eiu--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democracy_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--democracy_index_eiu--by--world_4region--time.csv",
-            "name": "ddf--datapoints--democracy_index_eiu--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "democracy_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--electoral_pluralism_index_eiu--by--country--time.csv",
-            "name": "ddf--datapoints--electoral_pluralism_index_eiu--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "electoral_pluralism_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--electoral_pluralism_index_eiu--by--global--time.csv",
-            "name": "ddf--datapoints--electoral_pluralism_index_eiu--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "electoral_pluralism_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--electoral_pluralism_index_eiu--by--world_4region--time.csv",
-            "name": "ddf--datapoints--electoral_pluralism_index_eiu--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "electoral_pluralism_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--gini--by--country--time.csv",
             "name": "ddf--datapoints--gini--by--country--time",
+            "path": "ddf--datapoints--gini--by--country--time.csv",
             "schema": {
                 "fields": [
                     {
@@ -340,239 +88,8 @@
             }
         },
         {
-            "path": "ddf--datapoints--government_index_eiu--by--country--time.csv",
-            "name": "ddf--datapoints--government_index_eiu--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "government_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--government_index_eiu--by--global--time.csv",
-            "name": "ddf--datapoints--government_index_eiu--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "government_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--government_index_eiu--by--world_4region--time.csv",
-            "name": "ddf--datapoints--government_index_eiu--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "government_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--political_culture_index_eiu--by--country--time.csv",
-            "name": "ddf--datapoints--political_culture_index_eiu--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "political_culture_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--political_culture_index_eiu--by--global--time.csv",
-            "name": "ddf--datapoints--political_culture_index_eiu--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "political_culture_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--political_culture_index_eiu--by--world_4region--time.csv",
-            "name": "ddf--datapoints--political_culture_index_eiu--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "political_culture_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--political_participation_index_eiu--by--country--time.csv",
-            "name": "ddf--datapoints--political_participation_index_eiu--by--country--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "political_participation_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--political_participation_index_eiu--by--global--time.csv",
-            "name": "ddf--datapoints--political_participation_index_eiu--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "political_participation_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--political_participation_index_eiu--by--world_4region--time.csv",
-            "name": "ddf--datapoints--political_participation_index_eiu--by--world_4region--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "world_4region"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "political_participation_index_eiu"
-                    }
-                ],
-                "primaryKey": [
-                    "world_4region",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--pop_in_democracy--by--global--time.csv",
-            "name": "ddf--datapoints--pop_in_democracy--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "pop_in_democracy"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--datapoints--share_pop_in_democracy--by--global--time.csv",
-            "name": "ddf--datapoints--share_pop_in_democracy--by--global--time",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "share_pop_in_democracy"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "path": "ddf--entities--geo--country.csv",
             "name": "ddf--entities--geo--country",
+            "path": "ddf--entities--geo--country.csv",
             "schema": {
                 "fields": [
                     {
@@ -679,8 +196,8 @@
             }
         },
         {
-            "path": "ddf--entities--geo--g77_and_oecd_countries.csv",
             "name": "ddf--entities--geo--g77_and_oecd_countries",
+            "path": "ddf--entities--geo--g77_and_oecd_countries.csv",
             "schema": {
                 "fields": [
                     {
@@ -703,8 +220,8 @@
             }
         },
         {
-            "path": "ddf--entities--geo--global.csv",
             "name": "ddf--entities--geo--global",
+            "path": "ddf--entities--geo--global.csv",
             "schema": {
                 "fields": [
                     {
@@ -730,8 +247,8 @@
             }
         },
         {
-            "path": "ddf--entities--geo--income_groups.csv",
             "name": "ddf--entities--geo--income_groups",
+            "path": "ddf--entities--geo--income_groups.csv",
             "schema": {
                 "fields": [
                     {
@@ -754,8 +271,8 @@
             }
         },
         {
-            "path": "ddf--entities--geo--landlocked.csv",
             "name": "ddf--entities--geo--landlocked",
+            "path": "ddf--entities--geo--landlocked.csv",
             "schema": {
                 "fields": [
                     {
@@ -778,8 +295,8 @@
             }
         },
         {
-            "path": "ddf--entities--geo--main_religion_2008.csv",
             "name": "ddf--entities--geo--main_religion_2008",
+            "path": "ddf--entities--geo--main_religion_2008.csv",
             "schema": {
                 "fields": [
                     {
@@ -802,8 +319,8 @@
             }
         },
         {
-            "path": "ddf--entities--geo--world_4region.csv",
             "name": "ddf--entities--geo--world_4region",
+            "path": "ddf--entities--geo--world_4region.csv",
             "schema": {
                 "fields": [
                     {
@@ -844,8 +361,8 @@
             }
         },
         {
-            "path": "ddf--entities--geo--world_6region.csv",
             "name": "ddf--entities--geo--world_6region",
+            "path": "ddf--entities--geo--world_6region.csv",
             "schema": {
                 "fields": [
                     {
@@ -886,8 +403,8 @@
             }
         },
         {
-            "path": "ddf--entities--tag.csv",
             "name": "ddf--entities--tag",
+            "path": "ddf--entities--tag.csv",
             "schema": {
                 "fields": [
                     {
@@ -2149,174 +1666,6 @@
                     "country",
                     "time"
                 ],
-                "value": "change_in_democracy_index_eiu",
-                "resources": [
-                    "ddf--datapoints--change_in_democracy_index_eiu--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "change_in_democracy_index_eiu",
-                "resources": [
-                    "ddf--datapoints--change_in_democracy_index_eiu--by--country--time",
-                    "ddf--datapoints--change_in_democracy_index_eiu--by--global--time",
-                    "ddf--datapoints--change_in_democracy_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "change_in_democracy_index_eiu",
-                "resources": [
-                    "ddf--datapoints--change_in_democracy_index_eiu--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "change_in_democracy_index_eiu",
-                "resources": [
-                    "ddf--datapoints--change_in_democracy_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "civil_liberties_index_eiu",
-                "resources": [
-                    "ddf--datapoints--civil_liberties_index_eiu--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "civil_liberties_index_eiu",
-                "resources": [
-                    "ddf--datapoints--civil_liberties_index_eiu--by--country--time",
-                    "ddf--datapoints--civil_liberties_index_eiu--by--global--time",
-                    "ddf--datapoints--civil_liberties_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "civil_liberties_index_eiu",
-                "resources": [
-                    "ddf--datapoints--civil_liberties_index_eiu--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "civil_liberties_index_eiu",
-                "resources": [
-                    "ddf--datapoints--civil_liberties_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "democracy_index_eiu",
-                "resources": [
-                    "ddf--datapoints--democracy_index_eiu--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "democracy_index_eiu",
-                "resources": [
-                    "ddf--datapoints--democracy_index_eiu--by--country--time",
-                    "ddf--datapoints--democracy_index_eiu--by--global--time",
-                    "ddf--datapoints--democracy_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "democracy_index_eiu",
-                "resources": [
-                    "ddf--datapoints--democracy_index_eiu--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "democracy_index_eiu",
-                "resources": [
-                    "ddf--datapoints--democracy_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "electoral_pluralism_index_eiu",
-                "resources": [
-                    "ddf--datapoints--electoral_pluralism_index_eiu--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "electoral_pluralism_index_eiu",
-                "resources": [
-                    "ddf--datapoints--electoral_pluralism_index_eiu--by--country--time",
-                    "ddf--datapoints--electoral_pluralism_index_eiu--by--global--time",
-                    "ddf--datapoints--electoral_pluralism_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "electoral_pluralism_index_eiu",
-                "resources": [
-                    "ddf--datapoints--electoral_pluralism_index_eiu--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "electoral_pluralism_index_eiu",
-                "resources": [
-                    "ddf--datapoints--electoral_pluralism_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
                 "value": "gini",
                 "resources": [
                     "ddf--datapoints--gini--by--country--time"
@@ -2330,172 +1679,6 @@
                 "value": "gini",
                 "resources": [
                     "ddf--datapoints--gini--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "government_index_eiu",
-                "resources": [
-                    "ddf--datapoints--government_index_eiu--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "government_index_eiu",
-                "resources": [
-                    "ddf--datapoints--government_index_eiu--by--country--time",
-                    "ddf--datapoints--government_index_eiu--by--global--time",
-                    "ddf--datapoints--government_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "government_index_eiu",
-                "resources": [
-                    "ddf--datapoints--government_index_eiu--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "government_index_eiu",
-                "resources": [
-                    "ddf--datapoints--government_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "political_culture_index_eiu",
-                "resources": [
-                    "ddf--datapoints--political_culture_index_eiu--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "political_culture_index_eiu",
-                "resources": [
-                    "ddf--datapoints--political_culture_index_eiu--by--country--time",
-                    "ddf--datapoints--political_culture_index_eiu--by--global--time",
-                    "ddf--datapoints--political_culture_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "political_culture_index_eiu",
-                "resources": [
-                    "ddf--datapoints--political_culture_index_eiu--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "political_culture_index_eiu",
-                "resources": [
-                    "ddf--datapoints--political_culture_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "political_participation_index_eiu",
-                "resources": [
-                    "ddf--datapoints--political_participation_index_eiu--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "political_participation_index_eiu",
-                "resources": [
-                    "ddf--datapoints--political_participation_index_eiu--by--country--time",
-                    "ddf--datapoints--political_participation_index_eiu--by--global--time",
-                    "ddf--datapoints--political_participation_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "political_participation_index_eiu",
-                "resources": [
-                    "ddf--datapoints--political_participation_index_eiu--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "political_participation_index_eiu",
-                "resources": [
-                    "ddf--datapoints--political_participation_index_eiu--by--world_4region--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "pop_in_democracy",
-                "resources": [
-                    "ddf--datapoints--pop_in_democracy--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "pop_in_democracy",
-                "resources": [
-                    "ddf--datapoints--pop_in_democracy--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "share_pop_in_democracy",
-                "resources": [
-                    "ddf--datapoints--share_pop_in_democracy--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "share_pop_in_democracy",
-                "resources": [
-                    "ddf--datapoints--share_pop_in_democracy--by--global--time"
                 ]
             }
         ],
