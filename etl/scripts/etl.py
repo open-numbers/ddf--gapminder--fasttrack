@@ -120,7 +120,7 @@ def serve_datapoints(datapoints, concept_map, csv_dict):
                 by_fn.append(v)
         by_fn = [translate_dict.get(x, x) for x in by_fn]
         df.index.names = by_fn
-        df.dropna().to_csv('../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)))
+        df.dropna().to_csv('../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)), encoding='utf8')
 
 
 def serve_concepts(concepts, entities_columns):
@@ -165,7 +165,7 @@ def serve_concepts(concepts, entities_columns):
 
     # removing duplications
     cdf_full = cdf_full.reset_index().dropna(how='all').drop_duplicates(subset=['concept'], keep='last')
-    cdf_full.to_csv('../../ddf--concepts.csv', index=False)
+    cdf_full.to_csv('../../ddf--concepts.csv', index=False, encoding='utf8')
 
 
 def main():
@@ -200,13 +200,13 @@ def main():
               'income_groups', 'landlocked', 'main_religion_2008', 'world_6region']:
         edf = pd.read_csv(f'../source/ddf--gapminder--geo_entity_domain/ddf--entities--geo--{e}.csv',
                           na_filter=False, dtype=str)
-        edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False)
+        edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False, encoding='utf8')
         for c in edf.columns:
             entities_columns.add(c)
 
     # tags entities
     tags = tags.rename(columns={'topic_id': 'tag', 'topic_name': 'name', 'parent_topic': 'parent' })
-    tags.to_csv('../../ddf--entities--tag.csv', index=False)
+    tags.to_csv('../../ddf--entities--tag.csv', index=False, encoding='utf8')
     for c in tags.columns:
         entities_columns.add(c)
 
