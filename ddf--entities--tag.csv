@@ -1,3 +1,7 @@
-tag,name,parent
-inequality,Inequality,economy
-economy,Economy,
+tag,name,parent,usage
+governance,Governance,society,1
+society,Society,,1
+inequality,Inequality,economy,2
+economy,Economy,,2
+media,Media,communication,1
+communication,Communication,,1

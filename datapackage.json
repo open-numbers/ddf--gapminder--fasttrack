@@ -5,7 +5,7 @@
         "name": "English"
     },
     "author": "",
-    "created": "2019-02-17T03:15:57.101441+00:00",
+    "created": "2019-03-05T18:43:56.533684+00:00",
     "description": "",
     "license": "",
     "title": "ddf--gapminder--test_fasttrack",
@@ -79,6 +79,27 @@
                     },
                     {
                         "name": "gini"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--num_of_journalists_killed--by--country--time",
+            "path": "ddf--datapoints--num_of_journalists_killed--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "num_of_journalists_killed"
                     }
                 ],
                 "primaryKey": [
@@ -415,6 +436,9 @@
                     },
                     {
                         "name": "parent"
+                    },
+                    {
+                        "name": "usage"
                     }
                 ],
                 "primaryKey": "tag"
@@ -1625,6 +1649,15 @@
             },
             {
                 "primaryKey": [
+                    "tag"
+                ],
+                "value": "usage",
+                "resources": [
+                    "ddf--entities--tag"
+                ]
+            },
+            {
+                "primaryKey": [
                     "country"
                 ],
                 "value": "world_4region",
@@ -1679,6 +1712,26 @@
                 "value": "gini",
                 "resources": [
                     "ddf--datapoints--gini--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "num_of_journalists_killed",
+                "resources": [
+                    "ddf--datapoints--num_of_journalists_killed--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "num_of_journalists_killed",
+                "resources": [
+                    "ddf--datapoints--num_of_journalists_killed--by--country--time"
                 ]
             }
         ],
