@@ -1,7 +1,6 @@
 concept,concept_type,source_url,version,updated,name_short,name,description,unit,tags,domain,indicator_url,color,scales,drill_up
 gini,measure,http://gapm.io/ddgini,v3,2018-12-05,Gini,Gini coefficient,Gini shows income inequality in a society. A higher number means more inequality.,Coefficient,inequality,,,,,
-num_of_journalists_killed,measure,http://gapm.io/djournalists_silenced,v1,2018-01-23,Number of journalists killed,Number of journalists killed,TO be described,People,media,,,,,
-usage,string,,,,,Usage level,,,,,,,,
+num_of_journalists_killed,measure,http://gapm.io/djournalists_silenced,v1,2018-01-23,Number of journalists killed,Number of journalists killed,To be described,People,media,,,,,
 global,entity_set,,,,,World,,,_none,geo,,,,
 domain,string,,,,,Domain,,,_none,,,,,
 drill_up,string,,,,,Drill up,,,_none,,,,,

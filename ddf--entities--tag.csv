@@ -1,7 +1,7 @@
-tag,name,parent,usage
-governance,Governance,society,1
-society,Society,,1
-inequality,Inequality,economy,2
-economy,Economy,,2
-media,Media,communication,1
-communication,Communication,,1
+tag,name,parent
+governance,Governance,society
+society,Society,
+inequality,Inequality,economy
+economy,Economy,
+media,Media,communication
+communication,Communication,
