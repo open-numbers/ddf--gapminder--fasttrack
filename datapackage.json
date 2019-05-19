@@ -4,11 +4,11 @@
         "id": "en",
         "name": "English"
     },
-    "author": "",
-    "created": "2019-04-21T04:21:30.105366+00:00",
-    "description": "",
-    "license": "",
     "title": "ddf--gapminder--test_fasttrack",
+    "description": "",
+    "author": "",
+    "license": "",
+    "created": "2019-05-19T05:03:37.760649+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
