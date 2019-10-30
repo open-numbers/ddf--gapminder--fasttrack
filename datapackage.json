@@ -8,7 +8,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2019-09-19T15:52:56.290150+00:00",
+    "created": "2019-10-30T11:06:20.974547+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -88,8 +88,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--num_of_journalists_killed--by--country--time",
-            "path": "ddf--datapoints--num_of_journalists_killed--by--country--time.csv",
+            "name": "ddf--datapoints--journakilled--by--country--time",
+            "path": "ddf--datapoints--journakilled--by--country--time.csv",
             "schema": {
                 "fields": [
                     {
@@ -99,7 +99,7 @@
                         "name": "time"
                     },
                     {
-                        "name": "num_of_journalists_killed"
+                        "name": "journakilled"
                     }
                 ],
                 "primaryKey": [
@@ -1707,9 +1707,9 @@
                     "country",
                     "time"
                 ],
-                "value": "num_of_journalists_killed",
+                "value": "journakilled",
                 "resources": [
-                    "ddf--datapoints--num_of_journalists_killed--by--country--time"
+                    "ddf--datapoints--journakilled--by--country--time"
                 ]
             },
             {
@@ -1717,9 +1717,9 @@
                     "geo",
                     "time"
                 ],
-                "value": "num_of_journalists_killed",
+                "value": "journakilled",
                 "resources": [
-                    "ddf--datapoints--num_of_journalists_killed--by--country--time"
+                    "ddf--datapoints--journakilled--by--country--time"
                 ]
             }
         ],
