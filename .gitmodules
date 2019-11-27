@@ -4,3 +4,6 @@
 [submodule "etl/source/ddf--gapminder--geo_entity_domain"]
 	path = etl/source/ddf--gapminder--geo_entity_domain
 	url = https://github.com/open-numbers/ddf--gapminder--geo_entity_domain
+[submodule "etl/source/ddf--open_numbers"]
+	path = etl/source/ddf--open_numbers
+	url = https://github.com/open-numbers/ddf--open_numbers
