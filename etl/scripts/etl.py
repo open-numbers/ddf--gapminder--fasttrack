@@ -124,8 +124,7 @@ def serve_datapoints(datapoints, concept_map, csv_dict):
 
 
 def serve_concepts(concepts, entities_columns):
-    concepts_geo = pd.read_csv('../source/ddf--gapminder--geo_entity_domain/ddf--concepts.csv')
-    concepts_ontology = pd.read_csv('../source/ddf--gapminder--ontology/ddf--concepts--discrete.csv')
+    concepts_ontology = pd.read_csv('../source/ddf--open_numbers/ddf--concepts.csv')
 
     # first, concepts from google spreadsheet
     cdf1 = concepts.copy()
@@ -136,11 +135,11 @@ def serve_concepts(concepts, entities_columns):
     geo_concepts = ['geo', 'country', 'world_4region', 'global', 'g77_and_oecd_countries',
                     'income_groups', 'landlocked', 'main_religion_2008', 'world_6region',
                     'domain', 'drill_up']
-    cdf2 = concepts_geo[concepts_geo.concept.isin(geo_concepts)].copy()
+    cdf2 = concepts_ontology[concepts_ontology.concept.isin(geo_concepts)].copy()
     cdf2 = cdf2.set_index('concept')
 
     # third, concepts in entity columns
-    cdf3 = concepts_geo[concepts_geo.concept.isin(entities_columns)].copy()
+    cdf3 = concepts_ontology[concepts_ontology.concept.isin(entities_columns)].copy()
     cdf3 = cdf3.set_index('concept')
 
     # also check them in ontology
@@ -198,7 +197,7 @@ def main():
     entities_columns = set()  # mark down the columns, use to create concept table later
     for e in ['country', 'global', 'world_4region', 'g77_and_oecd_countries',
               'income_groups', 'landlocked', 'main_religion_2008', 'world_6region']:
-        edf = pd.read_csv(f'../source/ddf--gapminder--geo_entity_domain/ddf--entities--geo--{e}.csv',
+        edf = pd.read_csv(f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv',
                           na_filter=False, dtype=str)
         edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False, encoding='utf8')
         for c in edf.columns:
