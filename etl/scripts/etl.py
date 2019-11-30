@@ -5,6 +5,7 @@ import requests as req
 import pandas as pd
 import numpy as np
 import parse
+import re
 
 from io import BytesIO
 from decimal import Decimal
@@ -13,7 +14,7 @@ from ddf_utils.str import format_float_digits
 # TODO: Some of below functions should be moved into ddf_utils.
 
 # fasttrack doc id
-DOCID = "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo"
+DOCID = "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI" #"1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo"
 
 
 def open_google_spreadsheet(docid):
@@ -72,7 +73,7 @@ def parse_dimension_pairs(dimensions):
 def serve_datapoints(datapoints, concept_map, csv_dict):
 
     # translate plural form to singal form
-    translate_dict = {'countries': 'country', 'world_4regions': 'world_4region'}
+    translate_dict = {'countries': 'country', 'world_4regions': 'world_4region', 'regions': 'world_4region'}
 
     def get_dataframe(docid, sheet_name, dimension_pairs, concept_name, copy=True):
         df = csv_dict[docid][sheet_name]
@@ -107,6 +108,9 @@ def serve_datapoints(datapoints, concept_map, csv_dict):
         if df[concept].dtype == 'object':
             try:
                 df[concept] = df[concept].map(parse_number).map(format_float_digits)
+            except ValueError:
+                #TODO should look at the concept type
+                df[concept] = df[concept].map(lambda v: v.strip())
             except AttributeError:
                 print("can't convert the column to numbers. Maybe it contains non-numeric values?")
                 raise
@@ -124,13 +128,15 @@ def serve_datapoints(datapoints, concept_map, csv_dict):
 
 
 def serve_concepts(concepts, entities_columns):
-    concepts_geo = pd.read_csv('../source/ddf--gapminder--geo_entity_domain/ddf--concepts.csv')
+    concepts_geo = pd.read_csv('../source/ddf--open_numbers/ddf--concepts.csv')
     concepts_ontology = pd.read_csv('../source/ddf--gapminder--ontology/ddf--concepts--discrete.csv')
 
     # first, concepts from google spreadsheet
     cdf1 = concepts.copy()
     cdf1 = cdf1.rename(columns={'concept_id': 'concept', 'topic': 'tags'})
     cdf1 = cdf1.set_index('concept')
+    # trim descriptions
+    # cdf1['description'] = cdf1['description'].map(lambda v: re.sub(r'\s+', ' ', v).strip())
 
     # second, entity concepts
     geo_concepts = ['geo', 'country', 'world_4region', 'global', 'g77_and_oecd_countries',
@@ -198,7 +204,7 @@ def main():
     entities_columns = set()  # mark down the columns, use to create concept table later
     for e in ['country', 'global', 'world_4region', 'g77_and_oecd_countries',
               'income_groups', 'landlocked', 'main_religion_2008', 'world_6region']:
-        edf = pd.read_csv(f'../source/ddf--gapminder--geo_entity_domain/ddf--entities--geo--{e}.csv',
+        edf = pd.read_csv(f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv',
                           na_filter=False, dtype=str)
         edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False, encoding='utf8')
         for c in edf.columns:
