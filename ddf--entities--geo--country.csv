@@ -1,274 +1,274 @@
-country,gwid,name,world_6region,income_groups,landlocked,g77_and_oecd_countries,main_religion_2008,gapminder_list,alternative_1,alternative_2,alternative_3,alternative_4_cdiac,pandg,god_id,alt_5,upper_case_name,iso3166_1_alpha2,iso3166_1_alpha3,iso3166_1_numeric,iso3166_2,unicode_region_subtag,arb1,arb2,arb3,arb4,arb5,arb6,is--country,un_state,world_4region,latitude,longitude
-abkh,i0,Abkhazia,europe_central_asia,,,others,,Abkhazia,,,,,,GE-AB,,,,,,,,,,,,,,TRUE,FALSE,europe,,
-afg,i1,Afghanistan,south_asia,low_income,landlocked,g77,muslim,Afghanistan,Islamic Republic of Afghanistan,,,Afghanistan,AFGHANISTAN,AF,,AFGHANISTAN,AF,AFG,4,,AF,,,,,,,TRUE,TRUE,asia,33.0,66.0
-akr_a_dhe,i2,Akrotiri and Dhekelia,europe_central_asia,,coastline,others,,Akrotiri and Dhekelia,,,,,,Akrotiri_Dhekelia,,,,,,,,,,,,,,TRUE,FALSE,europe,,
-ala,i258,Åland,europe_central_asia,,coastline,others,,Åland,√Öland,,,,,AX,,AALAND ISLANDS,AX,ALA,248,,AX,,,,,,,TRUE,FALSE,europe,60.25,20.0
-alb,i3,Albania,europe_central_asia,upper_middle_income,coastline,others,muslim,Albania,,,,Albania,ALBANIA,AL,,ALBANIA,AL,ALB,8,,AL,,,,,,,TRUE,TRUE,europe,41.0,20.0
-dza,i4,Algeria,middle_east_north_africa,upper_middle_income,coastline,g77,muslim,Algeria,,,,Algeria,ALGERIA,DZ,,ALGERIA,DZ,DZA,12,,DZ,,,,,,,TRUE,TRUE,africa,28.0,3.0
-asm,i5,American Samoa,east_asia_pacific,upper_middle_income,coastline,others,christian,American Samoa,,,,,,AS,,AMERICAN SAMOA,AS,ASM,16,,AS,,,,,,,TRUE,FALSE,asia,-11.056,-171.082
-and,i6,Andorra,europe_central_asia,high_income,landlocked,others,christian,Andorra,,,,,,AD,,ANDORRA,AD,AND,20,,AD,,,,,,,TRUE,TRUE,europe,42.50779,1.52109
-ago,i7,Angola,sub_saharan_africa,upper_middle_income,coastline,g77,christian,Angola,,,,Angola,ANGOLA,AO,,ANGOLA,AO,AGO,24,,AO,,,,,,,TRUE,TRUE,africa,-12.5,18.5
-aia,i8,Anguilla,america,,coastline,others,christian,Anguilla,,,,,,AI,,ANGUILLA,AI,AIA,660,,AI,,,,,,,TRUE,FALSE,americas,18.21667,-63.05
-ata,,Antarctica,,,,,,,,,,,,AQ,,,AQ,ATA,10,,AQ,,,,,,,TRUE,FALSE,europe,-90.0,0.0
-atg,i9,Antigua and Barbuda,america,high_income,coastline,g77,christian,Antigua and Barbuda,,,,Antigua & Barbuda,,AG,,ANTIGUA AND BARBUDA,AG,ATG,28,,AG,,,,,,,TRUE,TRUE,americas,17.05,-61.8
-arg,i10,Argentina,america,upper_middle_income,coastline,g77,christian,Argentina,,,,Argentina,ARGENTINA,AR,,ARGENTINA,AR,ARG,32,,AR,,,,,,,TRUE,TRUE,americas,-34.0,-64.0
-arm,i11,Armenia,europe_central_asia,lower_middle_income,landlocked,others,christian,Armenia,,,,Armenia,ARMENIA,AM,,ARMENIA,AM,ARM,51,,AM,,,,,,,TRUE,TRUE,europe,40.25,45.0
-abw,i12,Aruba,america,high_income,coastline,others,christian,Aruba,,,,Aruba,,AW,,ARUBA,AW,ABW,533,,AW,,,,,,,TRUE,FALSE,americas,12.5,-69.96667
-aus,i13,Australia,east_asia_pacific,high_income,coastline,oecd,christian,Australia,,,,Australia,AUSTRALIA,AU,,AUSTRALIA,AU,AUS,36,,AU,,,,,,,TRUE,TRUE,asia,-25.0,135.0
-aut,i14,Austria,europe_central_asia,high_income,landlocked,oecd,christian,Austria,,,,Austria,AUSTRIA,AT,,AUSTRIA,AT,AUT,40,,AT,,,,,,,TRUE,TRUE,europe,47.33333,13.33333
-aze,i15,Azerbaijan,europe_central_asia,upper_middle_income,landlocked,others,muslim,Azerbaijan,,,,Azerbaijan,AZERBAIJAN,AZ,,AZERBAIJAN,AZ,AZE,31,,AZ,,,,,,,TRUE,TRUE,europe,40.5,47.5
-bhs,i16,Bahamas,america,high_income,coastline,g77,christian,Bahamas,"Bahamas, The",The Bahamas,,Bahamas,,BS,,BAHAMAS,BS,BHS,44,,BS,,,,,,,TRUE,TRUE,americas,25.04082,-77.37122
-bhr,i17,Bahrain,middle_east_north_africa,high_income,coastline,g77,muslim,Bahrain,Bahrein,,,Bahrain,BAHRAIN,BH,,BAHRAIN,BH,BHR,48,,BH,,,,,,,TRUE,TRUE,asia,26.03333,50.55
-bgd,i18,Bangladesh,south_asia,low_income,coastline,g77,muslim,Bangladesh,,,,Bangladesh,,BD,,BANGLADESH,BD,BGD,50,,BD,,,,,,,TRUE,TRUE,asia,24.0,90.0
-brb,i19,Barbados,america,high_income,coastline,g77,christian,Barbados,,,,Barbados,,BB,,BARBADOS,BB,BRB,52,,BB,,,,,,,TRUE,TRUE,americas,13.16667,-59.53333
-blr,i20,Belarus,europe_central_asia,upper_middle_income,landlocked,others,christian,Belarus,,,,Belarus,BELARUS,BY,,BELARUS,BY,BLR,112,,BY,,,,,,,TRUE,TRUE,europe,53.0,28.0
-bel,i21,Belgium,europe_central_asia,high_income,coastline,oecd,christian,Belgium,,,,Belgium,BELGIUM,BE,,BELGIUM,BE,BEL,56,,BE,,,,,,,TRUE,TRUE,europe,50.75,4.5
-blz,i22,Belize,america,upper_middle_income,coastline,g77,christian,Belize,,,,Belize,BELIZE,BZ,,BELIZE,BZ,BLZ,84,,BZ,,,,,,,TRUE,TRUE,americas,17.49952,-88.19756
-ben,i23,Benin,sub_saharan_africa,low_income,coastline,g77,,Benin,,,,Benin,BENIN,BJ,,BENIN,BJ,BEN,204,,BJ,,,,,,,TRUE,TRUE,africa,9.5,2.25
-bmu,i24,Bermuda,america,high_income,coastline,others,christian,Bermuda,,,,Bermuda,,BM,,BERMUDA,BM,BMU,60,,BM,,,,,,,TRUE,FALSE,americas,32.2949,-64.78303
-btn,i25,Bhutan,south_asia,lower_middle_income,landlocked,g77,eastern_religions,Bhutan,,,,Bhutan,,BT,,BHUTAN,BT,BTN,64,,BT,,,,,,,TRUE,TRUE,asia,27.5,90.5
-bol,i26,Bolivia,america,lower_middle_income,landlocked,g77,christian,Bolivia,Bolivia (Plurinational State of),Bolivia Plurinational States of,PLURINATIONAL STATE OF BOLIVIA,Bolivia,BOLIVIA,BO,,BOLIVIA,BO,BOL,68,,BO,,,,,,,TRUE,TRUE,americas,-17.0,-65.0
-bih,i27,Bosnia and Herzegovina,europe_central_asia,upper_middle_income,coastline,g77,,Bosnia and Herzegovina,Bosnia & Herzegovina,Bosnia Herzegovena,Bosnia and H.,Bosnia & Herzegovinia,BOSNIA & HERZEGOVINA,BA,Bosnia,BOSNIA AND HERZEGOWINA,BA,BIH,70,,BA,Bosnia-Herzegovina,,,,,,TRUE,TRUE,europe,44.25,17.83333
-bwa,i28,Botswana,sub_saharan_africa,upper_middle_income,landlocked,g77,christian,Botswana,,,,Botswana,BOTSWANA,BW,,BOTSWANA,BW,BWA,72,,BW,,,,,,,TRUE,TRUE,africa,-22.0,24.0
-bouisl,,Bouvet Island,,,,,,,,,,,,BV,,,BV,BVT,74,,BV,,,,,,,TRUE,FALSE,africa,,
-bra,i29,Brazil,america,upper_middle_income,coastline,g77,christian,Brazil,,,,Brazil,BRAZIL,BR,,BRAZIL,BR,BRA,76,,BR,,,,,,,TRUE,TRUE,americas,-10.0,-55.0
-iot,,British Indian Ocean Territory,,,,,,,,,,,,IO,,,IO,IOT,86,,IO,,,,,,,TRUE,FALSE,asia,-6.0,72.0
-vgb,i30,British Virgin Islands,america,,coastline,others,christian,British Virgin Islands,,,,British Virgin Islands,,VG,,VIRGIN ISLANDS (BRITISH),VG,VGB,92,,VG,,,,,,,TRUE,FALSE,americas,18.5,-64.5
-brn,i31,Brunei,east_asia_pacific,high_income,coastline,g77,muslim,Brunei,Brunei Darussalam,,,Brunei (Darussalam),,BN,,BRUNEI DARUSSALAM,BN,BRN,96,,BN,,,,,,,TRUE,TRUE,asia,4.5,114.66667
-bgr,i32,Bulgaria,europe_central_asia,upper_middle_income,coastline,others,christian,Bulgaria,,,,Bulgaria,BULGARIA,BG,,BULGARIA,BG,BGR,100,,BG,,,,,,,TRUE,TRUE,europe,42.66667,25.25
-bfa,i33,Burkina Faso,sub_saharan_africa,low_income,landlocked,g77,muslim,Burkina Faso,,,,Burkina Faso,BURKINA FASO,BF,,BURKINA FASO,BF,BFA,854,,BF,Burkina_Faso,,,,,,TRUE,TRUE,africa,12.5,-1.66667
-bdi,i34,Burundi,sub_saharan_africa,low_income,landlocked,g77,christian,Burundi,,,,Burundi,BURUNDI,BI,,BURUNDI,BI,BDI,108,,BI,,,,,,,TRUE,TRUE,africa,-3.5,30.0
-khm,i35,Cambodia,east_asia_pacific,low_income,coastline,g77,eastern_religions,Cambodia,,,,Cambodia,,KH,,CAMBODIA,KH,KHM,116,,KH,,,,,,,TRUE,TRUE,asia,13.0,105.0
-cmr,i36,Cameroon,sub_saharan_africa,lower_middle_income,coastline,g77,christian,Cameroon,,,,Republic Of Cameroon,CAMEROON,CM,,CAMEROON,CM,CMR,120,,CM,,,,,,,TRUE,TRUE,africa,6.0,12.5
-can,i37,Canada,america,high_income,coastline,oecd,christian,Canada,,,,Canada,CANADA,CA,,CANADA,CA,CAN,124,,CA,,,,,,,TRUE,TRUE,americas,60.10867,-113.64258
-cpv,i38,Cape Verde,sub_saharan_africa,lower_middle_income,coastline,g77,christian,Cape Verde,Cabo Verde,,,Cape Verde,,CV,,CAPE VERDE,CV,CPV,132,,CV,,,,,,,TRUE,TRUE,africa,16.0,-24.0
-cym,i39,Cayman Islands,america,high_income,coastline,others,christian,Cayman Islands,,,,Cayman Islands,,KY,,CAYMAN ISLANDS,KY,CYM,136,,KY,,,,,,,TRUE,FALSE,americas,19.5,-80.66667
-caf,i40,Central African Republic,sub_saharan_africa,low_income,landlocked,g77,,Central African Rep.,Central AfR,,,Central African Republic,CENTRAL AFRICAN REPUBLIC,CF,,CENTRAL AFRICAN REPUBLIC,CF,CAF,140,,CF,CAR,,,,,,TRUE,TRUE,africa,7.0,21.0
-tcd,i41,Chad,sub_saharan_africa,low_income,landlocked,g77,muslim,Chad,,,,Chad,CHAD,TD,,CHAD,TD,TCD,148,,TD,,,,,,,TRUE,TRUE,africa,15.0,19.0
-chanisl,i42,Channel Islands,europe_central_asia,high_income,coastline,others,christian,Channel Islands,,,,,,Channel_Islands,,,,,,,,,,,,,,TRUE,FALSE,europe,,
-chl,i43,Chile,america,high_income,coastline,g77,christian,Chile,,,,Chile,CHILE,CL,,CHILE,CL,CHL,152,,CL,,,,,,,TRUE,TRUE,americas,-33.45694,-70.64827
-chn,i44,China,east_asia_pacific,upper_middle_income,coastline,g77,eastern_religions,China,China (Mainland),"China, mainland",,China (Mainland),CHINA,CN,,CHINA,CN,CHN,156,,CN,,,,,,,TRUE,TRUE,asia,35.0,105.0
-cxr,i45,Christmas Island,east_asia_pacific,,coastline,others,,Christmas Island,,,,Christmas Island,,CX,,CHRISTMAS ISLAND,CX,CXR,162,,CX,,,,,,,TRUE,FALSE,asia,-10.5,105.66667
-fra_clipperton,,Clipperton,,,,,,,,,,,,CP,,,,,,,CP,,,,,,,TRUE,FALSE,,,
-cck,i46,Cocos Island,east_asia_pacific,,coastline,others,,Cocos Island,,,,,,CC,,COCOS (KEELING) ISLANDS,CC,CCK,166,,CC,,,,,,,TRUE,FALSE,asia,-12.1642,96.87332
-col,i47,Colombia,america,upper_middle_income,coastline,g77,christian,Colombia,,,,Colombia,COLOMBIA,CO,,COLOMBIA,CO,COL,170,,CO,,,,,,,TRUE,TRUE,americas,4.0,-73.25
-com,i48,Comoros,sub_saharan_africa,low_income,coastline,g77,muslim,Comoros,Comores,,,Comoros,,KM,,COMOROS,KM,COM,174,,KM,,,,,,,TRUE,TRUE,africa,-12.23333,44.44553
-cod,i49,"Congo, Dem. Rep.",sub_saharan_africa,low_income,landlocked,g77,christian,Congo_Democratic_Republic,Congo (Democratic Republic of the),Congo Dem Rep,Democratic Republic of Congo,Democratic Republic Of The Congo (Formerly Zaire),"CONGO, DEM REP",CD,Democratic Republic Of The Congo,"CONGO, Democratic Republic of (was Zaire)",CD,COD,180,,CD,Congo DR,"Congo, Democratic Republic of",Democratic Republic of the Congo,Congo - Kinshasa,Congo [DRC],Dem. Rep. Congo,TRUE,TRUE,africa,-2.5,23.5
-cog,i50,"Congo, Rep.",sub_saharan_africa,lower_middle_income,coastline,g77,christian,"Congo, Rep.",Congo (Republic of),Congo Brazzaville,Republic of Congo,Congo,"CONGO, REPUBLIC OF THE",CG,Congo - Brazzaville,"CONGO, Republic of",CG,COG,178,,CG,Cong,Congo_Brazzaville,,,,,TRUE,TRUE,africa,-1.0,15.5
-cok,i51,Cook Is,east_asia_pacific,,coastline,others,christian,Cook Islands,Cook Is,,,Cook Islands,,CK,,COOK ISLANDS,CK,COK,184,,CK,,,,,,,TRUE,FALSE,asia,-21.24842,-159.78516
-cri,i52,Costa Rica,america,upper_middle_income,coastline,g77,christian,Costa Rica,,,,Costa Rica,COSTA RICA,CR,,COSTA RICA,CR,CRI,188,,CR,,,,,,,TRUE,TRUE,americas,10.0,-84.0
-civ,i53,Cote d'Ivoire,sub_saharan_africa,lower_middle_income,coastline,g77,,Cote d'Ivoire,Cote Divoire,Côte d'Ivoire,Côte d'Ivoire,Cote D Ivoire,COTE D'IVOIRE,CI,Ivory Coast,COTE D'IVOIRE,CI,CIV,384,,CI,Côte d'Ivoire,Cote d'Ivoire,Cote_dIvoire,,,,TRUE,TRUE,africa,8.0,-5.5
-hrv,i54,Croatia,europe_central_asia,high_income,coastline,others,christian,Croatia,,,,Croatia,CROATIA,HR,,CROATIA (local name: Hrvatska),HR,HRV,191,,HR,,,,,,,TRUE,TRUE,europe,45.16667,15.5
-cub,i55,Cuba,america,upper_middle_income,coastline,g77,christian,Cuba,,,,Cuba,,CU,,CUBA,CU,CUB,192,,CU,,,,,,,TRUE,TRUE,americas,22.0,-79.5
-nld_curacao,i280,Curaçao,america,high_income,coastline,others,christian,,Curacao,,,,,CW,,CURACAO,CW,CUW,531,,CW,,,,,,,TRUE,FALSE,americas,12.16667,-68.96667
-cyp,i56,Cyprus,europe_central_asia,high_income,coastline,others,christian,Cyprus,,,,Cyprus,CYPRUS,CY,,CYPRUS,CY,CYP,196,,CY,,,,,,,TRUE,TRUE,europe,35.0,33.0
-cze,i57,Czech Republic,europe_central_asia,high_income,landlocked,oecd,christian,Czech Rep.,Czech Republic,Czech Rep,Czechia,Czech Republic,CZECH REPUBLIC,CZ,,CZECH REPUBLIC,CZ,CZE,203,,CZ,,,,,,,TRUE,TRUE,europe,49.75,15.0
-cheslo,i58,Czechoslovakia,europe_central_asia,,landlocked,others,,Czechoslovakia,,,,Czechoslovakia,,Czechoslovakia,,,,,,,,,,,,,,TRUE,FALSE,europe,,
-dnk,i59,Denmark,europe_central_asia,high_income,coastline,oecd,christian,Denmark,,,,Denmark,DENMARK,DK,,DENMARK,DK,DNK,208,,DK,,,,,,,TRUE,TRUE,europe,56.0,10.0
-dji,i60,Djibouti,middle_east_north_africa,lower_middle_income,coastline,g77,muslim,Djibouti,,,,Djibouti,,DJ,,DJIBOUTI,DJ,DJI,262,,DJ,,,,,,,TRUE,TRUE,africa,11.58901,43.14503
-dma,i61,Dominica,america,upper_middle_income,coastline,g77,christian,Dominica,,,,Dominica,,DM,,DOMINICA,DM,DMA,212,,DM,,,,,,,TRUE,TRUE,americas,15.5,-61.33333
-dom,i62,Dominican Republic,america,upper_middle_income,coastline,g77,christian,Dominican Rep.,Dominican Republic,Dom.R.,DominicanRep,Dominican Republic,DOMINICAN REP.,DO,,DOMINICAN REPUBLIC,DO,DOM,214,,DO,Dominican_Republic,,,,,,TRUE,TRUE,americas,19.0,-70.66667
-deu_east,i63,East Germany,europe_central_asia,,coastline,others,,East Germany,,,,East Germany,,East_Germany,,FORMER GERMAN DEMOCRATIC REPUBLIC,,,,,,,,,,,,TRUE,FALSE,europe,,
-ecu,i64,Ecuador,america,upper_middle_income,coastline,g77,christian,Ecuador,,,,Ecuador,ECUADOR,EC,,ECUADOR,EC,ECU,218,,EC,,,,,,,TRUE,TRUE,americas,-1.25,-78.25
-egy,i65,Egypt,middle_east_north_africa,lower_middle_income,coastline,g77,muslim,Egypt,"Egypt, Arab Rep.",,,,EGYPT,EG,,EGYPT,EG,EGY,818,,EG,,,,,,,TRUE,TRUE,africa,27.0,30.0
-slv,i66,El Salvador,america,lower_middle_income,coastline,g77,christian,El Salvador,,,,El Salvador,EL SALVADOR,SV,,EL SALVADOR,SV,SLV,222,,SV,,,,,,,TRUE,TRUE,americas,13.83333,-88.91667
-gnq,i67,Equatorial Guinea,sub_saharan_africa,high_income,coastline,g77,christian,Equatorial Guinea,Equa Guinea,,,Equatorial Guinea,,GQ,,EQUATORIAL GUINEA,GQ,GNQ,226,,GQ,,,,,,,TRUE,TRUE,africa,1.7,10.5
-eri,i68,Eritrea,sub_saharan_africa,low_income,coastline,g77,muslim,Eritrea,,,,Eritrea,ERITREA,ER,,ERITREA,ER,ERI,232,,ER,,,,,,,TRUE,TRUE,africa,15.0,39.0
-eri_a_eth,i69,Eritrea and Ethiopia,sub_saharan_africa,,coastline,others,,Eritrea and Ethiopia,,,,,,Eritrea_Ethiopia,,,,,,,,,,,,,,TRUE,FALSE,africa,,
-est,i70,Estonia,europe_central_asia,high_income,coastline,others,christian,Estonia,,,,Estonia,ESTONIA,EE,,ESTONIA,EE,EST,233,,EE,,,,,,,TRUE,TRUE,europe,59.0,26.0
-eth,i71,Ethiopia,sub_saharan_africa,low_income,coastline,g77,christian,Ethiopia,,,,Ethiopia,ETHIOPIA,ET,,ETHIOPIA,ET,ETH,231,,ET,,,,,,,TRUE,TRUE,africa,9.0,39.5
-fro,i72,Faeroe Islands,europe_central_asia,high_income,coastline,others,christian,Faeroe Islands,Faroe Islands,,,Faeroe Islands,,FO,,FAROE ISLANDS,FO,FRO,234,,FO,,,,,,,TRUE,FALSE,europe,62.0,-7.0
-flk,i73,Falkland Is (Malvinas),america,,coastline,others,christian,Falkland Islands (Malvinas),Falkland Is (Malvinas),Falkland Islands,,Falkland Islands (Malvinas),,FK,,FALKLAND ISLANDS (MALVINAS),FK,FLK,238,,FK,,,,,,,TRUE,FALSE,americas,-51.75,-59.16667
-fji,i74,Fiji,east_asia_pacific,upper_middle_income,coastline,g77,christian,Fiji,,,,Fiji,,FJ,,FIJI,FJ,FJI,242,,FJ,,,,,,,TRUE,TRUE,asia,-18.0,178.0
-fin,i75,Finland,europe_central_asia,high_income,coastline,oecd,christian,Finland,,,,Finland,FINLAND,FI,,FINLAND,FI,FIN,246,,FI,,,,,,,TRUE,TRUE,europe,64.0,26.0
-fra,i76,France,europe_central_asia,high_income,coastline,oecd,christian,France,,,,France (Including Monaco),FRANCE,FR,,FRANCE,FR,FRA,250,,FR,,,,,,,TRUE,TRUE,europe,46.0,2.0
-guf,i77,French Guiana,america,,coastline,others,christian,French Guiana,Guyana (Fr.),,,French Guiana,,GF,,FRENCH GUIANA,GF,GUF,254,,GF,,,,,,,TRUE,FALSE,americas,4.0,-53.0
-pyf,i78,French Polynesia,east_asia_pacific,high_income,coastline,others,christian,French Polynesia,,,,French Polynesia,,PF,,FRENCH POLYNESIA,PF,PYF,258,,PF,,,,,,,TRUE,FALSE,asia,-15.0,-140.0
-fra_antarc,,French Southern and Antarctic Lands,,,,,,,,,,,,TF,,,,,,,,,,,,,,TRUE,FALSE,,,
-gab,i79,Gabon,sub_saharan_africa,upper_middle_income,coastline,g77,christian,Gabon,,,,Gabon,GABON,GA,,GABON,GA,GAB,266,,GA,,,,,,,TRUE,TRUE,africa,-1.0,11.75
-gmb,i80,Gambia,sub_saharan_africa,low_income,coastline,g77,muslim,Gambia,"Gambia, The",The Gambia,Gambia The,Gambia,GAMBIA,GM,,GAMBIA,GM,GMB,270,,GM,,,,,,,TRUE,TRUE,africa,13.5,-15.5
-pse_gaza,,Gaza Strip,,,,,,,,,,,,GZ,,,,,,,,,,,,,,TRUE,FALSE,asia,,
-geo,i81,Georgia,europe_central_asia,lower_middle_income,coastline,others,christian,Georgia,,,,Georgia,GEORGIA,GE,http://en.wikipedia.org/wiki/ISO_3166-2:GE,GEORGIA,GE,GEO,268,,GE,,,,,,,TRUE,TRUE,europe,41.99998,43.4999
-deu,i82,Germany,europe_central_asia,high_income,coastline,oecd,christian,Germany,,,,Germany,GERMANY,DE,,GERMANY,DE,DEU,276,,DE,,,,,,,TRUE,TRUE,europe,51.5,10.5
-gha,i83,Ghana,sub_saharan_africa,lower_middle_income,coastline,g77,christian,Ghana,,,,Ghana,GHANA,GH,,GHANA,GH,GHA,288,,GH,,,,,,,TRUE,TRUE,africa,8.1,-1.2
-gib,i84,Gibraltar,europe_central_asia,,coastline,others,christian,Gibraltar,,,,Gibraltar,,GI,,GIBRALTAR,GI,GIB,292,,GI,,,,,,,TRUE,FALSE,europe,36.14474,-5.35257
-grc,i85,Greece,europe_central_asia,high_income,coastline,oecd,christian,Greece,,,,Greece,GREECE,GR,,GREECE,GR,GRC,300,,GR,,,,,,,TRUE,TRUE,europe,39.0,22.0
-grl,i86,Greenland,europe_central_asia,high_income,coastline,others,christian,Greenland,,,,Greenland,,GL,,GREENLAND,GL,GRL,304,,GL,,,,,,,TRUE,FALSE,europe,72.0,-40.0
-grd,i87,Grenada,america,upper_middle_income,coastline,g77,christian,Grenada,,,,Grenada,,GD,,GRENADA,GD,GRD,308,,GD,,,,,,,TRUE,TRUE,americas,12.11667,-61.66667
-glp,i88,Guadeloupe,america,,coastline,others,christian,Guadeloupe,,,,Guadeloupe,,GP,,GUADELOUPE,GP,GLP,312,,GP,,,,,,,TRUE,FALSE,americas,16.25,-61.58333
-gum,i89,Guam,east_asia_pacific,high_income,coastline,others,christian,Guam,,,,,,GU,,GUAM,GU,GUM,316,,GU,,,,,,,TRUE,FALSE,asia,13.47861,144.81834
-gtm,i90,Guatemala,america,lower_middle_income,coastline,g77,christian,Guatemala,,,,Guatemala,GUATEMALA,GT,,GUATEMALA,GT,GTM,320,,GT,,,,,,,TRUE,TRUE,americas,14.64072,-90.51327
-gbg,i91,Guernsey,europe_central_asia,,coastline,others,,Guernsey,,,,,,GG,,,GG,GGY,831,,GG,,,,,,,TRUE,FALSE,europe,49.45474,-2.57629
-gin,i92,Guinea,sub_saharan_africa,low_income,coastline,g77,muslim,Guinea,,,,Guinea,GUINEA,GN,,GUINEA,GN,GIN,324,,GN,,,,,,,TRUE,TRUE,africa,10.83333,-10.66667
-gnb,i93,Guinea-Bissau,sub_saharan_africa,low_income,coastline,g77,,Guinea-Bissau,GuineaBiss,,,Guinea Bissau,GUINEA-BISSAU,GW,,GUINEA-BISSAU,GW,GNB,624,,GW,,,,,,,TRUE,TRUE,africa,12.0,-15.0
-guy,i94,Guyana,america,lower_middle_income,coastline,g77,christian,Guyana,,,,Guyana,,GY,,GUYANA,GY,GUY,328,,GY,,,,,,,TRUE,TRUE,americas,5.0,-59.0
-hti,i95,Haiti,america,low_income,coastline,g77,christian,Haiti,,,,Haiti,HAITI,HT,,HAITI,HT,HTI,332,,HT,,,,,,,TRUE,TRUE,americas,19.0,-72.41667
-heard_a_mcd,,Heard and McDonald Islands,,,,,,,,,,,,HM,,,HM,HMD,334,,HM,,,,,,,TRUE,FALSE,asia,,
-hos,i96,Holy See,europe_central_asia,,landlocked,others,christian,Holy See,,,,Holy_See,,VA,,,VA,VAT,336,,VA,Vatican City,,,,,,TRUE,TRUE,europe,41.90236,12.45332
-hnd,i97,Honduras,america,lower_middle_income,coastline,g77,christian,Honduras,,,,Honduras,HONDURAS,HN,,HONDURAS,HN,HND,340,,HN,,,,,,,TRUE,TRUE,americas,15.0,-86.5
-hkg,i98,"Hong Kong, China",east_asia_pacific,high_income,coastline,others,eastern_religions,"Hong Kong, China","Hong Kong, China (SAR)",Hongkong,Hong Kong SAR,Hong Kong,HONG KONG,HK,"Hong Kong SAR, China",HONG KONG,HK,HKG,344,,HK,"China, Hong Kong SAR",HONG KONG SPECIAL ADMINISTRATIVE REGION OF CHINA,China Hong Kong SAR,,,,TRUE,FALSE,asia,22.28552,114.15769
-hun,i99,Hungary,europe_central_asia,upper_middle_income,landlocked,oecd,christian,Hungary,,,,Hungary,HUNGARY,HU,,HUNGARY,HU,HUN,348,,HU,,,,,,,TRUE,TRUE,europe,47.0,20.0
-isl,i100,Iceland,europe_central_asia,high_income,coastline,oecd,christian,Iceland,,,,Iceland,,IS,,ICELAND,IS,ISL,352,,IS,,,,,,,TRUE,TRUE,europe,65.0,-18.0
-ind,i101,India,south_asia,lower_middle_income,coastline,g77,eastern_religions,India,,,,India,INDIA,IN,,INDIA,IN,IND,356,,IN,,,,,,,TRUE,TRUE,asia,22.0,79.0
-idn,i102,Indonesia,east_asia_pacific,lower_middle_income,coastline,g77,muslim,Indonesia,,,,Indonesia,INDONESIA,ID,,INDONESIA,ID,IDN,360,,ID,,,,,,,TRUE,TRUE,asia,-5.0,120.0
-irn,i103,Iran,middle_east_north_africa,upper_middle_income,coastline,g77,muslim,Iran,"Iran, Islamic Rep.",Iran (Islamic Rep. of),"Iran, Islamic Rep. of",Islamic Republic Of Iran,IRAN,IR,Islamic Republic of Iran,IRAN (ISLAMIC REPUBLIC OF),IR,IRN,364,,IR,Iran (Islamic Republic of),Iran  (Islamic Republic of),,,,,TRUE,TRUE,asia,32.0,53.0
-irq,i104,Iraq,middle_east_north_africa,upper_middle_income,coastline,g77,muslim,Iraq,,,,Iraq,IRAQ,IQ,,IRAQ,IQ,IRQ,368,,IQ,,,,,,,TRUE,TRUE,asia,33.0,44.0
-irl,i105,Ireland,europe_central_asia,high_income,coastline,oecd,christian,Ireland,,,,Ireland,IRELAND,IE,,IRELAND,IE,IRL,372,,IE,,,,,,,TRUE,TRUE,europe,53.0,-8.0
-gbm,i106,Isle of Man,europe_central_asia,high_income,coastline,others,christian,Isle of Man,,,,,,IM,,,IM,IMN,833,,IM,,,,,,,TRUE,FALSE,europe,54.15,-4.48333
-isr,i107,Israel,middle_east_north_africa,high_income,coastline,oecd,,Israel,,,,Israel,ISRAEL,IL,,ISRAEL,IL,ISR,376,,IL,,,,,,,TRUE,TRUE,asia,31.5,34.75
-ita,i108,Italy,europe_central_asia,high_income,coastline,oecd,christian,Italy,,,,Italy (Including San Marino),ITALY,IT,,ITALY,IT,ITA,380,,IT,,,,,,,TRUE,TRUE,europe,42.83333,12.83333
-jam,i109,Jamaica,america,upper_middle_income,coastline,g77,christian,Jamaica,,,,Jamaica,JAMAICA,JM,,JAMAICA,JM,JAM,388,,JM,,,,,,,TRUE,TRUE,americas,18.16667,-77.25
-jpn,i110,Japan,east_asia_pacific,high_income,coastline,oecd,eastern_religions,Japan,,,,Japan,JAPAN,JP,JAPAN (EXCLUDING THE RUYUKU ISLANDS),JAPAN,JP,JPN,392,,JP,,,,,,,TRUE,TRUE,asia,35.68536,139.75309
-jey,i111,Jersey,europe_central_asia,,coastline,others,,Jersey,,,,,,JE,,,JE,JEY,832,,JE,,,,,,,TRUE,FALSE,europe,49.21667,-2.11667
-jor,i112,Jordan,middle_east_north_africa,upper_middle_income,coastline,g77,muslim,Jordan,,,,Jordan,JORDAN,JO,,JORDAN,JO,JOR,400,,JO,,,,,,,TRUE,TRUE,asia,31.0,36.0
-kaz,i113,Kazakhstan,europe_central_asia,upper_middle_income,landlocked,others,muslim,Kazakhstan,,,,Kazakhstan,KAZAKHSTAN,KZ,,KAZAKHSTAN,KZ,KAZ,398,,KZ,,,,,,,TRUE,TRUE,asia,48.0,68.0
-ken,i114,Kenya,sub_saharan_africa,low_income,coastline,g77,christian,Kenya,,,,Kenya,KENYA,KE,,KENYA,KE,KEN,404,,KE,,,,,,,TRUE,TRUE,africa,1.0,38.0
-kir,i115,Kiribati,east_asia_pacific,lower_middle_income,coastline,others,christian,Kiribati,,,,Kiribati,,KI,,KIRIBATI,KI,KIR,296,,KI,,,,,,,TRUE,TRUE,asia,1.421,172.984
-kos,i118,Kosovo,europe_central_asia,lower_middle_income,landlocked,others,muslim,Kosovo,,,,,,Kosovo,,,,,,,XK,,,,,,,TRUE,FALSE,europe,,
-kwt,i119,Kuwait,middle_east_north_africa,high_income,coastline,g77,muslim,Kuwait,,,,Kuwait,KUWAIT,KW,,KUWAIT,KW,KWT,414,,KW,,,,,,,TRUE,TRUE,asia,29.36972,47.97833
-kgz,i120,Kyrgyz Republic,europe_central_asia,low_income,landlocked,others,muslim,Kyrgyzstan,Kyrgyz Republic,Kyrgyz,,Kyrgyzstan,KYRGYZSTAN,KG,,KYRGYZSTAN,KG,KGZ,417,,KG,Kyrgyz_Republic,,,,,,TRUE,TRUE,asia,41.5,75.0
-lao,i121,Lao,east_asia_pacific,lower_middle_income,landlocked,g77,eastern_religions,Laos,Lao PDR,Lao P.D.R.,Lao People's Dem.  Rep.,Lao People S Democratic Republic,,LA,Lao Peopleâ€™s Democratic Republic,LAO PEOPLE'S DEMOCRATIC REPUBLIC,LA,LAO,418,,LA,Lao People's Democratic Republic,,,,,,TRUE,TRUE,asia,18.0,105.0
-lva,i122,Latvia,europe_central_asia,high_income,coastline,others,christian,Latvia,,,,Latvia,LATVIA,LV,,LATVIA,LV,LVA,428,,LV,,,,,,,TRUE,TRUE,europe,57.0,25.0
-lbn,i123,Lebanon,middle_east_north_africa,upper_middle_income,coastline,g77,,Lebanon,,,,Lebanon,LEBANON,LB,,LEBANON,LB,LBN,422,,LB,,,,,,,TRUE,TRUE,asia,33.83333,35.83333
-lso,i124,Lesotho,sub_saharan_africa,lower_middle_income,landlocked,g77,christian,Lesotho,,,,,LESOTHO,LS,,LESOTHO,LS,LSO,426,,LS,,,,,,,TRUE,TRUE,africa,-29.5,28.25
-lbr,i125,Liberia,sub_saharan_africa,low_income,coastline,g77,,Liberia,,,,Liberia,LIBERIA,LR,,LIBERIA,LR,LBR,430,,LR,,,,,,,TRUE,TRUE,africa,6.5,-9.5
-lby,i126,Libya,middle_east_north_africa,upper_middle_income,coastline,g77,muslim,Libya,Libyan Arab Jamahiriya,,,Libyan Arab Jamahiriyah,LIBYAN ARAB JAMAHIRIYA,LY,,LIBYAN ARAB JAMAHIRIYA,LY,LBY,434,,LY,,,,,,,TRUE,TRUE,africa,28.0,17.0
-lie,i127,Liechtenstein,europe_central_asia,high_income,landlocked,others,christian,Liechtenstein,,,,,,LI,,LIECHTENSTEIN,LI,LIE,438,,LI,,,,,,,TRUE,TRUE,europe,47.16667,9.53333
-ltu,i128,Lithuania,europe_central_asia,high_income,coastline,others,christian,Lithuania,,,,Lithuania,LITHUANIA,LT,,LITHUANIA,LT,LTU,440,,LT,,,,,,,TRUE,TRUE,europe,55.41667,24.0
-lux,i129,Luxembourg,europe_central_asia,high_income,landlocked,oecd,christian,Luxembourg,,,,Luxembourg,,LU,,LUXEMBOURG,LU,LUX,442,,LU,,,,,,,TRUE,TRUE,europe,49.61167,6.13
-mac,i130,"Macao, China",east_asia_pacific,high_income,coastline,others,eastern_religions,"Macao, China",Macau,Macao,"China, Macao SAR",Macau,,MO,MACAU SPECIAL ADMINISTRATIVE REGION OF CHINA,MACAU,MO,MAC,446,,MO,"Macao SAR, China",,,,,,TRUE,FALSE,asia,22.20056,113.54611
-mkd,i131,"Macedonia, FYR",europe_central_asia,upper_middle_income,landlocked,others,christian,"Macedonia, FYR",Macedonia,T.F.Y.R. Macedonia,TFYR Macedonia,Macedonia,MACEDONIA,MK,The former Yugoslav Republic of Macedonia,"MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",MK,MKD,807,,MK,Macedonia [FYROM],FYR Macedonia,,,,,TRUE,TRUE,europe,41.66667,21.75
-mdg,i132,Madagascar,sub_saharan_africa,low_income,coastline,g77,,Madagascar,,,,Madagascar,MADAGASCAR,MG,,MADAGASCAR,MG,MDG,450,,MG,,,,,,,TRUE,TRUE,africa,-20.0,47.0
-mwi,i133,Malawi,sub_saharan_africa,low_income,landlocked,g77,christian,Malawi,,,,Malawi,MALAWI,MW,,MALAWI,MW,MWI,454,,MW,,,,,,,TRUE,TRUE,africa,-13.5,34.0
-mys,i134,Malaysia,east_asia_pacific,upper_middle_income,coastline,g77,muslim,Malaysia,,,,Malaysia,MALAYSIA,MY,,MALAYSIA,MY,MYS,458,,MY,,,,,,,TRUE,TRUE,asia,2.5,112.5
-mdv,i135,Maldives,south_asia,upper_middle_income,coastline,g77,muslim,Maldives,,,,Maldives,,MV,,MALDIVES,MV,MDV,462,,MV,,,,,,,TRUE,TRUE,asia,3.2,73.0
-mli,i136,Mali,sub_saharan_africa,low_income,landlocked,g77,muslim,Mali,,,,Mali,MALI,ML,,MALI,ML,MLI,466,,ML,,,,,,,TRUE,TRUE,africa,18.0,-2.0
-mlt,i137,Malta,europe_central_asia,high_income,coastline,others,christian,Malta,,,,Malta,,MT,,MALTA,MT,MLT,470,,MT,,,,,,,TRUE,TRUE,europe,35.91667,14.43333
-mhl,i138,Marshall Islands,east_asia_pacific,upper_middle_income,coastline,g77,christian,Marshall Islands,,,,,,MH,,MARSHALL ISLANDS,MH,MHL,584,,MH,,,,,,,TRUE,TRUE,asia,7.113,171.236
-mtq,i139,Martinique,america,,coastline,others,christian,Martinique,,,,Martinique,,MQ,,MARTINIQUE,MQ,MTQ,474,,MQ,,,,,,,TRUE,FALSE,americas,14.66667,-61.0
-mrt,i140,Mauritania,sub_saharan_africa,lower_middle_income,coastline,g77,muslim,Mauritania,,,,Mauritania,MAURITANIA,MR,,MAURITANIA,MR,MRT,478,,MR,,,,,,,TRUE,TRUE,africa,20.25,-10.5
-mus,i141,Mauritius,sub_saharan_africa,upper_middle_income,coastline,g77,,Mauritius,,,,Mauritius,MAURITIUS,MU,,MAURITIUS,MU,MUS,480,,MU,,,,,,,TRUE,TRUE,africa,-20.3,57.58333
-myt,i142,Mayotte,sub_saharan_africa,,coastline,others,muslim,Mayotte,,,,,,YT,,MAYOTTE,YT,MYT,175,,YT,,,,,,,TRUE,FALSE,africa,-12.83333,45.16667
-mex,i143,Mexico,america,upper_middle_income,coastline,oecd,christian,Mexico,,,,Mexico,MEXICO,MX,,MEXICO,MX,MEX,484,,MX,,,,,,,TRUE,TRUE,americas,19.42847,-99.12766
-fsm,i144,"Micronesia, Fed. Sts.",east_asia_pacific,lower_middle_income,coastline,g77,christian,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",Micronesia (Fed. States of),Federated States of Micronesia,Micronesia (Federated States of),,FM,Micronesia (Federated States of,"MICRONESIA, FEDERATED STATES OF",FM,FSM,583,,FM,Micronesia,,,,,,TRUE,TRUE,asia,6.924,158.162
-mda,i145,Moldova,europe_central_asia,lower_middle_income,landlocked,others,christian,Moldova,"Moldova, Rep. of",Republic of Moldova,Moldova (Republic of),Republic Of Moldov,MOLDOVA,MD,"Moldova, Republic of","MOLDOVA, REPUBLIC OF",MD,MDA,498,,MD,,,,,,,TRUE,TRUE,europe,47.25,28.58333
-mco,i146,Monaco,europe_central_asia,high_income,coastline,others,christian,Monaco,,,,,,MC,,MONACO,MC,MCO,492,,MC,,,,,,,TRUE,TRUE,europe,43.73333,7.41667
-mng,i147,Mongolia,east_asia_pacific,lower_middle_income,landlocked,g77,,Mongolia,,,,Mongoli,MONGOLIA,MN,,MONGOLIA,MN,MNG,496,,MN,,,,,,,TRUE,TRUE,asia,46.0,105.0
-mne,i148,Montenegro,europe_central_asia,upper_middle_income,coastline,others,christian,Montenegro,,,,,MONTENEGRO,ME,,,ME,MNE,499,,ME,,,,,,,TRUE,TRUE,europe,42.75,19.25
-msr,i149,Montserrat,america,,coastline,others,christian,Montserrat,,,,Montserra,,MS,,MONTSERRAT,MS,MSR,500,,MS,,,,,,,TRUE,FALSE,americas,16.75,-62.2
-mar,i150,Morocco,middle_east_north_africa,lower_middle_income,coastline,g77,muslim,Morocco,,,,Morocc,MOROCCO,MA,,MOROCCO,MA,MAR,504,,MA,,,,,,,TRUE,TRUE,africa,32.0,-6.0
-moz,i151,Mozambique,sub_saharan_africa,low_income,coastline,g77,christian,Mozambique,,,,Mozambique,MOZAMBIQUE,MZ,,MOZAMBIQUE,MZ,MOZ,508,,MZ,,,,,,,TRUE,TRUE,africa,-18.25,35.0
-mmr,i152,Myanmar,east_asia_pacific,low_income,coastline,g77,eastern_religions,Myanmar,Burma,Myanmar/Burma,MYANMAR (FORMERLY BURMA),Myanmar,,MM,Myanmar [Burma],MYANMAR,MM,MMR,104,,MM,,,,,,,TRUE,TRUE,asia,21.0,96.0
-nam,i153,Namibia,sub_saharan_africa,upper_middle_income,coastline,g77,christian,Namibia,,,,Namibia,NAMIBIA,NA,,NAMIBIA,NA,NAM,516,,NA,,,,,,,TRUE,TRUE,africa,-22.0,17.0
-nru,i154,Nauru,east_asia_pacific,,coastline,others,christian,Nauru,,,,Nauru,,NR,,NAURU,NR,NRU,520,,NR,,,,,,,TRUE,TRUE,asia,-0.517,166.933
-npl,i155,Nepal,south_asia,low_income,landlocked,g77,eastern_religions,Nepal,,,,Nepal,,NP,,NEPAL,NP,NPL,524,,NP,,,,,,,TRUE,TRUE,asia,28.0,84.0
-nld,i156,Netherlands,europe_central_asia,high_income,coastline,oecd,christian,Netherlands,The Netherlands,,,Netherlands,NETHERLANDS,NL,,NETHERLANDS,NL,NLD,528,,NL,,,,,,,TRUE,TRUE,europe,52.25,5.75
-ant,i157,Netherlands Antilles,america,,coastline,others,,Netherlands Antilles,Neth. Antilles,,,Netherland Antilles,,AN,,NETHERLANDS ANTILLES,,,,,,,,,,,,TRUE,FALSE,americas,,
-ncl,i158,New Caledonia,east_asia_pacific,high_income,coastline,others,christian,New Caledonia,,,,New Caledonia,,NC,,NEW CALEDONIA,NC,NCL,540,,NC,,,,,,,TRUE,FALSE,asia,-21.5,165.5
-nzl,i159,New Zealand,east_asia_pacific,high_income,coastline,oecd,christian,New Zealand,,,,New Zealand,NEW ZEALAND,NZ,,NEW ZEALAND,NZ,NZL,554,,NZ,,,,,,,TRUE,TRUE,asia,-42.0,174.0
-ngokar,i160,Ngorno-Karabakh,europe_central_asia,,,others,,Ngorno-Karabakh,,,,,,Ngorno_Karabakh,,,,,,,,,,,,,,TRUE,FALSE,europe,,
-nic,i161,Nicaragua,america,lower_middle_income,coastline,g77,christian,Nicaragua,,,,Nicaragua,NICARAGUA,NI,,NICARAGUA,NI,NIC,558,,NI,,,,,,,TRUE,TRUE,americas,13.0,-85.0
-ner,i162,Niger,sub_saharan_africa,low_income,landlocked,g77,muslim,Niger,,,,Niger,NIGER,NE,,NIGER,NE,NER,562,,NE,,,,,,,TRUE,TRUE,africa,18.0,9.0
-nga,i163,Nigeria,sub_saharan_africa,lower_middle_income,coastline,g77,,Nigeria,,,,Nigeria,NIGERIA,NG,,NIGERIA,NG,NGA,566,,NG,,,,,,,TRUE,TRUE,africa,10.0,8.0
-niu,i164,Niue,east_asia_pacific,,coastline,others,christian,Niue,,,,Niue,,NU,,NIUE,NU,NIU,570,,NU,,,,,,,TRUE,FALSE,asia,-19.03333,-169.86667
-nfk,i165,Norfolk Island,east_asia_pacific,,coastline,others,,Norfolk Island,,,,,,NF,,NORFOLK ISLAND,NF,NFK,574,,NF,,,,,,,TRUE,FALSE,asia,-29.03333,167.95
-prk,i116,North Korea,east_asia_pacific,low_income,coastline,g77,,"Korea, Dem. Rep.",Dem. People's Rep. of Korea,"Korea, North","Korea, Democratic Republic of",Democratic People S Republic Of Korea,,KP,Democratic People's Republic of Korea,"KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",KP,PRK,408,,KP,Korea DPR,Dem. People's Republic of Korea,Korea (Democratic People's Rep. of),Korea North,"Korea, Dem. People's Rep.",Dem People's Rep of Korea,TRUE,TRUE,asia,40.0,127.0
-yem_north,i252,North Yemen (former),middle_east_north_africa,,coastline,others,,Yemen Arab Republic (Former),,,,,,North_Yemen,,FORMER YEMEN,,,,,,,,,,,,TRUE,FALSE,asia,,
-cyp_nor,i166,Northern Cyprus,europe_central_asia,,coastline,others,,Northern Cyprus,,,,,,Northern_Cyprus,,,,,,,,,,,,,,TRUE,FALSE,europe,,
-mnp,i167,Northern Mariana Islands,east_asia_pacific,high_income,coastline,others,christian,Northern Mariana Islands,,,,,,MP,,NORTHERN MARIANA ISLANDS,MP,MNP,580,,MP,,,,,,,TRUE,FALSE,asia,15.214,145.756
-nor,i168,Norway,europe_central_asia,high_income,coastline,oecd,christian,Norway,,,,Norway,NORWAY,NO,,NORWAY,NO,NOR,578,,NO,,,,,,,TRUE,TRUE,europe,62.0,10.0
-omn,i169,Oman,middle_east_north_africa,high_income,coastline,g77,muslim,Oman,,,,Oman,OMAN,OM,,OMAN,OM,OMN,512,,OM,,,,,,,TRUE,TRUE,asia,21.0,57.0
-pak,i170,Pakistan,south_asia,lower_middle_income,coastline,g77,muslim,Pakistan,,,,Pakistan,PAKISTAN,PK,,PAKISTAN,PK,PAK,586,,PK,,,,,,,TRUE,TRUE,asia,30.0,70.0
-plw,i171,Palau,east_asia_pacific,upper_middle_income,coastline,others,christian,Palau,,,,Palau,,PW,,PALAU,PW,PLW,585,,PW,,,,,,,TRUE,TRUE,asia,7.503,134.621
-pse,i247,Palestine,middle_east_north_africa,lower_middle_income,coastline,g77,muslim,West Bank and Gaza,Occupied Palestinian Territory,Palestinian territories,OPT,Occupied Palestinian Territory,,PS,State of Palestine,"PALESTINIAN TERRITORY, Occupied",PS,PSE,275,,PS,"Palestine, State of",Palestine,,,,,TRUE,TRUE,asia,31.92157,35.20329
-pan,i172,Panama,america,upper_middle_income,coastline,g77,christian,Panama,,,,Panama,PANAMA,PA,,PANAMA,PA,PAN,591,,PA,,,,,,,TRUE,TRUE,americas,8.9936,-79.51973
-png,i173,Papua New Guinea,east_asia_pacific,lower_middle_income,coastline,g77,christian,Papua New Guinea,Papua NG,,,Papua New Guinea,,PG,,PAPUA NEW GUINEA,PG,PNG,598,,PG,,,,,,,TRUE,TRUE,asia,-6.0,147.0
-pry,i174,Paraguay,america,lower_middle_income,landlocked,g77,christian,Paraguay,,,,Paraguay,PARAGUAY,PY,,PARAGUAY,PY,PRY,600,,PY,,,,,,,TRUE,TRUE,americas,-23.33333,-58.0
-per,i175,Peru,america,upper_middle_income,coastline,g77,christian,Peru,,,,Peru,PERU,PE,,PERU,PE,PER,604,,PE,,,,,,,TRUE,TRUE,americas,-10.0,-75.25
-phl,i176,Philippines,east_asia_pacific,lower_middle_income,coastline,g77,christian,Philippines,,,,Philippines,PHILIPPINES,PH,,PHILIPPINES,PH,PHL,608,,PH,,,,,,,TRUE,TRUE,asia,13.0,122.0
-pcn,i177,Pitcairn,east_asia_pacific,,coastline,others,christian,Pitcairn,Pitcairn Islands,,,,,PN,,PITCAIRN,PN,PCN,612,,PN,,,,,,,TRUE,FALSE,asia,-25.06667,-130.1
-pol,i178,Poland,europe_central_asia,high_income,coastline,oecd,christian,Poland,,,,Poland,POLAND,PL,,POLAND,PL,POL,616,,PL,,,,,,,TRUE,TRUE,europe,52.0,20.0
-prt,i179,Portugal,europe_central_asia,high_income,coastline,oecd,christian,Portugal,,,,Portugal,PORTUGAL,PT,,PORTUGAL,PT,PRT,620,,PT,,,,,,,TRUE,TRUE,europe,39.6945,-8.13057
-pri,i180,Puerto Rico,america,high_income,coastline,others,christian,Puerto Rico,,,,Puerto Rico,PUERTO RICO,PR,,PUERTO RICO,PR,PRI,630,,PR,,,,,,,TRUE,FALSE,americas,18.46633,-66.10572
-qat,i181,Qatar,middle_east_north_africa,high_income,coastline,g77,muslim,Qatar,,,,Qatar,QATAR,QA,,QATAR,QA,QAT,634,,QA,,,,,,,TRUE,TRUE,asia,25.27932,51.52245
-reu,i182,Reunion,sub_saharan_africa,,coastline,others,christian,Reunion,RÃ©union,Réunion,,Reunion,,RE,,REUNION,RE,REU,638,,RE,,,,,,,TRUE,FALSE,africa,-20.88231,55.4504
-rou,i183,Romania,europe_central_asia,upper_middle_income,coastline,others,christian,Romania,,,,Romania,ROMANIA,RO,,ROMANIA,RO,ROU,642,,RO,,,,,,,TRUE,TRUE,europe,46.0,25.0
-rus,i184,Russia,europe_central_asia,high_income,coastline,others,christian,Russia,Russian Federation,Russian Federation,,Russian Federation,RUSSIA FEDERATION,RU,,RUSSIAN FEDERATION,RU,RUS,643,,RU,,,,,,,TRUE,TRUE,europe,60.0,100.0
-rwa,i185,Rwanda,sub_saharan_africa,low_income,landlocked,g77,christian,Rwanda,,,,Rwanda,RWANDA,RW,,RWANDA,RW,RWA,646,,RW,,,,,,,TRUE,TRUE,africa,-2.0,30.0
-wsm,i193,Samoa,east_asia_pacific,lower_middle_income,coastline,g77,christian,Samoa,Samoa (Western),,,Samoa,,WS,,SAMOA,WS,WSM,882,,WS,,,,,,,TRUE,TRUE,asia,-13.8,-172.13333
-smr,i194,San Marino,europe_central_asia,high_income,landlocked,others,christian,San Marino,,,,,,SM,,SAN MARINO,SM,SMR,674,,SM,,,,,,,TRUE,TRUE,europe,43.93667,12.44639
-stp,i195,Sao Tome and Principe,sub_saharan_africa,lower_middle_income,coastline,g77,christian,Sao Tome and Principe,São Tomé and Principe,São Tomé and Príncipe,,Sao Tome & Principe,,ST,,SAO TOME AND PRINCIPE,ST,STP,678,,ST,Sao_Tome_and_Principe,,,,,,TRUE,TRUE,africa,1.0,7.0
-sau,i196,Saudi Arabia,middle_east_north_africa,high_income,coastline,g77,muslim,Saudi Arabia,,,,Saudi Arabia,SAUDI ARABIA,SA,,SAUDI ARABIA,SA,SAU,682,,SA,,,,,,,TRUE,TRUE,asia,25.0,45.0
-sen,i197,Senegal,sub_saharan_africa,lower_middle_income,coastline,g77,muslim,Senegal,,,,Senegal,SENEGAL,SN,,SENEGAL,SN,SEN,686,,SN,,,,,,,TRUE,TRUE,africa,14.5,-14.25
-srb,i198,Serbia,europe_central_asia,upper_middle_income,landlocked,others,christian,Serbia,,,,,SERBIA,RS,,,RS,SRB,688,,RS,,,,,,,TRUE,TRUE,europe,44.81892,20.45998
-scg,i199,Serbia and Montenegro,europe_central_asia,,coastline,others,,Serbia and Montenegro,,,,,,Serbia_Montenegro,,YUGOSLAVIA (MONTENEGRO & SERBIA),,,,,,,,,,,,TRUE,FALSE,europe,,
-scg_ex_kos,i200,Serbia excluding Kosovo,europe_central_asia,,landlocked,others,,Serbia excluding Kosovo,,,,,,Serbia_excluding_Kosovo,,,,,,,,,,,,,,TRUE,FALSE,europe,,
-syc,i201,Seychelles,sub_saharan_africa,upper_middle_income,coastline,g77,christian,Seychelles,,,,Seychelles,,SC,,SEYCHELLES,SC,SYC,690,,SC,,,,,,,TRUE,TRUE,africa,-4.58333,55.66667
-sle,i202,Sierra Leone,sub_saharan_africa,low_income,coastline,g77,,Sierra Leone,SierraLeo,,,Sierra Leone,SIERRA LEONE,SL,,SIERRA LEONE,SL,SLE,694,,SL,Sierra_Leone,,,,,,TRUE,TRUE,africa,8.5,-11.5
-sgp,i203,Singapore,east_asia_pacific,high_income,coastline,g77,eastern_religions,Singapore,,,,Singapore,SINGAPORE,SG,,SINGAPORE,SG,SGP,702,,SG,,,,,,,TRUE,TRUE,asia,1.28967,103.85007
-sxm,i271,Sint Maarten (Dutch part),,high_income,,,,,,,,,,SX,,SAINT MARTIN (DUTCH PORTION),SX,SXM,534,,SX,,,,,,,TRUE,FALSE,americas,18.04167,-63.06667
-svk,i204,Slovak Republic,europe_central_asia,high_income,landlocked,oecd,christian,Slovak Republic,Slovak Rep,Slovak Rep.,,Slovakia,SLOVAKIA,SK,,SLOVAKIA,SK,SVK,703,,SK,,,,,,,TRUE,TRUE,europe,48.66667,19.5
-svn,i205,Slovenia,europe_central_asia,high_income,coastline,others,christian,Slovenia,,,,Slovenia,SLOVENIA,SI,,SLOVENIA,SI,SVN,705,,SI,,,,,,,TRUE,TRUE,europe,46.08333,15.0
-slb,i206,Solomon Islands,east_asia_pacific,lower_middle_income,coastline,g77,christian,Solomon Islands,Solomon Isl.,,,Solomon Islands,,SB,,SOLOMON ISLANDS,SB,SLB,90,,SB,,,,,,,TRUE,TRUE,asia,-8.0,159.0
-som,i207,Somalia,sub_saharan_africa,low_income,coastline,g77,muslim,Somalia,,,,Somalia,SOMALIA,SO,,SOMALIA,SO,SOM,706,,SO,,,,,,,TRUE,TRUE,africa,6.0,48.0
-som_somland,i208,Somaliland,sub_saharan_africa,,,others,,Somaliland,,,,,,Somaliland,,,,,,,,,,,,,,TRUE,FALSE,africa,,
-zaf,i209,South Africa,sub_saharan_africa,upper_middle_income,coastline,g77,christian,South Africa,South Africa Republic,,,South Africa,SOUTH AFRICA,ZA,,SOUTH AFRICA,ZA,ZAF,710,,ZA,South_Africa,,,,,,TRUE,TRUE,africa,-29.0,24.0
-sgero_a_ssandw,,South Georgia and the South Sandwich Islands,,,,,,,,,,,,GS,,,GS,SGS,239,,GS,,,,,,,TRUE,FALSE,americas,,
-kor,i117,South Korea,east_asia_pacific,high_income,coastline,oecd,,"Korea, Rep.","Korea, Rep. of",Korea (Rep. of),"Korea, South",Republic Of Korea,SOUTH KOREA,KR,Korea (Republic of),"KOREA, REPUBLIC OF",KR,KOR,410,,KR,Korea Rep,Korea,Republic of Korea,Korea South,,,TRUE,TRUE,asia,36.5,127.75
-sosset,i210,South Ossetia,europe_central_asia,,,others,,South Ossetia,,,,,,South_Ossetia,,,,,,,,,,,,,,TRUE,FALSE,europe,,
-ssd,i211,South Sudan,sub_saharan_africa,low_income,landlocked,,,South Sudan,South â€Žsudan,Sudan South,,,,SS,,REPUBLIC OF SOUTH SUDAN,SS,SSD,728,,SS,,,,,,,TRUE,TRUE,africa,7.5,30.0
-yem_south,i253,South Yemen (former),middle_east_north_africa,,coastline,others,,Yemen Democratic (Former),,,,,,South_Yemen,,FORMER DEMOCRATIC YEMEN,,,,,,,,,,,,TRUE,FALSE,asia,,
-esp,i212,Spain,europe_central_asia,high_income,coastline,oecd,christian,Spain,,,,Spain,SPAIN,ES,,SPAIN,ES,ESP,724,,ES,,,,,,,TRUE,TRUE,europe,40.0,-4.0
-lka,i213,Sri Lanka,south_asia,lower_middle_income,coastline,g77,eastern_religions,Sri Lanka,,,,Sri Lanka,,LK,,SRI LANKA,LK,LKA,144,,LK,,,,,,,TRUE,TRUE,asia,7.75,80.75
-stbar,i186,St. Barthélemy,america,,coastline,others,,Saint Barthélemy,St. Barth√©lemy,Saint Barthelemy,,,,BL,,,BL,BLM,652,,BL,,,,,,,TRUE,FALSE,americas,,
-shn,i187,St. Helena,sub_saharan_africa,,coastline,others,christian,Saint Helena,,,,Saint Helena,,SH,,SAINT HELENA,SH,SHN,654,,SH,,,,,,,TRUE,FALSE,africa,-15.95,-5.7
-kna,i188,St. Kitts and Nevis,america,high_income,coastline,g77,christian,Saint Kitts and Nevis,St. Kitts and Nevis,Saint Kitts & Nevis,,St. Kitts-Nevis,,KN,,SAINT KITTS AND NEVIS,KN,KNA,659,,KN,,,,,,,TRUE,TRUE,americas,17.33333,-62.75
-lca,i189,St. Lucia,america,upper_middle_income,coastline,g77,christian,Saint Lucia,St. Lucia,St.Lucia,,Saint Lucia,,LC,,SAINT LUCIA,LC,LCA,662,,LC,,,,,,,TRUE,TRUE,americas,13.88333,-60.96667
-stmar,i190,St. Martin,america,high_income,coastline,others,,Saint Martin,,,,,,MF,,,,,,,,,,,,,,TRUE,FALSE,americas,,
-maf,,St. Martin (French part),,,,,,,,,,,,MF,,,MF,MAF,663,,MF,,,,,,,TRUE,FALSE,americas,,
-vct,i191,St. Vincent and the Grenadines,america,upper_middle_income,coastline,g77,christian,Saint Vincent and the Grenadines,St. Vincent and the Grenadines,St Vincent & the Grenadines,St. Vincent and G.,St. Vincent & The Grenadines,,VC,,SAINT VINCENT AND THE GRENADINES,VC,VCT,670,,VC,Saint Vincent and the Grenadines,,,,,,TRUE,TRUE,americas,13.08333,-61.2
-spm,i192,St.-Pierre-et-Miquelon,america,,coastline,others,christian,Saint-Pierre-et-Miquelon,Saint Pierre and Miquelon,,,St. Pierre & Miquelon,,PM,,SAINT PIERRE AND MIQUELON,PM,SPM,666,,PM,,,,,,,TRUE,FALSE,americas,46.83333,-56.33333
-sdn,i214,Sudan,sub_saharan_africa,lower_middle_income,coastline,g77,muslim,Sudan,,,,Sudan,SUDAN,SD,REPUBLIC OF SUDAN,SUDAN,SD,SDN,729,,SD,,,,,,,TRUE,TRUE,africa,16.0,30.0
-sur,i215,Suriname,america,upper_middle_income,coastline,g77,christian,Suriname,,,,Suriname,,SR,,SURINAME,SR,SUR,740,,SR,,,,,,,TRUE,TRUE,americas,4.0,-56.0
-sjm,i216,Svalbard,europe_central_asia,,coastline,others,,Svalbard,Svalbard and Jan Mayen,,,,,SJ,,SVALBARD AND JAN MAYEN ISLANDS,SJ,SJM,744,,SJ,,,,,,,TRUE,FALSE,europe,78.0,20.0
-swz,i217,Swaziland,sub_saharan_africa,lower_middle_income,landlocked,g77,christian,Swaziland,,,,Swaziland,,SZ,,SWAZILAND,SZ,SWZ,748,,SZ,,,,,,,TRUE,TRUE,africa,-26.5,31.5
-swe,i218,Sweden,europe_central_asia,high_income,coastline,oecd,christian,Sweden,,,,Sweden,SWEDEN,SE,,SWEDEN,SE,SWE,752,,SE,,,,,,,TRUE,TRUE,europe,62.0,15.0
-che,i219,Switzerland,europe_central_asia,high_income,landlocked,oecd,christian,Switzerland,,,,Switzerland,SWITZERLAND,CH,,SWITZERLAND,CH,CHE,756,,CH,,,,,,,TRUE,TRUE,europe,47.00016,8.01427
-syr,i220,Syria,middle_east_north_africa,lower_middle_income,coastline,g77,muslim,Syria,Syrian Arab Republic,,,Syrian Arab Republic,SYRIAN ARAB REP,SY,,SYRIAN ARAB REPUBLIC,SY,SYR,760,,SY,,,,,,,TRUE,TRUE,asia,35.0,38.0
-twn,i221,Taiwan,east_asia_pacific,,coastline,others,eastern_religions,Taiwan,Taiwan Province of China,"China, Taiwan Province of",,Taiwan,TAIWAN,TW,,TAIWAN,TW,TWN,158,,TW,,,,,,,TRUE,FALSE,asia,24.0,121.0
-tjk,i222,Tajikistan,europe_central_asia,low_income,landlocked,others,muslim,Tajikistan,,,,Tajikistan,TAJIKISTAN,TJ,,TAJIKISTAN,TJ,TJK,762,,TJ,,,,,,,TRUE,TRUE,asia,39.0,71.0
-tza,i223,Tanzania,sub_saharan_africa,low_income,coastline,g77,christian,Tanzania,"Tanzania, U. Rep. of",Tanzania (United Republic of),United Republic of Tanzania,United Republic Of Tanzania,TANZANIA,TZ,,"TANZANIA, UNITED REPUBLIC OF",TZ,TZA,834,,TZ,,,,,,,TRUE,TRUE,africa,-6.0,35.0
-tha,i224,Thailand,east_asia_pacific,upper_middle_income,coastline,g77,eastern_religions,Thailand,,,,Thailand,THAILAND,TH,,THAILAND,TH,THA,764,,TH,,,,,,,TRUE,TRUE,asia,15.5,101.0
-tls,i225,Timor-Leste,east_asia_pacific,lower_middle_income,coastline,g77,christian,Timor-Leste,Timor Leste,East Timor,"Timor, East",Timor-Leste (Formerly East Timor),,TL,Dem. Republic of Timor-Leste,TIMOR-LESTE,TL,TLS,626,,TL,,,,,,,TRUE,TRUE,asia,-8.83333,125.75
-tgo,i226,Togo,sub_saharan_africa,low_income,coastline,g77,,Togo,,,,Togo,TOGO,TG,,TOGO,TG,TGO,768,,TG,,,,,,,TRUE,TRUE,africa,8.66667,1.08333
-tkl,i227,Tokelau,east_asia_pacific,,coastline,others,christian,Tokelau,,,,,,TK,,TOKELAU,TK,TKL,772,,TK,,,,,,,TRUE,FALSE,asia,-9.167,-171.83
-ton,i228,Tonga,east_asia_pacific,upper_middle_income,coastline,g77,christian,Tonga,,,,Tonga,,TO,,TONGA,TO,TON,776,,TO,,,,,,,TRUE,TRUE,asia,-20.0,-175.0
-transn,i229,Transnistria,europe_central_asia,,,others,,Transnistria,,,,,,Transnistria,,,,,,,,,,,,,,TRUE,FALSE,europe,,
-tto,i230,Trinidad and Tobago,america,high_income,coastline,g77,christian,Trinidad and Tobago,Trinidad & Tobago,Trinidad,,Trinidad And Tobago,TRINIDAD AND TOBAGO,TT,,TRINIDAD AND TOBAGO,TT,TTO,780,,TT,,,,,,,TRUE,TRUE,americas,11.0,-61.0
-tun,i231,Tunisia,middle_east_north_africa,upper_middle_income,coastline,g77,muslim,Tunisia,,,,Tunisia,TUNISIA,TN,,TUNISIA,TN,TUN,788,,TN,,,,,,,TRUE,TRUE,africa,34.0,9.0
-tur,i232,Turkey,europe_central_asia,upper_middle_income,coastline,oecd,muslim,Turkey,,,,Turkey,TURKEY,TR,,TURKEY,TR,TUR,792,,TR,,,,,,,TRUE,TRUE,europe,39.0,35.0
-tkm,i233,Turkmenistan,europe_central_asia,upper_middle_income,landlocked,g77,muslim,Turkmenistan,,,,Turkmenistan,TURKMENISTAN,TM,,TURKMENISTAN,TM,TKM,795,,TM,,,,,,,TRUE,TRUE,asia,39.75,59.66667
-tca,i234,Turks and Caicos Islands,america,high_income,coastline,others,christian,Turks and Caicos Islands,Turks and Caicos,,,,,TC,,TURKS AND CAICOS ISLANDS,TC,TCA,796,,TC,,,,,,,TRUE,FALSE,americas,21.73333,-71.58333
-tuv,i235,Tuvalu,east_asia_pacific,upper_middle_income,coastline,others,christian,Tuvalu,,,,,,TV,,TUVALU,TV,TUV,798,,TV,,,,,,,TRUE,TRUE,asia,-8.51719,179.14478
-uga,i236,Uganda,sub_saharan_africa,low_income,landlocked,g77,christian,Uganda,,,,Uganda,UGANDA,UG,,UGANDA,UG,UGA,800,,UG,,,,,,,TRUE,TRUE,africa,1.25,32.5
-ukr,i237,Ukraine,europe_central_asia,lower_middle_income,coastline,others,christian,Ukraine,,,,Ukraine,UKRAINE,UA,,UKRAINE,UA,UKR,804,,UA,,,,,,,TRUE,TRUE,europe,49.0,32.0
-are,i238,United Arab Emirates,middle_east_north_africa,high_income,coastline,g77,muslim,United Arab Emirates,UAE,,,United Arab Emirates,UNITED ARAB EMIRATES,AE,,UNITED ARAB EMIRATES,AE,ARE,784,,AE,,,,,,,TRUE,TRUE,asia,23.75,54.5
-gbr,i239,United Kingdom,europe_central_asia,high_income,coastline,oecd,christian,United Kingdom,UK,United Kingdom of Great Britain and Northern Ireland,U.K. of Great Britain and Northern Ireland,United Kingdom,UNITED KINGDOM,GB,,UNITED KINGDOM,GB,GBR,826,,GB,Unitd Kingdm,,,,,,TRUE,TRUE,europe,54.75844,-2.69531
-korea_union,,United Korea (former),,,,,,"Korea, United",United Korea,United Korea (former),,,,United_Korea,,,,,,,,,,,,,,TRUE,FALSE,asia,,
-usa,i240,United States,america,high_income,coastline,oecd,christian,United States,United States of America,USA,U.S.A.,United States Of America,UNITED STATES,US,U.S.,UNITED STATES,US,USA,840,,US,,,,,,,TRUE,TRUE,americas,39.76,-98.5
-ury,i241,Uruguay,america,high_income,coastline,g77,christian,Uruguay,,,,Uruguay,URUGUAY,UY,,URUGUAY,UY,URY,858,,UY,,,,,,,TRUE,TRUE,americas,-33.0,-56.0
-usa_minor_out_isl,,US Minor Outlying Islands,,,,,,,,,,,,UM,,,UM,UMI,581,US-UM,UM,,,,,,,TRUE,FALSE,americas,,
-ussr,i242,USSR,europe_central_asia,,coastline,others,,USSR,Soviet Union,,U.S.S.R.,USS,,USSR,,,,,,,,,,,,,,TRUE,FALSE,europe,,
-uzb,i243,Uzbekistan,europe_central_asia,lower_middle_income,landlocked,others,muslim,Uzbekistan,,,,Uzbekistan,UZBEKISTAN,UZ,,UZBEKISTAN,UZ,UZB,860,,UZ,,,,,,,TRUE,TRUE,asia,41.66667,63.83333
-vut,i245,Vanuatu,east_asia_pacific,lower_middle_income,coastline,g77,christian,Vanuatu,,,,Vanuatu,,VU,,VANUATU,VU,VUT,548,,VU,,,,,,,TRUE,TRUE,asia,-16.0,167.0
-ven,i246,Venezuela,america,upper_middle_income,coastline,g77,christian,Venezuela,"Venezuela, RB",Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of,Venezuela,VENEZUELA,VE,,VENEZUELA,VE,VEN,862,,VE,,,,,,,TRUE,TRUE,americas,8.0,-66.0
-vnm,i250,Vietnam,east_asia_pacific,lower_middle_income,coastline,g77,eastern_religions,Vietnam,Viet Nam,,,Viet Nam,VIETNAM,VN,,VIET NAM,VN,VNM,704,,VN,,,,,,,TRUE,TRUE,asia,16.16667,107.83333
-vir,i251,Virgin Islands (U.S.),america,high_income,coastline,others,christian,Virgin Islands (U.S.),United States Virgin Islands,,,,,VI,,VIRGIN ISLANDS (U.S.),VI,VIR,850,,VI,,,,,,,TRUE,FALSE,americas,18.34829,-64.98348
-wlf,i244,Wallis et Futuna,east_asia_pacific,,coastline,others,christian,Wallis et Futuna,Wallis and Futuna,Wallis and Futuna Islands,,,,WF,,WALLIS AND FUTUNA ISLANDS,WF,WLF,876,,WF,,,,,,,TRUE,FALSE,asia,-13.3,-176.2
-pse_west_bank,,West Bank,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,FALSE,asia,,
-deu_west,i248,West Germany,europe_central_asia,,coastline,others,,West Germany,,,,West Germany,,West_Germany,,FEDERAL REPUBLIC OF GERMANY,,,,,,,,,,,,TRUE,FALSE,europe,,
-esh,i249,Western Sahara,middle_east_north_africa,,coastline,others,muslim,Western Sahara,,,,Western Sahara,,EH,,WESTERN SAHARA,EH,ESH,732,,EH,,,,,,,TRUE,FALSE,africa,24.49215,-12.65625
-yem,i254,Yemen,middle_east_north_africa,lower_middle_income,coastline,g77,muslim,"Yemen, Rep.",Yemen Republic,,,Yemen,YEMEN,YE,,YEMEN,YE,YEM,887,,YE,,,,,,,TRUE,TRUE,asia,15.5,47.5
-yug,i255,Yugoslavia,europe_central_asia,,coastline,others,,Yugoslavia,Yugoslav SFR,,,Yugoslavia,,Yugoslavia,,YUGOSLAVIA (FORMER SOCIALIST FEDERAL REPUBLIC),,,,,,,,,,,,TRUE,FALSE,europe,,
-zmb,i256,Zambia,sub_saharan_africa,lower_middle_income,landlocked,g77,christian,Zambia,,,,Zambia,ZAMBIA,ZM,,ZAMBIA,ZM,ZMB,894,,ZM,,,,,,,TRUE,TRUE,africa,-14.33333,28.5
-zwe,i257,Zimbabwe,sub_saharan_africa,low_income,landlocked,g77,christian,Zimbabwe,,,,Zimbabwe,ZIMBABWE,ZW,,ZIMBABWE,ZW,ZWE,716,,ZW,,,,,,,TRUE,TRUE,africa,-19.0,29.75
+country,g77_and_oecd_countries,income_groups,is--country,iso3166_1_alpha2,unicode_region_subtag,iso3166_1_alpha3,iso3166_1_numeric,iso3166_2,landlocked,latitude,longitude,main_religion_2008,name,un_state,world_4region,world_6region
+abkh,others,,TRUE,,,,,,,,,,Abkhazia,FALSE,europe,europe_central_asia
+abw,others,high_income,TRUE,AW,AW,ABW,533,,coastline,12.5,-69.96667,christian,Aruba,FALSE,americas,america
+afg,g77,low_income,TRUE,AF,AF,AFG,4,,landlocked,33.0,66.0,muslim,Afghanistan,TRUE,asia,south_asia
+ago,g77,upper_middle_income,TRUE,AO,AO,AGO,24,,coastline,-12.5,18.5,christian,Angola,TRUE,africa,sub_saharan_africa
+aia,others,,TRUE,AI,AI,AIA,660,,coastline,18.21667,-63.05,christian,Anguilla,FALSE,americas,america
+akr_a_dhe,others,,TRUE,,,,,,coastline,,,,Akrotiri and Dhekelia,FALSE,europe,europe_central_asia
+ala,others,,TRUE,AX,AX,ALA,248,,coastline,60.25,20.0,,Åland,FALSE,europe,europe_central_asia
+alb,others,upper_middle_income,TRUE,AL,AL,ALB,8,,coastline,41.0,20.0,muslim,Albania,TRUE,europe,europe_central_asia
+and,others,high_income,TRUE,AD,AD,AND,20,,landlocked,42.50779,1.52109,christian,Andorra,TRUE,europe,europe_central_asia
+ant,others,,TRUE,,,,,,coastline,,,,Netherlands Antilles,FALSE,americas,america
+are,g77,high_income,TRUE,AE,AE,ARE,784,,coastline,23.75,54.5,muslim,United Arab Emirates,TRUE,asia,middle_east_north_africa
+arg,g77,upper_middle_income,TRUE,AR,AR,ARG,32,,coastline,-34.0,-64.0,christian,Argentina,TRUE,americas,america
+arm,others,lower_middle_income,TRUE,AM,AM,ARM,51,,landlocked,40.25,45.0,christian,Armenia,TRUE,europe,europe_central_asia
+asm,others,upper_middle_income,TRUE,AS,AS,ASM,16,,coastline,-11.056,-171.082,christian,American Samoa,FALSE,asia,east_asia_pacific
+ata,,,TRUE,AQ,AQ,ATA,10,,,-90.0,0.0,,Antarctica,FALSE,europe,
+atg,g77,high_income,TRUE,AG,AG,ATG,28,,coastline,17.05,-61.8,christian,Antigua and Barbuda,TRUE,americas,america
+aus,oecd,high_income,TRUE,AU,AU,AUS,36,,coastline,-25.0,135.0,christian,Australia,TRUE,asia,east_asia_pacific
+aut,oecd,high_income,TRUE,AT,AT,AUT,40,,landlocked,47.33333,13.33333,christian,Austria,TRUE,europe,europe_central_asia
+aze,others,upper_middle_income,TRUE,AZ,AZ,AZE,31,,landlocked,40.5,47.5,muslim,Azerbaijan,TRUE,europe,europe_central_asia
+bdi,g77,low_income,TRUE,BI,BI,BDI,108,,landlocked,-3.5,30.0,christian,Burundi,TRUE,africa,sub_saharan_africa
+bel,oecd,high_income,TRUE,BE,BE,BEL,56,,coastline,50.75,4.5,christian,Belgium,TRUE,europe,europe_central_asia
+ben,g77,low_income,TRUE,BJ,BJ,BEN,204,,coastline,9.5,2.25,,Benin,TRUE,africa,sub_saharan_africa
+bfa,g77,low_income,TRUE,BF,BF,BFA,854,,landlocked,12.5,-1.66667,muslim,Burkina Faso,TRUE,africa,sub_saharan_africa
+bgd,g77,low_income,TRUE,BD,BD,BGD,50,,coastline,24.0,90.0,muslim,Bangladesh,TRUE,asia,south_asia
+bgr,others,upper_middle_income,TRUE,BG,BG,BGR,100,,coastline,42.66667,25.25,christian,Bulgaria,TRUE,europe,europe_central_asia
+bhr,g77,high_income,TRUE,BH,BH,BHR,48,,coastline,26.03333,50.55,muslim,Bahrain,TRUE,asia,middle_east_north_africa
+bhs,g77,high_income,TRUE,BS,BS,BHS,44,,coastline,25.04082,-77.37122,christian,Bahamas,TRUE,americas,america
+bih,g77,upper_middle_income,TRUE,BA,BA,BIH,70,,coastline,44.25,17.83333,,Bosnia and Herzegovina,TRUE,europe,europe_central_asia
+blr,others,upper_middle_income,TRUE,BY,BY,BLR,112,,landlocked,53.0,28.0,christian,Belarus,TRUE,europe,europe_central_asia
+blz,g77,upper_middle_income,TRUE,BZ,BZ,BLZ,84,,coastline,17.49952,-88.19756,christian,Belize,TRUE,americas,america
+bmu,others,high_income,TRUE,BM,BM,BMU,60,,coastline,32.2949,-64.78303,christian,Bermuda,FALSE,americas,america
+bol,g77,lower_middle_income,TRUE,BO,BO,BOL,68,,landlocked,-17.0,-65.0,christian,Bolivia,TRUE,americas,america
+bouisl,,,TRUE,BV,BV,BVT,74,,,,,,Bouvet Island,FALSE,africa,
+bra,g77,upper_middle_income,TRUE,BR,BR,BRA,76,,coastline,-10.0,-55.0,christian,Brazil,TRUE,americas,america
+brb,g77,high_income,TRUE,BB,BB,BRB,52,,coastline,13.16667,-59.53333,christian,Barbados,TRUE,americas,america
+brn,g77,high_income,TRUE,BN,BN,BRN,96,,coastline,4.5,114.66667,muslim,Brunei,TRUE,asia,east_asia_pacific
+btn,g77,lower_middle_income,TRUE,BT,BT,BTN,64,,landlocked,27.5,90.5,eastern_religions,Bhutan,TRUE,asia,south_asia
+bwa,g77,upper_middle_income,TRUE,BW,BW,BWA,72,,landlocked,-22.0,24.0,christian,Botswana,TRUE,africa,sub_saharan_africa
+caf,g77,low_income,TRUE,CF,CF,CAF,140,,landlocked,7.0,21.0,,Central African Republic,TRUE,africa,sub_saharan_africa
+can,oecd,high_income,TRUE,CA,CA,CAN,124,,coastline,60.10867,-113.64258,christian,Canada,TRUE,americas,america
+cck,others,,TRUE,CC,CC,CCK,166,,coastline,-12.1642,96.87332,,Cocos Island,FALSE,asia,east_asia_pacific
+chanisl,others,high_income,TRUE,,,,,,coastline,,,christian,Channel Islands,FALSE,europe,europe_central_asia
+che,oecd,high_income,TRUE,CH,CH,CHE,756,,landlocked,47.00016,8.01427,christian,Switzerland,TRUE,europe,europe_central_asia
+cheslo,others,,TRUE,,,,,,landlocked,,,,Czechoslovakia,FALSE,europe,europe_central_asia
+chl,g77,high_income,TRUE,CL,CL,CHL,152,,coastline,-33.45694,-70.64827,christian,Chile,TRUE,americas,america
+chn,g77,upper_middle_income,TRUE,CN,CN,CHN,156,,coastline,35.0,105.0,eastern_religions,China,TRUE,asia,east_asia_pacific
+civ,g77,lower_middle_income,TRUE,CI,CI,CIV,384,,coastline,8.0,-5.5,,Cote d'Ivoire,TRUE,africa,sub_saharan_africa
+cmr,g77,lower_middle_income,TRUE,CM,CM,CMR,120,,coastline,6.0,12.5,christian,Cameroon,TRUE,africa,sub_saharan_africa
+cod,g77,low_income,TRUE,CD,CD,COD,180,,landlocked,-2.5,23.5,christian,"Congo, Dem. Rep.",TRUE,africa,sub_saharan_africa
+cog,g77,lower_middle_income,TRUE,CG,CG,COG,178,,coastline,-1.0,15.5,christian,"Congo, Rep.",TRUE,africa,sub_saharan_africa
+cok,others,,TRUE,CK,CK,COK,184,,coastline,-21.24842,-159.78516,christian,Cook Is,FALSE,asia,east_asia_pacific
+col,g77,upper_middle_income,TRUE,CO,CO,COL,170,,coastline,4.0,-73.25,christian,Colombia,TRUE,americas,america
+com,g77,low_income,TRUE,KM,KM,COM,174,,coastline,-12.23333,44.44553,muslim,Comoros,TRUE,africa,sub_saharan_africa
+cpv,g77,lower_middle_income,TRUE,CV,CV,CPV,132,,coastline,16.0,-24.0,christian,Cape Verde,TRUE,africa,sub_saharan_africa
+cri,g77,upper_middle_income,TRUE,CR,CR,CRI,188,,coastline,10.0,-84.0,christian,Costa Rica,TRUE,americas,america
+cub,g77,upper_middle_income,TRUE,CU,CU,CUB,192,,coastline,22.0,-79.5,christian,Cuba,TRUE,americas,america
+cxr,others,,TRUE,CX,CX,CXR,162,,coastline,-10.5,105.66667,,Christmas Island,FALSE,asia,east_asia_pacific
+cym,others,high_income,TRUE,KY,KY,CYM,136,,coastline,19.5,-80.66667,christian,Cayman Islands,FALSE,americas,america
+cyp,others,high_income,TRUE,CY,CY,CYP,196,,coastline,35.0,33.0,christian,Cyprus,TRUE,europe,europe_central_asia
+cyp_nor,others,,TRUE,,,,,,coastline,,,,Northern Cyprus,FALSE,europe,europe_central_asia
+cze,oecd,high_income,TRUE,CZ,CZ,CZE,203,,landlocked,49.75,15.0,christian,Czech Republic,TRUE,europe,europe_central_asia
+deu,oecd,high_income,TRUE,DE,DE,DEU,276,,coastline,51.5,10.5,christian,Germany,TRUE,europe,europe_central_asia
+deu_east,others,,TRUE,,,,,,coastline,,,,East Germany,FALSE,europe,europe_central_asia
+deu_west,others,,TRUE,,,,,,coastline,,,,West Germany,FALSE,europe,europe_central_asia
+dji,g77,lower_middle_income,TRUE,DJ,DJ,DJI,262,,coastline,11.58901,43.14503,muslim,Djibouti,TRUE,africa,middle_east_north_africa
+dma,g77,upper_middle_income,TRUE,DM,DM,DMA,212,,coastline,15.5,-61.33333,christian,Dominica,TRUE,americas,america
+dnk,oecd,high_income,TRUE,DK,DK,DNK,208,,coastline,56.0,10.0,christian,Denmark,TRUE,europe,europe_central_asia
+dom,g77,upper_middle_income,TRUE,DO,DO,DOM,214,,coastline,19.0,-70.66667,christian,Dominican Republic,TRUE,americas,america
+dza,g77,upper_middle_income,TRUE,DZ,DZ,DZA,12,,coastline,28.0,3.0,muslim,Algeria,TRUE,africa,middle_east_north_africa
+ecu,g77,upper_middle_income,TRUE,EC,EC,ECU,218,,coastline,-1.25,-78.25,christian,Ecuador,TRUE,americas,america
+egy,g77,lower_middle_income,TRUE,EG,EG,EGY,818,,coastline,27.0,30.0,muslim,Egypt,TRUE,africa,middle_east_north_africa
+eri,g77,low_income,TRUE,ER,ER,ERI,232,,coastline,15.0,39.0,muslim,Eritrea,TRUE,africa,sub_saharan_africa
+eri_a_eth,others,,TRUE,,,,,,coastline,,,,Eritrea and Ethiopia,FALSE,africa,sub_saharan_africa
+esh,others,,TRUE,EH,EH,ESH,732,,coastline,24.49215,-12.65625,muslim,Western Sahara,FALSE,africa,middle_east_north_africa
+esp,oecd,high_income,TRUE,ES,ES,ESP,724,,coastline,40.0,-4.0,christian,Spain,TRUE,europe,europe_central_asia
+est,others,high_income,TRUE,EE,EE,EST,233,,coastline,59.0,26.0,christian,Estonia,TRUE,europe,europe_central_asia
+eth,g77,low_income,TRUE,ET,ET,ETH,231,,coastline,9.0,39.5,christian,Ethiopia,TRUE,africa,sub_saharan_africa
+fin,oecd,high_income,TRUE,FI,FI,FIN,246,,coastline,64.0,26.0,christian,Finland,TRUE,europe,europe_central_asia
+fji,g77,upper_middle_income,TRUE,FJ,FJ,FJI,242,,coastline,-18.0,178.0,christian,Fiji,TRUE,asia,east_asia_pacific
+flk,others,,TRUE,FK,FK,FLK,238,,coastline,-51.75,-59.16667,christian,Falkland Is (Malvinas),FALSE,americas,america
+fra,oecd,high_income,TRUE,FR,FR,FRA,250,,coastline,46.0,2.0,christian,France,TRUE,europe,europe_central_asia
+fra_antarc,,,TRUE,,,,,,,,,,French Southern and Antarctic Lands,FALSE,,
+fra_clipperton,,,TRUE,,CP,,,,,,,,Clipperton,FALSE,,
+fro,others,high_income,TRUE,FO,FO,FRO,234,,coastline,62.0,-7.0,christian,Faeroe Islands,FALSE,europe,europe_central_asia
+fsm,g77,lower_middle_income,TRUE,FM,FM,FSM,583,,coastline,6.924,158.162,christian,"Micronesia, Fed. Sts.",TRUE,asia,east_asia_pacific
+gab,g77,upper_middle_income,TRUE,GA,GA,GAB,266,,coastline,-1.0,11.75,christian,Gabon,TRUE,africa,sub_saharan_africa
+gbg,others,,TRUE,GG,GG,GGY,831,,coastline,49.45474,-2.57629,,Guernsey,FALSE,europe,europe_central_asia
+gbm,others,high_income,TRUE,IM,IM,IMN,833,,coastline,54.15,-4.48333,christian,Isle of Man,FALSE,europe,europe_central_asia
+gbr,oecd,high_income,TRUE,GB,GB,GBR,826,,coastline,54.75844,-2.69531,christian,United Kingdom,TRUE,europe,europe_central_asia
+geo,others,lower_middle_income,TRUE,GE,GE,GEO,268,,coastline,41.99998,43.4999,christian,Georgia,TRUE,europe,europe_central_asia
+gha,g77,lower_middle_income,TRUE,GH,GH,GHA,288,,coastline,8.1,-1.2,christian,Ghana,TRUE,africa,sub_saharan_africa
+gib,others,,TRUE,GI,GI,GIB,292,,coastline,36.14474,-5.35257,christian,Gibraltar,FALSE,europe,europe_central_asia
+gin,g77,low_income,TRUE,GN,GN,GIN,324,,coastline,10.83333,-10.66667,muslim,Guinea,TRUE,africa,sub_saharan_africa
+glp,others,,TRUE,GP,GP,GLP,312,,coastline,16.25,-61.58333,christian,Guadeloupe,FALSE,americas,america
+gmb,g77,low_income,TRUE,GM,GM,GMB,270,,coastline,13.5,-15.5,muslim,Gambia,TRUE,africa,sub_saharan_africa
+gnb,g77,low_income,TRUE,GW,GW,GNB,624,,coastline,12.0,-15.0,,Guinea-Bissau,TRUE,africa,sub_saharan_africa
+gnq,g77,high_income,TRUE,GQ,GQ,GNQ,226,,coastline,1.7,10.5,christian,Equatorial Guinea,TRUE,africa,sub_saharan_africa
+grc,oecd,high_income,TRUE,GR,GR,GRC,300,,coastline,39.0,22.0,christian,Greece,TRUE,europe,europe_central_asia
+grd,g77,upper_middle_income,TRUE,GD,GD,GRD,308,,coastline,12.11667,-61.66667,christian,Grenada,TRUE,americas,america
+grl,others,high_income,TRUE,GL,GL,GRL,304,,coastline,72.0,-40.0,christian,Greenland,FALSE,europe,europe_central_asia
+gtm,g77,lower_middle_income,TRUE,GT,GT,GTM,320,,coastline,14.64072,-90.51327,christian,Guatemala,TRUE,americas,america
+guf,others,,TRUE,GF,GF,GUF,254,,coastline,4.0,-53.0,christian,French Guiana,FALSE,americas,america
+gum,others,high_income,TRUE,GU,GU,GUM,316,,coastline,13.47861,144.81834,christian,Guam,FALSE,asia,east_asia_pacific
+guy,g77,lower_middle_income,TRUE,GY,GY,GUY,328,,coastline,5.0,-59.0,christian,Guyana,TRUE,americas,america
+heard_a_mcd,,,TRUE,HM,HM,HMD,334,,,,,,Heard and McDonald Islands,FALSE,asia,
+hkg,others,high_income,TRUE,HK,HK,HKG,344,,coastline,22.28552,114.15769,eastern_religions,"Hong Kong, China",FALSE,asia,east_asia_pacific
+hnd,g77,lower_middle_income,TRUE,HN,HN,HND,340,,coastline,15.0,-86.5,christian,Honduras,TRUE,americas,america
+hos,others,,TRUE,VA,VA,VAT,336,,landlocked,41.90236,12.45332,christian,Holy See,TRUE,europe,europe_central_asia
+hrv,others,high_income,TRUE,HR,HR,HRV,191,,coastline,45.16667,15.5,christian,Croatia,TRUE,europe,europe_central_asia
+hti,g77,low_income,TRUE,HT,HT,HTI,332,,coastline,19.0,-72.41667,christian,Haiti,TRUE,americas,america
+hun,oecd,upper_middle_income,TRUE,HU,HU,HUN,348,,landlocked,47.0,20.0,christian,Hungary,TRUE,europe,europe_central_asia
+idn,g77,lower_middle_income,TRUE,ID,ID,IDN,360,,coastline,-5.0,120.0,muslim,Indonesia,TRUE,asia,east_asia_pacific
+ind,g77,lower_middle_income,TRUE,IN,IN,IND,356,,coastline,22.0,79.0,eastern_religions,India,TRUE,asia,south_asia
+iot,,,TRUE,IO,IO,IOT,86,,,-6.0,72.0,,British Indian Ocean Territory,FALSE,asia,
+irl,oecd,high_income,TRUE,IE,IE,IRL,372,,coastline,53.0,-8.0,christian,Ireland,TRUE,europe,europe_central_asia
+irn,g77,upper_middle_income,TRUE,IR,IR,IRN,364,,coastline,32.0,53.0,muslim,Iran,TRUE,asia,middle_east_north_africa
+irq,g77,upper_middle_income,TRUE,IQ,IQ,IRQ,368,,coastline,33.0,44.0,muslim,Iraq,TRUE,asia,middle_east_north_africa
+isl,oecd,high_income,TRUE,IS,IS,ISL,352,,coastline,65.0,-18.0,christian,Iceland,TRUE,europe,europe_central_asia
+isr,oecd,high_income,TRUE,IL,IL,ISR,376,,coastline,31.5,34.75,,Israel,TRUE,asia,middle_east_north_africa
+ita,oecd,high_income,TRUE,IT,IT,ITA,380,,coastline,42.83333,12.83333,christian,Italy,TRUE,europe,europe_central_asia
+jam,g77,upper_middle_income,TRUE,JM,JM,JAM,388,,coastline,18.16667,-77.25,christian,Jamaica,TRUE,americas,america
+jey,others,,TRUE,JE,JE,JEY,832,,coastline,49.21667,-2.11667,,Jersey,FALSE,europe,europe_central_asia
+jor,g77,upper_middle_income,TRUE,JO,JO,JOR,400,,coastline,31.0,36.0,muslim,Jordan,TRUE,asia,middle_east_north_africa
+jpn,oecd,high_income,TRUE,JP,JP,JPN,392,,coastline,35.68536,139.75309,eastern_religions,Japan,TRUE,asia,east_asia_pacific
+kaz,others,upper_middle_income,TRUE,KZ,KZ,KAZ,398,,landlocked,48.0,68.0,muslim,Kazakhstan,TRUE,asia,europe_central_asia
+ken,g77,low_income,TRUE,KE,KE,KEN,404,,coastline,1.0,38.0,christian,Kenya,TRUE,africa,sub_saharan_africa
+kgz,others,low_income,TRUE,KG,KG,KGZ,417,,landlocked,41.5,75.0,muslim,Kyrgyz Republic,TRUE,asia,europe_central_asia
+khm,g77,low_income,TRUE,KH,KH,KHM,116,,coastline,13.0,105.0,eastern_religions,Cambodia,TRUE,asia,east_asia_pacific
+kir,others,lower_middle_income,TRUE,KI,KI,KIR,296,,coastline,1.421,172.984,christian,Kiribati,TRUE,asia,east_asia_pacific
+kna,g77,high_income,TRUE,KN,KN,KNA,659,,coastline,17.33333,-62.75,christian,St. Kitts and Nevis,TRUE,americas,america
+kor,oecd,high_income,TRUE,KR,KR,KOR,410,,coastline,36.5,127.75,,South Korea,TRUE,asia,east_asia_pacific
+korea_union,,,TRUE,,,,,,,,,,United Korea (former),FALSE,asia,
+kos,others,lower_middle_income,TRUE,,XK,,,,landlocked,,,muslim,Kosovo,FALSE,europe,europe_central_asia
+kwt,g77,high_income,TRUE,KW,KW,KWT,414,,coastline,29.36972,47.97833,muslim,Kuwait,TRUE,asia,middle_east_north_africa
+lao,g77,lower_middle_income,TRUE,LA,LA,LAO,418,,landlocked,18.0,105.0,eastern_religions,Lao,TRUE,asia,east_asia_pacific
+lbn,g77,upper_middle_income,TRUE,LB,LB,LBN,422,,coastline,33.83333,35.83333,,Lebanon,TRUE,asia,middle_east_north_africa
+lbr,g77,low_income,TRUE,LR,LR,LBR,430,,coastline,6.5,-9.5,,Liberia,TRUE,africa,sub_saharan_africa
+lby,g77,upper_middle_income,TRUE,LY,LY,LBY,434,,coastline,28.0,17.0,muslim,Libya,TRUE,africa,middle_east_north_africa
+lca,g77,upper_middle_income,TRUE,LC,LC,LCA,662,,coastline,13.88333,-60.96667,christian,St. Lucia,TRUE,americas,america
+lie,others,high_income,TRUE,LI,LI,LIE,438,,landlocked,47.16667,9.53333,christian,Liechtenstein,TRUE,europe,europe_central_asia
+lka,g77,lower_middle_income,TRUE,LK,LK,LKA,144,,coastline,7.75,80.75,eastern_religions,Sri Lanka,TRUE,asia,south_asia
+lso,g77,lower_middle_income,TRUE,LS,LS,LSO,426,,landlocked,-29.5,28.25,christian,Lesotho,TRUE,africa,sub_saharan_africa
+ltu,others,high_income,TRUE,LT,LT,LTU,440,,coastline,55.41667,24.0,christian,Lithuania,TRUE,europe,europe_central_asia
+lux,oecd,high_income,TRUE,LU,LU,LUX,442,,landlocked,49.61167,6.13,christian,Luxembourg,TRUE,europe,europe_central_asia
+lva,others,high_income,TRUE,LV,LV,LVA,428,,coastline,57.0,25.0,christian,Latvia,TRUE,europe,europe_central_asia
+mac,others,high_income,TRUE,MO,MO,MAC,446,,coastline,22.20056,113.54611,eastern_religions,"Macao, China",FALSE,asia,east_asia_pacific
+maf,,,TRUE,MF,MF,MAF,663,,,,,,St. Martin (French part),FALSE,americas,
+mar,g77,lower_middle_income,TRUE,MA,MA,MAR,504,,coastline,32.0,-6.0,muslim,Morocco,TRUE,africa,middle_east_north_africa
+mco,others,high_income,TRUE,MC,MC,MCO,492,,coastline,43.73333,7.41667,christian,Monaco,TRUE,europe,europe_central_asia
+mda,others,lower_middle_income,TRUE,MD,MD,MDA,498,,landlocked,47.25,28.58333,christian,Moldova,TRUE,europe,europe_central_asia
+mdg,g77,low_income,TRUE,MG,MG,MDG,450,,coastline,-20.0,47.0,,Madagascar,TRUE,africa,sub_saharan_africa
+mdv,g77,upper_middle_income,TRUE,MV,MV,MDV,462,,coastline,3.2,73.0,muslim,Maldives,TRUE,asia,south_asia
+mex,oecd,upper_middle_income,TRUE,MX,MX,MEX,484,,coastline,19.42847,-99.12766,christian,Mexico,TRUE,americas,america
+mhl,g77,upper_middle_income,TRUE,MH,MH,MHL,584,,coastline,7.113,171.236,christian,Marshall Islands,TRUE,asia,east_asia_pacific
+mkd,others,upper_middle_income,TRUE,MK,MK,MKD,807,,landlocked,41.66667,21.75,christian,North Macedonia,TRUE,europe,europe_central_asia
+mli,g77,low_income,TRUE,ML,ML,MLI,466,,landlocked,18.0,-2.0,muslim,Mali,TRUE,africa,sub_saharan_africa
+mlt,others,high_income,TRUE,MT,MT,MLT,470,,coastline,35.91667,14.43333,christian,Malta,TRUE,europe,europe_central_asia
+mmr,g77,low_income,TRUE,MM,MM,MMR,104,,coastline,21.0,96.0,eastern_religions,Myanmar,TRUE,asia,east_asia_pacific
+mne,others,upper_middle_income,TRUE,ME,ME,MNE,499,,coastline,42.75,19.25,christian,Montenegro,TRUE,europe,europe_central_asia
+mng,g77,lower_middle_income,TRUE,MN,MN,MNG,496,,landlocked,46.0,105.0,,Mongolia,TRUE,asia,east_asia_pacific
+mnp,others,high_income,TRUE,MP,MP,MNP,580,,coastline,15.214,145.756,christian,Northern Mariana Islands,FALSE,asia,east_asia_pacific
+moz,g77,low_income,TRUE,MZ,MZ,MOZ,508,,coastline,-18.25,35.0,christian,Mozambique,TRUE,africa,sub_saharan_africa
+mrt,g77,lower_middle_income,TRUE,MR,MR,MRT,478,,coastline,20.25,-10.5,muslim,Mauritania,TRUE,africa,sub_saharan_africa
+msr,others,,TRUE,MS,MS,MSR,500,,coastline,16.75,-62.2,christian,Montserrat,FALSE,americas,america
+mtq,others,,TRUE,MQ,MQ,MTQ,474,,coastline,14.66667,-61.0,christian,Martinique,FALSE,americas,america
+mus,g77,upper_middle_income,TRUE,MU,MU,MUS,480,,coastline,-20.3,57.58333,,Mauritius,TRUE,africa,sub_saharan_africa
+mwi,g77,low_income,TRUE,MW,MW,MWI,454,,landlocked,-13.5,34.0,christian,Malawi,TRUE,africa,sub_saharan_africa
+mys,g77,upper_middle_income,TRUE,MY,MY,MYS,458,,coastline,2.5,112.5,muslim,Malaysia,TRUE,asia,east_asia_pacific
+myt,others,,TRUE,YT,YT,MYT,175,,coastline,-12.83333,45.16667,muslim,Mayotte,FALSE,africa,sub_saharan_africa
+nam,g77,upper_middle_income,TRUE,,,NAM,516,,coastline,-22.0,17.0,christian,Namibia,TRUE,africa,sub_saharan_africa
+ncl,others,high_income,TRUE,NC,NC,NCL,540,,coastline,-21.5,165.5,christian,New Caledonia,FALSE,asia,east_asia_pacific
+ner,g77,low_income,TRUE,NE,NE,NER,562,,landlocked,18.0,9.0,muslim,Niger,TRUE,africa,sub_saharan_africa
+nfk,others,,TRUE,NF,NF,NFK,574,,coastline,-29.03333,167.95,,Norfolk Island,FALSE,asia,east_asia_pacific
+nga,g77,lower_middle_income,TRUE,NG,NG,NGA,566,,coastline,10.0,8.0,,Nigeria,TRUE,africa,sub_saharan_africa
+ngokar,others,,TRUE,,,,,,,,,,Ngorno-Karabakh,FALSE,europe,europe_central_asia
+nic,g77,lower_middle_income,TRUE,NI,NI,NIC,558,,coastline,13.0,-85.0,christian,Nicaragua,TRUE,americas,america
+niu,others,,TRUE,NU,NU,NIU,570,,coastline,-19.03333,-169.86667,christian,Niue,FALSE,asia,east_asia_pacific
+nld,oecd,high_income,TRUE,NL,NL,NLD,528,,coastline,52.25,5.75,christian,Netherlands,TRUE,europe,europe_central_asia
+nld_curacao,others,high_income,TRUE,CW,CW,CUW,531,,coastline,12.16667,-68.96667,christian,Curaçao,FALSE,americas,america
+nor,oecd,high_income,TRUE,NO,NO,NOR,578,,coastline,62.0,10.0,christian,Norway,TRUE,europe,europe_central_asia
+npl,g77,low_income,TRUE,NP,NP,NPL,524,,landlocked,28.0,84.0,eastern_religions,Nepal,TRUE,asia,south_asia
+nru,others,,TRUE,NR,NR,NRU,520,,coastline,-0.517,166.933,christian,Nauru,TRUE,asia,east_asia_pacific
+nzl,oecd,high_income,TRUE,NZ,NZ,NZL,554,,coastline,-42.0,174.0,christian,New Zealand,TRUE,asia,east_asia_pacific
+omn,g77,high_income,TRUE,OM,OM,OMN,512,,coastline,21.0,57.0,muslim,Oman,TRUE,asia,middle_east_north_africa
+pak,g77,lower_middle_income,TRUE,PK,PK,PAK,586,,coastline,30.0,70.0,muslim,Pakistan,TRUE,asia,south_asia
+pan,g77,upper_middle_income,TRUE,PA,PA,PAN,591,,coastline,8.9936,-79.51973,christian,Panama,TRUE,americas,america
+pcn,others,,TRUE,PN,PN,PCN,612,,coastline,-25.06667,-130.1,christian,Pitcairn,FALSE,asia,east_asia_pacific
+per,g77,upper_middle_income,TRUE,PE,PE,PER,604,,coastline,-10.0,-75.25,christian,Peru,TRUE,americas,america
+phl,g77,lower_middle_income,TRUE,PH,PH,PHL,608,,coastline,13.0,122.0,christian,Philippines,TRUE,asia,east_asia_pacific
+plw,others,upper_middle_income,TRUE,PW,PW,PLW,585,,coastline,7.503,134.621,christian,Palau,TRUE,asia,east_asia_pacific
+png,g77,lower_middle_income,TRUE,PG,PG,PNG,598,,coastline,-6.0,147.0,christian,Papua New Guinea,TRUE,asia,east_asia_pacific
+pol,oecd,high_income,TRUE,PL,PL,POL,616,,coastline,52.0,20.0,christian,Poland,TRUE,europe,europe_central_asia
+pri,others,high_income,TRUE,PR,PR,PRI,630,,coastline,18.46633,-66.10572,christian,Puerto Rico,FALSE,americas,america
+prk,g77,low_income,TRUE,KP,KP,PRK,408,,coastline,40.0,127.0,,North Korea,TRUE,asia,east_asia_pacific
+prt,oecd,high_income,TRUE,PT,PT,PRT,620,,coastline,39.6945,-8.13057,christian,Portugal,TRUE,europe,europe_central_asia
+pry,g77,lower_middle_income,TRUE,PY,PY,PRY,600,,landlocked,-23.33333,-58.0,christian,Paraguay,TRUE,americas,america
+pse,g77,lower_middle_income,TRUE,PS,PS,PSE,275,,coastline,31.92157,35.20329,muslim,Palestine,TRUE,asia,middle_east_north_africa
+pse_gaza,,,TRUE,,,,,,,,,,Gaza Strip,FALSE,asia,
+pse_west_bank,,,TRUE,,,,,,,,,,West Bank,FALSE,asia,
+pyf,others,high_income,TRUE,PF,PF,PYF,258,,coastline,-15.0,-140.0,christian,French Polynesia,FALSE,asia,east_asia_pacific
+qat,g77,high_income,TRUE,QA,QA,QAT,634,,coastline,25.27932,51.52245,muslim,Qatar,TRUE,asia,middle_east_north_africa
+reu,others,,TRUE,RE,RE,REU,638,,coastline,-20.88231,55.4504,christian,Reunion,FALSE,africa,sub_saharan_africa
+rou,others,upper_middle_income,TRUE,RO,RO,ROU,642,,coastline,46.0,25.0,christian,Romania,TRUE,europe,europe_central_asia
+rus,others,high_income,TRUE,RU,RU,RUS,643,,coastline,60.0,100.0,christian,Russia,TRUE,europe,europe_central_asia
+rwa,g77,low_income,TRUE,RW,RW,RWA,646,,landlocked,-2.0,30.0,christian,Rwanda,TRUE,africa,sub_saharan_africa
+sau,g77,high_income,TRUE,SA,SA,SAU,682,,coastline,25.0,45.0,muslim,Saudi Arabia,TRUE,asia,middle_east_north_africa
+scg,others,,TRUE,,,,,,coastline,,,,Serbia and Montenegro,FALSE,europe,europe_central_asia
+scg_ex_kos,others,,TRUE,,,,,,landlocked,,,,Serbia excluding Kosovo,FALSE,europe,europe_central_asia
+sdn,g77,lower_middle_income,TRUE,SD,SD,SDN,729,,coastline,16.0,30.0,muslim,Sudan,TRUE,africa,sub_saharan_africa
+sen,g77,lower_middle_income,TRUE,SN,SN,SEN,686,,coastline,14.5,-14.25,muslim,Senegal,TRUE,africa,sub_saharan_africa
+sgero_a_ssandw,,,TRUE,GS,GS,SGS,239,,,,,,South Georgia and the South Sandwich Islands,FALSE,americas,
+sgp,g77,high_income,TRUE,SG,SG,SGP,702,,coastline,1.28967,103.85007,eastern_religions,Singapore,TRUE,asia,east_asia_pacific
+shn,others,,TRUE,SH,SH,SHN,654,,coastline,-15.95,-5.7,christian,St. Helena,FALSE,africa,sub_saharan_africa
+sjm,others,,TRUE,SJ,SJ,SJM,744,,coastline,78.0,20.0,,Svalbard,FALSE,europe,europe_central_asia
+slb,g77,lower_middle_income,TRUE,SB,SB,SLB,90,,coastline,-8.0,159.0,christian,Solomon Islands,TRUE,asia,east_asia_pacific
+sle,g77,low_income,TRUE,SL,SL,SLE,694,,coastline,8.5,-11.5,,Sierra Leone,TRUE,africa,sub_saharan_africa
+slv,g77,lower_middle_income,TRUE,SV,SV,SLV,222,,coastline,13.83333,-88.91667,christian,El Salvador,TRUE,americas,america
+smr,others,high_income,TRUE,SM,SM,SMR,674,,landlocked,43.93667,12.44639,christian,San Marino,TRUE,europe,europe_central_asia
+som,g77,low_income,TRUE,SO,SO,SOM,706,,coastline,6.0,48.0,muslim,Somalia,TRUE,africa,sub_saharan_africa
+som_somland,others,,TRUE,,,,,,,,,,Somaliland,FALSE,africa,sub_saharan_africa
+sosset,others,,TRUE,,,,,,,,,,South Ossetia,FALSE,europe,europe_central_asia
+spm,others,,TRUE,PM,PM,SPM,666,,coastline,46.83333,-56.33333,christian,St.-Pierre-et-Miquelon,FALSE,americas,america
+srb,others,upper_middle_income,TRUE,RS,RS,SRB,688,,landlocked,44.81892,20.45998,christian,Serbia,TRUE,europe,europe_central_asia
+ssd,,low_income,TRUE,SS,SS,SSD,728,,landlocked,7.5,30.0,,South Sudan,TRUE,africa,sub_saharan_africa
+stbar,others,,TRUE,BL,BL,BLM,652,,coastline,,,,St. Barthélemy,FALSE,americas,america
+stmar,others,high_income,TRUE,,,,,,coastline,,,,St. Martin,FALSE,americas,america
+stp,g77,lower_middle_income,TRUE,ST,ST,STP,678,,coastline,1.0,7.0,christian,Sao Tome and Principe,TRUE,africa,sub_saharan_africa
+sur,g77,upper_middle_income,TRUE,SR,SR,SUR,740,,coastline,4.0,-56.0,christian,Suriname,TRUE,americas,america
+svk,oecd,high_income,TRUE,SK,SK,SVK,703,,landlocked,48.66667,19.5,christian,Slovak Republic,TRUE,europe,europe_central_asia
+svn,others,high_income,TRUE,SI,SI,SVN,705,,coastline,46.08333,15.0,christian,Slovenia,TRUE,europe,europe_central_asia
+swe,oecd,high_income,TRUE,SE,SE,SWE,752,,coastline,62.0,15.0,christian,Sweden,TRUE,europe,europe_central_asia
+swz,g77,lower_middle_income,TRUE,SZ,SZ,SWZ,748,,landlocked,-26.5,31.5,christian,Swaziland,TRUE,africa,sub_saharan_africa
+sxm,,high_income,TRUE,SX,SX,SXM,534,,,18.04167,-63.06667,,Sint Maarten (Dutch part),FALSE,americas,
+syc,g77,upper_middle_income,TRUE,SC,SC,SYC,690,,coastline,-4.58333,55.66667,christian,Seychelles,TRUE,africa,sub_saharan_africa
+syr,g77,lower_middle_income,TRUE,SY,SY,SYR,760,,coastline,35.0,38.0,muslim,Syria,TRUE,asia,middle_east_north_africa
+tca,others,high_income,TRUE,TC,TC,TCA,796,,coastline,21.73333,-71.58333,christian,Turks and Caicos Islands,FALSE,americas,america
+tcd,g77,low_income,TRUE,TD,TD,TCD,148,,landlocked,15.0,19.0,muslim,Chad,TRUE,africa,sub_saharan_africa
+tgo,g77,low_income,TRUE,TG,TG,TGO,768,,coastline,8.66667,1.08333,,Togo,TRUE,africa,sub_saharan_africa
+tha,g77,upper_middle_income,TRUE,TH,TH,THA,764,,coastline,15.5,101.0,eastern_religions,Thailand,TRUE,asia,east_asia_pacific
+tjk,others,low_income,TRUE,TJ,TJ,TJK,762,,landlocked,39.0,71.0,muslim,Tajikistan,TRUE,asia,europe_central_asia
+tkl,others,,TRUE,TK,TK,TKL,772,,coastline,-9.167,-171.83,christian,Tokelau,FALSE,asia,east_asia_pacific
+tkm,g77,upper_middle_income,TRUE,TM,TM,TKM,795,,landlocked,39.75,59.66667,muslim,Turkmenistan,TRUE,asia,europe_central_asia
+tls,g77,lower_middle_income,TRUE,TL,TL,TLS,626,,coastline,-8.83333,125.75,christian,Timor-Leste,TRUE,asia,east_asia_pacific
+ton,g77,upper_middle_income,TRUE,TO,TO,TON,776,,coastline,-20.0,-175.0,christian,Tonga,TRUE,asia,east_asia_pacific
+transn,others,,TRUE,,,,,,,,,,Transnistria,FALSE,europe,europe_central_asia
+tto,g77,high_income,TRUE,TT,TT,TTO,780,,coastline,11.0,-61.0,christian,Trinidad and Tobago,TRUE,americas,america
+tun,g77,upper_middle_income,TRUE,TN,TN,TUN,788,,coastline,34.0,9.0,muslim,Tunisia,TRUE,africa,middle_east_north_africa
+tur,oecd,upper_middle_income,TRUE,TR,TR,TUR,792,,coastline,39.0,35.0,muslim,Turkey,TRUE,europe,europe_central_asia
+tuv,others,upper_middle_income,TRUE,TV,TV,TUV,798,,coastline,-8.51719,179.14478,christian,Tuvalu,TRUE,asia,east_asia_pacific
+twn,others,,TRUE,TW,TW,TWN,158,,coastline,24.0,121.0,eastern_religions,Taiwan,FALSE,asia,east_asia_pacific
+tza,g77,low_income,TRUE,TZ,TZ,TZA,834,,coastline,-6.0,35.0,christian,Tanzania,TRUE,africa,sub_saharan_africa
+uga,g77,low_income,TRUE,UG,UG,UGA,800,,landlocked,1.25,32.5,christian,Uganda,TRUE,africa,sub_saharan_africa
+ukr,others,lower_middle_income,TRUE,UA,UA,UKR,804,,coastline,49.0,32.0,christian,Ukraine,TRUE,europe,europe_central_asia
+ury,g77,high_income,TRUE,UY,UY,URY,858,,coastline,-33.0,-56.0,christian,Uruguay,TRUE,americas,america
+usa,oecd,high_income,TRUE,US,US,USA,840,,coastline,39.76,-98.5,christian,United States,TRUE,americas,america
+usa_minor_out_isl,,,TRUE,UM,UM,UMI,581,US-UM,,,,,US Minor Outlying Islands,FALSE,americas,
+ussr,others,,TRUE,,,,,,coastline,,,,USSR,FALSE,europe,europe_central_asia
+uzb,others,lower_middle_income,TRUE,UZ,UZ,UZB,860,,landlocked,41.66667,63.83333,muslim,Uzbekistan,TRUE,asia,europe_central_asia
+vct,g77,upper_middle_income,TRUE,VC,VC,VCT,670,,coastline,13.08333,-61.2,christian,St. Vincent and the Grenadines,TRUE,americas,america
+ven,g77,upper_middle_income,TRUE,VE,VE,VEN,862,,coastline,8.0,-66.0,christian,Venezuela,TRUE,americas,america
+vgb,others,,TRUE,VG,VG,VGB,92,,coastline,18.5,-64.5,christian,British Virgin Islands,FALSE,americas,america
+vir,others,high_income,TRUE,VI,VI,VIR,850,,coastline,18.34829,-64.98348,christian,Virgin Islands (U.S.),FALSE,americas,america
+vnm,g77,lower_middle_income,TRUE,VN,VN,VNM,704,,coastline,16.16667,107.83333,eastern_religions,Vietnam,TRUE,asia,east_asia_pacific
+vut,g77,lower_middle_income,TRUE,VU,VU,VUT,548,,coastline,-16.0,167.0,christian,Vanuatu,TRUE,asia,east_asia_pacific
+wlf,others,,TRUE,WF,WF,WLF,876,,coastline,-13.3,-176.2,christian,Wallis et Futuna,FALSE,asia,east_asia_pacific
+wsm,g77,lower_middle_income,TRUE,WS,WS,WSM,882,,coastline,-13.8,-172.13333,christian,Samoa,TRUE,asia,east_asia_pacific
+yem,g77,lower_middle_income,TRUE,YE,YE,YEM,887,,coastline,15.5,47.5,muslim,Yemen,TRUE,asia,middle_east_north_africa
+yem_north,others,,TRUE,,,,,,coastline,,,,North Yemen (former),FALSE,asia,middle_east_north_africa
+yem_south,others,,TRUE,,,,,,coastline,,,,South Yemen (former),FALSE,asia,middle_east_north_africa
+yug,others,,TRUE,,,,,,coastline,,,,Yugoslavia,FALSE,europe,europe_central_asia
+zaf,g77,upper_middle_income,TRUE,ZA,ZA,ZAF,710,,coastline,-29.0,24.0,christian,South Africa,TRUE,africa,sub_saharan_africa
+zmb,g77,lower_middle_income,TRUE,ZM,ZM,ZMB,894,,landlocked,-14.33333,28.5,christian,Zambia,TRUE,africa,sub_saharan_africa
+zwe,g77,low_income,TRUE,ZW,ZW,ZWE,716,,landlocked,-19.0,29.75,christian,Zimbabwe,TRUE,africa,sub_saharan_africa

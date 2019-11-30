@@ -1,6 +1,9 @@
 tag,name,parent
-governance,Governance,society
 society,Society,
+democracy,Democracy,society
+democracy_idea,Democracy indeces from IDEA,democracy
+democracy_eiu,Democracy indeces from EIU,democracy
+freedom_fh,Freedom from FH,democracy
 inequality,Inequality,economy
 economy,Economy,
 media,Media,communication
