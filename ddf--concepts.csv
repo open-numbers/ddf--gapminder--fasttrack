@@ -138,6 +138,8 @@ permitted both publicly and privately? Do some religious groups feel intimidated
 16. There is no significant discrimination on the basis of people’s race, colour or religious beliefs;
 17. Extent to which the government invokes new risks and threats as an excuse for curbing civil liberties.",Percent,democracy_eiu,,,,,
 c_demox_eiu,measure,http://gapm.io/ddemocrix_eiu,v2,2019-02-18,Change in democracy index (EIU),Annual change in democracy index (EIU),The annual change of percentage points compared to previous year is calculated simply by taking the Democracy index form EIU one year and subtract the value for the previouse year. A negative number means the Democracy Index declined.,Percentage points,democracy_eiu,,,,,
+refugee_in_perc_wb,measure,http://gapm.io/drefugee_wb,v1,2019-12-11,Share refugees,Refugees as share of population in the country of residence.,This is the share of refugees as a percentage of total population in the country of residence.,percent,refugees,,,,,
+refugee_from_perc_wb,measure,http://gapm.io/drefugee_wb,v1,2019-12-12,Refugee diaspora rate of origin population,Refugees as share of population in the country of origin.,This is showing refugees abroad as percentage of the current population in their country of origin.,percent,refugees,,,,,
 domain,string,,,,,Domain,,,_none,,,,,
 drill_up,string,,,,,drill ups,,,_none,,,,,
 geo,entity_domain,,,,,Geographic location,,,_none,,,https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--country.csv,,

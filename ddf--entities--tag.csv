@@ -1,11 +1,15 @@
 tag,name,parent
+governance,Governance,society
+society,Society,
+inequality,Inequality,economy
+economy,Economy,
+media,Media,communication
+communication,Communication,
 society,Society,
 democracy,Democracy,society
 democracy_idea,Democracy indices from IDEA,democracy
 democracy_eiu,Democracy indices from EIU,democracy
 freedom_fh,Freedom from FH,democracy
 more_dem_idea,More,democracy_idea
-inequality,Inequality,economy
-economy,Economy,
-media,Media,communication
-communication,Communication,
+refugees,Refugees,war_peace
+war_peace,War & peace,society

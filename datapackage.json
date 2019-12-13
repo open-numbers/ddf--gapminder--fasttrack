@@ -1,16 +1,13 @@
 {
-    "name": "ddf--gapminder--test_fasttrack",
+    "name": "ddf--gapminder--fasttrack",
     "language": {
-        "id": "en",
-        "name": "English"
+        "id": "en"
     },
-    "title": "ddf--gapminder--test_fasttrack",
+    "title": "ddf--gapminder--fasttrack",
     "description": "",
     "author": "",
     "license": "",
-    "created": "2019-12-01T14:54:58.574524+00:00",
-    "translations": [],
-    "version": "0.1.1",
+    "created": "2019-12-13T18:55:07.677050+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -2708,6 +2705,48 @@
                 ],
                 "primaryKey": [
                     "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--refugee_from_perc_wb--by--country--time",
+            "path": "ddf--datapoints--refugee_from_perc_wb--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "refugee_from_perc_wb"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--refugee_in_perc_wb--by--country--time",
+            "path": "ddf--datapoints--refugee_in_perc_wb--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "refugee_in_perc_wb"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
                     "time"
                 ]
             }
@@ -5854,6 +5893,46 @@
                 "value": "prenforct_idea",
                 "resources": [
                     "ddf--datapoints--prenforct_idea--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "refugee_from_perc_wb",
+                "resources": [
+                    "ddf--datapoints--refugee_from_perc_wb--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "refugee_from_perc_wb",
+                "resources": [
+                    "ddf--datapoints--refugee_from_perc_wb--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "refugee_in_perc_wb",
+                "resources": [
+                    "ddf--datapoints--refugee_in_perc_wb--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "refugee_in_perc_wb",
+                "resources": [
+                    "ddf--datapoints--refugee_in_perc_wb--by--country--time"
                 ]
             },
             {
