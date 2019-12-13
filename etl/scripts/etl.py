@@ -14,8 +14,7 @@ from ddf_utils.str import format_float_digits
 # TODO: Some of below functions should be moved into ddf_utils.
 
 # fasttrack doc id
-DOCID = "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI" #"1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo"
-
+DOCID =  "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo" # for the democracy branch we used another sheet: "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI"
 
 def open_google_spreadsheet(docid):
     tmpl_xls = "https://docs.google.com/spreadsheets/d/{docid}/export?format=xlsx&id={docid}"
