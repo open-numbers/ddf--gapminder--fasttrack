@@ -5,6 +5,7 @@ import requests as req
 import pandas as pd
 import numpy as np
 import parse
+import re
 
 from io import BytesIO
 from decimal import Decimal
@@ -13,8 +14,7 @@ from ddf_utils.str import format_float_digits
 # TODO: Some of below functions should be moved into ddf_utils.
 
 # fasttrack doc id
-DOCID = "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo"
-
+DOCID =  "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo" # for the democracy branch we used another sheet: "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI"
 
 def open_google_spreadsheet(docid):
     tmpl_xls = "https://docs.google.com/spreadsheets/d/{docid}/export?format=xlsx&id={docid}"
@@ -72,7 +72,7 @@ def parse_dimension_pairs(dimensions):
 def serve_datapoints(datapoints, concept_map, csv_dict):
 
     # translate plural form to singal form
-    translate_dict = {'countries': 'country', 'world_4regions': 'world_4region'}
+    translate_dict = {'countries': 'country', 'world_4regions': 'world_4region', 'regions': 'world_4region'}
 
     def get_dataframe(docid, sheet_name, dimension_pairs, concept_name, copy=True):
         df = csv_dict[docid][sheet_name]
@@ -107,6 +107,9 @@ def serve_datapoints(datapoints, concept_map, csv_dict):
         if df[concept].dtype == 'object':
             try:
                 df[concept] = df[concept].map(parse_number).map(format_float_digits)
+            except ValueError:
+                #TODO should look at the concept type
+                df[concept] = df[concept].map(lambda v: v.strip())
             except AttributeError:
                 print("can't convert the column to numbers. Maybe it contains non-numeric values?")
                 raise
@@ -130,6 +133,8 @@ def serve_concepts(concepts, entities_columns):
     cdf1 = concepts.copy()
     cdf1 = cdf1.rename(columns={'concept_id': 'concept', 'topic': 'tags'})
     cdf1 = cdf1.set_index('concept')
+    # trim descriptions
+    # cdf1['description'] = cdf1['description'].map(lambda v: re.sub(r'\s+', ' ', v).strip())
 
     # second, entity concepts
     geo_concepts = ['geo', 'country', 'world_4region', 'global', 'g77_and_oecd_countries',
