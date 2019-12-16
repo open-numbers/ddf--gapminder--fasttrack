@@ -69,7 +69,10 @@ def parse_dimension_pairs(dimensions):
     return [p.fixed for p in parse.findall("{:w}:{:w}", dimensions)]
 
 
-def serve_datapoints(datapoints, concept_map, csv_dict):
+def serve_datapoints(datapoints, concepts, csv_dict):
+
+    # map concept_name -> concept_id
+    concept_map = datapoints.set_index('concept_name')['concept_id'].to_dict()
 
     # translate plural form to singal form
     translate_dict = {'countries': 'country', 'world_4regions': 'world_4region', 'regions': 'world_4region'}
@@ -104,15 +107,16 @@ def serve_datapoints(datapoints, concept_map, csv_dict):
         # print(df.columns)
         df = df.rename(columns=concept_map)
         concept = df.columns[0]
-        if df[concept].dtype == 'object':
-            try:
-                df[concept] = df[concept].map(parse_number).map(format_float_digits)
-            except ValueError:
-                #TODO should look at the concept type
+        if df[concept].dtype == 'object':  # didn't reconized as number
+            concept_type = concepts.loc[concepts['concept'] == concept, 'concept_type'].iloc[0]
+            if concept_type == 'measure':  # it should be numbers
+                try:
+                    df[concept] = df[concept].map(parse_number).map(format_float_digits)
+                except (AttributeError, ValueError):
+                    print(f"can't convert the column {concept} to numbers. Maybe it contains non-numeric values?")
+                    raise
+            else:
                 df[concept] = df[concept].map(lambda v: v.strip())
-            except AttributeError:
-                print("can't convert the column to numbers. Maybe it contains non-numeric values?")
-                raise
         else:
             df[concept] = df[concept].map(format_float_digits)
         by_fn = list()
@@ -171,6 +175,8 @@ def serve_concepts(concepts, entities_columns):
     cdf_full = cdf_full.reset_index().dropna(how='all').drop_duplicates(subset=['concept'], keep='last')
     cdf_full.to_csv('../../ddf--concepts.csv', index=False, encoding='utf8')
 
+    return cdf_full
+
 
 def main():
     print('loading source files...')
@@ -192,12 +198,6 @@ def main():
 
     print('creating ddf datasets...')
 
-    # map concept_name -> concept_id
-    concept_map = datapoints.set_index('concept_name')['concept_id'].to_dict()
-
-    # datapoints
-    serve_datapoints(datapoints, concept_map, csv_dict)
-
     # entities
     entities_columns = set()  # mark down the columns, use to create concept table later
     for e in ['country', 'global', 'world_4region', 'g77_and_oecd_countries',
@@ -215,7 +215,10 @@ def main():
         entities_columns.add(c)
 
     # concepts
-    serve_concepts(concepts, entities_columns)
+    cdf = serve_concepts(concepts, entities_columns)
+
+    # datapoints
+    serve_datapoints(datapoints, cdf, csv_dict)
 
 
 if __name__ == '__main__':
