@@ -94,12 +94,12 @@ def serve_datapoints(datapoints, concepts, csv_dict):
             print("column mismatch!\n"
                   "expected columns: {}\n"
                   "actual columns: {}".format(columns, list(df.columns)))
-            print("in file {}, sheet {}".format(docid, sheet_name))
             raise KeyError("Key not found.")
 
     for _, row in datapoints.iterrows():
         dimension_pairs = parse_dimension_pairs(row['dimensions'])
         docid, sheet_name = get_docid_sheet(row['csv_link'])
+        print("working on file {}, sheet {}".format(docid, sheet_name))
         df = get_dataframe(docid, sheet_name, dimension_pairs, row['concept_name'])
         by = [find_column(df, x) for x in dimension_pairs]
 
