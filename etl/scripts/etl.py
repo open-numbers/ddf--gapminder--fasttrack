@@ -10,6 +10,7 @@ import re
 from io import BytesIO
 from decimal import Decimal
 from ddf_utils.str import format_float_digits
+from urllib.error import HTTPError
 
 # TODO: Some of below functions should be moved into ddf_utils.
 
@@ -22,6 +23,8 @@ def open_google_spreadsheet(docid):
     res = req.get(url)
     if res.ok:
         return BytesIO(res.content)
+    else:
+        print(f"Could not fetch {url}. Error code: {res.status_code}. Please check if the url is valid. The docid is hard coded in the python script.")
     return None
 
 
@@ -193,8 +196,14 @@ def main():
     # dataframes, instead of links
     csv_dict = csv_link_dict.copy()
     for docid, di in csv_link_dict.items():
-        csv_dict[docid] = dict([sheet_name, pd.read_csv(link)]
-                               for sheet_name, link in csv_dict[docid].items())
+        csv_dict[docid] = dict()
+        for sheet_name, link in di.items():
+            try:
+                df = pd.read_csv(link)
+                csv_dict[docid][sheet_name] = df
+            except HTTPError as error:
+                print(f"Could not fetch {link}. Error code: {error.code}. Please make sure the url is valid, even when not logged in to Google.")
+                raise
 
     print('creating ddf datasets...')
 
