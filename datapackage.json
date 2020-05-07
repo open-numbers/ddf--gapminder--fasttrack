@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-05-04T18:52:14.036929+00:00",
+    "created": "2020-05-07T11:31:08.497549+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -580,6 +580,27 @@
                     },
                     {
                         "name": "fassoas_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--female_hos--by--country--time",
+            "path": "ddf--datapoints--female_hos--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "female_hos"
                     }
                 ],
                 "primaryKey": [
@@ -3001,6 +3022,26 @@
                 "value": "fassoas_idea",
                 "resources": [
                     "ddf--datapoints--fassoas_idea--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "female_hos",
+                "resources": [
+                    "ddf--datapoints--female_hos--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "female_hos",
+                "resources": [
+                    "ddf--datapoints--female_hos--by--country--time"
                 ]
             },
             {
