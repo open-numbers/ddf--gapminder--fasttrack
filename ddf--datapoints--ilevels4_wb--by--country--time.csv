@@ -31,6 +31,7 @@ afg,2015,Low income
 afg,2016,Low income
 afg,2017,Low income
 afg,2018,Low income
+afg,2019,Low income
 alb,1987,Lower middle income
 alb,1988,Lower middle income
 alb,1989,Lower middle income
@@ -63,6 +64,7 @@ alb,2015,Upper middle income
 alb,2016,Upper middle income
 alb,2017,Upper middle income
 alb,2018,Upper middle income
+alb,2019,Upper middle income
 dza,1987,Upper middle income
 dza,1988,Upper middle income
 dza,1989,Lower middle income
@@ -95,6 +97,7 @@ dza,2015,Upper middle income
 dza,2016,Upper middle income
 dza,2017,Upper middle income
 dza,2018,Upper middle income
+dza,2019,Upper middle income
 and,1987,High income
 and,1988,High income
 and,1989,High income
@@ -127,6 +130,7 @@ and,2015,High income
 and,2016,High income
 and,2017,High income
 and,2018,High income
+and,2019,High income
 ago,1987,Lower middle income
 ago,1988,Lower middle income
 ago,1989,Lower middle income
@@ -159,6 +163,7 @@ ago,2015,Upper middle income
 ago,2016,Lower middle income
 ago,2017,Lower middle income
 ago,2018,Lower middle income
+ago,2019,Lower middle income
 atg,1987,Upper middle income
 atg,1988,Upper middle income
 atg,1989,Upper middle income
@@ -191,6 +196,7 @@ atg,2015,High income
 atg,2016,High income
 atg,2017,High income
 atg,2018,High income
+atg,2019,High income
 arg,1987,Upper middle income
 arg,1988,Upper middle income
 arg,1989,Lower middle income
@@ -223,6 +229,7 @@ arg,2015,Upper middle income
 arg,2016,Upper middle income
 arg,2017,High income
 arg,2018,Upper middle income
+arg,2019,Upper middle income
 arm,1987,Lower middle income
 arm,1988,Lower middle income
 arm,1989,Lower middle income
@@ -255,6 +262,7 @@ arm,2015,Lower middle income
 arm,2016,Lower middle income
 arm,2017,Upper middle income
 arm,2018,Upper middle income
+arm,2019,Upper middle income
 aus,1987,High income
 aus,1988,High income
 aus,1989,High income
@@ -287,6 +295,7 @@ aus,2015,High income
 aus,2016,High income
 aus,2017,High income
 aus,2018,High income
+aus,2019,High income
 aut,1987,High income
 aut,1988,High income
 aut,1989,High income
@@ -319,6 +328,7 @@ aut,2015,High income
 aut,2016,High income
 aut,2017,High income
 aut,2018,High income
+aut,2019,High income
 aze,1987,Lower middle income
 aze,1988,Lower middle income
 aze,1989,Lower middle income
@@ -351,6 +361,7 @@ aze,2015,Upper middle income
 aze,2016,Upper middle income
 aze,2017,Upper middle income
 aze,2018,Upper middle income
+aze,2019,Upper middle income
 bhs,1987,High income
 bhs,1988,High income
 bhs,1989,High income
@@ -383,6 +394,7 @@ bhs,2015,High income
 bhs,2016,High income
 bhs,2017,High income
 bhs,2018,High income
+bhs,2019,High income
 bhr,1987,High income
 bhr,1988,High income
 bhr,1989,High income
@@ -415,6 +427,7 @@ bhr,2015,High income
 bhr,2016,High income
 bhr,2017,High income
 bhr,2018,High income
+bhr,2019,High income
 bgd,1987,Low income
 bgd,1988,Low income
 bgd,1989,Low income
@@ -447,6 +460,7 @@ bgd,2015,Lower middle income
 bgd,2016,Lower middle income
 bgd,2017,Lower middle income
 bgd,2018,Lower middle income
+bgd,2019,Lower middle income
 brb,1987,Upper middle income
 brb,1988,Upper middle income
 brb,1989,High income
@@ -479,6 +493,7 @@ brb,2015,High income
 brb,2016,High income
 brb,2017,High income
 brb,2018,High income
+brb,2019,High income
 blr,1987,Upper middle income
 blr,1988,Upper middle income
 blr,1989,Upper middle income
@@ -511,6 +526,7 @@ blr,2015,Upper middle income
 blr,2016,Upper middle income
 blr,2017,Upper middle income
 blr,2018,Upper middle income
+blr,2019,Upper middle income
 bel,1987,High income
 bel,1988,High income
 bel,1989,High income
@@ -543,6 +559,7 @@ bel,2015,High income
 bel,2016,High income
 bel,2017,High income
 bel,2018,High income
+bel,2019,High income
 blz,1987,Lower middle income
 blz,1988,Lower middle income
 blz,1989,Lower middle income
@@ -575,6 +592,7 @@ blz,2015,Upper middle income
 blz,2016,Upper middle income
 blz,2017,Upper middle income
 blz,2018,Upper middle income
+blz,2019,Upper middle income
 ben,1987,Low income
 ben,1988,Low income
 ben,1989,Low income
@@ -607,6 +625,7 @@ ben,2015,Low income
 ben,2016,Low income
 ben,2017,Low income
 ben,2018,Low income
+ben,2019,Low income
 btn,1987,Low income
 btn,1988,Low income
 btn,1989,Low income
@@ -639,6 +658,7 @@ btn,2015,Lower middle income
 btn,2016,Lower middle income
 btn,2017,Lower middle income
 btn,2018,Lower middle income
+btn,2019,Lower middle income
 bol,1987,Lower middle income
 bol,1988,Lower middle income
 bol,1989,Lower middle income
@@ -671,6 +691,7 @@ bol,2015,Lower middle income
 bol,2016,Lower middle income
 bol,2017,Lower middle income
 bol,2018,Lower middle income
+bol,2019,Lower middle income
 bih,1987,Lower middle income
 bih,1988,Lower middle income
 bih,1989,Lower middle income
@@ -703,6 +724,7 @@ bih,2015,Upper middle income
 bih,2016,Upper middle income
 bih,2017,Upper middle income
 bih,2018,Upper middle income
+bih,2019,Upper middle income
 bwa,1987,Lower middle income
 bwa,1988,Lower middle income
 bwa,1989,Lower middle income
@@ -735,6 +757,7 @@ bwa,2015,Upper middle income
 bwa,2016,Upper middle income
 bwa,2017,Upper middle income
 bwa,2018,Upper middle income
+bwa,2019,Upper middle income
 bra,1987,Upper middle income
 bra,1988,Lower middle income
 bra,1989,Upper middle income
@@ -767,6 +790,7 @@ bra,2015,Upper middle income
 bra,2016,Upper middle income
 bra,2017,Upper middle income
 bra,2018,Upper middle income
+bra,2019,Upper middle income
 brn,1987,High income
 brn,1988,High income
 brn,1989,High income
@@ -799,6 +823,7 @@ brn,2015,High income
 brn,2016,High income
 brn,2017,High income
 brn,2018,High income
+brn,2019,High income
 bgr,1987,Lower middle income
 bgr,1988,Lower middle income
 bgr,1989,Lower middle income
@@ -831,6 +856,7 @@ bgr,2015,Upper middle income
 bgr,2016,Upper middle income
 bgr,2017,Upper middle income
 bgr,2018,Upper middle income
+bgr,2019,Upper middle income
 bfa,1987,Low income
 bfa,1988,Low income
 bfa,1989,Low income
@@ -863,6 +889,7 @@ bfa,2015,Low income
 bfa,2016,Low income
 bfa,2017,Low income
 bfa,2018,Low income
+bfa,2019,Low income
 bdi,1987,Low income
 bdi,1988,Low income
 bdi,1989,Low income
@@ -895,6 +922,7 @@ bdi,2015,Low income
 bdi,2016,Low income
 bdi,2017,Low income
 bdi,2018,Low income
+bdi,2019,Low income
 cpv,1987,Lower middle income
 cpv,1988,Lower middle income
 cpv,1989,Lower middle income
@@ -927,6 +955,7 @@ cpv,2015,Lower middle income
 cpv,2016,Lower middle income
 cpv,2017,Lower middle income
 cpv,2018,Lower middle income
+cpv,2019,Lower middle income
 khm,1987,Low income
 khm,1988,Low income
 khm,1989,Low income
@@ -959,6 +988,7 @@ khm,2015,Lower middle income
 khm,2016,Lower middle income
 khm,2017,Lower middle income
 khm,2018,Lower middle income
+khm,2019,Lower middle income
 cmr,1987,Lower middle income
 cmr,1988,Lower middle income
 cmr,1989,Lower middle income
@@ -991,6 +1021,7 @@ cmr,2015,Lower middle income
 cmr,2016,Lower middle income
 cmr,2017,Lower middle income
 cmr,2018,Lower middle income
+cmr,2019,Lower middle income
 can,1987,High income
 can,1988,High income
 can,1989,High income
@@ -1023,6 +1054,7 @@ can,2015,High income
 can,2016,High income
 can,2017,High income
 can,2018,High income
+can,2019,High income
 caf,1987,Low income
 caf,1988,Low income
 caf,1989,Low income
@@ -1055,6 +1087,7 @@ caf,2015,Low income
 caf,2016,Low income
 caf,2017,Low income
 caf,2018,Low income
+caf,2019,Low income
 tcd,1987,Low income
 tcd,1988,Low income
 tcd,1989,Low income
@@ -1087,6 +1120,7 @@ tcd,2015,Low income
 tcd,2016,Low income
 tcd,2017,Low income
 tcd,2018,Low income
+tcd,2019,Low income
 chl,1987,Lower middle income
 chl,1988,Lower middle income
 chl,1989,Lower middle income
@@ -1119,6 +1153,7 @@ chl,2015,High income
 chl,2016,High income
 chl,2017,High income
 chl,2018,High income
+chl,2019,High income
 chn,1987,Low income
 chn,1988,Low income
 chn,1989,Low income
@@ -1151,6 +1186,7 @@ chn,2015,Upper middle income
 chn,2016,Upper middle income
 chn,2017,Upper middle income
 chn,2018,Upper middle income
+chn,2019,Upper middle income
 col,1987,Lower middle income
 col,1988,Lower middle income
 col,1989,Lower middle income
@@ -1183,6 +1219,7 @@ col,2015,Upper middle income
 col,2016,Upper middle income
 col,2017,Upper middle income
 col,2018,Upper middle income
+col,2019,Upper middle income
 com,1987,Low income
 com,1988,Low income
 com,1989,Low income
@@ -1215,6 +1252,7 @@ com,2015,Low income
 com,2016,Low income
 com,2017,Low income
 com,2018,Lower middle income
+com,2019,Lower middle income
 cod,1987,Low income
 cod,1988,Low income
 cod,1989,Low income
@@ -1247,6 +1285,7 @@ cod,2015,Low income
 cod,2016,Low income
 cod,2017,Low income
 cod,2018,Low income
+cod,2019,Low income
 cog,1987,Lower middle income
 cog,1988,Lower middle income
 cog,1989,Lower middle income
@@ -1279,6 +1318,7 @@ cog,2015,Lower middle income
 cog,2016,Lower middle income
 cog,2017,Lower middle income
 cog,2018,Lower middle income
+cog,2019,Lower middle income
 cri,1987,Lower middle income
 cri,1988,Lower middle income
 cri,1989,Lower middle income
@@ -1311,6 +1351,7 @@ cri,2015,Upper middle income
 cri,2016,Upper middle income
 cri,2017,Upper middle income
 cri,2018,Upper middle income
+cri,2019,Upper middle income
 civ,1987,Lower middle income
 civ,1988,Lower middle income
 civ,1989,Lower middle income
@@ -1343,6 +1384,7 @@ civ,2015,Lower middle income
 civ,2016,Lower middle income
 civ,2017,Lower middle income
 civ,2018,Lower middle income
+civ,2019,Lower middle income
 hrv,1987,Lower middle income
 hrv,1988,Lower middle income
 hrv,1989,Lower middle income
@@ -1375,6 +1417,7 @@ hrv,2015,High income
 hrv,2016,Upper middle income
 hrv,2017,High income
 hrv,2018,High income
+hrv,2019,High income
 cub,1987,Lower middle income
 cub,1988,Lower middle income
 cub,1989,Lower middle income
@@ -1407,6 +1450,7 @@ cub,2015,Upper middle income
 cub,2016,Upper middle income
 cub,2017,Upper middle income
 cub,2018,Upper middle income
+cub,2019,Upper middle income
 cyp,1987,Upper middle income
 cyp,1988,High income
 cyp,1989,High income
@@ -1439,6 +1483,7 @@ cyp,2015,High income
 cyp,2016,High income
 cyp,2017,High income
 cyp,2018,High income
+cyp,2019,High income
 cze,1987,Lower middle income
 cze,1988,Lower middle income
 cze,1989,Lower middle income
@@ -1471,6 +1516,7 @@ cze,2015,High income
 cze,2016,High income
 cze,2017,High income
 cze,2018,High income
+cze,2019,High income
 dnk,1987,High income
 dnk,1988,High income
 dnk,1989,High income
@@ -1503,6 +1549,7 @@ dnk,2015,High income
 dnk,2016,High income
 dnk,2017,High income
 dnk,2018,High income
+dnk,2019,High income
 dji,1987,Lower middle income
 dji,1988,Lower middle income
 dji,1989,Lower middle income
@@ -1535,6 +1582,7 @@ dji,2015,Lower middle income
 dji,2016,Lower middle income
 dji,2017,Lower middle income
 dji,2018,Lower middle income
+dji,2019,Lower middle income
 dma,1987,Lower middle income
 dma,1988,Lower middle income
 dma,1989,Lower middle income
@@ -1567,6 +1615,7 @@ dma,2015,Upper middle income
 dma,2016,Upper middle income
 dma,2017,Upper middle income
 dma,2018,Upper middle income
+dma,2019,Upper middle income
 dom,1987,Lower middle income
 dom,1988,Lower middle income
 dom,1989,Lower middle income
@@ -1599,6 +1648,7 @@ dom,2015,Upper middle income
 dom,2016,Upper middle income
 dom,2017,Upper middle income
 dom,2018,Upper middle income
+dom,2019,Upper middle income
 ecu,1987,Lower middle income
 ecu,1988,Lower middle income
 ecu,1989,Lower middle income
@@ -1631,6 +1681,7 @@ ecu,2015,Upper middle income
 ecu,2016,Upper middle income
 ecu,2017,Upper middle income
 ecu,2018,Upper middle income
+ecu,2019,Upper middle income
 egy,1987,Lower middle income
 egy,1988,Lower middle income
 egy,1989,Lower middle income
@@ -1663,6 +1714,7 @@ egy,2015,Lower middle income
 egy,2016,Lower middle income
 egy,2017,Lower middle income
 egy,2018,Lower middle income
+egy,2019,Lower middle income
 slv,1987,Lower middle income
 slv,1988,Lower middle income
 slv,1989,Lower middle income
@@ -1695,6 +1747,7 @@ slv,2015,Lower middle income
 slv,2016,Lower middle income
 slv,2017,Lower middle income
 slv,2018,Lower middle income
+slv,2019,Lower middle income
 gnq,1987,Low income
 gnq,1988,Low income
 gnq,1989,Low income
@@ -1727,6 +1780,7 @@ gnq,2015,Upper middle income
 gnq,2016,Upper middle income
 gnq,2017,Upper middle income
 gnq,2018,Upper middle income
+gnq,2019,Upper middle income
 eri,1987,Low income
 eri,1988,Low income
 eri,1989,Low income
@@ -1759,6 +1813,7 @@ eri,2015,Low income
 eri,2016,Low income
 eri,2017,Low income
 eri,2018,Low income
+eri,2019,Low income
 est,1987,Upper middle income
 est,1988,Upper middle income
 est,1989,Upper middle income
@@ -1791,6 +1846,7 @@ est,2015,High income
 est,2016,High income
 est,2017,High income
 est,2018,High income
+est,2019,High income
 swz,1987,Lower middle income
 swz,1988,Lower middle income
 swz,1989,Lower middle income
@@ -1823,6 +1879,7 @@ swz,2015,Lower middle income
 swz,2016,Lower middle income
 swz,2017,Lower middle income
 swz,2018,Lower middle income
+swz,2019,Lower middle income
 eth,1987,Low income
 eth,1988,Low income
 eth,1989,Low income
@@ -1855,6 +1912,7 @@ eth,2015,Low income
 eth,2016,Low income
 eth,2017,Low income
 eth,2018,Low income
+eth,2019,Low income
 fji,1987,Lower middle income
 fji,1988,Lower middle income
 fji,1989,Lower middle income
@@ -1887,6 +1945,7 @@ fji,2015,Upper middle income
 fji,2016,Upper middle income
 fji,2017,Upper middle income
 fji,2018,Upper middle income
+fji,2019,Upper middle income
 fin,1987,High income
 fin,1988,High income
 fin,1989,High income
@@ -1919,6 +1978,7 @@ fin,2015,High income
 fin,2016,High income
 fin,2017,High income
 fin,2018,High income
+fin,2019,High income
 fra,1987,High income
 fra,1988,High income
 fra,1989,High income
@@ -1951,6 +2011,7 @@ fra,2015,High income
 fra,2016,High income
 fra,2017,High income
 fra,2018,High income
+fra,2019,High income
 gab,1987,Upper middle income
 gab,1988,Upper middle income
 gab,1989,Upper middle income
@@ -1983,6 +2044,7 @@ gab,2015,Upper middle income
 gab,2016,Upper middle income
 gab,2017,Upper middle income
 gab,2018,Upper middle income
+gab,2019,Upper middle income
 gmb,1987,Low income
 gmb,1988,Low income
 gmb,1989,Low income
@@ -2015,6 +2077,7 @@ gmb,2015,Low income
 gmb,2016,Low income
 gmb,2017,Low income
 gmb,2018,Low income
+gmb,2019,Low income
 geo,1987,Lower middle income
 geo,1988,Lower middle income
 geo,1989,Lower middle income
@@ -2047,6 +2110,7 @@ geo,2015,Upper middle income
 geo,2016,Lower middle income
 geo,2017,Lower middle income
 geo,2018,Upper middle income
+geo,2019,Upper middle income
 deu,1987,High income
 deu,1988,High income
 deu,1989,High income
@@ -2079,6 +2143,7 @@ deu,2015,High income
 deu,2016,High income
 deu,2017,High income
 deu,2018,High income
+deu,2019,High income
 gha,1987,Low income
 gha,1988,Low income
 gha,1989,Low income
@@ -2111,6 +2176,7 @@ gha,2015,Lower middle income
 gha,2016,Lower middle income
 gha,2017,Lower middle income
 gha,2018,Lower middle income
+gha,2019,Lower middle income
 grc,1987,Upper middle income
 grc,1988,Upper middle income
 grc,1989,Upper middle income
@@ -2143,6 +2209,7 @@ grc,2015,High income
 grc,2016,High income
 grc,2017,High income
 grc,2018,High income
+grc,2019,High income
 grd,1987,Lower middle income
 grd,1988,Lower middle income
 grd,1989,Lower middle income
@@ -2175,6 +2242,7 @@ grd,2015,Upper middle income
 grd,2016,Upper middle income
 grd,2017,Upper middle income
 grd,2018,Upper middle income
+grd,2019,Upper middle income
 gtm,1987,Lower middle income
 gtm,1988,Lower middle income
 gtm,1989,Lower middle income
@@ -2207,6 +2275,7 @@ gtm,2015,Lower middle income
 gtm,2016,Lower middle income
 gtm,2017,Upper middle income
 gtm,2018,Upper middle income
+gtm,2019,Upper middle income
 gin,1987,Low income
 gin,1988,Low income
 gin,1989,Low income
@@ -2239,6 +2308,7 @@ gin,2015,Low income
 gin,2016,Low income
 gin,2017,Low income
 gin,2018,Low income
+gin,2019,Low income
 gnb,1987,Low income
 gnb,1988,Low income
 gnb,1989,Low income
@@ -2271,6 +2341,7 @@ gnb,2015,Low income
 gnb,2016,Low income
 gnb,2017,Low income
 gnb,2018,Low income
+gnb,2019,Low income
 guy,1987,Low income
 guy,1988,Low income
 guy,1989,Low income
@@ -2303,6 +2374,7 @@ guy,2015,Upper middle income
 guy,2016,Upper middle income
 guy,2017,Upper middle income
 guy,2018,Upper middle income
+guy,2019,Upper middle income
 hti,1987,Low income
 hti,1988,Low income
 hti,1989,Low income
@@ -2335,6 +2407,7 @@ hti,2015,Low income
 hti,2016,Low income
 hti,2017,Low income
 hti,2018,Low income
+hti,2019,Low income
 hnd,1987,Lower middle income
 hnd,1988,Lower middle income
 hnd,1989,Lower middle income
@@ -2367,6 +2440,7 @@ hnd,2015,Lower middle income
 hnd,2016,Lower middle income
 hnd,2017,Lower middle income
 hnd,2018,Lower middle income
+hnd,2019,Lower middle income
 hkg,1987,High income
 hkg,1988,High income
 hkg,1989,High income
@@ -2399,6 +2473,7 @@ hkg,2015,High income
 hkg,2016,High income
 hkg,2017,High income
 hkg,2018,High income
+hkg,2019,High income
 hun,1987,Upper middle income
 hun,1988,Upper middle income
 hun,1989,Upper middle income
@@ -2431,6 +2506,7 @@ hun,2015,High income
 hun,2016,High income
 hun,2017,High income
 hun,2018,High income
+hun,2019,High income
 isl,1987,High income
 isl,1988,High income
 isl,1989,High income
@@ -2463,6 +2539,7 @@ isl,2015,High income
 isl,2016,High income
 isl,2017,High income
 isl,2018,High income
+isl,2019,High income
 ind,1987,Low income
 ind,1988,Low income
 ind,1989,Low income
@@ -2495,6 +2572,7 @@ ind,2015,Lower middle income
 ind,2016,Lower middle income
 ind,2017,Lower middle income
 ind,2018,Lower middle income
+ind,2019,Lower middle income
 idn,1987,Low income
 idn,1988,Low income
 idn,1989,Low income
@@ -2527,6 +2605,7 @@ idn,2015,Lower middle income
 idn,2016,Lower middle income
 idn,2017,Lower middle income
 idn,2018,Lower middle income
+idn,2019,Lower middle income
 irn,1987,Upper middle income
 irn,1988,Upper middle income
 irn,1989,Upper middle income
@@ -2559,6 +2638,7 @@ irn,2015,Upper middle income
 irn,2016,Upper middle income
 irn,2017,Upper middle income
 irn,2018,Upper middle income
+irn,2019,Upper middle income
 irq,1987,Upper middle income
 irq,1988,Upper middle income
 irq,1989,Upper middle income
@@ -2591,6 +2671,7 @@ irq,2015,Upper middle income
 irq,2016,Upper middle income
 irq,2017,Upper middle income
 irq,2018,Upper middle income
+irq,2019,Upper middle income
 irl,1987,High income
 irl,1988,High income
 irl,1989,High income
@@ -2623,6 +2704,7 @@ irl,2015,High income
 irl,2016,High income
 irl,2017,High income
 irl,2018,High income
+irl,2019,High income
 isr,1987,High income
 isr,1988,High income
 isr,1989,High income
@@ -2655,6 +2737,7 @@ isr,2015,High income
 isr,2016,High income
 isr,2017,High income
 isr,2018,High income
+isr,2019,High income
 ita,1987,High income
 ita,1988,High income
 ita,1989,High income
@@ -2687,6 +2770,7 @@ ita,2015,High income
 ita,2016,High income
 ita,2017,High income
 ita,2018,High income
+ita,2019,High income
 jam,1987,Lower middle income
 jam,1988,Lower middle income
 jam,1989,Lower middle income
@@ -2719,6 +2803,7 @@ jam,2015,Upper middle income
 jam,2016,Upper middle income
 jam,2017,Upper middle income
 jam,2018,Upper middle income
+jam,2019,Upper middle income
 jpn,1987,High income
 jpn,1988,High income
 jpn,1989,High income
@@ -2751,6 +2836,7 @@ jpn,2015,High income
 jpn,2016,High income
 jpn,2017,High income
 jpn,2018,High income
+jpn,2019,High income
 jor,1987,Lower middle income
 jor,1988,Lower middle income
 jor,1989,Lower middle income
@@ -2783,6 +2869,7 @@ jor,2015,Upper middle income
 jor,2016,Lower middle income
 jor,2017,Upper middle income
 jor,2018,Upper middle income
+jor,2019,Upper middle income
 kaz,1987,Lower middle income
 kaz,1988,Lower middle income
 kaz,1989,Lower middle income
@@ -2815,6 +2902,7 @@ kaz,2015,Upper middle income
 kaz,2016,Upper middle income
 kaz,2017,Upper middle income
 kaz,2018,Upper middle income
+kaz,2019,Upper middle income
 ken,1987,Low income
 ken,1988,Low income
 ken,1989,Low income
@@ -2847,6 +2935,7 @@ ken,2015,Lower middle income
 ken,2016,Lower middle income
 ken,2017,Lower middle income
 ken,2018,Lower middle income
+ken,2019,Lower middle income
 kir,1987,Lower middle income
 kir,1988,Lower middle income
 kir,1989,Lower middle income
@@ -2879,6 +2968,7 @@ kir,2015,Lower middle income
 kir,2016,Lower middle income
 kir,2017,Lower middle income
 kir,2018,Lower middle income
+kir,2019,Lower middle income
 prk,1987,Lower middle income
 prk,1988,Lower middle income
 prk,1989,Lower middle income
@@ -2911,6 +3001,7 @@ prk,2015,Low income
 prk,2016,Low income
 prk,2017,Low income
 prk,2018,Low income
+prk,2019,Low income
 kor,1987,Upper middle income
 kor,1988,Upper middle income
 kor,1989,Upper middle income
@@ -2943,6 +3034,7 @@ kor,2015,High income
 kor,2016,High income
 kor,2017,High income
 kor,2018,High income
+kor,2019,High income
 kwt,1987,High income
 kwt,1988,High income
 kwt,1989,High income
@@ -2975,6 +3067,7 @@ kwt,2015,High income
 kwt,2016,High income
 kwt,2017,High income
 kwt,2018,High income
+kwt,2019,High income
 kgz,1987,Lower middle income
 kgz,1988,Lower middle income
 kgz,1989,Lower middle income
@@ -3007,6 +3100,7 @@ kgz,2015,Lower middle income
 kgz,2016,Lower middle income
 kgz,2017,Lower middle income
 kgz,2018,Lower middle income
+kgz,2019,Lower middle income
 lao,1987,Low income
 lao,1988,Low income
 lao,1989,Low income
@@ -3039,6 +3133,7 @@ lao,2015,Lower middle income
 lao,2016,Lower middle income
 lao,2017,Lower middle income
 lao,2018,Lower middle income
+lao,2019,Lower middle income
 lva,1987,Upper middle income
 lva,1988,Upper middle income
 lva,1989,Upper middle income
@@ -3071,6 +3166,7 @@ lva,2015,High income
 lva,2016,High income
 lva,2017,High income
 lva,2018,High income
+lva,2019,High income
 lbn,1987,Lower middle income
 lbn,1988,Lower middle income
 lbn,1989,Lower middle income
@@ -3103,6 +3199,7 @@ lbn,2015,Upper middle income
 lbn,2016,Upper middle income
 lbn,2017,Upper middle income
 lbn,2018,Upper middle income
+lbn,2019,Upper middle income
 lso,1987,Low income
 lso,1988,Low income
 lso,1989,Low income
@@ -3135,6 +3232,7 @@ lso,2015,Lower middle income
 lso,2016,Lower middle income
 lso,2017,Lower middle income
 lso,2018,Lower middle income
+lso,2019,Lower middle income
 lbr,1987,Low income
 lbr,1988,Low income
 lbr,1989,Low income
@@ -3167,6 +3265,7 @@ lbr,2015,Low income
 lbr,2016,Low income
 lbr,2017,Low income
 lbr,2018,Low income
+lbr,2019,Low income
 lby,1987,Upper middle income
 lby,1988,Upper middle income
 lby,1989,Upper middle income
@@ -3199,6 +3298,7 @@ lby,2015,Upper middle income
 lby,2016,Upper middle income
 lby,2017,Upper middle income
 lby,2018,Upper middle income
+lby,2019,Upper middle income
 lie,1987,High income
 lie,1988,High income
 lie,1989,High income
@@ -3231,6 +3331,7 @@ lie,2015,High income
 lie,2016,High income
 lie,2017,High income
 lie,2018,High income
+lie,2019,High income
 ltu,1987,Upper middle income
 ltu,1988,Upper middle income
 ltu,1989,Upper middle income
@@ -3263,6 +3364,7 @@ ltu,2015,High income
 ltu,2016,High income
 ltu,2017,High income
 ltu,2018,High income
+ltu,2019,High income
 lux,1987,High income
 lux,1988,High income
 lux,1989,High income
@@ -3295,6 +3397,7 @@ lux,2015,High income
 lux,2016,High income
 lux,2017,High income
 lux,2018,High income
+lux,2019,High income
 mdg,1987,Low income
 mdg,1988,Low income
 mdg,1989,Low income
@@ -3327,6 +3430,7 @@ mdg,2015,Low income
 mdg,2016,Low income
 mdg,2017,Low income
 mdg,2018,Low income
+mdg,2019,Low income
 mwi,1987,Low income
 mwi,1988,Low income
 mwi,1989,Low income
@@ -3359,6 +3463,7 @@ mwi,2015,Low income
 mwi,2016,Low income
 mwi,2017,Low income
 mwi,2018,Low income
+mwi,2019,Low income
 mys,1987,Lower middle income
 mys,1988,Lower middle income
 mys,1989,Lower middle income
@@ -3391,6 +3496,7 @@ mys,2015,Upper middle income
 mys,2016,Upper middle income
 mys,2017,Upper middle income
 mys,2018,Upper middle income
+mys,2019,Upper middle income
 mdv,1987,Low income
 mdv,1988,Low income
 mdv,1989,Low income
@@ -3423,6 +3529,7 @@ mdv,2015,Upper middle income
 mdv,2016,Upper middle income
 mdv,2017,Upper middle income
 mdv,2018,Upper middle income
+mdv,2019,Upper middle income
 mli,1987,Low income
 mli,1988,Low income
 mli,1989,Low income
@@ -3455,6 +3562,7 @@ mli,2015,Low income
 mli,2016,Low income
 mli,2017,Low income
 mli,2018,Low income
+mli,2019,Low income
 mlt,1987,Upper middle income
 mlt,1988,Upper middle income
 mlt,1989,High income
@@ -3487,6 +3595,7 @@ mlt,2015,High income
 mlt,2016,High income
 mlt,2017,High income
 mlt,2018,High income
+mlt,2019,High income
 mhl,1987,Lower middle income
 mhl,1988,Lower middle income
 mhl,1989,Lower middle income
@@ -3519,6 +3628,7 @@ mhl,2015,Upper middle income
 mhl,2016,Upper middle income
 mhl,2017,Upper middle income
 mhl,2018,Upper middle income
+mhl,2019,Upper middle income
 mrt,1987,Low income
 mrt,1988,Low income
 mrt,1989,Low income
@@ -3551,6 +3661,7 @@ mrt,2015,Lower middle income
 mrt,2016,Lower middle income
 mrt,2017,Lower middle income
 mrt,2018,Lower middle income
+mrt,2019,Lower middle income
 mus,1987,Lower middle income
 mus,1988,Lower middle income
 mus,1989,Lower middle income
@@ -3583,6 +3694,7 @@ mus,2015,Upper middle income
 mus,2016,Upper middle income
 mus,2017,Upper middle income
 mus,2018,Upper middle income
+mus,2019,Upper middle income
 mex,1987,Lower middle income
 mex,1988,Lower middle income
 mex,1989,Lower middle income
@@ -3615,6 +3727,7 @@ mex,2015,Upper middle income
 mex,2016,Upper middle income
 mex,2017,Upper middle income
 mex,2018,Upper middle income
+mex,2019,Upper middle income
 fsm,1987,Lower middle income
 fsm,1988,Lower middle income
 fsm,1989,Lower middle income
@@ -3647,6 +3760,7 @@ fsm,2015,Lower middle income
 fsm,2016,Lower middle income
 fsm,2017,Lower middle income
 fsm,2018,Lower middle income
+fsm,2019,Lower middle income
 mda,1987,Lower middle income
 mda,1988,Lower middle income
 mda,1989,Lower middle income
@@ -3679,6 +3793,7 @@ mda,2015,Lower middle income
 mda,2016,Lower middle income
 mda,2017,Lower middle income
 mda,2018,Lower middle income
+mda,2019,Lower middle income
 mco,1987,High income
 mco,1988,High income
 mco,1989,High income
@@ -3711,6 +3826,7 @@ mco,2015,High income
 mco,2016,High income
 mco,2017,High income
 mco,2018,High income
+mco,2019,High income
 mng,1987,Lower middle income
 mng,1988,Lower middle income
 mng,1989,Lower middle income
@@ -3743,6 +3859,7 @@ mng,2015,Lower middle income
 mng,2016,Lower middle income
 mng,2017,Lower middle income
 mng,2018,Lower middle income
+mng,2019,Lower middle income
 mne,1987,Upper middle income
 mne,1988,Upper middle income
 mne,1989,Upper middle income
@@ -3775,6 +3892,7 @@ mne,2015,Upper middle income
 mne,2016,Upper middle income
 mne,2017,Upper middle income
 mne,2018,Upper middle income
+mne,2019,Upper middle income
 mar,1987,Lower middle income
 mar,1988,Lower middle income
 mar,1989,Lower middle income
@@ -3807,6 +3925,7 @@ mar,2015,Lower middle income
 mar,2016,Lower middle income
 mar,2017,Lower middle income
 mar,2018,Lower middle income
+mar,2019,Lower middle income
 moz,1987,Low income
 moz,1988,Low income
 moz,1989,Low income
@@ -3839,6 +3958,7 @@ moz,2015,Low income
 moz,2016,Low income
 moz,2017,Low income
 moz,2018,Low income
+moz,2019,Low income
 mmr,1987,Low income
 mmr,1988,Low income
 mmr,1989,Low income
@@ -3871,6 +3991,7 @@ mmr,2015,Lower middle income
 mmr,2016,Lower middle income
 mmr,2017,Lower middle income
 mmr,2018,Lower middle income
+mmr,2019,Lower middle income
 nam,1987,Lower middle income
 nam,1988,Lower middle income
 nam,1989,Lower middle income
@@ -3903,6 +4024,7 @@ nam,2015,Upper middle income
 nam,2016,Upper middle income
 nam,2017,Upper middle income
 nam,2018,Upper middle income
+nam,2019,Upper middle income
 nru,1987,High income
 nru,1988,High income
 nru,1989,High income
@@ -3935,6 +4057,7 @@ nru,2015,High income
 nru,2016,Upper middle income
 nru,2017,Upper middle income
 nru,2018,Upper middle income
+nru,2019,Upper middle income
 npl,1987,Low income
 npl,1988,Low income
 npl,1989,Low income
@@ -3967,6 +4090,7 @@ npl,2015,Low income
 npl,2016,Low income
 npl,2017,Low income
 npl,2018,Low income
+npl,2019,Low income
 nld,1987,High income
 nld,1988,High income
 nld,1989,High income
@@ -3999,6 +4123,7 @@ nld,2015,High income
 nld,2016,High income
 nld,2017,High income
 nld,2018,High income
+nld,2019,High income
 nzl,1987,High income
 nzl,1988,High income
 nzl,1989,High income
@@ -4031,6 +4156,7 @@ nzl,2015,High income
 nzl,2016,High income
 nzl,2017,High income
 nzl,2018,High income
+nzl,2019,High income
 nic,1987,Lower middle income
 nic,1988,Lower middle income
 nic,1989,Lower middle income
@@ -4063,6 +4189,7 @@ nic,2015,Lower middle income
 nic,2016,Lower middle income
 nic,2017,Lower middle income
 nic,2018,Lower middle income
+nic,2019,Lower middle income
 ner,1987,Low income
 ner,1988,Low income
 ner,1989,Low income
@@ -4095,6 +4222,7 @@ ner,2015,Low income
 ner,2016,Low income
 ner,2017,Low income
 ner,2018,Low income
+ner,2019,Low income
 nga,1987,Low income
 nga,1988,Low income
 nga,1989,Low income
@@ -4127,6 +4255,7 @@ nga,2015,Lower middle income
 nga,2016,Lower middle income
 nga,2017,Lower middle income
 nga,2018,Lower middle income
+nga,2019,Lower middle income
 mkd,1987,Lower middle income
 mkd,1988,Lower middle income
 mkd,1989,Lower middle income
@@ -4159,6 +4288,7 @@ mkd,2015,Upper middle income
 mkd,2016,Upper middle income
 mkd,2017,Upper middle income
 mkd,2018,Upper middle income
+mkd,2019,Upper middle income
 nor,1987,High income
 nor,1988,High income
 nor,1989,High income
@@ -4191,6 +4321,7 @@ nor,2015,High income
 nor,2016,High income
 nor,2017,High income
 nor,2018,High income
+nor,2019,High income
 omn,1987,Upper middle income
 omn,1988,Upper middle income
 omn,1989,Upper middle income
@@ -4223,6 +4354,7 @@ omn,2015,High income
 omn,2016,High income
 omn,2017,High income
 omn,2018,High income
+omn,2019,High income
 pak,1987,Low income
 pak,1988,Low income
 pak,1989,Low income
@@ -4255,6 +4387,7 @@ pak,2015,Lower middle income
 pak,2016,Lower middle income
 pak,2017,Lower middle income
 pak,2018,Lower middle income
+pak,2019,Lower middle income
 plw,1987,Upper middle income
 plw,1988,Upper middle income
 plw,1989,Upper middle income
@@ -4287,6 +4420,7 @@ plw,2015,Upper middle income
 plw,2016,High income
 plw,2017,High income
 plw,2018,High income
+plw,2019,High income
 pan,1987,Upper middle income
 pan,1988,Lower middle income
 pan,1989,Lower middle income
@@ -4319,6 +4453,7 @@ pan,2015,Upper middle income
 pan,2016,Upper middle income
 pan,2017,High income
 pan,2018,High income
+pan,2019,High income
 png,1987,Lower middle income
 png,1988,Lower middle income
 png,1989,Lower middle income
@@ -4351,6 +4486,7 @@ png,2015,Lower middle income
 png,2016,Lower middle income
 png,2017,Lower middle income
 png,2018,Lower middle income
+png,2019,Lower middle income
 pry,1987,Lower middle income
 pry,1988,Lower middle income
 pry,1989,Lower middle income
@@ -4383,6 +4519,7 @@ pry,2015,Upper middle income
 pry,2016,Upper middle income
 pry,2017,Upper middle income
 pry,2018,Upper middle income
+pry,2019,Upper middle income
 per,1987,Lower middle income
 per,1988,Lower middle income
 per,1989,Lower middle income
@@ -4415,6 +4552,7 @@ per,2015,Upper middle income
 per,2016,Upper middle income
 per,2017,Upper middle income
 per,2018,Upper middle income
+per,2019,Upper middle income
 phl,1987,Lower middle income
 phl,1988,Lower middle income
 phl,1989,Lower middle income
@@ -4447,6 +4585,7 @@ phl,2015,Lower middle income
 phl,2016,Lower middle income
 phl,2017,Lower middle income
 phl,2018,Lower middle income
+phl,2019,Lower middle income
 pol,1987,Lower middle income
 pol,1988,Lower middle income
 pol,1989,Lower middle income
@@ -4479,6 +4618,7 @@ pol,2015,High income
 pol,2016,High income
 pol,2017,High income
 pol,2018,High income
+pol,2019,High income
 prt,1987,Upper middle income
 prt,1988,Upper middle income
 prt,1989,Upper middle income
@@ -4511,6 +4651,7 @@ prt,2015,High income
 prt,2016,High income
 prt,2017,High income
 prt,2018,High income
+prt,2019,High income
 qat,1987,High income
 qat,1988,High income
 qat,1989,High income
@@ -4543,6 +4684,7 @@ qat,2015,High income
 qat,2016,High income
 qat,2017,High income
 qat,2018,High income
+qat,2019,High income
 rou,1987,Upper middle income
 rou,1988,Upper middle income
 rou,1989,Upper middle income
@@ -4575,6 +4717,7 @@ rou,2015,Upper middle income
 rou,2016,Upper middle income
 rou,2017,Upper middle income
 rou,2018,Upper middle income
+rou,2019,Upper middle income
 rus,1987,Upper middle income
 rus,1988,Upper middle income
 rus,1989,Upper middle income
@@ -4607,6 +4750,7 @@ rus,2015,Upper middle income
 rus,2016,Upper middle income
 rus,2017,Upper middle income
 rus,2018,Upper middle income
+rus,2019,Upper middle income
 rwa,1987,Low income
 rwa,1988,Low income
 rwa,1989,Low income
@@ -4639,6 +4783,7 @@ rwa,2015,Low income
 rwa,2016,Low income
 rwa,2017,Low income
 rwa,2018,Low income
+rwa,2019,Low income
 wsm,1987,Lower middle income
 wsm,1988,Lower middle income
 wsm,1989,Lower middle income
@@ -4671,6 +4816,7 @@ wsm,2015,Lower middle income
 wsm,2016,Upper middle income
 wsm,2017,Upper middle income
 wsm,2018,Upper middle income
+wsm,2019,Upper middle income
 smr,1987,High income
 smr,1988,High income
 smr,1989,High income
@@ -4703,6 +4849,7 @@ smr,2015,High income
 smr,2016,High income
 smr,2017,High income
 smr,2018,High income
+smr,2019,High income
 stp,1987,Low income
 stp,1988,Low income
 stp,1989,Low income
@@ -4735,6 +4882,7 @@ stp,2015,Lower middle income
 stp,2016,Lower middle income
 stp,2017,Lower middle income
 stp,2018,Lower middle income
+stp,2019,Lower middle income
 sau,1987,High income
 sau,1988,High income
 sau,1989,High income
@@ -4767,6 +4915,7 @@ sau,2015,High income
 sau,2016,High income
 sau,2017,High income
 sau,2018,High income
+sau,2019,High income
 sen,1987,Lower middle income
 sen,1988,Lower middle income
 sen,1989,Lower middle income
@@ -4799,6 +4948,7 @@ sen,2015,Low income
 sen,2016,Low income
 sen,2017,Low income
 sen,2018,Lower middle income
+sen,2019,Lower middle income
 srb,1987,Upper middle income
 srb,1988,Upper middle income
 srb,1989,Upper middle income
@@ -4831,6 +4981,7 @@ srb,2015,Upper middle income
 srb,2016,Upper middle income
 srb,2017,Upper middle income
 srb,2018,Upper middle income
+srb,2019,Upper middle income
 syc,1987,Upper middle income
 syc,1988,Upper middle income
 syc,1989,Upper middle income
@@ -4863,6 +5014,7 @@ syc,2015,High income
 syc,2016,High income
 syc,2017,High income
 syc,2018,High income
+syc,2019,High income
 sle,1987,Low income
 sle,1988,Low income
 sle,1989,Low income
@@ -4895,6 +5047,7 @@ sle,2015,Low income
 sle,2016,Low income
 sle,2017,Low income
 sle,2018,Low income
+sle,2019,Low income
 sgp,1987,High income
 sgp,1988,High income
 sgp,1989,High income
@@ -4927,6 +5080,7 @@ sgp,2015,High income
 sgp,2016,High income
 sgp,2017,High income
 sgp,2018,High income
+sgp,2019,High income
 svk,1987,Lower middle income
 svk,1988,Lower middle income
 svk,1989,Lower middle income
@@ -4959,6 +5113,7 @@ svk,2015,High income
 svk,2016,High income
 svk,2017,High income
 svk,2018,High income
+svk,2019,High income
 svn,1987,Upper middle income
 svn,1988,Upper middle income
 svn,1989,Upper middle income
@@ -4991,6 +5146,7 @@ svn,2015,High income
 svn,2016,High income
 svn,2017,High income
 svn,2018,High income
+svn,2019,High income
 slb,1987,Low income
 slb,1988,Lower middle income
 slb,1989,Low income
@@ -5023,6 +5179,7 @@ slb,2015,Lower middle income
 slb,2016,Lower middle income
 slb,2017,Lower middle income
 slb,2018,Lower middle income
+slb,2019,Lower middle income
 som,1987,Low income
 som,1988,Low income
 som,1989,Low income
@@ -5055,6 +5212,7 @@ som,2015,Low income
 som,2016,Low income
 som,2017,Low income
 som,2018,Low income
+som,2019,Low income
 zaf,1987,Lower middle income
 zaf,1988,Upper middle income
 zaf,1989,Upper middle income
@@ -5087,6 +5245,7 @@ zaf,2015,Upper middle income
 zaf,2016,Upper middle income
 zaf,2017,Upper middle income
 zaf,2018,Upper middle income
+zaf,2019,Upper middle income
 ssd,1987,Lower middle income
 ssd,1988,Lower middle income
 ssd,1989,Lower middle income
@@ -5119,6 +5278,7 @@ ssd,2015,Low income
 ssd,2016,Low income
 ssd,2017,Low income
 ssd,2018,Low income
+ssd,2019,Low income
 esp,1987,High income
 esp,1988,High income
 esp,1989,High income
@@ -5151,6 +5311,7 @@ esp,2015,High income
 esp,2016,High income
 esp,2017,High income
 esp,2018,High income
+esp,2019,High income
 lka,1987,Low income
 lka,1988,Low income
 lka,1989,Low income
@@ -5183,6 +5344,7 @@ lka,2015,Lower middle income
 lka,2016,Lower middle income
 lka,2017,Lower middle income
 lka,2018,Upper middle income
+lka,2019,Upper middle income
 kna,1987,Upper middle income
 kna,1988,Upper middle income
 kna,1989,Upper middle income
@@ -5215,6 +5377,7 @@ kna,2015,High income
 kna,2016,High income
 kna,2017,High income
 kna,2018,High income
+kna,2019,High income
 lca,1987,Lower middle income
 lca,1988,Lower middle income
 lca,1989,Lower middle income
@@ -5247,6 +5410,7 @@ lca,2015,Upper middle income
 lca,2016,Upper middle income
 lca,2017,Upper middle income
 lca,2018,Upper middle income
+lca,2019,Upper middle income
 vct,1987,Lower middle income
 vct,1988,Lower middle income
 vct,1989,Lower middle income
@@ -5279,6 +5443,7 @@ vct,2015,Upper middle income
 vct,2016,Upper middle income
 vct,2017,Upper middle income
 vct,2018,Upper middle income
+vct,2019,Upper middle income
 sdn,1987,Lower middle income
 sdn,1988,Lower middle income
 sdn,1989,Lower middle income
@@ -5311,6 +5476,7 @@ sdn,2015,Lower middle income
 sdn,2016,Lower middle income
 sdn,2017,Lower middle income
 sdn,2018,Lower middle income
+sdn,2019,Lower middle income
 sur,1987,Upper middle income
 sur,1988,Upper middle income
 sur,1989,Upper middle income
@@ -5343,6 +5509,7 @@ sur,2015,Upper middle income
 sur,2016,Upper middle income
 sur,2017,Upper middle income
 sur,2018,Upper middle income
+sur,2019,Upper middle income
 swe,1987,High income
 swe,1988,High income
 swe,1989,High income
@@ -5375,6 +5542,7 @@ swe,2015,High income
 swe,2016,High income
 swe,2017,High income
 swe,2018,High income
+swe,2019,High income
 che,1987,High income
 che,1988,High income
 che,1989,High income
@@ -5407,6 +5575,7 @@ che,2015,High income
 che,2016,High income
 che,2017,High income
 che,2018,High income
+che,2019,High income
 syr,1987,Lower middle income
 syr,1988,Lower middle income
 syr,1989,Lower middle income
@@ -5439,6 +5608,7 @@ syr,2015,Lower middle income
 syr,2016,Lower middle income
 syr,2017,Low income
 syr,2018,Low income
+syr,2019,Low income
 twn,1987,High income
 twn,1988,High income
 twn,1989,High income
@@ -5471,6 +5641,7 @@ twn,2015,High income
 twn,2016,High income
 twn,2017,High income
 twn,2018,High income
+twn,2019,High income
 tjk,1987,Lower middle income
 tjk,1988,Lower middle income
 tjk,1989,Lower middle income
@@ -5503,6 +5674,7 @@ tjk,2015,Lower middle income
 tjk,2016,Lower middle income
 tjk,2017,Low income
 tjk,2018,Low income
+tjk,2019,Low income
 tza,1987,Low income
 tza,1988,Low income
 tza,1989,Low income
@@ -5535,6 +5707,7 @@ tza,2015,Low income
 tza,2016,Low income
 tza,2017,Low income
 tza,2018,Low income
+tza,2019,Low income
 tha,1987,Lower middle income
 tha,1988,Lower middle income
 tha,1989,Lower middle income
@@ -5567,6 +5740,7 @@ tha,2015,Upper middle income
 tha,2016,Upper middle income
 tha,2017,Upper middle income
 tha,2018,Upper middle income
+tha,2019,Upper middle income
 tls,1987,Low income
 tls,1988,Low income
 tls,1989,Low income
@@ -5599,6 +5773,7 @@ tls,2015,Lower middle income
 tls,2016,Lower middle income
 tls,2017,Lower middle income
 tls,2018,Lower middle income
+tls,2019,Lower middle income
 tgo,1987,Low income
 tgo,1988,Low income
 tgo,1989,Low income
@@ -5631,6 +5806,7 @@ tgo,2015,Low income
 tgo,2016,Low income
 tgo,2017,Low income
 tgo,2018,Low income
+tgo,2019,Low income
 ton,1987,Lower middle income
 ton,1988,Lower middle income
 ton,1989,Lower middle income
@@ -5663,6 +5839,7 @@ ton,2015,Lower middle income
 ton,2016,Upper middle income
 ton,2017,Upper middle income
 ton,2018,Upper middle income
+ton,2019,Upper middle income
 tto,1987,Upper middle income
 tto,1988,Upper middle income
 tto,1989,Upper middle income
@@ -5695,6 +5872,7 @@ tto,2015,High income
 tto,2016,High income
 tto,2017,High income
 tto,2018,High income
+tto,2019,High income
 tun,1987,Lower middle income
 tun,1988,Lower middle income
 tun,1989,Lower middle income
@@ -5727,6 +5905,7 @@ tun,2015,Lower middle income
 tun,2016,Lower middle income
 tun,2017,Lower middle income
 tun,2018,Lower middle income
+tun,2019,Lower middle income
 tur,1987,Lower middle income
 tur,1988,Lower middle income
 tur,1989,Lower middle income
@@ -5759,6 +5938,7 @@ tur,2015,Upper middle income
 tur,2016,Upper middle income
 tur,2017,Upper middle income
 tur,2018,Upper middle income
+tur,2019,Upper middle income
 tkm,1987,Lower middle income
 tkm,1988,Lower middle income
 tkm,1989,Lower middle income
@@ -5791,6 +5971,7 @@ tkm,2015,Upper middle income
 tkm,2016,Upper middle income
 tkm,2017,Upper middle income
 tkm,2018,Upper middle income
+tkm,2019,Upper middle income
 tuv,1987,Lower middle income
 tuv,1988,Lower middle income
 tuv,1989,Lower middle income
@@ -5823,6 +6004,7 @@ tuv,2015,Upper middle income
 tuv,2016,Upper middle income
 tuv,2017,Upper middle income
 tuv,2018,Upper middle income
+tuv,2019,Upper middle income
 uga,1987,Low income
 uga,1988,Low income
 uga,1989,Low income
@@ -5855,6 +6037,7 @@ uga,2015,Low income
 uga,2016,Low income
 uga,2017,Low income
 uga,2018,Low income
+uga,2019,Low income
 ukr,1987,Lower middle income
 ukr,1988,Lower middle income
 ukr,1989,Lower middle income
@@ -5887,6 +6070,7 @@ ukr,2015,Lower middle income
 ukr,2016,Lower middle income
 ukr,2017,Lower middle income
 ukr,2018,Lower middle income
+ukr,2019,Lower middle income
 are,1987,High income
 are,1988,High income
 are,1989,High income
@@ -5919,6 +6103,7 @@ are,2015,High income
 are,2016,High income
 are,2017,High income
 are,2018,High income
+are,2019,High income
 gbr,1987,High income
 gbr,1988,High income
 gbr,1989,High income
@@ -5951,6 +6136,7 @@ gbr,2015,High income
 gbr,2016,High income
 gbr,2017,High income
 gbr,2018,High income
+gbr,2019,High income
 usa,1987,High income
 usa,1988,High income
 usa,1989,High income
@@ -5983,6 +6169,7 @@ usa,2015,High income
 usa,2016,High income
 usa,2017,High income
 usa,2018,High income
+usa,2019,High income
 ury,1987,Upper middle income
 ury,1988,Upper middle income
 ury,1989,Upper middle income
@@ -6015,6 +6202,7 @@ ury,2015,High income
 ury,2016,High income
 ury,2017,High income
 ury,2018,High income
+ury,2019,High income
 uzb,1987,Lower middle income
 uzb,1988,Lower middle income
 uzb,1989,Lower middle income
@@ -6047,6 +6235,7 @@ uzb,2015,Lower middle income
 uzb,2016,Lower middle income
 uzb,2017,Lower middle income
 uzb,2018,Lower middle income
+uzb,2019,Lower middle income
 vut,1987,Lower middle income
 vut,1988,Lower middle income
 vut,1989,Lower middle income
@@ -6079,6 +6268,7 @@ vut,2015,Lower middle income
 vut,2016,Lower middle income
 vut,2017,Lower middle income
 vut,2018,Lower middle income
+vut,2019,Lower middle income
 ven,1987,Upper middle income
 ven,1988,Upper middle income
 ven,1989,Upper middle income
@@ -6111,6 +6301,7 @@ ven,2015,Upper middle income
 ven,2016,Upper middle income
 ven,2017,Upper middle income
 ven,2018,Upper middle income
+ven,2019,Upper middle income
 vnm,1987,Low income
 vnm,1988,Low income
 vnm,1989,Low income
@@ -6143,6 +6334,7 @@ vnm,2015,Lower middle income
 vnm,2016,Lower middle income
 vnm,2017,Lower middle income
 vnm,2018,Lower middle income
+vnm,2019,Lower middle income
 pse,1987,Lower middle income
 pse,1988,Lower middle income
 pse,1989,Lower middle income
@@ -6175,6 +6367,7 @@ pse,2015,Lower middle income
 pse,2016,Lower middle income
 pse,2017,Lower middle income
 pse,2018,Lower middle income
+pse,2019,Lower middle income
 yem,1987,Lower middle income
 yem,1988,Lower middle income
 yem,1989,Lower middle income
@@ -6207,6 +6400,7 @@ yem,2015,Lower middle income
 yem,2016,Lower middle income
 yem,2017,Low income
 yem,2018,Low income
+yem,2019,Low income
 zmb,1987,Low income
 zmb,1988,Low income
 zmb,1989,Low income
@@ -6239,6 +6433,7 @@ zmb,2015,Lower middle income
 zmb,2016,Lower middle income
 zmb,2017,Lower middle income
 zmb,2018,Lower middle income
+zmb,2019,Lower middle income
 zwe,1987,Lower middle income
 zwe,1988,Lower middle income
 zwe,1989,Lower middle income
@@ -6271,3 +6466,4 @@ zwe,2015,Low income
 zwe,2016,Low income
 zwe,2017,Low income
 zwe,2018,Lower middle income
+zwe,2019,Lower middle income
