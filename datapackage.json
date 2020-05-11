@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-05-07T11:31:08.497549+00:00",
+    "created": "2020-05-11T21:52:29.893167+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -45,6 +45,9 @@
                         "name": "tags"
                     },
                     {
+                        "name": "color"
+                    },
+                    {
                         "name": "domain"
                     },
                     {
@@ -52,9 +55,6 @@
                     },
                     {
                         "name": "indicator_url"
-                    },
-                    {
-                        "name": "color"
                     },
                     {
                         "name": "drill_up"
@@ -433,6 +433,27 @@
                     },
                     {
                         "name": "cliberties_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--compt_plastic_wst--by--country--time",
+            "path": "ddf--datapoints--compt_plastic_wst--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "compt_plastic_wst"
                     }
                 ],
                 "primaryKey": [
@@ -2882,6 +2903,26 @@
                 "value": "cliberties_idea",
                 "resources": [
                     "ddf--datapoints--cliberties_idea--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "compt_plastic_wst",
+                "resources": [
+                    "ddf--datapoints--compt_plastic_wst--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "compt_plastic_wst",
+                "resources": [
+                    "ddf--datapoints--compt_plastic_wst--by--country--time"
                 ]
             },
             {
