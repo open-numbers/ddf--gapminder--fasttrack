@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-05-11T13:03:46.036947+00:00",
+    "created": "2020-05-11T18:31:13.073695+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -45,6 +45,9 @@
                         "name": "tags"
                     },
                     {
+                        "name": "color"
+                    },
+                    {
                         "name": "domain"
                     },
                     {
@@ -52,9 +55,6 @@
                     },
                     {
                         "name": "indicator_url"
-                    },
-                    {
-                        "name": "color"
                     },
                     {
                         "name": "drill_up"
