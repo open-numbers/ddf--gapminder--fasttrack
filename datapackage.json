@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-05-11T21:52:29.893167+00:00",
+    "created": "2020-05-13T16:46:42.618807+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -46,6 +46,9 @@
                     },
                     {
                         "name": "color"
+                    },
+                    {
+                        "name": "format"
                     },
                     {
                         "name": "domain"
@@ -1381,6 +1384,9 @@
                     },
                     {
                         "name": "unicef_region"
+                    },
+                    {
+                        "name": "income_3groups"
                     }
                 ],
                 "primaryKey": "country"
@@ -1660,6 +1666,15 @@
                 "primaryKey": [
                     "concept"
                 ],
+                "value": "format",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
                 "value": "indicator_url",
                 "resources": [
                     "ddf--concepts"
@@ -1789,6 +1804,24 @@
                     "geo"
                 ],
                 "value": "g77_and_oecd_countries",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country"
+                ],
+                "value": "income_3groups",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "income_3groups",
                 "resources": [
                     "ddf--entities--geo--country"
                 ]
