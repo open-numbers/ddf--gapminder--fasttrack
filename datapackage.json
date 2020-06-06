@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-05-29T19:44:21.325723+00:00",
+    "created": "2020-06-06T08:45:12.413979+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -947,6 +947,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--journakilled--by--global--time",
+            "path": "ddf--datapoints--journakilled--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journakilled"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -3427,7 +3448,18 @@
                 ],
                 "value": "journakilled",
                 "resources": [
-                    "ddf--datapoints--journakilled--by--country--time"
+                    "ddf--datapoints--journakilled--by--country--time",
+                    "ddf--datapoints--journakilled--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "journakilled",
+                "resources": [
+                    "ddf--datapoints--journakilled--by--global--time"
                 ]
             },
             {
