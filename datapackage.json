@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-05-29T19:44:21.325723+00:00",
+    "created": "2020-06-06T09:12:00.543933+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -952,6 +952,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--journakilled--by--global--time",
+            "path": "ddf--datapoints--journakilled--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journakilled"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--judicindep_idea--by--country--time",
             "path": "ddf--datapoints--judicindep_idea--by--country--time.csv",
             "schema": {
@@ -1010,6 +1031,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--num_countries_fhos--by--global--time",
+            "path": "ddf--datapoints--num_countries_fhos--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "num_countries_fhos"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -3427,7 +3469,18 @@
                 ],
                 "value": "journakilled",
                 "resources": [
-                    "ddf--datapoints--journakilled--by--country--time"
+                    "ddf--datapoints--journakilled--by--country--time",
+                    "ddf--datapoints--journakilled--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "journakilled",
+                "resources": [
+                    "ddf--datapoints--journakilled--by--global--time"
                 ]
             },
             {
@@ -3488,6 +3541,26 @@
                 "value": "mediaint_idea",
                 "resources": [
                     "ddf--datapoints--mediaint_idea--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "num_countries_fhos",
+                "resources": [
+                    "ddf--datapoints--num_countries_fhos--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "num_countries_fhos",
+                "resources": [
+                    "ddf--datapoints--num_countries_fhos--by--global--time"
                 ]
             },
             {
