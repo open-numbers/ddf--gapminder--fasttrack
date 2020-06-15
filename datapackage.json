@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-06-15T15:33:01.635943+00:00",
+    "created": "2020-06-15T21:32:33.844232+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -884,6 +884,69 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ihme_cardio_death--by--world_4region--time",
+            "path": "ddf--datapoints--ihme_cardio_death--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ihme_cardio_death"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ihme_conflict_death--by--world_4region--time",
+            "path": "ddf--datapoints--ihme_conflict_death--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ihme_conflict_death"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ihme_hiv_death--by--world_4region--time",
+            "path": "ddf--datapoints--ihme_hiv_death--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ihme_hiv_death"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
                     "time"
                 ]
             }
@@ -3599,6 +3662,66 @@
                 "value": "gvtx_eiu",
                 "resources": [
                     "ddf--datapoints--gvtx_eiu--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "ihme_cardio_death",
+                "resources": [
+                    "ddf--datapoints--ihme_cardio_death--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "ihme_cardio_death",
+                "resources": [
+                    "ddf--datapoints--ihme_cardio_death--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "ihme_conflict_death",
+                "resources": [
+                    "ddf--datapoints--ihme_conflict_death--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "ihme_conflict_death",
+                "resources": [
+                    "ddf--datapoints--ihme_conflict_death--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "ihme_hiv_death",
+                "resources": [
+                    "ddf--datapoints--ihme_hiv_death--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "ihme_hiv_death",
+                "resources": [
+                    "ddf--datapoints--ihme_hiv_death--by--world_4region--time"
                 ]
             },
             {
