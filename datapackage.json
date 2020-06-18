@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-06-18T20:02:49.629997+00:00",
+    "created": "2020-06-18T20:31:25.489255+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -3138,26 +3138,6 @@
         "datapoints": [
             {
                 "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": null,
-                "resources": [
-                    "ddf--datapoints--female_hos--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": null,
-                "resources": [
-                    "ddf--datapoints--num_countries_fhos--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
                     "time",
                     "world_4region"
                 ],
@@ -3733,6 +3713,26 @@
                     "country",
                     "time"
                 ],
+                "value": "female_hos",
+                "resources": [
+                    "ddf--datapoints--female_hos--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "female_hos",
+                "resources": [
+                    "ddf--datapoints--female_hos--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "fexpression_idea",
                 "resources": [
                     "ddf--datapoints--fexpression_idea--by--country--time"
@@ -4217,6 +4217,26 @@
                 "value": "ndisasd_tot",
                 "resources": [
                     "ddf--datapoints--ndisasd_tot--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "num_countries_fhos",
+                "resources": [
+                    "ddf--datapoints--num_countries_fhos--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "num_countries_fhos",
+                "resources": [
+                    "ddf--datapoints--num_countries_fhos--by--global--time"
                 ]
             },
             {
