@@ -205,7 +205,8 @@ def main():
         for sheet_name, link in di.items():
             try:
                 wrk = gc.open_by_key(docid).worksheet(sheet_name)
-                df = get_as_dataframe(wrk, evaluate_formulas=True, skip_blank_lines=True)
+                df = get_as_dataframe(wrk, evaluate_formulas=True,
+                                      skip_blank_lines=True, dtype={'time': str})
             except HTTPError as error:
                 print(f"Could not fetch {link}. Error code: {error.code}. Please make sure the url is valid, even when not logged in to Google.")
                 raise
