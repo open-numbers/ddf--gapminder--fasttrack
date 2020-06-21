@@ -98,9 +98,9 @@ def serve_datapoints(datapoints, concepts, csv_dict):
             else:
                 return df[columns]
         except KeyError:
-            print("column mismatch!\n"
+            print("column not found!\n"
                   "expected columns: {}\n"
-                  "actual columns: {}".format(columns, list(df.columns)))
+                  "available columns: {}".format(columns, list(df.columns)))
             raise KeyError("Key not found.")
 
     for _, row in datapoints.iterrows():
