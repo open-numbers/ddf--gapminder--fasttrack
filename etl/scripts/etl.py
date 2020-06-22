@@ -203,10 +203,13 @@ def main():
     # dataframes, instead of links
     csv_dict = csv_link_dict.copy()
     for docid, di in csv_link_dict.items():
+        print(f"Downloading sheets from file: {docid}")
         csv_dict[docid] = dict()
+        doc = gc.open_by_key(docid)
         for sheet_name, link in di.items():
             try:
-                wrk = gc.open_by_key(docid).worksheet(sheet_name)
+                print(f"sheet: {sheet_name}")
+                wrk = doc.worksheet(sheet_name)
                 df = get_as_dataframe(wrk, evaluate_formulas=True,
                                       skip_blank_lines=True, dtype={'time': str})
             except HTTPError as error:
@@ -215,7 +218,7 @@ def main():
             # try it again in cause rate limit exceed
             except APIError:
                 time.sleep(100)
-                wrk = gc.open_by_key(docid).worksheet(sheet_name)
+                wrk = doc.worksheet(sheet_name)
                 df = get_as_dataframe(wrk, evaluate_formulas=True,
                                       skip_blank_lines=True, dtype={'time': str})
             if df.empty:
