@@ -1,3 +1,6 @@
 pandas
 parse
 requests
+gspread
+gspread-dataframe
+xlrd

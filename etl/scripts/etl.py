@@ -12,6 +12,10 @@ from decimal import Decimal
 from ddf_utils.str import format_float_digits
 from urllib.error import HTTPError
 
+import gspread
+from gspread_dataframe import get_as_dataframe
+
+
 # TODO: Some of below functions should be moved into ddf_utils.
 
 # fasttrack doc id
@@ -94,9 +98,9 @@ def serve_datapoints(datapoints, concepts, csv_dict):
             else:
                 return df[columns]
         except KeyError:
-            print("column mismatch!\n"
+            print("column not found!\n"
                   "expected columns: {}\n"
-                  "actual columns: {}".format(columns, list(df.columns)))
+                  "available columns: {}".format(columns, list(df.columns)))
             raise KeyError("Key not found.")
 
     for _, row in datapoints.iterrows():
@@ -182,6 +186,7 @@ def serve_concepts(concepts, entities_columns):
 
 
 def main():
+    gc = gspread.service_account()
     print('loading source files...')
     fo = open_google_spreadsheet(DOCID)
     concepts = pd.read_excel(fo, sheet_name='concepts')
@@ -199,11 +204,15 @@ def main():
         csv_dict[docid] = dict()
         for sheet_name, link in di.items():
             try:
-                df = pd.read_csv(link)
-                csv_dict[docid][sheet_name] = df
+                wrk = gc.open_by_key(docid).worksheet(sheet_name)
+                df = get_as_dataframe(wrk, evaluate_formulas=True,
+                                      skip_blank_lines=True, dtype={'time': str})
             except HTTPError as error:
                 print(f"Could not fetch {link}. Error code: {error.code}. Please make sure the url is valid, even when not logged in to Google.")
                 raise
+            if df.empty:
+                print(f"WARNING: empty dataframe: doc: {docid}, sheet_name: {sheet_name}")
+            csv_dict[docid][sheet_name] = df
 
     print('creating ddf datasets...')
 
