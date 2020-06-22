@@ -6,6 +6,7 @@ import pandas as pd
 import numpy as np
 import parse
 import re
+import time
 
 from io import BytesIO
 from decimal import Decimal
@@ -13,6 +14,7 @@ from ddf_utils.str import format_float_digits
 from urllib.error import HTTPError
 
 import gspread
+from gspread.exceptions import APIError
 from gspread_dataframe import get_as_dataframe
 
 
@@ -210,6 +212,12 @@ def main():
             except HTTPError as error:
                 print(f"Could not fetch {link}. Error code: {error.code}. Please make sure the url is valid, even when not logged in to Google.")
                 raise
+            # try it again in cause rate limit exceed
+            except APIError:
+                time.sleep(100)
+                wrk = gc.open_by_key(docid).worksheet(sheet_name)
+                df = get_as_dataframe(wrk, evaluate_formulas=True,
+                                      skip_blank_lines=True, dtype={'time': str})
             if df.empty:
                 print(f"WARNING: empty dataframe: doc: {docid}, sheet_name: {sheet_name}")
             csv_dict[docid][sheet_name] = df
