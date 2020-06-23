@@ -13,25 +13,11 @@ from decimal import Decimal
 from ddf_utils.str import format_float_digits
 from urllib.error import HTTPError
 
-import gspread
-from gspread.exceptions import APIError
-from gspread_dataframe import get_as_dataframe
+from gspread_pandas import Spread
 
-
-# TODO: Some of below functions should be moved into ddf_utils.
 
 # fasttrack doc id
 DOCID =  "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo" # for the democracy branch we used another sheet: "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI"
-
-def open_google_spreadsheet(docid):
-    tmpl_xls = "https://docs.google.com/spreadsheets/d/{docid}/export?format=xlsx&id={docid}"
-    url = tmpl_xls.format(docid=docid)
-    res = req.get(url)
-    if res.ok:
-        return BytesIO(res.content)
-    else:
-        print(f"Could not fetch {url}. Error code: {res.status_code}. Please check if the url is valid. The docid is hard coded in the python script.")
-    return None
 
 
 def get_docid_sheet(link):
@@ -68,6 +54,8 @@ def find_column(df, dimension_pair):
 def parse_number(s, decimal=False):
     # TODO: maybe use locale module to handle different formats.
     # see https://stackoverflow.com/a/46411203
+    if len(s) == 0:
+        return np.nan
     tbl = str.maketrans('(', '-', '),%')
     if decimal:
         return Decimal(s.translate(tbl))
@@ -188,12 +176,11 @@ def serve_concepts(concepts, entities_columns):
 
 
 def main():
-    gc = gspread.service_account()
     print('loading source files...')
-    fo = open_google_spreadsheet(DOCID)
-    concepts = pd.read_excel(fo, sheet_name='concepts')
-    datapoints = pd.read_excel(fo, sheet_name='datapoints')
-    tags = pd.read_excel(fo, sheet_name='topics')
+    main_doc = Spread(spread=DOCID)
+    concepts = main_doc.sheet_to_df(sheet='concepts', index=None)
+    datapoints = main_doc.sheet_to_df(sheet='datapoints', index=None)
+    tags = main_doc.sheet_to_df(sheet='topics', index=None)
 
     # construct a dictionary, keys are docids, values are dictionaries which
     # keys are sheet names and values are the csv links for the docid/sheet name pair.
@@ -205,22 +192,10 @@ def main():
     for docid, di in csv_link_dict.items():
         print(f"Downloading sheets from file: {docid}")
         csv_dict[docid] = dict()
-        doc = gc.open_by_key(docid)
+        doc = Spread(spread=docid)
         for sheet_name, link in di.items():
-            try:
-                print(f"sheet: {sheet_name}")
-                wrk = doc.worksheet(sheet_name)
-                df = get_as_dataframe(wrk, evaluate_formulas=True,
-                                      skip_blank_lines=True, dtype={'time': str})
-            except HTTPError as error:
-                print(f"Could not fetch {link}. Error code: {error.code}. Please make sure the url is valid, even when not logged in to Google.")
-                raise
-            # try it again in cause rate limit exceed
-            except APIError:
-                time.sleep(100)
-                wrk = doc.worksheet(sheet_name)
-                df = get_as_dataframe(wrk, evaluate_formulas=True,
-                                      skip_blank_lines=True, dtype={'time': str})
+            print(f"sheet: {sheet_name}")
+            df = doc.sheet_to_df(sheet=sheet_name, index=None)
             if df.empty:
                 print(f"WARNING: empty dataframe: doc: {docid}, sheet_name: {sheet_name}")
             csv_dict[docid][sheet_name] = df

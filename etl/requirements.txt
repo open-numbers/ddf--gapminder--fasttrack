@@ -2,5 +2,5 @@ pandas
 parse
 requests
 gspread
-gspread-dataframe
+gspread-pandas
 xlrd
