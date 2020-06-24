@@ -14,6 +14,7 @@ from ddf_utils.str import format_float_digits
 from urllib.error import HTTPError
 
 from gspread_pandas import Spread
+from gspread_pandas.conf import get_config_dir
 
 
 # fasttrack doc id
@@ -227,5 +228,6 @@ def main():
 
 
 if __name__ == '__main__':
+    print(get_config_dir())
     main()
     print('Done.')
