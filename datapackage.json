@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-06-24T03:53:07.113283+00:00",
+    "created": "2020-07-29T13:13:34.986422+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -1682,6 +1682,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--refugee_in_perc_wb--by--global--time",
+            "path": "ddf--datapoints--refugee_in_perc_wb--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "refugee_in_perc_wb"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -4664,7 +4685,18 @@
                 ],
                 "value": "refugee_in_perc_wb",
                 "resources": [
-                    "ddf--datapoints--refugee_in_perc_wb--by--country--time"
+                    "ddf--datapoints--refugee_in_perc_wb--by--country--time",
+                    "ddf--datapoints--refugee_in_perc_wb--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "refugee_in_perc_wb",
+                "resources": [
+                    "ddf--datapoints--refugee_in_perc_wb--by--global--time"
                 ]
             },
             {
