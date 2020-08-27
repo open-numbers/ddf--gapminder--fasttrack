@@ -141,7 +141,7 @@ def serve_concepts(concepts, entities_columns):
     # second, entity concepts
     geo_concepts = ['geo', 'country', 'world_4region', 'global', 'g77_and_oecd_countries',
                     'income_groups', 'landlocked', 'main_religion_2008', 'world_6region',
-                    'domain', 'drill_up', 'unicef_region']
+                    'domain', 'drill_up', 'unicef_region', 'income_3groups', 'un_sdg_ldc', 'un_sdg_region']
     cdf2 = concepts_ontology[concepts_ontology.concept.isin(geo_concepts)].copy()
     cdf2 = cdf2.set_index('concept')
 
@@ -207,7 +207,7 @@ def main():
     entities_columns = set()  # mark down the columns, use to create concept table later
     for e in ['country', 'global', 'world_4region', 'g77_and_oecd_countries',
               'income_groups', 'landlocked', 'main_religion_2008', 'world_6region',
-              'unicef_region']:
+              'unicef_region', 'income_3groups', 'un_sdg_ldc', 'un_sdg_region']:
         edf = pd.read_csv(f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv',
                           na_filter=False, dtype=str)
         edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False, encoding='utf8')
