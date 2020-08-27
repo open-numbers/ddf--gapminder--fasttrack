@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-08-16T08:12:23.158897+00:00",
+    "created": "2020-08-27T08:01:26.845700+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -1978,6 +1978,12 @@
                     },
                     {
                         "name": "income_3groups"
+                    },
+                    {
+                        "name": "un_sdg_region"
+                    },
+                    {
+                        "name": "un_sdg_ldc"
                     }
                 ],
                 "primaryKey": "country"
@@ -3074,6 +3080,42 @@
                 "value": "topojson",
                 "resources": [
                     "ddf--entities--geo--global"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country"
+                ],
+                "value": "un_sdg_ldc",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "un_sdg_ldc",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country"
+                ],
+                "value": "un_sdg_region",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "un_sdg_region",
+                "resources": [
+                    "ddf--entities--geo--country"
                 ]
             },
             {
