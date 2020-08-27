@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-08-27T08:01:26.845700+00:00",
+    "created": "2020-08-27T08:50:06.691687+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -2041,6 +2041,27 @@
             }
         },
         {
+            "name": "ddf--entities--geo--income_3groups",
+            "path": "ddf--entities--geo--income_3groups.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "income_3groups"
+                    },
+                    {
+                        "name": "is--income_3groups"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "rank"
+                    }
+                ],
+                "primaryKey": "income_3groups"
+            }
+        },
+        {
             "name": "ddf--entities--geo--income_groups",
             "path": "ddf--entities--geo--income_groups.csv",
             "schema": {
@@ -2101,6 +2122,45 @@
                     }
                 ],
                 "primaryKey": "main_religion_2008"
+            }
+        },
+        {
+            "name": "ddf--entities--geo--un_sdg_ldc",
+            "path": "ddf--entities--geo--un_sdg_ldc.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "un_sdg_ldc"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "is--un_sdg_ldc"
+                    }
+                ],
+                "primaryKey": "un_sdg_ldc"
+            }
+        },
+        {
+            "name": "ddf--entities--geo--un_sdg_region",
+            "path": "ddf--entities--geo--un_sdg_region.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "un_sdg_region"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "color"
+                    },
+                    {
+                        "name": "is--un_sdg_region"
+                    }
+                ],
+                "primaryKey": "un_sdg_region"
             }
         },
         {
@@ -2366,7 +2426,17 @@
                 ],
                 "value": "color",
                 "resources": [
+                    "ddf--entities--geo--un_sdg_region",
                     "ddf--entities--geo--world_4region"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "un_sdg_region"
+                ],
+                "value": "color",
+                "resources": [
+                    "ddf--entities--geo--un_sdg_region"
                 ]
             },
             {
@@ -2508,6 +2578,42 @@
                 "primaryKey": [
                     "geo"
                 ],
+                "value": "is--income_3groups",
+                "resources": [
+                    "ddf--entities--geo--income_3groups"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_3groups"
+                ],
+                "value": "is--income_3groups",
+                "resources": [
+                    "ddf--entities--geo--income_3groups"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups"
+                ],
+                "value": "is--income_3groups",
+                "resources": [
+                    "ddf--entities--geo--income_3groups"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "is--income_groups",
+                "resources": [
+                    "ddf--entities--geo--income_groups"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_3groups"
+                ],
                 "value": "is--income_groups",
                 "resources": [
                     "ddf--entities--geo--income_groups"
@@ -2556,6 +2662,42 @@
                 "value": "is--main_religion_2008",
                 "resources": [
                     "ddf--entities--geo--main_religion_2008"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "is--un_sdg_ldc",
+                "resources": [
+                    "ddf--entities--geo--un_sdg_ldc"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "un_sdg_ldc"
+                ],
+                "value": "is--un_sdg_ldc",
+                "resources": [
+                    "ddf--entities--geo--un_sdg_ldc"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "is--un_sdg_region",
+                "resources": [
+                    "ddf--entities--geo--un_sdg_region"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "un_sdg_region"
+                ],
+                "value": "is--un_sdg_region",
+                "resources": [
+                    "ddf--entities--geo--un_sdg_region"
                 ]
             },
             {
@@ -2823,9 +2965,12 @@
                     "ddf--entities--geo--country",
                     "ddf--entities--geo--g77_and_oecd_countries",
                     "ddf--entities--geo--global",
+                    "ddf--entities--geo--income_3groups",
                     "ddf--entities--geo--income_groups",
                     "ddf--entities--geo--landlocked",
                     "ddf--entities--geo--main_religion_2008",
+                    "ddf--entities--geo--un_sdg_ldc",
+                    "ddf--entities--geo--un_sdg_region",
                     "ddf--entities--geo--unicef_region",
                     "ddf--entities--geo--world_4region",
                     "ddf--entities--geo--world_6region"
@@ -2842,10 +2987,21 @@
             },
             {
                 "primaryKey": [
+                    "income_3groups"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--geo--income_3groups",
+                    "ddf--entities--geo--income_groups"
+                ]
+            },
+            {
+                "primaryKey": [
                     "income_groups"
                 ],
                 "value": "name",
                 "resources": [
+                    "ddf--entities--geo--income_3groups",
                     "ddf--entities--geo--income_groups"
                 ]
             },
@@ -2874,6 +3030,24 @@
                 "value": "name",
                 "resources": [
                     "ddf--entities--tag"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "un_sdg_ldc"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--geo--un_sdg_ldc"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "un_sdg_region"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--geo--un_sdg_region"
                 ]
             },
             {
@@ -2984,6 +3158,7 @@
                 "value": "rank",
                 "resources": [
                     "ddf--entities--geo--g77_and_oecd_countries",
+                    "ddf--entities--geo--income_3groups",
                     "ddf--entities--geo--income_groups",
                     "ddf--entities--geo--landlocked",
                     "ddf--entities--geo--main_religion_2008",
@@ -2993,10 +3168,21 @@
             },
             {
                 "primaryKey": [
+                    "income_3groups"
+                ],
+                "value": "rank",
+                "resources": [
+                    "ddf--entities--geo--income_3groups",
+                    "ddf--entities--geo--income_groups"
+                ]
+            },
+            {
+                "primaryKey": [
                     "income_groups"
                 ],
                 "value": "rank",
                 "resources": [
+                    "ddf--entities--geo--income_3groups",
                     "ddf--entities--geo--income_groups"
                 ]
             },
