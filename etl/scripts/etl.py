@@ -105,6 +105,10 @@ def serve_datapoints(datapoints, concepts, csv_dict):
         # print(df.columns)
         df = df.rename(columns=concept_map)
         concept = df.columns[0]
+        # test if the concept exists in concepts table
+        if concept not in concepts['concept'].values:
+            raise ValueError(f'the concept {concept} not found in concepts table! Please double check'
+                             'both the main file and data file.')
         if df[concept].dtype == 'object':  # didn't reconized as number
             concept_type = concepts.loc[concepts['concept'] == concept, 'concept_type'].iloc[0]
             if concept_type == 'measure':  # it should be numbers
