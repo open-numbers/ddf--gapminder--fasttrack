@@ -139,10 +139,8 @@ def serve_concepts(concepts, entities_columns):
     # cdf1['description'] = cdf1['description'].map(lambda v: re.sub(r'\s+', ' ', v).strip())
 
     # second, entity concepts
-    geo_concepts = ['geo', 'country', 'world_4region', 'global', 'g77_and_oecd_countries',
-                    'income_groups', 'landlocked', 'main_religion_2008', 'world_6region',
-                    'domain', 'drill_up', 'unicef_region', 'income_3groups', 'un_sdg_ldc', 'un_sdg_region']
-    cdf2 = concepts_ontology[concepts_ontology.concept.isin(geo_concepts)].copy()
+    geo_predicate = (concepts_ontology.concept == 'geo') | (concepts_ontology.domain == 'geo')
+    cdf2 = concepts_ontology[geo_predicate].copy()
     cdf2 = cdf2.set_index('concept')
 
     # third, concepts in entity columns
@@ -203,16 +201,20 @@ def main():
 
     print('creating ddf datasets...')
 
+    concepts_ontology = pd.read_csv('../source/ddf--open_numbers/ddf--concepts.csv')
     # entities
     entities_columns = set()  # mark down the columns, use to create concept table later
-    for e in ['country', 'global', 'world_4region', 'g77_and_oecd_countries',
-              'income_groups', 'landlocked', 'main_religion_2008', 'world_6region',
-              'unicef_region', 'income_3groups', 'un_sdg_ldc', 'un_sdg_region']:
-        edf = pd.read_csv(f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv',
+    geo_concepts = concepts_ontology[concepts_ontology.domain == 'geo'].concept.values
+    for e in geo_concepts:
+        file_path = f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv'
+        if osp.exists(file_path):
+            edf = pd.read_csv(f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv',
                           na_filter=False, dtype=str)
-        edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False, encoding='utf8')
-        for c in edf.columns:
-            entities_columns.add(c)
+            edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False, encoding='utf8')
+            for c in edf.columns:
+                entities_columns.add(c)
+        else:
+            print(f'WARNING: file not found: {file_path}, skipping')
 
     # tags entities
     tags = tags.rename(columns={'topic_id': 'tag', 'topic_name': 'name', 'parent_topic': 'parent' })
