@@ -129,7 +129,9 @@ def serve_datapoints(datapoints, concepts, csv_dict):
                 by_fn.append(v)
         by_fn = [translate_dict.get(x, x) for x in by_fn]
         df.index.names = by_fn
-        df.dropna().to_csv('../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)), encoding='utf8')
+        (df.dropna().sort_index()
+         .to_csv('../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)),
+                 encoding='utf8'))
 
 
 def serve_concepts(concepts, entities_columns):
@@ -199,8 +201,13 @@ def main():
         for sheet_name, link in di.items():
             print(f"sheet: {sheet_name}")
             df = doc.sheet_to_df(sheet=sheet_name, index=None)
+            # detect error in sheet
             if df.empty:
                 print(f"WARNING: empty dataframe: doc: {docid}, sheet_name: {sheet_name}")
+            elif df.shape[0] == 1 and df.iloc[0, 0] in ['#N/A', '#VALUE!']:
+                print(f"WARNING: can not read data from doc: {docid}, sheet_name: {sheet_name}")
+                df = df.drop(0)
+
             csv_dict[docid][sheet_name] = df
 
     print('creating ddf datasets...')
