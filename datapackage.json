@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-12-10T11:44:02.065586+00:00",
+    "created": "2020-12-10T13:23:34.083303+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -3707,8 +3707,17 @@
                 ],
                 "value": null,
                 "resources": [
-                    "ddf--datapoints--mmr_ihme--by--country--time",
-                    "ddf--datapoints--mmr_who--by--country--time"
+                    "ddf--datapoints--female_hos--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": null,
+                "resources": [
+                    "ddf--datapoints--num_countries_fhos--by--global--time"
                 ]
             },
             {
@@ -4309,26 +4318,6 @@
                 "value": "fassoas_idea",
                 "resources": [
                     "ddf--datapoints--fassoas_idea--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "female_hos",
-                "resources": [
-                    "ddf--datapoints--female_hos--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "female_hos",
-                "resources": [
-                    "ddf--datapoints--female_hos--by--country--time"
                 ]
             },
             {
@@ -4884,6 +4873,46 @@
             },
             {
                 "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "mmr_ihme",
+                "resources": [
+                    "ddf--datapoints--mmr_ihme--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "mmr_ihme",
+                "resources": [
+                    "ddf--datapoints--mmr_ihme--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "mmr_who",
+                "resources": [
+                    "ddf--datapoints--mmr_who--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "mmr_who",
+                "resources": [
+                    "ddf--datapoints--mmr_who--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
                     "geo",
                     "time"
                 ],
@@ -4960,26 +4989,6 @@
                 "value": "ndisasd_tot",
                 "resources": [
                     "ddf--datapoints--ndisasd_tot--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "num_countries_fhos",
-                "resources": [
-                    "ddf--datapoints--num_countries_fhos--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "num_countries_fhos",
-                "resources": [
-                    "ddf--datapoints--num_countries_fhos--by--global--time"
                 ]
             },
             {
