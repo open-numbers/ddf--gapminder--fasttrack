@@ -209,6 +209,7 @@ def main():
                 df = df.drop(0)
 
             csv_dict[docid][sheet_name] = df
+            time.sleep(10)
 
     print('creating ddf datasets...')
 
