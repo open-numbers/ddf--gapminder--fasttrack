@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-12-10T18:16:41.911540+00:00",
+    "created": "2020-12-11T03:20:28.694189+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -3705,17 +3705,6 @@
                     "country",
                     "time"
                 ],
-                "value": null,
-                "resources": [
-                    "ddf--datapoints--mmr_ihme--by--country--time",
-                    "ddf--datapoints--mmr_who--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
                 "value": "abscorrup_idea",
                 "resources": [
                     "ddf--datapoints--abscorrup_idea--by--country--time"
@@ -4880,6 +4869,46 @@
                 "value": "mediaint_idea",
                 "resources": [
                     "ddf--datapoints--mediaint_idea--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "mmr_ihme",
+                "resources": [
+                    "ddf--datapoints--mmr_ihme--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "mmr_ihme",
+                "resources": [
+                    "ddf--datapoints--mmr_ihme--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "mmr_who",
+                "resources": [
+                    "ddf--datapoints--mmr_who--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "mmr_who",
+                "resources": [
+                    "ddf--datapoints--mmr_who--by--country--time"
                 ]
             },
             {
