@@ -11,6 +11,7 @@ import time
 from io import BytesIO
 from decimal import Decimal
 from ddf_utils.str import format_float_digits
+from ddf_utils.factory.common import retry
 from urllib.error import HTTPError
 
 from gspread_pandas import Spread
@@ -19,6 +20,15 @@ from gspread_pandas.conf import get_config_dir
 
 # fasttrack doc id
 DOCID =  "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo" # for the democracy branch we used another sheet: "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI"
+
+
+# define 2 exceptions for error handling
+class EmptySheet(Exception):
+    pass
+
+
+class EmptyColumn(Exception):
+    pass
 
 
 def get_docid_sheet(link):
@@ -179,6 +189,16 @@ def serve_concepts(concepts, entities_columns):
 
     return cdf_full
 
+@retry(times=10, backoff=1, exceptions=(EmptyColumn, EmptySheet))
+def read_sheet(doc, sheet_name):
+    df = doc.sheet_to_df(sheet=sheet_name, index=None)
+    # detect error in sheet
+    if df.empty:
+        raise EmptySheet(f"{sheet_name} is empty")
+    elif df.shape[0] == 1 and df.iloc[0, 0] in ['#N/A', '#VALUE!']:
+        raise EmptyColumn(f"{sheet_name} contains all NA values")
+    return df
+
 
 def main():
     print('loading source files...')
@@ -200,13 +220,10 @@ def main():
         doc = Spread(spread=docid)
         for sheet_name, link in di.items():
             print(f"sheet: {sheet_name}")
-            df = doc.sheet_to_df(sheet=sheet_name, index=None)
-            # detect error in sheet
-            if df.empty:
-                print(f"WARNING: empty dataframe: doc: {docid}, sheet_name: {sheet_name}")
-            elif df.shape[0] == 1 and df.iloc[0, 0] in ['#N/A', '#VALUE!']:
-                print(f"WARNING: can not read data from doc: {docid}, sheet_name: {sheet_name}")
-                df = df.drop(0)
+            try:
+                df = read_sheet(doc, sheet_name)
+            except Exception as e:
+                print(f"error: {e}")
 
             csv_dict[docid][sheet_name] = df
             time.sleep(10)
