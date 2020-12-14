@@ -11,6 +11,7 @@ import time
 from io import BytesIO
 from decimal import Decimal
 from ddf_utils.str import format_float_digits
+from ddf_utils.factory.common import retry
 from urllib.error import HTTPError
 
 from gspread_pandas import Spread
@@ -19,6 +20,15 @@ from gspread_pandas.conf import get_config_dir
 
 # fasttrack doc id
 DOCID =  "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo" # for the democracy branch we used another sheet: "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI"
+
+
+# define 2 exceptions for error handling
+class EmptySheet(Exception):
+    pass
+
+
+class EmptyColumn(Exception):
+    pass
 
 
 def get_docid_sheet(link):
@@ -105,6 +115,10 @@ def serve_datapoints(datapoints, concepts, csv_dict):
         # print(df.columns)
         df = df.rename(columns=concept_map)
         concept = df.columns[0]
+        # test if the concept exists in concepts table
+        if concept not in concepts['concept'].values:
+            raise ValueError(f'the concept {concept} not found in concepts table! Please double check'
+                             'both the main file and data file.')
         if df[concept].dtype == 'object':  # didn't reconized as number
             concept_type = concepts.loc[concepts['concept'] == concept, 'concept_type'].iloc[0]
             if concept_type == 'measure':  # it should be numbers
@@ -125,7 +139,9 @@ def serve_datapoints(datapoints, concepts, csv_dict):
                 by_fn.append(v)
         by_fn = [translate_dict.get(x, x) for x in by_fn]
         df.index.names = by_fn
-        df.dropna().to_csv('../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)), encoding='utf8')
+        (df.dropna().sort_index()
+         .to_csv('../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)),
+                 encoding='utf8'))
 
 
 def serve_concepts(concepts, entities_columns):
@@ -139,10 +155,8 @@ def serve_concepts(concepts, entities_columns):
     # cdf1['description'] = cdf1['description'].map(lambda v: re.sub(r'\s+', ' ', v).strip())
 
     # second, entity concepts
-    geo_concepts = ['geo', 'country', 'world_4region', 'global', 'g77_and_oecd_countries',
-                    'income_groups', 'landlocked', 'main_religion_2008', 'world_6region',
-                    'domain', 'drill_up', 'unicef_region', 'income_3groups', 'un_sdg_ldc', 'un_sdg_region']
-    cdf2 = concepts_ontology[concepts_ontology.concept.isin(geo_concepts)].copy()
+    geo_predicate = (concepts_ontology.concept == 'geo') | (concepts_ontology.domain == 'geo')
+    cdf2 = concepts_ontology[geo_predicate].copy()
     cdf2 = cdf2.set_index('concept')
 
     # third, concepts in entity columns
@@ -175,6 +189,16 @@ def serve_concepts(concepts, entities_columns):
 
     return cdf_full
 
+@retry(times=10, backoff=1, exceptions=(EmptyColumn, EmptySheet))
+def read_sheet(doc, sheet_name):
+    df = doc.sheet_to_df(sheet=sheet_name, index=None)
+    # detect error in sheet
+    if df.empty:
+        raise EmptySheet(f"{sheet_name} is empty")
+    elif df.shape[0] == 1 and df.iloc[0, 0] in ['#N/A', '#VALUE!']:
+        raise EmptyColumn(f"{sheet_name} contains all NA values")
+    return df
+
 
 def main():
     print('loading source files...')
@@ -196,23 +220,30 @@ def main():
         doc = Spread(spread=docid)
         for sheet_name, link in di.items():
             print(f"sheet: {sheet_name}")
-            df = doc.sheet_to_df(sheet=sheet_name, index=None)
-            if df.empty:
-                print(f"WARNING: empty dataframe: doc: {docid}, sheet_name: {sheet_name}")
+            try:
+                df = read_sheet(doc, sheet_name)
+            except Exception as e:
+                print(f"error: {e}")
+
             csv_dict[docid][sheet_name] = df
+            time.sleep(10)
 
     print('creating ddf datasets...')
 
+    concepts_ontology = pd.read_csv('../source/ddf--open_numbers/ddf--concepts.csv')
     # entities
     entities_columns = set()  # mark down the columns, use to create concept table later
-    for e in ['country', 'global', 'world_4region', 'g77_and_oecd_countries',
-              'income_groups', 'landlocked', 'main_religion_2008', 'world_6region',
-              'unicef_region', 'income_3groups', 'un_sdg_ldc', 'un_sdg_region']:
-        edf = pd.read_csv(f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv',
+    geo_concepts = concepts_ontology[concepts_ontology.domain == 'geo'].concept.values
+    for e in geo_concepts:
+        file_path = f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv'
+        if osp.exists(file_path):
+            edf = pd.read_csv(f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv',
                           na_filter=False, dtype=str)
-        edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False, encoding='utf8')
-        for c in edf.columns:
-            entities_columns.add(c)
+            edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False, encoding='utf8')
+            for c in edf.columns:
+                entities_columns.add(c)
+        else:
+            print(f'WARNING: file not found: {file_path}, skipping')
 
     # tags entities
     tags = tags.rename(columns={'topic_id': 'tag', 'topic_name': 'name', 'parent_topic': 'parent' })

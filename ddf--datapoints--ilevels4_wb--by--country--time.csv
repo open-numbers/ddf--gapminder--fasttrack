@@ -32,105 +32,6 @@ afg,2016,Low income
 afg,2017,Low income
 afg,2018,Low income
 afg,2019,Low income
-alb,1987,Lower middle income
-alb,1988,Lower middle income
-alb,1989,Lower middle income
-alb,1990,Lower middle income
-alb,1991,Lower middle income
-alb,1992,Lower middle income
-alb,1993,Low income
-alb,1994,Low income
-alb,1995,Low income
-alb,1996,Lower middle income
-alb,1997,Low income
-alb,1998,Lower middle income
-alb,1999,Lower middle income
-alb,2000,Lower middle income
-alb,2001,Lower middle income
-alb,2002,Lower middle income
-alb,2003,Lower middle income
-alb,2004,Lower middle income
-alb,2005,Lower middle income
-alb,2006,Lower middle income
-alb,2007,Lower middle income
-alb,2008,Lower middle income
-alb,2009,Upper middle income
-alb,2010,Upper middle income
-alb,2011,Lower middle income
-alb,2012,Upper middle income
-alb,2013,Upper middle income
-alb,2014,Upper middle income
-alb,2015,Upper middle income
-alb,2016,Upper middle income
-alb,2017,Upper middle income
-alb,2018,Upper middle income
-alb,2019,Upper middle income
-dza,1987,Upper middle income
-dza,1988,Upper middle income
-dza,1989,Lower middle income
-dza,1990,Lower middle income
-dza,1991,Lower middle income
-dza,1992,Lower middle income
-dza,1993,Lower middle income
-dza,1994,Lower middle income
-dza,1995,Lower middle income
-dza,1996,Lower middle income
-dza,1997,Lower middle income
-dza,1998,Lower middle income
-dza,1999,Lower middle income
-dza,2000,Lower middle income
-dza,2001,Lower middle income
-dza,2002,Lower middle income
-dza,2003,Lower middle income
-dza,2004,Lower middle income
-dza,2005,Lower middle income
-dza,2006,Lower middle income
-dza,2007,Lower middle income
-dza,2008,Upper middle income
-dza,2009,Upper middle income
-dza,2010,Upper middle income
-dza,2011,Upper middle income
-dza,2012,Upper middle income
-dza,2013,Upper middle income
-dza,2014,Upper middle income
-dza,2015,Upper middle income
-dza,2016,Upper middle income
-dza,2017,Upper middle income
-dza,2018,Upper middle income
-dza,2019,Upper middle income
-and,1987,High income
-and,1988,High income
-and,1989,High income
-and,1990,High income
-and,1991,High income
-and,1992,High income
-and,1993,High income
-and,1994,High income
-and,1995,High income
-and,1996,High income
-and,1997,High income
-and,1998,High income
-and,1999,High income
-and,2000,High income
-and,2001,High income
-and,2002,High income
-and,2003,High income
-and,2004,High income
-and,2005,High income
-and,2006,High income
-and,2007,High income
-and,2008,High income
-and,2009,High income
-and,2010,High income
-and,2011,High income
-and,2012,High income
-and,2013,High income
-and,2014,High income
-and,2015,High income
-and,2016,High income
-and,2017,High income
-and,2018,High income
-and,2019,High income
 ago,1987,Lower middle income
 ago,1988,Lower middle income
 ago,1989,Lower middle income
@@ -164,39 +65,105 @@ ago,2016,Lower middle income
 ago,2017,Lower middle income
 ago,2018,Lower middle income
 ago,2019,Lower middle income
-atg,1987,Upper middle income
-atg,1988,Upper middle income
-atg,1989,Upper middle income
-atg,1990,Upper middle income
-atg,1991,Upper middle income
-atg,1992,Upper middle income
-atg,1993,Upper middle income
-atg,1994,Upper middle income
-atg,1995,Upper middle income
-atg,1996,Upper middle income
-atg,1997,Upper middle income
-atg,1998,Upper middle income
-atg,1999,Upper middle income
-atg,2000,Upper middle income
-atg,2001,Upper middle income
-atg,2002,High income
-atg,2003,Upper middle income
-atg,2004,Upper middle income
-atg,2005,High income
-atg,2006,High income
-atg,2007,High income
-atg,2008,High income
-atg,2009,Upper middle income
-atg,2010,Upper middle income
-atg,2011,Upper middle income
-atg,2012,High income
-atg,2013,High income
-atg,2014,High income
-atg,2015,High income
-atg,2016,High income
-atg,2017,High income
-atg,2018,High income
-atg,2019,High income
+alb,1987,Lower middle income
+alb,1988,Lower middle income
+alb,1989,Lower middle income
+alb,1990,Lower middle income
+alb,1991,Lower middle income
+alb,1992,Lower middle income
+alb,1993,Low income
+alb,1994,Low income
+alb,1995,Low income
+alb,1996,Lower middle income
+alb,1997,Low income
+alb,1998,Lower middle income
+alb,1999,Lower middle income
+alb,2000,Lower middle income
+alb,2001,Lower middle income
+alb,2002,Lower middle income
+alb,2003,Lower middle income
+alb,2004,Lower middle income
+alb,2005,Lower middle income
+alb,2006,Lower middle income
+alb,2007,Lower middle income
+alb,2008,Lower middle income
+alb,2009,Upper middle income
+alb,2010,Upper middle income
+alb,2011,Lower middle income
+alb,2012,Upper middle income
+alb,2013,Upper middle income
+alb,2014,Upper middle income
+alb,2015,Upper middle income
+alb,2016,Upper middle income
+alb,2017,Upper middle income
+alb,2018,Upper middle income
+alb,2019,Upper middle income
+and,1987,High income
+and,1988,High income
+and,1989,High income
+and,1990,High income
+and,1991,High income
+and,1992,High income
+and,1993,High income
+and,1994,High income
+and,1995,High income
+and,1996,High income
+and,1997,High income
+and,1998,High income
+and,1999,High income
+and,2000,High income
+and,2001,High income
+and,2002,High income
+and,2003,High income
+and,2004,High income
+and,2005,High income
+and,2006,High income
+and,2007,High income
+and,2008,High income
+and,2009,High income
+and,2010,High income
+and,2011,High income
+and,2012,High income
+and,2013,High income
+and,2014,High income
+and,2015,High income
+and,2016,High income
+and,2017,High income
+and,2018,High income
+and,2019,High income
+are,1987,High income
+are,1988,High income
+are,1989,High income
+are,1990,High income
+are,1991,High income
+are,1992,High income
+are,1993,High income
+are,1994,High income
+are,1995,High income
+are,1996,High income
+are,1997,High income
+are,1998,High income
+are,1999,High income
+are,2000,High income
+are,2001,High income
+are,2002,High income
+are,2003,High income
+are,2004,High income
+are,2005,High income
+are,2006,High income
+are,2007,High income
+are,2008,High income
+are,2009,High income
+are,2010,High income
+are,2011,High income
+are,2012,High income
+are,2013,High income
+are,2014,High income
+are,2015,High income
+are,2016,High income
+are,2017,High income
+are,2018,High income
+are,2019,High income
 arg,1987,Upper middle income
 arg,1988,Upper middle income
 arg,1989,Lower middle income
@@ -263,6 +230,39 @@ arm,2016,Lower middle income
 arm,2017,Upper middle income
 arm,2018,Upper middle income
 arm,2019,Upper middle income
+atg,1987,Upper middle income
+atg,1988,Upper middle income
+atg,1989,Upper middle income
+atg,1990,Upper middle income
+atg,1991,Upper middle income
+atg,1992,Upper middle income
+atg,1993,Upper middle income
+atg,1994,Upper middle income
+atg,1995,Upper middle income
+atg,1996,Upper middle income
+atg,1997,Upper middle income
+atg,1998,Upper middle income
+atg,1999,Upper middle income
+atg,2000,Upper middle income
+atg,2001,Upper middle income
+atg,2002,High income
+atg,2003,Upper middle income
+atg,2004,Upper middle income
+atg,2005,High income
+atg,2006,High income
+atg,2007,High income
+atg,2008,High income
+atg,2009,Upper middle income
+atg,2010,Upper middle income
+atg,2011,Upper middle income
+atg,2012,High income
+atg,2013,High income
+atg,2014,High income
+atg,2015,High income
+atg,2016,High income
+atg,2017,High income
+atg,2018,High income
+atg,2019,High income
 aus,1987,High income
 aus,1988,High income
 aus,1989,High income
@@ -362,534 +362,6 @@ aze,2016,Upper middle income
 aze,2017,Upper middle income
 aze,2018,Upper middle income
 aze,2019,Upper middle income
-bhs,1987,High income
-bhs,1988,High income
-bhs,1989,High income
-bhs,1990,High income
-bhs,1991,High income
-bhs,1992,High income
-bhs,1993,High income
-bhs,1994,High income
-bhs,1995,High income
-bhs,1996,High income
-bhs,1997,High income
-bhs,1998,High income
-bhs,1999,High income
-bhs,2000,High income
-bhs,2001,High income
-bhs,2002,High income
-bhs,2003,High income
-bhs,2004,High income
-bhs,2005,High income
-bhs,2006,High income
-bhs,2007,High income
-bhs,2008,High income
-bhs,2009,High income
-bhs,2010,High income
-bhs,2011,High income
-bhs,2012,High income
-bhs,2013,High income
-bhs,2014,High income
-bhs,2015,High income
-bhs,2016,High income
-bhs,2017,High income
-bhs,2018,High income
-bhs,2019,High income
-bhr,1987,High income
-bhr,1988,High income
-bhr,1989,High income
-bhr,1990,Upper middle income
-bhr,1991,Upper middle income
-bhr,1992,Upper middle income
-bhr,1993,Upper middle income
-bhr,1994,Upper middle income
-bhr,1995,Upper middle income
-bhr,1996,Upper middle income
-bhr,1997,Upper middle income
-bhr,1998,Upper middle income
-bhr,1999,Upper middle income
-bhr,2000,Upper middle income
-bhr,2001,High income
-bhr,2002,High income
-bhr,2003,High income
-bhr,2004,High income
-bhr,2005,High income
-bhr,2006,High income
-bhr,2007,High income
-bhr,2008,High income
-bhr,2009,High income
-bhr,2010,High income
-bhr,2011,High income
-bhr,2012,High income
-bhr,2013,High income
-bhr,2014,High income
-bhr,2015,High income
-bhr,2016,High income
-bhr,2017,High income
-bhr,2018,High income
-bhr,2019,High income
-bgd,1987,Low income
-bgd,1988,Low income
-bgd,1989,Low income
-bgd,1990,Low income
-bgd,1991,Low income
-bgd,1992,Low income
-bgd,1993,Low income
-bgd,1994,Low income
-bgd,1995,Low income
-bgd,1996,Low income
-bgd,1997,Low income
-bgd,1998,Low income
-bgd,1999,Low income
-bgd,2000,Low income
-bgd,2001,Low income
-bgd,2002,Low income
-bgd,2003,Low income
-bgd,2004,Low income
-bgd,2005,Low income
-bgd,2006,Low income
-bgd,2007,Low income
-bgd,2008,Low income
-bgd,2009,Low income
-bgd,2010,Low income
-bgd,2011,Low income
-bgd,2012,Low income
-bgd,2013,Low income
-bgd,2014,Lower middle income
-bgd,2015,Lower middle income
-bgd,2016,Lower middle income
-bgd,2017,Lower middle income
-bgd,2018,Lower middle income
-bgd,2019,Lower middle income
-brb,1987,Upper middle income
-brb,1988,Upper middle income
-brb,1989,High income
-brb,1990,Upper middle income
-brb,1991,Upper middle income
-brb,1992,Upper middle income
-brb,1993,Upper middle income
-brb,1994,Upper middle income
-brb,1995,Upper middle income
-brb,1996,Upper middle income
-brb,1997,Upper middle income
-brb,1998,Upper middle income
-brb,1999,Upper middle income
-brb,2000,High income
-brb,2001,Upper middle income
-brb,2002,High income
-brb,2003,Upper middle income
-brb,2004,Upper middle income
-brb,2005,Upper middle income
-brb,2006,High income
-brb,2007,High income
-brb,2008,High income
-brb,2009,High income
-brb,2010,High income
-brb,2011,High income
-brb,2012,High income
-brb,2013,High income
-brb,2014,High income
-brb,2015,High income
-brb,2016,High income
-brb,2017,High income
-brb,2018,High income
-brb,2019,High income
-blr,1987,Upper middle income
-blr,1988,Upper middle income
-blr,1989,Upper middle income
-blr,1990,Upper middle income
-blr,1991,Upper middle income
-blr,1992,Upper middle income
-blr,1993,Upper middle income
-blr,1994,Lower middle income
-blr,1995,Lower middle income
-blr,1996,Lower middle income
-blr,1997,Lower middle income
-blr,1998,Lower middle income
-blr,1999,Lower middle income
-blr,2000,Lower middle income
-blr,2001,Lower middle income
-blr,2002,Lower middle income
-blr,2003,Lower middle income
-blr,2004,Lower middle income
-blr,2005,Lower middle income
-blr,2006,Lower middle income
-blr,2007,Upper middle income
-blr,2008,Upper middle income
-blr,2009,Upper middle income
-blr,2010,Upper middle income
-blr,2011,Upper middle income
-blr,2012,Upper middle income
-blr,2013,Upper middle income
-blr,2014,Upper middle income
-blr,2015,Upper middle income
-blr,2016,Upper middle income
-blr,2017,Upper middle income
-blr,2018,Upper middle income
-blr,2019,Upper middle income
-bel,1987,High income
-bel,1988,High income
-bel,1989,High income
-bel,1990,High income
-bel,1991,High income
-bel,1992,High income
-bel,1993,High income
-bel,1994,High income
-bel,1995,High income
-bel,1996,High income
-bel,1997,High income
-bel,1998,High income
-bel,1999,High income
-bel,2000,High income
-bel,2001,High income
-bel,2002,High income
-bel,2003,High income
-bel,2004,High income
-bel,2005,High income
-bel,2006,High income
-bel,2007,High income
-bel,2008,High income
-bel,2009,High income
-bel,2010,High income
-bel,2011,High income
-bel,2012,High income
-bel,2013,High income
-bel,2014,High income
-bel,2015,High income
-bel,2016,High income
-bel,2017,High income
-bel,2018,High income
-bel,2019,High income
-blz,1987,Lower middle income
-blz,1988,Lower middle income
-blz,1989,Lower middle income
-blz,1990,Lower middle income
-blz,1991,Lower middle income
-blz,1992,Lower middle income
-blz,1993,Lower middle income
-blz,1994,Lower middle income
-blz,1995,Lower middle income
-blz,1996,Lower middle income
-blz,1997,Lower middle income
-blz,1998,Lower middle income
-blz,1999,Lower middle income
-blz,2000,Lower middle income
-blz,2001,Lower middle income
-blz,2002,Upper middle income
-blz,2003,Upper middle income
-blz,2004,Upper middle income
-blz,2005,Upper middle income
-blz,2006,Upper middle income
-blz,2007,Upper middle income
-blz,2008,Lower middle income
-blz,2009,Lower middle income
-blz,2010,Lower middle income
-blz,2011,Lower middle income
-blz,2012,Upper middle income
-blz,2013,Upper middle income
-blz,2014,Upper middle income
-blz,2015,Upper middle income
-blz,2016,Upper middle income
-blz,2017,Upper middle income
-blz,2018,Upper middle income
-blz,2019,Upper middle income
-ben,1987,Low income
-ben,1988,Low income
-ben,1989,Low income
-ben,1990,Low income
-ben,1991,Low income
-ben,1992,Low income
-ben,1993,Low income
-ben,1994,Low income
-ben,1995,Low income
-ben,1996,Low income
-ben,1997,Low income
-ben,1998,Low income
-ben,1999,Low income
-ben,2000,Low income
-ben,2001,Low income
-ben,2002,Low income
-ben,2003,Low income
-ben,2004,Low income
-ben,2005,Low income
-ben,2006,Low income
-ben,2007,Low income
-ben,2008,Low income
-ben,2009,Low income
-ben,2010,Low income
-ben,2011,Low income
-ben,2012,Low income
-ben,2013,Low income
-ben,2014,Low income
-ben,2015,Low income
-ben,2016,Low income
-ben,2017,Low income
-ben,2018,Low income
-ben,2019,Low income
-btn,1987,Low income
-btn,1988,Low income
-btn,1989,Low income
-btn,1990,Low income
-btn,1991,Low income
-btn,1992,Low income
-btn,1993,Low income
-btn,1994,Low income
-btn,1995,Low income
-btn,1996,Low income
-btn,1997,Low income
-btn,1998,Low income
-btn,1999,Low income
-btn,2000,Low income
-btn,2001,Low income
-btn,2002,Low income
-btn,2003,Low income
-btn,2004,Low income
-btn,2005,Low income
-btn,2006,Lower middle income
-btn,2007,Lower middle income
-btn,2008,Lower middle income
-btn,2009,Lower middle income
-btn,2010,Lower middle income
-btn,2011,Lower middle income
-btn,2012,Lower middle income
-btn,2013,Lower middle income
-btn,2014,Lower middle income
-btn,2015,Lower middle income
-btn,2016,Lower middle income
-btn,2017,Lower middle income
-btn,2018,Lower middle income
-btn,2019,Lower middle income
-bol,1987,Lower middle income
-bol,1988,Lower middle income
-bol,1989,Lower middle income
-bol,1990,Lower middle income
-bol,1991,Lower middle income
-bol,1992,Lower middle income
-bol,1993,Lower middle income
-bol,1994,Lower middle income
-bol,1995,Lower middle income
-bol,1996,Lower middle income
-bol,1997,Lower middle income
-bol,1998,Lower middle income
-bol,1999,Lower middle income
-bol,2000,Lower middle income
-bol,2001,Lower middle income
-bol,2002,Lower middle income
-bol,2003,Lower middle income
-bol,2004,Lower middle income
-bol,2005,Lower middle income
-bol,2006,Lower middle income
-bol,2007,Lower middle income
-bol,2008,Lower middle income
-bol,2009,Lower middle income
-bol,2010,Lower middle income
-bol,2011,Lower middle income
-bol,2012,Lower middle income
-bol,2013,Lower middle income
-bol,2014,Lower middle income
-bol,2015,Lower middle income
-bol,2016,Lower middle income
-bol,2017,Lower middle income
-bol,2018,Lower middle income
-bol,2019,Lower middle income
-bih,1987,Lower middle income
-bih,1988,Lower middle income
-bih,1989,Lower middle income
-bih,1990,Lower middle income
-bih,1991,Lower middle income
-bih,1992,Lower middle income
-bih,1993,Low income
-bih,1994,Low income
-bih,1995,Low income
-bih,1996,Low income
-bih,1997,Low income
-bih,1998,Lower middle income
-bih,1999,Lower middle income
-bih,2000,Lower middle income
-bih,2001,Lower middle income
-bih,2002,Lower middle income
-bih,2003,Lower middle income
-bih,2004,Lower middle income
-bih,2005,Lower middle income
-bih,2006,Lower middle income
-bih,2007,Lower middle income
-bih,2008,Upper middle income
-bih,2009,Upper middle income
-bih,2010,Upper middle income
-bih,2011,Upper middle income
-bih,2012,Upper middle income
-bih,2013,Upper middle income
-bih,2014,Upper middle income
-bih,2015,Upper middle income
-bih,2016,Upper middle income
-bih,2017,Upper middle income
-bih,2018,Upper middle income
-bih,2019,Upper middle income
-bwa,1987,Lower middle income
-bwa,1988,Lower middle income
-bwa,1989,Lower middle income
-bwa,1990,Lower middle income
-bwa,1991,Upper middle income
-bwa,1992,Upper middle income
-bwa,1993,Lower middle income
-bwa,1994,Lower middle income
-bwa,1995,Lower middle income
-bwa,1996,Lower middle income
-bwa,1997,Upper middle income
-bwa,1998,Upper middle income
-bwa,1999,Upper middle income
-bwa,2000,Upper middle income
-bwa,2001,Upper middle income
-bwa,2002,Upper middle income
-bwa,2003,Upper middle income
-bwa,2004,Upper middle income
-bwa,2005,Upper middle income
-bwa,2006,Upper middle income
-bwa,2007,Upper middle income
-bwa,2008,Upper middle income
-bwa,2009,Upper middle income
-bwa,2010,Upper middle income
-bwa,2011,Upper middle income
-bwa,2012,Upper middle income
-bwa,2013,Upper middle income
-bwa,2014,Upper middle income
-bwa,2015,Upper middle income
-bwa,2016,Upper middle income
-bwa,2017,Upper middle income
-bwa,2018,Upper middle income
-bwa,2019,Upper middle income
-bra,1987,Upper middle income
-bra,1988,Lower middle income
-bra,1989,Upper middle income
-bra,1990,Upper middle income
-bra,1991,Upper middle income
-bra,1992,Upper middle income
-bra,1993,Upper middle income
-bra,1994,Upper middle income
-bra,1995,Upper middle income
-bra,1996,Upper middle income
-bra,1997,Upper middle income
-bra,1998,Upper middle income
-bra,1999,Upper middle income
-bra,2000,Upper middle income
-bra,2001,Upper middle income
-bra,2002,Lower middle income
-bra,2003,Lower middle income
-bra,2004,Lower middle income
-bra,2005,Lower middle income
-bra,2006,Upper middle income
-bra,2007,Upper middle income
-bra,2008,Upper middle income
-bra,2009,Upper middle income
-bra,2010,Upper middle income
-bra,2011,Upper middle income
-bra,2012,Upper middle income
-bra,2013,Upper middle income
-bra,2014,Upper middle income
-bra,2015,Upper middle income
-bra,2016,Upper middle income
-bra,2017,Upper middle income
-bra,2018,Upper middle income
-bra,2019,Upper middle income
-brn,1987,High income
-brn,1988,High income
-brn,1989,High income
-brn,1990,High income
-brn,1991,High income
-brn,1992,High income
-brn,1993,High income
-brn,1994,High income
-brn,1995,High income
-brn,1996,High income
-brn,1997,High income
-brn,1998,High income
-brn,1999,High income
-brn,2000,High income
-brn,2001,High income
-brn,2002,High income
-brn,2003,High income
-brn,2004,High income
-brn,2005,High income
-brn,2006,High income
-brn,2007,High income
-brn,2008,High income
-brn,2009,High income
-brn,2010,High income
-brn,2011,High income
-brn,2012,High income
-brn,2013,High income
-brn,2014,High income
-brn,2015,High income
-brn,2016,High income
-brn,2017,High income
-brn,2018,High income
-brn,2019,High income
-bgr,1987,Lower middle income
-bgr,1988,Lower middle income
-bgr,1989,Lower middle income
-bgr,1990,Lower middle income
-bgr,1991,Lower middle income
-bgr,1992,Lower middle income
-bgr,1993,Lower middle income
-bgr,1994,Lower middle income
-bgr,1995,Lower middle income
-bgr,1996,Lower middle income
-bgr,1997,Lower middle income
-bgr,1998,Lower middle income
-bgr,1999,Lower middle income
-bgr,2000,Lower middle income
-bgr,2001,Lower middle income
-bgr,2002,Lower middle income
-bgr,2003,Lower middle income
-bgr,2004,Lower middle income
-bgr,2005,Lower middle income
-bgr,2006,Upper middle income
-bgr,2007,Upper middle income
-bgr,2008,Upper middle income
-bgr,2009,Upper middle income
-bgr,2010,Upper middle income
-bgr,2011,Upper middle income
-bgr,2012,Upper middle income
-bgr,2013,Upper middle income
-bgr,2014,Upper middle income
-bgr,2015,Upper middle income
-bgr,2016,Upper middle income
-bgr,2017,Upper middle income
-bgr,2018,Upper middle income
-bgr,2019,Upper middle income
-bfa,1987,Low income
-bfa,1988,Low income
-bfa,1989,Low income
-bfa,1990,Low income
-bfa,1991,Low income
-bfa,1992,Low income
-bfa,1993,Low income
-bfa,1994,Low income
-bfa,1995,Low income
-bfa,1996,Low income
-bfa,1997,Low income
-bfa,1998,Low income
-bfa,1999,Low income
-bfa,2000,Low income
-bfa,2001,Low income
-bfa,2002,Low income
-bfa,2003,Low income
-bfa,2004,Low income
-bfa,2005,Low income
-bfa,2006,Low income
-bfa,2007,Low income
-bfa,2008,Low income
-bfa,2009,Low income
-bfa,2010,Low income
-bfa,2011,Low income
-bfa,2012,Low income
-bfa,2013,Low income
-bfa,2014,Low income
-bfa,2015,Low income
-bfa,2016,Low income
-bfa,2017,Low income
-bfa,2018,Low income
-bfa,2019,Low income
 bdi,1987,Low income
 bdi,1988,Low income
 bdi,1989,Low income
@@ -923,138 +395,534 @@ bdi,2016,Low income
 bdi,2017,Low income
 bdi,2018,Low income
 bdi,2019,Low income
-cpv,1987,Lower middle income
-cpv,1988,Lower middle income
-cpv,1989,Lower middle income
-cpv,1990,Lower middle income
-cpv,1991,Lower middle income
-cpv,1992,Lower middle income
-cpv,1993,Lower middle income
-cpv,1994,Lower middle income
-cpv,1995,Lower middle income
-cpv,1996,Lower middle income
-cpv,1997,Lower middle income
-cpv,1998,Lower middle income
-cpv,1999,Lower middle income
-cpv,2000,Lower middle income
-cpv,2001,Lower middle income
-cpv,2002,Lower middle income
-cpv,2003,Lower middle income
-cpv,2004,Lower middle income
-cpv,2005,Lower middle income
-cpv,2006,Lower middle income
-cpv,2007,Lower middle income
-cpv,2008,Lower middle income
-cpv,2009,Lower middle income
-cpv,2010,Lower middle income
-cpv,2011,Lower middle income
-cpv,2012,Lower middle income
-cpv,2013,Lower middle income
-cpv,2014,Lower middle income
-cpv,2015,Lower middle income
-cpv,2016,Lower middle income
-cpv,2017,Lower middle income
-cpv,2018,Lower middle income
-cpv,2019,Lower middle income
-khm,1987,Low income
-khm,1988,Low income
-khm,1989,Low income
-khm,1990,Low income
-khm,1991,Low income
-khm,1992,Low income
-khm,1993,Low income
-khm,1994,Low income
-khm,1995,Low income
-khm,1996,Low income
-khm,1997,Low income
-khm,1998,Low income
-khm,1999,Low income
-khm,2000,Low income
-khm,2001,Low income
-khm,2002,Low income
-khm,2003,Low income
-khm,2004,Low income
-khm,2005,Low income
-khm,2006,Low income
-khm,2007,Low income
-khm,2008,Low income
-khm,2009,Low income
-khm,2010,Low income
-khm,2011,Low income
-khm,2012,Low income
-khm,2013,Low income
-khm,2014,Low income
-khm,2015,Lower middle income
-khm,2016,Lower middle income
-khm,2017,Lower middle income
-khm,2018,Lower middle income
-khm,2019,Lower middle income
-cmr,1987,Lower middle income
-cmr,1988,Lower middle income
-cmr,1989,Lower middle income
-cmr,1990,Lower middle income
-cmr,1991,Lower middle income
-cmr,1992,Lower middle income
-cmr,1993,Lower middle income
-cmr,1994,Low income
-cmr,1995,Low income
-cmr,1996,Low income
-cmr,1997,Low income
-cmr,1998,Low income
-cmr,1999,Low income
-cmr,2000,Low income
-cmr,2001,Low income
-cmr,2002,Low income
-cmr,2003,Low income
-cmr,2004,Low income
-cmr,2005,Lower middle income
-cmr,2006,Lower middle income
-cmr,2007,Lower middle income
-cmr,2008,Lower middle income
-cmr,2009,Lower middle income
-cmr,2010,Lower middle income
-cmr,2011,Lower middle income
-cmr,2012,Lower middle income
-cmr,2013,Lower middle income
-cmr,2014,Lower middle income
-cmr,2015,Lower middle income
-cmr,2016,Lower middle income
-cmr,2017,Lower middle income
-cmr,2018,Lower middle income
-cmr,2019,Lower middle income
-can,1987,High income
-can,1988,High income
-can,1989,High income
-can,1990,High income
-can,1991,High income
-can,1992,High income
-can,1993,High income
-can,1994,High income
-can,1995,High income
-can,1996,High income
-can,1997,High income
-can,1998,High income
-can,1999,High income
-can,2000,High income
-can,2001,High income
-can,2002,High income
-can,2003,High income
-can,2004,High income
-can,2005,High income
-can,2006,High income
-can,2007,High income
-can,2008,High income
-can,2009,High income
-can,2010,High income
-can,2011,High income
-can,2012,High income
-can,2013,High income
-can,2014,High income
-can,2015,High income
-can,2016,High income
-can,2017,High income
-can,2018,High income
-can,2019,High income
+bel,1987,High income
+bel,1988,High income
+bel,1989,High income
+bel,1990,High income
+bel,1991,High income
+bel,1992,High income
+bel,1993,High income
+bel,1994,High income
+bel,1995,High income
+bel,1996,High income
+bel,1997,High income
+bel,1998,High income
+bel,1999,High income
+bel,2000,High income
+bel,2001,High income
+bel,2002,High income
+bel,2003,High income
+bel,2004,High income
+bel,2005,High income
+bel,2006,High income
+bel,2007,High income
+bel,2008,High income
+bel,2009,High income
+bel,2010,High income
+bel,2011,High income
+bel,2012,High income
+bel,2013,High income
+bel,2014,High income
+bel,2015,High income
+bel,2016,High income
+bel,2017,High income
+bel,2018,High income
+bel,2019,High income
+ben,1987,Low income
+ben,1988,Low income
+ben,1989,Low income
+ben,1990,Low income
+ben,1991,Low income
+ben,1992,Low income
+ben,1993,Low income
+ben,1994,Low income
+ben,1995,Low income
+ben,1996,Low income
+ben,1997,Low income
+ben,1998,Low income
+ben,1999,Low income
+ben,2000,Low income
+ben,2001,Low income
+ben,2002,Low income
+ben,2003,Low income
+ben,2004,Low income
+ben,2005,Low income
+ben,2006,Low income
+ben,2007,Low income
+ben,2008,Low income
+ben,2009,Low income
+ben,2010,Low income
+ben,2011,Low income
+ben,2012,Low income
+ben,2013,Low income
+ben,2014,Low income
+ben,2015,Low income
+ben,2016,Low income
+ben,2017,Low income
+ben,2018,Low income
+ben,2019,Low income
+bfa,1987,Low income
+bfa,1988,Low income
+bfa,1989,Low income
+bfa,1990,Low income
+bfa,1991,Low income
+bfa,1992,Low income
+bfa,1993,Low income
+bfa,1994,Low income
+bfa,1995,Low income
+bfa,1996,Low income
+bfa,1997,Low income
+bfa,1998,Low income
+bfa,1999,Low income
+bfa,2000,Low income
+bfa,2001,Low income
+bfa,2002,Low income
+bfa,2003,Low income
+bfa,2004,Low income
+bfa,2005,Low income
+bfa,2006,Low income
+bfa,2007,Low income
+bfa,2008,Low income
+bfa,2009,Low income
+bfa,2010,Low income
+bfa,2011,Low income
+bfa,2012,Low income
+bfa,2013,Low income
+bfa,2014,Low income
+bfa,2015,Low income
+bfa,2016,Low income
+bfa,2017,Low income
+bfa,2018,Low income
+bfa,2019,Low income
+bgd,1987,Low income
+bgd,1988,Low income
+bgd,1989,Low income
+bgd,1990,Low income
+bgd,1991,Low income
+bgd,1992,Low income
+bgd,1993,Low income
+bgd,1994,Low income
+bgd,1995,Low income
+bgd,1996,Low income
+bgd,1997,Low income
+bgd,1998,Low income
+bgd,1999,Low income
+bgd,2000,Low income
+bgd,2001,Low income
+bgd,2002,Low income
+bgd,2003,Low income
+bgd,2004,Low income
+bgd,2005,Low income
+bgd,2006,Low income
+bgd,2007,Low income
+bgd,2008,Low income
+bgd,2009,Low income
+bgd,2010,Low income
+bgd,2011,Low income
+bgd,2012,Low income
+bgd,2013,Low income
+bgd,2014,Lower middle income
+bgd,2015,Lower middle income
+bgd,2016,Lower middle income
+bgd,2017,Lower middle income
+bgd,2018,Lower middle income
+bgd,2019,Lower middle income
+bgr,1987,Lower middle income
+bgr,1988,Lower middle income
+bgr,1989,Lower middle income
+bgr,1990,Lower middle income
+bgr,1991,Lower middle income
+bgr,1992,Lower middle income
+bgr,1993,Lower middle income
+bgr,1994,Lower middle income
+bgr,1995,Lower middle income
+bgr,1996,Lower middle income
+bgr,1997,Lower middle income
+bgr,1998,Lower middle income
+bgr,1999,Lower middle income
+bgr,2000,Lower middle income
+bgr,2001,Lower middle income
+bgr,2002,Lower middle income
+bgr,2003,Lower middle income
+bgr,2004,Lower middle income
+bgr,2005,Lower middle income
+bgr,2006,Upper middle income
+bgr,2007,Upper middle income
+bgr,2008,Upper middle income
+bgr,2009,Upper middle income
+bgr,2010,Upper middle income
+bgr,2011,Upper middle income
+bgr,2012,Upper middle income
+bgr,2013,Upper middle income
+bgr,2014,Upper middle income
+bgr,2015,Upper middle income
+bgr,2016,Upper middle income
+bgr,2017,Upper middle income
+bgr,2018,Upper middle income
+bgr,2019,Upper middle income
+bhr,1987,High income
+bhr,1988,High income
+bhr,1989,High income
+bhr,1990,Upper middle income
+bhr,1991,Upper middle income
+bhr,1992,Upper middle income
+bhr,1993,Upper middle income
+bhr,1994,Upper middle income
+bhr,1995,Upper middle income
+bhr,1996,Upper middle income
+bhr,1997,Upper middle income
+bhr,1998,Upper middle income
+bhr,1999,Upper middle income
+bhr,2000,Upper middle income
+bhr,2001,High income
+bhr,2002,High income
+bhr,2003,High income
+bhr,2004,High income
+bhr,2005,High income
+bhr,2006,High income
+bhr,2007,High income
+bhr,2008,High income
+bhr,2009,High income
+bhr,2010,High income
+bhr,2011,High income
+bhr,2012,High income
+bhr,2013,High income
+bhr,2014,High income
+bhr,2015,High income
+bhr,2016,High income
+bhr,2017,High income
+bhr,2018,High income
+bhr,2019,High income
+bhs,1987,High income
+bhs,1988,High income
+bhs,1989,High income
+bhs,1990,High income
+bhs,1991,High income
+bhs,1992,High income
+bhs,1993,High income
+bhs,1994,High income
+bhs,1995,High income
+bhs,1996,High income
+bhs,1997,High income
+bhs,1998,High income
+bhs,1999,High income
+bhs,2000,High income
+bhs,2001,High income
+bhs,2002,High income
+bhs,2003,High income
+bhs,2004,High income
+bhs,2005,High income
+bhs,2006,High income
+bhs,2007,High income
+bhs,2008,High income
+bhs,2009,High income
+bhs,2010,High income
+bhs,2011,High income
+bhs,2012,High income
+bhs,2013,High income
+bhs,2014,High income
+bhs,2015,High income
+bhs,2016,High income
+bhs,2017,High income
+bhs,2018,High income
+bhs,2019,High income
+bih,1987,Lower middle income
+bih,1988,Lower middle income
+bih,1989,Lower middle income
+bih,1990,Lower middle income
+bih,1991,Lower middle income
+bih,1992,Lower middle income
+bih,1993,Low income
+bih,1994,Low income
+bih,1995,Low income
+bih,1996,Low income
+bih,1997,Low income
+bih,1998,Lower middle income
+bih,1999,Lower middle income
+bih,2000,Lower middle income
+bih,2001,Lower middle income
+bih,2002,Lower middle income
+bih,2003,Lower middle income
+bih,2004,Lower middle income
+bih,2005,Lower middle income
+bih,2006,Lower middle income
+bih,2007,Lower middle income
+bih,2008,Upper middle income
+bih,2009,Upper middle income
+bih,2010,Upper middle income
+bih,2011,Upper middle income
+bih,2012,Upper middle income
+bih,2013,Upper middle income
+bih,2014,Upper middle income
+bih,2015,Upper middle income
+bih,2016,Upper middle income
+bih,2017,Upper middle income
+bih,2018,Upper middle income
+bih,2019,Upper middle income
+blr,1987,Upper middle income
+blr,1988,Upper middle income
+blr,1989,Upper middle income
+blr,1990,Upper middle income
+blr,1991,Upper middle income
+blr,1992,Upper middle income
+blr,1993,Upper middle income
+blr,1994,Lower middle income
+blr,1995,Lower middle income
+blr,1996,Lower middle income
+blr,1997,Lower middle income
+blr,1998,Lower middle income
+blr,1999,Lower middle income
+blr,2000,Lower middle income
+blr,2001,Lower middle income
+blr,2002,Lower middle income
+blr,2003,Lower middle income
+blr,2004,Lower middle income
+blr,2005,Lower middle income
+blr,2006,Lower middle income
+blr,2007,Upper middle income
+blr,2008,Upper middle income
+blr,2009,Upper middle income
+blr,2010,Upper middle income
+blr,2011,Upper middle income
+blr,2012,Upper middle income
+blr,2013,Upper middle income
+blr,2014,Upper middle income
+blr,2015,Upper middle income
+blr,2016,Upper middle income
+blr,2017,Upper middle income
+blr,2018,Upper middle income
+blr,2019,Upper middle income
+blz,1987,Lower middle income
+blz,1988,Lower middle income
+blz,1989,Lower middle income
+blz,1990,Lower middle income
+blz,1991,Lower middle income
+blz,1992,Lower middle income
+blz,1993,Lower middle income
+blz,1994,Lower middle income
+blz,1995,Lower middle income
+blz,1996,Lower middle income
+blz,1997,Lower middle income
+blz,1998,Lower middle income
+blz,1999,Lower middle income
+blz,2000,Lower middle income
+blz,2001,Lower middle income
+blz,2002,Upper middle income
+blz,2003,Upper middle income
+blz,2004,Upper middle income
+blz,2005,Upper middle income
+blz,2006,Upper middle income
+blz,2007,Upper middle income
+blz,2008,Lower middle income
+blz,2009,Lower middle income
+blz,2010,Lower middle income
+blz,2011,Lower middle income
+blz,2012,Upper middle income
+blz,2013,Upper middle income
+blz,2014,Upper middle income
+blz,2015,Upper middle income
+blz,2016,Upper middle income
+blz,2017,Upper middle income
+blz,2018,Upper middle income
+blz,2019,Upper middle income
+bol,1987,Lower middle income
+bol,1988,Lower middle income
+bol,1989,Lower middle income
+bol,1990,Lower middle income
+bol,1991,Lower middle income
+bol,1992,Lower middle income
+bol,1993,Lower middle income
+bol,1994,Lower middle income
+bol,1995,Lower middle income
+bol,1996,Lower middle income
+bol,1997,Lower middle income
+bol,1998,Lower middle income
+bol,1999,Lower middle income
+bol,2000,Lower middle income
+bol,2001,Lower middle income
+bol,2002,Lower middle income
+bol,2003,Lower middle income
+bol,2004,Lower middle income
+bol,2005,Lower middle income
+bol,2006,Lower middle income
+bol,2007,Lower middle income
+bol,2008,Lower middle income
+bol,2009,Lower middle income
+bol,2010,Lower middle income
+bol,2011,Lower middle income
+bol,2012,Lower middle income
+bol,2013,Lower middle income
+bol,2014,Lower middle income
+bol,2015,Lower middle income
+bol,2016,Lower middle income
+bol,2017,Lower middle income
+bol,2018,Lower middle income
+bol,2019,Lower middle income
+bra,1987,Upper middle income
+bra,1988,Lower middle income
+bra,1989,Upper middle income
+bra,1990,Upper middle income
+bra,1991,Upper middle income
+bra,1992,Upper middle income
+bra,1993,Upper middle income
+bra,1994,Upper middle income
+bra,1995,Upper middle income
+bra,1996,Upper middle income
+bra,1997,Upper middle income
+bra,1998,Upper middle income
+bra,1999,Upper middle income
+bra,2000,Upper middle income
+bra,2001,Upper middle income
+bra,2002,Lower middle income
+bra,2003,Lower middle income
+bra,2004,Lower middle income
+bra,2005,Lower middle income
+bra,2006,Upper middle income
+bra,2007,Upper middle income
+bra,2008,Upper middle income
+bra,2009,Upper middle income
+bra,2010,Upper middle income
+bra,2011,Upper middle income
+bra,2012,Upper middle income
+bra,2013,Upper middle income
+bra,2014,Upper middle income
+bra,2015,Upper middle income
+bra,2016,Upper middle income
+bra,2017,Upper middle income
+bra,2018,Upper middle income
+bra,2019,Upper middle income
+brb,1987,Upper middle income
+brb,1988,Upper middle income
+brb,1989,High income
+brb,1990,Upper middle income
+brb,1991,Upper middle income
+brb,1992,Upper middle income
+brb,1993,Upper middle income
+brb,1994,Upper middle income
+brb,1995,Upper middle income
+brb,1996,Upper middle income
+brb,1997,Upper middle income
+brb,1998,Upper middle income
+brb,1999,Upper middle income
+brb,2000,High income
+brb,2001,Upper middle income
+brb,2002,High income
+brb,2003,Upper middle income
+brb,2004,Upper middle income
+brb,2005,Upper middle income
+brb,2006,High income
+brb,2007,High income
+brb,2008,High income
+brb,2009,High income
+brb,2010,High income
+brb,2011,High income
+brb,2012,High income
+brb,2013,High income
+brb,2014,High income
+brb,2015,High income
+brb,2016,High income
+brb,2017,High income
+brb,2018,High income
+brb,2019,High income
+brn,1987,High income
+brn,1988,High income
+brn,1989,High income
+brn,1990,High income
+brn,1991,High income
+brn,1992,High income
+brn,1993,High income
+brn,1994,High income
+brn,1995,High income
+brn,1996,High income
+brn,1997,High income
+brn,1998,High income
+brn,1999,High income
+brn,2000,High income
+brn,2001,High income
+brn,2002,High income
+brn,2003,High income
+brn,2004,High income
+brn,2005,High income
+brn,2006,High income
+brn,2007,High income
+brn,2008,High income
+brn,2009,High income
+brn,2010,High income
+brn,2011,High income
+brn,2012,High income
+brn,2013,High income
+brn,2014,High income
+brn,2015,High income
+brn,2016,High income
+brn,2017,High income
+brn,2018,High income
+brn,2019,High income
+btn,1987,Low income
+btn,1988,Low income
+btn,1989,Low income
+btn,1990,Low income
+btn,1991,Low income
+btn,1992,Low income
+btn,1993,Low income
+btn,1994,Low income
+btn,1995,Low income
+btn,1996,Low income
+btn,1997,Low income
+btn,1998,Low income
+btn,1999,Low income
+btn,2000,Low income
+btn,2001,Low income
+btn,2002,Low income
+btn,2003,Low income
+btn,2004,Low income
+btn,2005,Low income
+btn,2006,Lower middle income
+btn,2007,Lower middle income
+btn,2008,Lower middle income
+btn,2009,Lower middle income
+btn,2010,Lower middle income
+btn,2011,Lower middle income
+btn,2012,Lower middle income
+btn,2013,Lower middle income
+btn,2014,Lower middle income
+btn,2015,Lower middle income
+btn,2016,Lower middle income
+btn,2017,Lower middle income
+btn,2018,Lower middle income
+btn,2019,Lower middle income
+bwa,1987,Lower middle income
+bwa,1988,Lower middle income
+bwa,1989,Lower middle income
+bwa,1990,Lower middle income
+bwa,1991,Upper middle income
+bwa,1992,Upper middle income
+bwa,1993,Lower middle income
+bwa,1994,Lower middle income
+bwa,1995,Lower middle income
+bwa,1996,Lower middle income
+bwa,1997,Upper middle income
+bwa,1998,Upper middle income
+bwa,1999,Upper middle income
+bwa,2000,Upper middle income
+bwa,2001,Upper middle income
+bwa,2002,Upper middle income
+bwa,2003,Upper middle income
+bwa,2004,Upper middle income
+bwa,2005,Upper middle income
+bwa,2006,Upper middle income
+bwa,2007,Upper middle income
+bwa,2008,Upper middle income
+bwa,2009,Upper middle income
+bwa,2010,Upper middle income
+bwa,2011,Upper middle income
+bwa,2012,Upper middle income
+bwa,2013,Upper middle income
+bwa,2014,Upper middle income
+bwa,2015,Upper middle income
+bwa,2016,Upper middle income
+bwa,2017,Upper middle income
+bwa,2018,Upper middle income
+bwa,2019,Upper middle income
 caf,1987,Low income
 caf,1988,Low income
 caf,1989,Low income
@@ -1088,39 +956,72 @@ caf,2016,Low income
 caf,2017,Low income
 caf,2018,Low income
 caf,2019,Low income
-tcd,1987,Low income
-tcd,1988,Low income
-tcd,1989,Low income
-tcd,1990,Low income
-tcd,1991,Low income
-tcd,1992,Low income
-tcd,1993,Low income
-tcd,1994,Low income
-tcd,1995,Low income
-tcd,1996,Low income
-tcd,1997,Low income
-tcd,1998,Low income
-tcd,1999,Low income
-tcd,2000,Low income
-tcd,2001,Low income
-tcd,2002,Low income
-tcd,2003,Low income
-tcd,2004,Low income
-tcd,2005,Low income
-tcd,2006,Low income
-tcd,2007,Low income
-tcd,2008,Low income
-tcd,2009,Low income
-tcd,2010,Low income
-tcd,2011,Low income
-tcd,2012,Low income
-tcd,2013,Low income
-tcd,2014,Low income
-tcd,2015,Low income
-tcd,2016,Low income
-tcd,2017,Low income
-tcd,2018,Low income
-tcd,2019,Low income
+can,1987,High income
+can,1988,High income
+can,1989,High income
+can,1990,High income
+can,1991,High income
+can,1992,High income
+can,1993,High income
+can,1994,High income
+can,1995,High income
+can,1996,High income
+can,1997,High income
+can,1998,High income
+can,1999,High income
+can,2000,High income
+can,2001,High income
+can,2002,High income
+can,2003,High income
+can,2004,High income
+can,2005,High income
+can,2006,High income
+can,2007,High income
+can,2008,High income
+can,2009,High income
+can,2010,High income
+can,2011,High income
+can,2012,High income
+can,2013,High income
+can,2014,High income
+can,2015,High income
+can,2016,High income
+can,2017,High income
+can,2018,High income
+can,2019,High income
+che,1987,High income
+che,1988,High income
+che,1989,High income
+che,1990,High income
+che,1991,High income
+che,1992,High income
+che,1993,High income
+che,1994,High income
+che,1995,High income
+che,1996,High income
+che,1997,High income
+che,1998,High income
+che,1999,High income
+che,2000,High income
+che,2001,High income
+che,2002,High income
+che,2003,High income
+che,2004,High income
+che,2005,High income
+che,2006,High income
+che,2007,High income
+che,2008,High income
+che,2009,High income
+che,2010,High income
+che,2011,High income
+che,2012,High income
+che,2013,High income
+che,2014,High income
+che,2015,High income
+che,2016,High income
+che,2017,High income
+che,2018,High income
+che,2019,High income
 chl,1987,Lower middle income
 chl,1988,Lower middle income
 chl,1989,Lower middle income
@@ -1187,72 +1088,72 @@ chn,2016,Upper middle income
 chn,2017,Upper middle income
 chn,2018,Upper middle income
 chn,2019,Upper middle income
-col,1987,Lower middle income
-col,1988,Lower middle income
-col,1989,Lower middle income
-col,1990,Lower middle income
-col,1991,Lower middle income
-col,1992,Lower middle income
-col,1993,Lower middle income
-col,1994,Lower middle income
-col,1995,Lower middle income
-col,1996,Lower middle income
-col,1997,Lower middle income
-col,1998,Lower middle income
-col,1999,Lower middle income
-col,2000,Lower middle income
-col,2001,Lower middle income
-col,2002,Lower middle income
-col,2003,Lower middle income
-col,2004,Lower middle income
-col,2005,Lower middle income
-col,2006,Lower middle income
-col,2007,Lower middle income
-col,2008,Upper middle income
-col,2009,Upper middle income
-col,2010,Upper middle income
-col,2011,Upper middle income
-col,2012,Upper middle income
-col,2013,Upper middle income
-col,2014,Upper middle income
-col,2015,Upper middle income
-col,2016,Upper middle income
-col,2017,Upper middle income
-col,2018,Upper middle income
-col,2019,Upper middle income
-com,1987,Low income
-com,1988,Low income
-com,1989,Low income
-com,1990,Low income
-com,1991,Low income
-com,1992,Low income
-com,1993,Low income
-com,1994,Low income
-com,1995,Low income
-com,1996,Low income
-com,1997,Low income
-com,1998,Low income
-com,1999,Low income
-com,2000,Low income
-com,2001,Low income
-com,2002,Low income
-com,2003,Low income
-com,2004,Low income
-com,2005,Low income
-com,2006,Low income
-com,2007,Low income
-com,2008,Low income
-com,2009,Low income
-com,2010,Low income
-com,2011,Low income
-com,2012,Low income
-com,2013,Low income
-com,2014,Low income
-com,2015,Low income
-com,2016,Low income
-com,2017,Low income
-com,2018,Lower middle income
-com,2019,Lower middle income
+civ,1987,Lower middle income
+civ,1988,Lower middle income
+civ,1989,Lower middle income
+civ,1990,Lower middle income
+civ,1991,Lower middle income
+civ,1992,Lower middle income
+civ,1993,Low income
+civ,1994,Low income
+civ,1995,Low income
+civ,1996,Low income
+civ,1997,Low income
+civ,1998,Low income
+civ,1999,Low income
+civ,2000,Low income
+civ,2001,Low income
+civ,2002,Low income
+civ,2003,Low income
+civ,2004,Low income
+civ,2005,Low income
+civ,2006,Low income
+civ,2007,Low income
+civ,2008,Lower middle income
+civ,2009,Lower middle income
+civ,2010,Lower middle income
+civ,2011,Lower middle income
+civ,2012,Lower middle income
+civ,2013,Lower middle income
+civ,2014,Lower middle income
+civ,2015,Lower middle income
+civ,2016,Lower middle income
+civ,2017,Lower middle income
+civ,2018,Lower middle income
+civ,2019,Lower middle income
+cmr,1987,Lower middle income
+cmr,1988,Lower middle income
+cmr,1989,Lower middle income
+cmr,1990,Lower middle income
+cmr,1991,Lower middle income
+cmr,1992,Lower middle income
+cmr,1993,Lower middle income
+cmr,1994,Low income
+cmr,1995,Low income
+cmr,1996,Low income
+cmr,1997,Low income
+cmr,1998,Low income
+cmr,1999,Low income
+cmr,2000,Low income
+cmr,2001,Low income
+cmr,2002,Low income
+cmr,2003,Low income
+cmr,2004,Low income
+cmr,2005,Lower middle income
+cmr,2006,Lower middle income
+cmr,2007,Lower middle income
+cmr,2008,Lower middle income
+cmr,2009,Lower middle income
+cmr,2010,Lower middle income
+cmr,2011,Lower middle income
+cmr,2012,Lower middle income
+cmr,2013,Lower middle income
+cmr,2014,Lower middle income
+cmr,2015,Lower middle income
+cmr,2016,Lower middle income
+cmr,2017,Lower middle income
+cmr,2018,Lower middle income
+cmr,2019,Lower middle income
 cod,1987,Low income
 cod,1988,Low income
 cod,1989,Low income
@@ -1319,6 +1220,105 @@ cog,2016,Lower middle income
 cog,2017,Lower middle income
 cog,2018,Lower middle income
 cog,2019,Lower middle income
+col,1987,Lower middle income
+col,1988,Lower middle income
+col,1989,Lower middle income
+col,1990,Lower middle income
+col,1991,Lower middle income
+col,1992,Lower middle income
+col,1993,Lower middle income
+col,1994,Lower middle income
+col,1995,Lower middle income
+col,1996,Lower middle income
+col,1997,Lower middle income
+col,1998,Lower middle income
+col,1999,Lower middle income
+col,2000,Lower middle income
+col,2001,Lower middle income
+col,2002,Lower middle income
+col,2003,Lower middle income
+col,2004,Lower middle income
+col,2005,Lower middle income
+col,2006,Lower middle income
+col,2007,Lower middle income
+col,2008,Upper middle income
+col,2009,Upper middle income
+col,2010,Upper middle income
+col,2011,Upper middle income
+col,2012,Upper middle income
+col,2013,Upper middle income
+col,2014,Upper middle income
+col,2015,Upper middle income
+col,2016,Upper middle income
+col,2017,Upper middle income
+col,2018,Upper middle income
+col,2019,Upper middle income
+com,1987,Low income
+com,1988,Low income
+com,1989,Low income
+com,1990,Low income
+com,1991,Low income
+com,1992,Low income
+com,1993,Low income
+com,1994,Low income
+com,1995,Low income
+com,1996,Low income
+com,1997,Low income
+com,1998,Low income
+com,1999,Low income
+com,2000,Low income
+com,2001,Low income
+com,2002,Low income
+com,2003,Low income
+com,2004,Low income
+com,2005,Low income
+com,2006,Low income
+com,2007,Low income
+com,2008,Low income
+com,2009,Low income
+com,2010,Low income
+com,2011,Low income
+com,2012,Low income
+com,2013,Low income
+com,2014,Low income
+com,2015,Low income
+com,2016,Low income
+com,2017,Low income
+com,2018,Lower middle income
+com,2019,Lower middle income
+cpv,1987,Lower middle income
+cpv,1988,Lower middle income
+cpv,1989,Lower middle income
+cpv,1990,Lower middle income
+cpv,1991,Lower middle income
+cpv,1992,Lower middle income
+cpv,1993,Lower middle income
+cpv,1994,Lower middle income
+cpv,1995,Lower middle income
+cpv,1996,Lower middle income
+cpv,1997,Lower middle income
+cpv,1998,Lower middle income
+cpv,1999,Lower middle income
+cpv,2000,Lower middle income
+cpv,2001,Lower middle income
+cpv,2002,Lower middle income
+cpv,2003,Lower middle income
+cpv,2004,Lower middle income
+cpv,2005,Lower middle income
+cpv,2006,Lower middle income
+cpv,2007,Lower middle income
+cpv,2008,Lower middle income
+cpv,2009,Lower middle income
+cpv,2010,Lower middle income
+cpv,2011,Lower middle income
+cpv,2012,Lower middle income
+cpv,2013,Lower middle income
+cpv,2014,Lower middle income
+cpv,2015,Lower middle income
+cpv,2016,Lower middle income
+cpv,2017,Lower middle income
+cpv,2018,Lower middle income
+cpv,2019,Lower middle income
 cri,1987,Lower middle income
 cri,1988,Lower middle income
 cri,1989,Lower middle income
@@ -1352,72 +1352,6 @@ cri,2016,Upper middle income
 cri,2017,Upper middle income
 cri,2018,Upper middle income
 cri,2019,Upper middle income
-civ,1987,Lower middle income
-civ,1988,Lower middle income
-civ,1989,Lower middle income
-civ,1990,Lower middle income
-civ,1991,Lower middle income
-civ,1992,Lower middle income
-civ,1993,Low income
-civ,1994,Low income
-civ,1995,Low income
-civ,1996,Low income
-civ,1997,Low income
-civ,1998,Low income
-civ,1999,Low income
-civ,2000,Low income
-civ,2001,Low income
-civ,2002,Low income
-civ,2003,Low income
-civ,2004,Low income
-civ,2005,Low income
-civ,2006,Low income
-civ,2007,Low income
-civ,2008,Lower middle income
-civ,2009,Lower middle income
-civ,2010,Lower middle income
-civ,2011,Lower middle income
-civ,2012,Lower middle income
-civ,2013,Lower middle income
-civ,2014,Lower middle income
-civ,2015,Lower middle income
-civ,2016,Lower middle income
-civ,2017,Lower middle income
-civ,2018,Lower middle income
-civ,2019,Lower middle income
-hrv,1987,Lower middle income
-hrv,1988,Lower middle income
-hrv,1989,Lower middle income
-hrv,1990,Lower middle income
-hrv,1991,Lower middle income
-hrv,1992,Lower middle income
-hrv,1993,Lower middle income
-hrv,1994,Lower middle income
-hrv,1995,Upper middle income
-hrv,1996,Upper middle income
-hrv,1997,Upper middle income
-hrv,1998,Upper middle income
-hrv,1999,Upper middle income
-hrv,2000,Upper middle income
-hrv,2001,Upper middle income
-hrv,2002,Upper middle income
-hrv,2003,Upper middle income
-hrv,2004,Upper middle income
-hrv,2005,Upper middle income
-hrv,2006,Upper middle income
-hrv,2007,Upper middle income
-hrv,2008,High income
-hrv,2009,High income
-hrv,2010,High income
-hrv,2011,High income
-hrv,2012,High income
-hrv,2013,High income
-hrv,2014,High income
-hrv,2015,High income
-hrv,2016,Upper middle income
-hrv,2017,High income
-hrv,2018,High income
-hrv,2019,High income
 cub,1987,Lower middle income
 cub,1988,Lower middle income
 cub,1989,Lower middle income
@@ -1517,39 +1451,39 @@ cze,2016,High income
 cze,2017,High income
 cze,2018,High income
 cze,2019,High income
-dnk,1987,High income
-dnk,1988,High income
-dnk,1989,High income
-dnk,1990,High income
-dnk,1991,High income
-dnk,1992,High income
-dnk,1993,High income
-dnk,1994,High income
-dnk,1995,High income
-dnk,1996,High income
-dnk,1997,High income
-dnk,1998,High income
-dnk,1999,High income
-dnk,2000,High income
-dnk,2001,High income
-dnk,2002,High income
-dnk,2003,High income
-dnk,2004,High income
-dnk,2005,High income
-dnk,2006,High income
-dnk,2007,High income
-dnk,2008,High income
-dnk,2009,High income
-dnk,2010,High income
-dnk,2011,High income
-dnk,2012,High income
-dnk,2013,High income
-dnk,2014,High income
-dnk,2015,High income
-dnk,2016,High income
-dnk,2017,High income
-dnk,2018,High income
-dnk,2019,High income
+deu,1987,High income
+deu,1988,High income
+deu,1989,High income
+deu,1990,High income
+deu,1991,High income
+deu,1992,High income
+deu,1993,High income
+deu,1994,High income
+deu,1995,High income
+deu,1996,High income
+deu,1997,High income
+deu,1998,High income
+deu,1999,High income
+deu,2000,High income
+deu,2001,High income
+deu,2002,High income
+deu,2003,High income
+deu,2004,High income
+deu,2005,High income
+deu,2006,High income
+deu,2007,High income
+deu,2008,High income
+deu,2009,High income
+deu,2010,High income
+deu,2011,High income
+deu,2012,High income
+deu,2013,High income
+deu,2014,High income
+deu,2015,High income
+deu,2016,High income
+deu,2017,High income
+deu,2018,High income
+deu,2019,High income
 dji,1987,Lower middle income
 dji,1988,Lower middle income
 dji,1989,Lower middle income
@@ -1616,6 +1550,39 @@ dma,2016,Upper middle income
 dma,2017,Upper middle income
 dma,2018,Upper middle income
 dma,2019,Upper middle income
+dnk,1987,High income
+dnk,1988,High income
+dnk,1989,High income
+dnk,1990,High income
+dnk,1991,High income
+dnk,1992,High income
+dnk,1993,High income
+dnk,1994,High income
+dnk,1995,High income
+dnk,1996,High income
+dnk,1997,High income
+dnk,1998,High income
+dnk,1999,High income
+dnk,2000,High income
+dnk,2001,High income
+dnk,2002,High income
+dnk,2003,High income
+dnk,2004,High income
+dnk,2005,High income
+dnk,2006,High income
+dnk,2007,High income
+dnk,2008,High income
+dnk,2009,High income
+dnk,2010,High income
+dnk,2011,High income
+dnk,2012,High income
+dnk,2013,High income
+dnk,2014,High income
+dnk,2015,High income
+dnk,2016,High income
+dnk,2017,High income
+dnk,2018,High income
+dnk,2019,High income
 dom,1987,Lower middle income
 dom,1988,Lower middle income
 dom,1989,Lower middle income
@@ -1649,6 +1616,39 @@ dom,2016,Upper middle income
 dom,2017,Upper middle income
 dom,2018,Upper middle income
 dom,2019,Upper middle income
+dza,1987,Upper middle income
+dza,1988,Upper middle income
+dza,1989,Lower middle income
+dza,1990,Lower middle income
+dza,1991,Lower middle income
+dza,1992,Lower middle income
+dza,1993,Lower middle income
+dza,1994,Lower middle income
+dza,1995,Lower middle income
+dza,1996,Lower middle income
+dza,1997,Lower middle income
+dza,1998,Lower middle income
+dza,1999,Lower middle income
+dza,2000,Lower middle income
+dza,2001,Lower middle income
+dza,2002,Lower middle income
+dza,2003,Lower middle income
+dza,2004,Lower middle income
+dza,2005,Lower middle income
+dza,2006,Lower middle income
+dza,2007,Lower middle income
+dza,2008,Upper middle income
+dza,2009,Upper middle income
+dza,2010,Upper middle income
+dza,2011,Upper middle income
+dza,2012,Upper middle income
+dza,2013,Upper middle income
+dza,2014,Upper middle income
+dza,2015,Upper middle income
+dza,2016,Upper middle income
+dza,2017,Upper middle income
+dza,2018,Upper middle income
+dza,2019,Upper middle income
 ecu,1987,Lower middle income
 ecu,1988,Lower middle income
 ecu,1989,Lower middle income
@@ -1715,72 +1715,6 @@ egy,2016,Lower middle income
 egy,2017,Lower middle income
 egy,2018,Lower middle income
 egy,2019,Lower middle income
-slv,1987,Lower middle income
-slv,1988,Lower middle income
-slv,1989,Lower middle income
-slv,1990,Lower middle income
-slv,1991,Lower middle income
-slv,1992,Lower middle income
-slv,1993,Lower middle income
-slv,1994,Lower middle income
-slv,1995,Lower middle income
-slv,1996,Lower middle income
-slv,1997,Lower middle income
-slv,1998,Lower middle income
-slv,1999,Lower middle income
-slv,2000,Lower middle income
-slv,2001,Lower middle income
-slv,2002,Lower middle income
-slv,2003,Lower middle income
-slv,2004,Lower middle income
-slv,2005,Lower middle income
-slv,2006,Lower middle income
-slv,2007,Lower middle income
-slv,2008,Lower middle income
-slv,2009,Lower middle income
-slv,2010,Lower middle income
-slv,2011,Lower middle income
-slv,2012,Lower middle income
-slv,2013,Lower middle income
-slv,2014,Lower middle income
-slv,2015,Lower middle income
-slv,2016,Lower middle income
-slv,2017,Lower middle income
-slv,2018,Lower middle income
-slv,2019,Lower middle income
-gnq,1987,Low income
-gnq,1988,Low income
-gnq,1989,Low income
-gnq,1990,Low income
-gnq,1991,Low income
-gnq,1992,Low income
-gnq,1993,Low income
-gnq,1994,Low income
-gnq,1995,Low income
-gnq,1996,Low income
-gnq,1997,Lower middle income
-gnq,1998,Lower middle income
-gnq,1999,Lower middle income
-gnq,2000,Lower middle income
-gnq,2001,Low income
-gnq,2002,Low income
-gnq,2003,Low income
-gnq,2004,Upper middle income
-gnq,2005,Upper middle income
-gnq,2006,Upper middle income
-gnq,2007,High income
-gnq,2008,High income
-gnq,2009,High income
-gnq,2010,High income
-gnq,2011,High income
-gnq,2012,High income
-gnq,2013,High income
-gnq,2014,High income
-gnq,2015,Upper middle income
-gnq,2016,Upper middle income
-gnq,2017,Upper middle income
-gnq,2018,Upper middle income
-gnq,2019,Upper middle income
 eri,1987,Low income
 eri,1988,Low income
 eri,1989,Low income
@@ -1814,6 +1748,39 @@ eri,2016,Low income
 eri,2017,Low income
 eri,2018,Low income
 eri,2019,Low income
+esp,1987,High income
+esp,1988,High income
+esp,1989,High income
+esp,1990,High income
+esp,1991,High income
+esp,1992,High income
+esp,1993,High income
+esp,1994,High income
+esp,1995,High income
+esp,1996,High income
+esp,1997,High income
+esp,1998,High income
+esp,1999,High income
+esp,2000,High income
+esp,2001,High income
+esp,2002,High income
+esp,2003,High income
+esp,2004,High income
+esp,2005,High income
+esp,2006,High income
+esp,2007,High income
+esp,2008,High income
+esp,2009,High income
+esp,2010,High income
+esp,2011,High income
+esp,2012,High income
+esp,2013,High income
+esp,2014,High income
+esp,2015,High income
+esp,2016,High income
+esp,2017,High income
+esp,2018,High income
+esp,2019,High income
 est,1987,Upper middle income
 est,1988,Upper middle income
 est,1989,Upper middle income
@@ -1847,39 +1814,6 @@ est,2016,High income
 est,2017,High income
 est,2018,High income
 est,2019,High income
-swz,1987,Lower middle income
-swz,1988,Lower middle income
-swz,1989,Lower middle income
-swz,1990,Lower middle income
-swz,1991,Lower middle income
-swz,1992,Lower middle income
-swz,1993,Lower middle income
-swz,1994,Lower middle income
-swz,1995,Lower middle income
-swz,1996,Lower middle income
-swz,1997,Lower middle income
-swz,1998,Lower middle income
-swz,1999,Lower middle income
-swz,2000,Lower middle income
-swz,2001,Lower middle income
-swz,2002,Lower middle income
-swz,2003,Lower middle income
-swz,2004,Lower middle income
-swz,2005,Lower middle income
-swz,2006,Lower middle income
-swz,2007,Lower middle income
-swz,2008,Lower middle income
-swz,2009,Lower middle income
-swz,2010,Lower middle income
-swz,2011,Lower middle income
-swz,2012,Lower middle income
-swz,2013,Lower middle income
-swz,2014,Lower middle income
-swz,2015,Lower middle income
-swz,2016,Lower middle income
-swz,2017,Lower middle income
-swz,2018,Lower middle income
-swz,2019,Lower middle income
 eth,1987,Low income
 eth,1988,Low income
 eth,1989,Low income
@@ -1913,39 +1847,6 @@ eth,2016,Low income
 eth,2017,Low income
 eth,2018,Low income
 eth,2019,Low income
-fji,1987,Lower middle income
-fji,1988,Lower middle income
-fji,1989,Lower middle income
-fji,1990,Lower middle income
-fji,1991,Lower middle income
-fji,1992,Lower middle income
-fji,1993,Lower middle income
-fji,1994,Lower middle income
-fji,1995,Lower middle income
-fji,1996,Lower middle income
-fji,1997,Lower middle income
-fji,1998,Lower middle income
-fji,1999,Lower middle income
-fji,2000,Lower middle income
-fji,2001,Lower middle income
-fji,2002,Lower middle income
-fji,2003,Lower middle income
-fji,2004,Lower middle income
-fji,2005,Lower middle income
-fji,2006,Lower middle income
-fji,2007,Upper middle income
-fji,2008,Upper middle income
-fji,2009,Upper middle income
-fji,2010,Lower middle income
-fji,2011,Lower middle income
-fji,2012,Upper middle income
-fji,2013,Upper middle income
-fji,2014,Upper middle income
-fji,2015,Upper middle income
-fji,2016,Upper middle income
-fji,2017,Upper middle income
-fji,2018,Upper middle income
-fji,2019,Upper middle income
 fin,1987,High income
 fin,1988,High income
 fin,1989,High income
@@ -1979,6 +1880,39 @@ fin,2016,High income
 fin,2017,High income
 fin,2018,High income
 fin,2019,High income
+fji,1987,Lower middle income
+fji,1988,Lower middle income
+fji,1989,Lower middle income
+fji,1990,Lower middle income
+fji,1991,Lower middle income
+fji,1992,Lower middle income
+fji,1993,Lower middle income
+fji,1994,Lower middle income
+fji,1995,Lower middle income
+fji,1996,Lower middle income
+fji,1997,Lower middle income
+fji,1998,Lower middle income
+fji,1999,Lower middle income
+fji,2000,Lower middle income
+fji,2001,Lower middle income
+fji,2002,Lower middle income
+fji,2003,Lower middle income
+fji,2004,Lower middle income
+fji,2005,Lower middle income
+fji,2006,Lower middle income
+fji,2007,Upper middle income
+fji,2008,Upper middle income
+fji,2009,Upper middle income
+fji,2010,Lower middle income
+fji,2011,Lower middle income
+fji,2012,Upper middle income
+fji,2013,Upper middle income
+fji,2014,Upper middle income
+fji,2015,Upper middle income
+fji,2016,Upper middle income
+fji,2017,Upper middle income
+fji,2018,Upper middle income
+fji,2019,Upper middle income
 fra,1987,High income
 fra,1988,High income
 fra,1989,High income
@@ -2012,6 +1946,39 @@ fra,2016,High income
 fra,2017,High income
 fra,2018,High income
 fra,2019,High income
+fsm,1987,Lower middle income
+fsm,1988,Lower middle income
+fsm,1989,Lower middle income
+fsm,1990,Lower middle income
+fsm,1991,Lower middle income
+fsm,1992,Lower middle income
+fsm,1993,Lower middle income
+fsm,1994,Lower middle income
+fsm,1995,Lower middle income
+fsm,1996,Lower middle income
+fsm,1997,Lower middle income
+fsm,1998,Lower middle income
+fsm,1999,Lower middle income
+fsm,2000,Lower middle income
+fsm,2001,Lower middle income
+fsm,2002,Lower middle income
+fsm,2003,Lower middle income
+fsm,2004,Lower middle income
+fsm,2005,Lower middle income
+fsm,2006,Lower middle income
+fsm,2007,Lower middle income
+fsm,2008,Lower middle income
+fsm,2009,Lower middle income
+fsm,2010,Lower middle income
+fsm,2011,Lower middle income
+fsm,2012,Lower middle income
+fsm,2013,Lower middle income
+fsm,2014,Lower middle income
+fsm,2015,Lower middle income
+fsm,2016,Lower middle income
+fsm,2017,Lower middle income
+fsm,2018,Lower middle income
+fsm,2019,Lower middle income
 gab,1987,Upper middle income
 gab,1988,Upper middle income
 gab,1989,Upper middle income
@@ -2045,39 +2012,39 @@ gab,2016,Upper middle income
 gab,2017,Upper middle income
 gab,2018,Upper middle income
 gab,2019,Upper middle income
-gmb,1987,Low income
-gmb,1988,Low income
-gmb,1989,Low income
-gmb,1990,Low income
-gmb,1991,Low income
-gmb,1992,Low income
-gmb,1993,Low income
-gmb,1994,Low income
-gmb,1995,Low income
-gmb,1996,Low income
-gmb,1997,Low income
-gmb,1998,Low income
-gmb,1999,Low income
-gmb,2000,Low income
-gmb,2001,Low income
-gmb,2002,Low income
-gmb,2003,Low income
-gmb,2004,Low income
-gmb,2005,Low income
-gmb,2006,Low income
-gmb,2007,Low income
-gmb,2008,Low income
-gmb,2009,Low income
-gmb,2010,Low income
-gmb,2011,Low income
-gmb,2012,Low income
-gmb,2013,Low income
-gmb,2014,Low income
-gmb,2015,Low income
-gmb,2016,Low income
-gmb,2017,Low income
-gmb,2018,Low income
-gmb,2019,Low income
+gbr,1987,High income
+gbr,1988,High income
+gbr,1989,High income
+gbr,1990,High income
+gbr,1991,High income
+gbr,1992,High income
+gbr,1993,High income
+gbr,1994,High income
+gbr,1995,High income
+gbr,1996,High income
+gbr,1997,High income
+gbr,1998,High income
+gbr,1999,High income
+gbr,2000,High income
+gbr,2001,High income
+gbr,2002,High income
+gbr,2003,High income
+gbr,2004,High income
+gbr,2005,High income
+gbr,2006,High income
+gbr,2007,High income
+gbr,2008,High income
+gbr,2009,High income
+gbr,2010,High income
+gbr,2011,High income
+gbr,2012,High income
+gbr,2013,High income
+gbr,2014,High income
+gbr,2015,High income
+gbr,2016,High income
+gbr,2017,High income
+gbr,2018,High income
+gbr,2019,High income
 geo,1987,Lower middle income
 geo,1988,Lower middle income
 geo,1989,Lower middle income
@@ -2111,39 +2078,6 @@ geo,2016,Lower middle income
 geo,2017,Lower middle income
 geo,2018,Upper middle income
 geo,2019,Upper middle income
-deu,1987,High income
-deu,1988,High income
-deu,1989,High income
-deu,1990,High income
-deu,1991,High income
-deu,1992,High income
-deu,1993,High income
-deu,1994,High income
-deu,1995,High income
-deu,1996,High income
-deu,1997,High income
-deu,1998,High income
-deu,1999,High income
-deu,2000,High income
-deu,2001,High income
-deu,2002,High income
-deu,2003,High income
-deu,2004,High income
-deu,2005,High income
-deu,2006,High income
-deu,2007,High income
-deu,2008,High income
-deu,2009,High income
-deu,2010,High income
-deu,2011,High income
-deu,2012,High income
-deu,2013,High income
-deu,2014,High income
-deu,2015,High income
-deu,2016,High income
-deu,2017,High income
-deu,2018,High income
-deu,2019,High income
 gha,1987,Low income
 gha,1988,Low income
 gha,1989,Low income
@@ -2177,6 +2111,138 @@ gha,2016,Lower middle income
 gha,2017,Lower middle income
 gha,2018,Lower middle income
 gha,2019,Lower middle income
+gin,1987,Low income
+gin,1988,Low income
+gin,1989,Low income
+gin,1990,Low income
+gin,1991,Low income
+gin,1992,Low income
+gin,1993,Low income
+gin,1994,Low income
+gin,1995,Low income
+gin,1996,Low income
+gin,1997,Low income
+gin,1998,Low income
+gin,1999,Low income
+gin,2000,Low income
+gin,2001,Low income
+gin,2002,Low income
+gin,2003,Low income
+gin,2004,Low income
+gin,2005,Low income
+gin,2006,Low income
+gin,2007,Low income
+gin,2008,Low income
+gin,2009,Low income
+gin,2010,Low income
+gin,2011,Low income
+gin,2012,Low income
+gin,2013,Low income
+gin,2014,Low income
+gin,2015,Low income
+gin,2016,Low income
+gin,2017,Low income
+gin,2018,Low income
+gin,2019,Low income
+gmb,1987,Low income
+gmb,1988,Low income
+gmb,1989,Low income
+gmb,1990,Low income
+gmb,1991,Low income
+gmb,1992,Low income
+gmb,1993,Low income
+gmb,1994,Low income
+gmb,1995,Low income
+gmb,1996,Low income
+gmb,1997,Low income
+gmb,1998,Low income
+gmb,1999,Low income
+gmb,2000,Low income
+gmb,2001,Low income
+gmb,2002,Low income
+gmb,2003,Low income
+gmb,2004,Low income
+gmb,2005,Low income
+gmb,2006,Low income
+gmb,2007,Low income
+gmb,2008,Low income
+gmb,2009,Low income
+gmb,2010,Low income
+gmb,2011,Low income
+gmb,2012,Low income
+gmb,2013,Low income
+gmb,2014,Low income
+gmb,2015,Low income
+gmb,2016,Low income
+gmb,2017,Low income
+gmb,2018,Low income
+gmb,2019,Low income
+gnb,1987,Low income
+gnb,1988,Low income
+gnb,1989,Low income
+gnb,1990,Low income
+gnb,1991,Low income
+gnb,1992,Low income
+gnb,1993,Low income
+gnb,1994,Low income
+gnb,1995,Low income
+gnb,1996,Low income
+gnb,1997,Low income
+gnb,1998,Low income
+gnb,1999,Low income
+gnb,2000,Low income
+gnb,2001,Low income
+gnb,2002,Low income
+gnb,2003,Low income
+gnb,2004,Low income
+gnb,2005,Low income
+gnb,2006,Low income
+gnb,2007,Low income
+gnb,2008,Low income
+gnb,2009,Low income
+gnb,2010,Low income
+gnb,2011,Low income
+gnb,2012,Low income
+gnb,2013,Low income
+gnb,2014,Low income
+gnb,2015,Low income
+gnb,2016,Low income
+gnb,2017,Low income
+gnb,2018,Low income
+gnb,2019,Low income
+gnq,1987,Low income
+gnq,1988,Low income
+gnq,1989,Low income
+gnq,1990,Low income
+gnq,1991,Low income
+gnq,1992,Low income
+gnq,1993,Low income
+gnq,1994,Low income
+gnq,1995,Low income
+gnq,1996,Low income
+gnq,1997,Lower middle income
+gnq,1998,Lower middle income
+gnq,1999,Lower middle income
+gnq,2000,Lower middle income
+gnq,2001,Low income
+gnq,2002,Low income
+gnq,2003,Low income
+gnq,2004,Upper middle income
+gnq,2005,Upper middle income
+gnq,2006,Upper middle income
+gnq,2007,High income
+gnq,2008,High income
+gnq,2009,High income
+gnq,2010,High income
+gnq,2011,High income
+gnq,2012,High income
+gnq,2013,High income
+gnq,2014,High income
+gnq,2015,Upper middle income
+gnq,2016,Upper middle income
+gnq,2017,Upper middle income
+gnq,2018,Upper middle income
+gnq,2019,Upper middle income
 grc,1987,Upper middle income
 grc,1988,Upper middle income
 grc,1989,Upper middle income
@@ -2276,72 +2342,6 @@ gtm,2016,Lower middle income
 gtm,2017,Upper middle income
 gtm,2018,Upper middle income
 gtm,2019,Upper middle income
-gin,1987,Low income
-gin,1988,Low income
-gin,1989,Low income
-gin,1990,Low income
-gin,1991,Low income
-gin,1992,Low income
-gin,1993,Low income
-gin,1994,Low income
-gin,1995,Low income
-gin,1996,Low income
-gin,1997,Low income
-gin,1998,Low income
-gin,1999,Low income
-gin,2000,Low income
-gin,2001,Low income
-gin,2002,Low income
-gin,2003,Low income
-gin,2004,Low income
-gin,2005,Low income
-gin,2006,Low income
-gin,2007,Low income
-gin,2008,Low income
-gin,2009,Low income
-gin,2010,Low income
-gin,2011,Low income
-gin,2012,Low income
-gin,2013,Low income
-gin,2014,Low income
-gin,2015,Low income
-gin,2016,Low income
-gin,2017,Low income
-gin,2018,Low income
-gin,2019,Low income
-gnb,1987,Low income
-gnb,1988,Low income
-gnb,1989,Low income
-gnb,1990,Low income
-gnb,1991,Low income
-gnb,1992,Low income
-gnb,1993,Low income
-gnb,1994,Low income
-gnb,1995,Low income
-gnb,1996,Low income
-gnb,1997,Low income
-gnb,1998,Low income
-gnb,1999,Low income
-gnb,2000,Low income
-gnb,2001,Low income
-gnb,2002,Low income
-gnb,2003,Low income
-gnb,2004,Low income
-gnb,2005,Low income
-gnb,2006,Low income
-gnb,2007,Low income
-gnb,2008,Low income
-gnb,2009,Low income
-gnb,2010,Low income
-gnb,2011,Low income
-gnb,2012,Low income
-gnb,2013,Low income
-gnb,2014,Low income
-gnb,2015,Low income
-gnb,2016,Low income
-gnb,2017,Low income
-gnb,2018,Low income
-gnb,2019,Low income
 guy,1987,Low income
 guy,1988,Low income
 guy,1989,Low income
@@ -2375,72 +2375,6 @@ guy,2016,Upper middle income
 guy,2017,Upper middle income
 guy,2018,Upper middle income
 guy,2019,Upper middle income
-hti,1987,Low income
-hti,1988,Low income
-hti,1989,Low income
-hti,1990,Low income
-hti,1991,Low income
-hti,1992,Low income
-hti,1993,Low income
-hti,1994,Low income
-hti,1995,Low income
-hti,1996,Low income
-hti,1997,Low income
-hti,1998,Low income
-hti,1999,Low income
-hti,2000,Low income
-hti,2001,Low income
-hti,2002,Low income
-hti,2003,Low income
-hti,2004,Low income
-hti,2005,Low income
-hti,2006,Low income
-hti,2007,Low income
-hti,2008,Low income
-hti,2009,Low income
-hti,2010,Low income
-hti,2011,Low income
-hti,2012,Low income
-hti,2013,Low income
-hti,2014,Low income
-hti,2015,Low income
-hti,2016,Low income
-hti,2017,Low income
-hti,2018,Low income
-hti,2019,Low income
-hnd,1987,Lower middle income
-hnd,1988,Lower middle income
-hnd,1989,Lower middle income
-hnd,1990,Low income
-hnd,1991,Low income
-hnd,1992,Low income
-hnd,1993,Low income
-hnd,1994,Low income
-hnd,1995,Low income
-hnd,1996,Low income
-hnd,1997,Low income
-hnd,1998,Low income
-hnd,1999,Lower middle income
-hnd,2000,Lower middle income
-hnd,2001,Lower middle income
-hnd,2002,Lower middle income
-hnd,2003,Lower middle income
-hnd,2004,Lower middle income
-hnd,2005,Lower middle income
-hnd,2006,Lower middle income
-hnd,2007,Lower middle income
-hnd,2008,Lower middle income
-hnd,2009,Lower middle income
-hnd,2010,Lower middle income
-hnd,2011,Lower middle income
-hnd,2012,Lower middle income
-hnd,2013,Lower middle income
-hnd,2014,Lower middle income
-hnd,2015,Lower middle income
-hnd,2016,Lower middle income
-hnd,2017,Lower middle income
-hnd,2018,Lower middle income
-hnd,2019,Lower middle income
 hkg,1987,High income
 hkg,1988,High income
 hkg,1989,High income
@@ -2474,6 +2408,105 @@ hkg,2016,High income
 hkg,2017,High income
 hkg,2018,High income
 hkg,2019,High income
+hnd,1987,Lower middle income
+hnd,1988,Lower middle income
+hnd,1989,Lower middle income
+hnd,1990,Low income
+hnd,1991,Low income
+hnd,1992,Low income
+hnd,1993,Low income
+hnd,1994,Low income
+hnd,1995,Low income
+hnd,1996,Low income
+hnd,1997,Low income
+hnd,1998,Low income
+hnd,1999,Lower middle income
+hnd,2000,Lower middle income
+hnd,2001,Lower middle income
+hnd,2002,Lower middle income
+hnd,2003,Lower middle income
+hnd,2004,Lower middle income
+hnd,2005,Lower middle income
+hnd,2006,Lower middle income
+hnd,2007,Lower middle income
+hnd,2008,Lower middle income
+hnd,2009,Lower middle income
+hnd,2010,Lower middle income
+hnd,2011,Lower middle income
+hnd,2012,Lower middle income
+hnd,2013,Lower middle income
+hnd,2014,Lower middle income
+hnd,2015,Lower middle income
+hnd,2016,Lower middle income
+hnd,2017,Lower middle income
+hnd,2018,Lower middle income
+hnd,2019,Lower middle income
+hrv,1987,Lower middle income
+hrv,1988,Lower middle income
+hrv,1989,Lower middle income
+hrv,1990,Lower middle income
+hrv,1991,Lower middle income
+hrv,1992,Lower middle income
+hrv,1993,Lower middle income
+hrv,1994,Lower middle income
+hrv,1995,Upper middle income
+hrv,1996,Upper middle income
+hrv,1997,Upper middle income
+hrv,1998,Upper middle income
+hrv,1999,Upper middle income
+hrv,2000,Upper middle income
+hrv,2001,Upper middle income
+hrv,2002,Upper middle income
+hrv,2003,Upper middle income
+hrv,2004,Upper middle income
+hrv,2005,Upper middle income
+hrv,2006,Upper middle income
+hrv,2007,Upper middle income
+hrv,2008,High income
+hrv,2009,High income
+hrv,2010,High income
+hrv,2011,High income
+hrv,2012,High income
+hrv,2013,High income
+hrv,2014,High income
+hrv,2015,High income
+hrv,2016,Upper middle income
+hrv,2017,High income
+hrv,2018,High income
+hrv,2019,High income
+hti,1987,Low income
+hti,1988,Low income
+hti,1989,Low income
+hti,1990,Low income
+hti,1991,Low income
+hti,1992,Low income
+hti,1993,Low income
+hti,1994,Low income
+hti,1995,Low income
+hti,1996,Low income
+hti,1997,Low income
+hti,1998,Low income
+hti,1999,Low income
+hti,2000,Low income
+hti,2001,Low income
+hti,2002,Low income
+hti,2003,Low income
+hti,2004,Low income
+hti,2005,Low income
+hti,2006,Low income
+hti,2007,Low income
+hti,2008,Low income
+hti,2009,Low income
+hti,2010,Low income
+hti,2011,Low income
+hti,2012,Low income
+hti,2013,Low income
+hti,2014,Low income
+hti,2015,Low income
+hti,2016,Low income
+hti,2017,Low income
+hti,2018,Low income
+hti,2019,Low income
 hun,1987,Upper middle income
 hun,1988,Upper middle income
 hun,1989,Upper middle income
@@ -2507,72 +2540,6 @@ hun,2016,High income
 hun,2017,High income
 hun,2018,High income
 hun,2019,High income
-isl,1987,High income
-isl,1988,High income
-isl,1989,High income
-isl,1990,High income
-isl,1991,High income
-isl,1992,High income
-isl,1993,High income
-isl,1994,High income
-isl,1995,High income
-isl,1996,High income
-isl,1997,High income
-isl,1998,High income
-isl,1999,High income
-isl,2000,High income
-isl,2001,High income
-isl,2002,High income
-isl,2003,High income
-isl,2004,High income
-isl,2005,High income
-isl,2006,High income
-isl,2007,High income
-isl,2008,High income
-isl,2009,High income
-isl,2010,High income
-isl,2011,High income
-isl,2012,High income
-isl,2013,High income
-isl,2014,High income
-isl,2015,High income
-isl,2016,High income
-isl,2017,High income
-isl,2018,High income
-isl,2019,High income
-ind,1987,Low income
-ind,1988,Low income
-ind,1989,Low income
-ind,1990,Low income
-ind,1991,Low income
-ind,1992,Low income
-ind,1993,Low income
-ind,1994,Low income
-ind,1995,Low income
-ind,1996,Low income
-ind,1997,Low income
-ind,1998,Low income
-ind,1999,Low income
-ind,2000,Low income
-ind,2001,Low income
-ind,2002,Low income
-ind,2003,Low income
-ind,2004,Low income
-ind,2005,Low income
-ind,2006,Low income
-ind,2007,Lower middle income
-ind,2008,Lower middle income
-ind,2009,Lower middle income
-ind,2010,Lower middle income
-ind,2011,Lower middle income
-ind,2012,Lower middle income
-ind,2013,Lower middle income
-ind,2014,Lower middle income
-ind,2015,Lower middle income
-ind,2016,Lower middle income
-ind,2017,Lower middle income
-ind,2018,Lower middle income
-ind,2019,Lower middle income
 idn,1987,Low income
 idn,1988,Low income
 idn,1989,Low income
@@ -2606,6 +2573,72 @@ idn,2016,Lower middle income
 idn,2017,Lower middle income
 idn,2018,Lower middle income
 idn,2019,Lower middle income
+ind,1987,Low income
+ind,1988,Low income
+ind,1989,Low income
+ind,1990,Low income
+ind,1991,Low income
+ind,1992,Low income
+ind,1993,Low income
+ind,1994,Low income
+ind,1995,Low income
+ind,1996,Low income
+ind,1997,Low income
+ind,1998,Low income
+ind,1999,Low income
+ind,2000,Low income
+ind,2001,Low income
+ind,2002,Low income
+ind,2003,Low income
+ind,2004,Low income
+ind,2005,Low income
+ind,2006,Low income
+ind,2007,Lower middle income
+ind,2008,Lower middle income
+ind,2009,Lower middle income
+ind,2010,Lower middle income
+ind,2011,Lower middle income
+ind,2012,Lower middle income
+ind,2013,Lower middle income
+ind,2014,Lower middle income
+ind,2015,Lower middle income
+ind,2016,Lower middle income
+ind,2017,Lower middle income
+ind,2018,Lower middle income
+ind,2019,Lower middle income
+irl,1987,High income
+irl,1988,High income
+irl,1989,High income
+irl,1990,High income
+irl,1991,High income
+irl,1992,High income
+irl,1993,High income
+irl,1994,High income
+irl,1995,High income
+irl,1996,High income
+irl,1997,High income
+irl,1998,High income
+irl,1999,High income
+irl,2000,High income
+irl,2001,High income
+irl,2002,High income
+irl,2003,High income
+irl,2004,High income
+irl,2005,High income
+irl,2006,High income
+irl,2007,High income
+irl,2008,High income
+irl,2009,High income
+irl,2010,High income
+irl,2011,High income
+irl,2012,High income
+irl,2013,High income
+irl,2014,High income
+irl,2015,High income
+irl,2016,High income
+irl,2017,High income
+irl,2018,High income
+irl,2019,High income
 irn,1987,Upper middle income
 irn,1988,Upper middle income
 irn,1989,Upper middle income
@@ -2672,39 +2705,39 @@ irq,2016,Upper middle income
 irq,2017,Upper middle income
 irq,2018,Upper middle income
 irq,2019,Upper middle income
-irl,1987,High income
-irl,1988,High income
-irl,1989,High income
-irl,1990,High income
-irl,1991,High income
-irl,1992,High income
-irl,1993,High income
-irl,1994,High income
-irl,1995,High income
-irl,1996,High income
-irl,1997,High income
-irl,1998,High income
-irl,1999,High income
-irl,2000,High income
-irl,2001,High income
-irl,2002,High income
-irl,2003,High income
-irl,2004,High income
-irl,2005,High income
-irl,2006,High income
-irl,2007,High income
-irl,2008,High income
-irl,2009,High income
-irl,2010,High income
-irl,2011,High income
-irl,2012,High income
-irl,2013,High income
-irl,2014,High income
-irl,2015,High income
-irl,2016,High income
-irl,2017,High income
-irl,2018,High income
-irl,2019,High income
+isl,1987,High income
+isl,1988,High income
+isl,1989,High income
+isl,1990,High income
+isl,1991,High income
+isl,1992,High income
+isl,1993,High income
+isl,1994,High income
+isl,1995,High income
+isl,1996,High income
+isl,1997,High income
+isl,1998,High income
+isl,1999,High income
+isl,2000,High income
+isl,2001,High income
+isl,2002,High income
+isl,2003,High income
+isl,2004,High income
+isl,2005,High income
+isl,2006,High income
+isl,2007,High income
+isl,2008,High income
+isl,2009,High income
+isl,2010,High income
+isl,2011,High income
+isl,2012,High income
+isl,2013,High income
+isl,2014,High income
+isl,2015,High income
+isl,2016,High income
+isl,2017,High income
+isl,2018,High income
+isl,2019,High income
 isr,1987,High income
 isr,1988,High income
 isr,1989,High income
@@ -2804,39 +2837,6 @@ jam,2016,Upper middle income
 jam,2017,Upper middle income
 jam,2018,Upper middle income
 jam,2019,Upper middle income
-jpn,1987,High income
-jpn,1988,High income
-jpn,1989,High income
-jpn,1990,High income
-jpn,1991,High income
-jpn,1992,High income
-jpn,1993,High income
-jpn,1994,High income
-jpn,1995,High income
-jpn,1996,High income
-jpn,1997,High income
-jpn,1998,High income
-jpn,1999,High income
-jpn,2000,High income
-jpn,2001,High income
-jpn,2002,High income
-jpn,2003,High income
-jpn,2004,High income
-jpn,2005,High income
-jpn,2006,High income
-jpn,2007,High income
-jpn,2008,High income
-jpn,2009,High income
-jpn,2010,High income
-jpn,2011,High income
-jpn,2012,High income
-jpn,2013,High income
-jpn,2014,High income
-jpn,2015,High income
-jpn,2016,High income
-jpn,2017,High income
-jpn,2018,High income
-jpn,2019,High income
 jor,1987,Lower middle income
 jor,1988,Lower middle income
 jor,1989,Lower middle income
@@ -2870,6 +2870,39 @@ jor,2016,Lower middle income
 jor,2017,Upper middle income
 jor,2018,Upper middle income
 jor,2019,Upper middle income
+jpn,1987,High income
+jpn,1988,High income
+jpn,1989,High income
+jpn,1990,High income
+jpn,1991,High income
+jpn,1992,High income
+jpn,1993,High income
+jpn,1994,High income
+jpn,1995,High income
+jpn,1996,High income
+jpn,1997,High income
+jpn,1998,High income
+jpn,1999,High income
+jpn,2000,High income
+jpn,2001,High income
+jpn,2002,High income
+jpn,2003,High income
+jpn,2004,High income
+jpn,2005,High income
+jpn,2006,High income
+jpn,2007,High income
+jpn,2008,High income
+jpn,2009,High income
+jpn,2010,High income
+jpn,2011,High income
+jpn,2012,High income
+jpn,2013,High income
+jpn,2014,High income
+jpn,2015,High income
+jpn,2016,High income
+jpn,2017,High income
+jpn,2018,High income
+jpn,2019,High income
 kaz,1987,Lower middle income
 kaz,1988,Lower middle income
 kaz,1989,Lower middle income
@@ -2936,6 +2969,72 @@ ken,2016,Lower middle income
 ken,2017,Lower middle income
 ken,2018,Lower middle income
 ken,2019,Lower middle income
+kgz,1987,Lower middle income
+kgz,1988,Lower middle income
+kgz,1989,Lower middle income
+kgz,1990,Lower middle income
+kgz,1991,Lower middle income
+kgz,1992,Lower middle income
+kgz,1993,Lower middle income
+kgz,1994,Low income
+kgz,1995,Low income
+kgz,1996,Low income
+kgz,1997,Low income
+kgz,1998,Low income
+kgz,1999,Low income
+kgz,2000,Low income
+kgz,2001,Low income
+kgz,2002,Low income
+kgz,2003,Low income
+kgz,2004,Low income
+kgz,2005,Low income
+kgz,2006,Low income
+kgz,2007,Low income
+kgz,2008,Low income
+kgz,2009,Low income
+kgz,2010,Low income
+kgz,2011,Low income
+kgz,2012,Low income
+kgz,2013,Lower middle income
+kgz,2014,Lower middle income
+kgz,2015,Lower middle income
+kgz,2016,Lower middle income
+kgz,2017,Lower middle income
+kgz,2018,Lower middle income
+kgz,2019,Lower middle income
+khm,1987,Low income
+khm,1988,Low income
+khm,1989,Low income
+khm,1990,Low income
+khm,1991,Low income
+khm,1992,Low income
+khm,1993,Low income
+khm,1994,Low income
+khm,1995,Low income
+khm,1996,Low income
+khm,1997,Low income
+khm,1998,Low income
+khm,1999,Low income
+khm,2000,Low income
+khm,2001,Low income
+khm,2002,Low income
+khm,2003,Low income
+khm,2004,Low income
+khm,2005,Low income
+khm,2006,Low income
+khm,2007,Low income
+khm,2008,Low income
+khm,2009,Low income
+khm,2010,Low income
+khm,2011,Low income
+khm,2012,Low income
+khm,2013,Low income
+khm,2014,Low income
+khm,2015,Lower middle income
+khm,2016,Lower middle income
+khm,2017,Lower middle income
+khm,2018,Lower middle income
+khm,2019,Lower middle income
 kir,1987,Lower middle income
 kir,1988,Lower middle income
 kir,1989,Lower middle income
@@ -2969,39 +3068,39 @@ kir,2016,Lower middle income
 kir,2017,Lower middle income
 kir,2018,Lower middle income
 kir,2019,Lower middle income
-prk,1987,Lower middle income
-prk,1988,Lower middle income
-prk,1989,Lower middle income
-prk,1990,Lower middle income
-prk,1991,Lower middle income
-prk,1992,Lower middle income
-prk,1993,Lower middle income
-prk,1994,Lower middle income
-prk,1995,Lower middle income
-prk,1996,Lower middle income
-prk,1997,Lower middle income
-prk,1998,Low income
-prk,1999,Low income
-prk,2000,Low income
-prk,2001,Low income
-prk,2002,Low income
-prk,2003,Low income
-prk,2004,Low income
-prk,2005,Low income
-prk,2006,Low income
-prk,2007,Low income
-prk,2008,Low income
-prk,2009,Low income
-prk,2010,Low income
-prk,2011,Low income
-prk,2012,Low income
-prk,2013,Low income
-prk,2014,Low income
-prk,2015,Low income
-prk,2016,Low income
-prk,2017,Low income
-prk,2018,Low income
-prk,2019,Low income
+kna,1987,Upper middle income
+kna,1988,Upper middle income
+kna,1989,Upper middle income
+kna,1990,Upper middle income
+kna,1991,Upper middle income
+kna,1992,Upper middle income
+kna,1993,Upper middle income
+kna,1994,Upper middle income
+kna,1995,Upper middle income
+kna,1996,Upper middle income
+kna,1997,Upper middle income
+kna,1998,Upper middle income
+kna,1999,Upper middle income
+kna,2000,Upper middle income
+kna,2001,Upper middle income
+kna,2002,Upper middle income
+kna,2003,Upper middle income
+kna,2004,Upper middle income
+kna,2005,Upper middle income
+kna,2006,Upper middle income
+kna,2007,Upper middle income
+kna,2008,Upper middle income
+kna,2009,Upper middle income
+kna,2010,Upper middle income
+kna,2011,High income
+kna,2012,High income
+kna,2013,High income
+kna,2014,High income
+kna,2015,High income
+kna,2016,High income
+kna,2017,High income
+kna,2018,High income
+kna,2019,High income
 kor,1987,Upper middle income
 kor,1988,Upper middle income
 kor,1989,Upper middle income
@@ -3068,39 +3167,6 @@ kwt,2016,High income
 kwt,2017,High income
 kwt,2018,High income
 kwt,2019,High income
-kgz,1987,Lower middle income
-kgz,1988,Lower middle income
-kgz,1989,Lower middle income
-kgz,1990,Lower middle income
-kgz,1991,Lower middle income
-kgz,1992,Lower middle income
-kgz,1993,Lower middle income
-kgz,1994,Low income
-kgz,1995,Low income
-kgz,1996,Low income
-kgz,1997,Low income
-kgz,1998,Low income
-kgz,1999,Low income
-kgz,2000,Low income
-kgz,2001,Low income
-kgz,2002,Low income
-kgz,2003,Low income
-kgz,2004,Low income
-kgz,2005,Low income
-kgz,2006,Low income
-kgz,2007,Low income
-kgz,2008,Low income
-kgz,2009,Low income
-kgz,2010,Low income
-kgz,2011,Low income
-kgz,2012,Low income
-kgz,2013,Lower middle income
-kgz,2014,Lower middle income
-kgz,2015,Lower middle income
-kgz,2016,Lower middle income
-kgz,2017,Lower middle income
-kgz,2018,Lower middle income
-kgz,2019,Lower middle income
 lao,1987,Low income
 lao,1988,Low income
 lao,1989,Low income
@@ -3134,39 +3200,6 @@ lao,2016,Lower middle income
 lao,2017,Lower middle income
 lao,2018,Lower middle income
 lao,2019,Lower middle income
-lva,1987,Upper middle income
-lva,1988,Upper middle income
-lva,1989,Upper middle income
-lva,1990,Upper middle income
-lva,1991,Upper middle income
-lva,1992,Lower middle income
-lva,1993,Lower middle income
-lva,1994,Lower middle income
-lva,1995,Lower middle income
-lva,1996,Lower middle income
-lva,1997,Lower middle income
-lva,1998,Lower middle income
-lva,1999,Lower middle income
-lva,2000,Lower middle income
-lva,2001,Upper middle income
-lva,2002,Upper middle income
-lva,2003,Upper middle income
-lva,2004,Upper middle income
-lva,2005,Upper middle income
-lva,2006,Upper middle income
-lva,2007,Upper middle income
-lva,2008,Upper middle income
-lva,2009,High income
-lva,2010,Upper middle income
-lva,2011,Upper middle income
-lva,2012,High income
-lva,2013,High income
-lva,2014,High income
-lva,2015,High income
-lva,2016,High income
-lva,2017,High income
-lva,2018,High income
-lva,2019,High income
 lbn,1987,Lower middle income
 lbn,1988,Lower middle income
 lbn,1989,Lower middle income
@@ -3200,39 +3233,6 @@ lbn,2016,Upper middle income
 lbn,2017,Upper middle income
 lbn,2018,Upper middle income
 lbn,2019,Upper middle income
-lso,1987,Low income
-lso,1988,Low income
-lso,1989,Low income
-lso,1990,Low income
-lso,1991,Low income
-lso,1992,Low income
-lso,1993,Low income
-lso,1994,Low income
-lso,1995,Lower middle income
-lso,1996,Low income
-lso,1997,Low income
-lso,1998,Low income
-lso,1999,Low income
-lso,2000,Low income
-lso,2001,Low income
-lso,2002,Low income
-lso,2003,Low income
-lso,2004,Low income
-lso,2005,Lower middle income
-lso,2006,Lower middle income
-lso,2007,Lower middle income
-lso,2008,Lower middle income
-lso,2009,Lower middle income
-lso,2010,Lower middle income
-lso,2011,Lower middle income
-lso,2012,Lower middle income
-lso,2013,Lower middle income
-lso,2014,Lower middle income
-lso,2015,Lower middle income
-lso,2016,Lower middle income
-lso,2017,Lower middle income
-lso,2018,Lower middle income
-lso,2019,Lower middle income
 lbr,1987,Low income
 lbr,1988,Low income
 lbr,1989,Low income
@@ -3299,6 +3299,39 @@ lby,2016,Upper middle income
 lby,2017,Upper middle income
 lby,2018,Upper middle income
 lby,2019,Upper middle income
+lca,1987,Lower middle income
+lca,1988,Lower middle income
+lca,1989,Lower middle income
+lca,1990,Lower middle income
+lca,1991,Lower middle income
+lca,1992,Upper middle income
+lca,1993,Upper middle income
+lca,1994,Upper middle income
+lca,1995,Upper middle income
+lca,1996,Upper middle income
+lca,1997,Upper middle income
+lca,1998,Upper middle income
+lca,1999,Upper middle income
+lca,2000,Upper middle income
+lca,2001,Upper middle income
+lca,2002,Upper middle income
+lca,2003,Upper middle income
+lca,2004,Upper middle income
+lca,2005,Upper middle income
+lca,2006,Upper middle income
+lca,2007,Upper middle income
+lca,2008,Upper middle income
+lca,2009,Upper middle income
+lca,2010,Upper middle income
+lca,2011,Upper middle income
+lca,2012,Upper middle income
+lca,2013,Upper middle income
+lca,2014,Upper middle income
+lca,2015,Upper middle income
+lca,2016,Upper middle income
+lca,2017,Upper middle income
+lca,2018,Upper middle income
+lca,2019,Upper middle income
 lie,1987,High income
 lie,1988,High income
 lie,1989,High income
@@ -3332,6 +3365,72 @@ lie,2016,High income
 lie,2017,High income
 lie,2018,High income
 lie,2019,High income
+lka,1987,Low income
+lka,1988,Low income
+lka,1989,Low income
+lka,1990,Low income
+lka,1991,Low income
+lka,1992,Low income
+lka,1993,Low income
+lka,1994,Low income
+lka,1995,Low income
+lka,1996,Low income
+lka,1997,Lower middle income
+lka,1998,Lower middle income
+lka,1999,Lower middle income
+lka,2000,Lower middle income
+lka,2001,Lower middle income
+lka,2002,Lower middle income
+lka,2003,Lower middle income
+lka,2004,Lower middle income
+lka,2005,Lower middle income
+lka,2006,Lower middle income
+lka,2007,Lower middle income
+lka,2008,Lower middle income
+lka,2009,Lower middle income
+lka,2010,Lower middle income
+lka,2011,Lower middle income
+lka,2012,Lower middle income
+lka,2013,Lower middle income
+lka,2014,Lower middle income
+lka,2015,Lower middle income
+lka,2016,Lower middle income
+lka,2017,Lower middle income
+lka,2018,Upper middle income
+lka,2019,Upper middle income
+lso,1987,Low income
+lso,1988,Low income
+lso,1989,Low income
+lso,1990,Low income
+lso,1991,Low income
+lso,1992,Low income
+lso,1993,Low income
+lso,1994,Low income
+lso,1995,Lower middle income
+lso,1996,Low income
+lso,1997,Low income
+lso,1998,Low income
+lso,1999,Low income
+lso,2000,Low income
+lso,2001,Low income
+lso,2002,Low income
+lso,2003,Low income
+lso,2004,Low income
+lso,2005,Lower middle income
+lso,2006,Lower middle income
+lso,2007,Lower middle income
+lso,2008,Lower middle income
+lso,2009,Lower middle income
+lso,2010,Lower middle income
+lso,2011,Lower middle income
+lso,2012,Lower middle income
+lso,2013,Lower middle income
+lso,2014,Lower middle income
+lso,2015,Lower middle income
+lso,2016,Lower middle income
+lso,2017,Lower middle income
+lso,2018,Lower middle income
+lso,2019,Lower middle income
 ltu,1987,Upper middle income
 ltu,1988,Upper middle income
 ltu,1989,Upper middle income
@@ -3398,6 +3497,138 @@ lux,2016,High income
 lux,2017,High income
 lux,2018,High income
 lux,2019,High income
+lva,1987,Upper middle income
+lva,1988,Upper middle income
+lva,1989,Upper middle income
+lva,1990,Upper middle income
+lva,1991,Upper middle income
+lva,1992,Lower middle income
+lva,1993,Lower middle income
+lva,1994,Lower middle income
+lva,1995,Lower middle income
+lva,1996,Lower middle income
+lva,1997,Lower middle income
+lva,1998,Lower middle income
+lva,1999,Lower middle income
+lva,2000,Lower middle income
+lva,2001,Upper middle income
+lva,2002,Upper middle income
+lva,2003,Upper middle income
+lva,2004,Upper middle income
+lva,2005,Upper middle income
+lva,2006,Upper middle income
+lva,2007,Upper middle income
+lva,2008,Upper middle income
+lva,2009,High income
+lva,2010,Upper middle income
+lva,2011,Upper middle income
+lva,2012,High income
+lva,2013,High income
+lva,2014,High income
+lva,2015,High income
+lva,2016,High income
+lva,2017,High income
+lva,2018,High income
+lva,2019,High income
+mar,1987,Lower middle income
+mar,1988,Lower middle income
+mar,1989,Lower middle income
+mar,1990,Lower middle income
+mar,1991,Lower middle income
+mar,1992,Lower middle income
+mar,1993,Lower middle income
+mar,1994,Lower middle income
+mar,1995,Lower middle income
+mar,1996,Lower middle income
+mar,1997,Lower middle income
+mar,1998,Lower middle income
+mar,1999,Lower middle income
+mar,2000,Lower middle income
+mar,2001,Lower middle income
+mar,2002,Lower middle income
+mar,2003,Lower middle income
+mar,2004,Lower middle income
+mar,2005,Lower middle income
+mar,2006,Lower middle income
+mar,2007,Lower middle income
+mar,2008,Lower middle income
+mar,2009,Lower middle income
+mar,2010,Lower middle income
+mar,2011,Lower middle income
+mar,2012,Lower middle income
+mar,2013,Lower middle income
+mar,2014,Lower middle income
+mar,2015,Lower middle income
+mar,2016,Lower middle income
+mar,2017,Lower middle income
+mar,2018,Lower middle income
+mar,2019,Lower middle income
+mco,1987,High income
+mco,1988,High income
+mco,1989,High income
+mco,1990,High income
+mco,1991,High income
+mco,1992,High income
+mco,1993,High income
+mco,1994,High income
+mco,1995,High income
+mco,1996,High income
+mco,1997,High income
+mco,1998,High income
+mco,1999,High income
+mco,2000,High income
+mco,2001,High income
+mco,2002,High income
+mco,2003,High income
+mco,2004,High income
+mco,2005,High income
+mco,2006,High income
+mco,2007,High income
+mco,2008,High income
+mco,2009,High income
+mco,2010,High income
+mco,2011,High income
+mco,2012,High income
+mco,2013,High income
+mco,2014,High income
+mco,2015,High income
+mco,2016,High income
+mco,2017,High income
+mco,2018,High income
+mco,2019,High income
+mda,1987,Lower middle income
+mda,1988,Lower middle income
+mda,1989,Lower middle income
+mda,1990,Lower middle income
+mda,1991,Lower middle income
+mda,1992,Lower middle income
+mda,1993,Lower middle income
+mda,1994,Lower middle income
+mda,1995,Lower middle income
+mda,1996,Low income
+mda,1997,Low income
+mda,1998,Low income
+mda,1999,Low income
+mda,2000,Low income
+mda,2001,Low income
+mda,2002,Low income
+mda,2003,Low income
+mda,2004,Low income
+mda,2005,Lower middle income
+mda,2006,Lower middle income
+mda,2007,Lower middle income
+mda,2008,Lower middle income
+mda,2009,Lower middle income
+mda,2010,Lower middle income
+mda,2011,Lower middle income
+mda,2012,Lower middle income
+mda,2013,Lower middle income
+mda,2014,Lower middle income
+mda,2015,Lower middle income
+mda,2016,Lower middle income
+mda,2017,Lower middle income
+mda,2018,Lower middle income
+mda,2019,Lower middle income
 mdg,1987,Low income
 mdg,1988,Low income
 mdg,1989,Low income
@@ -3431,72 +3662,6 @@ mdg,2016,Low income
 mdg,2017,Low income
 mdg,2018,Low income
 mdg,2019,Low income
-mwi,1987,Low income
-mwi,1988,Low income
-mwi,1989,Low income
-mwi,1990,Low income
-mwi,1991,Low income
-mwi,1992,Low income
-mwi,1993,Low income
-mwi,1994,Low income
-mwi,1995,Low income
-mwi,1996,Low income
-mwi,1997,Low income
-mwi,1998,Low income
-mwi,1999,Low income
-mwi,2000,Low income
-mwi,2001,Low income
-mwi,2002,Low income
-mwi,2003,Low income
-mwi,2004,Low income
-mwi,2005,Low income
-mwi,2006,Low income
-mwi,2007,Low income
-mwi,2008,Low income
-mwi,2009,Low income
-mwi,2010,Low income
-mwi,2011,Low income
-mwi,2012,Low income
-mwi,2013,Low income
-mwi,2014,Low income
-mwi,2015,Low income
-mwi,2016,Low income
-mwi,2017,Low income
-mwi,2018,Low income
-mwi,2019,Low income
-mys,1987,Lower middle income
-mys,1988,Lower middle income
-mys,1989,Lower middle income
-mys,1990,Lower middle income
-mys,1991,Lower middle income
-mys,1992,Upper middle income
-mys,1993,Upper middle income
-mys,1994,Upper middle income
-mys,1995,Upper middle income
-mys,1996,Upper middle income
-mys,1997,Upper middle income
-mys,1998,Upper middle income
-mys,1999,Upper middle income
-mys,2000,Upper middle income
-mys,2001,Upper middle income
-mys,2002,Upper middle income
-mys,2003,Upper middle income
-mys,2004,Upper middle income
-mys,2005,Upper middle income
-mys,2006,Upper middle income
-mys,2007,Upper middle income
-mys,2008,Upper middle income
-mys,2009,Upper middle income
-mys,2010,Upper middle income
-mys,2011,Upper middle income
-mys,2012,Upper middle income
-mys,2013,Upper middle income
-mys,2014,Upper middle income
-mys,2015,Upper middle income
-mys,2016,Upper middle income
-mys,2017,Upper middle income
-mys,2018,Upper middle income
-mys,2019,Upper middle income
 mdv,1987,Low income
 mdv,1988,Low income
 mdv,1989,Low income
@@ -3530,6 +3695,105 @@ mdv,2016,Upper middle income
 mdv,2017,Upper middle income
 mdv,2018,Upper middle income
 mdv,2019,Upper middle income
+mex,1987,Lower middle income
+mex,1988,Lower middle income
+mex,1989,Lower middle income
+mex,1990,Upper middle income
+mex,1991,Upper middle income
+mex,1992,Upper middle income
+mex,1993,Upper middle income
+mex,1994,Upper middle income
+mex,1995,Upper middle income
+mex,1996,Upper middle income
+mex,1997,Upper middle income
+mex,1998,Upper middle income
+mex,1999,Upper middle income
+mex,2000,Upper middle income
+mex,2001,Upper middle income
+mex,2002,Upper middle income
+mex,2003,Upper middle income
+mex,2004,Upper middle income
+mex,2005,Upper middle income
+mex,2006,Upper middle income
+mex,2007,Upper middle income
+mex,2008,Upper middle income
+mex,2009,Upper middle income
+mex,2010,Upper middle income
+mex,2011,Upper middle income
+mex,2012,Upper middle income
+mex,2013,Upper middle income
+mex,2014,Upper middle income
+mex,2015,Upper middle income
+mex,2016,Upper middle income
+mex,2017,Upper middle income
+mex,2018,Upper middle income
+mex,2019,Upper middle income
+mhl,1987,Lower middle income
+mhl,1988,Lower middle income
+mhl,1989,Lower middle income
+mhl,1990,Lower middle income
+mhl,1991,Lower middle income
+mhl,1992,Lower middle income
+mhl,1993,Lower middle income
+mhl,1994,Lower middle income
+mhl,1995,Lower middle income
+mhl,1996,Lower middle income
+mhl,1997,Lower middle income
+mhl,1998,Lower middle income
+mhl,1999,Lower middle income
+mhl,2000,Lower middle income
+mhl,2001,Lower middle income
+mhl,2002,Lower middle income
+mhl,2003,Lower middle income
+mhl,2004,Lower middle income
+mhl,2005,Lower middle income
+mhl,2006,Lower middle income
+mhl,2007,Lower middle income
+mhl,2008,Lower middle income
+mhl,2009,Lower middle income
+mhl,2010,Lower middle income
+mhl,2011,Lower middle income
+mhl,2012,Upper middle income
+mhl,2013,Upper middle income
+mhl,2014,Upper middle income
+mhl,2015,Upper middle income
+mhl,2016,Upper middle income
+mhl,2017,Upper middle income
+mhl,2018,Upper middle income
+mhl,2019,Upper middle income
+mkd,1987,Lower middle income
+mkd,1988,Lower middle income
+mkd,1989,Lower middle income
+mkd,1990,Lower middle income
+mkd,1991,Lower middle income
+mkd,1992,Lower middle income
+mkd,1993,Lower middle income
+mkd,1994,Lower middle income
+mkd,1995,Lower middle income
+mkd,1996,Lower middle income
+mkd,1997,Lower middle income
+mkd,1998,Lower middle income
+mkd,1999,Lower middle income
+mkd,2000,Lower middle income
+mkd,2001,Lower middle income
+mkd,2002,Lower middle income
+mkd,2003,Lower middle income
+mkd,2004,Lower middle income
+mkd,2005,Lower middle income
+mkd,2006,Lower middle income
+mkd,2007,Lower middle income
+mkd,2008,Upper middle income
+mkd,2009,Upper middle income
+mkd,2010,Upper middle income
+mkd,2011,Upper middle income
+mkd,2012,Upper middle income
+mkd,2013,Upper middle income
+mkd,2014,Upper middle income
+mkd,2015,Upper middle income
+mkd,2016,Upper middle income
+mkd,2017,Upper middle income
+mkd,2018,Upper middle income
+mkd,2019,Upper middle income
 mli,1987,Low income
 mli,1988,Low income
 mli,1989,Low income
@@ -3596,39 +3860,138 @@ mlt,2016,High income
 mlt,2017,High income
 mlt,2018,High income
 mlt,2019,High income
-mhl,1987,Lower middle income
-mhl,1988,Lower middle income
-mhl,1989,Lower middle income
-mhl,1990,Lower middle income
-mhl,1991,Lower middle income
-mhl,1992,Lower middle income
-mhl,1993,Lower middle income
-mhl,1994,Lower middle income
-mhl,1995,Lower middle income
-mhl,1996,Lower middle income
-mhl,1997,Lower middle income
-mhl,1998,Lower middle income
-mhl,1999,Lower middle income
-mhl,2000,Lower middle income
-mhl,2001,Lower middle income
-mhl,2002,Lower middle income
-mhl,2003,Lower middle income
-mhl,2004,Lower middle income
-mhl,2005,Lower middle income
-mhl,2006,Lower middle income
-mhl,2007,Lower middle income
-mhl,2008,Lower middle income
-mhl,2009,Lower middle income
-mhl,2010,Lower middle income
-mhl,2011,Lower middle income
-mhl,2012,Upper middle income
-mhl,2013,Upper middle income
-mhl,2014,Upper middle income
-mhl,2015,Upper middle income
-mhl,2016,Upper middle income
-mhl,2017,Upper middle income
-mhl,2018,Upper middle income
-mhl,2019,Upper middle income
+mmr,1987,Low income
+mmr,1988,Low income
+mmr,1989,Low income
+mmr,1990,Low income
+mmr,1991,Low income
+mmr,1992,Low income
+mmr,1993,Low income
+mmr,1994,Low income
+mmr,1995,Low income
+mmr,1996,Low income
+mmr,1997,Low income
+mmr,1998,Low income
+mmr,1999,Low income
+mmr,2000,Low income
+mmr,2001,Low income
+mmr,2002,Low income
+mmr,2003,Low income
+mmr,2004,Low income
+mmr,2005,Low income
+mmr,2006,Low income
+mmr,2007,Low income
+mmr,2008,Low income
+mmr,2009,Low income
+mmr,2010,Low income
+mmr,2011,Low income
+mmr,2012,Low income
+mmr,2013,Low income
+mmr,2014,Lower middle income
+mmr,2015,Lower middle income
+mmr,2016,Lower middle income
+mmr,2017,Lower middle income
+mmr,2018,Lower middle income
+mmr,2019,Lower middle income
+mne,1987,Upper middle income
+mne,1988,Upper middle income
+mne,1989,Upper middle income
+mne,1990,Upper middle income
+mne,1991,Upper middle income
+mne,1992,Upper middle income
+mne,1993,Upper middle income
+mne,1994,Upper middle income
+mne,1995,Upper middle income
+mne,1996,Upper middle income
+mne,1997,Upper middle income
+mne,1998,Upper middle income
+mne,1999,Upper middle income
+mne,2000,Upper middle income
+mne,2001,Upper middle income
+mne,2002,Upper middle income
+mne,2003,Upper middle income
+mne,2004,Upper middle income
+mne,2005,Upper middle income
+mne,2006,Upper middle income
+mne,2007,Upper middle income
+mne,2008,Upper middle income
+mne,2009,Upper middle income
+mne,2010,Upper middle income
+mne,2011,Upper middle income
+mne,2012,Upper middle income
+mne,2013,Upper middle income
+mne,2014,Upper middle income
+mne,2015,Upper middle income
+mne,2016,Upper middle income
+mne,2017,Upper middle income
+mne,2018,Upper middle income
+mne,2019,Upper middle income
+mng,1987,Lower middle income
+mng,1988,Lower middle income
+mng,1989,Lower middle income
+mng,1990,Lower middle income
+mng,1991,Lower middle income
+mng,1992,Lower middle income
+mng,1993,Low income
+mng,1994,Low income
+mng,1995,Low income
+mng,1996,Low income
+mng,1997,Low income
+mng,1998,Low income
+mng,1999,Low income
+mng,2000,Low income
+mng,2001,Low income
+mng,2002,Low income
+mng,2003,Low income
+mng,2004,Low income
+mng,2005,Low income
+mng,2006,Low income
+mng,2007,Lower middle income
+mng,2008,Lower middle income
+mng,2009,Lower middle income
+mng,2010,Lower middle income
+mng,2011,Lower middle income
+mng,2012,Lower middle income
+mng,2013,Lower middle income
+mng,2014,Upper middle income
+mng,2015,Lower middle income
+mng,2016,Lower middle income
+mng,2017,Lower middle income
+mng,2018,Lower middle income
+mng,2019,Lower middle income
+moz,1987,Low income
+moz,1988,Low income
+moz,1989,Low income
+moz,1990,Low income
+moz,1991,Low income
+moz,1992,Low income
+moz,1993,Low income
+moz,1994,Low income
+moz,1995,Low income
+moz,1996,Low income
+moz,1997,Low income
+moz,1998,Low income
+moz,1999,Low income
+moz,2000,Low income
+moz,2001,Low income
+moz,2002,Low income
+moz,2003,Low income
+moz,2004,Low income
+moz,2005,Low income
+moz,2006,Low income
+moz,2007,Low income
+moz,2008,Low income
+moz,2009,Low income
+moz,2010,Low income
+moz,2011,Low income
+moz,2012,Low income
+moz,2013,Low income
+moz,2014,Low income
+moz,2015,Low income
+moz,2016,Low income
+moz,2017,Low income
+moz,2018,Low income
+moz,2019,Low income
 mrt,1987,Low income
 mrt,1988,Low income
 mrt,1989,Low income
@@ -3695,303 +4058,72 @@ mus,2016,Upper middle income
 mus,2017,Upper middle income
 mus,2018,Upper middle income
 mus,2019,Upper middle income
-mex,1987,Lower middle income
-mex,1988,Lower middle income
-mex,1989,Lower middle income
-mex,1990,Upper middle income
-mex,1991,Upper middle income
-mex,1992,Upper middle income
-mex,1993,Upper middle income
-mex,1994,Upper middle income
-mex,1995,Upper middle income
-mex,1996,Upper middle income
-mex,1997,Upper middle income
-mex,1998,Upper middle income
-mex,1999,Upper middle income
-mex,2000,Upper middle income
-mex,2001,Upper middle income
-mex,2002,Upper middle income
-mex,2003,Upper middle income
-mex,2004,Upper middle income
-mex,2005,Upper middle income
-mex,2006,Upper middle income
-mex,2007,Upper middle income
-mex,2008,Upper middle income
-mex,2009,Upper middle income
-mex,2010,Upper middle income
-mex,2011,Upper middle income
-mex,2012,Upper middle income
-mex,2013,Upper middle income
-mex,2014,Upper middle income
-mex,2015,Upper middle income
-mex,2016,Upper middle income
-mex,2017,Upper middle income
-mex,2018,Upper middle income
-mex,2019,Upper middle income
-fsm,1987,Lower middle income
-fsm,1988,Lower middle income
-fsm,1989,Lower middle income
-fsm,1990,Lower middle income
-fsm,1991,Lower middle income
-fsm,1992,Lower middle income
-fsm,1993,Lower middle income
-fsm,1994,Lower middle income
-fsm,1995,Lower middle income
-fsm,1996,Lower middle income
-fsm,1997,Lower middle income
-fsm,1998,Lower middle income
-fsm,1999,Lower middle income
-fsm,2000,Lower middle income
-fsm,2001,Lower middle income
-fsm,2002,Lower middle income
-fsm,2003,Lower middle income
-fsm,2004,Lower middle income
-fsm,2005,Lower middle income
-fsm,2006,Lower middle income
-fsm,2007,Lower middle income
-fsm,2008,Lower middle income
-fsm,2009,Lower middle income
-fsm,2010,Lower middle income
-fsm,2011,Lower middle income
-fsm,2012,Lower middle income
-fsm,2013,Lower middle income
-fsm,2014,Lower middle income
-fsm,2015,Lower middle income
-fsm,2016,Lower middle income
-fsm,2017,Lower middle income
-fsm,2018,Lower middle income
-fsm,2019,Lower middle income
-mda,1987,Lower middle income
-mda,1988,Lower middle income
-mda,1989,Lower middle income
-mda,1990,Lower middle income
-mda,1991,Lower middle income
-mda,1992,Lower middle income
-mda,1993,Lower middle income
-mda,1994,Lower middle income
-mda,1995,Lower middle income
-mda,1996,Low income
-mda,1997,Low income
-mda,1998,Low income
-mda,1999,Low income
-mda,2000,Low income
-mda,2001,Low income
-mda,2002,Low income
-mda,2003,Low income
-mda,2004,Low income
-mda,2005,Lower middle income
-mda,2006,Lower middle income
-mda,2007,Lower middle income
-mda,2008,Lower middle income
-mda,2009,Lower middle income
-mda,2010,Lower middle income
-mda,2011,Lower middle income
-mda,2012,Lower middle income
-mda,2013,Lower middle income
-mda,2014,Lower middle income
-mda,2015,Lower middle income
-mda,2016,Lower middle income
-mda,2017,Lower middle income
-mda,2018,Lower middle income
-mda,2019,Lower middle income
-mco,1987,High income
-mco,1988,High income
-mco,1989,High income
-mco,1990,High income
-mco,1991,High income
-mco,1992,High income
-mco,1993,High income
-mco,1994,High income
-mco,1995,High income
-mco,1996,High income
-mco,1997,High income
-mco,1998,High income
-mco,1999,High income
-mco,2000,High income
-mco,2001,High income
-mco,2002,High income
-mco,2003,High income
-mco,2004,High income
-mco,2005,High income
-mco,2006,High income
-mco,2007,High income
-mco,2008,High income
-mco,2009,High income
-mco,2010,High income
-mco,2011,High income
-mco,2012,High income
-mco,2013,High income
-mco,2014,High income
-mco,2015,High income
-mco,2016,High income
-mco,2017,High income
-mco,2018,High income
-mco,2019,High income
-mng,1987,Lower middle income
-mng,1988,Lower middle income
-mng,1989,Lower middle income
-mng,1990,Lower middle income
-mng,1991,Lower middle income
-mng,1992,Lower middle income
-mng,1993,Low income
-mng,1994,Low income
-mng,1995,Low income
-mng,1996,Low income
-mng,1997,Low income
-mng,1998,Low income
-mng,1999,Low income
-mng,2000,Low income
-mng,2001,Low income
-mng,2002,Low income
-mng,2003,Low income
-mng,2004,Low income
-mng,2005,Low income
-mng,2006,Low income
-mng,2007,Lower middle income
-mng,2008,Lower middle income
-mng,2009,Lower middle income
-mng,2010,Lower middle income
-mng,2011,Lower middle income
-mng,2012,Lower middle income
-mng,2013,Lower middle income
-mng,2014,Upper middle income
-mng,2015,Lower middle income
-mng,2016,Lower middle income
-mng,2017,Lower middle income
-mng,2018,Lower middle income
-mng,2019,Lower middle income
-mne,1987,Upper middle income
-mne,1988,Upper middle income
-mne,1989,Upper middle income
-mne,1990,Upper middle income
-mne,1991,Upper middle income
-mne,1992,Upper middle income
-mne,1993,Upper middle income
-mne,1994,Upper middle income
-mne,1995,Upper middle income
-mne,1996,Upper middle income
-mne,1997,Upper middle income
-mne,1998,Upper middle income
-mne,1999,Upper middle income
-mne,2000,Upper middle income
-mne,2001,Upper middle income
-mne,2002,Upper middle income
-mne,2003,Upper middle income
-mne,2004,Upper middle income
-mne,2005,Upper middle income
-mne,2006,Upper middle income
-mne,2007,Upper middle income
-mne,2008,Upper middle income
-mne,2009,Upper middle income
-mne,2010,Upper middle income
-mne,2011,Upper middle income
-mne,2012,Upper middle income
-mne,2013,Upper middle income
-mne,2014,Upper middle income
-mne,2015,Upper middle income
-mne,2016,Upper middle income
-mne,2017,Upper middle income
-mne,2018,Upper middle income
-mne,2019,Upper middle income
-mar,1987,Lower middle income
-mar,1988,Lower middle income
-mar,1989,Lower middle income
-mar,1990,Lower middle income
-mar,1991,Lower middle income
-mar,1992,Lower middle income
-mar,1993,Lower middle income
-mar,1994,Lower middle income
-mar,1995,Lower middle income
-mar,1996,Lower middle income
-mar,1997,Lower middle income
-mar,1998,Lower middle income
-mar,1999,Lower middle income
-mar,2000,Lower middle income
-mar,2001,Lower middle income
-mar,2002,Lower middle income
-mar,2003,Lower middle income
-mar,2004,Lower middle income
-mar,2005,Lower middle income
-mar,2006,Lower middle income
-mar,2007,Lower middle income
-mar,2008,Lower middle income
-mar,2009,Lower middle income
-mar,2010,Lower middle income
-mar,2011,Lower middle income
-mar,2012,Lower middle income
-mar,2013,Lower middle income
-mar,2014,Lower middle income
-mar,2015,Lower middle income
-mar,2016,Lower middle income
-mar,2017,Lower middle income
-mar,2018,Lower middle income
-mar,2019,Lower middle income
-moz,1987,Low income
-moz,1988,Low income
-moz,1989,Low income
-moz,1990,Low income
-moz,1991,Low income
-moz,1992,Low income
-moz,1993,Low income
-moz,1994,Low income
-moz,1995,Low income
-moz,1996,Low income
-moz,1997,Low income
-moz,1998,Low income
-moz,1999,Low income
-moz,2000,Low income
-moz,2001,Low income
-moz,2002,Low income
-moz,2003,Low income
-moz,2004,Low income
-moz,2005,Low income
-moz,2006,Low income
-moz,2007,Low income
-moz,2008,Low income
-moz,2009,Low income
-moz,2010,Low income
-moz,2011,Low income
-moz,2012,Low income
-moz,2013,Low income
-moz,2014,Low income
-moz,2015,Low income
-moz,2016,Low income
-moz,2017,Low income
-moz,2018,Low income
-moz,2019,Low income
-mmr,1987,Low income
-mmr,1988,Low income
-mmr,1989,Low income
-mmr,1990,Low income
-mmr,1991,Low income
-mmr,1992,Low income
-mmr,1993,Low income
-mmr,1994,Low income
-mmr,1995,Low income
-mmr,1996,Low income
-mmr,1997,Low income
-mmr,1998,Low income
-mmr,1999,Low income
-mmr,2000,Low income
-mmr,2001,Low income
-mmr,2002,Low income
-mmr,2003,Low income
-mmr,2004,Low income
-mmr,2005,Low income
-mmr,2006,Low income
-mmr,2007,Low income
-mmr,2008,Low income
-mmr,2009,Low income
-mmr,2010,Low income
-mmr,2011,Low income
-mmr,2012,Low income
-mmr,2013,Low income
-mmr,2014,Lower middle income
-mmr,2015,Lower middle income
-mmr,2016,Lower middle income
-mmr,2017,Lower middle income
-mmr,2018,Lower middle income
-mmr,2019,Lower middle income
+mwi,1987,Low income
+mwi,1988,Low income
+mwi,1989,Low income
+mwi,1990,Low income
+mwi,1991,Low income
+mwi,1992,Low income
+mwi,1993,Low income
+mwi,1994,Low income
+mwi,1995,Low income
+mwi,1996,Low income
+mwi,1997,Low income
+mwi,1998,Low income
+mwi,1999,Low income
+mwi,2000,Low income
+mwi,2001,Low income
+mwi,2002,Low income
+mwi,2003,Low income
+mwi,2004,Low income
+mwi,2005,Low income
+mwi,2006,Low income
+mwi,2007,Low income
+mwi,2008,Low income
+mwi,2009,Low income
+mwi,2010,Low income
+mwi,2011,Low income
+mwi,2012,Low income
+mwi,2013,Low income
+mwi,2014,Low income
+mwi,2015,Low income
+mwi,2016,Low income
+mwi,2017,Low income
+mwi,2018,Low income
+mwi,2019,Low income
+mys,1987,Lower middle income
+mys,1988,Lower middle income
+mys,1989,Lower middle income
+mys,1990,Lower middle income
+mys,1991,Lower middle income
+mys,1992,Upper middle income
+mys,1993,Upper middle income
+mys,1994,Upper middle income
+mys,1995,Upper middle income
+mys,1996,Upper middle income
+mys,1997,Upper middle income
+mys,1998,Upper middle income
+mys,1999,Upper middle income
+mys,2000,Upper middle income
+mys,2001,Upper middle income
+mys,2002,Upper middle income
+mys,2003,Upper middle income
+mys,2004,Upper middle income
+mys,2005,Upper middle income
+mys,2006,Upper middle income
+mys,2007,Upper middle income
+mys,2008,Upper middle income
+mys,2009,Upper middle income
+mys,2010,Upper middle income
+mys,2011,Upper middle income
+mys,2012,Upper middle income
+mys,2013,Upper middle income
+mys,2014,Upper middle income
+mys,2015,Upper middle income
+mys,2016,Upper middle income
+mys,2017,Upper middle income
+mys,2018,Upper middle income
+mys,2019,Upper middle income
 nam,1987,Lower middle income
 nam,1988,Lower middle income
 nam,1989,Lower middle income
@@ -4025,171 +4157,6 @@ nam,2016,Upper middle income
 nam,2017,Upper middle income
 nam,2018,Upper middle income
 nam,2019,Upper middle income
-nru,1987,High income
-nru,1988,High income
-nru,1989,High income
-nru,1990,High income
-nru,1991,High income
-nru,1992,High income
-nru,1993,High income
-nru,1994,High income
-nru,1995,High income
-nru,1996,High income
-nru,1997,High income
-nru,1998,High income
-nru,1999,High income
-nru,2000,High income
-nru,2001,High income
-nru,2002,High income
-nru,2003,High income
-nru,2004,High income
-nru,2005,High income
-nru,2006,High income
-nru,2007,High income
-nru,2008,High income
-nru,2009,High income
-nru,2010,High income
-nru,2011,High income
-nru,2012,High income
-nru,2013,High income
-nru,2014,High income
-nru,2015,High income
-nru,2016,Upper middle income
-nru,2017,Upper middle income
-nru,2018,Upper middle income
-nru,2019,Upper middle income
-npl,1987,Low income
-npl,1988,Low income
-npl,1989,Low income
-npl,1990,Low income
-npl,1991,Low income
-npl,1992,Low income
-npl,1993,Low income
-npl,1994,Low income
-npl,1995,Low income
-npl,1996,Low income
-npl,1997,Low income
-npl,1998,Low income
-npl,1999,Low income
-npl,2000,Low income
-npl,2001,Low income
-npl,2002,Low income
-npl,2003,Low income
-npl,2004,Low income
-npl,2005,Low income
-npl,2006,Low income
-npl,2007,Low income
-npl,2008,Low income
-npl,2009,Low income
-npl,2010,Low income
-npl,2011,Low income
-npl,2012,Low income
-npl,2013,Low income
-npl,2014,Low income
-npl,2015,Low income
-npl,2016,Low income
-npl,2017,Low income
-npl,2018,Low income
-npl,2019,Low income
-nld,1987,High income
-nld,1988,High income
-nld,1989,High income
-nld,1990,High income
-nld,1991,High income
-nld,1992,High income
-nld,1993,High income
-nld,1994,High income
-nld,1995,High income
-nld,1996,High income
-nld,1997,High income
-nld,1998,High income
-nld,1999,High income
-nld,2000,High income
-nld,2001,High income
-nld,2002,High income
-nld,2003,High income
-nld,2004,High income
-nld,2005,High income
-nld,2006,High income
-nld,2007,High income
-nld,2008,High income
-nld,2009,High income
-nld,2010,High income
-nld,2011,High income
-nld,2012,High income
-nld,2013,High income
-nld,2014,High income
-nld,2015,High income
-nld,2016,High income
-nld,2017,High income
-nld,2018,High income
-nld,2019,High income
-nzl,1987,High income
-nzl,1988,High income
-nzl,1989,High income
-nzl,1990,High income
-nzl,1991,High income
-nzl,1992,High income
-nzl,1993,High income
-nzl,1994,High income
-nzl,1995,High income
-nzl,1996,High income
-nzl,1997,High income
-nzl,1998,High income
-nzl,1999,High income
-nzl,2000,High income
-nzl,2001,High income
-nzl,2002,High income
-nzl,2003,High income
-nzl,2004,High income
-nzl,2005,High income
-nzl,2006,High income
-nzl,2007,High income
-nzl,2008,High income
-nzl,2009,High income
-nzl,2010,High income
-nzl,2011,High income
-nzl,2012,High income
-nzl,2013,High income
-nzl,2014,High income
-nzl,2015,High income
-nzl,2016,High income
-nzl,2017,High income
-nzl,2018,High income
-nzl,2019,High income
-nic,1987,Lower middle income
-nic,1988,Lower middle income
-nic,1989,Lower middle income
-nic,1990,Lower middle income
-nic,1991,Low income
-nic,1992,Low income
-nic,1993,Low income
-nic,1994,Low income
-nic,1995,Low income
-nic,1996,Low income
-nic,1997,Low income
-nic,1998,Low income
-nic,1999,Low income
-nic,2000,Low income
-nic,2001,Low income
-nic,2002,Low income
-nic,2003,Low income
-nic,2004,Low income
-nic,2005,Lower middle income
-nic,2006,Lower middle income
-nic,2007,Lower middle income
-nic,2008,Lower middle income
-nic,2009,Lower middle income
-nic,2010,Lower middle income
-nic,2011,Lower middle income
-nic,2012,Lower middle income
-nic,2013,Lower middle income
-nic,2014,Lower middle income
-nic,2015,Lower middle income
-nic,2016,Lower middle income
-nic,2017,Lower middle income
-nic,2018,Lower middle income
-nic,2019,Lower middle income
 ner,1987,Low income
 ner,1988,Low income
 ner,1989,Low income
@@ -4256,39 +4223,72 @@ nga,2016,Lower middle income
 nga,2017,Lower middle income
 nga,2018,Lower middle income
 nga,2019,Lower middle income
-mkd,1987,Lower middle income
-mkd,1988,Lower middle income
-mkd,1989,Lower middle income
-mkd,1990,Lower middle income
-mkd,1991,Lower middle income
-mkd,1992,Lower middle income
-mkd,1993,Lower middle income
-mkd,1994,Lower middle income
-mkd,1995,Lower middle income
-mkd,1996,Lower middle income
-mkd,1997,Lower middle income
-mkd,1998,Lower middle income
-mkd,1999,Lower middle income
-mkd,2000,Lower middle income
-mkd,2001,Lower middle income
-mkd,2002,Lower middle income
-mkd,2003,Lower middle income
-mkd,2004,Lower middle income
-mkd,2005,Lower middle income
-mkd,2006,Lower middle income
-mkd,2007,Lower middle income
-mkd,2008,Upper middle income
-mkd,2009,Upper middle income
-mkd,2010,Upper middle income
-mkd,2011,Upper middle income
-mkd,2012,Upper middle income
-mkd,2013,Upper middle income
-mkd,2014,Upper middle income
-mkd,2015,Upper middle income
-mkd,2016,Upper middle income
-mkd,2017,Upper middle income
-mkd,2018,Upper middle income
-mkd,2019,Upper middle income
+nic,1987,Lower middle income
+nic,1988,Lower middle income
+nic,1989,Lower middle income
+nic,1990,Lower middle income
+nic,1991,Low income
+nic,1992,Low income
+nic,1993,Low income
+nic,1994,Low income
+nic,1995,Low income
+nic,1996,Low income
+nic,1997,Low income
+nic,1998,Low income
+nic,1999,Low income
+nic,2000,Low income
+nic,2001,Low income
+nic,2002,Low income
+nic,2003,Low income
+nic,2004,Low income
+nic,2005,Lower middle income
+nic,2006,Lower middle income
+nic,2007,Lower middle income
+nic,2008,Lower middle income
+nic,2009,Lower middle income
+nic,2010,Lower middle income
+nic,2011,Lower middle income
+nic,2012,Lower middle income
+nic,2013,Lower middle income
+nic,2014,Lower middle income
+nic,2015,Lower middle income
+nic,2016,Lower middle income
+nic,2017,Lower middle income
+nic,2018,Lower middle income
+nic,2019,Lower middle income
+nld,1987,High income
+nld,1988,High income
+nld,1989,High income
+nld,1990,High income
+nld,1991,High income
+nld,1992,High income
+nld,1993,High income
+nld,1994,High income
+nld,1995,High income
+nld,1996,High income
+nld,1997,High income
+nld,1998,High income
+nld,1999,High income
+nld,2000,High income
+nld,2001,High income
+nld,2002,High income
+nld,2003,High income
+nld,2004,High income
+nld,2005,High income
+nld,2006,High income
+nld,2007,High income
+nld,2008,High income
+nld,2009,High income
+nld,2010,High income
+nld,2011,High income
+nld,2012,High income
+nld,2013,High income
+nld,2014,High income
+nld,2015,High income
+nld,2016,High income
+nld,2017,High income
+nld,2018,High income
+nld,2019,High income
 nor,1987,High income
 nor,1988,High income
 nor,1989,High income
@@ -4322,6 +4322,105 @@ nor,2016,High income
 nor,2017,High income
 nor,2018,High income
 nor,2019,High income
+npl,1987,Low income
+npl,1988,Low income
+npl,1989,Low income
+npl,1990,Low income
+npl,1991,Low income
+npl,1992,Low income
+npl,1993,Low income
+npl,1994,Low income
+npl,1995,Low income
+npl,1996,Low income
+npl,1997,Low income
+npl,1998,Low income
+npl,1999,Low income
+npl,2000,Low income
+npl,2001,Low income
+npl,2002,Low income
+npl,2003,Low income
+npl,2004,Low income
+npl,2005,Low income
+npl,2006,Low income
+npl,2007,Low income
+npl,2008,Low income
+npl,2009,Low income
+npl,2010,Low income
+npl,2011,Low income
+npl,2012,Low income
+npl,2013,Low income
+npl,2014,Low income
+npl,2015,Low income
+npl,2016,Low income
+npl,2017,Low income
+npl,2018,Low income
+npl,2019,Low income
+nru,1987,High income
+nru,1988,High income
+nru,1989,High income
+nru,1990,High income
+nru,1991,High income
+nru,1992,High income
+nru,1993,High income
+nru,1994,High income
+nru,1995,High income
+nru,1996,High income
+nru,1997,High income
+nru,1998,High income
+nru,1999,High income
+nru,2000,High income
+nru,2001,High income
+nru,2002,High income
+nru,2003,High income
+nru,2004,High income
+nru,2005,High income
+nru,2006,High income
+nru,2007,High income
+nru,2008,High income
+nru,2009,High income
+nru,2010,High income
+nru,2011,High income
+nru,2012,High income
+nru,2013,High income
+nru,2014,High income
+nru,2015,High income
+nru,2016,Upper middle income
+nru,2017,Upper middle income
+nru,2018,Upper middle income
+nru,2019,Upper middle income
+nzl,1987,High income
+nzl,1988,High income
+nzl,1989,High income
+nzl,1990,High income
+nzl,1991,High income
+nzl,1992,High income
+nzl,1993,High income
+nzl,1994,High income
+nzl,1995,High income
+nzl,1996,High income
+nzl,1997,High income
+nzl,1998,High income
+nzl,1999,High income
+nzl,2000,High income
+nzl,2001,High income
+nzl,2002,High income
+nzl,2003,High income
+nzl,2004,High income
+nzl,2005,High income
+nzl,2006,High income
+nzl,2007,High income
+nzl,2008,High income
+nzl,2009,High income
+nzl,2010,High income
+nzl,2011,High income
+nzl,2012,High income
+nzl,2013,High income
+nzl,2014,High income
+nzl,2015,High income
+nzl,2016,High income
+nzl,2017,High income
+nzl,2018,High income
+nzl,2019,High income
 omn,1987,Upper middle income
 omn,1988,Upper middle income
 omn,1989,Upper middle income
@@ -4388,39 +4487,6 @@ pak,2016,Lower middle income
 pak,2017,Lower middle income
 pak,2018,Lower middle income
 pak,2019,Lower middle income
-plw,1987,Upper middle income
-plw,1988,Upper middle income
-plw,1989,Upper middle income
-plw,1990,Upper middle income
-plw,1991,Upper middle income
-plw,1992,Upper middle income
-plw,1993,Upper middle income
-plw,1994,Upper middle income
-plw,1995,Upper middle income
-plw,1996,Upper middle income
-plw,1997,Upper middle income
-plw,1998,Upper middle income
-plw,1999,Upper middle income
-plw,2000,Upper middle income
-plw,2001,Upper middle income
-plw,2002,Upper middle income
-plw,2003,Upper middle income
-plw,2004,Upper middle income
-plw,2005,Upper middle income
-plw,2006,Upper middle income
-plw,2007,Upper middle income
-plw,2008,Upper middle income
-plw,2009,Upper middle income
-plw,2010,Upper middle income
-plw,2011,Upper middle income
-plw,2012,Upper middle income
-plw,2013,Upper middle income
-plw,2014,Upper middle income
-plw,2015,Upper middle income
-plw,2016,High income
-plw,2017,High income
-plw,2018,High income
-plw,2019,High income
 pan,1987,Upper middle income
 pan,1988,Lower middle income
 pan,1989,Lower middle income
@@ -4454,72 +4520,6 @@ pan,2016,Upper middle income
 pan,2017,High income
 pan,2018,High income
 pan,2019,High income
-png,1987,Lower middle income
-png,1988,Lower middle income
-png,1989,Lower middle income
-png,1990,Lower middle income
-png,1991,Lower middle income
-png,1992,Lower middle income
-png,1993,Lower middle income
-png,1994,Lower middle income
-png,1995,Lower middle income
-png,1996,Lower middle income
-png,1997,Lower middle income
-png,1998,Lower middle income
-png,1999,Lower middle income
-png,2000,Lower middle income
-png,2001,Low income
-png,2002,Low income
-png,2003,Low income
-png,2004,Low income
-png,2005,Low income
-png,2006,Low income
-png,2007,Low income
-png,2008,Lower middle income
-png,2009,Lower middle income
-png,2010,Lower middle income
-png,2011,Lower middle income
-png,2012,Lower middle income
-png,2013,Lower middle income
-png,2014,Lower middle income
-png,2015,Lower middle income
-png,2016,Lower middle income
-png,2017,Lower middle income
-png,2018,Lower middle income
-png,2019,Lower middle income
-pry,1987,Lower middle income
-pry,1988,Lower middle income
-pry,1989,Lower middle income
-pry,1990,Lower middle income
-pry,1991,Lower middle income
-pry,1992,Lower middle income
-pry,1993,Lower middle income
-pry,1994,Lower middle income
-pry,1995,Lower middle income
-pry,1996,Lower middle income
-pry,1997,Lower middle income
-pry,1998,Lower middle income
-pry,1999,Lower middle income
-pry,2000,Lower middle income
-pry,2001,Lower middle income
-pry,2002,Lower middle income
-pry,2003,Lower middle income
-pry,2004,Lower middle income
-pry,2005,Lower middle income
-pry,2006,Lower middle income
-pry,2007,Lower middle income
-pry,2008,Lower middle income
-pry,2009,Lower middle income
-pry,2010,Lower middle income
-pry,2011,Lower middle income
-pry,2012,Lower middle income
-pry,2013,Lower middle income
-pry,2014,Upper middle income
-pry,2015,Upper middle income
-pry,2016,Upper middle income
-pry,2017,Upper middle income
-pry,2018,Upper middle income
-pry,2019,Upper middle income
 per,1987,Lower middle income
 per,1988,Lower middle income
 per,1989,Lower middle income
@@ -4586,6 +4586,72 @@ phl,2016,Lower middle income
 phl,2017,Lower middle income
 phl,2018,Lower middle income
 phl,2019,Lower middle income
+plw,1987,Upper middle income
+plw,1988,Upper middle income
+plw,1989,Upper middle income
+plw,1990,Upper middle income
+plw,1991,Upper middle income
+plw,1992,Upper middle income
+plw,1993,Upper middle income
+plw,1994,Upper middle income
+plw,1995,Upper middle income
+plw,1996,Upper middle income
+plw,1997,Upper middle income
+plw,1998,Upper middle income
+plw,1999,Upper middle income
+plw,2000,Upper middle income
+plw,2001,Upper middle income
+plw,2002,Upper middle income
+plw,2003,Upper middle income
+plw,2004,Upper middle income
+plw,2005,Upper middle income
+plw,2006,Upper middle income
+plw,2007,Upper middle income
+plw,2008,Upper middle income
+plw,2009,Upper middle income
+plw,2010,Upper middle income
+plw,2011,Upper middle income
+plw,2012,Upper middle income
+plw,2013,Upper middle income
+plw,2014,Upper middle income
+plw,2015,Upper middle income
+plw,2016,High income
+plw,2017,High income
+plw,2018,High income
+plw,2019,High income
+png,1987,Lower middle income
+png,1988,Lower middle income
+png,1989,Lower middle income
+png,1990,Lower middle income
+png,1991,Lower middle income
+png,1992,Lower middle income
+png,1993,Lower middle income
+png,1994,Lower middle income
+png,1995,Lower middle income
+png,1996,Lower middle income
+png,1997,Lower middle income
+png,1998,Lower middle income
+png,1999,Lower middle income
+png,2000,Lower middle income
+png,2001,Low income
+png,2002,Low income
+png,2003,Low income
+png,2004,Low income
+png,2005,Low income
+png,2006,Low income
+png,2007,Low income
+png,2008,Lower middle income
+png,2009,Lower middle income
+png,2010,Lower middle income
+png,2011,Lower middle income
+png,2012,Lower middle income
+png,2013,Lower middle income
+png,2014,Lower middle income
+png,2015,Lower middle income
+png,2016,Lower middle income
+png,2017,Lower middle income
+png,2018,Lower middle income
+png,2019,Lower middle income
 pol,1987,Lower middle income
 pol,1988,Lower middle income
 pol,1989,Lower middle income
@@ -4619,6 +4685,39 @@ pol,2016,High income
 pol,2017,High income
 pol,2018,High income
 pol,2019,High income
+prk,1987,Lower middle income
+prk,1988,Lower middle income
+prk,1989,Lower middle income
+prk,1990,Lower middle income
+prk,1991,Lower middle income
+prk,1992,Lower middle income
+prk,1993,Lower middle income
+prk,1994,Lower middle income
+prk,1995,Lower middle income
+prk,1996,Lower middle income
+prk,1997,Lower middle income
+prk,1998,Low income
+prk,1999,Low income
+prk,2000,Low income
+prk,2001,Low income
+prk,2002,Low income
+prk,2003,Low income
+prk,2004,Low income
+prk,2005,Low income
+prk,2006,Low income
+prk,2007,Low income
+prk,2008,Low income
+prk,2009,Low income
+prk,2010,Low income
+prk,2011,Low income
+prk,2012,Low income
+prk,2013,Low income
+prk,2014,Low income
+prk,2015,Low income
+prk,2016,Low income
+prk,2017,Low income
+prk,2018,Low income
+prk,2019,Low income
 prt,1987,Upper middle income
 prt,1988,Upper middle income
 prt,1989,Upper middle income
@@ -4652,6 +4751,72 @@ prt,2016,High income
 prt,2017,High income
 prt,2018,High income
 prt,2019,High income
+pry,1987,Lower middle income
+pry,1988,Lower middle income
+pry,1989,Lower middle income
+pry,1990,Lower middle income
+pry,1991,Lower middle income
+pry,1992,Lower middle income
+pry,1993,Lower middle income
+pry,1994,Lower middle income
+pry,1995,Lower middle income
+pry,1996,Lower middle income
+pry,1997,Lower middle income
+pry,1998,Lower middle income
+pry,1999,Lower middle income
+pry,2000,Lower middle income
+pry,2001,Lower middle income
+pry,2002,Lower middle income
+pry,2003,Lower middle income
+pry,2004,Lower middle income
+pry,2005,Lower middle income
+pry,2006,Lower middle income
+pry,2007,Lower middle income
+pry,2008,Lower middle income
+pry,2009,Lower middle income
+pry,2010,Lower middle income
+pry,2011,Lower middle income
+pry,2012,Lower middle income
+pry,2013,Lower middle income
+pry,2014,Upper middle income
+pry,2015,Upper middle income
+pry,2016,Upper middle income
+pry,2017,Upper middle income
+pry,2018,Upper middle income
+pry,2019,Upper middle income
+pse,1987,Lower middle income
+pse,1988,Lower middle income
+pse,1989,Lower middle income
+pse,1990,Lower middle income
+pse,1991,Lower middle income
+pse,1992,Lower middle income
+pse,1993,Lower middle income
+pse,1994,Lower middle income
+pse,1995,Lower middle income
+pse,1996,Lower middle income
+pse,1997,Lower middle income
+pse,1998,Lower middle income
+pse,1999,Lower middle income
+pse,2000,Lower middle income
+pse,2001,Lower middle income
+pse,2002,Lower middle income
+pse,2003,Lower middle income
+pse,2004,Lower middle income
+pse,2005,Lower middle income
+pse,2006,Lower middle income
+pse,2007,Lower middle income
+pse,2008,Lower middle income
+pse,2009,Lower middle income
+pse,2010,Lower middle income
+pse,2011,Lower middle income
+pse,2012,Lower middle income
+pse,2013,Lower middle income
+pse,2014,Lower middle income
+pse,2015,Lower middle income
+pse,2016,Lower middle income
+pse,2017,Lower middle income
+pse,2018,Lower middle income
+pse,2019,Lower middle income
 qat,1987,High income
 qat,1988,High income
 qat,1989,High income
@@ -4784,105 +4949,6 @@ rwa,2016,Low income
 rwa,2017,Low income
 rwa,2018,Low income
 rwa,2019,Low income
-wsm,1987,Lower middle income
-wsm,1988,Lower middle income
-wsm,1989,Lower middle income
-wsm,1990,Lower middle income
-wsm,1991,Lower middle income
-wsm,1992,Lower middle income
-wsm,1993,Lower middle income
-wsm,1994,Lower middle income
-wsm,1995,Lower middle income
-wsm,1996,Lower middle income
-wsm,1997,Lower middle income
-wsm,1998,Lower middle income
-wsm,1999,Lower middle income
-wsm,2000,Lower middle income
-wsm,2001,Lower middle income
-wsm,2002,Lower middle income
-wsm,2003,Lower middle income
-wsm,2004,Lower middle income
-wsm,2005,Lower middle income
-wsm,2006,Lower middle income
-wsm,2007,Lower middle income
-wsm,2008,Lower middle income
-wsm,2009,Lower middle income
-wsm,2010,Lower middle income
-wsm,2011,Lower middle income
-wsm,2012,Lower middle income
-wsm,2013,Lower middle income
-wsm,2014,Lower middle income
-wsm,2015,Lower middle income
-wsm,2016,Upper middle income
-wsm,2017,Upper middle income
-wsm,2018,Upper middle income
-wsm,2019,Upper middle income
-smr,1987,High income
-smr,1988,High income
-smr,1989,High income
-smr,1990,High income
-smr,1991,High income
-smr,1992,High income
-smr,1993,High income
-smr,1994,High income
-smr,1995,High income
-smr,1996,High income
-smr,1997,High income
-smr,1998,High income
-smr,1999,High income
-smr,2000,High income
-smr,2001,High income
-smr,2002,High income
-smr,2003,High income
-smr,2004,High income
-smr,2005,High income
-smr,2006,High income
-smr,2007,High income
-smr,2008,High income
-smr,2009,High income
-smr,2010,High income
-smr,2011,High income
-smr,2012,High income
-smr,2013,High income
-smr,2014,High income
-smr,2015,High income
-smr,2016,High income
-smr,2017,High income
-smr,2018,High income
-smr,2019,High income
-stp,1987,Low income
-stp,1988,Low income
-stp,1989,Low income
-stp,1990,Low income
-stp,1991,Low income
-stp,1992,Low income
-stp,1993,Low income
-stp,1994,Low income
-stp,1995,Low income
-stp,1996,Low income
-stp,1997,Low income
-stp,1998,Low income
-stp,1999,Low income
-stp,2000,Low income
-stp,2001,Low income
-stp,2002,Low income
-stp,2003,Low income
-stp,2004,Low income
-stp,2005,Low income
-stp,2006,Low income
-stp,2007,Low income
-stp,2008,Lower middle income
-stp,2009,Lower middle income
-stp,2010,Lower middle income
-stp,2011,Lower middle income
-stp,2012,Lower middle income
-stp,2013,Lower middle income
-stp,2014,Lower middle income
-stp,2015,Lower middle income
-stp,2016,Lower middle income
-stp,2017,Lower middle income
-stp,2018,Lower middle income
-stp,2019,Lower middle income
 sau,1987,High income
 sau,1988,High income
 sau,1989,High income
@@ -4916,6 +4982,39 @@ sau,2016,High income
 sau,2017,High income
 sau,2018,High income
 sau,2019,High income
+sdn,1987,Lower middle income
+sdn,1988,Lower middle income
+sdn,1989,Lower middle income
+sdn,1990,Low income
+sdn,1991,Low income
+sdn,1992,Low income
+sdn,1993,Low income
+sdn,1994,Low income
+sdn,1995,Low income
+sdn,1996,Low income
+sdn,1997,Low income
+sdn,1998,Low income
+sdn,1999,Low income
+sdn,2000,Low income
+sdn,2001,Low income
+sdn,2002,Low income
+sdn,2003,Low income
+sdn,2004,Low income
+sdn,2005,Low income
+sdn,2006,Low income
+sdn,2007,Lower middle income
+sdn,2008,Lower middle income
+sdn,2009,Lower middle income
+sdn,2010,Lower middle income
+sdn,2011,Lower middle income
+sdn,2012,Lower middle income
+sdn,2013,Lower middle income
+sdn,2014,Lower middle income
+sdn,2015,Lower middle income
+sdn,2016,Lower middle income
+sdn,2017,Lower middle income
+sdn,2018,Lower middle income
+sdn,2019,Lower middle income
 sen,1987,Lower middle income
 sen,1988,Lower middle income
 sen,1989,Lower middle income
@@ -4949,105 +5048,6 @@ sen,2016,Low income
 sen,2017,Low income
 sen,2018,Lower middle income
 sen,2019,Lower middle income
-srb,1987,Upper middle income
-srb,1988,Upper middle income
-srb,1989,Upper middle income
-srb,1990,Upper middle income
-srb,1991,Upper middle income
-srb,1992,Upper middle income
-srb,1993,Upper middle income
-srb,1994,Upper middle income
-srb,1995,Upper middle income
-srb,1996,Upper middle income
-srb,1997,Upper middle income
-srb,1998,Upper middle income
-srb,1999,Upper middle income
-srb,2000,Upper middle income
-srb,2001,Upper middle income
-srb,2002,Upper middle income
-srb,2003,Upper middle income
-srb,2004,Upper middle income
-srb,2005,Upper middle income
-srb,2006,Upper middle income
-srb,2007,Upper middle income
-srb,2008,Upper middle income
-srb,2009,Upper middle income
-srb,2010,Upper middle income
-srb,2011,Upper middle income
-srb,2012,Upper middle income
-srb,2013,Upper middle income
-srb,2014,Upper middle income
-srb,2015,Upper middle income
-srb,2016,Upper middle income
-srb,2017,Upper middle income
-srb,2018,Upper middle income
-srb,2019,Upper middle income
-syc,1987,Upper middle income
-syc,1988,Upper middle income
-syc,1989,Upper middle income
-syc,1990,Upper middle income
-syc,1991,Upper middle income
-syc,1992,Upper middle income
-syc,1993,Upper middle income
-syc,1994,Upper middle income
-syc,1995,Upper middle income
-syc,1996,Upper middle income
-syc,1997,Upper middle income
-syc,1998,Upper middle income
-syc,1999,Upper middle income
-syc,2000,Upper middle income
-syc,2001,Upper middle income
-syc,2002,Upper middle income
-syc,2003,Upper middle income
-syc,2004,Upper middle income
-syc,2005,Upper middle income
-syc,2006,Upper middle income
-syc,2007,Upper middle income
-syc,2008,Upper middle income
-syc,2009,Upper middle income
-syc,2010,Upper middle income
-syc,2011,Upper middle income
-syc,2012,Upper middle income
-syc,2013,Upper middle income
-syc,2014,High income
-syc,2015,High income
-syc,2016,High income
-syc,2017,High income
-syc,2018,High income
-syc,2019,High income
-sle,1987,Low income
-sle,1988,Low income
-sle,1989,Low income
-sle,1990,Low income
-sle,1991,Low income
-sle,1992,Low income
-sle,1993,Low income
-sle,1994,Low income
-sle,1995,Low income
-sle,1996,Low income
-sle,1997,Low income
-sle,1998,Low income
-sle,1999,Low income
-sle,2000,Low income
-sle,2001,Low income
-sle,2002,Low income
-sle,2003,Low income
-sle,2004,Low income
-sle,2005,Low income
-sle,2006,Low income
-sle,2007,Low income
-sle,2008,Low income
-sle,2009,Low income
-sle,2010,Low income
-sle,2011,Low income
-sle,2012,Low income
-sle,2013,Low income
-sle,2014,Low income
-sle,2015,Low income
-sle,2016,Low income
-sle,2017,Low income
-sle,2018,Low income
-sle,2019,Low income
 sgp,1987,High income
 sgp,1988,High income
 sgp,1989,High income
@@ -5081,6 +5081,303 @@ sgp,2016,High income
 sgp,2017,High income
 sgp,2018,High income
 sgp,2019,High income
+slb,1987,Low income
+slb,1988,Lower middle income
+slb,1989,Low income
+slb,1990,Low income
+slb,1991,Low income
+slb,1992,Lower middle income
+slb,1993,Lower middle income
+slb,1994,Lower middle income
+slb,1995,Lower middle income
+slb,1996,Lower middle income
+slb,1997,Lower middle income
+slb,1998,Low income
+slb,1999,Low income
+slb,2000,Low income
+slb,2001,Low income
+slb,2002,Low income
+slb,2003,Low income
+slb,2004,Low income
+slb,2005,Low income
+slb,2006,Low income
+slb,2007,Low income
+slb,2008,Lower middle income
+slb,2009,Low income
+slb,2010,Lower middle income
+slb,2011,Lower middle income
+slb,2012,Lower middle income
+slb,2013,Lower middle income
+slb,2014,Lower middle income
+slb,2015,Lower middle income
+slb,2016,Lower middle income
+slb,2017,Lower middle income
+slb,2018,Lower middle income
+slb,2019,Lower middle income
+sle,1987,Low income
+sle,1988,Low income
+sle,1989,Low income
+sle,1990,Low income
+sle,1991,Low income
+sle,1992,Low income
+sle,1993,Low income
+sle,1994,Low income
+sle,1995,Low income
+sle,1996,Low income
+sle,1997,Low income
+sle,1998,Low income
+sle,1999,Low income
+sle,2000,Low income
+sle,2001,Low income
+sle,2002,Low income
+sle,2003,Low income
+sle,2004,Low income
+sle,2005,Low income
+sle,2006,Low income
+sle,2007,Low income
+sle,2008,Low income
+sle,2009,Low income
+sle,2010,Low income
+sle,2011,Low income
+sle,2012,Low income
+sle,2013,Low income
+sle,2014,Low income
+sle,2015,Low income
+sle,2016,Low income
+sle,2017,Low income
+sle,2018,Low income
+sle,2019,Low income
+slv,1987,Lower middle income
+slv,1988,Lower middle income
+slv,1989,Lower middle income
+slv,1990,Lower middle income
+slv,1991,Lower middle income
+slv,1992,Lower middle income
+slv,1993,Lower middle income
+slv,1994,Lower middle income
+slv,1995,Lower middle income
+slv,1996,Lower middle income
+slv,1997,Lower middle income
+slv,1998,Lower middle income
+slv,1999,Lower middle income
+slv,2000,Lower middle income
+slv,2001,Lower middle income
+slv,2002,Lower middle income
+slv,2003,Lower middle income
+slv,2004,Lower middle income
+slv,2005,Lower middle income
+slv,2006,Lower middle income
+slv,2007,Lower middle income
+slv,2008,Lower middle income
+slv,2009,Lower middle income
+slv,2010,Lower middle income
+slv,2011,Lower middle income
+slv,2012,Lower middle income
+slv,2013,Lower middle income
+slv,2014,Lower middle income
+slv,2015,Lower middle income
+slv,2016,Lower middle income
+slv,2017,Lower middle income
+slv,2018,Lower middle income
+slv,2019,Lower middle income
+smr,1987,High income
+smr,1988,High income
+smr,1989,High income
+smr,1990,High income
+smr,1991,High income
+smr,1992,High income
+smr,1993,High income
+smr,1994,High income
+smr,1995,High income
+smr,1996,High income
+smr,1997,High income
+smr,1998,High income
+smr,1999,High income
+smr,2000,High income
+smr,2001,High income
+smr,2002,High income
+smr,2003,High income
+smr,2004,High income
+smr,2005,High income
+smr,2006,High income
+smr,2007,High income
+smr,2008,High income
+smr,2009,High income
+smr,2010,High income
+smr,2011,High income
+smr,2012,High income
+smr,2013,High income
+smr,2014,High income
+smr,2015,High income
+smr,2016,High income
+smr,2017,High income
+smr,2018,High income
+smr,2019,High income
+som,1987,Low income
+som,1988,Low income
+som,1989,Low income
+som,1990,Low income
+som,1991,Low income
+som,1992,Low income
+som,1993,Low income
+som,1994,Low income
+som,1995,Low income
+som,1996,Low income
+som,1997,Low income
+som,1998,Low income
+som,1999,Low income
+som,2000,Low income
+som,2001,Low income
+som,2002,Low income
+som,2003,Low income
+som,2004,Low income
+som,2005,Low income
+som,2006,Low income
+som,2007,Low income
+som,2008,Low income
+som,2009,Low income
+som,2010,Low income
+som,2011,Low income
+som,2012,Low income
+som,2013,Low income
+som,2014,Low income
+som,2015,Low income
+som,2016,Low income
+som,2017,Low income
+som,2018,Low income
+som,2019,Low income
+srb,1987,Upper middle income
+srb,1988,Upper middle income
+srb,1989,Upper middle income
+srb,1990,Upper middle income
+srb,1991,Upper middle income
+srb,1992,Upper middle income
+srb,1993,Upper middle income
+srb,1994,Upper middle income
+srb,1995,Upper middle income
+srb,1996,Upper middle income
+srb,1997,Upper middle income
+srb,1998,Upper middle income
+srb,1999,Upper middle income
+srb,2000,Upper middle income
+srb,2001,Upper middle income
+srb,2002,Upper middle income
+srb,2003,Upper middle income
+srb,2004,Upper middle income
+srb,2005,Upper middle income
+srb,2006,Upper middle income
+srb,2007,Upper middle income
+srb,2008,Upper middle income
+srb,2009,Upper middle income
+srb,2010,Upper middle income
+srb,2011,Upper middle income
+srb,2012,Upper middle income
+srb,2013,Upper middle income
+srb,2014,Upper middle income
+srb,2015,Upper middle income
+srb,2016,Upper middle income
+srb,2017,Upper middle income
+srb,2018,Upper middle income
+srb,2019,Upper middle income
+ssd,1987,Lower middle income
+ssd,1988,Lower middle income
+ssd,1989,Lower middle income
+ssd,1990,Low income
+ssd,1991,Low income
+ssd,1992,Low income
+ssd,1993,Low income
+ssd,1994,Low income
+ssd,1995,Low income
+ssd,1996,Low income
+ssd,1997,Low income
+ssd,1998,Low income
+ssd,1999,Low income
+ssd,2000,Low income
+ssd,2001,Low income
+ssd,2002,Low income
+ssd,2003,Low income
+ssd,2004,Low income
+ssd,2005,Low income
+ssd,2006,Low income
+ssd,2007,Lower middle income
+ssd,2008,Lower middle income
+ssd,2009,Lower middle income
+ssd,2010,Lower middle income
+ssd,2011,Lower middle income
+ssd,2012,Low income
+ssd,2013,Lower middle income
+ssd,2014,Low income
+ssd,2015,Low income
+ssd,2016,Low income
+ssd,2017,Low income
+ssd,2018,Low income
+ssd,2019,Low income
+stp,1987,Low income
+stp,1988,Low income
+stp,1989,Low income
+stp,1990,Low income
+stp,1991,Low income
+stp,1992,Low income
+stp,1993,Low income
+stp,1994,Low income
+stp,1995,Low income
+stp,1996,Low income
+stp,1997,Low income
+stp,1998,Low income
+stp,1999,Low income
+stp,2000,Low income
+stp,2001,Low income
+stp,2002,Low income
+stp,2003,Low income
+stp,2004,Low income
+stp,2005,Low income
+stp,2006,Low income
+stp,2007,Low income
+stp,2008,Lower middle income
+stp,2009,Lower middle income
+stp,2010,Lower middle income
+stp,2011,Lower middle income
+stp,2012,Lower middle income
+stp,2013,Lower middle income
+stp,2014,Lower middle income
+stp,2015,Lower middle income
+stp,2016,Lower middle income
+stp,2017,Lower middle income
+stp,2018,Lower middle income
+stp,2019,Lower middle income
+sur,1987,Upper middle income
+sur,1988,Upper middle income
+sur,1989,Upper middle income
+sur,1990,Upper middle income
+sur,1991,Upper middle income
+sur,1992,Upper middle income
+sur,1993,Lower middle income
+sur,1994,Lower middle income
+sur,1995,Lower middle income
+sur,1996,Lower middle income
+sur,1997,Lower middle income
+sur,1998,Lower middle income
+sur,1999,Lower middle income
+sur,2000,Lower middle income
+sur,2001,Lower middle income
+sur,2002,Lower middle income
+sur,2003,Lower middle income
+sur,2004,Lower middle income
+sur,2005,Lower middle income
+sur,2006,Lower middle income
+sur,2007,Upper middle income
+sur,2008,Upper middle income
+sur,2009,Upper middle income
+sur,2010,Upper middle income
+sur,2011,Upper middle income
+sur,2012,Upper middle income
+sur,2013,Upper middle income
+sur,2014,Upper middle income
+sur,2015,Upper middle income
+sur,2016,Upper middle income
+sur,2017,Upper middle income
+sur,2018,Upper middle income
+sur,2019,Upper middle income
 svk,1987,Lower middle income
 svk,1988,Lower middle income
 svk,1989,Lower middle income
@@ -5147,369 +5444,6 @@ svn,2016,High income
 svn,2017,High income
 svn,2018,High income
 svn,2019,High income
-slb,1987,Low income
-slb,1988,Lower middle income
-slb,1989,Low income
-slb,1990,Low income
-slb,1991,Low income
-slb,1992,Lower middle income
-slb,1993,Lower middle income
-slb,1994,Lower middle income
-slb,1995,Lower middle income
-slb,1996,Lower middle income
-slb,1997,Lower middle income
-slb,1998,Low income
-slb,1999,Low income
-slb,2000,Low income
-slb,2001,Low income
-slb,2002,Low income
-slb,2003,Low income
-slb,2004,Low income
-slb,2005,Low income
-slb,2006,Low income
-slb,2007,Low income
-slb,2008,Lower middle income
-slb,2009,Low income
-slb,2010,Lower middle income
-slb,2011,Lower middle income
-slb,2012,Lower middle income
-slb,2013,Lower middle income
-slb,2014,Lower middle income
-slb,2015,Lower middle income
-slb,2016,Lower middle income
-slb,2017,Lower middle income
-slb,2018,Lower middle income
-slb,2019,Lower middle income
-som,1987,Low income
-som,1988,Low income
-som,1989,Low income
-som,1990,Low income
-som,1991,Low income
-som,1992,Low income
-som,1993,Low income
-som,1994,Low income
-som,1995,Low income
-som,1996,Low income
-som,1997,Low income
-som,1998,Low income
-som,1999,Low income
-som,2000,Low income
-som,2001,Low income
-som,2002,Low income
-som,2003,Low income
-som,2004,Low income
-som,2005,Low income
-som,2006,Low income
-som,2007,Low income
-som,2008,Low income
-som,2009,Low income
-som,2010,Low income
-som,2011,Low income
-som,2012,Low income
-som,2013,Low income
-som,2014,Low income
-som,2015,Low income
-som,2016,Low income
-som,2017,Low income
-som,2018,Low income
-som,2019,Low income
-zaf,1987,Lower middle income
-zaf,1988,Upper middle income
-zaf,1989,Upper middle income
-zaf,1990,Upper middle income
-zaf,1991,Upper middle income
-zaf,1992,Upper middle income
-zaf,1993,Upper middle income
-zaf,1994,Upper middle income
-zaf,1995,Upper middle income
-zaf,1996,Upper middle income
-zaf,1997,Upper middle income
-zaf,1998,Lower middle income
-zaf,1999,Upper middle income
-zaf,2000,Upper middle income
-zaf,2001,Lower middle income
-zaf,2002,Lower middle income
-zaf,2003,Lower middle income
-zaf,2004,Upper middle income
-zaf,2005,Upper middle income
-zaf,2006,Upper middle income
-zaf,2007,Upper middle income
-zaf,2008,Upper middle income
-zaf,2009,Upper middle income
-zaf,2010,Upper middle income
-zaf,2011,Upper middle income
-zaf,2012,Upper middle income
-zaf,2013,Upper middle income
-zaf,2014,Upper middle income
-zaf,2015,Upper middle income
-zaf,2016,Upper middle income
-zaf,2017,Upper middle income
-zaf,2018,Upper middle income
-zaf,2019,Upper middle income
-ssd,1987,Lower middle income
-ssd,1988,Lower middle income
-ssd,1989,Lower middle income
-ssd,1990,Low income
-ssd,1991,Low income
-ssd,1992,Low income
-ssd,1993,Low income
-ssd,1994,Low income
-ssd,1995,Low income
-ssd,1996,Low income
-ssd,1997,Low income
-ssd,1998,Low income
-ssd,1999,Low income
-ssd,2000,Low income
-ssd,2001,Low income
-ssd,2002,Low income
-ssd,2003,Low income
-ssd,2004,Low income
-ssd,2005,Low income
-ssd,2006,Low income
-ssd,2007,Lower middle income
-ssd,2008,Lower middle income
-ssd,2009,Lower middle income
-ssd,2010,Lower middle income
-ssd,2011,Lower middle income
-ssd,2012,Low income
-ssd,2013,Lower middle income
-ssd,2014,Low income
-ssd,2015,Low income
-ssd,2016,Low income
-ssd,2017,Low income
-ssd,2018,Low income
-ssd,2019,Low income
-esp,1987,High income
-esp,1988,High income
-esp,1989,High income
-esp,1990,High income
-esp,1991,High income
-esp,1992,High income
-esp,1993,High income
-esp,1994,High income
-esp,1995,High income
-esp,1996,High income
-esp,1997,High income
-esp,1998,High income
-esp,1999,High income
-esp,2000,High income
-esp,2001,High income
-esp,2002,High income
-esp,2003,High income
-esp,2004,High income
-esp,2005,High income
-esp,2006,High income
-esp,2007,High income
-esp,2008,High income
-esp,2009,High income
-esp,2010,High income
-esp,2011,High income
-esp,2012,High income
-esp,2013,High income
-esp,2014,High income
-esp,2015,High income
-esp,2016,High income
-esp,2017,High income
-esp,2018,High income
-esp,2019,High income
-lka,1987,Low income
-lka,1988,Low income
-lka,1989,Low income
-lka,1990,Low income
-lka,1991,Low income
-lka,1992,Low income
-lka,1993,Low income
-lka,1994,Low income
-lka,1995,Low income
-lka,1996,Low income
-lka,1997,Lower middle income
-lka,1998,Lower middle income
-lka,1999,Lower middle income
-lka,2000,Lower middle income
-lka,2001,Lower middle income
-lka,2002,Lower middle income
-lka,2003,Lower middle income
-lka,2004,Lower middle income
-lka,2005,Lower middle income
-lka,2006,Lower middle income
-lka,2007,Lower middle income
-lka,2008,Lower middle income
-lka,2009,Lower middle income
-lka,2010,Lower middle income
-lka,2011,Lower middle income
-lka,2012,Lower middle income
-lka,2013,Lower middle income
-lka,2014,Lower middle income
-lka,2015,Lower middle income
-lka,2016,Lower middle income
-lka,2017,Lower middle income
-lka,2018,Upper middle income
-lka,2019,Upper middle income
-kna,1987,Upper middle income
-kna,1988,Upper middle income
-kna,1989,Upper middle income
-kna,1990,Upper middle income
-kna,1991,Upper middle income
-kna,1992,Upper middle income
-kna,1993,Upper middle income
-kna,1994,Upper middle income
-kna,1995,Upper middle income
-kna,1996,Upper middle income
-kna,1997,Upper middle income
-kna,1998,Upper middle income
-kna,1999,Upper middle income
-kna,2000,Upper middle income
-kna,2001,Upper middle income
-kna,2002,Upper middle income
-kna,2003,Upper middle income
-kna,2004,Upper middle income
-kna,2005,Upper middle income
-kna,2006,Upper middle income
-kna,2007,Upper middle income
-kna,2008,Upper middle income
-kna,2009,Upper middle income
-kna,2010,Upper middle income
-kna,2011,High income
-kna,2012,High income
-kna,2013,High income
-kna,2014,High income
-kna,2015,High income
-kna,2016,High income
-kna,2017,High income
-kna,2018,High income
-kna,2019,High income
-lca,1987,Lower middle income
-lca,1988,Lower middle income
-lca,1989,Lower middle income
-lca,1990,Lower middle income
-lca,1991,Lower middle income
-lca,1992,Upper middle income
-lca,1993,Upper middle income
-lca,1994,Upper middle income
-lca,1995,Upper middle income
-lca,1996,Upper middle income
-lca,1997,Upper middle income
-lca,1998,Upper middle income
-lca,1999,Upper middle income
-lca,2000,Upper middle income
-lca,2001,Upper middle income
-lca,2002,Upper middle income
-lca,2003,Upper middle income
-lca,2004,Upper middle income
-lca,2005,Upper middle income
-lca,2006,Upper middle income
-lca,2007,Upper middle income
-lca,2008,Upper middle income
-lca,2009,Upper middle income
-lca,2010,Upper middle income
-lca,2011,Upper middle income
-lca,2012,Upper middle income
-lca,2013,Upper middle income
-lca,2014,Upper middle income
-lca,2015,Upper middle income
-lca,2016,Upper middle income
-lca,2017,Upper middle income
-lca,2018,Upper middle income
-lca,2019,Upper middle income
-vct,1987,Lower middle income
-vct,1988,Lower middle income
-vct,1989,Lower middle income
-vct,1990,Lower middle income
-vct,1991,Lower middle income
-vct,1992,Lower middle income
-vct,1993,Lower middle income
-vct,1994,Lower middle income
-vct,1995,Lower middle income
-vct,1996,Lower middle income
-vct,1997,Lower middle income
-vct,1998,Lower middle income
-vct,1999,Lower middle income
-vct,2000,Lower middle income
-vct,2001,Lower middle income
-vct,2002,Lower middle income
-vct,2003,Upper middle income
-vct,2004,Upper middle income
-vct,2005,Upper middle income
-vct,2006,Upper middle income
-vct,2007,Upper middle income
-vct,2008,Upper middle income
-vct,2009,Upper middle income
-vct,2010,Upper middle income
-vct,2011,Upper middle income
-vct,2012,Upper middle income
-vct,2013,Upper middle income
-vct,2014,Upper middle income
-vct,2015,Upper middle income
-vct,2016,Upper middle income
-vct,2017,Upper middle income
-vct,2018,Upper middle income
-vct,2019,Upper middle income
-sdn,1987,Lower middle income
-sdn,1988,Lower middle income
-sdn,1989,Lower middle income
-sdn,1990,Low income
-sdn,1991,Low income
-sdn,1992,Low income
-sdn,1993,Low income
-sdn,1994,Low income
-sdn,1995,Low income
-sdn,1996,Low income
-sdn,1997,Low income
-sdn,1998,Low income
-sdn,1999,Low income
-sdn,2000,Low income
-sdn,2001,Low income
-sdn,2002,Low income
-sdn,2003,Low income
-sdn,2004,Low income
-sdn,2005,Low income
-sdn,2006,Low income
-sdn,2007,Lower middle income
-sdn,2008,Lower middle income
-sdn,2009,Lower middle income
-sdn,2010,Lower middle income
-sdn,2011,Lower middle income
-sdn,2012,Lower middle income
-sdn,2013,Lower middle income
-sdn,2014,Lower middle income
-sdn,2015,Lower middle income
-sdn,2016,Lower middle income
-sdn,2017,Lower middle income
-sdn,2018,Lower middle income
-sdn,2019,Lower middle income
-sur,1987,Upper middle income
-sur,1988,Upper middle income
-sur,1989,Upper middle income
-sur,1990,Upper middle income
-sur,1991,Upper middle income
-sur,1992,Upper middle income
-sur,1993,Lower middle income
-sur,1994,Lower middle income
-sur,1995,Lower middle income
-sur,1996,Lower middle income
-sur,1997,Lower middle income
-sur,1998,Lower middle income
-sur,1999,Lower middle income
-sur,2000,Lower middle income
-sur,2001,Lower middle income
-sur,2002,Lower middle income
-sur,2003,Lower middle income
-sur,2004,Lower middle income
-sur,2005,Lower middle income
-sur,2006,Lower middle income
-sur,2007,Upper middle income
-sur,2008,Upper middle income
-sur,2009,Upper middle income
-sur,2010,Upper middle income
-sur,2011,Upper middle income
-sur,2012,Upper middle income
-sur,2013,Upper middle income
-sur,2014,Upper middle income
-sur,2015,Upper middle income
-sur,2016,Upper middle income
-sur,2017,Upper middle income
-sur,2018,Upper middle income
-sur,2019,Upper middle income
 swe,1987,High income
 swe,1988,High income
 swe,1989,High income
@@ -5543,39 +5477,72 @@ swe,2016,High income
 swe,2017,High income
 swe,2018,High income
 swe,2019,High income
-che,1987,High income
-che,1988,High income
-che,1989,High income
-che,1990,High income
-che,1991,High income
-che,1992,High income
-che,1993,High income
-che,1994,High income
-che,1995,High income
-che,1996,High income
-che,1997,High income
-che,1998,High income
-che,1999,High income
-che,2000,High income
-che,2001,High income
-che,2002,High income
-che,2003,High income
-che,2004,High income
-che,2005,High income
-che,2006,High income
-che,2007,High income
-che,2008,High income
-che,2009,High income
-che,2010,High income
-che,2011,High income
-che,2012,High income
-che,2013,High income
-che,2014,High income
-che,2015,High income
-che,2016,High income
-che,2017,High income
-che,2018,High income
-che,2019,High income
+swz,1987,Lower middle income
+swz,1988,Lower middle income
+swz,1989,Lower middle income
+swz,1990,Lower middle income
+swz,1991,Lower middle income
+swz,1992,Lower middle income
+swz,1993,Lower middle income
+swz,1994,Lower middle income
+swz,1995,Lower middle income
+swz,1996,Lower middle income
+swz,1997,Lower middle income
+swz,1998,Lower middle income
+swz,1999,Lower middle income
+swz,2000,Lower middle income
+swz,2001,Lower middle income
+swz,2002,Lower middle income
+swz,2003,Lower middle income
+swz,2004,Lower middle income
+swz,2005,Lower middle income
+swz,2006,Lower middle income
+swz,2007,Lower middle income
+swz,2008,Lower middle income
+swz,2009,Lower middle income
+swz,2010,Lower middle income
+swz,2011,Lower middle income
+swz,2012,Lower middle income
+swz,2013,Lower middle income
+swz,2014,Lower middle income
+swz,2015,Lower middle income
+swz,2016,Lower middle income
+swz,2017,Lower middle income
+swz,2018,Lower middle income
+swz,2019,Lower middle income
+syc,1987,Upper middle income
+syc,1988,Upper middle income
+syc,1989,Upper middle income
+syc,1990,Upper middle income
+syc,1991,Upper middle income
+syc,1992,Upper middle income
+syc,1993,Upper middle income
+syc,1994,Upper middle income
+syc,1995,Upper middle income
+syc,1996,Upper middle income
+syc,1997,Upper middle income
+syc,1998,Upper middle income
+syc,1999,Upper middle income
+syc,2000,Upper middle income
+syc,2001,Upper middle income
+syc,2002,Upper middle income
+syc,2003,Upper middle income
+syc,2004,Upper middle income
+syc,2005,Upper middle income
+syc,2006,Upper middle income
+syc,2007,Upper middle income
+syc,2008,Upper middle income
+syc,2009,Upper middle income
+syc,2010,Upper middle income
+syc,2011,Upper middle income
+syc,2012,Upper middle income
+syc,2013,Upper middle income
+syc,2014,High income
+syc,2015,High income
+syc,2016,High income
+syc,2017,High income
+syc,2018,High income
+syc,2019,High income
 syr,1987,Lower middle income
 syr,1988,Lower middle income
 syr,1989,Lower middle income
@@ -5609,171 +5576,39 @@ syr,2016,Lower middle income
 syr,2017,Low income
 syr,2018,Low income
 syr,2019,Low income
-twn,1987,High income
-twn,1988,High income
-twn,1989,High income
-twn,1990,High income
-twn,1991,High income
-twn,1992,High income
-twn,1993,High income
-twn,1994,High income
-twn,1995,High income
-twn,1996,High income
-twn,1997,High income
-twn,1998,High income
-twn,1999,High income
-twn,2000,High income
-twn,2001,High income
-twn,2002,High income
-twn,2003,High income
-twn,2004,High income
-twn,2005,High income
-twn,2006,High income
-twn,2007,High income
-twn,2008,High income
-twn,2009,High income
-twn,2010,High income
-twn,2011,High income
-twn,2012,High income
-twn,2013,High income
-twn,2014,High income
-twn,2015,High income
-twn,2016,High income
-twn,2017,High income
-twn,2018,High income
-twn,2019,High income
-tjk,1987,Lower middle income
-tjk,1988,Lower middle income
-tjk,1989,Lower middle income
-tjk,1990,Lower middle income
-tjk,1991,Lower middle income
-tjk,1992,Low income
-tjk,1993,Low income
-tjk,1994,Low income
-tjk,1995,Low income
-tjk,1996,Low income
-tjk,1997,Low income
-tjk,1998,Low income
-tjk,1999,Low income
-tjk,2000,Low income
-tjk,2001,Low income
-tjk,2002,Low income
-tjk,2003,Low income
-tjk,2004,Low income
-tjk,2005,Low income
-tjk,2006,Low income
-tjk,2007,Low income
-tjk,2008,Low income
-tjk,2009,Low income
-tjk,2010,Low income
-tjk,2011,Low income
-tjk,2012,Low income
-tjk,2013,Low income
-tjk,2014,Lower middle income
-tjk,2015,Lower middle income
-tjk,2016,Lower middle income
-tjk,2017,Low income
-tjk,2018,Low income
-tjk,2019,Low income
-tza,1987,Low income
-tza,1988,Low income
-tza,1989,Low income
-tza,1990,Low income
-tza,1991,Low income
-tza,1992,Low income
-tza,1993,Low income
-tza,1994,Low income
-tza,1995,Low income
-tza,1996,Low income
-tza,1997,Low income
-tza,1998,Low income
-tza,1999,Low income
-tza,2000,Low income
-tza,2001,Low income
-tza,2002,Low income
-tza,2003,Low income
-tza,2004,Low income
-tza,2005,Low income
-tza,2006,Low income
-tza,2007,Low income
-tza,2008,Low income
-tza,2009,Low income
-tza,2010,Low income
-tza,2011,Low income
-tza,2012,Low income
-tza,2013,Low income
-tza,2014,Low income
-tza,2015,Low income
-tza,2016,Low income
-tza,2017,Low income
-tza,2018,Low income
-tza,2019,Low income
-tha,1987,Lower middle income
-tha,1988,Lower middle income
-tha,1989,Lower middle income
-tha,1990,Lower middle income
-tha,1991,Lower middle income
-tha,1992,Lower middle income
-tha,1993,Lower middle income
-tha,1994,Lower middle income
-tha,1995,Lower middle income
-tha,1996,Lower middle income
-tha,1997,Lower middle income
-tha,1998,Lower middle income
-tha,1999,Lower middle income
-tha,2000,Lower middle income
-tha,2001,Lower middle income
-tha,2002,Lower middle income
-tha,2003,Lower middle income
-tha,2004,Lower middle income
-tha,2005,Lower middle income
-tha,2006,Lower middle income
-tha,2007,Lower middle income
-tha,2008,Lower middle income
-tha,2009,Lower middle income
-tha,2010,Upper middle income
-tha,2011,Upper middle income
-tha,2012,Upper middle income
-tha,2013,Upper middle income
-tha,2014,Upper middle income
-tha,2015,Upper middle income
-tha,2016,Upper middle income
-tha,2017,Upper middle income
-tha,2018,Upper middle income
-tha,2019,Upper middle income
-tls,1987,Low income
-tls,1988,Low income
-tls,1989,Low income
-tls,1990,Low income
-tls,1991,Low income
-tls,1992,Low income
-tls,1993,Low income
-tls,1994,Low income
-tls,1995,Low income
-tls,1996,Low income
-tls,1997,Low income
-tls,1998,Low income
-tls,1999,Low income
-tls,2000,Low income
-tls,2001,Low income
-tls,2002,Low income
-tls,2003,Low income
-tls,2004,Low income
-tls,2005,Low income
-tls,2006,Low income
-tls,2007,Lower middle income
-tls,2008,Lower middle income
-tls,2009,Lower middle income
-tls,2010,Lower middle income
-tls,2011,Lower middle income
-tls,2012,Lower middle income
-tls,2013,Lower middle income
-tls,2014,Lower middle income
-tls,2015,Lower middle income
-tls,2016,Lower middle income
-tls,2017,Lower middle income
-tls,2018,Lower middle income
-tls,2019,Lower middle income
+tcd,1987,Low income
+tcd,1988,Low income
+tcd,1989,Low income
+tcd,1990,Low income
+tcd,1991,Low income
+tcd,1992,Low income
+tcd,1993,Low income
+tcd,1994,Low income
+tcd,1995,Low income
+tcd,1996,Low income
+tcd,1997,Low income
+tcd,1998,Low income
+tcd,1999,Low income
+tcd,2000,Low income
+tcd,2001,Low income
+tcd,2002,Low income
+tcd,2003,Low income
+tcd,2004,Low income
+tcd,2005,Low income
+tcd,2006,Low income
+tcd,2007,Low income
+tcd,2008,Low income
+tcd,2009,Low income
+tcd,2010,Low income
+tcd,2011,Low income
+tcd,2012,Low income
+tcd,2013,Low income
+tcd,2014,Low income
+tcd,2015,Low income
+tcd,2016,Low income
+tcd,2017,Low income
+tcd,2018,Low income
+tcd,2019,Low income
 tgo,1987,Low income
 tgo,1988,Low income
 tgo,1989,Low income
@@ -5807,6 +5642,138 @@ tgo,2016,Low income
 tgo,2017,Low income
 tgo,2018,Low income
 tgo,2019,Low income
+tha,1987,Lower middle income
+tha,1988,Lower middle income
+tha,1989,Lower middle income
+tha,1990,Lower middle income
+tha,1991,Lower middle income
+tha,1992,Lower middle income
+tha,1993,Lower middle income
+tha,1994,Lower middle income
+tha,1995,Lower middle income
+tha,1996,Lower middle income
+tha,1997,Lower middle income
+tha,1998,Lower middle income
+tha,1999,Lower middle income
+tha,2000,Lower middle income
+tha,2001,Lower middle income
+tha,2002,Lower middle income
+tha,2003,Lower middle income
+tha,2004,Lower middle income
+tha,2005,Lower middle income
+tha,2006,Lower middle income
+tha,2007,Lower middle income
+tha,2008,Lower middle income
+tha,2009,Lower middle income
+tha,2010,Upper middle income
+tha,2011,Upper middle income
+tha,2012,Upper middle income
+tha,2013,Upper middle income
+tha,2014,Upper middle income
+tha,2015,Upper middle income
+tha,2016,Upper middle income
+tha,2017,Upper middle income
+tha,2018,Upper middle income
+tha,2019,Upper middle income
+tjk,1987,Lower middle income
+tjk,1988,Lower middle income
+tjk,1989,Lower middle income
+tjk,1990,Lower middle income
+tjk,1991,Lower middle income
+tjk,1992,Low income
+tjk,1993,Low income
+tjk,1994,Low income
+tjk,1995,Low income
+tjk,1996,Low income
+tjk,1997,Low income
+tjk,1998,Low income
+tjk,1999,Low income
+tjk,2000,Low income
+tjk,2001,Low income
+tjk,2002,Low income
+tjk,2003,Low income
+tjk,2004,Low income
+tjk,2005,Low income
+tjk,2006,Low income
+tjk,2007,Low income
+tjk,2008,Low income
+tjk,2009,Low income
+tjk,2010,Low income
+tjk,2011,Low income
+tjk,2012,Low income
+tjk,2013,Low income
+tjk,2014,Lower middle income
+tjk,2015,Lower middle income
+tjk,2016,Lower middle income
+tjk,2017,Low income
+tjk,2018,Low income
+tjk,2019,Low income
+tkm,1987,Lower middle income
+tkm,1988,Lower middle income
+tkm,1989,Lower middle income
+tkm,1990,Lower middle income
+tkm,1991,Lower middle income
+tkm,1992,Lower middle income
+tkm,1993,Lower middle income
+tkm,1994,Lower middle income
+tkm,1995,Lower middle income
+tkm,1996,Lower middle income
+tkm,1997,Low income
+tkm,1998,Low income
+tkm,1999,Low income
+tkm,2000,Lower middle income
+tkm,2001,Lower middle income
+tkm,2002,Lower middle income
+tkm,2003,Lower middle income
+tkm,2004,Lower middle income
+tkm,2005,Lower middle income
+tkm,2006,Lower middle income
+tkm,2007,Lower middle income
+tkm,2008,Lower middle income
+tkm,2009,Lower middle income
+tkm,2010,Lower middle income
+tkm,2011,Upper middle income
+tkm,2012,Upper middle income
+tkm,2013,Upper middle income
+tkm,2014,Upper middle income
+tkm,2015,Upper middle income
+tkm,2016,Upper middle income
+tkm,2017,Upper middle income
+tkm,2018,Upper middle income
+tkm,2019,Upper middle income
+tls,1987,Low income
+tls,1988,Low income
+tls,1989,Low income
+tls,1990,Low income
+tls,1991,Low income
+tls,1992,Low income
+tls,1993,Low income
+tls,1994,Low income
+tls,1995,Low income
+tls,1996,Low income
+tls,1997,Low income
+tls,1998,Low income
+tls,1999,Low income
+tls,2000,Low income
+tls,2001,Low income
+tls,2002,Low income
+tls,2003,Low income
+tls,2004,Low income
+tls,2005,Low income
+tls,2006,Low income
+tls,2007,Lower middle income
+tls,2008,Lower middle income
+tls,2009,Lower middle income
+tls,2010,Lower middle income
+tls,2011,Lower middle income
+tls,2012,Lower middle income
+tls,2013,Lower middle income
+tls,2014,Lower middle income
+tls,2015,Lower middle income
+tls,2016,Lower middle income
+tls,2017,Lower middle income
+tls,2018,Lower middle income
+tls,2019,Lower middle income
 ton,1987,Lower middle income
 ton,1988,Lower middle income
 ton,1989,Lower middle income
@@ -5939,39 +5906,6 @@ tur,2016,Upper middle income
 tur,2017,Upper middle income
 tur,2018,Upper middle income
 tur,2019,Upper middle income
-tkm,1987,Lower middle income
-tkm,1988,Lower middle income
-tkm,1989,Lower middle income
-tkm,1990,Lower middle income
-tkm,1991,Lower middle income
-tkm,1992,Lower middle income
-tkm,1993,Lower middle income
-tkm,1994,Lower middle income
-tkm,1995,Lower middle income
-tkm,1996,Lower middle income
-tkm,1997,Low income
-tkm,1998,Low income
-tkm,1999,Low income
-tkm,2000,Lower middle income
-tkm,2001,Lower middle income
-tkm,2002,Lower middle income
-tkm,2003,Lower middle income
-tkm,2004,Lower middle income
-tkm,2005,Lower middle income
-tkm,2006,Lower middle income
-tkm,2007,Lower middle income
-tkm,2008,Lower middle income
-tkm,2009,Lower middle income
-tkm,2010,Lower middle income
-tkm,2011,Upper middle income
-tkm,2012,Upper middle income
-tkm,2013,Upper middle income
-tkm,2014,Upper middle income
-tkm,2015,Upper middle income
-tkm,2016,Upper middle income
-tkm,2017,Upper middle income
-tkm,2018,Upper middle income
-tkm,2019,Upper middle income
 tuv,1987,Lower middle income
 tuv,1988,Lower middle income
 tuv,1989,Lower middle income
@@ -6005,6 +5939,72 @@ tuv,2016,Upper middle income
 tuv,2017,Upper middle income
 tuv,2018,Upper middle income
 tuv,2019,Upper middle income
+twn,1987,High income
+twn,1988,High income
+twn,1989,High income
+twn,1990,High income
+twn,1991,High income
+twn,1992,High income
+twn,1993,High income
+twn,1994,High income
+twn,1995,High income
+twn,1996,High income
+twn,1997,High income
+twn,1998,High income
+twn,1999,High income
+twn,2000,High income
+twn,2001,High income
+twn,2002,High income
+twn,2003,High income
+twn,2004,High income
+twn,2005,High income
+twn,2006,High income
+twn,2007,High income
+twn,2008,High income
+twn,2009,High income
+twn,2010,High income
+twn,2011,High income
+twn,2012,High income
+twn,2013,High income
+twn,2014,High income
+twn,2015,High income
+twn,2016,High income
+twn,2017,High income
+twn,2018,High income
+twn,2019,High income
+tza,1987,Low income
+tza,1988,Low income
+tza,1989,Low income
+tza,1990,Low income
+tza,1991,Low income
+tza,1992,Low income
+tza,1993,Low income
+tza,1994,Low income
+tza,1995,Low income
+tza,1996,Low income
+tza,1997,Low income
+tza,1998,Low income
+tza,1999,Low income
+tza,2000,Low income
+tza,2001,Low income
+tza,2002,Low income
+tza,2003,Low income
+tza,2004,Low income
+tza,2005,Low income
+tza,2006,Low income
+tza,2007,Low income
+tza,2008,Low income
+tza,2009,Low income
+tza,2010,Low income
+tza,2011,Low income
+tza,2012,Low income
+tza,2013,Low income
+tza,2014,Low income
+tza,2015,Low income
+tza,2016,Low income
+tza,2017,Low income
+tza,2018,Low income
+tza,2019,Low income
 uga,1987,Low income
 uga,1988,Low income
 uga,1989,Low income
@@ -6071,105 +6071,6 @@ ukr,2016,Lower middle income
 ukr,2017,Lower middle income
 ukr,2018,Lower middle income
 ukr,2019,Lower middle income
-are,1987,High income
-are,1988,High income
-are,1989,High income
-are,1990,High income
-are,1991,High income
-are,1992,High income
-are,1993,High income
-are,1994,High income
-are,1995,High income
-are,1996,High income
-are,1997,High income
-are,1998,High income
-are,1999,High income
-are,2000,High income
-are,2001,High income
-are,2002,High income
-are,2003,High income
-are,2004,High income
-are,2005,High income
-are,2006,High income
-are,2007,High income
-are,2008,High income
-are,2009,High income
-are,2010,High income
-are,2011,High income
-are,2012,High income
-are,2013,High income
-are,2014,High income
-are,2015,High income
-are,2016,High income
-are,2017,High income
-are,2018,High income
-are,2019,High income
-gbr,1987,High income
-gbr,1988,High income
-gbr,1989,High income
-gbr,1990,High income
-gbr,1991,High income
-gbr,1992,High income
-gbr,1993,High income
-gbr,1994,High income
-gbr,1995,High income
-gbr,1996,High income
-gbr,1997,High income
-gbr,1998,High income
-gbr,1999,High income
-gbr,2000,High income
-gbr,2001,High income
-gbr,2002,High income
-gbr,2003,High income
-gbr,2004,High income
-gbr,2005,High income
-gbr,2006,High income
-gbr,2007,High income
-gbr,2008,High income
-gbr,2009,High income
-gbr,2010,High income
-gbr,2011,High income
-gbr,2012,High income
-gbr,2013,High income
-gbr,2014,High income
-gbr,2015,High income
-gbr,2016,High income
-gbr,2017,High income
-gbr,2018,High income
-gbr,2019,High income
-usa,1987,High income
-usa,1988,High income
-usa,1989,High income
-usa,1990,High income
-usa,1991,High income
-usa,1992,High income
-usa,1993,High income
-usa,1994,High income
-usa,1995,High income
-usa,1996,High income
-usa,1997,High income
-usa,1998,High income
-usa,1999,High income
-usa,2000,High income
-usa,2001,High income
-usa,2002,High income
-usa,2003,High income
-usa,2004,High income
-usa,2005,High income
-usa,2006,High income
-usa,2007,High income
-usa,2008,High income
-usa,2009,High income
-usa,2010,High income
-usa,2011,High income
-usa,2012,High income
-usa,2013,High income
-usa,2014,High income
-usa,2015,High income
-usa,2016,High income
-usa,2017,High income
-usa,2018,High income
-usa,2019,High income
 ury,1987,Upper middle income
 ury,1988,Upper middle income
 ury,1989,Upper middle income
@@ -6203,6 +6104,39 @@ ury,2016,High income
 ury,2017,High income
 ury,2018,High income
 ury,2019,High income
+usa,1987,High income
+usa,1988,High income
+usa,1989,High income
+usa,1990,High income
+usa,1991,High income
+usa,1992,High income
+usa,1993,High income
+usa,1994,High income
+usa,1995,High income
+usa,1996,High income
+usa,1997,High income
+usa,1998,High income
+usa,1999,High income
+usa,2000,High income
+usa,2001,High income
+usa,2002,High income
+usa,2003,High income
+usa,2004,High income
+usa,2005,High income
+usa,2006,High income
+usa,2007,High income
+usa,2008,High income
+usa,2009,High income
+usa,2010,High income
+usa,2011,High income
+usa,2012,High income
+usa,2013,High income
+usa,2014,High income
+usa,2015,High income
+usa,2016,High income
+usa,2017,High income
+usa,2018,High income
+usa,2019,High income
 uzb,1987,Lower middle income
 uzb,1988,Lower middle income
 uzb,1989,Lower middle income
@@ -6236,39 +6170,39 @@ uzb,2016,Lower middle income
 uzb,2017,Lower middle income
 uzb,2018,Lower middle income
 uzb,2019,Lower middle income
-vut,1987,Lower middle income
-vut,1988,Lower middle income
-vut,1989,Lower middle income
-vut,1990,Lower middle income
-vut,1991,Lower middle income
-vut,1992,Lower middle income
-vut,1993,Lower middle income
-vut,1994,Lower middle income
-vut,1995,Lower middle income
-vut,1996,Lower middle income
-vut,1997,Lower middle income
-vut,1998,Lower middle income
-vut,1999,Lower middle income
-vut,2000,Lower middle income
-vut,2001,Lower middle income
-vut,2002,Lower middle income
-vut,2003,Lower middle income
-vut,2004,Lower middle income
-vut,2005,Lower middle income
-vut,2006,Lower middle income
-vut,2007,Lower middle income
-vut,2008,Lower middle income
-vut,2009,Lower middle income
-vut,2010,Lower middle income
-vut,2011,Lower middle income
-vut,2012,Lower middle income
-vut,2013,Lower middle income
-vut,2014,Lower middle income
-vut,2015,Lower middle income
-vut,2016,Lower middle income
-vut,2017,Lower middle income
-vut,2018,Lower middle income
-vut,2019,Lower middle income
+vct,1987,Lower middle income
+vct,1988,Lower middle income
+vct,1989,Lower middle income
+vct,1990,Lower middle income
+vct,1991,Lower middle income
+vct,1992,Lower middle income
+vct,1993,Lower middle income
+vct,1994,Lower middle income
+vct,1995,Lower middle income
+vct,1996,Lower middle income
+vct,1997,Lower middle income
+vct,1998,Lower middle income
+vct,1999,Lower middle income
+vct,2000,Lower middle income
+vct,2001,Lower middle income
+vct,2002,Lower middle income
+vct,2003,Upper middle income
+vct,2004,Upper middle income
+vct,2005,Upper middle income
+vct,2006,Upper middle income
+vct,2007,Upper middle income
+vct,2008,Upper middle income
+vct,2009,Upper middle income
+vct,2010,Upper middle income
+vct,2011,Upper middle income
+vct,2012,Upper middle income
+vct,2013,Upper middle income
+vct,2014,Upper middle income
+vct,2015,Upper middle income
+vct,2016,Upper middle income
+vct,2017,Upper middle income
+vct,2018,Upper middle income
+vct,2019,Upper middle income
 ven,1987,Upper middle income
 ven,1988,Upper middle income
 ven,1989,Upper middle income
@@ -6335,39 +6269,72 @@ vnm,2016,Lower middle income
 vnm,2017,Lower middle income
 vnm,2018,Lower middle income
 vnm,2019,Lower middle income
-pse,1987,Lower middle income
-pse,1988,Lower middle income
-pse,1989,Lower middle income
-pse,1990,Lower middle income
-pse,1991,Lower middle income
-pse,1992,Lower middle income
-pse,1993,Lower middle income
-pse,1994,Lower middle income
-pse,1995,Lower middle income
-pse,1996,Lower middle income
-pse,1997,Lower middle income
-pse,1998,Lower middle income
-pse,1999,Lower middle income
-pse,2000,Lower middle income
-pse,2001,Lower middle income
-pse,2002,Lower middle income
-pse,2003,Lower middle income
-pse,2004,Lower middle income
-pse,2005,Lower middle income
-pse,2006,Lower middle income
-pse,2007,Lower middle income
-pse,2008,Lower middle income
-pse,2009,Lower middle income
-pse,2010,Lower middle income
-pse,2011,Lower middle income
-pse,2012,Lower middle income
-pse,2013,Lower middle income
-pse,2014,Lower middle income
-pse,2015,Lower middle income
-pse,2016,Lower middle income
-pse,2017,Lower middle income
-pse,2018,Lower middle income
-pse,2019,Lower middle income
+vut,1987,Lower middle income
+vut,1988,Lower middle income
+vut,1989,Lower middle income
+vut,1990,Lower middle income
+vut,1991,Lower middle income
+vut,1992,Lower middle income
+vut,1993,Lower middle income
+vut,1994,Lower middle income
+vut,1995,Lower middle income
+vut,1996,Lower middle income
+vut,1997,Lower middle income
+vut,1998,Lower middle income
+vut,1999,Lower middle income
+vut,2000,Lower middle income
+vut,2001,Lower middle income
+vut,2002,Lower middle income
+vut,2003,Lower middle income
+vut,2004,Lower middle income
+vut,2005,Lower middle income
+vut,2006,Lower middle income
+vut,2007,Lower middle income
+vut,2008,Lower middle income
+vut,2009,Lower middle income
+vut,2010,Lower middle income
+vut,2011,Lower middle income
+vut,2012,Lower middle income
+vut,2013,Lower middle income
+vut,2014,Lower middle income
+vut,2015,Lower middle income
+vut,2016,Lower middle income
+vut,2017,Lower middle income
+vut,2018,Lower middle income
+vut,2019,Lower middle income
+wsm,1987,Lower middle income
+wsm,1988,Lower middle income
+wsm,1989,Lower middle income
+wsm,1990,Lower middle income
+wsm,1991,Lower middle income
+wsm,1992,Lower middle income
+wsm,1993,Lower middle income
+wsm,1994,Lower middle income
+wsm,1995,Lower middle income
+wsm,1996,Lower middle income
+wsm,1997,Lower middle income
+wsm,1998,Lower middle income
+wsm,1999,Lower middle income
+wsm,2000,Lower middle income
+wsm,2001,Lower middle income
+wsm,2002,Lower middle income
+wsm,2003,Lower middle income
+wsm,2004,Lower middle income
+wsm,2005,Lower middle income
+wsm,2006,Lower middle income
+wsm,2007,Lower middle income
+wsm,2008,Lower middle income
+wsm,2009,Lower middle income
+wsm,2010,Lower middle income
+wsm,2011,Lower middle income
+wsm,2012,Lower middle income
+wsm,2013,Lower middle income
+wsm,2014,Lower middle income
+wsm,2015,Lower middle income
+wsm,2016,Upper middle income
+wsm,2017,Upper middle income
+wsm,2018,Upper middle income
+wsm,2019,Upper middle income
 yem,1987,Lower middle income
 yem,1988,Lower middle income
 yem,1989,Lower middle income
@@ -6401,6 +6368,39 @@ yem,2016,Lower middle income
 yem,2017,Low income
 yem,2018,Low income
 yem,2019,Low income
+zaf,1987,Lower middle income
+zaf,1988,Upper middle income
+zaf,1989,Upper middle income
+zaf,1990,Upper middle income
+zaf,1991,Upper middle income
+zaf,1992,Upper middle income
+zaf,1993,Upper middle income
+zaf,1994,Upper middle income
+zaf,1995,Upper middle income
+zaf,1996,Upper middle income
+zaf,1997,Upper middle income
+zaf,1998,Lower middle income
+zaf,1999,Upper middle income
+zaf,2000,Upper middle income
+zaf,2001,Lower middle income
+zaf,2002,Lower middle income
+zaf,2003,Lower middle income
+zaf,2004,Upper middle income
+zaf,2005,Upper middle income
+zaf,2006,Upper middle income
+zaf,2007,Upper middle income
+zaf,2008,Upper middle income
+zaf,2009,Upper middle income
+zaf,2010,Upper middle income
+zaf,2011,Upper middle income
+zaf,2012,Upper middle income
+zaf,2013,Upper middle income
+zaf,2014,Upper middle income
+zaf,2015,Upper middle income
+zaf,2016,Upper middle income
+zaf,2017,Upper middle income
+zaf,2018,Upper middle income
+zaf,2019,Upper middle income
 zmb,1987,Low income
 zmb,1988,Low income
 zmb,1989,Low income
