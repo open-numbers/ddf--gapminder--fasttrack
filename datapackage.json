@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2020-12-27T04:33:52.961595+00:00",
+    "created": "2021-01-08T20:19:03.894921+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -1174,6 +1174,48 @@
                     },
                     {
                         "name": "locdemo_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--matfootp--by--country--time",
+            "path": "ddf--datapoints--matfootp--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "matfootp"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--matfootp_cap--by--country--time",
+            "path": "ddf--datapoints--matfootp_cap--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "matfootp_cap"
                     }
                 ],
                 "primaryKey": [
@@ -4707,6 +4749,46 @@
                 "value": "locdemo_idea",
                 "resources": [
                     "ddf--datapoints--locdemo_idea--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "matfootp",
+                "resources": [
+                    "ddf--datapoints--matfootp--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "matfootp",
+                "resources": [
+                    "ddf--datapoints--matfootp--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "matfootp_cap",
+                "resources": [
+                    "ddf--datapoints--matfootp_cap--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "matfootp_cap",
+                "resources": [
+                    "ddf--datapoints--matfootp_cap--by--country--time"
                 ]
             },
             {
