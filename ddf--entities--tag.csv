@@ -21,3 +21,5 @@ urbanization,Urbanization,population
 education,Education,
 vaccine,Vaccine,health
 maternal_health,Maternal health,health
+employment_by_sector,Employment by sector,work
+work,Work,

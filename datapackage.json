@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2021-01-08T20:19:03.894921+00:00",
+    "created": "2021-01-19T11:21:22.122035+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -910,6 +910,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--hapiscore_whr--by--country--time",
+            "path": "ddf--datapoints--hapiscore_whr--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "hapiscore_whr"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--ihme_cardio_death--by--world_4region--time",
             "path": "ddf--datapoints--ihme_cardio_death--by--world_4region--time.csv",
             "schema": {
@@ -1183,6 +1204,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--manuf_employ--by--country--time",
+            "path": "ddf--datapoints--manuf_employ--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "manuf_employ"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--matfootp--by--country--time",
             "path": "ddf--datapoints--matfootp--by--country--time.csv",
             "schema": {
@@ -1388,6 +1430,69 @@
                 ],
                 "primaryKey": [
                     "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--net_users_num--by--country--time",
+            "path": "ddf--datapoints--net_users_num--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "net_users_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--non_net_users_num--by--country--time",
+            "path": "ddf--datapoints--non_net_users_num--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "non_net_users_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--non_net_users_prc--by--country--time",
+            "path": "ddf--datapoints--non_net_users_prc--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "non_net_users_prc"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
                     "time"
                 ]
             }
@@ -4502,6 +4607,26 @@
             },
             {
                 "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "hapiscore_whr",
+                "resources": [
+                    "ddf--datapoints--hapiscore_whr--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "hapiscore_whr",
+                "resources": [
+                    "ddf--datapoints--hapiscore_whr--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
                     "geo",
                     "time"
                 ],
@@ -4756,6 +4881,26 @@
                     "country",
                     "time"
                 ],
+                "value": "manuf_employ",
+                "resources": [
+                    "ddf--datapoints--manuf_employ--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "manuf_employ",
+                "resources": [
+                    "ddf--datapoints--manuf_employ--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "matfootp",
                 "resources": [
                     "ddf--datapoints--matfootp--by--country--time"
@@ -4949,6 +5094,66 @@
                 "value": "ndisasd_tot",
                 "resources": [
                     "ddf--datapoints--ndisasd_tot--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "net_users_num",
+                "resources": [
+                    "ddf--datapoints--net_users_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "net_users_num",
+                "resources": [
+                    "ddf--datapoints--net_users_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "non_net_users_num",
+                "resources": [
+                    "ddf--datapoints--non_net_users_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "non_net_users_num",
+                "resources": [
+                    "ddf--datapoints--non_net_users_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "non_net_users_prc",
+                "resources": [
+                    "ddf--datapoints--non_net_users_prc--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "non_net_users_prc",
+                "resources": [
+                    "ddf--datapoints--non_net_users_prc--by--country--time"
                 ]
             },
             {
