@@ -230,6 +230,7 @@ def main():
         for sheet_name, link in di.items():
             print(f"sheet: {sheet_name}")
             try:
+                # read_sheet will retry a few times on some errors. Please check above.
                 df = read_sheet(doc, sheet_name)
             except Exception as e:
                 print(f"error: {e}")
