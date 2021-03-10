@@ -204,7 +204,7 @@ def read_sheet(doc:Spread, sheet_name):
     elif df.shape[0] == 1 and df.iloc[0, 0] in ['#N/A', '#VALUE!', 0]:
         raise EmptyColumn(f"{sheet_name} contains all NA values")
     elif len(df['geo'].unique()) == 1 and 'world' not in df['geo'].values:
-        raise EmptyColumn(f"{sheet_name} contains all NA values")
+        raise EmptyColumn(f"{sheet_name}, geo column contains NA values")
     else:
         for c in df.columns:
             if df[c].hasnans or '[Invalid]' in df[c].values:
