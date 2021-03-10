@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2021-01-29T16:35:16.301152+00:00",
+    "created": "2021-03-10T13:40:53.640476+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -1300,6 +1300,48 @@
                     },
                     {
                         "name": "judicindep_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--legslav_numc--by--global--time",
+            "path": "ddf--datapoints--legslav_numc--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "legslav_numc"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--legslav_status--by--country--time",
+            "path": "ddf--datapoints--legslav_status--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "legslav_status"
                     }
                 ],
                 "primaryKey": [
@@ -5247,6 +5289,46 @@
                 "value": "judicindep_idea",
                 "resources": [
                     "ddf--datapoints--judicindep_idea--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "legslav_numc",
+                "resources": [
+                    "ddf--datapoints--legslav_numc--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "legslav_numc",
+                "resources": [
+                    "ddf--datapoints--legslav_numc--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "legslav_status",
+                "resources": [
+                    "ddf--datapoints--legslav_status--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "legslav_status",
+                "resources": [
+                    "ddf--datapoints--legslav_status--by--country--time"
                 ]
             },
             {

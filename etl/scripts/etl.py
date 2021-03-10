@@ -14,6 +14,7 @@ from ddf_utils.str import format_float_digits
 from ddf_utils.factory.common import retry
 from urllib.error import HTTPError
 
+from gspread.exceptions import APIError
 from gspread_pandas import Spread
 from gspread_pandas.conf import get_config_dir
 
@@ -22,12 +23,16 @@ from gspread_pandas.conf import get_config_dir
 DOCID =  "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo" # for the democracy branch we used another sheet: "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI"
 
 
-# define 2 exceptions for error handling
+# define 3 exceptions for error handling
 class EmptySheet(Exception):
     pass
 
 
 class EmptyColumn(Exception):
+    pass
+
+
+class EmptyCell(Exception):
     pass
 
 
@@ -189,14 +194,22 @@ def serve_concepts(concepts, entities_columns):
 
     return cdf_full
 
-@retry(times=10, backoff=1, exceptions=(EmptyColumn, EmptySheet))
-def read_sheet(doc, sheet_name):
+
+@retry(times=10, backoff=10, exceptions=(EmptyColumn, EmptySheet, EmptyCell, APIError))
+def read_sheet(doc:Spread, sheet_name):
     df = doc.sheet_to_df(sheet=sheet_name, index=None)
     # detect error in sheet
     if df.empty:
         raise EmptySheet(f"{sheet_name} is empty")
-    elif df.shape[0] == 1 and df.iloc[0, 0] in ['#N/A', '#VALUE!']:
+    elif df.shape[0] == 1 and df.iloc[0, 0] in ['#N/A', '#VALUE!', 0]:
         raise EmptyColumn(f"{sheet_name} contains all NA values")
+    elif len(df['geo'].unique()) == 1 and 'world' not in df['geo'].values:
+        raise EmptyColumn(f"{sheet_name}, geo column contains NA values")
+    else:
+        for c in df.columns:
+            if df[c].hasnans or '[Invalid]' in df[c].values:
+                raise EmptyCell('{sheet_name}, column {c} has NA values')
+    print(df.head())
     return df
 
 
@@ -221,6 +234,7 @@ def main():
         for sheet_name, link in di.items():
             print(f"sheet: {sheet_name}")
             try:
+                # read_sheet will retry a few times on some errors. Please check above.
                 df = read_sheet(doc, sheet_name)
             except Exception as e:
                 print(f"error: {e}")
