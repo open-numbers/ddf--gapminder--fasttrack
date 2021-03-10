@@ -207,7 +207,7 @@ def read_sheet(doc:Spread, sheet_name):
         raise EmptyColumn(f"{sheet_name} contains all NA values")
     else:
         for c in df.columns:
-            if df[c].hasnans:
+            if df[c].hasnans or '[Invalid]' in df[c].values:
                 raise EmptyCell('{sheet_name}, column {c} has NA values')
     print(df.head())
     return df
