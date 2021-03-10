@@ -22,12 +22,16 @@ from gspread_pandas.conf import get_config_dir
 DOCID =  "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo" # for the democracy branch we used another sheet: "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI"
 
 
-# define 2 exceptions for error handling
+# define 3 exceptions for error handling
 class EmptySheet(Exception):
     pass
 
 
 class EmptyColumn(Exception):
+    pass
+
+
+class EmptyCell(Exception):
     pass
 
 
@@ -189,7 +193,8 @@ def serve_concepts(concepts, entities_columns):
 
     return cdf_full
 
-@retry(times=10, backoff=1, exceptions=(EmptyColumn, EmptySheet))
+
+@retry(times=10, backoff=5, exceptions=(EmptyColumn, EmptySheet))
 def read_sheet(doc, sheet_name):
     df = doc.sheet_to_df(sheet=sheet_name, index=None)
     # detect error in sheet
@@ -197,6 +202,10 @@ def read_sheet(doc, sheet_name):
         raise EmptySheet(f"{sheet_name} is empty")
     elif df.shape[0] == 1 and df.iloc[0, 0] in ['#N/A', '#VALUE!']:
         raise EmptyColumn(f"{sheet_name} contains all NA values")
+    else:
+        for c in df.columns:
+            if df[c].hasnans:
+                raise EmptyCell('{sheet_name}, column {c} has NA values')
     return df
 
 
@@ -226,7 +235,7 @@ def main():
                 print(f"error: {e}")
 
             csv_dict[docid][sheet_name] = df
-            time.sleep(10)
+            time.sleep(5)
 
     print('creating ddf datasets...')
 
