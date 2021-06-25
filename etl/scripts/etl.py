@@ -20,7 +20,8 @@ from gspread_pandas.conf import get_config_dir
 
 
 # fasttrack doc id
-DOCID =  "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo" # for the democracy branch we used another sheet: "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI"
+# for the democracy branch we used another sheet: "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI"
+DOCID = "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo"
 
 
 # define 3 exceptions for error handling
@@ -144,9 +145,9 @@ def serve_datapoints(datapoints, concepts, csv_dict):
                 by_fn.append(v)
         by_fn = [translate_dict.get(x, x) for x in by_fn]
         df.index.names = by_fn
-        (df.dropna().sort_index()
-         .to_csv('../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)),
-                 encoding='utf8'))
+        df.dropna().sort_index().to_csv(
+            '../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)),
+            encoding='utf8')
 
 
 def serve_concepts(concepts, entities_columns):
@@ -196,7 +197,7 @@ def serve_concepts(concepts, entities_columns):
 
 
 @retry(times=10, backoff=10, exceptions=(EmptyColumn, EmptySheet, EmptyCell, APIError))
-def read_sheet(doc:Spread, sheet_name):
+def read_sheet(doc: Spread, sheet_name):
     df = doc.sheet_to_df(sheet=sheet_name, index=None)
     # detect error in sheet
     if df.empty:
@@ -252,7 +253,7 @@ def main():
         file_path = f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv'
         if osp.exists(file_path):
             edf = pd.read_csv(f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv',
-                          na_filter=False, dtype=str)
+                              na_filter=False, dtype=str)
             edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False, encoding='utf8')
             for c in edf.columns:
                 entities_columns.add(c)
@@ -260,7 +261,7 @@ def main():
             print(f'WARNING: file not found: {file_path}, skipping')
 
     # tags entities
-    tags = tags.rename(columns={'topic_id': 'tag', 'topic_name': 'name', 'parent_topic': 'parent' })
+    tags = tags.rename(columns={'topic_id': 'tag', 'topic_name': 'name', 'parent_topic': 'parent'})
     tags.to_csv('../../ddf--entities--tag.csv', index=False, encoding='utf8')
     for c in tags.columns:
         entities_columns.add(c)
