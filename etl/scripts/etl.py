@@ -19,10 +19,7 @@ from gspread_pandas import Spread
 from gspread_pandas.conf import get_config_dir
 
 
-# fasttrack doc id
-# for the democracy branch we used another sheet: "1qIWmEYd58lndW-KLk8ouDakgyYGSp4nEn2QQaLPXmhI"
-DOCID = "1P1KQ8JHxjy8wnV02Hwb1TnUEJ3BejMbMKbQ0i_VAjyo"
-
+SOURCE_DIR = '../source'
 
 # define 3 exceptions for error handling
 class EmptySheet(Exception):
@@ -35,31 +32,6 @@ class EmptyColumn(Exception):
 
 class EmptyCell(Exception):
     pass
-
-
-def get_docid_sheet(link):
-    p = parse.parse(
-        "https://docs.google.com/spreadsheets/d/{docid}/gviz/tq?tqx=out:csv&sheet={sheet_name}",
-        link)
-    docid = p.named['docid']
-    sheet_name = p.named['sheet_name']
-
-    return docid, sheet_name
-
-
-def get_csv_link_dict(ser):
-    res = dict()
-    for s in ser:
-        docid, sheet_name = get_docid_sheet(s)
-        if docid in res:
-            if sheet_name in res[docid]:
-                continue
-            else:
-                res[docid][sheet_name] = s
-        else:
-            res[docid] = dict()
-            res[docid][sheet_name] = s
-    return res
 
 
 def find_column(df, dimension_pair):
@@ -88,7 +60,7 @@ def serve_datapoints(datapoints, concepts, csv_dict):
     # map concept_name -> concept_id
     concept_map = datapoints.set_index('concept_name')['concept_id'].to_dict()
 
-    # translate plural form to singal form
+    # dictionary for translating plural form to singal form
     translate_dict = {'countries': 'country', 'world_4regions': 'world_4region', 'regions': 'world_4region'}
 
     def get_dataframe(docid, sheet_name, dimension_pairs, concept_name, copy=True):
@@ -196,56 +168,24 @@ def serve_concepts(concepts, entities_columns):
     return cdf_full
 
 
-@retry(times=10, backoff=10, exceptions=(EmptyColumn, EmptySheet, EmptyCell, APIError))
-def read_sheet(doc: Spread, sheet_name):
-    df = doc.sheet_to_df(sheet=sheet_name, index=None)
-    # detect error in sheet
-    if df.empty:
-        raise EmptySheet(f"{sheet_name} is empty")
-    elif df.shape[0] == 1 and df.iloc[0, 0] in ['#N/A', '#VALUE!', 0]:
-        raise EmptyColumn(f"{sheet_name} contains all NA values")
-    elif len(df['geo'].unique()) == 1 and 'world' not in df['geo'].values:
-        raise EmptyColumn(f"{sheet_name}, geo column contains NA values")
-    else:
-        for c in df.columns:
-            if df[c].hasnans or '[Invalid]' in df[c].values:
-                raise EmptyCell('{sheet_name}, column {c} has NA values')
-    print(df.head())
-    return df
+def get_docid_sheet(link):
+    p = parse.parse(
+        "https://docs.google.com/spreadsheets/d/{docid}/gviz/tq?tqx=out:csv&sheet={sheet_name}",
+        link)
+    docid = p.named['docid']
+    sheet_name = p.named['sheet_name']
+
+    return docid, sheet_name
 
 
 def main():
     print('loading source files...')
-    main_doc = Spread(spread=DOCID)
-    concepts = main_doc.sheet_to_df(sheet='concepts', index=None)
-    datapoints = main_doc.sheet_to_df(sheet='datapoints', index=None)
-    tags = main_doc.sheet_to_df(sheet='topics', index=None)
-
-    # construct a dictionary, keys are docids, values are dictionaries which
-    # keys are sheet names and values are the csv links for the docid/sheet name pair.
-    csv_link_dict = get_csv_link_dict(datapoints.csv_link.values)
-
-    # create a dictionary that has same layout of `csv_link_dict` but the values are
-    # dataframes, instead of links
-    csv_dict = csv_link_dict.copy()
-    for docid, di in csv_link_dict.items():
-        print(f"Downloading sheets from file: {docid}")
-        csv_dict[docid] = dict()
-        doc = Spread(spread=docid)
-        for sheet_name, link in di.items():
-            print(f"sheet: {sheet_name}")
-            try:
-                # read_sheet will retry a few times on some errors. Please check above.
-                df = read_sheet(doc, sheet_name)
-            except Exception as e:
-                print(f"error: {e}")
-
-            csv_dict[docid][sheet_name] = df
-            time.sleep(10)
+    concepts = pd.read_csv(osp.join(SOURCE_DIR, 'concepts.csv'), dtype=str)
+    datapoints = pd.read_csv(osp.join(SOURCE_DIR, 'datapoints.csv'), dtype=str)
+    tags = pd.read_csv(osp.join(SOURCE_DIR, 'topics.csv'), dtype=str)
+    concepts_ontology = pd.read_csv(osp.join(SOURCE_DIR, 'ddf--open_numbers/ddf--concepts.csv', dtype=str))
 
     print('creating ddf datasets...')
-
-    concepts_ontology = pd.read_csv('../source/ddf--open_numbers/ddf--concepts.csv')
     # entities
     entities_columns = set()  # mark down the columns, use to create concept table later
     geo_concepts = concepts_ontology[concepts_ontology.domain == 'geo'].concept.values
@@ -270,6 +210,13 @@ def main():
     cdf = serve_concepts(concepts, entities_columns)
 
     # datapoints
+    datapoint_dfs = dict()
+    for _, row in datapoints.iterrows():
+        docid, sheet_name = get_docid_sheet(row['csv_link'])
+        key = f'{docid}-{sheet_name}'
+        filename_full = osp.join(SOURCE_DIR, 'datapoints', f'{key}.csv')
+        df = datapoint_dfs.setdefault(key, pd.read_csv(filename_full, dtype=str))
+        # TODO: continue working
     serve_datapoints(datapoints, cdf, csv_dict)
 
 
