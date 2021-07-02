@@ -1,37 +1,16 @@
 # -*- coding: utf-8 -*-
 
 import os.path as osp
-import requests as req
 import pandas as pd
 import numpy as np
 import parse
-import re
-import time
 
-from io import BytesIO
 from decimal import Decimal
 from ddf_utils.str import format_float_digits
-from ddf_utils.factory.common import retry
-from urllib.error import HTTPError
-
-from gspread.exceptions import APIError
-from gspread_pandas import Spread
 from gspread_pandas.conf import get_config_dir
 
 
 SOURCE_DIR = '../source'
-
-# define 3 exceptions for error handling
-class EmptySheet(Exception):
-    pass
-
-
-class EmptyColumn(Exception):
-    pass
-
-
-class EmptyCell(Exception):
-    pass
 
 
 def find_column(df, dimension_pair):
@@ -53,73 +32,6 @@ def parse_number(s, decimal=False):
 
 def parse_dimension_pairs(dimensions):
     return [p.fixed for p in parse.findall("{:w}:{:w}", dimensions)]
-
-
-def serve_datapoints(datapoints, concepts, csv_dict):
-
-    # map concept_name -> concept_id
-    concept_map = datapoints.set_index('concept_name')['concept_id'].to_dict()
-
-    # dictionary for translating plural form to singal form
-    translate_dict = {'countries': 'country', 'world_4regions': 'world_4region', 'regions': 'world_4region'}
-
-    def get_dataframe(docid, sheet_name, dimension_pairs, concept_name, copy=True):
-        df = csv_dict[docid][sheet_name]
-        # do some cleanups
-        df = df.dropna(axis=0, how='all')
-        df.columns = df.columns.map(lambda x: x.replace('#N/A', '').strip())
-
-        columns = [find_column(df, x) for x in dimension_pairs]
-        columns.append(concept_name)
-        try:
-            if copy:
-                return df[columns].copy()
-            else:
-                return df[columns]
-        except KeyError:
-            print("column not found!\n"
-                  "expected columns: {}\n"
-                  "available columns: {}".format(columns, list(df.columns)))
-            raise KeyError("Key not found.")
-
-    for _, row in datapoints.iterrows():
-        dimension_pairs = parse_dimension_pairs(row['dimensions'])
-        docid, sheet_name = get_docid_sheet(row['csv_link'])
-        print("working on file {}, sheet {}".format(docid, sheet_name))
-        df = get_dataframe(docid, sheet_name, dimension_pairs, row['concept_name'])
-        by = [find_column(df, x) for x in dimension_pairs]
-
-        df = df.set_index(by)
-        # print(df.columns)
-        df = df.rename(columns=concept_map)
-        concept = df.columns[0]
-        # test if the concept exists in concepts table
-        if concept not in concepts['concept'].values:
-            raise ValueError(f'the concept {concept} not found in concepts table! Please double check'
-                             'both the main file and data file.')
-        if df[concept].dtype == 'object':  # didn't reconized as number
-            concept_type = concepts.loc[concepts['concept'] == concept, 'concept_type'].iloc[0]
-            if concept_type == 'measure':  # it should be numbers
-                try:
-                    df[concept] = df[concept].map(parse_number).map(format_float_digits)
-                except (AttributeError, ValueError):
-                    print(f"can't convert the column {concept} to numbers. Maybe it contains non-numeric values?")
-                    raise
-            else:
-                df[concept] = df[concept].map(lambda v: v.strip())
-        else:
-            df[concept] = df[concept].map(format_float_digits)
-        by_fn = list()
-        for k, v in dict(dimension_pairs).items():
-            if k == 'time':
-                by_fn.append('time')
-            else:
-                by_fn.append(v)
-        by_fn = [translate_dict.get(x, x) for x in by_fn]
-        df.index.names = by_fn
-        df.dropna().sort_index().to_csv(
-            '../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)),
-            encoding='utf8')
 
 
 def serve_concepts(concepts, entities_columns):
@@ -178,12 +90,69 @@ def get_docid_sheet(link):
     return docid, sheet_name
 
 
+def load_file_preprocess(path):
+    df = pd.read_csv(path, dtype=str)
+    df.columns = df.columns.map(lambda x: x.replace('#N/A', '').strip())
+    df = df.dropna(axis=0, how='all').dropna(axis=1, how='all')
+    return df
+
+
+def process_datapoints(row, env):
+    dimension_pairs = parse_dimension_pairs(row['dimensions'])
+    concept_name = row['concept_name']
+    if row['flag'] in ['s', 'S']:
+        print(f'skipped: {concept_name}, {dimension_pairs}')
+        return
+    print(f'processing {concept_name}, {dimension_pairs}')
+    datapoint_dfs = env['datapoint_dfs']
+    concepts = env['concepts']
+    translate_dict = env['translate_dict']
+    concept_map = env['concept_map']
+    docid, sheet_name = get_docid_sheet(row['csv_link'])
+    key = f'{docid}-{sheet_name}'
+    filename_full = osp.join(SOURCE_DIR, 'datapoints', f'{key}.csv')
+    df = datapoint_dfs.setdefault(key, load_file_preprocess(filename_full))
+    by = [find_column(df, x) for x in dimension_pairs]
+    columns = by.copy()
+    columns.append(concept_name)
+    df = df[columns].dropna(how='any').set_index(by)
+    df = df.rename(columns=concept_map)
+    concept = df.columns[0]
+    # test if the concept exists in concepts table
+    if concept not in concepts['concept'].values:
+        raise ValueError(f'the concept {concept} not found in concepts table! Please double check'
+                         'both the main file and data file.')
+    if df[concept].dtype == 'object':  # didn't reconized as number
+        concept_type = concepts.loc[concepts['concept'] == concept, 'concept_type'].iloc[0]
+        if concept_type == 'measure':  # it should be numbers
+            try:
+                df[concept] = df[concept].map(parse_number).map(format_float_digits)
+            except (AttributeError, ValueError, TypeError):
+                print(f"can't convert the column {concept} to numbers. Maybe it contains non-numeric values?")
+                raise
+        else:
+            df[concept] = df[concept].map(lambda v: v.strip())
+    else:
+        df[concept] = df[concept].map(format_float_digits)
+    by_fn = list()
+    for k, v in dict(dimension_pairs).items():
+        if k == 'time':
+            by_fn.append('time')
+        else:
+            by_fn.append(v)
+    by_fn = [translate_dict.get(x, x) for x in by_fn]
+    df.index.names = by_fn
+    df.dropna().sort_index().to_csv(
+        '../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)),
+        encoding='utf8')
+
+
 def main():
     print('loading source files...')
     concepts = pd.read_csv(osp.join(SOURCE_DIR, 'concepts.csv'), dtype=str)
     datapoints = pd.read_csv(osp.join(SOURCE_DIR, 'datapoints.csv'), dtype=str)
     tags = pd.read_csv(osp.join(SOURCE_DIR, 'topics.csv'), dtype=str)
-    concepts_ontology = pd.read_csv(osp.join(SOURCE_DIR, 'ddf--open_numbers/ddf--concepts.csv', dtype=str))
+    concepts_ontology = pd.read_csv(osp.join(SOURCE_DIR, 'ddf--open_numbers/ddf--concepts.csv'), dtype=str)
 
     print('creating ddf datasets...')
     # entities
@@ -210,14 +179,18 @@ def main():
     cdf = serve_concepts(concepts, entities_columns)
 
     # datapoints
-    datapoint_dfs = dict()
+    # map concept_name -> concept_id
+    concept_map = datapoints.set_index('concept_name')['concept_id'].to_dict()
+    # dictionary for translating plural form to singal form
+    translate_dict = {'countries': 'country', 'world_4regions': 'world_4region', 'regions': 'world_4region'}
+    env = {
+        'datapoint_dfs': dict(),
+        'concept_map': concept_map,
+        'translate_dict': translate_dict,
+        'concepts': cdf
+    }
     for _, row in datapoints.iterrows():
-        docid, sheet_name = get_docid_sheet(row['csv_link'])
-        key = f'{docid}-{sheet_name}'
-        filename_full = osp.join(SOURCE_DIR, 'datapoints', f'{key}.csv')
-        df = datapoint_dfs.setdefault(key, pd.read_csv(filename_full, dtype=str))
-        # TODO: continue working
-    serve_datapoints(datapoints, cdf, csv_dict)
+        process_datapoints(row, env)
 
 
 if __name__ == '__main__':
