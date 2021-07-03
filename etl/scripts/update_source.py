@@ -116,7 +116,7 @@ def download(doc, sheet_name, outfile):
 
 def process(row: pd.Series, env: dict):
     """process one row in the datapoints table"""
-    flag = row['flag']
+    flag = row['Status']
     concept_id = row['concept_id']
     dimensions = row['dimensions']
     docid, sheet_name = get_docid_sheet(row['csv_link'])

@@ -100,7 +100,7 @@ def load_file_preprocess(path):
 def process_datapoints(row, env):
     dimension_pairs = parse_dimension_pairs(row['dimensions'])
     concept_name = row['concept_name']
-    if row['flag'] in ['s', 'S']:
+    if row['Status'] in ['s', 'S']:
         print(f'skipped: {concept_name}, {dimension_pairs}')
         return
     print(f'processing {concept_name}, {dimension_pairs}')
