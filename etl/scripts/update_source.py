@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import os
 import os.path as osp
 import pandas as pd
 import numpy as np
@@ -132,11 +133,11 @@ def process(row: pd.Series, env: dict):
         doc = env['datapoint_docs'].setdefault(docid, Spread(spread=docid))
         download(doc, sheet_name, filename_full)
         env['downloaded'].add(filename)
-    if not flag and not osp.exists(filename_full):  # no flags but the file not exists
-        print(f"Downloading from sheet {docid} - {sheet_name} (file missing in source dir)")
-        doc = env['datapoint_docs'].setdefault(docid, Spread(spread=docid))
-        download(doc, sheet_name, filename_full)
-        env['downloaded'].add(filename)
+    # if not flag and not osp.exists(filename_full):  # no flags but the file not exists
+    #     print(f"Downloading from sheet {docid} - {sheet_name} (file missing in source dir)")
+    #     doc = env['datapoint_docs'].setdefault(docid, Spread(spread=docid))
+    #     download(doc, sheet_name, filename_full)
+    #     env['downloaded'].add(filename)
 
 
 def main():

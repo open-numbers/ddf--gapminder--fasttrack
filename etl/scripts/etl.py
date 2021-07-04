@@ -90,6 +90,11 @@ def get_docid_sheet(link):
     return docid, sheet_name
 
 
+def csv_link_to_filename(link):
+    docid, sheet_name = get_docid_sheet(link)
+    return f'{docid}-{sheet_name}'
+
+
 def load_file_preprocess(path):
     df = pd.read_csv(path, dtype=str)
     df.columns = df.columns.map(lambda x: x.replace('#N/A', '').strip())
@@ -98,20 +103,35 @@ def load_file_preprocess(path):
 
 
 def process_datapoints(row, env):
-    dimension_pairs = parse_dimension_pairs(row['dimensions'])
+    concept_id = row['concept_id']
     concept_name = row['concept_name']
-    if row['Status'] in ['s', 'S']:
+    dimension = row['dimensions']
+    table_format = row['table_format']
+    csv_link = row['csv_link']
+    status = row['Status']
+    dimension_pairs = parse_dimension_pairs(dimension)
+    datapoints_prev = env['datapoints_prev'].set_index(['concept_id', 'dimensions'])
+    if status in ['s', 'S']:
         print(f'skipped: {concept_name}, {dimension_pairs}')
+        return
+    if pd.isnull(status) and (concept_id, dimension) not in datapoints_prev.index:
+        print(f'{concept_name} does not have old version and no `u` flag. skipping')
         return
     print(f'processing {concept_name}, {dimension_pairs}')
     datapoint_dfs = env['datapoint_dfs']
     concepts = env['concepts']
     translate_dict = env['translate_dict']
     concept_map = env['concept_map']
-    docid, sheet_name = get_docid_sheet(row['csv_link'])
-    key = f'{docid}-{sheet_name}'
-    filename_full = osp.join(SOURCE_DIR, 'datapoints', f'{key}.csv')
-    df = datapoint_dfs.setdefault(key, load_file_preprocess(filename_full))
+    if status in ['u', 'U']:
+        fn = csv_link_to_filename(csv_link)
+    else:
+        fn = datapoints_prev.loc[(concept_id, dimension), 'filename']
+    filename_full = osp.join(SOURCE_DIR, 'datapoints', f'{fn}.csv')
+    if not osp.exists(filename_full):
+        print(f'no source for {concept_name}, {dimension_pairs}, assumming it is still wip and skipping')
+        return
+    env['datapoint_and_doc_list'].append((concept_id, concept_name, dimension, table_format, fn))
+    df = datapoint_dfs.setdefault(fn, load_file_preprocess(filename_full))
     by = [find_column(df, x) for x in dimension_pairs]
     columns = by.copy()
     columns.append(concept_name)
@@ -183,14 +203,23 @@ def main():
     concept_map = datapoints.set_index('concept_name')['concept_id'].to_dict()
     # dictionary for translating plural form to singal form
     translate_dict = {'countries': 'country', 'world_4regions': 'world_4region', 'regions': 'world_4region'}
+    datapoints_prev = pd.read_csv(osp.join(SOURCE_DIR, 'datapoints.cache.csv'), dtype=str)
     env = {
+        'datapoints_prev': datapoints_prev,
         'datapoint_dfs': dict(),
         'concept_map': concept_map,
         'translate_dict': translate_dict,
-        'concepts': cdf
+        'concepts': cdf,
+        'datapoint_and_doc_list': list()  # a list of datapoints and the linked google docs, for caching
     }
     for _, row in datapoints.iterrows():
         process_datapoints(row, env)
+
+    datapoint_and_doc = pd.DataFrame.from_records(env['datapoint_and_doc_list'],
+                                                  columns=['concept_id', 'concept_name', 'dimensions',
+                                                           'table_format', 'filename'])
+    datapoint_and_doc.to_csv(osp.join(SOURCE_DIR, 'datapoints.cache.csv'), index=False)
+    # TODO: cleanup files which are not in the datapoints any more.
 
 
 if __name__ == '__main__':
