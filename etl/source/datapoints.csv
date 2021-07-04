@@ -1,4 +1,4 @@
-flag,concept_id,dimensions,concept_name,table_format,csv_link
+Status,concept_id,dimensions,concept_name,table_format,csv_link
 U,gini,"[geo:country,time:time]",Gini,"{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",https://docs.google.com/spreadsheets/d/1nbz34ZQFD7qmA_V-80dCpNgdczhaYMj9WW5S6Yo1TWI/gviz/tq?tqx=out:csv&sheet=data-for-countries-etc-by-year
 U,journakilled,"[geo:country,time:time]",Journalists killed,"{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",https://docs.google.com/spreadsheets/d/15V6I5-AVqjafF20iGbKQzITvKhOx1BwJBpIMli_8JG0/gviz/tq?tqx=out:csv&sheet=data-for-countries-etc-by-year
 U,journakilled,"[geo:global,time:time]",Journalists killed,"{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",https://docs.google.com/spreadsheets/d/15V6I5-AVqjafF20iGbKQzITvKhOx1BwJBpIMli_8JG0/gviz/tq?tqx=out:csv&sheet=data-for-world-by-year

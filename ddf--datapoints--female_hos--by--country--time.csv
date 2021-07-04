@@ -4186,49 +4186,47 @@ gbr,1975,Never had a female head of state
 gbr,1976,Never had a female head of state
 gbr,1977,Never had a female head of state
 gbr,1978,Never had a female head of state
-gbr,1979,Never had a female head of state
-gbr,1980,Never had a female head of state
-gbr,1981,Never had a female head of state
-gbr,1982,Never had a female head of state
-gbr,1983,Never had a female head of state
-gbr,1984,Never had a female head of state
-gbr,1985,Never had a female head of state
-gbr,1986,Never had a female head of state
-gbr,1987,Never had a female head of state
-gbr,1988,Never had a female head of state
-gbr,1989,Never had a female head of state
-gbr,1990,Never had a female head of state
-gbr,1991,Never had a female head of state
-gbr,1992,Never had a female head of state
-gbr,1993,Never had a female head of state
-gbr,1994,Never had a female head of state
-gbr,1995,Never had a female head of state
-gbr,1996,Never had a female head of state
-gbr,1997,Never had a female head of state
-gbr,1998,Never had a female head of state
-gbr,1999,Never had a female head of state
-gbr,2000,Never had a female head of state
-gbr,2001,Never had a female head of state
-gbr,2002,Never had a female head of state
-gbr,2003,Never had a female head of state
-gbr,2004,Never had a female head of state
-gbr,2005,Never had a female head of state
-gbr,2006,Never had a female head of state
-gbr,2007,Never had a female head of state
-gbr,2008,Never had a female head of state
-gbr,2009,Never had a female head of state
-gbr,2010,Never had a female head of state
-gbr,2011,Never had a female head of state
-gbr,2012,Never had a female head of state
-gbr,2013,Never had a female head of state
-gbr,2014,Never had a female head of state
-gbr,2015,Never had a female head of state
-gbr,2016,Never had a female head of state
-gbr,2017,Never had a female head of state
-gbr,2018,Never had a female head of state
-gbr,2019,Never had a female head of state
-gbr,2020,Never had a female head of state
-gbr,2021,Never had a female head of state
+gbr,1979,Had a female head of state
+gbr,1980,Had a female head of state
+gbr,1981,Had a female head of state
+gbr,1982,Had a female head of state
+gbr,1983,Had a female head of state
+gbr,1984,Had a female head of state
+gbr,1985,Had a female head of state
+gbr,1986,Had a female head of state
+gbr,1987,Had a female head of state
+gbr,1988,Had a female head of state
+gbr,1989,Had a female head of state
+gbr,1990,Had a female head of state
+gbr,1991,Had a female head of state
+gbr,1992,Had a female head of state
+gbr,1993,Had a female head of state
+gbr,1994,Had a female head of state
+gbr,1995,Had a female head of state
+gbr,1996,Had a female head of state
+gbr,1997,Had a female head of state
+gbr,1998,Had a female head of state
+gbr,1999,Had a female head of state
+gbr,2000,Had a female head of state
+gbr,2001,Had a female head of state
+gbr,2002,Had a female head of state
+gbr,2003,Had a female head of state
+gbr,2004,Had a female head of state
+gbr,2005,Had a female head of state
+gbr,2006,Had a female head of state
+gbr,2007,Had a female head of state
+gbr,2008,Had a female head of state
+gbr,2009,Had a female head of state
+gbr,2010,Had a female head of state
+gbr,2011,Had a female head of state
+gbr,2012,Had a female head of state
+gbr,2013,Had a female head of state
+gbr,2014,Had a female head of state
+gbr,2015,Had a female head of state
+gbr,2016,Had a female head of state
+gbr,2017,Had a female head of state
+gbr,2018,Had a female head of state
+gbr,2019,Had a female head of state
 geo,1953,Never had a female head of state
 geo,1954,Never had a female head of state
 geo,1955,Never had a female head of state
@@ -8301,22 +8299,24 @@ moz,2000,Never had a female head of state
 moz,2001,Never had a female head of state
 moz,2002,Never had a female head of state
 moz,2003,Never had a female head of state
-moz,2004,Had a female head of state
-moz,2005,Had a female head of state
-moz,2006,Had a female head of state
-moz,2007,Had a female head of state
-moz,2008,Had a female head of state
-moz,2009,Had a female head of state
-moz,2010,Had a female head of state
-moz,2011,Had a female head of state
-moz,2012,Had a female head of state
-moz,2013,Had a female head of state
-moz,2014,Had a female head of state
-moz,2015,Had a female head of state
-moz,2016,Had a female head of state
-moz,2017,Had a female head of state
-moz,2018,Had a female head of state
-moz,2019,Had a female head of state
+moz,2004,Never had a female head of state
+moz,2005,Never had a female head of state
+moz,2006,Never had a female head of state
+moz,2007,Never had a female head of state
+moz,2008,Never had a female head of state
+moz,2009,Never had a female head of state
+moz,2010,Never had a female head of state
+moz,2011,Never had a female head of state
+moz,2012,Never had a female head of state
+moz,2013,Never had a female head of state
+moz,2014,Never had a female head of state
+moz,2015,Never had a female head of state
+moz,2016,Never had a female head of state
+moz,2017,Never had a female head of state
+moz,2018,Never had a female head of state
+moz,2019,Never had a female head of state
+moz,2020,Never had a female head of state
+moz,2021,Never had a female head of state
 mrt,1953,Never had a female head of state
 mrt,1954,Never had a female head of state
 mrt,1955,Never had a female head of state
@@ -8651,11 +8651,13 @@ nam,2011,Never had a female head of state
 nam,2012,Never had a female head of state
 nam,2013,Never had a female head of state
 nam,2014,Never had a female head of state
-nam,2015,Had a female head of state
-nam,2016,Had a female head of state
-nam,2017,Had a female head of state
-nam,2018,Had a female head of state
-nam,2019,Had a female head of state
+nam,2015,Never had a female head of state
+nam,2016,Never had a female head of state
+nam,2017,Never had a female head of state
+nam,2018,Never had a female head of state
+nam,2019,Never had a female head of state
+nam,2020,Never had a female head of state
+nam,2021,Never had a female head of state
 ner,1953,Never had a female head of state
 ner,1954,Never had a female head of state
 ner,1955,Never had a female head of state
@@ -13166,7 +13168,7 @@ wsm,2017,Never had a female head of state
 wsm,2018,Never had a female head of state
 wsm,2019,Never had a female head of state
 wsm,2020,Never had a female head of state
-wsm,2021,Never had a female head of state
+wsm,2021,Had a female head of state
 yem,1953,Never had a female head of state
 yem,1954,Never had a female head of state
 yem,1955,Never had a female head of state
@@ -13201,41 +13203,6 @@ yem,1983,Never had a female head of state
 yem,1984,Never had a female head of state
 yem,1985,Never had a female head of state
 yem,1986,Never had a female head of state
-yem,1987,
-yem,1988,
-yem,1989,
-yem,1990,
-yem,1991,
-yem,1992,
-yem,1993,
-yem,1994,
-yem,1995,
-yem,1996,
-yem,1997,
-yem,1998,
-yem,1999,
-yem,2000,
-yem,2001,
-yem,2002,
-yem,2003,
-yem,2004,
-yem,2005,
-yem,2006,
-yem,2007,
-yem,2008,
-yem,2009,
-yem,2010,
-yem,2011,
-yem,2012,
-yem,2013,
-yem,2014,
-yem,2015,
-yem,2016,
-yem,2017,
-yem,2018,
-yem,2019,
-yem,2020,
-yem,2021,
 zaf,1953,Never had a female head of state
 zaf,1954,Never had a female head of state
 zaf,1955,Never had a female head of state
@@ -13303,141 +13270,3 @@ zaf,2016,Had a female head of state
 zaf,2017,Had a female head of state
 zaf,2018,Had a female head of state
 zaf,2019,Had a female head of state
-zmb,1953,
-zmb,1954,
-zmb,1955,
-zmb,1956,
-zmb,1957,
-zmb,1958,
-zmb,1959,
-zmb,1960,
-zmb,1961,
-zmb,1962,
-zmb,1963,
-zmb,1964,
-zmb,1965,
-zmb,1966,
-zmb,1967,
-zmb,1968,
-zmb,1969,
-zmb,1970,
-zmb,1971,
-zmb,1972,
-zmb,1973,
-zmb,1974,
-zmb,1975,
-zmb,1976,
-zmb,1977,
-zmb,1978,
-zmb,1979,
-zmb,1980,
-zmb,1981,
-zmb,1982,
-zmb,1983,
-zmb,1984,
-zmb,1985,
-zmb,1986,
-zmb,1987,
-zmb,1988,
-zmb,1989,
-zmb,1990,
-zmb,1991,
-zmb,1992,
-zmb,1993,
-zmb,1994,
-zmb,1995,
-zmb,1996,
-zmb,1997,
-zmb,1998,
-zmb,1999,
-zmb,2000,
-zmb,2001,
-zmb,2002,
-zmb,2003,
-zmb,2004,
-zmb,2005,
-zmb,2006,
-zmb,2007,
-zmb,2008,
-zmb,2009,
-zmb,2010,
-zmb,2011,
-zmb,2012,
-zmb,2013,
-zmb,2014,
-zmb,2015,
-zmb,2016,
-zmb,2017,
-zmb,2018,
-zmb,2019,
-zmb,2020,
-zmb,2021,
-zwe,1953,
-zwe,1954,
-zwe,1955,
-zwe,1956,
-zwe,1957,
-zwe,1958,
-zwe,1959,
-zwe,1960,
-zwe,1961,
-zwe,1962,
-zwe,1963,
-zwe,1964,
-zwe,1965,
-zwe,1966,
-zwe,1967,
-zwe,1968,
-zwe,1969,
-zwe,1970,
-zwe,1971,
-zwe,1972,
-zwe,1973,
-zwe,1974,
-zwe,1975,
-zwe,1976,
-zwe,1977,
-zwe,1978,
-zwe,1979,
-zwe,1980,
-zwe,1981,
-zwe,1982,
-zwe,1983,
-zwe,1984,
-zwe,1985,
-zwe,1986,
-zwe,1987,
-zwe,1988,
-zwe,1989,
-zwe,1990,
-zwe,1991,
-zwe,1992,
-zwe,1993,
-zwe,1994,
-zwe,1995,
-zwe,1996,
-zwe,1997,
-zwe,1998,
-zwe,1999,
-zwe,2000,
-zwe,2001,
-zwe,2002,
-zwe,2003,
-zwe,2004,
-zwe,2005,
-zwe,2006,
-zwe,2007,
-zwe,2008,
-zwe,2009,
-zwe,2010,
-zwe,2011,
-zwe,2012,
-zwe,2013,
-zwe,2014,
-zwe,2015,
-zwe,2016,
-zwe,2017,
-zwe,2018,
-zwe,2019,
-zwe,2020,
-zwe,2021,
