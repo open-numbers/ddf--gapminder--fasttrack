@@ -1,0 +1,759 @@
+,geo,name,time,Stunting prevalence,GDP per capita,Under five population,UNICEF regions
+0,alb,Albania,2005,26.71661,7426.115045,219025,Eastern Europe & Central Asia
+1,alb,Albania,2006,23.9741404,7962.620738,204832.9316,Eastern Europe & Central Asia
+2,alb,Albania,2007,21.51318629,8537.88672,191560.4605,Eastern Europe & Central Asia
+3,alb,Albania,2008,19.30485,9154.713258,179148,Eastern Europe & Central Asia
+4,alb,Albania,2009,18.1941974,9416.873779,178927.6972,Eastern Europe & Central Asia
+5,alb,Albania,2010,17.14744322,9686.541705,178707.6654,Eastern Europe & Central Asia
+6,alb,Albania,2011,16.16091122,9963.932023,178487.9041,Eastern Europe & Central Asia
+7,alb,Albania,2012,15.23113668,10249.26588,178268.4131,Eastern Europe & Central Asia
+8,alb,Albania,2013,14.35485422,10542.77074,178049.192,Eastern Europe & Central Asia
+9,alb,Albania,2014,13.52898631,10844.68061,177830.2404,Eastern Europe & Central Asia
+10,alb,Albania,2015,12.75063249,11155.23617,177611.5581,Eastern Europe & Central Asia
+11,alb,Albania,2016,12.01705916,11474.68501,177393.1448,Eastern Europe & Central Asia
+12,alb,Albania,2017,11.32569,11803.2818,177175,Eastern Europe & Central Asia
+13,arm,Armenia,2000,16.72481,2924.744521,196554,Eastern Europe & Central Asia
+14,arm,Armenia,2001,16.95604872,3301.019842,194527.4391,Eastern Europe & Central Asia
+15,arm,Armenia,2002,17.19048458,3725.703875,192521.773,Eastern Europe & Central Asia
+16,arm,Armenia,2003,17.42816176,4205.024517,190536.7862,Eastern Europe & Central Asia
+17,arm,Armenia,2004,17.66912509,4746.010896,188572.2656,Eastern Europe & Central Asia
+18,arm,Armenia,2005,17.91342,5356.596456,186628,Eastern Europe & Central Asia
+19,arm,Armenia,2006,18.46795572,5602.253757,189433.3819,Eastern Europe & Central Asia
+20,arm,Armenia,2007,19.03965789,5859.177075,192280.9342,Eastern Europe & Central Asia
+21,arm,Armenia,2008,19.62905793,6127.883078,195171.2908,Eastern Europe & Central Asia
+22,arm,Armenia,2009,20.23670369,6408.912129,198105.095,Eastern Europe & Central Asia
+23,arm,Armenia,2010,20.86316,6702.82937,201083,Eastern Europe & Central Asia
+24,arm,Armenia,2011,17.78770584,6973.814976,201305.7061,Eastern Europe & Central Asia
+25,arm,Armenia,2012,15.1656067,7255.756135,201528.6589,Eastern Europe & Central Asia
+26,arm,Armenia,2013,12.93003317,7549.095764,201751.8587,Eastern Europe & Central Asia
+27,arm,Armenia,2014,11.02400722,7854.294685,201975.3056,Eastern Europe & Central Asia
+28,arm,Armenia,2015,9.39895,8171.832354,202199,Eastern Europe & Central Asia
+29,bgd,Bangladesh,1996,60.04592,1516.162581,16641067,South Asia
+30,bgd,Bangladesh,1997,56.93147358,1556.059545,16687225.18,South Asia
+31,bgd,Bangladesh,1998,53.97856648,1597.006376,16733511.4,South Asia
+32,bgd,Bangladesh,1999,51.17882,1639.030699,16779926,South Asia
+33,bgd,Bangladesh,2000,51.05407537,1687.610809,16796028.47,South Asia
+34,bgd,Bangladesh,2001,50.92963479,1737.630812,16812146.38,South Asia
+35,bgd,Bangladesh,2002,50.80549753,1789.133384,16828279.77,South Asia
+36,bgd,Bangladesh,2003,50.68166285,1842.162469,16844428.64,South Asia
+37,bgd,Bangladesh,2004,50.55813,1896.763311,16860593,South Asia
+38,bgd,Bangladesh,2005,47.95123246,1997.685545,16740472.93,South Asia
+39,bgd,Bangladesh,2006,45.47875276,2103.97761,16621208.63,South Asia
+40,bgd,Bangladesh,2007,43.13376,2215.925221,16502794,South Asia
+41,bgd,Bangladesh,2008,42.67116634,2317.435716,16274389.29,South Asia
+42,bgd,Bangladesh,2009,42.21353384,2423.59636,16049145.79,South Asia
+43,bgd,Bangladesh,2010,41.76080927,2534.620172,15827019.74,South Asia
+44,bgd,Bangladesh,2011,41.31294,2650.729933,15607968,South Asia
+45,bgd,Bangladesh,2012,42.13812,2791.172098,15467715,South Asia
+46,bgd,Bangladesh,2013,39.07753119,2925.853142,15398238.97,South Asia
+47,bgd,Bangladesh,2014,36.23924,3067.032884,15329075,South Asia
+48,ben,Benin,2001,35.76724,1703.01513,1252444,West & Central Africa
+49,ben,Benin,2002,37.12082589,1712.888461,1283158.171,West & Central Africa
+50,ben,Benin,2003,38.52563729,1722.819034,1314625.557,West & Central Africa
+51,ben,Benin,2004,39.98361277,1732.807179,1346864.631,West & Central Africa
+52,ben,Benin,2005,41.49676431,1742.853232,1379894.315,West & Central Africa
+53,ben,Benin,2006,43.06718,1752.957526,1413734,West & Central Africa
+54,ben,Benin,2007,41.81890553,1782.203393,1447166.601,West & Central Africa
+55,ben,Benin,2008,40.60681149,1811.937189,1481389.831,West & Central Africa
+56,ben,Benin,2009,39.42984921,1842.167056,1516422.387,West & Central Africa
+57,ben,Benin,2010,38.28700043,1872.901269,1552283.409,West & Central Africa
+58,ben,Benin,2011,37.17727638,1904.148244,1588992.487,West & Central Africa
+59,ben,Benin,2012,36.09971697,1935.916535,1626569.678,West & Central Africa
+60,ben,Benin,2013,35.05338993,1968.21484,1665035.51,West & Central Africa
+61,ben,Benin,2014,34.03739,2001.052,1704411,West & Central Africa
+62,ben,Benin,2015,33.82812607,2023.542697,1749004.436,West & Central Africa
+63,ben,Benin,2016,33.62014871,2046.286177,1794764.594,West & Central Africa
+64,ben,Benin,2017,33.41345,2069.28528,1841722,West & Central Africa
+65,bfa,Burkina Faso,1998,41.49161,1040.667438,2113626,West & Central Africa
+66,bfa,Burkina Faso,1999,41.86159839,1067.710436,2160872.614,West & Central Africa
+67,bfa,Burkina Faso,2000,42.23488603,1095.456179,2209175.349,West & Central Africa
+68,bfa,Burkina Faso,2001,42.61150235,1123.922929,2258557.811,West & Central Africa
+69,bfa,Burkina Faso,2002,42.99147702,1153.129421,2309044.136,West & Central Africa
+70,bfa,Burkina Faso,2003,43.37484,1183.09488,2360659,West & Central Africa
+71,bfa,Burkina Faso,2004,42.88567069,1222.697785,2426811.247,West & Central Africa
+72,bfa,Burkina Faso,2005,42.4020181,1263.626357,2494817.264,West & Central Africa
+73,bfa,Burkina Faso,2006,41.92382,1305.924971,2564729,West & Central Africa
+74,bfa,Burkina Faso,2007,40.0314409,1334.346773,2631620.291,West & Central Africa
+75,bfa,Burkina Faso,2008,38.224481,1363.387139,2700256.189,West & Central Africa
+76,bfa,Burkina Faso,2009,36.49908458,1393.059531,2770682.196,West & Central Africa
+77,bfa,Burkina Faso,2010,34.85157,1423.377706,2842945,West & Central Africa
+78,khm,Cambodia,2000,49.74035,1384.627309,1574657,East Asia & the Pacific
+79,khm,Cambodia,2001,48.23573022,1485.619757,1565904.848,East Asia & the Pacific
+80,khm,Cambodia,2002,46.7766244,1593.978428,1557201.342,East Asia & the Pacific
+81,khm,Cambodia,2003,45.36165578,1710.240603,1548546.211,East Asia & the Pacific
+82,khm,Cambodia,2004,43.98948923,1834.98275,1539939.186,East Asia & the Pacific
+83,khm,Cambodia,2005,42.65883,1968.823385,1531380,East Asia & the Pacific
+84,khm,Cambodia,2006,42.10641707,2068.832188,1558465.017,East Asia & the Pacific
+85,khm,Cambodia,2007,41.56115764,2173.921061,1586029.077,East Asia & the Pacific
+86,khm,Cambodia,2008,41.02295908,2284.348052,1614080.654,East Asia & the Pacific
+87,khm,Cambodia,2009,40.49172995,2400.384317,1642628.37,East Asia & the Pacific
+88,khm,Cambodia,2010,39.96738,2522.314788,1671681,East Asia & the Pacific
+89,khm,Cambodia,2011,37.99073872,2660.798098,1692915.468,East Asia & the Pacific
+90,khm,Cambodia,2012,36.11185493,2806.884594,1714419.666,East Asia & the Pacific
+91,khm,Cambodia,2013,34.32589389,2960.991714,1736197.02,East Asia & the Pacific
+92,khm,Cambodia,2014,32.62826,3123.559819,1758251,East Asia & the Pacific
+93,cmr,Cameroon,2004,35.55818,2799.099397,2899398,West & Central Africa
+94,cmr,Cameroon,2005,35.94039578,2798.579386,2989252.666,West & Central Africa
+95,cmr,Cameroon,2006,36.32672,2798.059471,3081892,West & Central Africa
+96,cmr,Cameroon,2007,35.56170619,2820.918547,3157249.904,West & Central Africa
+97,cmr,Cameroon,2008,34.81280301,2843.964372,3234450.446,West & Central Africa
+98,cmr,Cameroon,2009,34.07967117,2867.198473,3313538.683,West & Central Africa
+99,cmr,Cameroon,2010,33.36197855,2890.622388,3394560.772,West & Central Africa
+100,cmr,Cameroon,2011,32.6594,2914.237667,3477564,West & Central Africa
+101,cmr,Cameroon,2012,32.35390804,2985.749512,3543563.494,West & Central Africa
+102,cmr,Cameroon,2013,32.05127362,3059.016171,3610815.57,West & Central Africa
+103,cmr,Cameroon,2014,31.75147,3134.080704,3679344,West & Central Africa
+104,tcd,Chad,1996,44.60755,1027.246238,1515242,West & Central Africa
+105,tcd,Chad,1997,44.62025608,1084.100765,1563491.731,West & Central Africa
+106,tcd,Chad,1998,44.63296577,1144.101994,1613277.873,West & Central Africa
+107,tcd,Chad,1999,44.64567909,1207.424083,1664649.353,West & Central Africa
+108,tcd,Chad,2000,44.65839602,1274.250831,1717656.65,West & Central Africa
+109,tcd,Chad,2001,44.67111658,1344.776208,1772351.854,West & Central Africa
+110,tcd,Chad,2002,44.68384076,1419.204921,1828788.713,West & Central Africa
+111,tcd,Chad,2003,44.69656857,1497.753006,1887022.687,West & Central Africa
+112,tcd,Chad,2004,44.7093,1580.648456,1947111,West & Central Africa
+113,tcd,Chad,2005,43.75626991,1631.977703,2001037.122,West & Central Africa
+114,tcd,Chad,2006,42.82355476,1684.973793,2056456.752,West & Central Africa
+115,tcd,Chad,2007,41.91072149,1739.690852,2113411.254,West & Central Africa
+116,tcd,Chad,2008,41.01734632,1796.184769,2171943.137,West & Central Africa
+117,tcd,Chad,2009,40.14301447,1854.513242,2232096.087,West & Central Africa
+118,tcd,Chad,2010,39.28732,1914.735848,2293915,West & Central Africa
+119,tcd,Chad,2011,39.48630317,1950.616908,2367027.031,West & Central Africa
+120,tcd,Chad,2012,39.68629415,1987.170359,2442469.3,West & Central Africa
+121,tcd,Chad,2013,39.88729805,2024.4088,2520316.077,West & Central Africa
+122,tcd,Chad,2014,40.08932,2062.345069,2600644,West & Central Africa
+123,col,Colombia,1995,19.53138,8745.973889,4351073,Latin America & Caribbean
+124,col,Colombia,1996,19.25060458,8678.386927,4310429.35,Latin America & Caribbean
+125,col,Colombia,1997,18.97386548,8611.322262,4270165.355,Latin America & Caribbean
+126,col,Colombia,1998,18.70110468,8544.775858,4230277.468,Latin America & Caribbean
+127,col,Colombia,1999,18.43226497,8478.74371,4190762.177,Latin America & Caribbean
+128,col,Colombia,2000,18.16729,8413.221844,4151616,Latin America & Caribbean
+129,col,Colombia,2001,17.6450185,8590.677994,4143832.469,Latin America & Caribbean
+130,col,Colombia,2002,17.1377612,8771.877144,4136063.531,Latin America & Caribbean
+131,col,Colombia,2003,16.64508649,8956.898243,4128309.158,Latin America & Caribbean
+132,col,Colombia,2004,16.16657515,9145.821905,4120569.324,Latin America & Caribbean
+133,col,Colombia,2005,15.70182,9338.730446,4112844,Latin America & Caribbean
+134,col,Colombia,2006,15.03349131,9642.023267,4075400.608,Latin America & Caribbean
+135,col,Colombia,2007,14.39360921,9955.166092,4038298.102,Latin America & Caribbean
+136,col,Colombia,2008,13.78096291,10278.47882,4001533.377,Latin America & Caribbean
+137,col,Colombia,2009,13.19439314,10612.29173,3965103.359,Latin America & Caribbean
+138,col,Colombia,2010,12.63279,10956.94585,3929005,Latin America & Caribbean
+139,cog,"Congo, Rep.",2005,30.75212,4867.922658,615452,West & Central Africa
+140,cog,"Congo, Rep.",2006,29.60398262,4945.726999,636729.1994,West & Central Africa
+141,cog,"Congo, Rep.",2007,28.4987112,5024.774892,658741.9869,West & Central Africa
+142,cog,"Congo, Rep.",2008,27.43470534,5105.086213,681515.7931,West & Central Africa
+143,cog,"Congo, Rep.",2009,26.41042439,5186.681155,705076.9277,West & Central Africa
+144,cog,"Congo, Rep.",2010,25.4243852,5269.580235,729452.6099,West & Central Africa
+145,cog,"Congo, Rep.",2011,24.47516,5353.804296,754671,West & Central Africa
+146,cog,"Congo, Rep.",2012,23.36391291,5465.158227,773934.7555,West & Central Africa
+147,cog,"Congo, Rep.",2013,22.30311983,5578.828211,793690.2382,West & Central Africa
+148,cog,"Congo, Rep.",2014,21.29049,5694.862421,813950,West & Central Africa
+149,civ,Cote d'Ivoire,1998,31.0078,3170.407545,2757551,West & Central Africa
+150,civ,Cote d'Ivoire,1999,32.01637703,3101.940387,2803387.454,West & Central Africa
+151,civ,Cote d'Ivoire,2000,33.0577596,3034.951824,2849985.809,West & Central Africa
+152,civ,Cote d'Ivoire,2001,34.13301476,2969.409925,2897358.73,West & Central Africa
+153,civ,Cote d'Ivoire,2002,35.24324426,2905.28345,2945519.09,West & Central Africa
+154,civ,Cote d'Ivoire,2003,36.38958572,2842.541831,2994479.98,West & Central Africa
+155,civ,Cote d'Ivoire,2004,37.57321372,2781.15516,3044254.706,West & Central Africa
+156,civ,Cote d'Ivoire,2005,38.79534106,2721.094178,3094856.795,West & Central Africa
+157,civ,Cote d'Ivoire,2006,40.05722,2662.330254,3146300,West & Central Africa
+158,civ,Cote d'Ivoire,2007,37.84443964,2628.093953,3216221.753,West & Central Africa
+159,civ,Cote d'Ivoire,2008,35.75389434,2594.297916,3287697.41,West & Central Africa
+160,civ,Cote d'Ivoire,2009,33.77883178,2560.936479,3360761.506,West & Central Africa
+161,civ,Cote d'Ivoire,2010,31.91287264,2528.004054,3435449.341,West & Central Africa
+162,civ,Cote d'Ivoire,2011,30.14999,2495.495125,3511797,West & Central Africa
+163,civ,Cote d'Ivoire,2012,28.24782824,2653.967569,3578942.772,West & Central Africa
+164,civ,Cote d'Ivoire,2013,26.4656738,2822.503554,3647372.376,West & Central Africa
+165,civ,Cote d'Ivoire,2014,24.79595541,3001.742147,3717110.358,West & Central Africa
+166,civ,Cote d'Ivoire,2015,23.2315795,3192.363003,3788181.735,West & Central Africa
+167,civ,Cote d'Ivoire,2016,21.7659,3395.088932,3860612,West & Central Africa
+168,dom,Dominican Republic,1996,13.47786,6853.019091,1032126,Latin America & Caribbean
+169,dom,Dominican Republic,1997,13.11197566,7119.602347,1030453.405,Latin America & Caribbean
+170,dom,Dominican Republic,1998,12.75602401,7396.555724,1028783.521,Latin America & Caribbean
+171,dom,Dominican Republic,1999,12.4097354,7684.282621,1027116.342,Latin America & Caribbean
+172,dom,Dominican Republic,2000,12.0728475,7983.202128,1025451.866,Latin America & Caribbean
+173,dom,Dominican Republic,2001,11.74510513,8293.749639,1023790.086,Latin America & Caribbean
+174,dom,Dominican Republic,2002,11.42626,8616.377485,1022131,Latin America & Caribbean
+175,dom,Dominican Republic,2003,11.08019491,8955.914118,1031557.904,Latin America & Caribbean
+176,dom,Dominican Republic,2004,10.74461102,9308.830518,1041071.751,Latin America & Caribbean
+177,dom,Dominican Republic,2005,10.41919091,9675.653927,1050673.341,Latin America & Caribbean
+178,dom,Dominican Republic,2006,10.10362674,10056.93237,1060363.486,Latin America & Caribbean
+179,dom,Dominican Republic,2007,9.79762,10453.23545,1070143,Latin America & Caribbean
+180,dom,Dominican Republic,2008,9.28387594,10723.51114,1069024.247,Latin America & Caribbean
+181,dom,Dominican Republic,2009,8.79707036,11000.77499,1067906.663,Latin America & Caribbean
+182,dom,Dominican Republic,2010,8.33579072,11285.2077,1066790.248,Latin America & Caribbean
+183,dom,Dominican Republic,2011,7.89869855,11576.99461,1065675,Latin America & Caribbean
+184,dom,Dominican Republic,2012,7.48452557,11876.32587,1064560.918,Latin America & Caribbean
+185,dom,Dominican Republic,2013,7.09207,12183.39656,1063448,Latin America & Caribbean
+186,ecu,Ecuador,2004,32.62551,8258.675845,1515492,Latin America & Caribbean
+187,ecu,Ecuador,2005,31.49685657,8488.417449,1526259.883,Latin America & Caribbean
+188,ecu,Ecuador,2006,30.407248,8724.550053,1537104.273,Latin America & Caribbean
+189,ecu,Ecuador,2007,29.35533357,8967.251445,1548025.716,Latin America & Caribbean
+190,ecu,Ecuador,2008,28.33980927,9216.704356,1559024.757,Latin America & Caribbean
+191,ecu,Ecuador,2009,27.35941623,9473.0966,1570101.949,Latin America & Caribbean
+192,ecu,Ecuador,2010,26.4129391,9736.621219,1581257.847,Latin America & Caribbean
+193,ecu,Ecuador,2011,25.49920459,10007.47662,1592493.009,Latin America & Caribbean
+194,ecu,Ecuador,2012,24.61708,10285.86674,1603808,Latin America & Caribbean
+195,egy,Egypt,1995,33.69555,6282.192519,8510313,Middle East & North Africa
+196,egy,Egypt,1996,32.41237477,6446.798828,8558147.772,Middle East & North Africa
+197,egy,Egypt,1997,31.17806471,6615.718159,8606251.413,Middle East & North Africa
+198,egy,Egypt,1998,29.99075896,6789.063522,8654625.435,Middle East & North Africa
+199,egy,Egypt,1999,28.84866752,6966.95089,8703271.358,Middle East & North Africa
+200,egy,Egypt,2000,27.75006858,7149.49927,8752190.71,Middle East & North Africa
+201,egy,Egypt,2001,26.69330587,7336.830792,8801385.028,Middle East & North Africa
+202,egy,Egypt,2002,25.67678622,7529.070783,8850855.857,Middle East & North Africa
+203,egy,Egypt,2003,24.6989771,7726.347856,8900604.752,Middle East & North Africa
+204,egy,Egypt,2004,23.75840437,7928.793992,8950633.276,Middle East & North Africa
+205,egy,Egypt,2005,22.85365,8136.544631,9000943,Middle East & North Africa
+206,egy,Egypt,2006,24.71517993,8555.918395,9140927.319,Middle East & North Africa
+207,egy,Egypt,2007,26.72833962,8996.907519,9283088.699,Middle East & North Africa
+208,egy,Egypt,2008,28.90548,9460.626105,9427461,Middle East & North Africa
+209,egy,Egypt,2009,27.67743565,9553.62003,9811914.66,Middle East & North Africa
+210,egy,Egypt,2010,26.50156456,9647.528047,10212046.41,Middle East & North Africa
+211,egy,Egypt,2011,25.37565014,9742.359139,10628495.62,Middle East & North Africa
+212,egy,Egypt,2012,24.29757001,9838.122381,11061927.7,Middle East & North Africa
+213,egy,Egypt,2013,23.26529193,9934.826934,11513035.22,Middle East & North Africa
+214,egy,Egypt,2014,22.27687,10032.48205,11982539,Middle East & North Africa
+215,slv,El Salvador,1993,29.20642,4977.81928,764618,Latin America & Caribbean
+216,slv,El Salvador,1994,29.79397182,5081.267288,766159.5714,Latin America & Caribbean
+217,slv,El Salvador,1995,30.39334354,5186.865132,767704.2509,Latin America & Caribbean
+218,slv,El Salvador,1996,31.00477296,5294.657488,769252.0446,Latin America & Caribbean
+219,slv,El Salvador,1997,31.62850263,5404.689962,770802.9589,Latin America & Caribbean
+220,slv,El Salvador,1998,32.26478,5517.009109,772357,Latin America & Caribbean
+221,slv,El Salvador,1999,30.14605669,5557.20322,750340.9058,Latin America & Caribbean
+222,slv,El Salvador,2000,28.16646306,5597.690165,728952.3821,Latin America & Caribbean
+223,slv,El Salvador,2001,26.31686291,5638.472078,708173.5398,Latin America & Caribbean
+224,slv,El Salvador,2002,24.58872,5679.551107,687987,Latin America & Caribbean
+225,slv,El Salvador,2003,23.47760516,5779.844297,674519.7334,Latin America & Caribbean
+226,slv,El Salvador,2004,22.41669936,5881.908529,661316.087,Latin America & Caribbean
+227,slv,El Salvador,2005,21.40373376,5985.775078,648370.9004,Latin America & Caribbean
+228,slv,El Salvador,2006,20.43654204,6091.47577,635679.1144,Latin America & Caribbean
+229,slv,El Salvador,2007,19.51305578,6199.042992,623235.7687,Latin America & Caribbean
+230,slv,El Salvador,2008,18.6313,6308.509707,611036,Latin America & Caribbean
+231,slv,El Salvador,2009,17.68938804,6395.390612,606594.7424,Latin America & Caribbean
+232,slv,El Salvador,2010,16.79509477,6483.468042,602185.7656,Latin America & Caribbean
+233,slv,El Salvador,2011,15.94601281,6572.758476,597808.835,Latin America & Caribbean
+234,slv,El Salvador,2012,15.13985649,6663.27862,593463.7178,Latin America & Caribbean
+235,slv,El Salvador,2013,14.37445569,6755.045408,589150.1826,Latin America & Caribbean
+236,slv,El Salvador,2014,13.64775,6848.076011,584868,Latin America & Caribbean
+237,eth,Ethiopia,2000,57.7006,621.1598171,12409891,Eastern & Southern Africa
+238,eth,Ethiopia,2001,56.26267208,642.6021336,12617829.29,Eastern & Southern Africa
+239,eth,Ethiopia,2002,54.86057805,664.7846346,12829251.77,Eastern & Southern Africa
+240,eth,Ethiopia,2003,53.49342491,687.7328712,13044216.8,Eastern & Southern Africa
+241,eth,Ethiopia,2004,52.1603419,711.4732766,13262783.76,Eastern & Southern Africa
+242,eth,Ethiopia,2005,50.86048,736.0331961,13485013,Eastern & Southern Africa
+243,eth,Ethiopia,2006,49.72358944,794.1870089,13578138.19,Eastern & Southern Africa
+244,eth,Ethiopia,2007,48.61211193,856.935541,13671906.48,Eastern & Southern Africa
+245,eth,Ethiopia,2008,47.52547942,924.6418201,13766322.32,Eastern & Southern Africa
+246,eth,Ethiopia,2009,46.46313654,997.6975566,13861390.18,Eastern & Southern Africa
+247,eth,Ethiopia,2010,45.42454033,1076.52541,13957114.56,Eastern & Southern Africa
+248,eth,Ethiopia,2011,44.40916,1161.581434,14053500,Eastern & Southern Africa
+249,eth,Ethiopia,2012,43.15690502,1241.077963,14271375.1,Eastern & Southern Africa
+250,eth,Ethiopia,2013,41.93996128,1326.015091,14492627.98,Eastern & Southern Africa
+251,eth,Ethiopia,2014,40.75733308,1416.765162,14717311,Eastern & Southern Africa
+252,eth,Ethiopia,2015,39.60805276,1513.726003,14945477.34,Eastern & Southern Africa
+253,eth,Ethiopia,2016,38.49118,1617.322669,15177181,Eastern & Southern Africa
+254,gab,Gabon,2000,25.48416,17822.49224,185356,West & Central Africa
+255,gab,Gabon,2001,24.6416683,17683.59886,189844.9166,West & Central Africa
+256,gab,Gabon,2002,23.82702889,17545.78789,194442.5449,West & Central Africa
+257,gab,Gabon,2003,23.039321,17409.05091,199151.5177,West & Central Africa
+258,gab,Gabon,2004,22.27765427,17273.37954,203974.5316,West & Central Africa
+259,gab,Gabon,2005,21.54116781,17138.76547,208914.3482,West & Central Africa
+260,gab,Gabon,2006,20.82902917,17005.20048,213973.7964,West & Central Africa
+261,gab,Gabon,2007,20.14043342,16872.67637,219155.7734,West & Central Africa
+262,gab,Gabon,2008,19.47460225,16741.18505,224463.2465,West & Central Africa
+263,gab,Gabon,2009,18.83078308,16610.71846,229899.255,West & Central Africa
+264,gab,Gabon,2010,18.2082482,16481.26861,235466.9117,West & Central Africa
+265,gab,Gabon,2011,17.60629397,16352.82759,241169.4049,West & Central Africa
+266,gab,Gabon,2012,17.02424,16225.38752,247010,West & Central Africa
+267,gmb,Gambia,2005,27.65474,1434.3891,279808,West & Central Africa
+268,gmb,Gambia,2006,26.75208678,1457.098516,285681.3951,West & Central Africa
+269,gmb,Gambia,2007,25.87889624,1480.16747,291678.0774,West & Central Africa
+270,gmb,Gambia,2008,25.03420672,1503.601655,297800.635,West & Central Africa
+271,gmb,Gambia,2009,24.21708795,1527.406853,304051.71,West & Central Africa
+272,gmb,Gambia,2010,23.42664,1551.588937,310434,West & Central Africa
+273,gmb,Gambia,2011,23.83852903,1534.372708,318624.3428,West & Central Africa
+274,gmb,Gambia,2012,24.25765992,1517.347509,327030.7758,West & Central Africa
+275,gmb,Gambia,2013,24.68416,1500.511218,335659,West & Central Africa
+276,gha,Ghana,1998,30.59253,2152.758512,2916815,West & Central Africa
+277,gha,Ghana,1999,31.47294593,2192.201371,2959370.788,West & Central Africa
+278,gha,Ghana,2000,32.37869917,2232.366904,3002547.458,West & Central Africa
+279,gha,Ghana,2001,33.31051889,2273.268349,3046354.067,West & Central Africa
+280,gha,Ghana,2002,34.26915525,2314.919191,3090799.806,West & Central Africa
+281,gha,Ghana,2003,35.25538,2357.33316,3135894,West & Central Africa
+282,gha,Ghana,2004,32.79039685,2435.840753,3190209.783,West & Central Africa
+283,gha,Ghana,2005,30.49776023,2516.962929,3245466.351,West & Central Africa
+284,gha,Ghana,2006,28.36542,2600.786762,3301680,West & Central Africa
+285,gha,Ghana,2007,28.15856576,2704.916113,3377878.225,West & Central Africa
+286,gha,Ghana,2008,27.95322,2813.214556,3455835,West & Central Africa
+287,gha,Ghana,2009,26.17457658,2987.402105,3544415.112,West & Central Africa
+288,gha,Ghana,2010,24.50910697,3172.374933,3635265.713,West & Central Africa
+289,gha,Ghana,2011,22.94961,3368.800837,3728445,West & Central Africa
+290,gha,Ghana,2012,21.46703629,3504.119059,3805131.885,West & Central Africa
+291,gha,Ghana,2013,20.08023871,3644.872753,3883396.071,West & Central Africa
+292,gha,Ghana,2014,18.78303,3791.280251,3963270,West & Central Africa
+293,gtm,Guatemala,1995,55.56767,5598.113779,1766975,Latin America & Caribbean
+294,gtm,Guatemala,1996,55.03418459,5698.378536,1802133.46,Latin America & Caribbean
+295,gtm,Guatemala,1997,54.50582098,5800.439079,1837991.487,Latin America & Caribbean
+296,gtm,Guatemala,1998,53.98253,5904.327573,1874563,Latin America & Caribbean
+297,gtm,Guatemala,1999,54.17128766,5966.64197,1888692.934,Latin America & Caribbean
+298,gtm,Guatemala,2000,54.36070534,6029.614034,1902929.376,Latin America & Caribbean
+299,gtm,Guatemala,2001,54.55078535,6093.250707,1917273.129,Latin America & Caribbean
+300,gtm,Guatemala,2002,54.74153,6157.559002,1931725,Latin America & Caribbean
+301,gtm,Guatemala,2003,53.56366553,6257.467355,1935793.352,Latin America & Caribbean
+302,gtm,Guatemala,2004,52.41114498,6358.996753,1939870.273,Latin America & Caribbean
+303,gtm,Guatemala,2005,51.28342302,6462.173498,1943955.78,Latin America & Caribbean
+304,gtm,Guatemala,2006,50.17996607,6567.024318,1948049.892,Latin America & Caribbean
+305,gtm,Guatemala,2007,49.10025202,6673.576376,1952152.625,Latin America & Caribbean
+306,gtm,Guatemala,2008,48.04377,6781.857275,1956264,Latin America & Caribbean
+307,gtm,Guatemala,2009,47.82492288,6841.482246,1962508.128,Latin America & Caribbean
+308,gtm,Guatemala,2010,47.60707263,6901.631429,1968772.187,Latin America & Caribbean
+309,gtm,Guatemala,2011,47.39021474,6962.309434,1975056.239,Latin America & Caribbean
+310,gtm,Guatemala,2012,47.17434466,7023.52091,1981360.349,Latin America & Caribbean
+311,gtm,Guatemala,2013,46.95945791,7085.270547,1987684.582,Latin America & Caribbean
+312,gtm,Guatemala,2014,46.74555,7147.563077,1994029,Latin America & Caribbean
+313,gin,Guinea,1999,30.60392,1515.645665,1524316,West & Central Africa
+314,gin,Guinea,2000,31.89224203,1529.097322,1546095.239,West & Central Africa
+315,gin,Guinea,2001,33.23479809,1542.668366,1568185.657,West & Central Africa
+316,gin,Guinea,2002,34.63387123,1556.359855,1590591.7,West & Central Africa
+317,gin,Guinea,2003,36.09184065,1570.172859,1613317.878,West & Central Africa
+318,gin,Guinea,2004,37.61118567,1584.108455,1636368.765,West & Central Africa
+319,gin,Guinea,2005,39.19449,1598.167734,1659749,West & Central Africa
+320,gin,Guinea,2006,37.92335161,1623.437611,1687802.976,West & Central Africa
+321,gin,Guinea,2007,36.69343823,1649.107051,1716331.136,West & Central Africa
+322,gin,Guinea,2008,35.50341285,1675.18237,1745341.495,West & Central Africa
+323,gin,Guinea,2009,34.35198185,1701.669986,1774842.202,West & Central Africa
+324,gin,Guinea,2010,33.23789355,1728.576418,1804841.546,West & Central Africa
+325,gin,Guinea,2011,32.15993687,1755.90829,1835347.955,West & Central Africa
+326,gin,Guinea,2012,31.11694,1783.672326,1866370,West & Central Africa
+327,gin,Guinea,2013,31.43691076,1837.136447,1894842.789,West & Central Africa
+328,gin,Guinea,2014,31.76017174,1892.20311,1923749.951,West & Central Africa
+329,gin,Guinea,2015,32.08675676,1948.920353,1953098.112,West & Central Africa
+330,gin,Guinea,2016,32.4167,2007.337648,1982894,West & Central Africa
+331,hti,Haiti,1994,36.84824,1571.908797,1177202,Latin America & Caribbean
+332,hti,Haiti,1995,35.34626421,1601.335564,1184010.623,Latin America & Caribbean
+333,hti,Haiti,1996,33.90551065,1631.313213,1190858.625,Latin America & Caribbean
+334,hti,Haiti,1997,32.52348383,1661.852055,1197746.234,Latin America & Caribbean
+335,hti,Haiti,1998,31.19778998,1692.962597,1204673.679,Latin America & Caribbean
+336,hti,Haiti,1999,29.9261329,1724.655541,1211641.19,Latin America & Caribbean
+337,hti,Haiti,2000,28.70631,1756.941789,1218649,Latin America & Caribbean
+338,hti,Haiti,2001,28.84343175,1718.624341,1220399.961,Latin America & Caribbean
+339,hti,Haiti,2002,28.98120848,1681.142565,1222153.438,Latin America & Caribbean
+340,hti,Haiti,2003,29.11964334,1644.478236,1223909.435,Latin America & Caribbean
+341,hti,Haiti,2004,29.25873946,1608.613525,1225667.954,Latin America & Caribbean
+342,hti,Haiti,2005,29.3985,1573.530993,1227429,Latin America & Caribbean
+343,hti,Haiti,2006,28.21101176,1575.97949,1231098.216,Latin America & Caribbean
+344,hti,Haiti,2007,27.07148952,1578.431797,1234778.4,Latin America & Caribbean
+345,hti,Haiti,2008,25.97799579,1580.887919,1238469.585,Latin America & Caribbean
+346,hti,Haiti,2009,24.92867136,1583.347864,1242171.805,Latin America & Caribbean
+347,hti,Haiti,2010,23.92173209,1585.811636,1245885.092,Latin America & Caribbean
+348,hti,Haiti,2011,22.95546594,1588.279242,1249609.479,Latin America & Caribbean
+349,hti,Haiti,2012,22.02823,1590.750688,1253345,Latin America & Caribbean
+350,hti,Haiti,2013,22.00766873,1606.646723,1248042.951,Latin America & Caribbean
+351,hti,Haiti,2014,21.98712665,1622.701604,1242763.331,Latin America & Caribbean
+352,hti,Haiti,2015,21.96660375,1638.916918,1237506.045,Latin America & Caribbean
+353,hti,Haiti,2016,21.9461,1655.294268,1232271,Latin America & Caribbean
+354,hnd,Honduras,1991,19.54998,3013.99652,892590,Latin America & Caribbean
+355,hnd,Honduras,1992,20.54413487,3041.801846,903645.3266,Latin America & Caribbean
+356,hnd,Honduras,1993,21.58884446,3069.863687,914837.5808,Latin America & Caribbean
+357,hnd,Honduras,1994,22.68667958,3098.184409,926168.4586,Latin America & Caribbean
+358,hnd,Honduras,1995,23.84034178,3126.766402,937639.6769,Latin America & Caribbean
+359,hnd,Honduras,1996,25.05266997,3155.612075,949252.974,Latin America & Caribbean
+360,hnd,Honduras,1997,26.32664742,3184.723861,961010.1096,Latin America & Caribbean
+361,hnd,Honduras,1998,27.66540913,3214.104215,972912.8652,Latin America & Caribbean
+362,hnd,Honduras,1999,29.0722495,3243.755614,984963.0444,Latin America & Caribbean
+363,hnd,Honduras,2000,30.55063046,3273.680559,997162.4731,Latin America & Caribbean
+364,hnd,Honduras,2001,32.10419,3303.881574,1009513,Latin America & Caribbean
+365,hnd,Honduras,2002,31.55383144,3388.310189,1014665.174,Latin America & Caribbean
+366,hnd,Honduras,2003,31.01290762,3474.896323,1019843.642,Latin America & Caribbean
+367,hnd,Honduras,2004,30.48125679,3563.695111,1025048.539,Latin America & Caribbean
+368,hnd,Honduras,2005,29.95872,3654.763097,1030280,Latin America & Caribbean
+369,hnd,Honduras,2006,28.59491426,3707.759999,1021191.056,Latin America & Caribbean
+370,hnd,Honduras,2007,27.29319283,3761.525398,1012182.294,Latin America & Caribbean
+371,hnd,Honduras,2008,26.05072943,3816.070436,1003253.005,Latin America & Caribbean
+372,hnd,Honduras,2009,24.86482649,3871.40642,994402.4885,Latin America & Caribbean
+373,hnd,Honduras,2010,23.73290921,3927.544818,985630.0498,Latin America & Caribbean
+374,hnd,Honduras,2011,22.65252,3984.497267,976935,Latin America & Caribbean
+375,ind,India,2005,48.02872,3411.017064,129854049,South Asia
+376,ind,India,2006,46.91355511,3593.458301,128984429.1,South Asia
+377,ind,India,2007,45.82428291,3785.657567,128120632.9,South Asia
+378,ind,India,2008,44.7603022,3988.136779,127262621.4,South Asia
+379,ind,India,2009,43.72102575,4201.445769,126410356,South Asia
+380,ind,India,2010,42.70587996,4426.163778,125563798.2,South Asia
+381,ind,India,2011,41.71430454,4662.901026,124722909.6,South Asia
+382,ind,India,2012,40.74575223,4912.300373,123887652.4,South Asia
+383,ind,India,2013,39.79968845,5175.039063,123057988.8,South Asia
+384,ind,India,2014,38.87559105,5451.830562,122233881.4,South Asia
+385,ind,India,2015,37.97295,5743.426497,121415293,South Asia
+386,jor,Jordan,1997,10.96821,6870.768683,722151,Middle East & North Africa
+387,jor,Jordan,1998,11.06433818,7037.457274,728545.7402,Middle East & North Africa
+388,jor,Jordan,1999,11.16130886,7208.18982,734997.1066,Middle East & North Africa
+389,jor,Jordan,2000,11.25912941,7383.064432,741505.6008,Middle East & North Africa
+390,jor,Jordan,2001,11.35780729,7562.181596,748071.7284,Middle East & North Africa
+391,jor,Jordan,2002,11.45735,7745.644241,754696,Middle East & North Africa
+392,jor,Jordan,2003,11.01786132,7851.44407,782580.0458,Middle East & North Africa
+393,jor,Jordan,2004,10.59523084,7958.689048,811494.3343,Middle East & North Africa
+394,jor,Jordan,2005,10.1888119,8067.398914,841476.9302,Middle East & North Africa
+395,jor,Jordan,2006,9.79798265,8177.593677,872567.3048,Middle East & North Africa
+396,jor,Jordan,2007,9.42214509,8289.293619,904806.3874,Middle East & North Africa
+397,jor,Jordan,2008,9.06072416,8402.519302,938236.62,Middle East & North Africa
+398,jor,Jordan,2009,8.71316686,8517.291564,972902.0123,Middle East & North Africa
+399,jor,Jordan,2010,8.37894139,8633.631531,1008848.2,Middle East & North Africa
+400,jor,Jordan,2011,8.05753636,8751.560617,1046122.506,Middle East & North Africa
+401,jor,Jordan,2012,7.74846,8871.100527,1084774,Middle East & North Africa
+402,kaz,Kazakhstan,1999,13.22445,9036.156102,1139462,Eastern Europe & Central Asia
+403,kaz,Kazakhstan,2000,13.76083099,9934.312638,1162865.797,Eastern Europe & Central Asia
+404,kaz,Kazakhstan,2001,14.31896748,10921.74222,1186750.293,Eastern Europe & Central Asia
+405,kaz,Kazakhstan,2002,14.89974188,12007.31821,1211125.361,Eastern Europe & Central Asia
+406,kaz,Kazakhstan,2003,15.50407236,13200.79597,1236001.077,Eastern Europe & Central Asia
+407,kaz,Kazakhstan,2004,16.13291437,14512.90048,1261387.723,Eastern Europe & Central Asia
+408,kaz,Kazakhstan,2005,16.78726208,15955.42275,1287295.794,Eastern Europe & Central Asia
+409,kaz,Kazakhstan,2006,17.46815,17541.32577,1313736,Eastern Europe & Central Asia
+410,kaz,Kazakhstan,2007,16.24981454,18147.93606,1381444.629,Eastern Europe & Central Asia
+411,kaz,Kazakhstan,2008,15.11645324,18775.524,1452642.892,Eastern Europe & Central Asia
+412,kaz,Kazakhstan,2009,14.06213948,19424.81506,1527510.642,Eastern Europe & Central Asia
+413,kaz,Kazakhstan,2010,13.08136,20096.55976,1606237,Eastern Europe & Central Asia
+414,kaz,Kazakhstan,2011,11.86686583,20739.57404,1676736.552,Eastern Europe & Central Asia
+415,kaz,Kazakhstan,2012,10.76512722,21403.16236,1750330.409,Eastern Europe & Central Asia
+416,kaz,Kazakhstan,2013,9.76567577,22087.98301,1827154.383,Eastern Europe & Central Asia
+417,kaz,Kazakhstan,2014,8.85901497,22794.71534,1907350.248,Eastern Europe & Central Asia
+418,kaz,Kazakhstan,2015,8.03653,23524.06044,1991066,Eastern Europe & Central Asia
+419,ken,Kenya,1993,39.89281,2152.378582,4565426,Eastern & Southern Africa
+420,ken,Kenya,1994,39.45225147,2144.702332,4682513.21,Eastern & Southern Africa
+421,ken,Kenya,1995,39.01655827,2137.053459,4802603.298,Eastern & Southern Africa
+422,ken,Kenya,1996,38.58567668,2129.431864,4925773.276,Eastern & Southern Africa
+423,ken,Kenya,1997,38.15955355,2121.837451,5052102.133,Eastern & Southern Africa
+424,ken,Kenya,1998,37.73813634,2114.270123,5181670.884,Eastern & Southern Africa
+425,ken,Kenya,1999,37.32137307,2106.729783,5314562.62,Eastern & Southern Africa
+426,ken,Kenya,2000,36.90921235,2099.216335,5450862.565,Eastern & Southern Africa
+427,ken,Kenya,2001,36.50160335,2091.729683,5590658.126,Eastern & Southern Africa
+428,ken,Kenya,2002,36.0984958,2084.269731,5734038.955,Eastern & Southern Africa
+429,ken,Kenya,2003,35.69984,2076.836385,5881097,Eastern & Southern Africa
+430,ken,Kenya,2004,35.61518951,2119.186583,6020971.943,Eastern & Southern Africa
+431,ken,Kenya,2005,35.53073974,2162.400373,6164173.645,Eastern & Southern Africa
+432,ken,Kenya,2006,35.44649021,2206.495366,6310781.232,Eastern & Southern Africa
+433,ken,Kenya,2007,35.36244046,2251.489529,6460875.706,Eastern & Southern Africa
+434,ken,Kenya,2008,35.27859,2297.4012,6614540,Eastern & Southern Africa
+435,ken,Kenya,2009,33.57307712,2362.002462,6669368.502,Eastern & Southern Africa
+436,ken,Kenya,2010,31.95001579,2428.420265,6724651.482,Eastern & Southern Africa
+437,ken,Kenya,2011,30.40541995,2496.705689,6780392.708,Eastern & Southern Africa
+438,ken,Kenya,2012,28.93549626,2566.91125,6836595.978,Eastern & Southern Africa
+439,ken,Kenya,2013,27.53663476,2639.09094,6893265.121,Eastern & Southern Africa
+440,ken,Kenya,2014,26.2054,2713.300271,6950404,Eastern & Southern Africa
+441,kgz,Kyrgyz Republic,2005,18.09735,2370.166045,495771,Eastern Europe & Central Asia
+442,kgz,Kyrgyz Republic,2006,18.06361334,2435.441329,518526.3674,Eastern Europe & Central Asia
+443,kgz,Kyrgyz Republic,2007,18.02993957,2502.51432,542326.1822,Eastern Europe & Central Asia
+444,kgz,Kyrgyz Republic,2008,17.99632858,2571.434526,567218.3835,Eastern Europe & Central Asia
+445,kgz,Kyrgyz Republic,2009,17.96278024,2642.252822,593253.1107,Eastern Europe & Central Asia
+446,kgz,Kyrgyz Republic,2010,17.92929444,2715.02148,620482.8044,Eastern Europe & Central Asia
+447,kgz,Kyrgyz Republic,2011,17.89587107,2789.794215,648962.3125,Eastern Europe & Central Asia
+448,kgz,Kyrgyz Republic,2012,17.86251,2866.626221,678749,Eastern Europe & Central Asia
+449,kgz,Kyrgyz Republic,2013,15.19104116,3017.779462,705013.8289,Eastern Europe & Central Asia
+450,kgz,Kyrgyz Republic,2014,12.91911,3176.902804,732295,Eastern Europe & Central Asia
+451,kgz,Kyrgyz Republic,2015,12.617276,3242.373759,782384.2133,Eastern Europe & Central Asia
+452,kgz,Kyrgyz Republic,2016,12.32249386,3309.193968,835899.545,Eastern Europe & Central Asia
+453,kgz,Kyrgyz Republic,2017,12.03459883,3377.391235,893075.3425,Eastern Europe & Central Asia
+454,kgz,Kyrgyz Republic,2018,11.75343,3446.99394,954161.9829,Eastern Europe & Central Asia
+455,lso,Lesotho,2004,44.10841,1840.360963,260186,Eastern & Southern Africa
+456,lso,Lesotho,2005,43.06985767,1922.049195,259130.0639,Eastern & Southern Africa
+457,lso,Lesotho,2006,42.05575852,2007.363328,258078.4132,Eastern & Southern Africa
+458,lso,Lesotho,2007,41.06553678,2096.464305,257031.0306,Eastern & Southern Africa
+459,lso,Lesotho,2008,40.09863027,2189.520214,255987.8986,Eastern & Southern Africa
+460,lso,Lesotho,2009,39.15449,2286.706602,254949,Eastern & Southern Africa
+461,lso,Lesotho,2010,37.9243278,2383.130584,259034.5436,Eastern & Southern Africa
+462,lso,Lesotho,2011,36.73281504,2483.620495,263185.5578,Eastern & Southern Africa
+463,lso,Lesotho,2012,35.57873742,2588.347782,267403.0918,Eastern & Southern Africa
+464,lso,Lesotho,2013,34.46091881,2697.491125,271688.2115,Eastern & Southern Africa
+465,lso,Lesotho,2014,33.37822,2811.236735,276042,Eastern & Southern Africa
+466,mkd,"Macedonia, FYR",2005,11.45757,9385.983301,124035,Eastern Europe & Central Asia
+467,mkd,"Macedonia, FYR",2006,9.96140279,9724.77699,121749.2456,Eastern Europe & Central Asia
+468,mkd,"Macedonia, FYR",2007,8.66061001,10075.79968,119505.6137,Eastern Europe & Central Asia
+469,mkd,"Macedonia, FYR",2008,7.52967904,10439.49278,117303.3282,Eastern Europe & Central Asia
+470,mkd,"Macedonia, FYR",2009,6.54642876,10816.31363,115141.627,Eastern Europe & Central Asia
+471,mkd,"Macedonia, FYR",2010,5.69157454,11206.7361,113019.7623,Eastern Europe & Central Asia
+472,mkd,"Macedonia, FYR",2011,4.94835,11611.25115,110937,Eastern Europe & Central Asia
+473,mwi,Malawi,2000,54.41096,883.621426,2080159,Eastern & Southern Africa
+474,mwi,Malawi,2001,53.83906915,878.2656826,2129831.778,Eastern & Southern Africa
+475,mwi,Malawi,2002,53.27318921,872.942401,2180690.709,Eastern & Southern Africa
+476,mwi,Malawi,2003,52.713257,867.6513845,2232764.116,Eastern & Southern Africa
+477,mwi,Malawi,2004,52.15921,862.3924375,2286081,Eastern & Southern Africa
+478,mwi,Malawi,2005,52.60746386,873.2041327,2349747.457,Eastern & Southern Africa
+479,mwi,Malawi,2006,53.05957,884.1513726,2415187,Eastern & Southern Africa
+480,mwi,Malawi,2007,51.57638356,928.9739706,2488355.829,Eastern & Southern Africa
+481,mwi,Malawi,2008,50.13465697,976.0688778,2563741.329,Eastern & Southern Africa
+482,mwi,Malawi,2009,48.7332313,1025.55129,2641410.657,Eastern & Southern Africa
+483,mwi,Malawi,2010,47.37098,1077.542244,2721433,Eastern & Southern Africa
+484,mwi,Malawi,2011,45.66730249,1088.792387,2765244.895,Eastern & Southern Africa
+485,mwi,Malawi,2012,44.02489703,1100.159988,2809762.11,Eastern & Southern Africa
+486,mwi,Malawi,2013,42.44156,1111.646274,2854996,Eastern & Southern Africa
+487,mwi,Malawi,2014,39.88401039,1126.994326,2871384.463,Eastern & Southern Africa
+488,mwi,Malawi,2015,37.48058,1142.554283,2887867,Eastern & Southern Africa
+489,mli,Mali,2001,41.85968,1642.352916,2143647,West & Central Africa
+490,mli,Mali,2002,40.98959969,1670.18474,2223536.299,West & Central Africa
+491,mli,Mali,2003,40.13760455,1698.488211,2306402.907,West & Central Africa
+492,mli,Mali,2004,39.30331868,1727.271321,2392357.783,West & Central Africa
+493,mli,Mali,2005,38.48637398,1756.542199,2481516.02,West & Central Africa
+494,mli,Mali,2006,37.68641,1786.30911,2573997,West & Central Africa
+495,mli,Mali,2007,34.05530401,1802.712177,2688051.564,West & Central Africa
+496,mli,Mali,2008,30.77405704,1819.265867,2807159.919,West & Central Africa
+497,mli,Mali,2009,27.80896,1835.971565,2931546,West & Central Africa
+498,mli,Mali,2010,30.89450992,1826.603884,2972034.672,West & Central Africa
+499,mli,Mali,2011,34.32241779,1817.283999,3013082.549,West & Central Africa
+500,mli,Mali,2012,38.13067,1808.011668,3054697.353,West & Central Africa
+501,mli,Mali,2013,35.60358959,1845.374997,3126161.95,West & Central Africa
+502,mli,Mali,2014,33.24398947,1883.510456,3199298.461,West & Central Africa
+503,mli,Mali,2015,31.04077,1922.434,3274146,West & Central Africa
+504,mda,Moldova,2005,10.35691,4004.122343,205401,Eastern Europe & Central Asia
+505,mda,Moldova,2006,9.67168901,4131.300636,208173.0641,Eastern Europe & Central Asia
+506,mda,Moldova,2007,9.03180275,4262.518345,210982.5396,Eastern Europe & Central Asia
+507,mda,Moldova,2008,8.43425186,4397.90377,213829.9314,Eastern Europe & Central Asia
+508,mda,Moldova,2009,7.87623538,4537.589286,216715.7512,Eastern Europe & Central Asia
+509,mda,Moldova,2010,7.35513769,4681.71147,219640.5176,Eastern Europe & Central Asia
+510,mda,Moldova,2011,6.86851622,4830.41124,222604.7563,Eastern Europe & Central Asia
+511,mda,Moldova,2012,6.41409,4983.833988,225609,Eastern Europe & Central Asia
+512,mng,Mongolia,2005,27.47821,6047.187393,221603,East Asia & the Pacific
+513,mng,Mongolia,2006,24.43933598,6344.627605,232268.543,East Asia & the Pacific
+514,mng,Mongolia,2007,21.73653754,6656.697871,243447.4086,East Asia & the Pacific
+515,mng,Mongolia,2008,19.33264736,6984.117792,255164.3023,East Asia & the Pacific
+516,mng,Mongolia,2009,17.19460854,7327.642367,267445.1191,East Asia & the Pacific
+517,mng,Mongolia,2010,15.29302,7688.063725,280317,East Asia & the Pacific
+518,mng,Mongolia,2011,13.62303742,8576.401851,298096.7668,East Asia & the Pacific
+519,mng,Mongolia,2012,12.13541528,9567.385409,317004.2573,East Asia & the Pacific
+520,mng,Mongolia,2013,10.81024,10672.87484,337111,East Asia & the Pacific
+521,mne,Montenegro,2005,7.98141,11761.23348,40302,Eastern Europe & Central Asia
+522,mne,Montenegro,2006,8.14565346,12078.40184,40074.03767,Eastern Europe & Central Asia
+523,mne,Montenegro,2007,8.31327676,12404.12336,39847.36478,Eastern Europe & Central Asia
+524,mne,Montenegro,2008,8.48434946,12738.62871,39621.97403,Eastern Europe & Central Asia
+525,mne,Montenegro,2009,8.65894253,13082.15475,39397.85817,Eastern Europe & Central Asia
+526,mne,Montenegro,2010,8.83712842,13434.94475,39175.00998,Eastern Europe & Central Asia
+527,mne,Montenegro,2011,9.01898107,13797.24853,38953.42231,Eastern Europe & Central Asia
+528,mne,Montenegro,2012,9.20457593,14169.32266,38733.08801,Eastern Europe & Central Asia
+529,mne,Montenegro,2013,9.39399,14551.43061,38514,Eastern Europe & Central Asia
+530,moz,Mozambique,2003,47.04119,685.5591156,3613880,Eastern & Southern Africa
+531,moz,Mozambique,2004,46.35334012,720.5773838,3714409.285,Eastern & Southern Africa
+532,moz,Mozambique,2005,45.67554817,757.3843804,3817735.048,Eastern & Southern Africa
+533,moz,Mozambique,2006,45.0076671,796.0714734,3923935.081,Eastern & Southern Africa
+534,moz,Mozambique,2007,44.34955197,836.7346981,4033089.339,Eastern & Southern Africa
+535,moz,Mozambique,2008,43.70106,879.4749948,4145280,Eastern & Southern Africa
+536,moz,Mozambique,2009,43.46044091,913.1647209,4242430.678,Eastern & Southern Africa
+537,moz,Mozambique,2010,43.22114668,948.1449869,4341858.224,Eastern & Southern Africa
+538,moz,Mozambique,2011,42.98317,984.4652292,4443616,Eastern & Southern Africa
+539,nam,Namibia,2000,28.9984,6538.53991,276686,Eastern & Southern Africa
+540,nam,Namibia,2001,28.99191304,6777.229226,277483.7279,Eastern & Southern Africa
+541,nam,Namibia,2002,28.98542753,7024.631893,278283.7558,Eastern & Southern Africa
+542,nam,Namibia,2003,28.97894347,7281.065991,279086.0903,Eastern & Southern Africa
+543,nam,Namibia,2004,28.97246087,7546.861212,279890.7381,Eastern & Southern Africa
+544,nam,Namibia,2005,28.96597971,7822.359285,280697.7057,Eastern & Southern Africa
+545,nam,Namibia,2006,28.9595,8107.914411,281507,Eastern & Southern Africa
+546,nam,Namibia,2007,27.97511449,8305.90937,286446.915,Eastern & Southern Africa
+547,nam,Namibia,2008,27.02419001,8508.739359,291473.5162,Eastern & Southern Africa
+548,nam,Namibia,2009,26.10558916,8716.522448,296588.3248,Eastern & Southern Africa
+549,nam,Namibia,2010,25.21821321,8929.379592,301792.8885,Eastern & Southern Africa
+550,nam,Namibia,2011,24.36100077,9147.4347,307088.7825,Eastern & Southern Africa
+551,nam,Namibia,2012,23.53292652,9370.814705,312477.6094,Eastern & Southern Africa
+552,nam,Namibia,2013,22.733,9599.649641,317961,Eastern & Southern Africa
+553,npl,Nepal,2001,57.24019,1573.447459,3585483,South Asia
+554,npl,Nepal,2002,55.55057061,1600.329642,3544323.402,South Asia
+555,npl,Nepal,2003,53.91082551,1627.671104,3503636.295,South Asia
+556,npl,Nepal,2004,52.3194825,1655.479692,3463416.257,South Asia
+557,npl,Nepal,2005,50.77511285,1683.763387,3423657.925,South Asia
+558,npl,Nepal,2006,49.27633,1712.530306,3384356,South Asia
+559,npl,Nepal,2007,47.38396373,1775.698563,3325800.524,South Asia
+560,npl,Nepal,2008,45.56427028,1841.196838,3268258.164,South Asia
+561,npl,Nepal,2009,43.81445879,1909.111078,3211711.39,South Asia
+562,npl,Nepal,2010,42.13184557,1979.530397,3156142.978,South Asia
+563,npl,Nepal,2011,40.51385,2052.547197,3101536,South Asia
+564,npl,Nepal,2012,39.47961266,2158.010059,3017940.076,South Asia
+565,npl,Nepal,2013,38.47177732,2268.891756,2936597.32,South Asia
+566,npl,Nepal,2014,37.48967,2385.470716,2857447,South Asia
+567,npl,Nepal,2015,36.57665738,2416.056316,2806408.18,South Asia
+568,npl,Nepal,2016,35.68588,2447.034074,2756281,South Asia
+569,nga,Nigeria,2003,42.36424,3731.463251,23033519,West & Central Africa
+570,nga,Nigeria,2004,42.46884195,3893.124999,23688087.96,West & Central Africa
+571,nga,Nigeria,2005,42.57370218,4061.790573,24361258.53,West & Central Africa
+572,nga,Nigeria,2006,42.67882131,4237.763407,25053559.32,West & Central Africa
+573,nga,Nigeria,2007,42.7842,4421.360081,25765534,West & Central Africa
+574,nga,Nigeria,2008,40.63606,4596.999232,26394364,West & Central Africa
+575,nga,Nigeria,2009,39.03678451,4794.045034,27047982.79,West & Central Africa
+576,nga,Nigeria,2010,37.50045022,4999.53701,27717787.51,West & Central Africa
+577,nga,Nigeria,2011,36.02458,5213.837194,28404179,West & Central Africa
+578,nga,Nigeria,2012,36.27748228,5352.337407,29089456.52,West & Central Africa
+579,nga,Nigeria,2013,36.53216,5494.516734,29791267,West & Central Africa
+580,nga,Nigeria,2014,38.80299685,5479.273194,30446818.56,West & Central Africa
+581,nga,Nigeria,2015,41.21498879,5464.071944,31116795.42,West & Central Africa
+582,nga,Nigeria,2016,43.77691,5448.912867,31801515,West & Central Africa
+583,per,Peru,1996,31.57455,6215.624754,3063740,Latin America & Caribbean
+584,per,Peru,1997,31.46371528,6268.067871,3050060.403,Latin America & Caribbean
+585,per,Peru,1998,31.35326961,6320.953466,3036441.886,Latin America & Caribbean
+586,per,Peru,1999,31.24321164,6374.285274,3022884.175,Latin America & Caribbean
+587,per,Peru,2000,31.13354,6428.067058,3009387,Latin America & Caribbean
+588,per,Peru,2001,30.75317275,6633.949728,2999646.348,Latin America & Caribbean
+589,per,Peru,2002,30.37745255,6846.426553,2989937.223,Latin America & Caribbean
+590,per,Peru,2003,30.00632263,7065.708736,2980259.525,Latin America & Caribbean
+591,per,Peru,2004,29.63972692,7292.014243,2970613.151,Latin America & Caribbean
+592,per,Peru,2005,29.27761,7525.568023,2960998,Latin America & Caribbean
+593,per,Peru,2006,28.910387,8062.046871,2956515.106,Latin America & Caribbean
+594,per,Peru,2007,28.54777,8636.769948,2952039,Latin America & Caribbean
+595,per,Peru,2008,27.50954,9349.357653,2952039,Latin America & Caribbean
+596,per,Peru,2009,23.8164,9376.196709,2946076,Latin America & Caribbean
+597,per,Peru,2010,23.31755,10075.2258,2950506,Latin America & Caribbean
+598,per,Peru,2011,19.5396,10626.07713,2957457,Latin America & Caribbean
+599,per,Peru,2012,18.36296,11185.80881,2972648,Latin America & Caribbean
+600,per,Peru,2013,17.6847,11734.20114,2993023,Latin America & Caribbean
+601,per,Peru,2014,14.82588,11887.38971,3010662,Latin America & Caribbean
+602,per,Peru,2015,14.70145,12121.20473,3020032,Latin America & Caribbean
+603,per,Peru,2016,13.12984,12415.19566,3032582,Latin America & Caribbean
+604,per,Peru,2017,12.83533,12518.1634,3026862,Latin America & Caribbean
+605,per,Peru,2018,12.17302,12794.21271,3041951.776,Latin America & Caribbean
+606,rwa,Rwanda,2000,48.34622,803.3700014,1312971,Eastern & Southern Africa
+607,rwa,Rwanda,2001,48.82476424,849.7130316,1340093.458,Eastern & Southern Africa
+608,rwa,Rwanda,2002,49.30804524,898.7293959,1367776.193,Eastern & Southern Africa
+609,rwa,Rwanda,2003,49.79610989,950.5733078,1396030.779,Eastern & Southern Africa
+610,rwa,Rwanda,2004,50.28900553,1005.407876,1424869.029,Eastern & Southern Africa
+611,rwa,Rwanda,2005,50.78678,1063.40562,1454303,Eastern & Southern Africa
+612,rwa,Rwanda,2006,49.42357449,1122.952752,1489986.235,Eastern & Southern Africa
+613,rwa,Rwanda,2007,48.09695978,1185.834323,1526545.006,Eastern & Southern Africa
+614,rwa,Rwanda,2008,46.80595372,1252.237049,1564000.794,Eastern & Southern Africa
+615,rwa,Rwanda,2009,45.54960051,1322.358105,1602375.609,Eastern & Southern Africa
+616,rwa,Rwanda,2010,44.32697,1396.405704,1641692,Eastern & Southern Africa
+617,rwa,Rwanda,2011,42.72950928,1460.702957,1664428.061,Eastern & Southern Africa
+618,rwa,Rwanda,2012,41.18961804,1527.960767,1687478.997,Eastern & Southern Africa
+619,rwa,Rwanda,2013,39.70522159,1598.31545,1710849.17,Eastern & Southern Africa
+620,rwa,Rwanda,2014,38.27432,1671.909602,1734543,Eastern & Southern Africa
+621,sen,Senegal,2005,19.2881,2682.443304,1870068,West & Central Africa
+622,sen,Senegal,2006,20.8688788,2700.840928,1940253.825,West & Central Africa
+623,sen,Senegal,2007,22.57921217,2719.364732,2013073.805,West & Central Africa
+624,sen,Senegal,2008,24.42971792,2738.015583,2088626.804,West & Central Africa
+625,sen,Senegal,2009,26.43188403,2756.794351,2167015.395,West & Central Africa
+626,sen,Senegal,2010,28.59814,2775.701914,2248346,West & Central Africa
+627,sen,Senegal,2011,23.31704684,2788.029381,2282344.938,West & Central Africa
+628,sen,Senegal,2012,19.01119,2800.411597,2316858,West & Central Africa
+629,sen,Senegal,2013,19.01590941,2851.002489,2377357.594,West & Central Africa
+630,sen,Senegal,2014,19.02063,2902.507332,2439437,West & Central Africa
+631,sen,Senegal,2015,20.68534,3001.819107,2492790,West & Central Africa
+632,sen,Senegal,2016,17.30487,3104.244483,2544313,West & Central Africa
+633,sen,Senegal,2017,16.71247,3232.310165,2583824,West & Central Africa
+634,srb,Serbia,2005,8.15179,10836.03296,533213,Eastern Europe & Central Asia
+635,srb,Serbia,2006,7.81063541,11300.57998,523915.144,Eastern Europe & Central Asia
+636,srb,Serbia,2007,7.48375823,11785.0424,514779.4186,Eastern Europe & Central Asia
+637,srb,Serbia,2008,7.17056094,12290.27401,505802.9966,Eastern Europe & Central Asia
+638,srb,Serbia,2009,6.87047105,12817.16518,496983.1002,Eastern Europe & Central Asia
+639,srb,Serbia,2010,6.58294,13366.64449,488317,Eastern Europe & Central Asia
+640,srb,Serbia,2011,6.42662764,13528.41998,483575.8983,Eastern Europe & Central Asia
+641,srb,Serbia,2012,6.27402692,13692.15341,478880.8284,Eastern Europe & Central Asia
+642,srb,Serbia,2013,6.12504973,13857.86851,474231.3431,Eastern Europe & Central Asia
+643,srb,Serbia,2014,5.97961,14025.58924,469627,Eastern Europe & Central Asia
+644,sle,Sierra Leone,2005,46.95837,1063.908464,991441,West & Central Africa
+645,sle,Sierra Leone,2006,43.13057311,1095.777818,1015922.506,West & Central Africa
+646,sle,Sierra Leone,2007,39.6147979,1128.601817,1041008.53,West & Central Africa
+647,sle,Sierra Leone,2008,36.38561,1162.409058,1066714,West & Central Africa
+648,sle,Sierra Leone,2009,40.40264604,1185.009188,1078913.737,West & Central Africa
+649,sle,Sierra Leone,2010,44.86317,1208.048721,1091253,West & Central Africa
+650,sle,Sierra Leone,2011,42.45781408,1345.50856,1101807.914,West & Central Africa
+651,sle,Sierra Leone,2012,40.18142223,1498.609496,1112464.918,West & Central Africa
+652,sle,Sierra Leone,2013,38.02708,1669.131278,1123225,West & Central Africa
+653,sle,Sierra Leone,2014,36.13983223,1598.429521,1161278.858,West & Central Africa
+654,sle,Sierra Leone,2015,34.34624678,1530.722578,1200621.947,West & Central Africa
+655,sle,Sierra Leone,2016,32.64167526,1465.883595,1241297.944,West & Central Africa
+656,sle,Sierra Leone,2017,31.0217,1403.791088,1283352.008,West & Central Africa
+657,tjk,Tajikistan,2005,33.07045,1720.930886,858597,Eastern Europe & Central Asia
+658,tjk,Tajikistan,2006,32.10933205,1800.297663,889447.2469,Eastern Europe & Central Asia
+659,tjk,Tajikistan,2007,31.17614683,1883.324718,921405.9739,Eastern Europe & Central Asia
+660,tjk,Tajikistan,2008,30.27008253,1970.180857,954513.0098,Eastern Europe & Central Asia
+661,tjk,Tajikistan,2009,29.39035094,2061.042673,988809.6146,Eastern Europe & Central Asia
+662,tjk,Tajikistan,2010,28.53618676,2156.0949,1024338.531,Eastern Europe & Central Asia
+663,tjk,Tajikistan,2011,27.70684694,2255.530796,1061144.036,Eastern Europe & Central Asia
+664,tjk,Tajikistan,2012,26.90161,2359.552527,1099272,Eastern Europe & Central Asia
+665,tjk,Tajikistan,2013,24.68866202,2462.915435,1117641.71,Eastern Europe & Central Asia
+666,tjk,Tajikistan,2014,22.65775291,2570.806275,1136318.392,Eastern Europe & Central Asia
+667,tjk,Tajikistan,2015,20.79390801,2683.423397,1155307.176,Eastern Europe & Central Asia
+668,tjk,Tajikistan,2016,19.08338449,2800.973841,1174613.278,Eastern Europe & Central Asia
+669,tjk,Tajikistan,2017,17.51357,2923.673718,1194242,Eastern Europe & Central Asia
+670,tza,Tanzania,1996,49.49245,1462.638297,5507290,Eastern & Southern Africa
+671,tza,Tanzania,1997,49.06775613,1486.143147,5612608.121,Eastern & Southern Africa
+672,tza,Tanzania,1998,48.64670656,1510.025725,5719940.282,Eastern & Southern Africa
+673,tza,Tanzania,1999,48.22927,1534.292099,5829325,Eastern & Southern Africa
+674,tza,Tanzania,2000,47.41422189,1588.829453,6021528.727,Eastern & Southern Africa
+675,tza,Tanzania,2001,46.61294765,1645.30537,6220069.77,Eastern & Southern Africa
+676,tza,Tanzania,2002,45.8252145,1703.788759,6425157.082,Eastern & Southern Africa
+677,tza,Tanzania,2003,45.05079361,1764.350975,6637006.506,Eastern & Southern Africa
+678,tza,Tanzania,2004,44.28946,1827.065912,6855841,Eastern & Southern Africa
+679,tza,Tanzania,2005,43.93412011,1888.483337,7067160.248,Eastern & Southern Africa
+680,tza,Tanzania,2006,43.58163116,1951.965329,7284993.04,Eastern & Southern Africa
+681,tza,Tanzania,2007,43.23197027,2017.581289,7509540.146,Eastern & Southern Africa
+682,tza,Tanzania,2008,42.88511476,2085.402951,7741008.521,Eastern & Southern Africa
+683,tza,Tanzania,2009,42.54104211,2155.504461,7979611.502,Eastern & Southern Africa
+684,tza,Tanzania,2010,42.19973,2227.962456,8225569,Eastern & Southern Africa
+685,tza,Tanzania,2011,40.53391295,2300.202383,8451513.584,Eastern & Southern Africa
+686,tza,Tanzania,2012,38.93385334,2374.784633,8683664.541,Eastern & Southern Africa
+687,tza,Tanzania,2013,37.39695543,2451.785154,8922192.352,Eastern & Southern Africa
+688,tza,Tanzania,2014,35.92072594,2531.282355,9167272.18,Eastern & Southern Africa
+689,tza,Tanzania,2015,34.50277,2613.357191,9419084,Eastern & Southern Africa
+690,tha,Thailand,2005,15.74124,11527.01257,4187655,East Asia & the Pacific
+691,tha,Thailand,2006,15.81817278,11905.24694,4163266.429,East Asia & the Pacific
+692,tha,Thailand,2007,15.89548155,12295.89227,4139019.896,East Asia & the Pacific
+693,tha,Thailand,2008,15.97316816,12699.35579,4114914.572,East Asia & the Pacific
+694,tha,Thailand,2009,16.05123445,13116.05811,4090949.636,East Asia & the Pacific
+695,tha,Thailand,2010,16.12968227,13546.43362,4067124.27,East Asia & the Pacific
+696,tha,Thailand,2011,16.2085135,13990.931,4043437.66,East Asia & the Pacific
+697,tha,Thailand,2012,16.28773,14450.0136,4019889,East Asia & the Pacific
+698,tha,Thailand,2013,14.10829811,14713.96454,3934003.443,East Asia & the Pacific
+699,tha,Thailand,2014,12.22049209,14982.73692,3849952.844,East Asia & the Pacific
+700,tha,Thailand,2015,10.58529,15256.41884,3767698,East Asia & the Pacific
+701,uga,Uganda,1995,44.99453,922.4003535,4142047,Eastern & Southern Africa
+702,uga,Uganda,1996,44.87774736,949.6695705,4273475.755,Eastern & Southern Africa
+703,uga,Uganda,1997,44.76126782,977.7449562,4409074.794,Eastern & Southern Africa
+704,uga,Uganda,1998,44.6450906,1006.650343,4548976.444,Eastern & Southern Africa
+705,uga,Uganda,1999,44.52921493,1036.41027,4693317.228,Eastern & Southern Africa
+706,uga,Uganda,2000,44.41364,1067.049999,4842238,Eastern & Southern Africa
+707,uga,Uganda,2001,43.28444394,1110.156877,5009389.244,Eastern & Southern Africa
+708,uga,Uganda,2002,42.18395715,1155.005194,5182310.451,Eastern & Southern Africa
+709,uga,Uganda,2003,41.11144973,1201.665302,5361200.799,Eastern & Southern Africa
+710,uga,Uganda,2004,40.06621031,1250.210394,5546266.337,Eastern & Southern Africa
+711,uga,Uganda,2005,39.04754562,1300.716618,5737720.23,Eastern & Southern Africa
+712,uga,Uganda,2006,38.05478,1353.263203,5935783,Eastern & Southern Africa
+713,uga,Uganda,2007,37.11070157,1413.072555,6101256.32,Eastern & Southern Africa
+714,uga,Uganda,2008,36.19004423,1475.525265,6271342.581,Eastern & Southern Africa
+715,uga,Uganda,2009,35.29222693,1540.73816,6446170.38,Eastern & Southern Africa
+716,uga,Uganda,2010,34.41668304,1608.83323,6625871.898,Eastern & Southern Africa
+717,uga,Uganda,2011,33.56286,1679.937855,6810583,Eastern & Southern Africa
+718,uga,Uganda,2012,32.57159924,1697.095592,6979643.778,Eastern & Southern Africa
+719,uga,Uganda,2013,31.60961483,1714.428565,7152901.194,Eastern & Southern Africa
+720,uga,Uganda,2014,30.67604211,1731.938566,7330459.421,Eastern & Southern Africa
+721,uga,Uganda,2015,29.77004194,1749.627402,7512425.22,Eastern & Southern Africa
+722,uga,Uganda,2016,28.8908,1767.4969,7698908,Eastern & Southern Africa
+723,zmb,Zambia,1996,48.56297,2108.910953,1722218,Eastern & Southern Africa
+724,zmb,Zambia,1997,49.33642694,2123.223577,1788359.938,Eastern & Southern Africa
+725,zmb,Zambia,1998,50.12220265,2137.633336,1857042.063,Eastern & Southern Africa
+726,zmb,Zambia,1999,50.92049331,2152.140891,1928361.932,Eastern & Southern Africa
+727,zmb,Zambia,2000,51.73149826,2166.746905,2002420.846,Eastern & Southern Africa
+728,zmb,Zambia,2001,52.55542,2181.452046,2079324,Eastern & Southern Africa
+729,zmb,Zambia,2002,51.28823044,2273.839575,2121017.713,Eastern & Southern Africa
+730,zmb,Zambia,2003,50.05159471,2370.139844,2163547.451,Eastern & Southern Africa
+731,zmb,Zambia,2004,48.84477611,2470.518564,2206929.976,Eastern & Southern Africa
+732,zmb,Zambia,2005,47.6670557,2575.148461,2251182.39,Eastern & Southern Africa
+733,zmb,Zambia,2006,46.5177319,2684.209581,2296322.133,Eastern & Southern Africa
+734,zmb,Zambia,2007,45.39612,2797.889591,2342367,Eastern & Southern Africa
+735,zmb,Zambia,2008,44.45836682,2922.110236,2387458.727,Eastern & Southern Africa
+736,zmb,Zambia,2009,43.53998492,3051.846026,2433418.492,Eastern & Southern Africa
+737,zmb,Zambia,2010,42.64057414,3187.341823,2480263.006,Eastern & Southern Africa
+738,zmb,Zambia,2011,41.75974261,3328.853361,2528009.299,Eastern & Southern Africa
+739,zmb,Zambia,2012,40.89710651,3476.647724,2576674.733,Eastern & Southern Africa
+740,zmb,Zambia,2013,40.05229,3631.003858,2626277,Eastern & Southern Africa
+741,zwe,Zimbabwe,1999,32.40062,3054.064189,1817125,Eastern & Southern Africa
+742,zwe,Zimbabwe,2000,32.75472613,2839.967097,1838699.557,Eastern & Southern Africa
+743,zwe,Zimbabwe,2001,33.11270228,2640.878716,1860530.266,Eastern & Southern Africa
+744,zwe,Zimbabwe,2002,33.47459075,2455.746899,1882620.169,Eastern & Southern Africa
+745,zwe,Zimbabwe,2003,33.8404343,2283.593258,1904972.344,Eastern & Southern Africa
+746,zwe,Zimbabwe,2004,34.21027615,2123.507993,1927589.904,Eastern & Southern Africa
+747,zwe,Zimbabwe,2005,34.58416,1974.645081,1950476,Eastern & Southern Africa
+748,zwe,Zimbabwe,2006,34.71218238,1883.056379,2001013.904,Eastern & Southern Africa
+749,zwe,Zimbabwe,2007,34.84067867,1795.715777,2052861.273,Eastern & Southern Africa
+750,zwe,Zimbabwe,2008,34.96965062,1712.426239,2106052.036,Eastern & Southern Africa
+751,zwe,Zimbabwe,2009,35.0991,1632.999866,2160621,Eastern & Southern Africa
+752,zwe,Zimbabwe,2010,32.20553,1928.017081,2225702,Eastern & Southern Africa
+753,zwe,Zimbabwe,2011,30.98323148,2058.731272,2283555.218,Eastern & Southern Africa
+754,zwe,Zimbabwe,2012,29.80732293,2198.307521,2342912.229,Eastern & Southern Africa
+755,zwe,Zimbabwe,2013,28.67604371,2347.346651,2403812.122,Eastern & Southern Africa
+756,zwe,Zimbabwe,2014,27.5877,2506.49022,2466295,Eastern & Southern Africa
+757,zwe,Zimbabwe,2015,27.11531,2509.00814,2505484,Eastern & Southern Africa

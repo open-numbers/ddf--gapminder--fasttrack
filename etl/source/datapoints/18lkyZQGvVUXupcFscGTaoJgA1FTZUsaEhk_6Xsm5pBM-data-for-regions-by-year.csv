@@ -1,0 +1,121 @@
+,geo,name,time,Share refugees,Refugee diaspora rate of origin population
+0,africa,Africa,1990,0.9359,0.9132
+1,africa,Africa,1991,0.8164,0.7999
+2,africa,Africa,1992,0.8270,0.8179
+3,africa,Africa,1993,0.9425,0.9293
+4,africa,Africa,1994,0.9668,0.9692
+5,africa,Africa,1995,0.8340,0.7884
+6,africa,Africa,1996,0.5940,0.5961
+7,africa,Africa,1997,0.4636,0.4725
+8,africa,Africa,1998,0.4337,0.4444
+9,africa,Africa,1999,0.4458,0.4597
+10,africa,Africa,2000,0.4479,0.4675
+11,africa,Africa,2001,0.3958,0.4196
+12,africa,Africa,2002,0.3934,0.4176
+13,africa,Africa,2003,0.3601,0.3830
+14,africa,Africa,2004,0.3387,0.3635
+15,africa,Africa,2005,0.3026,0.3414
+16,africa,Africa,2006,0.2781,0.3269
+17,africa,Africa,2007,0.2598,0.2886
+18,africa,Africa,2008,0.2366,0.2690
+19,africa,Africa,2009,0.2274,0.2658
+20,africa,Africa,2010,0.2321,0.2728
+21,africa,Africa,2011,0.2746,0.3188
+22,africa,Africa,2012,0.2808,0.3259
+23,africa,Africa,2013,0.3012,0.3322
+24,africa,Africa,2014,0.3586,0.3916
+25,africa,Africa,2015,0.4075,0.4459
+26,africa,Africa,2016,0.4566,0.4993
+27,africa,Africa,2017,0.5382,0.5840
+28,africa,Africa,2018,0.5317,0.5724
+29,africa,Africa,2019,0.5208,0.5636
+30,asia,Asia,1990,0.3375,0.2680
+31,asia,Asia,1991,0.3442,0.2725
+32,asia,Asia,1992,0.3027,0.2272
+33,asia,Asia,1993,0.2481,0.1709
+34,asia,Asia,1994,0.2257,0.1484
+35,asia,Asia,1995,0.2240,0.1425
+36,asia,Asia,1996,0.2228,0.1443
+37,asia,Asia,1997,0.2221,0.1403
+38,asia,Asia,1998,0.2202,0.1330
+39,asia,Asia,1999,0.2212,0.1306
+40,asia,Asia,2000,0.2444,0.1501
+41,asia,Asia,2001,0.2553,0.1592
+42,asia,Asia,2002,0.2133,0.1250
+43,asia,Asia,2003,0.1972,0.1072
+44,asia,Asia,2004,0.2038,0.1112
+45,asia,Asia,2005,0.1974,0.1021
+46,asia,Asia,2006,0.2266,0.1299
+47,asia,Asia,2007,0.2724,0.1718
+48,asia,Asia,2008,0.2571,0.1546
+49,asia,Asia,2009,0.2545,0.1512
+50,asia,Asia,2010,0.2589,0.1509
+51,asia,Asia,2011,0.2373,0.1335
+52,asia,Asia,2012,0.2308,0.1308
+53,asia,Asia,2013,0.2523,0.1614
+54,asia,Asia,2014,0.2675,0.1999
+55,asia,Asia,2015,0.2627,0.2185
+56,asia,Asia,2016,0.2527,0.2254
+57,asia,Asia,2017,0.2690,0.2611
+58,asia,Asia,2018,0.2682,0.2684
+59,asia,Asia,2019,0.2658,0.2639
+60,europe,Europe,1990,0.1818,0.0275
+61,europe,Europe,1991,0.1874,0.0343
+62,europe,Europe,1992,0.3752,0.1844
+63,europe,Europe,1993,0.3912,0.2138
+64,europe,Europe,1994,0.3784,0.2234
+65,europe,Europe,1995,0.3621,0.2290
+66,europe,Europe,1996,0.3941,0.2730
+67,europe,Europe,1997,0.3541,0.2611
+68,europe,Europe,1998,0.3258,0.2377
+69,europe,Europe,1999,0.3263,0.2210
+70,europe,Europe,2000,0.2711,0.1787
+71,europe,Europe,2001,0.2714,0.1661
+72,europe,Europe,2002,0.2770,0.2171
+73,europe,Europe,2003,0.2672,0.1929
+74,europe,Europe,2004,0.2527,0.1717
+75,europe,Europe,2005,0.2246,0.1381
+76,europe,Europe,2006,0.2125,0.1406
+77,europe,Europe,2007,0.1938,0.0955
+78,europe,Europe,2008,0.1990,0.0974
+79,europe,Europe,2009,0.2002,0.0880
+80,europe,Europe,2010,0.1946,0.0838
+81,europe,Europe,2011,0.1881,0.0785
+82,europe,Europe,2012,0.2163,0.0762
+83,europe,Europe,2013,0.2138,0.0396
+84,europe,Europe,2014,0.3722,0.0643
+85,europe,Europe,2015,0.5229,0.0708
+86,europe,Europe,2016,0.6178,0.0591
+87,europe,Europe,2017,0.7241,0.0472
+88,europe,Europe,2018,0.7648,0.0424
+89,europe,Europe,2019,0.7744,0.0402
+90,americas,The Americas,1990,0.2519,0.0238
+91,americas,The Americas,1991,0.2163,0.0240
+92,americas,The Americas,1992,0.2225,0.0233
+93,americas,The Americas,1993,0.1242,0.0209
+94,americas,The Americas,1994,0.1217,0.0221
+95,americas,The Americas,1995,0.1125,0.0202
+96,americas,The Americas,1996,0.1064,0.0191
+97,americas,The Americas,1997,0.0971,0.0177
+98,americas,The Americas,1998,0.0891,0.0156
+99,americas,The Americas,1999,0.0863,0.0137
+100,americas,The Americas,2000,0.0812,0.0101
+101,americas,The Americas,2001,0.0813,0.0102
+102,americas,The Americas,2002,0.0772,0.0112
+103,americas,The Americas,2003,0.0726,0.0107
+104,americas,The Americas,2004,0.0688,0.0111
+105,americas,The Americas,2005,0.0642,0.0135
+106,americas,The Americas,2006,0.1165,0.0186
+107,americas,The Americas,2007,0.1098,0.0698
+108,americas,The Americas,2008,0.0883,0.0494
+109,americas,The Americas,2009,0.0883,0.0506
+110,americas,The Americas,2010,0.0865,0.0510
+111,americas,The Americas,2011,0.0860,0.0520
+112,americas,The Americas,2012,0.0850,0.0523
+113,americas,The Americas,2013,0.0842,0.0524
+114,americas,The Americas,2014,0.0795,0.0484
+115,americas,The Americas,2015,0.0765,0.0464
+116,americas,The Americas,2016,0.0703,0.0428
+117,americas,The Americas,2017,0.0648,0.0319
+118,americas,The Americas,2018,0.0642,0.0291
+119,americas,The Americas,2019,0.0695,0.0436
