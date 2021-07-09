@@ -49,10 +49,6 @@ polpartix_eiu,Political participation index(EIU),"[geo:country,time:time]","{tim
 polcultx_eiu,Political culture index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
 civlibx_eiu,Civil liberties index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
 c_demox_eiu,Change in democracy index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
-refugee_in_perc_wb,Share refugees,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",18lkyZQGvVUXupcFscGTaoJgA1FTZUsaEhk_6Xsm5pBM-data-for-countries-etc-by-year
-refugee_from_perc_wb,Refugee diaspora rate of origin population,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",18lkyZQGvVUXupcFscGTaoJgA1FTZUsaEhk_6Xsm5pBM-data-for-countries-etc-by-year
-refugee_in_perc_wb,Share refugees,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",18lkyZQGvVUXupcFscGTaoJgA1FTZUsaEhk_6Xsm5pBM-data-for-world-by-year
-refugee_in_perc_wb,Share refugees,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",18lkyZQGvVUXupcFscGTaoJgA1FTZUsaEhk_6Xsm5pBM-data-for-regions-by-year
 u5pop,Under-five population,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1-5qutEU2Fxg4t5Cx37Y1gpgOShTz-Adt5rEg1U31-S4-data-for-countries-etc-by-year
 u5stunted_prc,Stunting prevalence,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1GqwGgOnd4jMPn2cQfqOFFIVqvBoLVx9X9OsZZK-Fwq8-data-for-countries-etc-by-year
 ilevels3_wb,WB's 3 income levels,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1EO1sEiLzRNsixjOzEVyrjItZbud4BQvJR_MJydiKwIg-data-for-countries-etc-by-year
@@ -125,3 +121,8 @@ refas_prc_undesa,Refugees and asylum seekers (% of migrant stock) (UNDESA),"[geo
 ilevels4,Income levels (GM),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1G42jxiwyXRcb4_7iuOMw0t-uKls12T1XCOZW5QtZF5g-data-for-countries-etc-by-year
 int_refg_in,International refugees by asylum,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1dgGGCJTJjvGHyIE9QucbyJ7OCJ4O4uN9IO3uVZGqrrg-data-for-countries-etc-by-year
 int_refg_in_prc,International refugees (% of population ),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1dgGGCJTJjvGHyIE9QucbyJ7OCJ4O4uN9IO3uVZGqrrg-data-for-countries-etc-by-year
+unhcr_refg_in,UNHCR refugees by country of residence,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
+as_in,Asylum-seekers by country of residence,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
+unhcr_refg_from,UNHCR refugees by country of origin,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
+as_from,Asylum-seekers by country of origin,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
+idps,Internally displaced persons,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
