@@ -112,6 +112,7 @@ def download(doc, sheet_name, outfile):
         df = read_sheet(doc, sheet_name)
     except Exception as e:
         print(f"error: {e}")
+        raise
     df.to_csv(outfile, encoding='utf8')
 
 
