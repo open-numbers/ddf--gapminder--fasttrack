@@ -133,6 +133,9 @@ def process_datapoints(row, env):
     env['datapoint_and_doc_list'].append((concept_id, concept_name, dimension, table_format, fn))
     df = datapoint_dfs.setdefault(fn, load_file_preprocess(filename_full))
     by = [find_column(df, x) for x in dimension_pairs]
+    if by == [None]:
+        print(f"couldn't find column {dimension_pairs} in the spreadsheet")
+        raise ValueError("couldn't find key columns")
     columns = by.copy()
     columns.append(concept_name)
     df = df[columns].dropna(how='any').set_index(by)
