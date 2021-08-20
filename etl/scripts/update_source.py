@@ -118,10 +118,10 @@ def download(doc, sheet_name, outfile):
 
 def process(row: pd.Series, env: dict):
     """process one row in the datapoints table"""
-    flag = row['Status']
-    concept_id = row['concept_id']
-    dimensions = row['dimensions']
-    docid, sheet_name = get_docid_sheet(row['csv_link'])
+    flag = row['Status'].strip()
+    concept_id = row['concept_id'].strip()
+    dimensions = row['dimensions'].strip()
+    docid, sheet_name = get_docid_sheet(row['csv_link'].strip())
     filename = f'{docid}-{sheet_name}.csv'
     filename_full = osp.join(SOURCE_DIR, 'datapoints', filename)
     if flag in ['S', 's']:  # s for skip

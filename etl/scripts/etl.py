@@ -104,10 +104,10 @@ def load_file_preprocess(path):
 
 def process_datapoints(row, env):
     concept_id = row['concept_id']
-    concept_name = row['concept_name']
-    dimension = row['dimensions']
-    table_format = row['table_format']
-    csv_link = row['csv_link']
+    concept_name = row['concept_name'].strip()
+    dimension = row['dimensions'].strip()
+    table_format = row['table_format'].strip()
+    csv_link = row['csv_link'].strip()
     status = row['Status']
     dimension_pairs = parse_dimension_pairs(dimension)
     datapoints_prev = env['datapoints_prev'].set_index(['concept_id', 'dimensions'])
@@ -166,7 +166,7 @@ def process_datapoints(row, env):
     by_fn = [translate_dict.get(x, x) for x in by_fn]
     df.index.names = by_fn
     df.dropna().sort_index().to_csv(
-        '../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'], '--'.join(by_fn)),
+        '../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'].strip(), '--'.join(by_fn)),
         encoding='utf8')
 
 
