@@ -127,3 +127,4 @@ unhcr_refg_from,UNHCR refugees by country of origin,"[geo:country,time:time]","{
 as_from,Asylum-seekers by country of origin,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
 idps,Internally displaced persons,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
 gnicap_atm_cur,GNI per capita,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1lTLaXD5hfY_H8VjK1wCiCrKQSNfP09mosihXCP9ceOw-data-for-countries-etc-by-year
+mincpcap_cppp,Average daily income per capita,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nXQrAb6bbJmhhitrvjOtuCLtE8IxnCoJ_TxjFEJQP2M-data-for-countries-etc-by-year
