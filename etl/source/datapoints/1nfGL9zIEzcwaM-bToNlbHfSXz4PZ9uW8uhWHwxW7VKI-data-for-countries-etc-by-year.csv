@@ -1,0 +1,4612 @@
+,geo,name,time,Sustainable Development Index
+0,afg,Afghanistan,1990,32.5
+1,afg,Afghanistan,1991,33.1
+2,afg,Afghanistan,1992,34
+3,afg,Afghanistan,1993,33.5
+4,afg,Afghanistan,1994,33
+5,afg,Afghanistan,1995,35.6
+6,afg,Afghanistan,1996,36
+7,afg,Afghanistan,1997,36.6
+8,afg,Afghanistan,1998,37.1
+9,afg,Afghanistan,1999,37.5
+10,afg,Afghanistan,2000,37.7
+11,afg,Afghanistan,2001,38
+12,afg,Afghanistan,2002,41.4
+13,afg,Afghanistan,2003,42.4
+14,afg,Afghanistan,2004,44
+15,afg,Afghanistan,2005,45
+16,afg,Afghanistan,2006,46.2
+17,afg,Afghanistan,2007,48.2
+18,afg,Afghanistan,2008,48.1
+19,afg,Afghanistan,2009,49.6
+20,afg,Afghanistan,2010,50.8
+21,afg,Afghanistan,2011,51.4
+22,afg,Afghanistan,2012,52.7
+23,afg,Afghanistan,2013,53.4
+24,afg,Afghanistan,2014,53.8
+25,afg,Afghanistan,2015,53.8
+26,afg,Afghanistan,2016,54.1
+27,afg,Afghanistan,2017,54.5
+28,afg,Afghanistan,2018,54.9
+29,afg,Afghanistan,2019,55.1
+30,ago,Angola,1999,42.1
+31,ago,Angola,2000,43.1
+32,ago,Angola,2001,44.2
+33,ago,Angola,2002,45.8
+34,ago,Angola,2003,46.8
+35,ago,Angola,2004,48.1
+36,ago,Angola,2005,49.5
+37,ago,Angola,2006,50.9
+38,ago,Angola,2007,52.6
+39,ago,Angola,2008,53.9
+40,ago,Angola,2009,55.5
+41,ago,Angola,2010,55.8
+42,ago,Angola,2011,57.4
+43,ago,Angola,2012,58.6
+44,ago,Angola,2013,59.8
+45,ago,Angola,2014,60.8
+46,ago,Angola,2015,61.6
+47,ago,Angola,2016,62.2
+48,ago,Angola,2017,62.7
+49,ago,Angola,2018,62.7
+50,ago,Angola,2019,62.6
+51,alb,Albania,1990,69.9
+52,alb,Albania,1991,68
+53,alb,Albania,1992,66.2
+54,alb,Albania,1993,66.5
+55,alb,Albania,1994,67.2
+56,alb,Albania,1995,68.6
+57,alb,Albania,1996,69.5
+58,alb,Albania,1997,69.5
+59,alb,Albania,1998,70.6
+60,alb,Albania,1999,71.6
+61,alb,Albania,2000,72.3
+62,alb,Albania,2001,73
+63,alb,Albania,2002,73.7
+64,alb,Albania,2003,74.5
+65,alb,Albania,2004,74.7
+66,alb,Albania,2005,75.5
+67,alb,Albania,2006,76.3
+68,alb,Albania,2007,77.3
+69,alb,Albania,2008,77.7
+70,alb,Albania,2009,77.9
+71,alb,Albania,2010,79.6
+72,alb,Albania,2011,81.1
+73,alb,Albania,2012,82.2
+74,alb,Albania,2013,82.6
+75,alb,Albania,2014,82.6
+76,alb,Albania,2015,82.3
+77,alb,Albania,2016,82.1
+78,alb,Albania,2017,82.1
+79,alb,Albania,2018,82.3
+80,alb,Albania,2019,82.6
+81,are,United Arab Emirates,1990,46.9
+82,are,United Arab Emirates,1991,29.2
+83,are,United Arab Emirates,1992,19.4
+84,are,United Arab Emirates,1993,12.8
+85,are,United Arab Emirates,1994,10.6
+86,are,United Arab Emirates,1995,11.1
+87,are,United Arab Emirates,1996,9.9
+88,are,United Arab Emirates,1997,10.2
+89,are,United Arab Emirates,1998,10.7
+90,are,United Arab Emirates,1999,10.4
+91,are,United Arab Emirates,2000,10.5
+92,are,United Arab Emirates,2001,13.1
+93,are,United Arab Emirates,2002,12.1
+94,are,United Arab Emirates,2003,12.4
+95,are,United Arab Emirates,2004,10.9
+96,are,United Arab Emirates,2005,11.3
+97,are,United Arab Emirates,2006,12
+98,are,United Arab Emirates,2007,11.4
+99,are,United Arab Emirates,2008,12
+100,are,United Arab Emirates,2009,14.6
+101,are,United Arab Emirates,2010,14.7
+102,are,United Arab Emirates,2011,13.6
+103,are,United Arab Emirates,2012,13.2
+104,are,United Arab Emirates,2013,11.9
+105,are,United Arab Emirates,2014,11.5
+106,are,United Arab Emirates,2015,11
+107,are,United Arab Emirates,2016,10.8
+108,are,United Arab Emirates,2017,10.9
+109,are,United Arab Emirates,2018,11
+110,are,United Arab Emirates,2019,11
+111,arg,Argentina,1990,77.1
+112,arg,Argentina,1991,77.1
+113,arg,Argentina,1992,77.1
+114,arg,Argentina,1993,77.5
+115,arg,Argentina,1994,77.4
+116,arg,Argentina,1995,77.8
+117,arg,Argentina,1996,78
+118,arg,Argentina,1997,78.3
+119,arg,Argentina,1998,78
+120,arg,Argentina,1999,79.1
+121,arg,Argentina,2000,80.3
+122,arg,Argentina,2001,81.5
+123,arg,Argentina,2002,83.4
+124,arg,Argentina,2003,83.3
+125,arg,Argentina,2004,82.5
+126,arg,Argentina,2005,81.8
+127,arg,Argentina,2006,83.7
+128,arg,Argentina,2007,82.5
+129,arg,Argentina,2008,82
+130,arg,Argentina,2009,83
+131,arg,Argentina,2010,81.6
+132,arg,Argentina,2011,80.6
+133,arg,Argentina,2012,80.3
+134,arg,Argentina,2013,78.7
+135,arg,Argentina,2014,78.2
+136,arg,Argentina,2015,77.6
+137,arg,Argentina,2016,77.2
+138,arg,Argentina,2017,77.2
+139,arg,Argentina,2018,77.2
+140,arg,Argentina,2019,77.7
+141,arm,Armenia,1991,69.9
+142,arm,Armenia,1992,66.5
+143,arm,Armenia,1993,66.4
+144,arm,Armenia,1994,66.8
+145,arm,Armenia,1995,67.5
+146,arm,Armenia,1996,68.3
+147,arm,Armenia,1997,69.5
+148,arm,Armenia,1998,70.7
+149,arm,Armenia,1999,71.5
+150,arm,Armenia,2000,72
+151,arm,Armenia,2001,72.4
+152,arm,Armenia,2002,73.4
+153,arm,Armenia,2003,74.4
+154,arm,Armenia,2004,75.4
+155,arm,Armenia,2005,76.7
+156,arm,Armenia,2006,78.2
+157,arm,Armenia,2007,79.9
+158,arm,Armenia,2008,79.9
+159,arm,Armenia,2009,80
+160,arm,Armenia,2010,80.4
+161,arm,Armenia,2011,80.8
+162,arm,Armenia,2012,81.3
+163,arm,Armenia,2013,81.8
+164,arm,Armenia,2014,82
+165,arm,Armenia,2015,82.1
+166,arm,Armenia,2016,81.7
+167,arm,Armenia,2017,82
+168,arm,Armenia,2018,82.2
+169,arm,Armenia,2019,82.7
+170,atg,Antigua and Barbuda,2005,51.2
+171,atg,Antigua and Barbuda,2006,40
+172,atg,Antigua and Barbuda,2007,41.8
+173,atg,Antigua and Barbuda,2008,53.7
+174,atg,Antigua and Barbuda,2009,66.2
+175,atg,Antigua and Barbuda,2010,65.9
+176,atg,Antigua and Barbuda,2011,63
+177,atg,Antigua and Barbuda,2012,64.9
+178,atg,Antigua and Barbuda,2013,63.5
+179,atg,Antigua and Barbuda,2014,62.1
+180,atg,Antigua and Barbuda,2015,62
+181,atg,Antigua and Barbuda,2016,61.7
+182,atg,Antigua and Barbuda,2017,61.6
+183,atg,Antigua and Barbuda,2018,61.9
+184,atg,Antigua and Barbuda,2019,62.2
+185,aus,Australia,1990,33.6
+186,aus,Australia,1991,32.7
+187,aus,Australia,1992,35.1
+188,aus,Australia,1993,35.4
+189,aus,Australia,1994,33.7
+190,aus,Australia,1995,30.1
+191,aus,Australia,1996,28.5
+192,aus,Australia,1997,27.3
+193,aus,Australia,1998,24.3
+194,aus,Australia,1999,23.7
+195,aus,Australia,2000,24.3
+196,aus,Australia,2001,24
+197,aus,Australia,2002,22.7
+198,aus,Australia,2003,20.5
+199,aus,Australia,2004,19.3
+200,aus,Australia,2005,18.8
+201,aus,Australia,2006,20
+202,aus,Australia,2007,16.4
+203,aus,Australia,2008,19.9
+204,aus,Australia,2009,17.5
+205,aus,Australia,2010,18
+206,aus,Australia,2011,17.2
+207,aus,Australia,2012,16.7
+208,aus,Australia,2013,16.4
+209,aus,Australia,2014,15.8
+210,aus,Australia,2015,15.3
+211,aus,Australia,2016,15.1
+212,aus,Australia,2017,15
+213,aus,Australia,2018,15
+214,aus,Australia,2019,15
+215,aut,Austria,1990,68
+216,aut,Austria,1991,64.4
+217,aut,Austria,1992,60.3
+218,aut,Austria,1993,61.7
+219,aut,Austria,1994,58
+220,aut,Austria,1995,55.3
+221,aut,Austria,1996,53.8
+222,aut,Austria,1997,53.8
+223,aut,Austria,1998,49.3
+224,aut,Austria,1999,50.3
+225,aut,Austria,2000,49.4
+226,aut,Austria,2001,48.1
+227,aut,Austria,2002,45.3
+228,aut,Austria,2003,38.3
+229,aut,Austria,2004,34
+230,aut,Austria,2005,32.7
+231,aut,Austria,2006,31.3
+232,aut,Austria,2007,30.3
+233,aut,Austria,2008,29.2
+234,aut,Austria,2009,31.8
+235,aut,Austria,2010,30.2
+236,aut,Austria,2011,28.5
+237,aut,Austria,2012,28.1
+238,aut,Austria,2013,27.2
+239,aut,Austria,2014,26.9
+240,aut,Austria,2015,26
+241,aut,Austria,2016,25.5
+242,aut,Austria,2017,25.1
+243,aut,Austria,2018,25.2
+244,aut,Austria,2019,25.2
+245,aze,Azerbaijan,1995,64.5
+246,aze,Azerbaijan,1996,64.8
+247,aze,Azerbaijan,1997,65.4
+248,aze,Azerbaijan,1998,66.5
+249,aze,Azerbaijan,1999,67.5
+250,aze,Azerbaijan,2000,68.2
+251,aze,Azerbaijan,2001,69.1
+252,aze,Azerbaijan,2002,69.8
+253,aze,Azerbaijan,2003,70.5
+254,aze,Azerbaijan,2004,71.2
+255,aze,Azerbaijan,2005,72
+256,aze,Azerbaijan,2006,74.9
+257,aze,Azerbaijan,2007,75.6
+258,aze,Azerbaijan,2008,76.3
+259,aze,Azerbaijan,2009,77.7
+260,aze,Azerbaijan,2010,77.6
+261,aze,Azerbaijan,2011,77.4
+262,aze,Azerbaijan,2012,77.6
+263,aze,Azerbaijan,2013,77.8
+264,aze,Azerbaijan,2014,78.1
+265,aze,Azerbaijan,2015,78.3
+266,aze,Azerbaijan,2016,79.1
+267,aze,Azerbaijan,2017,79.4
+268,aze,Azerbaijan,2018,79.4
+269,aze,Azerbaijan,2019,79.6
+270,bdi,Burundi,1990,32.2
+271,bdi,Burundi,1991,32.6
+272,bdi,Burundi,1992,32.2
+273,bdi,Burundi,1993,32.2
+274,bdi,Burundi,1994,31.9
+275,bdi,Burundi,1995,31.5
+276,bdi,Burundi,1996,31.1
+277,bdi,Burundi,1997,31.2
+278,bdi,Burundi,1998,31.7
+279,bdi,Burundi,1999,31.7
+280,bdi,Burundi,2000,32.3
+281,bdi,Burundi,2001,32.4
+282,bdi,Burundi,2002,33.5
+283,bdi,Burundi,2003,34.4
+284,bdi,Burundi,2004,35.5
+285,bdi,Burundi,2005,36.3
+286,bdi,Burundi,2006,38.7
+287,bdi,Burundi,2007,40
+288,bdi,Burundi,2008,41.3
+289,bdi,Burundi,2009,43.1
+290,bdi,Burundi,2010,44.2
+291,bdi,Burundi,2011,45.2
+292,bdi,Burundi,2012,45.8
+293,bdi,Burundi,2013,46.5
+294,bdi,Burundi,2014,47.2
+295,bdi,Burundi,2015,47.1
+296,bdi,Burundi,2016,47.1
+297,bdi,Burundi,2017,46.8
+298,bdi,Burundi,2018,46.4
+299,bdi,Burundi,2019,46.7
+300,bel,Belgium,1990,74.5
+301,bel,Belgium,1991,72
+302,bel,Belgium,1992,67.5
+303,bel,Belgium,1993,68.8
+304,bel,Belgium,1994,65.8
+305,bel,Belgium,1995,64.6
+306,bel,Belgium,1996,64
+307,bel,Belgium,1997,67.1
+308,bel,Belgium,1998,61.9
+309,bel,Belgium,1999,61.3
+310,bel,Belgium,2000,56.1
+311,bel,Belgium,2001,60
+312,bel,Belgium,2002,59.1
+313,bel,Belgium,2003,55.6
+314,bel,Belgium,2004,52.3
+315,bel,Belgium,2005,51.1
+316,bel,Belgium,2006,49.9
+317,bel,Belgium,2007,47.4
+318,bel,Belgium,2008,43.8
+319,bel,Belgium,2009,49
+320,bel,Belgium,2010,49.8
+321,bel,Belgium,2011,53.5
+322,bel,Belgium,2012,52.2
+323,bel,Belgium,2013,49.3
+324,bel,Belgium,2014,47.8
+325,bel,Belgium,2015,45.1
+326,bel,Belgium,2016,43.8
+327,bel,Belgium,2017,42.8
+328,bel,Belgium,2018,42.9
+329,bel,Belgium,2019,42.9
+330,ben,Benin,1990,39.2
+331,ben,Benin,1991,40
+332,ben,Benin,1992,40.4
+333,ben,Benin,1993,41.1
+334,ben,Benin,1994,41.5
+335,ben,Benin,1995,42
+336,ben,Benin,1996,42.5
+337,ben,Benin,1997,43
+338,ben,Benin,1998,43.4
+339,ben,Benin,1999,44
+340,ben,Benin,2000,44.8
+341,ben,Benin,2001,46.2
+342,ben,Benin,2002,47.2
+343,ben,Benin,2003,47.9
+344,ben,Benin,2004,48.8
+345,ben,Benin,2005,49.5
+346,ben,Benin,2006,50.3
+347,ben,Benin,2007,51.1
+348,ben,Benin,2008,51.9
+349,ben,Benin,2009,52.6
+350,ben,Benin,2010,53.2
+351,ben,Benin,2011,53.8
+352,ben,Benin,2012,54.9
+353,ben,Benin,2013,56.2
+354,ben,Benin,2014,56.7
+355,ben,Benin,2015,57.3
+356,ben,Benin,2016,57.4
+357,ben,Benin,2017,57.7
+358,ben,Benin,2018,58.2
+359,ben,Benin,2019,58.7
+360,bfa,Burkina Faso,2000,31.6
+361,bfa,Burkina Faso,2001,32.1
+362,bfa,Burkina Faso,2002,32.7
+363,bfa,Burkina Faso,2003,33.4
+364,bfa,Burkina Faso,2004,34.5
+365,bfa,Burkina Faso,2005,35.7
+366,bfa,Burkina Faso,2006,36.7
+367,bfa,Burkina Faso,2007,37.9
+368,bfa,Burkina Faso,2008,39.2
+369,bfa,Burkina Faso,2009,40.2
+370,bfa,Burkina Faso,2010,41.3
+371,bfa,Burkina Faso,2011,42.4
+372,bfa,Burkina Faso,2012,43.4
+373,bfa,Burkina Faso,2013,44.2
+374,bfa,Burkina Faso,2014,44.5
+375,bfa,Burkina Faso,2015,45.4
+376,bfa,Burkina Faso,2016,46.1
+377,bfa,Burkina Faso,2017,47.2
+378,bfa,Burkina Faso,2018,47.7
+379,bfa,Burkina Faso,2019,48.7
+380,bgd,Bangladesh,1990,42.4
+381,bgd,Bangladesh,1991,43.3
+382,bgd,Bangladesh,1992,44.1
+383,bgd,Bangladesh,1993,45
+384,bgd,Bangladesh,1994,45.8
+385,bgd,Bangladesh,1995,46.7
+386,bgd,Bangladesh,1996,47.7
+387,bgd,Bangladesh,1997,48.7
+388,bgd,Bangladesh,1998,49.6
+389,bgd,Bangladesh,1999,50.5
+390,bgd,Bangladesh,2000,51.4
+391,bgd,Bangladesh,2001,52.4
+392,bgd,Bangladesh,2002,53
+393,bgd,Bangladesh,2003,53.8
+394,bgd,Bangladesh,2004,54.5
+395,bgd,Bangladesh,2005,55.3
+396,bgd,Bangladesh,2006,56.1
+397,bgd,Bangladesh,2007,56.9
+398,bgd,Bangladesh,2008,57.2
+399,bgd,Bangladesh,2009,58.4
+400,bgd,Bangladesh,2010,59.9
+401,bgd,Bangladesh,2011,61
+402,bgd,Bangladesh,2012,61.9
+403,bgd,Bangladesh,2013,62.3
+404,bgd,Bangladesh,2014,62.4
+405,bgd,Bangladesh,2015,64.1
+406,bgd,Bangladesh,2016,65.3
+407,bgd,Bangladesh,2017,66.4
+408,bgd,Bangladesh,2018,67.3
+409,bgd,Bangladesh,2019,68.1
+410,bgr,Bulgaria,1990,73.4
+411,bgr,Bulgaria,1991,74.1
+412,bgr,Bulgaria,1992,74.7
+413,bgr,Bulgaria,1993,73.9
+414,bgr,Bulgaria,1994,74.5
+415,bgr,Bulgaria,1995,74.9
+416,bgr,Bulgaria,1996,76.2
+417,bgr,Bulgaria,1997,75.9
+418,bgr,Bulgaria,1998,76
+419,bgr,Bulgaria,1999,76
+420,bgr,Bulgaria,2000,76.4
+421,bgr,Bulgaria,2001,77
+422,bgr,Bulgaria,2002,77.6
+423,bgr,Bulgaria,2003,77.8
+424,bgr,Bulgaria,2004,78
+425,bgr,Bulgaria,2005,77.6
+426,bgr,Bulgaria,2006,76.6
+427,bgr,Bulgaria,2007,75.3
+428,bgr,Bulgaria,2008,74.4
+429,bgr,Bulgaria,2009,76.9
+430,bgr,Bulgaria,2010,78.2
+431,bgr,Bulgaria,2011,76.9
+432,bgr,Bulgaria,2012,77.3
+433,bgr,Bulgaria,2013,78.6
+434,bgr,Bulgaria,2014,77.7
+435,bgr,Bulgaria,2015,75.9
+436,bgr,Bulgaria,2016,75.3
+437,bgr,Bulgaria,2017,74.5
+438,bgr,Bulgaria,2018,74.3
+439,bgr,Bulgaria,2019,74.4
+440,bhr,Bahrain,1990,25
+441,bhr,Bahrain,1991,18.6
+442,bhr,Bahrain,1992,22.8
+443,bhr,Bahrain,1993,24.8
+444,bhr,Bahrain,1994,25.4
+445,bhr,Bahrain,1995,29.5
+446,bhr,Bahrain,1996,28.5
+447,bhr,Bahrain,1997,35.4
+448,bhr,Bahrain,1998,28.6
+449,bhr,Bahrain,1999,30.5
+450,bhr,Bahrain,2000,39.4
+451,bhr,Bahrain,2001,38.7
+452,bhr,Bahrain,2002,35.8
+453,bhr,Bahrain,2003,41.1
+454,bhr,Bahrain,2004,49.7
+455,bhr,Bahrain,2005,46.6
+456,bhr,Bahrain,2006,55
+457,bhr,Bahrain,2007,54.5
+458,bhr,Bahrain,2008,55.9
+459,bhr,Bahrain,2009,53.9
+460,bhr,Bahrain,2010,56.4
+461,bhr,Bahrain,2011,57.2
+462,bhr,Bahrain,2012,56
+463,bhr,Bahrain,2013,49.9
+464,bhr,Bahrain,2014,49.4
+465,bhr,Bahrain,2015,48.5
+466,bhr,Bahrain,2016,48.3
+467,bhr,Bahrain,2017,48.7
+468,bhr,Bahrain,2018,48.7
+469,bhr,Bahrain,2019,48.8
+470,bhs,Bahamas,2000,25.7
+471,bhs,Bahamas,2001,30.3
+472,bhs,Bahamas,2002,31
+473,bhs,Bahamas,2003,33.2
+474,bhs,Bahamas,2004,33.6
+475,bhs,Bahamas,2005,29.2
+476,bhs,Bahamas,2006,27.8
+477,bhs,Bahamas,2007,31.3
+478,bhs,Bahamas,2008,34.6
+479,bhs,Bahamas,2009,35.7
+480,bhs,Bahamas,2010,31.8
+481,bhs,Bahamas,2011,32.4
+482,bhs,Bahamas,2012,31.4
+483,bhs,Bahamas,2013,29.3
+484,bhs,Bahamas,2014,27
+485,bhs,Bahamas,2015,26.7
+486,bhs,Bahamas,2016,26.8
+487,bhs,Bahamas,2017,27
+488,bhs,Bahamas,2018,27
+489,bhs,Bahamas,2019,27.1
+490,bih,Bosnia and Herzegovina,2000,72.2
+491,bih,Bosnia and Herzegovina,2001,72.6
+492,bih,Bosnia and Herzegovina,2002,73
+493,bih,Bosnia and Herzegovina,2003,73.4
+494,bih,Bosnia and Herzegovina,2004,73.7
+495,bih,Bosnia and Herzegovina,2005,73.9
+496,bih,Bosnia and Herzegovina,2006,73.6
+497,bih,Bosnia and Herzegovina,2007,73.6
+498,bih,Bosnia and Herzegovina,2008,73
+499,bih,Bosnia and Herzegovina,2009,73.1
+500,bih,Bosnia and Herzegovina,2010,72.9
+501,bih,Bosnia and Herzegovina,2011,72.1
+502,bih,Bosnia and Herzegovina,2012,73.9
+503,bih,Bosnia and Herzegovina,2013,73.6
+504,bih,Bosnia and Herzegovina,2014,73.5
+505,bih,Bosnia and Herzegovina,2015,71.6
+506,bih,Bosnia and Herzegovina,2016,71.6
+507,bih,Bosnia and Herzegovina,2017,70.9
+508,bih,Bosnia and Herzegovina,2018,71.2
+509,bih,Bosnia and Herzegovina,2019,71.5
+510,blz,Belize,1990,65.5
+511,blz,Belize,1991,59.6
+512,blz,Belize,1992,65.7
+513,blz,Belize,1993,66.1
+514,blz,Belize,1994,66.1
+515,blz,Belize,1995,66.5
+516,blz,Belize,1996,66.3
+517,blz,Belize,1997,66.6
+518,blz,Belize,1998,67.1
+519,blz,Belize,1999,67.4
+520,blz,Belize,2000,67.7
+521,blz,Belize,2001,66.8
+522,blz,Belize,2002,68.3
+523,blz,Belize,2003,68.7
+524,blz,Belize,2004,70
+525,blz,Belize,2005,70.2
+526,blz,Belize,2006,71.3
+527,blz,Belize,2007,71.2
+528,blz,Belize,2008,71.6
+529,blz,Belize,2009,72.6
+530,blz,Belize,2010,74
+531,blz,Belize,2011,73.8
+532,blz,Belize,2012,74.2
+533,blz,Belize,2013,74.1
+534,blz,Belize,2014,74.2
+535,blz,Belize,2015,74.7
+536,blz,Belize,2016,75.4
+537,blz,Belize,2017,75.2
+538,blz,Belize,2018,75.1
+539,blz,Belize,2019,75.3
+540,bol,Bolivia,1990,59.3
+541,bol,Bolivia,1991,60.2
+542,bol,Bolivia,1992,60.9
+543,bol,Bolivia,1993,61.7
+544,bol,Bolivia,1994,62.6
+545,bol,Bolivia,1995,63.4
+546,bol,Bolivia,1996,64.1
+547,bol,Bolivia,1997,64.4
+548,bol,Bolivia,1998,65.7
+549,bol,Bolivia,1999,66.7
+550,bol,Bolivia,2000,67.6
+551,bol,Bolivia,2001,67.9
+552,bol,Bolivia,2002,68.6
+553,bol,Bolivia,2003,68.9
+554,bol,Bolivia,2004,69.1
+555,bol,Bolivia,2005,69.3
+556,bol,Bolivia,2006,69.9
+557,bol,Bolivia,2007,69.9
+558,bol,Bolivia,2008,70.9
+559,bol,Bolivia,2009,71.4
+560,bol,Bolivia,2010,71.8
+561,bol,Bolivia,2011,72.2
+562,bol,Bolivia,2012,72.7
+563,bol,Bolivia,2013,73.7
+564,bol,Bolivia,2014,74.3
+565,bol,Bolivia,2015,75.1
+566,bol,Bolivia,2016,75.6
+567,bol,Bolivia,2017,76.4
+568,bol,Bolivia,2018,76.9
+569,bol,Bolivia,2019,77.3
+570,bra,Brazil,1990,65.9
+571,bra,Brazil,1991,66.7
+572,bra,Brazil,1992,67.4
+573,bra,Brazil,1993,68.3
+574,bra,Brazil,1994,69
+575,bra,Brazil,1995,69.6
+576,bra,Brazil,1996,70.4
+577,bra,Brazil,1997,71.2
+578,bra,Brazil,1998,71.5
+579,bra,Brazil,1999,72.4
+580,bra,Brazil,2000,73.1
+581,bra,Brazil,2001,73.9
+582,bra,Brazil,2002,74.6
+583,bra,Brazil,2003,74.2
+584,bra,Brazil,2004,74.4
+585,bra,Brazil,2005,74.6
+586,bra,Brazil,2006,74.5
+587,bra,Brazil,2007,74.5
+588,bra,Brazil,2008,75
+589,bra,Brazil,2009,75.1
+590,bra,Brazil,2010,74.5
+591,bra,Brazil,2011,74.3
+592,bra,Brazil,2012,74.7
+593,bra,Brazil,2013,75.7
+594,bra,Brazil,2014,75.5
+595,bra,Brazil,2015,75.2
+596,bra,Brazil,2016,75
+597,bra,Brazil,2017,75
+598,bra,Brazil,2018,75.1
+599,bra,Brazil,2019,75.4
+600,brb,Barbados,1990,68.6
+601,brb,Barbados,1991,52.2
+602,brb,Barbados,1992,67.9
+603,brb,Barbados,1993,69.2
+604,brb,Barbados,1994,69.2
+605,brb,Barbados,1995,68.5
+606,brb,Barbados,1996,67.1
+607,brb,Barbados,1997,67.4
+608,brb,Barbados,1998,66.1
+609,brb,Barbados,1999,66.3
+610,brb,Barbados,2000,66.9
+611,brb,Barbados,2001,69.3
+612,brb,Barbados,2002,69.4
+613,brb,Barbados,2003,71
+614,brb,Barbados,2004,69.3
+615,brb,Barbados,2005,63.3
+616,brb,Barbados,2006,62.7
+617,brb,Barbados,2007,70.8
+618,brb,Barbados,2008,67.1
+619,brb,Barbados,2009,69.1
+620,brb,Barbados,2010,75.2
+621,brb,Barbados,2011,73.4
+622,brb,Barbados,2012,73.5
+623,brb,Barbados,2013,73.1
+624,brb,Barbados,2014,71.9
+625,brb,Barbados,2015,71.4
+626,brb,Barbados,2016,71.2
+627,brb,Barbados,2017,70.9
+628,brb,Barbados,2018,70.9
+629,brb,Barbados,2019,71.2
+630,brn,Brunei,1990,60.6
+631,brn,Brunei,1991,34.7
+632,brn,Brunei,1992,58.6
+633,brn,Brunei,1993,57.2
+634,brn,Brunei,1994,58.4
+635,brn,Brunei,1995,55
+636,brn,Brunei,1996,54.5
+637,brn,Brunei,1997,52.5
+638,brn,Brunei,1998,62.1
+639,brn,Brunei,1999,67.6
+640,brn,Brunei,2000,70.5
+641,brn,Brunei,2001,69.9
+642,brn,Brunei,2002,70.1
+643,brn,Brunei,2003,67.4
+644,brn,Brunei,2004,67.3
+645,brn,Brunei,2005,67.7
+646,brn,Brunei,2006,61.5
+647,brn,Brunei,2007,51.7
+648,brn,Brunei,2008,55.5
+649,brn,Brunei,2009,45
+650,brn,Brunei,2010,49.6
+651,brn,Brunei,2011,43.4
+652,brn,Brunei,2012,44.1
+653,brn,Brunei,2013,42.2
+654,brn,Brunei,2014,38.3
+655,brn,Brunei,2015,35
+656,brn,Brunei,2016,34.3
+657,brn,Brunei,2017,33.8
+658,brn,Brunei,2018,33.8
+659,brn,Brunei,2019,33.8
+660,btn,Bhutan,2005,56
+661,btn,Bhutan,2006,56.7
+662,btn,Bhutan,2007,58.3
+663,btn,Bhutan,2008,59.3
+664,btn,Bhutan,2009,60.2
+665,btn,Bhutan,2010,61.3
+666,btn,Bhutan,2011,62.1
+667,btn,Bhutan,2012,63.4
+668,btn,Bhutan,2013,64.4
+669,btn,Bhutan,2014,64.9
+670,btn,Bhutan,2015,65.8
+671,btn,Bhutan,2016,66.7
+672,btn,Bhutan,2017,67.5
+673,btn,Bhutan,2018,67.9
+674,btn,Bhutan,2019,68.3
+675,bwa,Botswana,1990,55
+676,bwa,Botswana,1991,52.9
+677,bwa,Botswana,1992,53.9
+678,bwa,Botswana,1993,54.2
+679,bwa,Botswana,1994,54.4
+680,bwa,Botswana,1995,53.9
+681,bwa,Botswana,1996,55.4
+682,bwa,Botswana,1997,53.7
+683,bwa,Botswana,1998,52.5
+684,bwa,Botswana,1999,52.4
+685,bwa,Botswana,2000,50.4
+686,bwa,Botswana,2001,51.4
+687,bwa,Botswana,2002,49.8
+688,bwa,Botswana,2003,46.4
+689,bwa,Botswana,2004,43.1
+690,bwa,Botswana,2005,43.7
+691,bwa,Botswana,2006,46.2
+692,bwa,Botswana,2007,45.8
+693,bwa,Botswana,2008,44.9
+694,bwa,Botswana,2009,45.2
+695,bwa,Botswana,2010,40.9
+696,bwa,Botswana,2011,44.1
+697,bwa,Botswana,2012,43.6
+698,bwa,Botswana,2013,35.3
+699,bwa,Botswana,2014,33.3
+700,bwa,Botswana,2015,33.2
+701,bwa,Botswana,2016,32.9
+702,bwa,Botswana,2017,33.1
+703,bwa,Botswana,2018,33.3
+704,bwa,Botswana,2019,33.5
+705,caf,Central African Republic,1990,36
+706,caf,Central African Republic,1991,35.4
+707,caf,Central African Republic,1992,34
+708,caf,Central African Republic,1993,34
+709,caf,Central African Republic,1994,34.1
+710,caf,Central African Republic,1995,34.3
+711,caf,Central African Republic,1996,34
+712,caf,Central African Republic,1997,34.3
+713,caf,Central African Republic,1998,34.5
+714,caf,Central African Republic,1999,34.9
+715,caf,Central African Republic,2000,35
+716,caf,Central African Republic,2001,35.2
+717,caf,Central African Republic,2002,35.4
+718,caf,Central African Republic,2003,35.3
+719,caf,Central African Republic,2004,35.7
+720,caf,Central African Republic,2005,36.2
+721,caf,Central African Republic,2006,36.8
+722,caf,Central African Republic,2007,37.4
+723,caf,Central African Republic,2008,38
+724,caf,Central African Republic,2009,38.4
+725,caf,Central African Republic,2010,39.3
+726,caf,Central African Republic,2011,40.3
+727,caf,Central African Republic,2012,41
+728,caf,Central African Republic,2013,39.1
+729,caf,Central African Republic,2014,39.6
+730,caf,Central African Republic,2015,40.4
+731,caf,Central African Republic,2016,41.1
+732,caf,Central African Republic,2017,42.1
+733,caf,Central African Republic,2018,42.5
+734,caf,Central African Republic,2019,42.8
+735,can,Canada,1990,35.4
+736,can,Canada,1991,36.1
+737,can,Canada,1992,36.2
+738,can,Canada,1993,36.7
+739,can,Canada,1994,36.2
+740,can,Canada,1995,36.8
+741,can,Canada,1996,37.1
+742,can,Canada,1997,35.3
+743,can,Canada,1998,35.6
+744,can,Canada,1999,36.2
+745,can,Canada,2000,34.3
+746,can,Canada,2001,35.7
+747,can,Canada,2002,34.7
+748,can,Canada,2003,30.2
+749,can,Canada,2004,29.2
+750,can,Canada,2005,28
+751,can,Canada,2006,26.5
+752,can,Canada,2007,24.7
+753,can,Canada,2008,25.1
+754,can,Canada,2009,24.7
+755,can,Canada,2010,22.9
+756,can,Canada,2011,22.1
+757,can,Canada,2012,21.2
+758,can,Canada,2013,20.4
+759,can,Canada,2014,19.7
+760,can,Canada,2015,19.3
+761,can,Canada,2016,19.1
+762,can,Canada,2017,19
+763,can,Canada,2018,19.1
+764,can,Canada,2019,19.1
+765,che,Switzerland,1990,66.9
+766,che,Switzerland,1991,64.5
+767,che,Switzerland,1992,63.6
+768,che,Switzerland,1993,66.1
+769,che,Switzerland,1994,62.7
+770,che,Switzerland,1995,59.2
+771,che,Switzerland,1996,60.9
+772,che,Switzerland,1997,64.3
+773,che,Switzerland,1998,61
+774,che,Switzerland,1999,59.8
+775,che,Switzerland,2000,52.9
+776,che,Switzerland,2001,43.9
+777,che,Switzerland,2002,42.8
+778,che,Switzerland,2003,41.5
+779,che,Switzerland,2004,36.7
+780,che,Switzerland,2005,33.2
+781,che,Switzerland,2006,30.8
+782,che,Switzerland,2007,29.6
+783,che,Switzerland,2008,29.7
+784,che,Switzerland,2009,33.9
+785,che,Switzerland,2010,31
+786,che,Switzerland,2011,29.4
+787,che,Switzerland,2012,28.4
+788,che,Switzerland,2013,26.8
+789,che,Switzerland,2014,26.8
+790,che,Switzerland,2015,26.3
+791,che,Switzerland,2016,25.8
+792,che,Switzerland,2017,25.5
+793,che,Switzerland,2018,25.7
+794,che,Switzerland,2019,25.7
+795,chl,Chile,1990,76
+796,chl,Chile,1991,76.5
+797,chl,Chile,1992,77.2
+798,chl,Chile,1993,76.3
+799,chl,Chile,1994,76.7
+800,chl,Chile,1995,76.8
+801,chl,Chile,1996,76
+802,chl,Chile,1997,75.9
+803,chl,Chile,1998,76.1
+804,chl,Chile,1999,76.5
+805,chl,Chile,2000,77.9
+806,chl,Chile,2001,78.6
+807,chl,Chile,2002,78.5
+808,chl,Chile,2003,78.8
+809,chl,Chile,2004,79.7
+810,chl,Chile,2005,79.6
+811,chl,Chile,2006,79.8
+812,chl,Chile,2007,80.5
+813,chl,Chile,2008,80.4
+814,chl,Chile,2009,81.6
+815,chl,Chile,2010,77.5
+816,chl,Chile,2011,76.4
+817,chl,Chile,2012,75.9
+818,chl,Chile,2013,73.4
+819,chl,Chile,2014,73.9
+820,chl,Chile,2015,73.6
+821,chl,Chile,2016,73.4
+822,chl,Chile,2017,73.3
+823,chl,Chile,2018,73.4
+824,chl,Chile,2019,73.7
+825,chn,China,1990,53.7
+826,chn,China,1991,54.5
+827,chn,China,1992,55.8
+828,chn,China,1993,56.8
+829,chn,China,1994,57.5
+830,chn,China,1995,58.7
+831,chn,China,1996,59.7
+832,chn,China,1997,60.6
+833,chn,China,1998,61.4
+834,chn,China,1999,62.4
+835,chn,China,2000,63.3
+836,chn,China,2001,64.1
+837,chn,China,2002,65.1
+838,chn,China,2003,65.8
+839,chn,China,2004,66.3
+840,chn,China,2005,66.9
+841,chn,China,2006,67.6
+842,chn,China,2007,67.9
+843,chn,China,2008,67.9
+844,chn,China,2009,65.4
+845,chn,China,2010,63.8
+846,chn,China,2011,60.9
+847,chn,China,2012,59.4
+848,chn,China,2013,56.2
+849,chn,China,2014,54.7
+850,chn,China,2015,53.2
+851,chn,China,2016,52
+852,chn,China,2017,51
+853,chn,China,2018,51.3
+854,chn,China,2019,51.7
+855,civ,Cote d'Ivoire,1990,43.5
+856,civ,Cote d'Ivoire,1991,43.6
+857,civ,Cote d'Ivoire,1992,43.6
+858,civ,Cote d'Ivoire,1993,43.7
+859,civ,Cote d'Ivoire,1994,43.8
+860,civ,Cote d'Ivoire,1995,44.1
+861,civ,Cote d'Ivoire,1996,44.3
+862,civ,Cote d'Ivoire,1997,44.8
+863,civ,Cote d'Ivoire,1998,44.6
+864,civ,Cote d'Ivoire,1999,45.1
+865,civ,Cote d'Ivoire,2000,45.4
+866,civ,Cote d'Ivoire,2001,45.6
+867,civ,Cote d'Ivoire,2002,45.9
+868,civ,Cote d'Ivoire,2003,46.2
+869,civ,Cote d'Ivoire,2004,46.7
+870,civ,Cote d'Ivoire,2005,47.1
+871,civ,Cote d'Ivoire,2006,47.7
+872,civ,Cote d'Ivoire,2007,48.3
+873,civ,Cote d'Ivoire,2008,49
+874,civ,Cote d'Ivoire,2009,49.7
+875,civ,Cote d'Ivoire,2010,50.4
+876,civ,Cote d'Ivoire,2011,50.9
+877,civ,Cote d'Ivoire,2012,51.9
+878,civ,Cote d'Ivoire,2013,52.7
+879,civ,Cote d'Ivoire,2014,53
+880,civ,Cote d'Ivoire,2015,54.2
+881,civ,Cote d'Ivoire,2016,55.3
+882,civ,Cote d'Ivoire,2017,56.5
+883,civ,Cote d'Ivoire,2018,57.5
+884,civ,Cote d'Ivoire,2019,58
+885,cmr,Cameroon,1990,48.3
+886,cmr,Cameroon,1991,47.9
+887,cmr,Cameroon,1992,47.5
+888,cmr,Cameroon,1993,46.8
+889,cmr,Cameroon,1994,46.6
+890,cmr,Cameroon,1995,46.5
+891,cmr,Cameroon,1996,46.4
+892,cmr,Cameroon,1997,46.5
+893,cmr,Cameroon,1998,46.7
+894,cmr,Cameroon,1999,46.9
+895,cmr,Cameroon,2000,47.4
+896,cmr,Cameroon,2001,49.1
+897,cmr,Cameroon,2002,49.4
+898,cmr,Cameroon,2003,49.9
+899,cmr,Cameroon,2004,50.5
+900,cmr,Cameroon,2005,50.6
+901,cmr,Cameroon,2006,50.7
+902,cmr,Cameroon,2007,52
+903,cmr,Cameroon,2008,52.8
+904,cmr,Cameroon,2009,53.6
+905,cmr,Cameroon,2010,54.4
+906,cmr,Cameroon,2011,55.4
+907,cmr,Cameroon,2012,56.6
+908,cmr,Cameroon,2013,57.5
+909,cmr,Cameroon,2014,58.2
+910,cmr,Cameroon,2015,59.1
+911,cmr,Cameroon,2016,59.6
+912,cmr,Cameroon,2017,60
+913,cmr,Cameroon,2018,60.3
+914,cmr,Cameroon,2019,60.7
+915,cod,"Congo, Dem. Rep.",1990,39.7
+916,cod,"Congo, Dem. Rep.",1991,39.4
+917,cod,"Congo, Dem. Rep.",1992,38.8
+918,cod,"Congo, Dem. Rep.",1993,38.2
+919,cod,"Congo, Dem. Rep.",1994,37.6
+920,cod,"Congo, Dem. Rep.",1995,37.4
+921,cod,"Congo, Dem. Rep.",1996,37.8
+922,cod,"Congo, Dem. Rep.",1997,37.6
+923,cod,"Congo, Dem. Rep.",1998,37.6
+924,cod,"Congo, Dem. Rep.",1999,37.4
+925,cod,"Congo, Dem. Rep.",2000,37.6
+926,cod,"Congo, Dem. Rep.",2001,37.8
+927,cod,"Congo, Dem. Rep.",2002,38.5
+928,cod,"Congo, Dem. Rep.",2003,39.4
+929,cod,"Congo, Dem. Rep.",2004,40.3
+930,cod,"Congo, Dem. Rep.",2005,41.1
+931,cod,"Congo, Dem. Rep.",2006,42
+932,cod,"Congo, Dem. Rep.",2007,43.1
+933,cod,"Congo, Dem. Rep.",2008,44.4
+934,cod,"Congo, Dem. Rep.",2009,45.2
+935,cod,"Congo, Dem. Rep.",2010,46.8
+936,cod,"Congo, Dem. Rep.",2011,47.2
+937,cod,"Congo, Dem. Rep.",2012,47.6
+938,cod,"Congo, Dem. Rep.",2013,48.3
+939,cod,"Congo, Dem. Rep.",2014,49.6
+940,cod,"Congo, Dem. Rep.",2015,49.9
+941,cod,"Congo, Dem. Rep.",2016,50.8
+942,cod,"Congo, Dem. Rep.",2017,51.1
+943,cod,"Congo, Dem. Rep.",2018,51.5
+944,cod,"Congo, Dem. Rep.",2019,51.7
+945,cog,"Congo, Rep.",1990,53.8
+946,cog,"Congo, Rep.",1991,53.7
+947,cog,"Congo, Rep.",1992,53.8
+948,cog,"Congo, Rep.",1993,53
+949,cog,"Congo, Rep.",1994,52.7
+950,cog,"Congo, Rep.",1995,50.8
+951,cog,"Congo, Rep.",1996,50.6
+952,cog,"Congo, Rep.",1997,51
+953,cog,"Congo, Rep.",1998,51.7
+954,cog,"Congo, Rep.",1999,50.3
+955,cog,"Congo, Rep.",2000,49.6
+956,cog,"Congo, Rep.",2001,50.4
+957,cog,"Congo, Rep.",2002,50.7
+958,cog,"Congo, Rep.",2003,50.7
+959,cog,"Congo, Rep.",2004,51
+960,cog,"Congo, Rep.",2005,50.5
+961,cog,"Congo, Rep.",2006,50.6
+962,cog,"Congo, Rep.",2007,52.3
+963,cog,"Congo, Rep.",2008,54
+964,cog,"Congo, Rep.",2009,55.4
+965,cog,"Congo, Rep.",2010,56
+966,cog,"Congo, Rep.",2011,56.2
+967,cog,"Congo, Rep.",2012,57.6
+968,cog,"Congo, Rep.",2013,58.7
+969,cog,"Congo, Rep.",2014,60.3
+970,cog,"Congo, Rep.",2015,62.5
+971,cog,"Congo, Rep.",2016,62.2
+972,cog,"Congo, Rep.",2017,61.9
+973,cog,"Congo, Rep.",2018,61.7
+974,cog,"Congo, Rep.",2019,61.8
+975,col,Colombia,1990,65
+976,col,Colombia,1991,65.3
+977,col,Colombia,1992,66.5
+978,col,Colombia,1993,67.2
+979,col,Colombia,1994,68
+980,col,Colombia,1995,68.6
+981,col,Colombia,1996,69.6
+982,col,Colombia,1997,70.5
+983,col,Colombia,1998,71.3
+984,col,Colombia,1999,71.3
+985,col,Colombia,2000,71.7
+986,col,Colombia,2001,72
+987,col,Colombia,2002,72.3
+988,col,Colombia,2003,72.2
+989,col,Colombia,2004,73.7
+990,col,Colombia,2005,74.3
+991,col,Colombia,2006,75
+992,col,Colombia,2007,76.2
+993,col,Colombia,2008,76.9
+994,col,Colombia,2009,77.1
+995,col,Colombia,2010,78
+996,col,Colombia,2011,78
+997,col,Colombia,2012,78.3
+998,col,Colombia,2013,78.4
+999,col,Colombia,2014,79.1
+1000,col,Colombia,2015,79.2
+1001,col,Colombia,2016,79.5
+1002,col,Colombia,2017,79.7
+1003,col,Colombia,2018,79.8
+1004,col,Colombia,2019,80.1
+1005,cpv,Cape Verde,2000,61.2
+1006,cpv,Cape Verde,2001,61.7
+1007,cpv,Cape Verde,2002,62.8
+1008,cpv,Cape Verde,2003,63.3
+1009,cpv,Cape Verde,2004,63.5
+1010,cpv,Cape Verde,2005,64
+1011,cpv,Cape Verde,2006,65.5
+1012,cpv,Cape Verde,2007,66
+1013,cpv,Cape Verde,2008,66.9
+1014,cpv,Cape Verde,2009,67.5
+1015,cpv,Cape Verde,2010,67.8
+1016,cpv,Cape Verde,2011,68.5
+1017,cpv,Cape Verde,2012,69
+1018,cpv,Cape Verde,2013,69.4
+1019,cpv,Cape Verde,2014,70.1
+1020,cpv,Cape Verde,2015,70.2
+1021,cpv,Cape Verde,2016,70.2
+1022,cpv,Cape Verde,2017,70.5
+1023,cpv,Cape Verde,2018,70.9
+1024,cpv,Cape Verde,2019,71.1
+1025,cri,Costa Rica,1990,71.7
+1026,cri,Costa Rica,1991,72.3
+1027,cri,Costa Rica,1992,73.2
+1028,cri,Costa Rica,1993,73.9
+1029,cri,Costa Rica,1994,74.6
+1030,cri,Costa Rica,1995,75.1
+1031,cri,Costa Rica,1996,75.5
+1032,cri,Costa Rica,1997,76.1
+1033,cri,Costa Rica,1998,76.8
+1034,cri,Costa Rica,1999,77.2
+1035,cri,Costa Rica,2000,77.7
+1036,cri,Costa Rica,2001,78.1
+1037,cri,Costa Rica,2002,78.4
+1038,cri,Costa Rica,2003,78.8
+1039,cri,Costa Rica,2004,79.2
+1040,cri,Costa Rica,2005,79.5
+1041,cri,Costa Rica,2006,80.2
+1042,cri,Costa Rica,2007,80.8
+1043,cri,Costa Rica,2008,81.6
+1044,cri,Costa Rica,2009,81.9
+1045,cri,Costa Rica,2010,82
+1046,cri,Costa Rica,2011,83.1
+1047,cri,Costa Rica,2012,83.4
+1048,cri,Costa Rica,2013,83.5
+1049,cri,Costa Rica,2014,84.1
+1050,cri,Costa Rica,2015,84.1
+1051,cri,Costa Rica,2016,84.4
+1052,cri,Costa Rica,2017,84.6
+1053,cri,Costa Rica,2018,85
+1054,cri,Costa Rica,2019,85.3
+1055,cub,Cuba,1990,70.9
+1056,cub,Cuba,1991,71.2
+1057,cub,Cuba,1992,71.1
+1058,cub,Cuba,1993,70.9
+1059,cub,Cuba,1994,70.4
+1060,cub,Cuba,1995,70.7
+1061,cub,Cuba,1996,71.7
+1062,cub,Cuba,1997,72
+1063,cub,Cuba,1998,72.4
+1064,cub,Cuba,1999,73
+1065,cub,Cuba,2000,73.7
+1066,cub,Cuba,2001,74.3
+1067,cub,Cuba,2002,74.6
+1068,cub,Cuba,2003,75.8
+1069,cub,Cuba,2004,77.3
+1070,cub,Cuba,2005,78.8
+1071,cub,Cuba,2006,80.9
+1072,cub,Cuba,2007,82.1
+1073,cub,Cuba,2008,83
+1074,cub,Cuba,2009,82.6
+1075,cub,Cuba,2010,82.5
+1076,cub,Cuba,2011,82
+1077,cub,Cuba,2012,80.7
+1078,cub,Cuba,2013,79.8
+1079,cub,Cuba,2014,79.8
+1080,cub,Cuba,2015,80.2
+1081,cub,Cuba,2016,80.2
+1082,cub,Cuba,2017,80.7
+1083,cub,Cuba,2018,81.1
+1084,cub,Cuba,2019,81.4
+1085,cyp,Cyprus,1990,69.8
+1086,cyp,Cyprus,1991,59.6
+1087,cyp,Cyprus,1992,60.1
+1088,cyp,Cyprus,1993,65.8
+1089,cyp,Cyprus,1994,67
+1090,cyp,Cyprus,1995,63.5
+1091,cyp,Cyprus,1996,60.9
+1092,cyp,Cyprus,1997,61.7
+1093,cyp,Cyprus,1998,50.1
+1094,cyp,Cyprus,1999,47.4
+1095,cyp,Cyprus,2000,41.6
+1096,cyp,Cyprus,2001,43.8
+1097,cyp,Cyprus,2002,40.8
+1098,cyp,Cyprus,2003,38.3
+1099,cyp,Cyprus,2004,35.8
+1100,cyp,Cyprus,2005,34.3
+1101,cyp,Cyprus,2006,33.3
+1102,cyp,Cyprus,2007,29.9
+1103,cyp,Cyprus,2008,27.8
+1104,cyp,Cyprus,2009,34.4
+1105,cyp,Cyprus,2010,33.4
+1106,cyp,Cyprus,2011,34.9
+1107,cyp,Cyprus,2012,33.9
+1108,cyp,Cyprus,2013,37.7
+1109,cyp,Cyprus,2014,36.3
+1110,cyp,Cyprus,2015,34.9
+1111,cyp,Cyprus,2016,34.2
+1112,cyp,Cyprus,2017,33.5
+1113,cyp,Cyprus,2018,33.7
+1114,cyp,Cyprus,2019,33.8
+1115,cze,Czech Republic,1993,66.1
+1116,cze,Czech Republic,1994,66.1
+1117,cze,Czech Republic,1995,64.9
+1118,cze,Czech Republic,1996,63.2
+1119,cze,Czech Republic,1997,66.4
+1120,cze,Czech Republic,1998,65.6
+1121,cze,Czech Republic,1999,67.1
+1122,cze,Czech Republic,2000,64.4
+1123,cze,Czech Republic,2001,64.4
+1124,cze,Czech Republic,2002,60.4
+1125,cze,Czech Republic,2003,58
+1126,cze,Czech Republic,2004,53.6
+1127,cze,Czech Republic,2005,52
+1128,cze,Czech Republic,2006,50.1
+1129,cze,Czech Republic,2007,45.5
+1130,cze,Czech Republic,2008,42.3
+1131,cze,Czech Republic,2009,45
+1132,cze,Czech Republic,2010,43.9
+1133,cze,Czech Republic,2011,43
+1134,cze,Czech Republic,2012,41.3
+1135,cze,Czech Republic,2013,42.8
+1136,cze,Czech Republic,2014,41.3
+1137,cze,Czech Republic,2015,39.3
+1138,cze,Czech Republic,2016,38.2
+1139,cze,Czech Republic,2017,37.5
+1140,cze,Czech Republic,2018,37.5
+1141,cze,Czech Republic,2019,37.6
+1142,deu,Germany,1990,64.7
+1143,deu,Germany,1991,63.3
+1144,deu,Germany,1992,59.8
+1145,deu,Germany,1993,61.7
+1146,deu,Germany,1994,60.5
+1147,deu,Germany,1995,60.3
+1148,deu,Germany,1996,60.6
+1149,deu,Germany,1997,63.9
+1150,deu,Germany,1998,60.1
+1151,deu,Germany,1999,59.4
+1152,deu,Germany,2000,60
+1153,deu,Germany,2001,61.7
+1154,deu,Germany,2002,62.3
+1155,deu,Germany,2003,58.8
+1156,deu,Germany,2004,56.3
+1157,deu,Germany,2005,56.5
+1158,deu,Germany,2006,55.4
+1159,deu,Germany,2007,54
+1160,deu,Germany,2008,52.4
+1161,deu,Germany,2009,53.9
+1162,deu,Germany,2010,53
+1163,deu,Germany,2011,50.6
+1164,deu,Germany,2012,47.6
+1165,deu,Germany,2013,44.3
+1166,deu,Germany,2014,42.8
+1167,deu,Germany,2015,41
+1168,deu,Germany,2016,40.1
+1169,deu,Germany,2017,39.2
+1170,deu,Germany,2018,39.3
+1171,deu,Germany,2019,39.3
+1172,dji,Djibouti,1995,37.9
+1173,dji,Djibouti,1996,37.6
+1174,dji,Djibouti,1997,38.1
+1175,dji,Djibouti,1998,38.2
+1176,dji,Djibouti,1999,38.6
+1177,dji,Djibouti,2000,38.7
+1178,dji,Djibouti,2001,39.7
+1179,dji,Djibouti,2002,40.4
+1180,dji,Djibouti,2003,41.5
+1181,dji,Djibouti,2004,42.3
+1182,dji,Djibouti,2005,43.3
+1183,dji,Djibouti,2006,44.4
+1184,dji,Djibouti,2007,45.5
+1185,dji,Djibouti,2008,46.5
+1186,dji,Djibouti,2009,47.6
+1187,dji,Djibouti,2010,48.9
+1188,dji,Djibouti,2011,49.9
+1189,dji,Djibouti,2012,51.1
+1190,dji,Djibouti,2013,52.1
+1191,dji,Djibouti,2014,52.9
+1192,dji,Djibouti,2015,53.6
+1193,dji,Djibouti,2016,54.3
+1194,dji,Djibouti,2017,54.8
+1195,dji,Djibouti,2018,55.6
+1196,dji,Djibouti,2019,56.3
+1197,dnk,Denmark,1990,71.8
+1198,dnk,Denmark,1991,64.7
+1199,dnk,Denmark,1992,66.3
+1200,dnk,Denmark,1993,64.9
+1201,dnk,Denmark,1994,61.3
+1202,dnk,Denmark,1995,60.1
+1203,dnk,Denmark,1996,55.8
+1204,dnk,Denmark,1997,61.9
+1205,dnk,Denmark,1998,52.1
+1206,dnk,Denmark,1999,54.2
+1207,dnk,Denmark,2000,52.3
+1208,dnk,Denmark,2001,55.1
+1209,dnk,Denmark,2002,50.1
+1210,dnk,Denmark,2003,43.4
+1211,dnk,Denmark,2004,42.3
+1212,dnk,Denmark,2005,39.9
+1213,dnk,Denmark,2006,34.5
+1214,dnk,Denmark,2007,32.1
+1215,dnk,Denmark,2008,32.5
+1216,dnk,Denmark,2009,36
+1217,dnk,Denmark,2010,37.3
+1218,dnk,Denmark,2011,38.7
+1219,dnk,Denmark,2012,38.3
+1220,dnk,Denmark,2013,36.4
+1221,dnk,Denmark,2014,36.5
+1222,dnk,Denmark,2015,36.5
+1223,dnk,Denmark,2016,35.8
+1224,dnk,Denmark,2017,35.4
+1225,dnk,Denmark,2018,35.5
+1226,dnk,Denmark,2019,35.5
+1227,dom,Dominican Republic,1990,64.5
+1228,dom,Dominican Republic,1991,64.9
+1229,dom,Dominican Republic,1992,65.9
+1230,dom,Dominican Republic,1993,66.6
+1231,dom,Dominican Republic,1994,67.2
+1232,dom,Dominican Republic,1995,67.9
+1233,dom,Dominican Republic,1996,68.5
+1234,dom,Dominican Republic,1997,69.2
+1235,dom,Dominican Republic,1998,69.8
+1236,dom,Dominican Republic,1999,70.4
+1237,dom,Dominican Republic,2000,70.9
+1238,dom,Dominican Republic,2001,71.4
+1239,dom,Dominican Republic,2002,71.9
+1240,dom,Dominican Republic,2003,72.1
+1241,dom,Dominican Republic,2004,72.4
+1242,dom,Dominican Republic,2005,73.4
+1243,dom,Dominican Republic,2006,74.1
+1244,dom,Dominican Republic,2007,74.6
+1245,dom,Dominican Republic,2008,74.9
+1246,dom,Dominican Republic,2009,75.2
+1247,dom,Dominican Republic,2010,75.7
+1248,dom,Dominican Republic,2011,75.7
+1249,dom,Dominican Republic,2012,76
+1250,dom,Dominican Republic,2013,76.4
+1251,dom,Dominican Republic,2014,77.6
+1252,dom,Dominican Republic,2015,78.3
+1253,dom,Dominican Republic,2016,78.9
+1254,dom,Dominican Republic,2017,79.2
+1255,dom,Dominican Republic,2018,79.7
+1256,dom,Dominican Republic,2019,80.2
+1257,dza,Algeria,1990,61.6
+1258,dza,Algeria,1991,62.1
+1259,dza,Algeria,1992,62.7
+1260,dza,Algeria,1993,63.1
+1261,dza,Algeria,1994,63.5
+1262,dza,Algeria,1995,64
+1263,dza,Algeria,1996,64.9
+1264,dza,Algeria,1997,65.8
+1265,dza,Algeria,1998,66.9
+1266,dza,Algeria,1999,67.8
+1267,dza,Algeria,2000,68.6
+1268,dza,Algeria,2001,69.7
+1269,dza,Algeria,2002,70.8
+1270,dza,Algeria,2003,71.9
+1271,dza,Algeria,2004,72.9
+1272,dza,Algeria,2005,73.8
+1273,dza,Algeria,2006,74.4
+1274,dza,Algeria,2007,75.3
+1275,dza,Algeria,2008,75.6
+1276,dza,Algeria,2009,76.6
+1277,dza,Algeria,2010,77.6
+1278,dza,Algeria,2011,78.5
+1279,dza,Algeria,2012,78.4
+1280,dza,Algeria,2013,78.5
+1281,dza,Algeria,2014,79.1
+1282,dza,Algeria,2015,79.4
+1283,dza,Algeria,2016,79.8
+1284,dza,Algeria,2017,80
+1285,dza,Algeria,2018,80.1
+1286,dza,Algeria,2019,80.3
+1287,ecu,Ecuador,1990,69.7
+1288,ecu,Ecuador,1991,70
+1289,ecu,Ecuador,1992,70.5
+1290,ecu,Ecuador,1993,70.9
+1291,ecu,Ecuador,1994,71.4
+1292,ecu,Ecuador,1995,71.8
+1293,ecu,Ecuador,1996,71.9
+1294,ecu,Ecuador,1997,72.4
+1295,ecu,Ecuador,1998,72.7
+1296,ecu,Ecuador,1999,72.5
+1297,ecu,Ecuador,2000,72.7
+1298,ecu,Ecuador,2001,73.2
+1299,ecu,Ecuador,2002,73.7
+1300,ecu,Ecuador,2003,74
+1301,ecu,Ecuador,2004,74.6
+1302,ecu,Ecuador,2005,75.1
+1303,ecu,Ecuador,2006,75.3
+1304,ecu,Ecuador,2007,76.2
+1305,ecu,Ecuador,2008,76.6
+1306,ecu,Ecuador,2009,76.3
+1307,ecu,Ecuador,2010,76.8
+1308,ecu,Ecuador,2011,77.2
+1309,ecu,Ecuador,2012,79.1
+1310,ecu,Ecuador,2013,78.5
+1311,ecu,Ecuador,2014,78.3
+1312,ecu,Ecuador,2015,79
+1313,ecu,Ecuador,2016,78.3
+1314,ecu,Ecuador,2017,78.4
+1315,ecu,Ecuador,2018,78.5
+1316,ecu,Ecuador,2019,78.3
+1317,egy,Egypt,1990,59
+1318,egy,Egypt,1991,59.5
+1319,egy,Egypt,1992,60.1
+1320,egy,Egypt,1993,60.8
+1321,egy,Egypt,1994,61.5
+1322,egy,Egypt,1995,62.2
+1323,egy,Egypt,1996,63
+1324,egy,Egypt,1997,63.8
+1325,egy,Egypt,1998,64
+1326,egy,Egypt,1999,65.4
+1327,egy,Egypt,2000,66
+1328,egy,Egypt,2001,66.6
+1329,egy,Egypt,2002,67.1
+1330,egy,Egypt,2003,67.3
+1331,egy,Egypt,2004,68
+1332,egy,Egypt,2005,68.5
+1333,egy,Egypt,2006,69.4
+1334,egy,Egypt,2007,70.1
+1335,egy,Egypt,2008,70.9
+1336,egy,Egypt,2009,71
+1337,egy,Egypt,2010,71.5
+1338,egy,Egypt,2011,71.7
+1339,egy,Egypt,2012,72.3
+1340,egy,Egypt,2013,73
+1341,egy,Egypt,2014,73.2
+1342,egy,Egypt,2015,73.8
+1343,egy,Egypt,2016,74.3
+1344,egy,Egypt,2017,74.5
+1345,egy,Egypt,2018,74.9
+1346,egy,Egypt,2019,75.5
+1347,eri,Eritrea,2005,46
+1348,eri,Eritrea,2006,46.2
+1349,eri,Eritrea,2007,46.3
+1350,eri,Eritrea,2008,45.9
+1351,eri,Eritrea,2009,46.9
+1352,eri,Eritrea,2010,47
+1353,eri,Eritrea,2011,47
+1354,esp,Spain,1990,74.4
+1355,esp,Spain,1991,73.5
+1356,esp,Spain,1992,71.8
+1357,esp,Spain,1993,75.5
+1358,esp,Spain,1994,75.6
+1359,esp,Spain,1995,73
+1360,esp,Spain,1996,73.3
+1361,esp,Spain,1997,71.6
+1362,esp,Spain,1998,66.2
+1363,esp,Spain,1999,62.2
+1364,esp,Spain,2000,57.1
+1365,esp,Spain,2001,55.3
+1366,esp,Spain,2002,51.6
+1367,esp,Spain,2003,45.6
+1368,esp,Spain,2004,40.8
+1369,esp,Spain,2005,37
+1370,esp,Spain,2006,35.1
+1371,esp,Spain,2007,33.1
+1372,esp,Spain,2008,37.1
+1373,esp,Spain,2009,48.7
+1374,esp,Spain,2010,48.2
+1375,esp,Spain,2011,51.4
+1376,esp,Spain,2012,53.4
+1377,esp,Spain,2013,54.2
+1378,esp,Spain,2014,53.4
+1379,esp,Spain,2015,49
+1380,esp,Spain,2016,47.4
+1381,esp,Spain,2017,46.2
+1382,esp,Spain,2018,46.3
+1383,esp,Spain,2019,46.2
+1384,est,Estonia,1990,64.7
+1385,est,Estonia,1991,59.8
+1386,est,Estonia,1992,67.3
+1387,est,Estonia,1993,67.3
+1388,est,Estonia,1994,66.1
+1389,est,Estonia,1995,69.1
+1390,est,Estonia,1996,67.2
+1391,est,Estonia,1997,68.5
+1392,est,Estonia,1998,68.9
+1393,est,Estonia,1999,70.8
+1394,est,Estonia,2000,70.6
+1395,est,Estonia,2001,69.6
+1396,est,Estonia,2002,64.6
+1397,est,Estonia,2003,53.4
+1398,est,Estonia,2004,47.2
+1399,est,Estonia,2005,40
+1400,est,Estonia,2006,37.3
+1401,est,Estonia,2007,26.7
+1402,est,Estonia,2008,30.3
+1403,est,Estonia,2009,38.6
+1404,est,Estonia,2010,34.8
+1405,est,Estonia,2011,31.4
+1406,est,Estonia,2012,25.9
+1407,est,Estonia,2013,22.1
+1408,est,Estonia,2014,21.6
+1409,est,Estonia,2015,21.1
+1410,est,Estonia,2016,20.5
+1411,est,Estonia,2017,20
+1412,est,Estonia,2018,20.1
+1413,est,Estonia,2019,20.1
+1414,eth,Ethiopia,2000,31.4
+1415,eth,Ethiopia,2001,33
+1416,eth,Ethiopia,2002,33.9
+1417,eth,Ethiopia,2003,34.4
+1418,eth,Ethiopia,2004,36
+1419,eth,Ethiopia,2005,38.2
+1420,eth,Ethiopia,2006,40
+1421,eth,Ethiopia,2007,41.6
+1422,eth,Ethiopia,2008,43.4
+1423,eth,Ethiopia,2009,44.2
+1424,eth,Ethiopia,2010,45.3
+1425,eth,Ethiopia,2011,46.5
+1426,eth,Ethiopia,2012,47.2
+1427,eth,Ethiopia,2013,48.2
+1428,eth,Ethiopia,2014,48.9
+1429,eth,Ethiopia,2015,49.7
+1430,eth,Ethiopia,2016,50.3
+1431,eth,Ethiopia,2017,51
+1432,eth,Ethiopia,2018,51.5
+1433,eth,Ethiopia,2019,52.3
+1434,fin,Finland,1990,64.6
+1435,fin,Finland,1991,60.9
+1436,fin,Finland,1992,40
+1437,fin,Finland,1993,49.2
+1438,fin,Finland,1994,42.2
+1439,fin,Finland,1995,41.6
+1440,fin,Finland,1996,40.1
+1441,fin,Finland,1997,41.9
+1442,fin,Finland,1998,36.2
+1443,fin,Finland,1999,32.2
+1444,fin,Finland,2000,32.5
+1445,fin,Finland,2001,28.3
+1446,fin,Finland,2002,26.5
+1447,fin,Finland,2003,23.1
+1448,fin,Finland,2004,23.4
+1449,fin,Finland,2005,24.5
+1450,fin,Finland,2006,22.4
+1451,fin,Finland,2007,21.6
+1452,fin,Finland,2008,22.6
+1453,fin,Finland,2009,23.6
+1454,fin,Finland,2010,23.4
+1455,fin,Finland,2011,23.6
+1456,fin,Finland,2012,23.6
+1457,fin,Finland,2013,22.8
+1458,fin,Finland,2014,23
+1459,fin,Finland,2015,23
+1460,fin,Finland,2016,22.5
+1461,fin,Finland,2017,22.2
+1462,fin,Finland,2018,22.2
+1463,fin,Finland,2019,22.3
+1464,fji,Fiji,1990,71.4
+1465,fji,Fiji,1991,70.8
+1466,fji,Fiji,1992,72.4
+1467,fji,Fiji,1993,72.7
+1468,fji,Fiji,1994,73.3
+1469,fji,Fiji,1995,73.9
+1470,fji,Fiji,1996,74.2
+1471,fji,Fiji,1997,74
+1472,fji,Fiji,1998,74.1
+1473,fji,Fiji,1999,74.6
+1474,fji,Fiji,2000,74.8
+1475,fji,Fiji,2001,75.3
+1476,fji,Fiji,2002,75.4
+1477,fji,Fiji,2003,75.6
+1478,fji,Fiji,2004,76.4
+1479,fji,Fiji,2005,75.9
+1480,fji,Fiji,2006,76.1
+1481,fji,Fiji,2007,76.5
+1482,fji,Fiji,2008,76.7
+1483,fji,Fiji,2009,77
+1484,fji,Fiji,2010,77.1
+1485,fji,Fiji,2011,77.4
+1486,fji,Fiji,2012,77.7
+1487,fji,Fiji,2013,77.7
+1488,fji,Fiji,2014,77.9
+1489,fji,Fiji,2015,78.3
+1490,fji,Fiji,2016,78.3
+1491,fji,Fiji,2017,78.5
+1492,fji,Fiji,2018,78.7
+1493,fji,Fiji,2019,78.8
+1494,fra,France,1990,72.8
+1495,fra,France,1991,72.1
+1496,fra,France,1992,68.6
+1497,fra,France,1993,70.6
+1498,fra,France,1994,71
+1499,fra,France,1995,67.6
+1500,fra,France,1996,69.2
+1501,fra,France,1997,73
+1502,fra,France,1998,67.5
+1503,fra,France,1999,67
+1504,fra,France,2000,65.4
+1505,fra,France,2001,66.3
+1506,fra,France,2002,64.3
+1507,fra,France,2003,61.2
+1508,fra,France,2004,58.6
+1509,fra,France,2005,57.4
+1510,fra,France,2006,56.7
+1511,fra,France,2007,54.3
+1512,fra,France,2008,53.6
+1513,fra,France,2009,56.1
+1514,fra,France,2010,57.3
+1515,fra,France,2011,59.1
+1516,fra,France,2012,58.4
+1517,fra,France,2013,56.5
+1518,fra,France,2014,56.8
+1519,fra,France,2015,54.5
+1520,fra,France,2016,53
+1521,fra,France,2017,52
+1522,fra,France,2018,52
+1523,fra,France,2019,52.2
+1524,gab,Gabon,1990,66.1
+1525,gab,Gabon,1991,66
+1526,gab,Gabon,1992,66.4
+1527,gab,Gabon,1993,66.7
+1528,gab,Gabon,1994,67
+1529,gab,Gabon,1995,67.3
+1530,gab,Gabon,1996,67.4
+1531,gab,Gabon,1997,67.6
+1532,gab,Gabon,1998,67.9
+1533,gab,Gabon,1999,67.3
+1534,gab,Gabon,2000,66.9
+1535,gab,Gabon,2001,67.2
+1536,gab,Gabon,2002,67.4
+1537,gab,Gabon,2003,67.5
+1538,gab,Gabon,2004,67.5
+1539,gab,Gabon,2005,68.1
+1540,gab,Gabon,2006,68
+1541,gab,Gabon,2007,68.6
+1542,gab,Gabon,2008,68.8
+1543,gab,Gabon,2009,69.6
+1544,gab,Gabon,2010,70.2
+1545,gab,Gabon,2011,70.8
+1546,gab,Gabon,2012,71.7
+1547,gab,Gabon,2013,72.4
+1548,gab,Gabon,2014,73.5
+1549,gab,Gabon,2015,73.8
+1550,gab,Gabon,2016,74.3
+1551,gab,Gabon,2017,74.7
+1552,gab,Gabon,2018,75
+1553,gab,Gabon,2019,75.7
+1554,gbr,United Kingdom,1990,67.6
+1555,gbr,United Kingdom,1991,66.8
+1556,gbr,United Kingdom,1992,67.2
+1557,gbr,United Kingdom,1993,69
+1558,gbr,United Kingdom,1994,66.6
+1559,gbr,United Kingdom,1995,64.8
+1560,gbr,United Kingdom,1996,63.1
+1561,gbr,United Kingdom,1997,58.9
+1562,gbr,United Kingdom,1998,53.3
+1563,gbr,United Kingdom,1999,50
+1564,gbr,United Kingdom,2000,45.6
+1565,gbr,United Kingdom,2001,47.4
+1566,gbr,United Kingdom,2002,46.1
+1567,gbr,United Kingdom,2003,43.8
+1568,gbr,United Kingdom,2004,39.1
+1569,gbr,United Kingdom,2005,36.1
+1570,gbr,United Kingdom,2006,33.6
+1571,gbr,United Kingdom,2007,32.8
+1572,gbr,United Kingdom,2008,35.6
+1573,gbr,United Kingdom,2009,46.3
+1574,gbr,United Kingdom,2010,41.8
+1575,gbr,United Kingdom,2011,42.7
+1576,gbr,United Kingdom,2012,40.2
+1577,gbr,United Kingdom,2013,40.1
+1578,gbr,United Kingdom,2014,40.5
+1579,gbr,United Kingdom,2015,40.1
+1580,gbr,United Kingdom,2016,39.3
+1581,gbr,United Kingdom,2017,38.8
+1582,gbr,United Kingdom,2018,38.9
+1583,gbr,United Kingdom,2019,39.1
+1584,geo,Georgia,2000,74.3
+1585,geo,Georgia,2001,74.7
+1586,geo,Georgia,2002,75.3
+1587,geo,Georgia,2003,76.2
+1588,geo,Georgia,2004,77.1
+1589,geo,Georgia,2005,78.1
+1590,geo,Georgia,2006,78.5
+1591,geo,Georgia,2007,79.5
+1592,geo,Georgia,2008,79.2
+1593,geo,Georgia,2009,79.7
+1594,geo,Georgia,2010,80.3
+1595,geo,Georgia,2011,79.9
+1596,geo,Georgia,2012,80.5
+1597,geo,Georgia,2013,81.1
+1598,geo,Georgia,2014,81.7
+1599,geo,Georgia,2015,82.1
+1600,geo,Georgia,2016,82.1
+1601,geo,Georgia,2017,82.6
+1602,geo,Georgia,2018,83.2
+1603,geo,Georgia,2019,83.9
+1604,gha,Ghana,1990,50.1
+1605,gha,Ghana,1991,50.7
+1606,gha,Ghana,1992,51.1
+1607,gha,Ghana,1993,51.5
+1608,gha,Ghana,1994,51.7
+1609,gha,Ghana,1995,52
+1610,gha,Ghana,1996,52.2
+1611,gha,Ghana,1997,52.3
+1612,gha,Ghana,1998,52.4
+1613,gha,Ghana,1999,52.7
+1614,gha,Ghana,2000,53.2
+1615,gha,Ghana,2001,53.2
+1616,gha,Ghana,2002,53.7
+1617,gha,Ghana,2003,53.9
+1618,gha,Ghana,2004,54.8
+1619,gha,Ghana,2005,56
+1620,gha,Ghana,2006,57
+1621,gha,Ghana,2007,58.2
+1622,gha,Ghana,2008,59.6
+1623,gha,Ghana,2009,60.1
+1624,gha,Ghana,2010,60.9
+1625,gha,Ghana,2011,61.9
+1626,gha,Ghana,2012,62.1
+1627,gha,Ghana,2013,63.1
+1628,gha,Ghana,2014,63.5
+1629,gha,Ghana,2015,63.5
+1630,gha,Ghana,2016,64.4
+1631,gha,Ghana,2017,64.8
+1632,gha,Ghana,2018,65.3
+1633,gha,Ghana,2019,65.9
+1634,gin,Guinea,1990,30.3
+1635,gin,Guinea,1991,30.8
+1636,gin,Guinea,1992,31.4
+1637,gin,Guinea,1993,31.9
+1638,gin,Guinea,1994,32.4
+1639,gin,Guinea,1995,32.9
+1640,gin,Guinea,1996,33.4
+1641,gin,Guinea,1997,34.3
+1642,gin,Guinea,1998,35.1
+1643,gin,Guinea,1999,35.9
+1644,gin,Guinea,2000,36.6
+1645,gin,Guinea,2001,37.4
+1646,gin,Guinea,2002,38.4
+1647,gin,Guinea,2003,37.3
+1648,gin,Guinea,2004,40.1
+1649,gin,Guinea,2005,41.3
+1650,gin,Guinea,2006,42.2
+1651,gin,Guinea,2007,43.1
+1652,gin,Guinea,2008,44
+1653,gin,Guinea,2009,44
+1654,gin,Guinea,2010,44.8
+1655,gin,Guinea,2011,46.2
+1656,gin,Guinea,2012,47.3
+1657,gin,Guinea,2013,47.9
+1658,gin,Guinea,2014,48.7
+1659,gin,Guinea,2015,49.2
+1660,gin,Guinea,2016,50.1
+1661,gin,Guinea,2017,50.8
+1662,gin,Guinea,2018,50.9
+1663,gin,Guinea,2019,51.4
+1664,gmb,Gambia,1990,37.6
+1665,gmb,Gambia,1991,38.1
+1666,gmb,Gambia,1992,38.6
+1667,gmb,Gambia,1993,39
+1668,gmb,Gambia,1994,39.4
+1669,gmb,Gambia,1995,39.8
+1670,gmb,Gambia,1996,40.6
+1671,gmb,Gambia,1997,41.1
+1672,gmb,Gambia,1998,41.8
+1673,gmb,Gambia,1999,42.6
+1674,gmb,Gambia,2000,43.4
+1675,gmb,Gambia,2001,44.2
+1676,gmb,Gambia,2002,44.8
+1677,gmb,Gambia,2003,45.5
+1678,gmb,Gambia,2004,46.5
+1679,gmb,Gambia,2005,46.8
+1680,gmb,Gambia,2006,47.4
+1681,gmb,Gambia,2007,48
+1682,gmb,Gambia,2008,48.8
+1683,gmb,Gambia,2009,49.2
+1684,gmb,Gambia,2010,49.4
+1685,gmb,Gambia,2011,49
+1686,gmb,Gambia,2012,49.7
+1687,gmb,Gambia,2013,50.3
+1688,gmb,Gambia,2014,50.4
+1689,gmb,Gambia,2015,50.8
+1690,gmb,Gambia,2016,51.1
+1691,gmb,Gambia,2017,51.7
+1692,gmb,Gambia,2018,52.4
+1693,gmb,Gambia,2019,53.4
+1694,grc,Greece,1990,67.9
+1695,grc,Greece,1991,64.3
+1696,grc,Greece,1992,59.6
+1697,grc,Greece,1993,57.3
+1698,grc,Greece,1994,56
+1699,grc,Greece,1995,50.3
+1700,grc,Greece,1996,46
+1701,grc,Greece,1997,52.3
+1702,grc,Greece,1998,38.6
+1703,grc,Greece,1999,35.5
+1704,grc,Greece,2000,31.8
+1705,grc,Greece,2001,31.6
+1706,grc,Greece,2002,30.2
+1707,grc,Greece,2003,26.6
+1708,grc,Greece,2004,25.4
+1709,grc,Greece,2005,25.1
+1710,grc,Greece,2006,24.9
+1711,grc,Greece,2007,22.7
+1712,grc,Greece,2008,22.6
+1713,grc,Greece,2009,25.1
+1714,grc,Greece,2010,28.5
+1715,grc,Greece,2011,31.2
+1716,grc,Greece,2012,31.8
+1717,grc,Greece,2013,34.4
+1718,grc,Greece,2014,34.2
+1719,grc,Greece,2015,33.5
+1720,grc,Greece,2016,32.8
+1721,grc,Greece,2017,32.5
+1722,grc,Greece,2018,32.6
+1723,grc,Greece,2019,32.8
+1724,gtm,Guatemala,1990,51.8
+1725,gtm,Guatemala,1991,52.4
+1726,gtm,Guatemala,1992,53.1
+1727,gtm,Guatemala,1993,53.7
+1728,gtm,Guatemala,1994,54.3
+1729,gtm,Guatemala,1995,55
+1730,gtm,Guatemala,1996,55.8
+1731,gtm,Guatemala,1997,56.7
+1732,gtm,Guatemala,1998,57.6
+1733,gtm,Guatemala,1999,58.4
+1734,gtm,Guatemala,2000,59.1
+1735,gtm,Guatemala,2001,59.9
+1736,gtm,Guatemala,2002,60.7
+1737,gtm,Guatemala,2003,61
+1738,gtm,Guatemala,2004,61.4
+1739,gtm,Guatemala,2005,61.8
+1740,gtm,Guatemala,2006,62.8
+1741,gtm,Guatemala,2007,63.8
+1742,gtm,Guatemala,2008,64.4
+1743,gtm,Guatemala,2009,64.8
+1744,gtm,Guatemala,2010,65.3
+1745,gtm,Guatemala,2011,65.9
+1746,gtm,Guatemala,2012,66.5
+1747,gtm,Guatemala,2013,66.9
+1748,gtm,Guatemala,2014,69.8
+1749,gtm,Guatemala,2015,70.2
+1750,gtm,Guatemala,2016,70.3
+1751,gtm,Guatemala,2017,70.6
+1752,gtm,Guatemala,2018,70.8
+1753,gtm,Guatemala,2019,71.4
+1754,hnd,Honduras,1990,55.9
+1755,hnd,Honduras,1991,55.8
+1756,hnd,Honduras,1992,56.4
+1757,hnd,Honduras,1993,57.1
+1758,hnd,Honduras,1994,57.5
+1759,hnd,Honduras,1995,58.2
+1760,hnd,Honduras,1996,58.7
+1761,hnd,Honduras,1997,59.4
+1762,hnd,Honduras,1998,59.9
+1763,hnd,Honduras,1999,60.3
+1764,hnd,Honduras,2000,61
+1765,hnd,Honduras,2001,61.5
+1766,hnd,Honduras,2002,62
+1767,hnd,Honduras,2003,62.5
+1768,hnd,Honduras,2004,63.2
+1769,hnd,Honduras,2005,63.8
+1770,hnd,Honduras,2006,64.5
+1771,hnd,Honduras,2007,65.3
+1772,hnd,Honduras,2008,65
+1773,hnd,Honduras,2009,65.2
+1774,hnd,Honduras,2010,65.6
+1775,hnd,Honduras,2011,66
+1776,hnd,Honduras,2012,65.9
+1777,hnd,Honduras,2013,66
+1778,hnd,Honduras,2014,66.3
+1779,hnd,Honduras,2015,66.6
+1780,hnd,Honduras,2016,67.4
+1781,hnd,Honduras,2017,67.9
+1782,hnd,Honduras,2018,68.1
+1783,hnd,Honduras,2019,68.3
+1784,hrv,Croatia,1990,71.5
+1785,hrv,Croatia,1991,71.4
+1786,hrv,Croatia,1992,71.8
+1787,hrv,Croatia,1993,71.8
+1788,hrv,Croatia,1994,73.3
+1789,hrv,Croatia,1995,73.8
+1790,hrv,Croatia,1996,74.5
+1791,hrv,Croatia,1997,74.4
+1792,hrv,Croatia,1998,75.1
+1793,hrv,Croatia,1999,76.3
+1794,hrv,Croatia,2000,78
+1795,hrv,Croatia,2001,77.2
+1796,hrv,Croatia,2002,75.7
+1797,hrv,Croatia,2003,72.5
+1798,hrv,Croatia,2004,70.6
+1799,hrv,Croatia,2005,70.6
+1800,hrv,Croatia,2006,69.3
+1801,hrv,Croatia,2007,67.9
+1802,hrv,Croatia,2008,67
+1803,hrv,Croatia,2009,70.9
+1804,hrv,Croatia,2010,74.2
+1805,hrv,Croatia,2011,74.3
+1806,hrv,Croatia,2012,74.8
+1807,hrv,Croatia,2013,73.6
+1808,hrv,Croatia,2014,72.7
+1809,hrv,Croatia,2015,70.8
+1810,hrv,Croatia,2016,69.8
+1811,hrv,Croatia,2017,68.8
+1812,hrv,Croatia,2018,68.9
+1813,hrv,Croatia,2019,69
+1814,hti,Haiti,1990,44.5
+1815,hti,Haiti,1991,45
+1816,hti,Haiti,1992,45
+1817,hti,Haiti,1993,45
+1818,hti,Haiti,1994,44.7
+1819,hti,Haiti,1995,45.5
+1820,hti,Haiti,1996,46.1
+1821,hti,Haiti,1997,46.5
+1822,hti,Haiti,1998,46.9
+1823,hti,Haiti,1999,47.3
+1824,hti,Haiti,2000,47.6
+1825,hti,Haiti,2001,47.9
+1826,hti,Haiti,2002,48.1
+1827,hti,Haiti,2003,48.4
+1828,hti,Haiti,2004,48.5
+1829,hti,Haiti,2005,48.8
+1830,hti,Haiti,2006,49.3
+1831,hti,Haiti,2007,49.8
+1832,hti,Haiti,2008,50.2
+1833,hti,Haiti,2009,50.6
+1834,hti,Haiti,2010,50.7
+1835,hti,Haiti,2011,51.5
+1836,hti,Haiti,2012,51.9
+1837,hti,Haiti,2013,52.5
+1838,hti,Haiti,2014,53
+1839,hti,Haiti,2015,53.4
+1840,hti,Haiti,2016,53.9
+1841,hti,Haiti,2017,54.4
+1842,hti,Haiti,2018,54.8
+1843,hti,Haiti,2019,54.9
+1844,hun,Hungary,1990,74.3
+1845,hun,Hungary,1991,73.3
+1846,hun,Hungary,1992,74.3
+1847,hun,Hungary,1993,74.4
+1848,hun,Hungary,1994,75.5
+1849,hun,Hungary,1995,77
+1850,hun,Hungary,1996,77.6
+1851,hun,Hungary,1997,77.6
+1852,hun,Hungary,1998,78
+1853,hun,Hungary,1999,78.4
+1854,hun,Hungary,2000,79.5
+1855,hun,Hungary,2001,78.8
+1856,hun,Hungary,2002,78.2
+1857,hun,Hungary,2003,76.2
+1858,hun,Hungary,2004,73.2
+1859,hun,Hungary,2005,71.2
+1860,hun,Hungary,2006,73.8
+1861,hun,Hungary,2007,73.5
+1862,hun,Hungary,2008,72.2
+1863,hun,Hungary,2009,76.1
+1864,hun,Hungary,2010,77.4
+1865,hun,Hungary,2011,76.9
+1866,hun,Hungary,2012,77.9
+1867,hun,Hungary,2013,77.7
+1868,hun,Hungary,2014,75.6
+1869,hun,Hungary,2015,74.3
+1870,hun,Hungary,2016,73.6
+1871,hun,Hungary,2017,73.1
+1872,hun,Hungary,2018,73.3
+1873,hun,Hungary,2019,73.4
+1874,idn,Indonesia,1990,56.3
+1875,idn,Indonesia,1991,56.9
+1876,idn,Indonesia,1992,57.5
+1877,idn,Indonesia,1993,58.2
+1878,idn,Indonesia,1994,59.2
+1879,idn,Indonesia,1995,60.3
+1880,idn,Indonesia,1996,61.7
+1881,idn,Indonesia,1997,63.2
+1882,idn,Indonesia,1998,63.2
+1883,idn,Indonesia,1999,64
+1884,idn,Indonesia,2000,64.9
+1885,idn,Indonesia,2001,65.6
+1886,idn,Indonesia,2002,66.3
+1887,idn,Indonesia,2003,67
+1888,idn,Indonesia,2004,67.6
+1889,idn,Indonesia,2005,68
+1890,idn,Indonesia,2006,69.1
+1891,idn,Indonesia,2007,69.2
+1892,idn,Indonesia,2008,69.7
+1893,idn,Indonesia,2009,70.9
+1894,idn,Indonesia,2010,71.6
+1895,idn,Indonesia,2011,72.5
+1896,idn,Indonesia,2012,73.3
+1897,idn,Indonesia,2013,74
+1898,idn,Indonesia,2014,74.2
+1899,idn,Indonesia,2015,74.8
+1900,idn,Indonesia,2016,75.5
+1901,idn,Indonesia,2017,76
+1902,idn,Indonesia,2018,76.5
+1903,idn,Indonesia,2019,77.1
+1904,ind,India,1990,46.2
+1905,ind,India,1991,46.6
+1906,ind,India,1992,47.4
+1907,ind,India,1993,48
+1908,ind,India,1994,48.8
+1909,ind,India,1995,49.6
+1910,ind,India,1996,50.5
+1911,ind,India,1997,51.1
+1912,ind,India,1998,51.8
+1913,ind,India,1999,52.7
+1914,ind,India,2000,53.3
+1915,ind,India,2001,53.8
+1916,ind,India,2002,54.4
+1917,ind,India,2003,55.8
+1918,ind,India,2004,56.8
+1919,ind,India,2005,57.7
+1920,ind,India,2006,58.8
+1921,ind,India,2007,59.8
+1922,ind,India,2008,60.6
+1923,ind,India,2009,61.2
+1924,ind,India,2010,62.3
+1925,ind,India,2011,63.3
+1926,ind,India,2012,64.3
+1927,ind,India,2013,65.1
+1928,ind,India,2014,66.3
+1929,ind,India,2015,67.2
+1930,ind,India,2016,67.9
+1931,ind,India,2017,69
+1932,ind,India,2018,69.1
+1933,ind,India,2019,69.6
+1934,irl,Ireland,1990,74.7
+1935,irl,Ireland,1991,71.8
+1936,irl,Ireland,1992,73.3
+1937,irl,Ireland,1993,74.5
+1938,irl,Ireland,1994,72.4
+1939,irl,Ireland,1995,69.2
+1940,irl,Ireland,1996,67
+1941,irl,Ireland,1997,65.1
+1942,irl,Ireland,1998,60.7
+1943,irl,Ireland,1999,57.1
+1944,irl,Ireland,2000,52.1
+1945,irl,Ireland,2001,52.4
+1946,irl,Ireland,2002,49.1
+1947,irl,Ireland,2003,41.9
+1948,irl,Ireland,2004,37.2
+1949,irl,Ireland,2005,33.3
+1950,irl,Ireland,2006,30.9
+1951,irl,Ireland,2007,31
+1952,irl,Ireland,2008,31.8
+1953,irl,Ireland,2009,41.5
+1954,irl,Ireland,2010,43.1
+1955,irl,Ireland,2011,47.5
+1956,irl,Ireland,2012,47.1
+1957,irl,Ireland,2013,45.6
+1958,irl,Ireland,2014,44.9
+1959,irl,Ireland,2015,43.5
+1960,irl,Ireland,2016,42.8
+1961,irl,Ireland,2017,42.3
+1962,irl,Ireland,2018,42.3
+1963,irl,Ireland,2019,42.4
+1964,irn,Iran,1990,60.2
+1965,irn,Iran,1991,61.7
+1966,irn,Iran,1992,62.9
+1967,irn,Iran,1993,64.1
+1968,irn,Iran,1994,64.8
+1969,irn,Iran,1995,65.8
+1970,irn,Iran,1996,66.3
+1971,irn,Iran,1997,66.7
+1972,irn,Iran,1998,67.1
+1973,irn,Iran,1999,67.5
+1974,irn,Iran,2000,68.1
+1975,irn,Iran,2001,68.1
+1976,irn,Iran,2002,67.9
+1977,irn,Iran,2003,67.8
+1978,irn,Iran,2004,66.5
+1979,irn,Iran,2005,65.8
+1980,irn,Iran,2006,67.1
+1981,irn,Iran,2007,65.6
+1982,irn,Iran,2008,66.2
+1983,irn,Iran,2009,64
+1984,irn,Iran,2010,64.6
+1985,irn,Iran,2011,63.2
+1986,irn,Iran,2012,64
+1987,irn,Iran,2013,65
+1988,irn,Iran,2014,63.2
+1989,irn,Iran,2015,61.7
+1990,irn,Iran,2016,61.7
+1991,irn,Iran,2017,61.5
+1992,irn,Iran,2018,61.3
+1993,irn,Iran,2019,61.2
+1994,irq,Iraq,1990,60.1
+1995,irq,Iraq,1991,55
+1996,irq,Iraq,1992,56.4
+1997,irq,Iraq,1993,58.2
+1998,irq,Iraq,1994,58
+1999,irq,Iraq,1995,57.4
+2000,irq,Iraq,1996,60.1
+2001,irq,Iraq,1997,61.3
+2002,irq,Iraq,1998,62.8
+2003,irq,Iraq,1999,63.6
+2004,irq,Iraq,2000,64.1
+2005,irq,Iraq,2001,64.8
+2006,irq,Iraq,2002,64.9
+2007,irq,Iraq,2003,63.4
+2008,irq,Iraq,2004,66.2
+2009,irq,Iraq,2005,66.5
+2010,irq,Iraq,2006,66.9
+2011,irq,Iraq,2007,67.1
+2012,irq,Iraq,2008,67.6
+2013,irq,Iraq,2009,67.1
+2014,irq,Iraq,2010,67.3
+2015,irq,Iraq,2011,67.8
+2016,irq,Iraq,2012,68
+2017,irq,Iraq,2013,67.6
+2018,irq,Iraq,2014,67.5
+2019,irq,Iraq,2015,67.8
+2020,irq,Iraq,2016,68.5
+2021,irq,Iraq,2017,69.7
+2022,irq,Iraq,2018,70.1
+2023,irq,Iraq,2019,70.4
+2024,isl,Iceland,1990,66.4
+2025,isl,Iceland,1991,37
+2026,isl,Iceland,1992,52.2
+2027,isl,Iceland,1993,56.1
+2028,isl,Iceland,1994,54.9
+2029,isl,Iceland,1995,54.7
+2030,isl,Iceland,1996,45.6
+2031,isl,Iceland,1997,47.3
+2032,isl,Iceland,1998,31.3
+2033,isl,Iceland,1999,28.7
+2034,isl,Iceland,2000,26.4
+2035,isl,Iceland,2001,31.3
+2036,isl,Iceland,2002,30.6
+2037,isl,Iceland,2003,25.5
+2038,isl,Iceland,2004,21
+2039,isl,Iceland,2005,16.8
+2040,isl,Iceland,2006,15.1
+2041,isl,Iceland,2007,15.2
+2042,isl,Iceland,2008,20.3
+2043,isl,Iceland,2009,29.5
+2044,isl,Iceland,2010,28.8
+2045,isl,Iceland,2011,26.3
+2046,isl,Iceland,2012,25.4
+2047,isl,Iceland,2013,24.2
+2048,isl,Iceland,2014,23.9
+2049,isl,Iceland,2015,23.4
+2050,isl,Iceland,2016,23.1
+2051,isl,Iceland,2017,23
+2052,isl,Iceland,2018,23.1
+2053,isl,Iceland,2019,23.2
+2054,isr,Israel,1990,75.5
+2055,isr,Israel,1991,67.9
+2056,isr,Israel,1992,69.1
+2057,isr,Israel,1993,65.4
+2058,isr,Israel,1994,61.9
+2059,isr,Israel,1995,56.7
+2060,isr,Israel,1996,54.3
+2061,isr,Israel,1997,56.5
+2062,isr,Israel,1998,51.7
+2063,isr,Israel,1999,52.5
+2064,isr,Israel,2000,49.4
+2065,isr,Israel,2001,50.9
+2066,isr,Israel,2002,49.6
+2067,isr,Israel,2003,55.2
+2068,isr,Israel,2004,62.8
+2069,isr,Israel,2005,60.3
+2070,isr,Israel,2006,57
+2071,isr,Israel,2007,52.6
+2072,isr,Israel,2008,51.8
+2073,isr,Israel,2009,53.4
+2074,isr,Israel,2010,48.1
+2075,isr,Israel,2011,44.5
+2076,isr,Israel,2012,43.4
+2077,isr,Israel,2013,43.6
+2078,isr,Israel,2014,44.1
+2079,isr,Israel,2015,42.6
+2080,isr,Israel,2016,42.1
+2081,isr,Israel,2017,41.8
+2082,isr,Israel,2018,41.8
+2083,isr,Israel,2019,41.9
+2084,ita,Italy,1990,72.1
+2085,ita,Italy,1991,70.5
+2086,ita,Italy,1992,66.2
+2087,ita,Italy,1993,70.8
+2088,ita,Italy,1994,70.9
+2089,ita,Italy,1995,69.6
+2090,ita,Italy,1996,69.3
+2091,ita,Italy,1997,68.6
+2092,ita,Italy,1998,65.7
+2093,ita,Italy,1999,63.9
+2094,ita,Italy,2000,63
+2095,ita,Italy,2001,63
+2096,ita,Italy,2002,59.7
+2097,ita,Italy,2003,54
+2098,ita,Italy,2004,50.7
+2099,ita,Italy,2005,48.9
+2100,ita,Italy,2006,46.2
+2101,ita,Italy,2007,44.3
+2102,ita,Italy,2008,45.6
+2103,ita,Italy,2009,51.2
+2104,ita,Italy,2010,51
+2105,ita,Italy,2011,56.1
+2106,ita,Italy,2012,55.8
+2107,ita,Italy,2013,58.1
+2108,ita,Italy,2014,58.6
+2109,ita,Italy,2015,55.2
+2110,ita,Italy,2016,53.5
+2111,ita,Italy,2017,52.2
+2112,ita,Italy,2018,52.4
+2113,ita,Italy,2019,52.5
+2114,jam,Jamaica,1990,69.1
+2115,jam,Jamaica,1991,69.1
+2116,jam,Jamaica,1992,70.1
+2117,jam,Jamaica,1993,71.4
+2118,jam,Jamaica,1994,71.5
+2119,jam,Jamaica,1995,71.6
+2120,jam,Jamaica,1996,71.6
+2121,jam,Jamaica,1997,71.7
+2122,jam,Jamaica,1998,71.8
+2123,jam,Jamaica,1999,72
+2124,jam,Jamaica,2000,71.2
+2125,jam,Jamaica,2001,72.2
+2126,jam,Jamaica,2002,72.3
+2127,jam,Jamaica,2003,71.5
+2128,jam,Jamaica,2004,73.4
+2129,jam,Jamaica,2005,73.1
+2130,jam,Jamaica,2006,72.3
+2131,jam,Jamaica,2007,73.2
+2132,jam,Jamaica,2008,74.7
+2133,jam,Jamaica,2009,77.4
+2134,jam,Jamaica,2010,77.2
+2135,jam,Jamaica,2011,76.4
+2136,jam,Jamaica,2012,76.2
+2137,jam,Jamaica,2013,75.7
+2138,jam,Jamaica,2014,75.3
+2139,jam,Jamaica,2015,75.3
+2140,jam,Jamaica,2016,75.3
+2141,jam,Jamaica,2017,75.7
+2142,jam,Jamaica,2018,75.7
+2143,jam,Jamaica,2019,75.6
+2144,jor,Jordan,1990,67.4
+2145,jor,Jordan,1991,68.2
+2146,jor,Jordan,1992,70.4
+2147,jor,Jordan,1993,71.6
+2148,jor,Jordan,1994,72.7
+2149,jor,Jordan,1995,74.2
+2150,jor,Jordan,1996,74.3
+2151,jor,Jordan,1997,74.7
+2152,jor,Jordan,1998,75
+2153,jor,Jordan,1999,75.5
+2154,jor,Jordan,2000,75.8
+2155,jor,Jordan,2001,76.4
+2156,jor,Jordan,2002,76
+2157,jor,Jordan,2003,76.6
+2158,jor,Jordan,2004,76.9
+2159,jor,Jordan,2005,77.8
+2160,jor,Jordan,2006,78
+2161,jor,Jordan,2007,78.2
+2162,jor,Jordan,2008,78.6
+2163,jor,Jordan,2009,78.4
+2164,jor,Jordan,2010,77.7
+2165,jor,Jordan,2011,77.3
+2166,jor,Jordan,2012,77.5
+2167,jor,Jordan,2013,77
+2168,jor,Jordan,2014,77.1
+2169,jor,Jordan,2015,77.2
+2170,jor,Jordan,2016,77.1
+2171,jor,Jordan,2017,76.8
+2172,jor,Jordan,2018,76.9
+2173,jor,Jordan,2019,77.1
+2174,jpn,Japan,1990,67.6
+2175,jpn,Japan,1991,67.1
+2176,jpn,Japan,1992,62
+2177,jpn,Japan,1993,59.8
+2178,jpn,Japan,1994,53.4
+2179,jpn,Japan,1995,49.5
+2180,jpn,Japan,1996,49.9
+2181,jpn,Japan,1997,52.2
+2182,jpn,Japan,1998,53.5
+2183,jpn,Japan,1999,49.8
+2184,jpn,Japan,2000,41.8
+2185,jpn,Japan,2001,44.4
+2186,jpn,Japan,2002,44.7
+2187,jpn,Japan,2003,43.3
+2188,jpn,Japan,2004,39.9
+2189,jpn,Japan,2005,39.4
+2190,jpn,Japan,2006,37
+2191,jpn,Japan,2007,39.3
+2192,jpn,Japan,2008,38.6
+2193,jpn,Japan,2009,43.9
+2194,jpn,Japan,2010,40.4
+2195,jpn,Japan,2011,35.4
+2196,jpn,Japan,2012,32.6
+2197,jpn,Japan,2013,33.8
+2198,jpn,Japan,2014,33.7
+2199,jpn,Japan,2015,32.1
+2200,jpn,Japan,2016,31.2
+2201,jpn,Japan,2017,30.4
+2202,jpn,Japan,2018,30.5
+2203,jpn,Japan,2019,30.5
+2204,kaz,Kazakhstan,1991,70.9
+2205,kaz,Kazakhstan,1992,43
+2206,kaz,Kazakhstan,1993,56.3
+2207,kaz,Kazakhstan,1994,58.5
+2208,kaz,Kazakhstan,1995,62.9
+2209,kaz,Kazakhstan,1996,64.6
+2210,kaz,Kazakhstan,1997,66.1
+2211,kaz,Kazakhstan,1998,66.1
+2212,kaz,Kazakhstan,1999,67.1
+2213,kaz,Kazakhstan,2000,68
+2214,kaz,Kazakhstan,2001,67
+2215,kaz,Kazakhstan,2002,67.1
+2216,kaz,Kazakhstan,2003,66.4
+2217,kaz,Kazakhstan,2004,65.2
+2218,kaz,Kazakhstan,2005,63.5
+2219,kaz,Kazakhstan,2006,56.4
+2220,kaz,Kazakhstan,2007,49.5
+2221,kaz,Kazakhstan,2008,51.1
+2222,kaz,Kazakhstan,2009,49.6
+2223,kaz,Kazakhstan,2010,49.8
+2224,kaz,Kazakhstan,2011,45.2
+2225,kaz,Kazakhstan,2012,48.9
+2226,kaz,Kazakhstan,2013,41.2
+2227,kaz,Kazakhstan,2014,40.6
+2228,kaz,Kazakhstan,2015,40.5
+2229,kaz,Kazakhstan,2016,39.6
+2230,kaz,Kazakhstan,2017,39
+2231,kaz,Kazakhstan,2018,39.3
+2232,kaz,Kazakhstan,2019,39.5
+2233,ken,Kenya,1990,51.9
+2234,ken,Kenya,1991,51.6
+2235,ken,Kenya,1992,51.3
+2236,ken,Kenya,1993,50.8
+2237,ken,Kenya,1994,50.6
+2238,ken,Kenya,1995,50.4
+2239,ken,Kenya,1996,50.3
+2240,ken,Kenya,1997,50
+2241,ken,Kenya,1998,49.8
+2242,ken,Kenya,1999,49.7
+2243,ken,Kenya,2000,49.6
+2244,ken,Kenya,2001,50.1
+2245,ken,Kenya,2002,50.1
+2246,ken,Kenya,2003,51.4
+2247,ken,Kenya,2004,52.8
+2248,ken,Kenya,2005,53.8
+2249,ken,Kenya,2006,55.5
+2250,ken,Kenya,2007,56.4
+2251,ken,Kenya,2008,57.3
+2252,ken,Kenya,2009,58.2
+2253,ken,Kenya,2010,59.3
+2254,ken,Kenya,2011,60.2
+2255,ken,Kenya,2012,61
+2256,ken,Kenya,2013,61.7
+2257,ken,Kenya,2014,62.4
+2258,ken,Kenya,2015,63.2
+2259,ken,Kenya,2016,63.7
+2260,ken,Kenya,2017,64.1
+2261,ken,Kenya,2018,64.5
+2262,ken,Kenya,2019,64.7
+2263,kgz,Kyrgyz Republic,1991,68.3
+2264,kgz,Kyrgyz Republic,1992,67.3
+2265,kgz,Kyrgyz Republic,1993,66
+2266,kgz,Kyrgyz Republic,1994,64
+2267,kgz,Kyrgyz Republic,1995,63.4
+2268,kgz,Kyrgyz Republic,1996,64
+2269,kgz,Kyrgyz Republic,1997,64.8
+2270,kgz,Kyrgyz Republic,1998,65.3
+2271,kgz,Kyrgyz Republic,1999,66.1
+2272,kgz,Kyrgyz Republic,2000,66.7
+2273,kgz,Kyrgyz Republic,2001,67.7
+2274,kgz,Kyrgyz Republic,2002,67.9
+2275,kgz,Kyrgyz Republic,2003,68.6
+2276,kgz,Kyrgyz Republic,2004,69
+2277,kgz,Kyrgyz Republic,2005,69.1
+2278,kgz,Kyrgyz Republic,2006,69.7
+2279,kgz,Kyrgyz Republic,2007,70.3
+2280,kgz,Kyrgyz Republic,2008,70.4
+2281,kgz,Kyrgyz Republic,2009,71
+2282,kgz,Kyrgyz Republic,2010,71.1
+2283,kgz,Kyrgyz Republic,2011,71.2
+2284,kgz,Kyrgyz Republic,2012,72.3
+2285,kgz,Kyrgyz Republic,2013,72.7
+2286,kgz,Kyrgyz Republic,2014,73.4
+2287,kgz,Kyrgyz Republic,2015,73.8
+2288,kgz,Kyrgyz Republic,2016,73.9
+2289,kgz,Kyrgyz Republic,2017,74.2
+2290,kgz,Kyrgyz Republic,2018,74.4
+2291,kgz,Kyrgyz Republic,2019,74.6
+2292,khm,Cambodia,1990,39.6
+2293,khm,Cambodia,1991,40.1
+2294,khm,Cambodia,1992,40.6
+2295,khm,Cambodia,1993,41
+2296,khm,Cambodia,1994,41.4
+2297,khm,Cambodia,1995,42.1
+2298,khm,Cambodia,1996,42.6
+2299,khm,Cambodia,1997,43.1
+2300,khm,Cambodia,1998,43.7
+2301,khm,Cambodia,1999,44.3
+2302,khm,Cambodia,2000,45.6
+2303,khm,Cambodia,2001,47.2
+2304,khm,Cambodia,2002,49.2
+2305,khm,Cambodia,2003,50.6
+2306,khm,Cambodia,2004,51.9
+2307,khm,Cambodia,2005,53.2
+2308,khm,Cambodia,2006,54.5
+2309,khm,Cambodia,2007,56
+2310,khm,Cambodia,2008,56.6
+2311,khm,Cambodia,2009,56.9
+2312,khm,Cambodia,2010,58.1
+2313,khm,Cambodia,2011,58.7
+2314,khm,Cambodia,2012,59.5
+2315,khm,Cambodia,2013,60.3
+2316,khm,Cambodia,2014,60.9
+2317,khm,Cambodia,2015,61.4
+2318,khm,Cambodia,2016,62
+2319,khm,Cambodia,2017,62.6
+2320,khm,Cambodia,2018,63.1
+2321,khm,Cambodia,2019,64
+2322,kor,South Korea,1990,73.9
+2323,kor,South Korea,1991,72.6
+2324,kor,South Korea,1992,71.3
+2325,kor,South Korea,1993,70.5
+2326,kor,South Korea,1994,66.1
+2327,kor,South Korea,1995,61.3
+2328,kor,South Korea,1996,62.9
+2329,kor,South Korea,1997,65.1
+2330,kor,South Korea,1998,72.9
+2331,kor,South Korea,1999,66.8
+2332,kor,South Korea,2000,59.3
+2333,kor,South Korea,2001,57.1
+2334,kor,South Korea,2002,54.1
+2335,kor,South Korea,2003,54.3
+2336,kor,South Korea,2004,50
+2337,kor,South Korea,2005,49.7
+2338,kor,South Korea,2006,44.8
+2339,kor,South Korea,2007,39.5
+2340,kor,South Korea,2008,39.3
+2341,kor,South Korea,2009,42.1
+2342,kor,South Korea,2010,36.2
+2343,kor,South Korea,2011,34.4
+2344,kor,South Korea,2012,32.2
+2345,kor,South Korea,2013,30.6
+2346,kor,South Korea,2014,30.2
+2347,kor,South Korea,2015,28.9
+2348,kor,South Korea,2016,28
+2349,kor,South Korea,2017,27.3
+2350,kor,South Korea,2018,27.3
+2351,kor,South Korea,2019,27.4
+2352,kwt,Kuwait,1990,29.7
+2353,kwt,Kuwait,1991,16.5
+2354,kwt,Kuwait,1992,14.3
+2355,kwt,Kuwait,1993,13.5
+2356,kwt,Kuwait,1994,12.9
+2357,kwt,Kuwait,1995,12.4
+2358,kwt,Kuwait,1996,12.2
+2359,kwt,Kuwait,1997,14
+2360,kwt,Kuwait,1998,13.4
+2361,kwt,Kuwait,1999,14.8
+2362,kwt,Kuwait,2000,19.2
+2363,kwt,Kuwait,2001,15.2
+2364,kwt,Kuwait,2002,13.6
+2365,kwt,Kuwait,2003,11.9
+2366,kwt,Kuwait,2004,10.5
+2367,kwt,Kuwait,2005,9.5
+2368,kwt,Kuwait,2006,9.8
+2369,kwt,Kuwait,2007,9.2
+2370,kwt,Kuwait,2008,9.3
+2371,kwt,Kuwait,2009,9.7
+2372,kwt,Kuwait,2010,10.3
+2373,kwt,Kuwait,2011,10.3
+2374,kwt,Kuwait,2012,10.1
+2375,kwt,Kuwait,2013,9.8
+2376,kwt,Kuwait,2014,10.1
+2377,kwt,Kuwait,2015,10
+2378,kwt,Kuwait,2016,9.9
+2379,kwt,Kuwait,2017,9.9
+2380,kwt,Kuwait,2018,9.9
+2381,kwt,Kuwait,2019,9.9
+2382,lao,Lao,1990,43.6
+2383,lao,Lao,1991,44.1
+2384,lao,Lao,1992,44.7
+2385,lao,Lao,1993,45.4
+2386,lao,Lao,1994,46.4
+2387,lao,Lao,1995,46.6
+2388,lao,Lao,1996,47.9
+2389,lao,Lao,1997,48.7
+2390,lao,Lao,1998,49.5
+2391,lao,Lao,1999,50.3
+2392,lao,Lao,2000,50.8
+2393,lao,Lao,2001,51.3
+2394,lao,Lao,2002,52.3
+2395,lao,Lao,2003,53.2
+2396,lao,Lao,2004,54.2
+2397,lao,Lao,2005,55.1
+2398,lao,Lao,2006,55.3
+2399,lao,Lao,2007,56.8
+2400,lao,Lao,2008,57.7
+2401,lao,Lao,2009,58.7
+2402,lao,Lao,2010,59.5
+2403,lao,Lao,2011,60.8
+2404,lao,Lao,2012,62
+2405,lao,Lao,2013,62.7
+2406,lao,Lao,2014,63.5
+2407,lao,Lao,2015,64.4
+2408,lao,Lao,2016,65.1
+2409,lao,Lao,2017,65.3
+2410,lao,Lao,2018,65.5
+2411,lao,Lao,2019,65.8
+2412,lbn,Lebanon,2005,75.2
+2413,lbn,Lebanon,2006,74.1
+2414,lbn,Lebanon,2007,76.4
+2415,lbn,Lebanon,2008,74.6
+2416,lbn,Lebanon,2009,71.2
+2417,lbn,Lebanon,2010,69.9
+2418,lbn,Lebanon,2011,69.7
+2419,lbn,Lebanon,2012,69.5
+2420,lbn,Lebanon,2013,70.6
+2421,lbn,Lebanon,2014,70.3
+2422,lbn,Lebanon,2015,70.3
+2423,lbn,Lebanon,2016,69.8
+2424,lbn,Lebanon,2017,70.3
+2425,lbn,Lebanon,2018,70.2
+2426,lbn,Lebanon,2019,69.9
+2427,lbr,Liberia,1999,42.9
+2428,lbr,Liberia,2000,46.8
+2429,lbr,Liberia,2001,46.8
+2430,lbr,Liberia,2002,47
+2431,lbr,Liberia,2003,44.9
+2432,lbr,Liberia,2004,46
+2433,lbr,Liberia,2005,46.5
+2434,lbr,Liberia,2006,47.2
+2435,lbr,Liberia,2007,48
+2436,lbr,Liberia,2008,48.5
+2437,lbr,Liberia,2009,48.7
+2438,lbr,Liberia,2010,49
+2439,lbr,Liberia,2011,50.8
+2440,lbr,Liberia,2012,50.6
+2441,lbr,Liberia,2013,51.4
+2442,lbr,Liberia,2014,51.5
+2443,lbr,Liberia,2015,51.4
+2444,lbr,Liberia,2016,51.4
+2445,lbr,Liberia,2017,51.8
+2446,lbr,Liberia,2018,51.7
+2447,lbr,Liberia,2019,51.7
+2448,lby,Libya,1990,72.2
+2449,lby,Libya,1991,72.6
+2450,lby,Libya,1992,73.1
+2451,lby,Libya,1993,73.3
+2452,lby,Libya,1994,73.5
+2453,lby,Libya,1995,74.2
+2454,lby,Libya,1996,74.5
+2455,lby,Libya,1997,75.4
+2456,lby,Libya,1998,75.2
+2457,lby,Libya,1999,75.9
+2458,lby,Libya,2000,76.7
+2459,lby,Libya,2001,77.3
+2460,lby,Libya,2002,78
+2461,lby,Libya,2003,79.1
+2462,lby,Libya,2004,79.3
+2463,lby,Libya,2005,79.3
+2464,lby,Libya,2006,78.9
+2465,lby,Libya,2007,79.1
+2466,lby,Libya,2008,78.7
+2467,lby,Libya,2009,78.2
+2468,lby,Libya,2010,77.8
+2469,lby,Libya,2011,78.7
+2470,lby,Libya,2012,76.9
+2471,lby,Libya,2013,76.8
+2472,lby,Libya,2014,76.5
+2473,lby,Libya,2015,72.9
+2474,lby,Libya,2016,71.8
+2475,lby,Libya,2017,74.7
+2476,lby,Libya,2018,75.5
+2477,lby,Libya,2019,75.7
+2478,lka,Sri Lanka,1990,67.7
+2479,lka,Sri Lanka,1991,68.3
+2480,lka,Sri Lanka,1992,68.8
+2481,lka,Sri Lanka,1993,69.1
+2482,lka,Sri Lanka,1994,70
+2483,lka,Sri Lanka,1995,70.4
+2484,lka,Sri Lanka,1996,70.9
+2485,lka,Sri Lanka,1997,71.7
+2486,lka,Sri Lanka,1998,72.5
+2487,lka,Sri Lanka,1999,73.4
+2488,lka,Sri Lanka,2000,74.4
+2489,lka,Sri Lanka,2001,75
+2490,lka,Sri Lanka,2002,75.8
+2491,lka,Sri Lanka,2003,76.7
+2492,lka,Sri Lanka,2004,77.4
+2493,lka,Sri Lanka,2005,78.1
+2494,lka,Sri Lanka,2006,78.8
+2495,lka,Sri Lanka,2007,79.5
+2496,lka,Sri Lanka,2008,80.4
+2497,lka,Sri Lanka,2009,80.7
+2498,lka,Sri Lanka,2010,81.2
+2499,lka,Sri Lanka,2011,81.9
+2500,lka,Sri Lanka,2012,82.5
+2501,lka,Sri Lanka,2013,82.8
+2502,lka,Sri Lanka,2014,83.2
+2503,lka,Sri Lanka,2015,83.6
+2504,lka,Sri Lanka,2016,83.2
+2505,lka,Sri Lanka,2017,83.5
+2506,lka,Sri Lanka,2018,83.9
+2507,lka,Sri Lanka,2019,84.3
+2508,lso,Lesotho,1990,53.6
+2509,lso,Lesotho,1991,51.5
+2510,lso,Lesotho,1992,53.1
+2511,lso,Lesotho,1993,52.4
+2512,lso,Lesotho,1994,52.3
+2513,lso,Lesotho,1995,52
+2514,lso,Lesotho,1996,51.4
+2515,lso,Lesotho,1997,50.8
+2516,lso,Lesotho,1998,50.6
+2517,lso,Lesotho,1999,49.6
+2518,lso,Lesotho,2000,49.4
+2519,lso,Lesotho,2001,48.6
+2520,lso,Lesotho,2002,48
+2521,lso,Lesotho,2003,47.8
+2522,lso,Lesotho,2004,47.4
+2523,lso,Lesotho,2005,47
+2524,lso,Lesotho,2006,47
+2525,lso,Lesotho,2007,46.7
+2526,lso,Lesotho,2008,48
+2527,lso,Lesotho,2009,48.9
+2528,lso,Lesotho,2010,49.6
+2529,lso,Lesotho,2011,50.3
+2530,lso,Lesotho,2012,50.5
+2531,lso,Lesotho,2013,51.7
+2532,lso,Lesotho,2014,52.6
+2533,lso,Lesotho,2015,53.1
+2534,lso,Lesotho,2016,54.1
+2535,lso,Lesotho,2017,54.5
+2536,lso,Lesotho,2018,55
+2537,lso,Lesotho,2019,55.5
+2538,ltu,Lithuania,1990,74.9
+2539,ltu,Lithuania,1991,75.9
+2540,ltu,Lithuania,1992,74.7
+2541,ltu,Lithuania,1993,70.7
+2542,ltu,Lithuania,1994,72.5
+2543,ltu,Lithuania,1995,73.5
+2544,ltu,Lithuania,1996,72.7
+2545,ltu,Lithuania,1997,73.1
+2546,ltu,Lithuania,1998,72.7
+2547,ltu,Lithuania,1999,74.5
+2548,ltu,Lithuania,2000,75.8
+2549,ltu,Lithuania,2001,76.1
+2550,ltu,Lithuania,2002,74.4
+2551,ltu,Lithuania,2003,70.7
+2552,ltu,Lithuania,2004,66.7
+2553,ltu,Lithuania,2005,62.8
+2554,ltu,Lithuania,2006,56.5
+2555,ltu,Lithuania,2007,44.2
+2556,ltu,Lithuania,2008,40.7
+2557,ltu,Lithuania,2009,53.2
+2558,ltu,Lithuania,2010,49.2
+2559,ltu,Lithuania,2011,40.4
+2560,ltu,Lithuania,2012,37.4
+2561,ltu,Lithuania,2013,34.3
+2562,ltu,Lithuania,2014,32.9
+2563,ltu,Lithuania,2015,31.3
+2564,ltu,Lithuania,2016,30
+2565,ltu,Lithuania,2017,29
+2566,ltu,Lithuania,2018,29
+2567,ltu,Lithuania,2019,29.1
+2568,lva,Latvia,1990,73
+2569,lva,Latvia,1991,72.7
+2570,lva,Latvia,1992,72.6
+2571,lva,Latvia,1993,71.5
+2572,lva,Latvia,1994,71.6
+2573,lva,Latvia,1995,72.1
+2574,lva,Latvia,1996,72.5
+2575,lva,Latvia,1997,73.8
+2576,lva,Latvia,1998,75
+2577,lva,Latvia,1999,76.3
+2578,lva,Latvia,2000,77.7
+2579,lva,Latvia,2001,79.3
+2580,lva,Latvia,2002,80.2
+2581,lva,Latvia,2003,80.4
+2582,lva,Latvia,2004,79.8
+2583,lva,Latvia,2005,79.3
+2584,lva,Latvia,2006,74.8
+2585,lva,Latvia,2007,67.8
+2586,lva,Latvia,2008,69.2
+2587,lva,Latvia,2009,76.4
+2588,lva,Latvia,2010,74.2
+2589,lva,Latvia,2011,69.8
+2590,lva,Latvia,2012,66.3
+2591,lva,Latvia,2013,64.1
+2592,lva,Latvia,2014,59.7
+2593,lva,Latvia,2015,57
+2594,lva,Latvia,2016,55.1
+2595,lva,Latvia,2017,53.3
+2596,lva,Latvia,2018,53.5
+2597,lva,Latvia,2019,53.5
+2598,mar,Morocco,1990,49.2
+2599,mar,Morocco,1991,49.8
+2600,mar,Morocco,1992,50.3
+2601,mar,Morocco,1993,50.9
+2602,mar,Morocco,1994,52.2
+2603,mar,Morocco,1995,52.5
+2604,mar,Morocco,1996,53.7
+2605,mar,Morocco,1997,54.1
+2606,mar,Morocco,1998,54.9
+2607,mar,Morocco,1999,55.9
+2608,mar,Morocco,2000,57
+2609,mar,Morocco,2001,58.2
+2610,mar,Morocco,2002,59.4
+2611,mar,Morocco,2003,60.6
+2612,mar,Morocco,2004,61.6
+2613,mar,Morocco,2005,62.4
+2614,mar,Morocco,2006,63.1
+2615,mar,Morocco,2007,64
+2616,mar,Morocco,2008,64.8
+2617,mar,Morocco,2009,65.5
+2618,mar,Morocco,2010,66.4
+2619,mar,Morocco,2011,67.4
+2620,mar,Morocco,2012,68.4
+2621,mar,Morocco,2013,69.4
+2622,mar,Morocco,2014,70.3
+2623,mar,Morocco,2015,70.9
+2624,mar,Morocco,2016,71.9
+2625,mar,Morocco,2017,72.5
+2626,mar,Morocco,2018,73.3
+2627,mar,Morocco,2019,73.9
+2628,mda,Moldova,1991,73.2
+2629,mda,Moldova,1992,71.2
+2630,mda,Moldova,1993,71.1
+2631,mda,Moldova,1994,68.9
+2632,mda,Moldova,1995,68.8
+2633,mda,Moldova,1996,68.4
+2634,mda,Moldova,1997,68.5
+2635,mda,Moldova,1998,68.7
+2636,mda,Moldova,1999,69
+2637,mda,Moldova,2000,69.2
+2638,mda,Moldova,2001,70.2
+2639,mda,Moldova,2002,71.4
+2640,mda,Moldova,2003,72.5
+2641,mda,Moldova,2004,73.6
+2642,mda,Moldova,2005,74.5
+2643,mda,Moldova,2006,75.3
+2644,mda,Moldova,2007,75.9
+2645,mda,Moldova,2008,76.4
+2646,mda,Moldova,2009,76.1
+2647,mda,Moldova,2010,76.8
+2648,mda,Moldova,2011,77.5
+2649,mda,Moldova,2012,78.2
+2650,mda,Moldova,2013,79.1
+2651,mda,Moldova,2014,79.4
+2652,mda,Moldova,2015,79.3
+2653,mda,Moldova,2016,79.5
+2654,mda,Moldova,2017,80
+2655,mda,Moldova,2018,80.3
+2656,mda,Moldova,2019,80.8
+2657,mdg,Madagascar,2000,49.8
+2658,mdg,Madagascar,2001,50.4
+2659,mdg,Madagascar,2002,50
+2660,mdg,Madagascar,2003,51
+2661,mdg,Madagascar,2004,51.6
+2662,mdg,Madagascar,2005,52.3
+2663,mdg,Madagascar,2006,52.8
+2664,mdg,Madagascar,2007,53.7
+2665,mdg,Madagascar,2008,54.5
+2666,mdg,Madagascar,2009,54.9
+2667,mdg,Madagascar,2010,55
+2668,mdg,Madagascar,2011,55.1
+2669,mdg,Madagascar,2012,55.4
+2670,mdg,Madagascar,2013,55.6
+2671,mdg,Madagascar,2014,56
+2672,mdg,Madagascar,2015,56.2
+2673,mdg,Madagascar,2016,56.3
+2674,mdg,Madagascar,2017,56.6
+2675,mdg,Madagascar,2018,56.7
+2676,mdg,Madagascar,2019,56.8
+2677,mdv,Maldives,1995,59.7
+2678,mdv,Maldives,1996,61.3
+2679,mdv,Maldives,1997,62.8
+2680,mdv,Maldives,1998,64.3
+2681,mdv,Maldives,1999,65.8
+2682,mdv,Maldives,2000,67
+2683,mdv,Maldives,2001,67.4
+2684,mdv,Maldives,2002,67.8
+2685,mdv,Maldives,2003,69.4
+2686,mdv,Maldives,2004,69.3
+2687,mdv,Maldives,2005,68.1
+2688,mdv,Maldives,2006,67.3
+2689,mdv,Maldives,2007,66.8
+2690,mdv,Maldives,2008,66.3
+2691,mdv,Maldives,2009,67.2
+2692,mdv,Maldives,2010,67.6
+2693,mdv,Maldives,2011,68.8
+2694,mdv,Maldives,2012,70.3
+2695,mdv,Maldives,2013,69.3
+2696,mdv,Maldives,2014,70
+2697,mdv,Maldives,2015,70.8
+2698,mdv,Maldives,2016,71.1
+2699,mdv,Maldives,2017,71.4
+2700,mdv,Maldives,2018,71.6
+2701,mdv,Maldives,2019,72.2
+2702,mex,Mexico,1990,70.3
+2703,mex,Mexico,1991,70.5
+2704,mex,Mexico,1992,70.9
+2705,mex,Mexico,1993,71.2
+2706,mex,Mexico,1994,71.6
+2707,mex,Mexico,1995,72.5
+2708,mex,Mexico,1996,72.9
+2709,mex,Mexico,1997,73.4
+2710,mex,Mexico,1998,73.7
+2711,mex,Mexico,1999,74.1
+2712,mex,Mexico,2000,74.3
+2713,mex,Mexico,2001,74.8
+2714,mex,Mexico,2002,75.4
+2715,mex,Mexico,2003,75.4
+2716,mex,Mexico,2004,76.2
+2717,mex,Mexico,2005,76.5
+2718,mex,Mexico,2006,77.1
+2719,mex,Mexico,2007,76.9
+2720,mex,Mexico,2008,77.2
+2721,mex,Mexico,2009,77.6
+2722,mex,Mexico,2010,77.1
+2723,mex,Mexico,2011,77.4
+2724,mex,Mexico,2012,77.5
+2725,mex,Mexico,2013,76.5
+2726,mex,Mexico,2014,76.7
+2727,mex,Mexico,2015,77
+2728,mex,Mexico,2016,77.1
+2729,mex,Mexico,2017,77.1
+2730,mex,Mexico,2018,77.7
+2731,mex,Mexico,2019,78
+2732,mkd,"Macedonia, FYR",2000,71.2
+2733,mkd,"Macedonia, FYR",2001,72.1
+2734,mkd,"Macedonia, FYR",2002,72.5
+2735,mkd,"Macedonia, FYR",2003,72.5
+2736,mkd,"Macedonia, FYR",2004,72.7
+2737,mkd,"Macedonia, FYR",2005,73.5
+2738,mkd,"Macedonia, FYR",2006,73.4
+2739,mkd,"Macedonia, FYR",2007,72.3
+2740,mkd,"Macedonia, FYR",2008,72.8
+2741,mkd,"Macedonia, FYR",2009,74.2
+2742,mkd,"Macedonia, FYR",2010,74.6
+2743,mkd,"Macedonia, FYR",2011,72.2
+2744,mkd,"Macedonia, FYR",2012,72.5
+2745,mkd,"Macedonia, FYR",2013,72.2
+2746,mkd,"Macedonia, FYR",2014,72.1
+2747,mkd,"Macedonia, FYR",2015,71.8
+2748,mkd,"Macedonia, FYR",2016,71.6
+2749,mkd,"Macedonia, FYR",2017,71.3
+2750,mkd,"Macedonia, FYR",2018,71.7
+2751,mkd,"Macedonia, FYR",2019,71.9
+2752,mli,Mali,1990,25.2
+2753,mli,Mali,1991,26
+2754,mli,Mali,1992,26.5
+2755,mli,Mali,1993,27.2
+2756,mli,Mali,1994,28
+2757,mli,Mali,1995,28.6
+2758,mli,Mali,1996,29.6
+2759,mli,Mali,1997,30.7
+2760,mli,Mali,1998,31.7
+2761,mli,Mali,1999,32.9
+2762,mli,Mali,2000,33.7
+2763,mli,Mali,2001,35
+2764,mli,Mali,2002,36
+2765,mli,Mali,2003,37.4
+2766,mli,Mali,2004,38.4
+2767,mli,Mali,2005,39.6
+2768,mli,Mali,2006,40.5
+2769,mli,Mali,2007,40
+2770,mli,Mali,2008,42.5
+2771,mli,Mali,2009,43.3
+2772,mli,Mali,2010,44
+2773,mli,Mali,2011,44.5
+2774,mli,Mali,2012,44.5
+2775,mli,Mali,2013,44.4
+2776,mli,Mali,2014,45.1
+2777,mli,Mali,2015,44.9
+2778,mli,Mali,2016,45.5
+2779,mli,Mali,2017,46
+2780,mli,Mali,2018,46.4
+2781,mli,Mali,2019,46.7
+2782,mlt,Malta,1990,69.4
+2783,mlt,Malta,1991,41.7
+2784,mlt,Malta,1992,64
+2785,mlt,Malta,1993,61.8
+2786,mlt,Malta,1994,62.3
+2787,mlt,Malta,1995,60.6
+2788,mlt,Malta,1996,61
+2789,mlt,Malta,1997,62
+2790,mlt,Malta,1998,59
+2791,mlt,Malta,1999,57.6
+2792,mlt,Malta,2000,54
+2793,mlt,Malta,2001,56.4
+2794,mlt,Malta,2002,56.3
+2795,mlt,Malta,2003,52.2
+2796,mlt,Malta,2004,48.5
+2797,mlt,Malta,2005,43.5
+2798,mlt,Malta,2006,38.6
+2799,mlt,Malta,2007,35.9
+2800,mlt,Malta,2008,36.3
+2801,mlt,Malta,2009,44.6
+2802,mlt,Malta,2010,42.6
+2803,mlt,Malta,2011,40.6
+2804,mlt,Malta,2012,30.4
+2805,mlt,Malta,2013,41.6
+2806,mlt,Malta,2014,42.2
+2807,mlt,Malta,2015,53.5
+2808,mlt,Malta,2016,53.5
+2809,mlt,Malta,2017,53.9
+2810,mlt,Malta,2018,54.1
+2811,mlt,Malta,2019,54.2
+2812,mmr,Myanmar,1990,36.8
+2813,mmr,Myanmar,1991,37.6
+2814,mmr,Myanmar,1992,39.1
+2815,mmr,Myanmar,1993,39.7
+2816,mmr,Myanmar,1994,40.5
+2817,mmr,Myanmar,1995,41
+2818,mmr,Myanmar,1996,41.7
+2819,mmr,Myanmar,1997,42.2
+2820,mmr,Myanmar,1998,42.6
+2821,mmr,Myanmar,1999,43.5
+2822,mmr,Myanmar,2000,44.6
+2823,mmr,Myanmar,2001,45.5
+2824,mmr,Myanmar,2002,46.5
+2825,mmr,Myanmar,2003,47.6
+2826,mmr,Myanmar,2004,48.6
+2827,mmr,Myanmar,2005,49.7
+2828,mmr,Myanmar,2006,50.7
+2829,mmr,Myanmar,2007,51.9
+2830,mmr,Myanmar,2008,53.1
+2831,mmr,Myanmar,2009,54.3
+2832,mmr,Myanmar,2010,55.4
+2833,mmr,Myanmar,2011,56.6
+2834,mmr,Myanmar,2012,57.4
+2835,mmr,Myanmar,2013,58.5
+2836,mmr,Myanmar,2014,59.2
+2837,mmr,Myanmar,2015,60
+2838,mmr,Myanmar,2016,60.6
+2839,mmr,Myanmar,2017,61.6
+2840,mmr,Myanmar,2018,62.3
+2841,mmr,Myanmar,2019,62.8
+2842,mng,Mongolia,1990,55.3
+2843,mng,Mongolia,1991,53
+2844,mng,Mongolia,1992,56.5
+2845,mng,Mongolia,1993,57.3
+2846,mng,Mongolia,1994,57.9
+2847,mng,Mongolia,1995,59.2
+2848,mng,Mongolia,1996,60.3
+2849,mng,Mongolia,1997,61
+2850,mng,Mongolia,1998,61.9
+2851,mng,Mongolia,1999,62.6
+2852,mng,Mongolia,2000,63.3
+2853,mng,Mongolia,2001,64.5
+2854,mng,Mongolia,2002,65.5
+2855,mng,Mongolia,2003,66.9
+2856,mng,Mongolia,2004,68.5
+2857,mng,Mongolia,2005,69.9
+2858,mng,Mongolia,2006,71
+2859,mng,Mongolia,2007,72.2
+2860,mng,Mongolia,2008,72.7
+2861,mng,Mongolia,2009,73
+2862,mng,Mongolia,2010,73.3
+2863,mng,Mongolia,2011,73.3
+2864,mng,Mongolia,2012,73.4
+2865,mng,Mongolia,2013,73.6
+2866,mng,Mongolia,2014,73.7
+2867,mng,Mongolia,2015,73.6
+2868,mng,Mongolia,2016,72.6
+2869,mng,Mongolia,2017,72.3
+2870,mng,Mongolia,2018,73
+2871,mng,Mongolia,2019,73.2
+2872,moz,Mozambique,1990,24.5
+2873,moz,Mozambique,1991,24.8
+2874,moz,Mozambique,1992,24.4
+2875,moz,Mozambique,1993,25.2
+2876,moz,Mozambique,1994,25.9
+2877,moz,Mozambique,1995,26.7
+2878,moz,Mozambique,1996,28.3
+2879,moz,Mozambique,1997,29.6
+2880,moz,Mozambique,1998,31
+2881,moz,Mozambique,1999,32.4
+2882,moz,Mozambique,2000,33
+2883,moz,Mozambique,2001,34.5
+2884,moz,Mozambique,2002,35.2
+2885,moz,Mozambique,2003,36.6
+2886,moz,Mozambique,2004,37.6
+2887,moz,Mozambique,2005,38.7
+2888,moz,Mozambique,2006,39.4
+2889,moz,Mozambique,2007,40.7
+2890,moz,Mozambique,2008,41.7
+2891,moz,Mozambique,2009,42.5
+2892,moz,Mozambique,2010,43.2
+2893,moz,Mozambique,2011,42.7
+2894,moz,Mozambique,2012,43.4
+2895,moz,Mozambique,2013,44.9
+2896,moz,Mozambique,2014,45.7
+2897,moz,Mozambique,2015,46.6
+2898,moz,Mozambique,2016,47.5
+2899,moz,Mozambique,2017,48
+2900,moz,Mozambique,2018,48.7
+2901,moz,Mozambique,2019,49.1
+2902,mrt,Mauritania,1990,42.7
+2903,mrt,Mauritania,1991,43.3
+2904,mrt,Mauritania,1992,44.2
+2905,mrt,Mauritania,1993,45.6
+2906,mrt,Mauritania,1994,46.9
+2907,mrt,Mauritania,1995,47.6
+2908,mrt,Mauritania,1996,48.5
+2909,mrt,Mauritania,1997,48.5
+2910,mrt,Mauritania,1998,49.4
+2911,mrt,Mauritania,1999,49.9
+2912,mrt,Mauritania,2000,50
+2913,mrt,Mauritania,2001,49.9
+2914,mrt,Mauritania,2002,50.3
+2915,mrt,Mauritania,2003,50.8
+2916,mrt,Mauritania,2004,51.9
+2917,mrt,Mauritania,2005,52.4
+2918,mrt,Mauritania,2006,53.4
+2919,mrt,Mauritania,2007,53.3
+2920,mrt,Mauritania,2008,53.2
+2921,mrt,Mauritania,2009,54.1
+2922,mrt,Mauritania,2010,54.4
+2923,mrt,Mauritania,2011,54.8
+2924,mrt,Mauritania,2012,55.7
+2925,mrt,Mauritania,2013,56.6
+2926,mrt,Mauritania,2014,57.2
+2927,mrt,Mauritania,2015,57.7
+2928,mrt,Mauritania,2016,58.4
+2929,mrt,Mauritania,2017,58.2
+2930,mrt,Mauritania,2018,58.4
+2931,mrt,Mauritania,2019,58.8
+2932,mus,Mauritius,1990,66
+2933,mus,Mauritius,1991,64.9
+2934,mus,Mauritius,1992,67
+2935,mus,Mauritius,1993,67.6
+2936,mus,Mauritius,1994,68.1
+2937,mus,Mauritius,1995,68.5
+2938,mus,Mauritius,1996,68.8
+2939,mus,Mauritius,1997,69.2
+2940,mus,Mauritius,1998,69.9
+2941,mus,Mauritius,1999,70.6
+2942,mus,Mauritius,2000,70.2
+2943,mus,Mauritius,2001,71.1
+2944,mus,Mauritius,2002,71.6
+2945,mus,Mauritius,2003,72
+2946,mus,Mauritius,2004,71.4
+2947,mus,Mauritius,2005,72.4
+2948,mus,Mauritius,2006,70.8
+2949,mus,Mauritius,2007,71.5
+2950,mus,Mauritius,2008,68.9
+2951,mus,Mauritius,2009,71
+2952,mus,Mauritius,2010,69.1
+2953,mus,Mauritius,2011,66.9
+2954,mus,Mauritius,2012,66.9
+2955,mus,Mauritius,2013,65.3
+2956,mus,Mauritius,2014,63.8
+2957,mus,Mauritius,2015,61.9
+2958,mus,Mauritius,2016,61.2
+2959,mus,Mauritius,2017,60.6
+2960,mus,Mauritius,2018,60.8
+2961,mus,Mauritius,2019,60.9
+2962,mwi,Malawi,1990,35.9
+2963,mwi,Malawi,1991,36.6
+2964,mwi,Malawi,1992,37.5
+2965,mwi,Malawi,1993,38.4
+2966,mwi,Malawi,1994,38.4
+2967,mwi,Malawi,1995,41.9
+2968,mwi,Malawi,1996,40.5
+2969,mwi,Malawi,1997,42.6
+2970,mwi,Malawi,1998,42.5
+2971,mwi,Malawi,1999,42.5
+2972,mwi,Malawi,2000,41.8
+2973,mwi,Malawi,2001,41.8
+2974,mwi,Malawi,2002,38.5
+2975,mwi,Malawi,2003,38.9
+2976,mwi,Malawi,2004,39.1
+2977,mwi,Malawi,2005,39.5
+2978,mwi,Malawi,2006,40.5
+2979,mwi,Malawi,2007,41.7
+2980,mwi,Malawi,2008,43.6
+2981,mwi,Malawi,2009,45.2
+2982,mwi,Malawi,2010,46.4
+2983,mwi,Malawi,2011,47.4
+2984,mwi,Malawi,2012,48
+2985,mwi,Malawi,2013,49.1
+2986,mwi,Malawi,2014,50
+2987,mwi,Malawi,2015,50.4
+2988,mwi,Malawi,2016,50.8
+2989,mwi,Malawi,2017,51
+2990,mwi,Malawi,2018,51.5
+2991,mwi,Malawi,2019,52.1
+2992,mys,Malaysia,1990,68.8
+2993,mys,Malaysia,1991,66.6
+2994,mys,Malaysia,1992,67.7
+2995,mys,Malaysia,1993,67
+2996,mys,Malaysia,1994,66.4
+2997,mys,Malaysia,1995,66
+2998,mys,Malaysia,1996,65.4
+2999,mys,Malaysia,1997,68.4
+3000,mys,Malaysia,1998,73.2
+3001,mys,Malaysia,1999,73
+3002,mys,Malaysia,2000,70.5
+3003,mys,Malaysia,2001,71.7
+3004,mys,Malaysia,2002,71.4
+3005,mys,Malaysia,2003,71.6
+3006,mys,Malaysia,2004,71.1
+3007,mys,Malaysia,2005,69.5
+3008,mys,Malaysia,2006,68.5
+3009,mys,Malaysia,2007,66
+3010,mys,Malaysia,2008,65.4
+3011,mys,Malaysia,2009,66.6
+3012,mys,Malaysia,2010,63.8
+3013,mys,Malaysia,2011,61.8
+3014,mys,Malaysia,2012,58.6
+3015,mys,Malaysia,2013,52.3
+3016,mys,Malaysia,2014,51
+3017,mys,Malaysia,2015,48.5
+3018,mys,Malaysia,2016,47.3
+3019,mys,Malaysia,2017,46.5
+3020,mys,Malaysia,2018,46.4
+3021,mys,Malaysia,2019,46.6
+3022,nam,Namibia,1990,62.5
+3023,nam,Namibia,1991,62.1
+3024,nam,Namibia,1992,63.1
+3025,nam,Namibia,1993,63.1
+3026,nam,Namibia,1994,63
+3027,nam,Namibia,1995,62.5
+3028,nam,Namibia,1996,61.5
+3029,nam,Namibia,1997,60.7
+3030,nam,Namibia,1998,59.8
+3031,nam,Namibia,1999,58.8
+3032,nam,Namibia,2000,58.5
+3033,nam,Namibia,2001,58.4
+3034,nam,Namibia,2002,58.2
+3035,nam,Namibia,2003,57.9
+3036,nam,Namibia,2004,57.8
+3037,nam,Namibia,2005,57.7
+3038,nam,Namibia,2006,58.3
+3039,nam,Namibia,2007,59
+3040,nam,Namibia,2008,60
+3041,nam,Namibia,2009,60.6
+3042,nam,Namibia,2010,61.6
+3043,nam,Namibia,2011,63.1
+3044,nam,Namibia,2012,63.9
+3045,nam,Namibia,2013,64.8
+3046,nam,Namibia,2014,65.5
+3047,nam,Namibia,2015,66.1
+3048,nam,Namibia,2016,66.2
+3049,nam,Namibia,2017,66.7
+3050,nam,Namibia,2018,66.8
+3051,nam,Namibia,2019,66.9
+3052,ner,Niger,1990,23.7
+3053,ner,Niger,1991,24.1
+3054,ner,Niger,1992,24.3
+3055,ner,Niger,1993,24.8
+3056,ner,Niger,1994,25.3
+3057,ner,Niger,1995,25.8
+3058,ner,Niger,1996,26.3
+3059,ner,Niger,1997,26.8
+3060,ner,Niger,1998,27.5
+3061,ner,Niger,1999,27.9
+3062,ner,Niger,2000,28.2
+3063,ner,Niger,2001,28.9
+3064,ner,Niger,2002,29.5
+3065,ner,Niger,2003,29.8
+3066,ner,Niger,2004,30.7
+3067,ner,Niger,2005,31.6
+3068,ner,Niger,2006,32.3
+3069,ner,Niger,2007,32.9
+3070,ner,Niger,2008,33.9
+3071,ner,Niger,2009,34.6
+3072,ner,Niger,2010,35.7
+3073,ner,Niger,2011,36.4
+3074,ner,Niger,2012,37.6
+3075,ner,Niger,2013,38.5
+3076,ner,Niger,2014,39.3
+3077,ner,Niger,2015,40
+3078,ner,Niger,2016,40.7
+3079,ner,Niger,2017,41.6
+3080,ner,Niger,2018,42
+3081,ner,Niger,2019,42.4
+3082,nga,Nigeria,2003,48.5
+3083,nga,Nigeria,2004,49.6
+3084,nga,Nigeria,2005,50.2
+3085,nga,Nigeria,2006,51
+3086,nga,Nigeria,2007,51.5
+3087,nga,Nigeria,2008,52.1
+3088,nga,Nigeria,2009,52.7
+3089,nga,Nigeria,2010,51.9
+3090,nga,Nigeria,2011,53
+3091,nga,Nigeria,2012,53.9
+3092,nga,Nigeria,2013,55.8
+3093,nga,Nigeria,2014,56.4
+3094,nga,Nigeria,2015,56.6
+3095,nga,Nigeria,2016,56.7
+3096,nga,Nigeria,2017,57.2
+3097,nga,Nigeria,2018,57.4
+3098,nga,Nigeria,2019,58.1
+3099,nic,Nicaragua,1990,53.5
+3100,nic,Nicaragua,1991,54.5
+3101,nic,Nicaragua,1992,55.2
+3102,nic,Nicaragua,1993,55.6
+3103,nic,Nicaragua,1994,56.1
+3104,nic,Nicaragua,1995,57.2
+3105,nic,Nicaragua,1996,58.3
+3106,nic,Nicaragua,1997,59.2
+3107,nic,Nicaragua,1998,60.2
+3108,nic,Nicaragua,1999,61.2
+3109,nic,Nicaragua,2000,62.1
+3110,nic,Nicaragua,2001,62.8
+3111,nic,Nicaragua,2002,63.4
+3112,nic,Nicaragua,2003,63.8
+3113,nic,Nicaragua,2004,64.3
+3114,nic,Nicaragua,2005,64.8
+3115,nic,Nicaragua,2006,65.1
+3116,nic,Nicaragua,2007,65.8
+3117,nic,Nicaragua,2008,66.3
+3118,nic,Nicaragua,2009,66.4
+3119,nic,Nicaragua,2010,67
+3120,nic,Nicaragua,2011,67.6
+3121,nic,Nicaragua,2012,68.2
+3122,nic,Nicaragua,2013,68.8
+3123,nic,Nicaragua,2014,69.8
+3124,nic,Nicaragua,2015,70.2
+3125,nic,Nicaragua,2016,70.8
+3126,nic,Nicaragua,2017,71.3
+3127,nic,Nicaragua,2018,71
+3128,nic,Nicaragua,2019,71.1
+3129,nld,Netherlands,1990,76
+3130,nld,Netherlands,1991,73.8
+3131,nld,Netherlands,1992,69.3
+3132,nld,Netherlands,1993,68.5
+3133,nld,Netherlands,1994,68
+3134,nld,Netherlands,1995,65.4
+3135,nld,Netherlands,1996,64.9
+3136,nld,Netherlands,1997,67
+3137,nld,Netherlands,1998,61.1
+3138,nld,Netherlands,1999,58.9
+3139,nld,Netherlands,2000,58.2
+3140,nld,Netherlands,2001,49.4
+3141,nld,Netherlands,2002,42.4
+3142,nld,Netherlands,2003,40.4
+3143,nld,Netherlands,2004,37.5
+3144,nld,Netherlands,2005,37.4
+3145,nld,Netherlands,2006,34.9
+3146,nld,Netherlands,2007,32.5
+3147,nld,Netherlands,2008,31.7
+3148,nld,Netherlands,2009,32.5
+3149,nld,Netherlands,2010,31.8
+3150,nld,Netherlands,2011,33.6
+3151,nld,Netherlands,2012,34
+3152,nld,Netherlands,2013,33.2
+3153,nld,Netherlands,2014,32.7
+3154,nld,Netherlands,2015,31.1
+3155,nld,Netherlands,2016,30.3
+3156,nld,Netherlands,2017,29.8
+3157,nld,Netherlands,2018,29.8
+3158,nld,Netherlands,2019,29.9
+3159,nor,Norway,1990,68.4
+3160,nor,Norway,1991,63.4
+3161,nor,Norway,1992,59.2
+3162,nor,Norway,1993,58.5
+3163,nor,Norway,1994,55.5
+3164,nor,Norway,1995,50.4
+3165,nor,Norway,1996,44.1
+3166,nor,Norway,1997,40.7
+3167,nor,Norway,1998,38.4
+3168,nor,Norway,1999,40.3
+3169,nor,Norway,2000,43
+3170,nor,Norway,2001,42.9
+3171,nor,Norway,2002,39.3
+3172,nor,Norway,2003,33.4
+3173,nor,Norway,2004,30.6
+3174,nor,Norway,2005,28.6
+3175,nor,Norway,2006,27.6
+3176,nor,Norway,2007,23.7
+3177,nor,Norway,2008,23.3
+3178,nor,Norway,2009,26.3
+3179,nor,Norway,2010,23.8
+3180,nor,Norway,2011,22.8
+3181,nor,Norway,2012,21.8
+3182,nor,Norway,2013,20.6
+3183,nor,Norway,2014,20.3
+3184,nor,Norway,2015,20.1
+3185,nor,Norway,2016,19.8
+3186,nor,Norway,2017,19.7
+3187,nor,Norway,2018,19.7
+3188,nor,Norway,2019,19.7
+3189,npl,Nepal,1990,41.6
+3190,npl,Nepal,1991,42.5
+3191,npl,Nepal,1992,43.3
+3192,npl,Nepal,1993,43.8
+3193,npl,Nepal,1994,44.6
+3194,npl,Nepal,1995,45.1
+3195,npl,Nepal,1996,46.1
+3196,npl,Nepal,1997,46.8
+3197,npl,Nepal,1998,47.4
+3198,npl,Nepal,1999,48.1
+3199,npl,Nepal,2000,48.8
+3200,npl,Nepal,2001,48.9
+3201,npl,Nepal,2002,50
+3202,npl,Nepal,2003,50.6
+3203,npl,Nepal,2004,51.3
+3204,npl,Nepal,2005,52
+3205,npl,Nepal,2006,53.1
+3206,npl,Nepal,2007,53.7
+3207,npl,Nepal,2008,54.8
+3208,npl,Nepal,2009,56.2
+3209,npl,Nepal,2010,57.8
+3210,npl,Nepal,2011,58.7
+3211,npl,Nepal,2012,60.2
+3212,npl,Nepal,2013,61.2
+3213,npl,Nepal,2014,62.1
+3214,npl,Nepal,2015,62.8
+3215,npl,Nepal,2016,63.1
+3216,npl,Nepal,2017,63.4
+3217,npl,Nepal,2018,64.2
+3218,npl,Nepal,2019,64.8
+3219,nzl,New Zealand,1990,78.2
+3220,nzl,New Zealand,1991,75.2
+3221,nzl,New Zealand,1992,76.9
+3222,nzl,New Zealand,1993,76.1
+3223,nzl,New Zealand,1994,74.1
+3224,nzl,New Zealand,1995,71
+3225,nzl,New Zealand,1996,68.9
+3226,nzl,New Zealand,1997,68.7
+3227,nzl,New Zealand,1998,72
+3228,nzl,New Zealand,1999,68.5
+3229,nzl,New Zealand,2000,69.7
+3230,nzl,New Zealand,2001,66.6
+3231,nzl,New Zealand,2002,63.1
+3232,nzl,New Zealand,2003,58.7
+3233,nzl,New Zealand,2004,51.8
+3234,nzl,New Zealand,2005,46.6
+3235,nzl,New Zealand,2006,50.4
+3236,nzl,New Zealand,2007,46.7
+3237,nzl,New Zealand,2008,48.7
+3238,nzl,New Zealand,2009,61.5
+3239,nzl,New Zealand,2010,56.9
+3240,nzl,New Zealand,2011,55.8
+3241,nzl,New Zealand,2012,52.5
+3242,nzl,New Zealand,2013,46
+3243,nzl,New Zealand,2014,44.5
+3244,nzl,New Zealand,2015,44.1
+3245,nzl,New Zealand,2016,43.6
+3246,nzl,New Zealand,2017,43.4
+3247,nzl,New Zealand,2018,43.5
+3248,nzl,New Zealand,2019,43.6
+3249,omn,Oman,2000,66.2
+3250,omn,Oman,2001,66.3
+3251,omn,Oman,2002,66.5
+3252,omn,Oman,2003,70.7
+3253,omn,Oman,2004,70.9
+3254,omn,Oman,2005,71.7
+3255,omn,Oman,2006,69.4
+3256,omn,Oman,2007,66.7
+3257,omn,Oman,2008,64.5
+3258,omn,Oman,2009,61.2
+3259,omn,Oman,2010,60.8
+3260,omn,Oman,2011,55.7
+3261,omn,Oman,2012,59.6
+3262,omn,Oman,2013,59
+3263,omn,Oman,2014,61.7
+3264,omn,Oman,2015,62.5
+3265,omn,Oman,2016,62.7
+3266,omn,Oman,2017,63.3
+3267,omn,Oman,2018,63
+3268,omn,Oman,2019,63.1
+3269,pak,Pakistan,1990,43.4
+3270,pak,Pakistan,1991,43.8
+3271,pak,Pakistan,1992,44.4
+3272,pak,Pakistan,1993,44.9
+3273,pak,Pakistan,1994,45.3
+3274,pak,Pakistan,1995,45.9
+3275,pak,Pakistan,1996,46.4
+3276,pak,Pakistan,1997,46.8
+3277,pak,Pakistan,1998,47.2
+3278,pak,Pakistan,1999,47.7
+3279,pak,Pakistan,2000,48.2
+3280,pak,Pakistan,2001,49
+3281,pak,Pakistan,2002,49.7
+3282,pak,Pakistan,2003,50.7
+3283,pak,Pakistan,2004,50.9
+3284,pak,Pakistan,2005,52.4
+3285,pak,Pakistan,2006,53
+3286,pak,Pakistan,2007,53.4
+3287,pak,Pakistan,2008,54.2
+3288,pak,Pakistan,2009,54.7
+3289,pak,Pakistan,2010,55.2
+3290,pak,Pakistan,2011,55.6
+3291,pak,Pakistan,2012,55.9
+3292,pak,Pakistan,2013,56.4
+3293,pak,Pakistan,2014,57.1
+3294,pak,Pakistan,2015,57.7
+3295,pak,Pakistan,2016,58.4
+3296,pak,Pakistan,2017,59.1
+3297,pak,Pakistan,2018,59.4
+3298,pak,Pakistan,2019,60
+3299,pan,Panama,1990,72.7
+3300,pan,Panama,1991,73.3
+3301,pan,Panama,1992,73.9
+3302,pan,Panama,1993,74.7
+3303,pan,Panama,1994,75
+3304,pan,Panama,1995,75.5
+3305,pan,Panama,1996,76.2
+3306,pan,Panama,1997,76.9
+3307,pan,Panama,1998,77.4
+3308,pan,Panama,1999,78.3
+3309,pan,Panama,2000,78.8
+3310,pan,Panama,2001,79.2
+3311,pan,Panama,2002,80
+3312,pan,Panama,2003,80.2
+3313,pan,Panama,2004,80.5
+3314,pan,Panama,2005,80.4
+3315,pan,Panama,2006,80.9
+3316,pan,Panama,2007,81.6
+3317,pan,Panama,2008,81.4
+3318,pan,Panama,2009,81.6
+3319,pan,Panama,2010,81.4
+3320,pan,Panama,2011,81.2
+3321,pan,Panama,2012,80.9
+3322,pan,Panama,2013,81.3
+3323,pan,Panama,2014,81.4
+3324,pan,Panama,2015,81.3
+3325,pan,Panama,2016,81.6
+3326,pan,Panama,2017,81.8
+3327,pan,Panama,2018,81.9
+3328,pan,Panama,2019,82.1
+3329,per,Peru,1990,66.1
+3330,per,Peru,1991,66.8
+3331,per,Peru,1992,66.8
+3332,per,Peru,1993,67.4
+3333,per,Peru,1994,68.5
+3334,per,Peru,1995,69.6
+3335,per,Peru,1996,70.1
+3336,per,Peru,1997,70.7
+3337,per,Peru,1998,71.8
+3338,per,Peru,1999,72.9
+3339,per,Peru,2000,73.1
+3340,per,Peru,2001,74
+3341,per,Peru,2002,74.1
+3342,per,Peru,2003,74
+3343,per,Peru,2004,74.7
+3344,per,Peru,2005,75.3
+3345,per,Peru,2006,75
+3346,per,Peru,2007,75.8
+3347,per,Peru,2008,76.6
+3348,per,Peru,2009,77
+3349,per,Peru,2010,77.2
+3350,per,Peru,2011,78.3
+3351,per,Peru,2012,79.1
+3352,per,Peru,2013,79.4
+3353,per,Peru,2014,80.3
+3354,per,Peru,2015,80.1
+3355,per,Peru,2016,80.5
+3356,per,Peru,2017,80.7
+3357,per,Peru,2018,81.2
+3358,per,Peru,2019,81.8
+3359,phl,Philippines,1990,63.9
+3360,phl,Philippines,1991,64.1
+3361,phl,Philippines,1992,64.4
+3362,phl,Philippines,1993,64.8
+3363,phl,Philippines,1994,65.2
+3364,phl,Philippines,1995,65.6
+3365,phl,Philippines,1996,66.5
+3366,phl,Philippines,1997,66.9
+3367,phl,Philippines,1998,67.4
+3368,phl,Philippines,1999,67.8
+3369,phl,Philippines,2000,68.1
+3370,phl,Philippines,2001,68.2
+3371,phl,Philippines,2002,68.7
+3372,phl,Philippines,2003,69.1
+3373,phl,Philippines,2004,70.2
+3374,phl,Philippines,2005,70.5
+3375,phl,Philippines,2006,70.6
+3376,phl,Philippines,2007,71.3
+3377,phl,Philippines,2008,71.8
+3378,phl,Philippines,2009,71.6
+3379,phl,Philippines,2010,72.2
+3380,phl,Philippines,2011,72.8
+3381,phl,Philippines,2012,73.6
+3382,phl,Philippines,2013,74.4
+3383,phl,Philippines,2014,75
+3384,phl,Philippines,2015,75.5
+3385,phl,Philippines,2016,75.8
+3386,phl,Philippines,2017,76.2
+3387,phl,Philippines,2018,76.6
+3388,phl,Philippines,2019,77.3
+3389,png,Papua New Guinea,1990,41
+3390,png,Papua New Guinea,1991,41.8
+3391,png,Papua New Guinea,1992,42.9
+3392,png,Papua New Guinea,1993,44.3
+3393,png,Papua New Guinea,1994,45
+3394,png,Papua New Guinea,1995,45.8
+3395,png,Papua New Guinea,1996,46.6
+3396,png,Papua New Guinea,1997,46.9
+3397,png,Papua New Guinea,1998,47.6
+3398,png,Papua New Guinea,1999,47.9
+3399,png,Papua New Guinea,2000,48.5
+3400,png,Papua New Guinea,2001,49.1
+3401,png,Papua New Guinea,2002,49.8
+3402,png,Papua New Guinea,2003,50.6
+3403,png,Papua New Guinea,2004,50.9
+3404,png,Papua New Guinea,2005,51.6
+3405,png,Papua New Guinea,2006,52.3
+3406,png,Papua New Guinea,2007,53.6
+3407,png,Papua New Guinea,2008,54.1
+3408,png,Papua New Guinea,2009,55.1
+3409,png,Papua New Guinea,2010,56.2
+3410,png,Papua New Guinea,2011,57.1
+3411,png,Papua New Guinea,2012,56
+3412,png,Papua New Guinea,2013,57.8
+3413,png,Papua New Guinea,2014,58.3
+3414,png,Papua New Guinea,2015,59.1
+3415,png,Papua New Guinea,2016,59.1
+3416,png,Papua New Guinea,2017,59.1
+3417,png,Papua New Guinea,2018,59.2
+3418,png,Papua New Guinea,2019,59.8
+3419,pol,Poland,1990,74.8
+3420,pol,Poland,1991,74.3
+3421,pol,Poland,1992,73.8
+3422,pol,Poland,1993,74.6
+3423,pol,Poland,1994,75.8
+3424,pol,Poland,1995,75.4
+3425,pol,Poland,1996,74.3
+3426,pol,Poland,1997,75.1
+3427,pol,Poland,1998,75
+3428,pol,Poland,1999,76.2
+3429,pol,Poland,2000,75.9
+3430,pol,Poland,2001,74.8
+3431,pol,Poland,2002,74.5
+3432,pol,Poland,2003,72.3
+3433,pol,Poland,2004,68.9
+3434,pol,Poland,2005,67.6
+3435,pol,Poland,2006,65
+3436,pol,Poland,2007,58.5
+3437,pol,Poland,2008,56.1
+3438,pol,Poland,2009,60.9
+3439,pol,Poland,2010,53.8
+3440,pol,Poland,2011,48.2
+3441,pol,Poland,2012,49.8
+3442,pol,Poland,2013,49.6
+3443,pol,Poland,2014,48.7
+3444,pol,Poland,2015,45.2
+3445,pol,Poland,2016,43.7
+3446,pol,Poland,2017,42.4
+3447,pol,Poland,2018,42.5
+3448,pol,Poland,2019,42.6
+3449,prt,Portugal,1990,73.4
+3450,prt,Portugal,1991,72
+3451,prt,Portugal,1992,71.9
+3452,prt,Portugal,1993,74.2
+3453,prt,Portugal,1994,73.9
+3454,prt,Portugal,1995,71.5
+3455,prt,Portugal,1996,72.4
+3456,prt,Portugal,1997,69.8
+3457,prt,Portugal,1998,66.9
+3458,prt,Portugal,1999,63
+3459,prt,Portugal,2000,61.6
+3460,prt,Portugal,2001,61.7
+3461,prt,Portugal,2002,60.6
+3462,prt,Portugal,2003,62.1
+3463,prt,Portugal,2004,58.2
+3464,prt,Portugal,2005,59.1
+3465,prt,Portugal,2006,57.6
+3466,prt,Portugal,2007,58.2
+3467,prt,Portugal,2008,58.4
+3468,prt,Portugal,2009,63.4
+3469,prt,Portugal,2010,63.2
+3470,prt,Portugal,2011,66.3
+3471,prt,Portugal,2012,67.4
+3472,prt,Portugal,2013,66.6
+3473,prt,Portugal,2014,65.9
+3474,prt,Portugal,2015,63.6
+3475,prt,Portugal,2016,62.7
+3476,prt,Portugal,2017,62.2
+3477,prt,Portugal,2018,62.2
+3478,prt,Portugal,2019,62.4
+3479,pry,Paraguay,1990,64.4
+3480,pry,Paraguay,1991,64.7
+3481,pry,Paraguay,1992,65.4
+3482,pry,Paraguay,1993,66.1
+3483,pry,Paraguay,1994,66.6
+3484,pry,Paraguay,1995,67.1
+3485,pry,Paraguay,1996,67.9
+3486,pry,Paraguay,1997,68.3
+3487,pry,Paraguay,1998,68.7
+3488,pry,Paraguay,1999,69.2
+3489,pry,Paraguay,2000,69
+3490,pry,Paraguay,2001,70
+3491,pry,Paraguay,2002,71
+3492,pry,Paraguay,2003,70.7
+3493,pry,Paraguay,2004,71.4
+3494,pry,Paraguay,2005,71.7
+3495,pry,Paraguay,2006,71.4
+3496,pry,Paraguay,2007,71.7
+3497,pry,Paraguay,2008,72.6
+3498,pry,Paraguay,2009,72.7
+3499,pry,Paraguay,2010,73.5
+3500,pry,Paraguay,2011,73.7
+3501,pry,Paraguay,2012,74.2
+3502,pry,Paraguay,2013,74.6
+3503,pry,Paraguay,2014,74.9
+3504,pry,Paraguay,2015,75.4
+3505,pry,Paraguay,2016,75.3
+3506,pry,Paraguay,2017,75.6
+3507,pry,Paraguay,2018,75.8
+3508,pry,Paraguay,2019,75.9
+3509,qat,Qatar,1990,32.3
+3510,qat,Qatar,1991,19.9
+3511,qat,Qatar,1992,23.9
+3512,qat,Qatar,1993,25.8
+3513,qat,Qatar,1994,27.4
+3514,qat,Qatar,1995,24.6
+3515,qat,Qatar,1996,28.2
+3516,qat,Qatar,1997,27
+3517,qat,Qatar,1998,27
+3518,qat,Qatar,1999,34.3
+3519,qat,Qatar,2000,37
+3520,qat,Qatar,2001,30.5
+3521,qat,Qatar,2002,26.5
+3522,qat,Qatar,2003,24.6
+3523,qat,Qatar,2004,23.1
+3524,qat,Qatar,2005,19.8
+3525,qat,Qatar,2006,17.2
+3526,qat,Qatar,2007,17.6
+3527,qat,Qatar,2008,20.3
+3528,qat,Qatar,2009,23
+3529,qat,Qatar,2010,24.8
+3530,qat,Qatar,2011,23.1
+3531,qat,Qatar,2012,25.4
+3532,qat,Qatar,2013,26
+3533,qat,Qatar,2014,26.9
+3534,qat,Qatar,2015,26.1
+3535,qat,Qatar,2016,26.1
+3536,qat,Qatar,2017,26
+3537,qat,Qatar,2018,25.9
+3538,qat,Qatar,2019,26
+3539,rou,Romania,1990,74.2
+3540,rou,Romania,1991,73.1
+3541,rou,Romania,1992,72.8
+3542,rou,Romania,1993,72.7
+3543,rou,Romania,1994,72.9
+3544,rou,Romania,1995,73.2
+3545,rou,Romania,1996,74
+3546,rou,Romania,1997,74.3
+3547,rou,Romania,1998,74.7
+3548,rou,Romania,1999,75.8
+3549,rou,Romania,2000,76.1
+3550,rou,Romania,2001,76.3
+3551,rou,Romania,2002,77
+3552,rou,Romania,2003,76.8
+3553,rou,Romania,2004,76.5
+3554,rou,Romania,2005,77
+3555,rou,Romania,2006,75.8
+3556,rou,Romania,2007,75.1
+3557,rou,Romania,2008,73.2
+3558,rou,Romania,2009,78.5
+3559,rou,Romania,2010,77.8
+3560,rou,Romania,2011,75.1
+3561,rou,Romania,2012,75.8
+3562,rou,Romania,2013,75.2
+3563,rou,Romania,2014,74
+3564,rou,Romania,2015,72.6
+3565,rou,Romania,2016,71.9
+3566,rou,Romania,2017,71
+3567,rou,Romania,2018,71
+3568,rou,Romania,2019,71.1
+3569,rus,Russia,1991,76.3
+3570,rus,Russia,1992,69.9
+3571,rus,Russia,1993,70.8
+3572,rus,Russia,1994,71.1
+3573,rus,Russia,1995,71
+3574,rus,Russia,1996,71.5
+3575,rus,Russia,1997,72
+3576,rus,Russia,1998,72.6
+3577,rus,Russia,1999,73.1
+3578,rus,Russia,2000,73.8
+3579,rus,Russia,2001,74
+3580,rus,Russia,2002,74.5
+3581,rus,Russia,2003,74.7
+3582,rus,Russia,2004,75.2
+3583,rus,Russia,2005,75.3
+3584,rus,Russia,2006,74.8
+3585,rus,Russia,2007,74.3
+3586,rus,Russia,2008,73.3
+3587,rus,Russia,2009,75.1
+3588,rus,Russia,2010,74.6
+3589,rus,Russia,2011,71.2
+3590,rus,Russia,2012,72.1
+3591,rus,Russia,2013,70.6
+3592,rus,Russia,2014,69.8
+3593,rus,Russia,2015,69.1
+3594,rus,Russia,2016,68.7
+3595,rus,Russia,2017,68.3
+3596,rus,Russia,2018,68.4
+3597,rus,Russia,2019,68.5
+3598,rwa,Rwanda,1990,26.7
+3599,rwa,Rwanda,1991,23.7
+3600,rwa,Rwanda,1992,21.8
+3601,rwa,Rwanda,1993,21.3
+3602,rwa,Rwanda,1994,20.7
+3603,rwa,Rwanda,1995,24.9
+3604,rwa,Rwanda,1996,28.4
+3605,rwa,Rwanda,1997,31.3
+3606,rwa,Rwanda,1998,33.1
+3607,rwa,Rwanda,1999,35.1
+3608,rwa,Rwanda,2000,36.7
+3609,rwa,Rwanda,2001,37.7
+3610,rwa,Rwanda,2002,39.4
+3611,rwa,Rwanda,2003,40.8
+3612,rwa,Rwanda,2004,42.6
+3613,rwa,Rwanda,2005,44.5
+3614,rwa,Rwanda,2006,46.8
+3615,rwa,Rwanda,2007,48.5
+3616,rwa,Rwanda,2008,49.6
+3617,rwa,Rwanda,2009,51.3
+3618,rwa,Rwanda,2010,53
+3619,rwa,Rwanda,2011,53.8
+3620,rwa,Rwanda,2012,54.7
+3621,rwa,Rwanda,2013,55.5
+3622,rwa,Rwanda,2014,56.1
+3623,rwa,Rwanda,2015,56.6
+3624,rwa,Rwanda,2016,56.8
+3625,rwa,Rwanda,2017,57.6
+3626,rwa,Rwanda,2018,58.1
+3627,rwa,Rwanda,2019,58.5
+3628,sau,Saudi Arabia,1990,59.9
+3629,sau,Saudi Arabia,1991,55.5
+3630,sau,Saudi Arabia,1992,53.4
+3631,sau,Saudi Arabia,1993,52.9
+3632,sau,Saudi Arabia,1994,55.8
+3633,sau,Saudi Arabia,1995,56.2
+3634,sau,Saudi Arabia,1996,53.4
+3635,sau,Saudi Arabia,1997,53.8
+3636,sau,Saudi Arabia,1998,52.8
+3637,sau,Saudi Arabia,1999,55.1
+3638,sau,Saudi Arabia,2000,44.8
+3639,sau,Saudi Arabia,2001,50.3
+3640,sau,Saudi Arabia,2002,50.1
+3641,sau,Saudi Arabia,2003,46.9
+3642,sau,Saudi Arabia,2004,46.9
+3643,sau,Saudi Arabia,2005,45
+3644,sau,Saudi Arabia,2006,41.4
+3645,sau,Saudi Arabia,2007,40.3
+3646,sau,Saudi Arabia,2008,39
+3647,sau,Saudi Arabia,2009,35
+3648,sau,Saudi Arabia,2010,34.7
+3649,sau,Saudi Arabia,2011,33.6
+3650,sau,Saudi Arabia,2012,54
+3651,sau,Saudi Arabia,2013,50.2
+3652,sau,Saudi Arabia,2014,48.8
+3653,sau,Saudi Arabia,2015,47.3
+3654,sau,Saudi Arabia,2016,46.5
+3655,sau,Saudi Arabia,2017,45.4
+3656,sau,Saudi Arabia,2018,45.6
+3657,sau,Saudi Arabia,2019,45.6
+3658,sen,Senegal,1990,40.5
+3659,sen,Senegal,1991,40.6
+3660,sen,Senegal,1992,40.6
+3661,sen,Senegal,1993,40.6
+3662,sen,Senegal,1994,40.5
+3663,sen,Senegal,1995,40.7
+3664,sen,Senegal,1996,40.8
+3665,sen,Senegal,1997,40.8
+3666,sen,Senegal,1998,41.2
+3667,sen,Senegal,1999,41.5
+3668,sen,Senegal,2000,42
+3669,sen,Senegal,2001,43.6
+3670,sen,Senegal,2002,44.1
+3671,sen,Senegal,2003,45
+3672,sen,Senegal,2004,45.9
+3673,sen,Senegal,2005,46.7
+3674,sen,Senegal,2006,47.2
+3675,sen,Senegal,2007,48.2
+3676,sen,Senegal,2008,49.3
+3677,sen,Senegal,2009,49.7
+3678,sen,Senegal,2010,50.4
+3679,sen,Senegal,2011,50.7
+3680,sen,Senegal,2012,52.4
+3681,sen,Senegal,2013,53.2
+3682,sen,Senegal,2014,53.7
+3683,sen,Senegal,2015,54.5
+3684,sen,Senegal,2016,54.8
+3685,sen,Senegal,2017,55.1
+3686,sen,Senegal,2018,55.5
+3687,sen,Senegal,2019,55.2
+3688,sgp,Singapore,1990,42.2
+3689,sgp,Singapore,1991,30.6
+3690,sgp,Singapore,1992,29.1
+3691,sgp,Singapore,1993,23.9
+3692,sgp,Singapore,1994,20.2
+3693,sgp,Singapore,1995,16.9
+3694,sgp,Singapore,1996,14.6
+3695,sgp,Singapore,1997,30.1
+3696,sgp,Singapore,1998,17.6
+3697,sgp,Singapore,1999,17
+3698,sgp,Singapore,2000,13.6
+3699,sgp,Singapore,2001,15.4
+3700,sgp,Singapore,2002,15.5
+3701,sgp,Singapore,2003,13.1
+3702,sgp,Singapore,2004,11.4
+3703,sgp,Singapore,2005,10.6
+3704,sgp,Singapore,2006,9.4
+3705,sgp,Singapore,2007,8.8
+3706,sgp,Singapore,2008,8.5
+3707,sgp,Singapore,2009,10.4
+3708,sgp,Singapore,2010,9
+3709,sgp,Singapore,2011,8.5
+3710,sgp,Singapore,2012,8.5
+3711,sgp,Singapore,2013,8.4
+3712,sgp,Singapore,2014,8.4
+3713,sgp,Singapore,2015,8.2
+3714,sgp,Singapore,2016,8.1
+3715,sgp,Singapore,2017,7.9
+3716,sgp,Singapore,2018,7.9
+3717,sgp,Singapore,2019,7.9
+3718,sle,Sierra Leone,1990,30.9
+3719,sle,Sierra Leone,1991,30.1
+3720,sle,Sierra Leone,1992,29.9
+3721,sle,Sierra Leone,1993,30.4
+3722,sle,Sierra Leone,1994,30.7
+3723,sle,Sierra Leone,1995,30.9
+3724,sle,Sierra Leone,1996,30.4
+3725,sle,Sierra Leone,1997,30.2
+3726,sle,Sierra Leone,1998,30.6
+3727,sle,Sierra Leone,1999,30.9
+3728,sle,Sierra Leone,2000,31.8
+3729,sle,Sierra Leone,2001,33.3
+3730,sle,Sierra Leone,2002,35.1
+3731,sle,Sierra Leone,2003,36.2
+3732,sle,Sierra Leone,2004,37.2
+3733,sle,Sierra Leone,2005,38.1
+3734,sle,Sierra Leone,2006,39
+3735,sle,Sierra Leone,2007,40.4
+3736,sle,Sierra Leone,2008,41.5
+3737,sle,Sierra Leone,2009,42.5
+3738,sle,Sierra Leone,2010,43
+3739,sle,Sierra Leone,2011,43.7
+3740,sle,Sierra Leone,2012,45.3
+3741,sle,Sierra Leone,2013,46.7
+3742,sle,Sierra Leone,2014,47.1
+3743,sle,Sierra Leone,2015,46.4
+3744,sle,Sierra Leone,2016,46.4
+3745,sle,Sierra Leone,2017,47.7
+3746,sle,Sierra Leone,2018,48.2
+3747,sle,Sierra Leone,2019,48.6
+3748,slv,El Salvador,1990,57.7
+3749,slv,El Salvador,1991,58.2
+3750,slv,El Salvador,1992,59.4
+3751,slv,El Salvador,1993,60.5
+3752,slv,El Salvador,1994,61.5
+3753,slv,El Salvador,1995,62.5
+3754,slv,El Salvador,1996,63.4
+3755,slv,El Salvador,1997,64.4
+3756,slv,El Salvador,1998,65.3
+3757,slv,El Salvador,1999,65.5
+3758,slv,El Salvador,2000,66.3
+3759,slv,El Salvador,2001,66.8
+3760,slv,El Salvador,2002,67.5
+3761,slv,El Salvador,2003,68.2
+3762,slv,El Salvador,2004,68.8
+3763,slv,El Salvador,2005,69.5
+3764,slv,El Salvador,2006,70.3
+3765,slv,El Salvador,2007,70.2
+3766,slv,El Salvador,2008,70.6
+3767,slv,El Salvador,2009,70.6
+3768,slv,El Salvador,2010,71.9
+3769,slv,El Salvador,2011,71.5
+3770,slv,El Salvador,2012,72
+3771,slv,El Salvador,2013,72.1
+3772,slv,El Salvador,2014,72
+3773,slv,El Salvador,2015,71.9
+3774,slv,El Salvador,2016,72.3
+3775,slv,El Salvador,2017,72.3
+3776,slv,El Salvador,2018,72.1
+3777,slv,El Salvador,2019,72.4
+3778,srb,Serbia,2005,75
+3779,srb,Serbia,2006,70.7
+3780,srb,Serbia,2007,69.9
+3781,srb,Serbia,2008,68.5
+3782,srb,Serbia,2009,69.1
+3783,srb,Serbia,2010,61.5
+3784,srb,Serbia,2011,50.9
+3785,srb,Serbia,2012,53.6
+3786,srb,Serbia,2013,46.2
+3787,srb,Serbia,2014,47.4
+3788,srb,Serbia,2015,40.5
+3789,srb,Serbia,2016,39
+3790,srb,Serbia,2017,37.7
+3791,srb,Serbia,2018,38
+3792,srb,Serbia,2019,38.2
+3793,stp,Sao Tome and Principe,1990,48.7
+3794,stp,Sao Tome and Principe,1991,43.8
+3795,stp,Sao Tome and Principe,1992,49.2
+3796,stp,Sao Tome and Principe,1993,49.6
+3797,stp,Sao Tome and Principe,1994,50.1
+3798,stp,Sao Tome and Principe,1995,50.5
+3799,stp,Sao Tome and Principe,1996,51.2
+3800,stp,Sao Tome and Principe,1997,51.6
+3801,stp,Sao Tome and Principe,1998,52.2
+3802,stp,Sao Tome and Principe,1999,53
+3803,stp,Sao Tome and Principe,2000,53.6
+3804,stp,Sao Tome and Principe,2001,54.5
+3805,stp,Sao Tome and Principe,2002,55
+3806,stp,Sao Tome and Principe,2003,55.9
+3807,stp,Sao Tome and Principe,2004,56.6
+3808,stp,Sao Tome and Principe,2005,57.5
+3809,stp,Sao Tome and Principe,2006,58.5
+3810,stp,Sao Tome and Principe,2007,59
+3811,stp,Sao Tome and Principe,2008,58.8
+3812,stp,Sao Tome and Principe,2009,59.9
+3813,stp,Sao Tome and Principe,2010,60.3
+3814,stp,Sao Tome and Principe,2011,61.1
+3815,stp,Sao Tome and Principe,2012,61.7
+3816,stp,Sao Tome and Principe,2013,62.7
+3817,stp,Sao Tome and Principe,2014,63.6
+3818,stp,Sao Tome and Principe,2015,65.1
+3819,stp,Sao Tome and Principe,2016,65.5
+3820,stp,Sao Tome and Principe,2017,66.6
+3821,stp,Sao Tome and Principe,2018,67.2
+3822,stp,Sao Tome and Principe,2019,67.3
+3823,sur,Suriname,2004,70.9
+3824,sur,Suriname,2005,70.3
+3825,sur,Suriname,2006,71.2
+3826,sur,Suriname,2007,71.2
+3827,sur,Suriname,2008,71.1
+3828,sur,Suriname,2009,71.6
+3829,sur,Suriname,2010,71.3
+3830,sur,Suriname,2011,69.5
+3831,sur,Suriname,2012,70.5
+3832,sur,Suriname,2013,70.2
+3833,sur,Suriname,2014,69.5
+3834,sur,Suriname,2015,69.5
+3835,sur,Suriname,2016,68.8
+3836,sur,Suriname,2017,68.3
+3837,sur,Suriname,2018,68.4
+3838,sur,Suriname,2019,68.9
+3839,svk,Slovak Republic,1990,64.2
+3840,svk,Slovak Republic,1991,62.7
+3841,svk,Slovak Republic,1992,65.9
+3842,svk,Slovak Republic,1993,59.8
+3843,svk,Slovak Republic,1994,66.3
+3844,svk,Slovak Republic,1995,67.3
+3845,svk,Slovak Republic,1996,60.5
+3846,svk,Slovak Republic,1997,58.5
+3847,svk,Slovak Republic,1998,51.9
+3848,svk,Slovak Republic,1999,54.4
+3849,svk,Slovak Republic,2000,55.2
+3850,svk,Slovak Republic,2001,55.4
+3851,svk,Slovak Republic,2002,52.2
+3852,svk,Slovak Republic,2003,48.2
+3853,svk,Slovak Republic,2004,42.1
+3854,svk,Slovak Republic,2005,37.5
+3855,svk,Slovak Republic,2006,32.4
+3856,svk,Slovak Republic,2007,28.9
+3857,svk,Slovak Republic,2008,28.2
+3858,svk,Slovak Republic,2009,32.7
+3859,svk,Slovak Republic,2010,28.5
+3860,svk,Slovak Republic,2011,27
+3861,svk,Slovak Republic,2012,26
+3862,svk,Slovak Republic,2013,25.6
+3863,svk,Slovak Republic,2014,25.1
+3864,svk,Slovak Republic,2015,23.8
+3865,svk,Slovak Republic,2016,23.3
+3866,svk,Slovak Republic,2017,22.9
+3867,svk,Slovak Republic,2018,23
+3868,svk,Slovak Republic,2019,23
+3869,svn,Slovenia,1991,79.9
+3870,svn,Slovenia,1992,78.5
+3871,svn,Slovenia,1993,77.8
+3872,svn,Slovenia,1994,76.9
+3873,svn,Slovenia,1995,74.5
+3874,svn,Slovenia,1996,74.2
+3875,svn,Slovenia,1997,73.5
+3876,svn,Slovenia,1998,71
+3877,svn,Slovenia,1999,71.5
+3878,svn,Slovenia,2000,71.6
+3879,svn,Slovenia,2001,71.4
+3880,svn,Slovenia,2002,69.2
+3881,svn,Slovenia,2003,64.8
+3882,svn,Slovenia,2004,59.6
+3883,svn,Slovenia,2005,57.6
+3884,svn,Slovenia,2006,50.9
+3885,svn,Slovenia,2007,42.5
+3886,svn,Slovenia,2008,38.7
+3887,svn,Slovenia,2009,50.6
+3888,svn,Slovenia,2010,49.4
+3889,svn,Slovenia,2011,47.6
+3890,svn,Slovenia,2012,49.3
+3891,svn,Slovenia,2013,49.8
+3892,svn,Slovenia,2014,47.1
+3893,svn,Slovenia,2015,44
+3894,svn,Slovenia,2016,42.9
+3895,svn,Slovenia,2017,42.2
+3896,svn,Slovenia,2018,42.3
+3897,svn,Slovenia,2019,42.5
+3898,swe,Sweden,1990,72.1
+3899,swe,Sweden,1991,70.9
+3900,swe,Sweden,1992,69.8
+3901,swe,Sweden,1993,74.8
+3902,swe,Sweden,1994,75.5
+3903,swe,Sweden,1995,69.7
+3904,swe,Sweden,1996,66.2
+3905,swe,Sweden,1997,69.3
+3906,swe,Sweden,1998,64.2
+3907,swe,Sweden,1999,62.9
+3908,swe,Sweden,2000,62.6
+3909,swe,Sweden,2001,59.1
+3910,swe,Sweden,2002,55.9
+3911,swe,Sweden,2003,47.5
+3912,swe,Sweden,2004,42.6
+3913,swe,Sweden,2005,45.4
+3914,swe,Sweden,2006,37.1
+3915,swe,Sweden,2007,34.8
+3916,swe,Sweden,2008,36.9
+3917,swe,Sweden,2009,52.7
+3918,swe,Sweden,2010,36.8
+3919,swe,Sweden,2011,34.6
+3920,swe,Sweden,2012,33.9
+3921,swe,Sweden,2013,33.8
+3922,swe,Sweden,2014,33.4
+3923,swe,Sweden,2015,33.1
+3924,swe,Sweden,2016,32.6
+3925,swe,Sweden,2017,32.4
+3926,swe,Sweden,2018,32.4
+3927,swe,Sweden,2019,32.5
+3928,swz,Swaziland,1990,58.2
+3929,swz,Swaziland,1991,57.2
+3930,swz,Swaziland,1992,57.8
+3931,swz,Swaziland,1993,57.1
+3932,swz,Swaziland,1994,56.4
+3933,swz,Swaziland,1995,55.9
+3934,swz,Swaziland,1996,55.1
+3935,swz,Swaziland,1997,53.9
+3936,swz,Swaziland,1998,52.4
+3937,swz,Swaziland,1999,51.3
+3938,swz,Swaziland,2000,49.6
+3939,swz,Swaziland,2001,48.4
+3940,swz,Swaziland,2002,46.7
+3941,swz,Swaziland,2003,45.9
+3942,swz,Swaziland,2004,46.6
+3943,swz,Swaziland,2005,47.3
+3944,swz,Swaziland,2006,48.8
+3945,swz,Swaziland,2007,49.8
+3946,swz,Swaziland,2008,51
+3947,swz,Swaziland,2009,51.4
+3948,swz,Swaziland,2010,52.5
+3949,swz,Swaziland,2011,54.2
+3950,swz,Swaziland,2012,55.3
+3951,swz,Swaziland,2013,57.1
+3952,swz,Swaziland,2014,58.5
+3953,swz,Swaziland,2015,59.8
+3954,swz,Swaziland,2016,60.4
+3955,swz,Swaziland,2017,61.3
+3956,swz,Swaziland,2018,62
+3957,swz,Swaziland,2019,62.7
+3958,syc,Seychelles,2000,65.1
+3959,syc,Seychelles,2001,61.9
+3960,syc,Seychelles,2002,59.4
+3961,syc,Seychelles,2003,60.6
+3962,syc,Seychelles,2004,60
+3963,syc,Seychelles,2005,50.5
+3964,syc,Seychelles,2006,47.1
+3965,syc,Seychelles,2007,42.2
+3966,syc,Seychelles,2008,52.1
+3967,syc,Seychelles,2009,52.1
+3968,syc,Seychelles,2010,52.1
+3969,syc,Seychelles,2011,46.5
+3970,syc,Seychelles,2012,44.2
+3971,syc,Seychelles,2013,38.1
+3972,syc,Seychelles,2014,36.4
+3973,syc,Seychelles,2015,37
+3974,syc,Seychelles,2016,36.2
+3975,syc,Seychelles,2017,35.7
+3976,syc,Seychelles,2018,35.7
+3977,syc,Seychelles,2019,35.9
+3978,syr,Syria,1990,59.3
+3979,syr,Syria,1991,59.9
+3980,syr,Syria,1992,60.3
+3981,syr,Syria,1993,60.7
+3982,syr,Syria,1994,61.6
+3983,syr,Syria,1995,62
+3984,syr,Syria,1996,62.7
+3985,syr,Syria,1997,63.1
+3986,syr,Syria,1998,63.3
+3987,syr,Syria,1999,63.9
+3988,syr,Syria,2000,64.6
+3989,syr,Syria,2001,65.5
+3990,syr,Syria,2002,65.4
+3991,syr,Syria,2003,66.8
+3992,syr,Syria,2004,68.5
+3993,syr,Syria,2005,70.2
+3994,syr,Syria,2006,71.2
+3995,syr,Syria,2007,72.2
+3996,syr,Syria,2008,72.4
+3997,syr,Syria,2009,72.3
+3998,syr,Syria,2010,72
+3999,syr,Syria,2011,72.6
+4000,syr,Syria,2012,71.2
+4001,syr,Syria,2013,64.2
+4002,syr,Syria,2014,59.7
+4003,syr,Syria,2015,57.4
+4004,syr,Syria,2016,56.5
+4005,syr,Syria,2017,60.4
+4006,syr,Syria,2018,60.2
+4007,syr,Syria,2019,60.7
+4008,tcd,Chad,2000,31.6
+4009,tcd,Chad,2001,32.4
+4010,tcd,Chad,2002,33
+4011,tcd,Chad,2003,32.9
+4012,tcd,Chad,2004,34.9
+4013,tcd,Chad,2005,35.2
+4014,tcd,Chad,2006,35.5
+4015,tcd,Chad,2007,36.6
+4016,tcd,Chad,2008,37.2
+4017,tcd,Chad,2009,38.9
+4018,tcd,Chad,2010,39.8
+4019,tcd,Chad,2011,40.9
+4020,tcd,Chad,2012,41.8
+4021,tcd,Chad,2013,42.4
+4022,tcd,Chad,2014,43.2
+4023,tcd,Chad,2015,42.8
+4024,tcd,Chad,2016,42.3
+4025,tcd,Chad,2017,42.6
+4026,tcd,Chad,2018,42.8
+4027,tcd,Chad,2019,42.8
+4028,tgo,Togo,1990,43.7
+4029,tgo,Togo,1991,44.1
+4030,tgo,Togo,1992,43.1
+4031,tgo,Togo,1993,42.2
+4032,tgo,Togo,1994,42.7
+4033,tgo,Togo,1995,44.2
+4034,tgo,Togo,1996,45.1
+4035,tgo,Togo,1997,45.9
+4036,tgo,Togo,1998,45.7
+4037,tgo,Togo,1999,45.9
+4038,tgo,Togo,2000,46
+4039,tgo,Togo,2001,46.3
+4040,tgo,Togo,2002,46.6
+4041,tgo,Togo,2003,47.2
+4042,tgo,Togo,2004,47.3
+4043,tgo,Togo,2005,47.2
+4044,tgo,Togo,2006,47.8
+4045,tgo,Togo,2007,47.3
+4046,tgo,Togo,2008,48.2
+4047,tgo,Togo,2009,49.1
+4048,tgo,Togo,2010,50.2
+4049,tgo,Togo,2011,51.6
+4050,tgo,Togo,2012,51.9
+4051,tgo,Togo,2013,52.6
+4052,tgo,Togo,2014,53.1
+4053,tgo,Togo,2015,53.7
+4054,tgo,Togo,2016,54.1
+4055,tgo,Togo,2017,54.5
+4056,tgo,Togo,2018,54.9
+4057,tgo,Togo,2019,55.5
+4058,tha,Thailand,1990,62.1
+4059,tha,Thailand,1991,63.1
+4060,tha,Thailand,1992,63.8
+4061,tha,Thailand,1993,64.6
+4062,tha,Thailand,1994,65.4
+4063,tha,Thailand,1995,65.9
+4064,tha,Thailand,1996,66.5
+4065,tha,Thailand,1997,67.4
+4066,tha,Thailand,1998,68.2
+4067,tha,Thailand,1999,69.3
+4068,tha,Thailand,2000,70.3
+4069,tha,Thailand,2001,71.1
+4070,tha,Thailand,2002,71.9
+4071,tha,Thailand,2003,72.3
+4072,tha,Thailand,2004,72.7
+4073,tha,Thailand,2005,73.7
+4074,tha,Thailand,2006,72.9
+4075,tha,Thailand,2007,74.3
+4076,tha,Thailand,2008,74.3
+4077,tha,Thailand,2009,75.2
+4078,tha,Thailand,2010,74
+4079,tha,Thailand,2011,73.8
+4080,tha,Thailand,2012,73.4
+4081,tha,Thailand,2013,72.1
+4082,tha,Thailand,2014,72
+4083,tha,Thailand,2015,72
+4084,tha,Thailand,2016,72.2
+4085,tha,Thailand,2017,72.6
+4086,tha,Thailand,2018,73.2
+4087,tha,Thailand,2019,73.7
+4088,tjk,Tajikistan,1991,66
+4089,tjk,Tajikistan,1992,63.8
+4090,tjk,Tajikistan,1993,61.9
+4091,tjk,Tajikistan,1994,59.9
+4092,tjk,Tajikistan,1995,59.1
+4093,tjk,Tajikistan,1996,57.6
+4094,tjk,Tajikistan,1997,58.1
+4095,tjk,Tajikistan,1998,58.6
+4096,tjk,Tajikistan,1999,59
+4097,tjk,Tajikistan,2000,59.8
+4098,tjk,Tajikistan,2001,60.7
+4099,tjk,Tajikistan,2002,61.7
+4100,tjk,Tajikistan,2003,63.3
+4101,tjk,Tajikistan,2004,64.7
+4102,tjk,Tajikistan,2005,65.4
+4103,tjk,Tajikistan,2006,66.5
+4104,tjk,Tajikistan,2007,66.9
+4105,tjk,Tajikistan,2008,68.9
+4106,tjk,Tajikistan,2009,68.1
+4107,tjk,Tajikistan,2010,68.7
+4108,tjk,Tajikistan,2011,68.5
+4109,tjk,Tajikistan,2012,69.2
+4110,tjk,Tajikistan,2013,70.4
+4111,tjk,Tajikistan,2014,70.3
+4112,tjk,Tajikistan,2015,70.3
+4113,tjk,Tajikistan,2016,70.4
+4114,tjk,Tajikistan,2017,70.7
+4115,tjk,Tajikistan,2018,71.2
+4116,tjk,Tajikistan,2019,71.9
+4117,tkm,Turkmenistan,2010,43.7
+4118,tkm,Turkmenistan,2011,40.4
+4119,tkm,Turkmenistan,2012,38.7
+4120,tkm,Turkmenistan,2013,32.9
+4121,tkm,Turkmenistan,2014,30.3
+4122,tkm,Turkmenistan,2015,26.2
+4123,tkm,Turkmenistan,2016,25.5
+4124,tkm,Turkmenistan,2017,25
+4125,tkm,Turkmenistan,2018,25.3
+4126,tkm,Turkmenistan,2019,25.5
+4127,tto,Trinidad and Tobago,1990,69.8
+4128,tto,Trinidad and Tobago,1991,70.1
+4129,tto,Trinidad and Tobago,1992,70.2
+4130,tto,Trinidad and Tobago,1993,70.8
+4131,tto,Trinidad and Tobago,1994,71
+4132,tto,Trinidad and Tobago,1995,71.3
+4133,tto,Trinidad and Tobago,1996,71.8
+4134,tto,Trinidad and Tobago,1997,72.3
+4135,tto,Trinidad and Tobago,1998,72.2
+4136,tto,Trinidad and Tobago,1999,74.1
+4137,tto,Trinidad and Tobago,2000,74.7
+4138,tto,Trinidad and Tobago,2001,73.6
+4139,tto,Trinidad and Tobago,2002,73.2
+4140,tto,Trinidad and Tobago,2003,73.8
+4141,tto,Trinidad and Tobago,2004,74.5
+4142,tto,Trinidad and Tobago,2005,73.1
+4143,tto,Trinidad and Tobago,2006,73.9
+4144,tto,Trinidad and Tobago,2007,73.7
+4145,tto,Trinidad and Tobago,2008,73.6
+4146,tto,Trinidad and Tobago,2009,74.9
+4147,tto,Trinidad and Tobago,2010,75.5
+4148,tto,Trinidad and Tobago,2011,76.1
+4149,tto,Trinidad and Tobago,2012,75
+4150,tto,Trinidad and Tobago,2013,74.1
+4151,tto,Trinidad and Tobago,2014,73.6
+4152,tto,Trinidad and Tobago,2015,73.6
+4153,tto,Trinidad and Tobago,2016,73.8
+4154,tto,Trinidad and Tobago,2017,74.1
+4155,tto,Trinidad and Tobago,2018,74.2
+4156,tto,Trinidad and Tobago,2019,74.2
+4157,tun,Tunisia,1990,61.1
+4158,tun,Tunisia,1991,61.7
+4159,tun,Tunisia,1992,62.6
+4160,tun,Tunisia,1993,63.3
+4161,tun,Tunisia,1994,64.4
+4162,tun,Tunisia,1995,65.2
+4163,tun,Tunisia,1996,66.1
+4164,tun,Tunisia,1997,66.9
+4165,tun,Tunisia,1998,68.1
+4166,tun,Tunisia,1999,69.2
+4167,tun,Tunisia,2000,70.1
+4168,tun,Tunisia,2001,71
+4169,tun,Tunisia,2002,71.6
+4170,tun,Tunisia,2003,72.3
+4171,tun,Tunisia,2004,73.3
+4172,tun,Tunisia,2005,74.1
+4173,tun,Tunisia,2006,74.7
+4174,tun,Tunisia,2007,75.2
+4175,tun,Tunisia,2008,75.7
+4176,tun,Tunisia,2009,76.1
+4177,tun,Tunisia,2010,76.6
+4178,tun,Tunisia,2011,76.9
+4179,tun,Tunisia,2012,77
+4180,tun,Tunisia,2013,77.3
+4181,tun,Tunisia,2014,77.4
+4182,tun,Tunisia,2015,77.5
+4183,tun,Tunisia,2016,77.7
+4184,tun,Tunisia,2017,78
+4185,tun,Tunisia,2018,78.4
+4186,tun,Tunisia,2019,78.6
+4187,tur,Turkey,1990,62.8
+4188,tur,Turkey,1991,63.1
+4189,tur,Turkey,1992,63.6
+4190,tur,Turkey,1993,64.2
+4191,tur,Turkey,1994,64.6
+4192,tur,Turkey,1995,65.2
+4193,tur,Turkey,1996,65.8
+4194,tur,Turkey,1997,66.4
+4195,tur,Turkey,1998,67.4
+4196,tur,Turkey,1999,68.7
+4197,tur,Turkey,2000,69.3
+4198,tur,Turkey,2001,70.7
+4199,tur,Turkey,2002,71.7
+4200,tur,Turkey,2003,71.9
+4201,tur,Turkey,2004,71.6
+4202,tur,Turkey,2005,71.4
+4203,tur,Turkey,2006,70.3
+4204,tur,Turkey,2007,68.9
+4205,tur,Turkey,2008,68.8
+4206,tur,Turkey,2009,70.9
+4207,tur,Turkey,2010,69.7
+4208,tur,Turkey,2011,67.3
+4209,tur,Turkey,2012,67.6
+4210,tur,Turkey,2013,68.6
+4211,tur,Turkey,2014,68
+4212,tur,Turkey,2015,67.5
+4213,tur,Turkey,2016,67.4
+4214,tur,Turkey,2017,67
+4215,tur,Turkey,2018,67.3
+4216,tur,Turkey,2019,67.5
+4217,tza,Tanzania,1990,39.6
+4218,tza,Tanzania,1991,39.7
+4219,tza,Tanzania,1992,39.5
+4220,tza,Tanzania,1993,39.5
+4221,tza,Tanzania,1994,39.5
+4222,tza,Tanzania,1995,39.6
+4223,tza,Tanzania,1996,39.7
+4224,tza,Tanzania,1997,39.9
+4225,tza,Tanzania,1998,40.6
+4226,tza,Tanzania,1999,41.3
+4227,tza,Tanzania,2000,42
+4228,tza,Tanzania,2001,42.8
+4229,tza,Tanzania,2002,43.8
+4230,tza,Tanzania,2003,44.8
+4231,tza,Tanzania,2004,45.8
+4232,tza,Tanzania,2005,47
+4233,tza,Tanzania,2006,48.1
+4234,tza,Tanzania,2007,49.1
+4235,tza,Tanzania,2008,50.1
+4236,tza,Tanzania,2009,51
+4237,tza,Tanzania,2010,51.8
+4238,tza,Tanzania,2011,52.4
+4239,tza,Tanzania,2012,53.4
+4240,tza,Tanzania,2013,53.6
+4241,tza,Tanzania,2014,54.3
+4242,tza,Tanzania,2015,55.3
+4243,tza,Tanzania,2016,56
+4244,tza,Tanzania,2017,56.3
+4245,tza,Tanzania,2018,56.4
+4246,tza,Tanzania,2019,56.9
+4247,uga,Uganda,1990,34.5
+4248,uga,Uganda,1991,34.5
+4249,uga,Uganda,1992,33.7
+4250,uga,Uganda,1993,34.4
+4251,uga,Uganda,1994,34.7
+4252,uga,Uganda,1995,35.3
+4253,uga,Uganda,1996,37
+4254,uga,Uganda,1997,38.6
+4255,uga,Uganda,1998,40.2
+4256,uga,Uganda,1999,42
+4257,uga,Uganda,2000,43.5
+4258,uga,Uganda,2001,44.4
+4259,uga,Uganda,2002,46
+4260,uga,Uganda,2003,46.9
+4261,uga,Uganda,2004,47
+4262,uga,Uganda,2005,47.8
+4263,uga,Uganda,2006,49.1
+4264,uga,Uganda,2007,50.2
+4265,uga,Uganda,2008,51.5
+4266,uga,Uganda,2009,52.5
+4267,uga,Uganda,2010,53.7
+4268,uga,Uganda,2011,54.3
+4269,uga,Uganda,2012,54.6
+4270,uga,Uganda,2013,55.2
+4271,uga,Uganda,2014,55.9
+4272,uga,Uganda,2015,56.6
+4273,uga,Uganda,2016,57
+4274,uga,Uganda,2017,57.3
+4275,uga,Uganda,2018,57.9
+4276,uga,Uganda,2019,58.6
+4277,ukr,Ukraine,1991,77.1
+4278,ukr,Ukraine,1992,73.4
+4279,ukr,Ukraine,1993,72.6
+4280,ukr,Ukraine,1994,71.9
+4281,ukr,Ukraine,1995,71.5
+4282,ukr,Ukraine,1996,71.9
+4283,ukr,Ukraine,1997,72.3
+4284,ukr,Ukraine,1998,72.9
+4285,ukr,Ukraine,1999,73.2
+4286,ukr,Ukraine,2000,73.6
+4287,ukr,Ukraine,2001,74.8
+4288,ukr,Ukraine,2002,75.6
+4289,ukr,Ukraine,2003,75.8
+4290,ukr,Ukraine,2004,76.4
+4291,ukr,Ukraine,2005,76.9
+4292,ukr,Ukraine,2006,77
+4293,ukr,Ukraine,2007,76.8
+4294,ukr,Ukraine,2008,77
+4295,ukr,Ukraine,2009,77.9
+4296,ukr,Ukraine,2010,77.8
+4297,ukr,Ukraine,2011,75.5
+4298,ukr,Ukraine,2012,75.8
+4299,ukr,Ukraine,2013,74.7
+4300,ukr,Ukraine,2014,75.6
+4301,ukr,Ukraine,2015,75.4
+4302,ukr,Ukraine,2016,75.2
+4303,ukr,Ukraine,2017,75.1
+4304,ukr,Ukraine,2018,75.3
+4305,ukr,Ukraine,2019,75.8
+4306,ury,Uruguay,1990,74.8
+4307,ury,Uruguay,1991,74.4
+4308,ury,Uruguay,1992,75.3
+4309,ury,Uruguay,1993,75.7
+4310,ury,Uruguay,1994,76
+4311,ury,Uruguay,1995,76.1
+4312,ury,Uruguay,1996,75.8
+4313,ury,Uruguay,1997,75.1
+4314,ury,Uruguay,1998,75.5
+4315,ury,Uruguay,1999,74.3
+4316,ury,Uruguay,2000,75.9
+4317,ury,Uruguay,2001,77.4
+4318,ury,Uruguay,2002,77.5
+4319,ury,Uruguay,2003,78.5
+4320,ury,Uruguay,2004,75.6
+4321,ury,Uruguay,2005,72.6
+4322,ury,Uruguay,2006,70.1
+4323,ury,Uruguay,2007,70.2
+4324,ury,Uruguay,2008,63.9
+4325,ury,Uruguay,2009,66.1
+4326,ury,Uruguay,2010,66
+4327,ury,Uruguay,2011,61.6
+4328,ury,Uruguay,2012,60
+4329,ury,Uruguay,2013,59.7
+4330,ury,Uruguay,2014,57.3
+4331,ury,Uruguay,2015,55.3
+4332,ury,Uruguay,2016,53.9
+4333,ury,Uruguay,2017,52.7
+4334,ury,Uruguay,2018,52.8
+4335,ury,Uruguay,2019,52.9
+4336,usa,United States,1990,37.9
+4337,usa,United States,1991,38.6
+4338,usa,United States,1992,36.1
+4339,usa,United States,1993,36.1
+4340,usa,United States,1994,32.1
+4341,usa,United States,1995,30.8
+4342,usa,United States,1996,28.3
+4343,usa,United States,1997,25.1
+4344,usa,United States,1998,22.4
+4345,usa,United States,1999,21.7
+4346,usa,United States,2000,20.4
+4347,usa,United States,2001,20.4
+4348,usa,United States,2002,20.3
+4349,usa,United States,2003,19.9
+4350,usa,United States,2004,18.4
+4351,usa,United States,2005,17.3
+4352,usa,United States,2006,17
+4353,usa,United States,2007,17.3
+4354,usa,United States,2008,18.6
+4355,usa,United States,2009,22.2
+4356,usa,United States,2010,20
+4357,usa,United States,2011,19.8
+4358,usa,United States,2012,19.8
+4359,usa,United States,2013,19
+4360,usa,United States,2014,18.4
+4361,usa,United States,2015,18.4
+4362,usa,United States,2016,18.2
+4363,usa,United States,2017,18.1
+4364,usa,United States,2018,18.1
+4365,usa,United States,2019,18.1
+4366,uzb,Uzbekistan,2000,63.5
+4367,uzb,Uzbekistan,2001,64.4
+4368,uzb,Uzbekistan,2002,65.1
+4369,uzb,Uzbekistan,2003,65.8
+4370,uzb,Uzbekistan,2004,66.5
+4371,uzb,Uzbekistan,2005,67.3
+4372,uzb,Uzbekistan,2006,67.6
+4373,uzb,Uzbekistan,2007,68.8
+4374,uzb,Uzbekistan,2008,69.3
+4375,uzb,Uzbekistan,2009,70
+4376,uzb,Uzbekistan,2010,71.1
+4377,uzb,Uzbekistan,2011,71.6
+4378,uzb,Uzbekistan,2012,72.4
+4379,uzb,Uzbekistan,2013,73.4
+4380,uzb,Uzbekistan,2014,73.7
+4381,uzb,Uzbekistan,2015,74
+4382,uzb,Uzbekistan,2016,74.5
+4383,uzb,Uzbekistan,2017,75.3
+4384,uzb,Uzbekistan,2018,75.7
+4385,uzb,Uzbekistan,2019,76.1
+4386,ven,Venezuela,1990,68.4
+4387,ven,Venezuela,1991,69.4
+4388,ven,Venezuela,1992,69.6
+4389,ven,Venezuela,1993,70
+4390,ven,Venezuela,1994,70.2
+4391,ven,Venezuela,1995,70.3
+4392,ven,Venezuela,1996,70.5
+4393,ven,Venezuela,1997,70.5
+4394,ven,Venezuela,1998,70.5
+4395,ven,Venezuela,1999,71.1
+4396,ven,Venezuela,2000,71.1
+4397,ven,Venezuela,2001,71.7
+4398,ven,Venezuela,2002,72.8
+4399,ven,Venezuela,2003,73.1
+4400,ven,Venezuela,2004,74.2
+4401,ven,Venezuela,2005,75
+4402,ven,Venezuela,2006,76.1
+4403,ven,Venezuela,2007,76.3
+4404,ven,Venezuela,2008,76.5
+4405,ven,Venezuela,2009,76.1
+4406,ven,Venezuela,2010,76.6
+4407,ven,Venezuela,2011,79.1
+4408,ven,Venezuela,2012,78.2
+4409,ven,Venezuela,2013,78.5
+4410,ven,Venezuela,2014,78.3
+4411,ven,Venezuela,2015,77.5
+4412,ven,Venezuela,2016,76.2
+4413,ven,Venezuela,2017,74.3
+4414,ven,Venezuela,2018,73.3
+4415,ven,Venezuela,2019,71.2
+4416,vnm,Vietnam,1990,52.1
+4417,vnm,Vietnam,1991,53.1
+4418,vnm,Vietnam,1992,54.3
+4419,vnm,Vietnam,1993,55.4
+4420,vnm,Vietnam,1994,56.6
+4421,vnm,Vietnam,1995,57.8
+4422,vnm,Vietnam,1996,59
+4423,vnm,Vietnam,1997,58.9
+4424,vnm,Vietnam,1998,61.1
+4425,vnm,Vietnam,1999,61.8
+4426,vnm,Vietnam,2000,63.1
+4427,vnm,Vietnam,2001,64
+4428,vnm,Vietnam,2002,64.9
+4429,vnm,Vietnam,2003,65.8
+4430,vnm,Vietnam,2004,66.8
+4431,vnm,Vietnam,2005,67.2
+4432,vnm,Vietnam,2006,68.1
+4433,vnm,Vietnam,2007,68.9
+4434,vnm,Vietnam,2008,69.4
+4435,vnm,Vietnam,2009,70.3
+4436,vnm,Vietnam,2010,70.4
+4437,vnm,Vietnam,2011,71.4
+4438,vnm,Vietnam,2012,71.9
+4439,vnm,Vietnam,2013,72
+4440,vnm,Vietnam,2014,71.7
+4441,vnm,Vietnam,2015,71.7
+4442,vnm,Vietnam,2016,71.9
+4443,vnm,Vietnam,2017,72
+4444,vnm,Vietnam,2018,72.4
+4445,vnm,Vietnam,2019,72.9
+4446,vut,Vanuatu,2005,61.8
+4447,vut,Vanuatu,2006,62.5
+4448,vut,Vanuatu,2007,62.7
+4449,vut,Vanuatu,2008,63.4
+4450,vut,Vanuatu,2009,63.5
+4451,vut,Vanuatu,2010,63.4
+4452,vut,Vanuatu,2011,63.6
+4453,vut,Vanuatu,2012,63.7
+4454,vut,Vanuatu,2013,63.8
+4455,vut,Vanuatu,2014,63.8
+4456,vut,Vanuatu,2015,64.3
+4457,vut,Vanuatu,2016,64.3
+4458,vut,Vanuatu,2017,64.5
+4459,vut,Vanuatu,2018,64.7
+4460,vut,Vanuatu,2019,65.4
+4461,wsm,Samoa,1990,68.2
+4462,wsm,Samoa,1991,63.1
+4463,wsm,Samoa,1992,68.3
+4464,wsm,Samoa,1993,68.8
+4465,wsm,Samoa,1994,66.5
+4466,wsm,Samoa,1995,67.2
+4467,wsm,Samoa,1996,68.2
+4468,wsm,Samoa,1997,68.4
+4469,wsm,Samoa,1998,69
+4470,wsm,Samoa,1999,69.6
+4471,wsm,Samoa,2000,70.1
+4472,wsm,Samoa,2001,71
+4473,wsm,Samoa,2002,71
+4474,wsm,Samoa,2003,71.6
+4475,wsm,Samoa,2004,72.5
+4476,wsm,Samoa,2005,72.7
+4477,wsm,Samoa,2006,73.1
+4478,wsm,Samoa,2007,73.6
+4479,wsm,Samoa,2008,74
+4480,wsm,Samoa,2009,74.4
+4481,wsm,Samoa,2010,75.3
+4482,wsm,Samoa,2011,75.4
+4483,wsm,Samoa,2012,75.1
+4484,wsm,Samoa,2013,75.3
+4485,wsm,Samoa,2014,75.5
+4486,wsm,Samoa,2015,75.9
+4487,wsm,Samoa,2016,76.1
+4488,wsm,Samoa,2017,76.1
+4489,wsm,Samoa,2018,76
+4490,wsm,Samoa,2019,76.7
+4491,yem,Yemen,1990,43.1
+4492,yem,Yemen,1991,43.2
+4493,yem,Yemen,1992,43.4
+4494,yem,Yemen,1993,43.7
+4495,yem,Yemen,1994,43.9
+4496,yem,Yemen,1995,44.6
+4497,yem,Yemen,1996,45.4
+4498,yem,Yemen,1997,45.9
+4499,yem,Yemen,1998,46.5
+4500,yem,Yemen,1999,46.8
+4501,yem,Yemen,2000,47.8
+4502,yem,Yemen,2001,48.8
+4503,yem,Yemen,2002,49.7
+4504,yem,Yemen,2003,50.6
+4505,yem,Yemen,2004,51.4
+4506,yem,Yemen,2005,52
+4507,yem,Yemen,2006,52.6
+4508,yem,Yemen,2007,53
+4509,yem,Yemen,2008,53.3
+4510,yem,Yemen,2009,54.1
+4511,yem,Yemen,2010,54.5
+4512,yem,Yemen,2011,54.5
+4513,yem,Yemen,2012,54.3
+4514,yem,Yemen,2013,54.9
+4515,yem,Yemen,2014,54.1
+4516,yem,Yemen,2015,52.1
+4517,yem,Yemen,2016,51.1
+4518,yem,Yemen,2017,50.3
+4519,yem,Yemen,2018,50.4
+4520,yem,Yemen,2019,50.6
+4521,zaf,South Africa,1990,64.4
+4522,zaf,South Africa,1991,65.2
+4523,zaf,South Africa,1992,66.7
+4524,zaf,South Africa,1993,66.8
+4525,zaf,South Africa,1994,66.5
+4526,zaf,South Africa,1995,67.1
+4527,zaf,South Africa,1996,66.7
+4528,zaf,South Africa,1997,65.9
+4529,zaf,South Africa,1998,65.4
+4530,zaf,South Africa,1999,65.3
+4531,zaf,South Africa,2000,65
+4532,zaf,South Africa,2001,63.7
+4533,zaf,South Africa,2002,64.2
+4534,zaf,South Africa,2003,63.3
+4535,zaf,South Africa,2004,62.2
+4536,zaf,South Africa,2005,61.5
+4537,zaf,South Africa,2006,61.6
+4538,zaf,South Africa,2007,61.9
+4539,zaf,South Africa,2008,63.5
+4540,zaf,South Africa,2009,65.4
+4541,zaf,South Africa,2010,65.1
+4542,zaf,South Africa,2011,65.5
+4543,zaf,South Africa,2012,66.4
+4544,zaf,South Africa,2013,67.4
+4545,zaf,South Africa,2014,67.6
+4546,zaf,South Africa,2015,68.5
+4547,zaf,South Africa,2016,68.5
+4548,zaf,South Africa,2017,68.6
+4549,zaf,South Africa,2018,68.9
+4550,zaf,South Africa,2019,69
+4551,zmb,Zambia,1990,45.3
+4552,zmb,Zambia,1991,44.9
+4553,zmb,Zambia,1992,44.8
+4554,zmb,Zambia,1993,45.1
+4555,zmb,Zambia,1994,44.6
+4556,zmb,Zambia,1995,44.7
+4557,zmb,Zambia,1996,44.7
+4558,zmb,Zambia,1997,44.8
+4559,zmb,Zambia,1998,44.7
+4560,zmb,Zambia,1999,45.2
+4561,zmb,Zambia,2000,45.7
+4562,zmb,Zambia,2001,46.6
+4563,zmb,Zambia,2002,47.5
+4564,zmb,Zambia,2003,48.6
+4565,zmb,Zambia,2004,49.6
+4566,zmb,Zambia,2005,50.7
+4567,zmb,Zambia,2006,51.9
+4568,zmb,Zambia,2007,52.6
+4569,zmb,Zambia,2008,54.2
+4570,zmb,Zambia,2009,55.7
+4571,zmb,Zambia,2010,56.8
+4572,zmb,Zambia,2011,57.5
+4573,zmb,Zambia,2012,59.2
+4574,zmb,Zambia,2013,60
+4575,zmb,Zambia,2014,60.3
+4576,zmb,Zambia,2015,61.3
+4577,zmb,Zambia,2016,61.6
+4578,zmb,Zambia,2017,62.2
+4579,zmb,Zambia,2018,62.6
+4580,zmb,Zambia,2019,62.9
+4581,zwe,Zimbabwe,1990,51.5
+4582,zwe,Zimbabwe,1991,51.8
+4583,zwe,Zimbabwe,1992,50.3
+4584,zwe,Zimbabwe,1993,49.9
+4585,zwe,Zimbabwe,1994,49.5
+4586,zwe,Zimbabwe,1995,48.8
+4587,zwe,Zimbabwe,1996,48.8
+4588,zwe,Zimbabwe,1997,48.2
+4589,zwe,Zimbabwe,1998,47.6
+4590,zwe,Zimbabwe,1999,47.1
+4591,zwe,Zimbabwe,2000,46.3
+4592,zwe,Zimbabwe,2001,46.5
+4593,zwe,Zimbabwe,2002,45.5
+4594,zwe,Zimbabwe,2003,44.6
+4595,zwe,Zimbabwe,2004,44.3
+4596,zwe,Zimbabwe,2005,44.2
+4597,zwe,Zimbabwe,2006,44.6
+4598,zwe,Zimbabwe,2007,45.3
+4599,zwe,Zimbabwe,2008,45.4
+4600,zwe,Zimbabwe,2009,49.3
+4601,zwe,Zimbabwe,2010,51.9
+4602,zwe,Zimbabwe,2011,53.8
+4603,zwe,Zimbabwe,2012,56.6
+4604,zwe,Zimbabwe,2013,57.9
+4605,zwe,Zimbabwe,2014,58.9
+4606,zwe,Zimbabwe,2015,59.5
+4607,zwe,Zimbabwe,2016,60.1
+4608,zwe,Zimbabwe,2017,60.7
+4609,zwe,Zimbabwe,2018,61.3
+4610,zwe,Zimbabwe,2019,61.5

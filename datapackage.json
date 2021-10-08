@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2021-09-02T07:28:36.646099+00:00",
+    "created": "2021-10-08T09:37:44.559250+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -1624,6 +1624,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--mincpcap_cppp--by--country--time",
+            "path": "ddf--datapoints--mincpcap_cppp--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "mincpcap_cppp"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--mmr_ihme--by--country--time",
             "path": "ddf--datapoints--mmr_ihme--by--country--time.csv",
             "schema": {
@@ -2434,6 +2455,27 @@
                     },
                     {
                         "name": "rotac_vacc"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sdi--by--country--time",
+            "path": "ddf--datapoints--sdi--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sdi"
                     }
                 ],
                 "primaryKey": [
@@ -5789,6 +5831,26 @@
                     "country",
                     "time"
                 ],
+                "value": "mincpcap_cppp",
+                "resources": [
+                    "ddf--datapoints--mincpcap_cppp--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "mincpcap_cppp",
+                "resources": [
+                    "ddf--datapoints--mincpcap_cppp--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "mmr_ihme",
                 "resources": [
                     "ddf--datapoints--mmr_ihme--by--country--time"
@@ -6508,6 +6570,26 @@
                 "value": "rotac_vacc",
                 "resources": [
                     "ddf--datapoints--rotac_vacc--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "sdi",
+                "resources": [
+                    "ddf--datapoints--sdi--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "sdi",
+                "resources": [
+                    "ddf--datapoints--sdi--by--country--time"
                 ]
             },
             {
