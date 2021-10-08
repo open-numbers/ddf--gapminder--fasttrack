@@ -1,5 +1,5 @@
 concept_id,concept_name,dimensions,table_format,filename
-gini,Gini,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nbz34ZQFD7qmA_V-80dCpNgdczhaYMj9WW5S6Yo1TWI-data-for-countries-etc-by-year
+gini,Gini,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1y90cy3oFqCjQG5q0uoUB4Ge-KQ8H0Z8tpFbiEkKZch8-data-for-countries-etc-by-year
 journakilled,Journalists killed,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",15V6I5-AVqjafF20iGbKQzITvKhOx1BwJBpIMli_8JG0-data-for-countries-etc-by-year
 journakilled,Journalists killed,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",15V6I5-AVqjafF20iGbKQzITvKhOx1BwJBpIMli_8JG0-data-for-world-by-year
 rgov_idea,Representative Government Index (IDEA),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1JRr_NUMvSSZo6RIIde0JufSWsG1tHchWLZ9RqX_iz0Q-data-for-countries-etc-by-year
@@ -128,3 +128,4 @@ as_from,Asylum-seekers by country of origin,"[geo:country,time:time]","{timeInCo
 idps,Internally displaced persons,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
 gnicap_atm_cur,GNI per capita,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1lTLaXD5hfY_H8VjK1wCiCrKQSNfP09mosihXCP9ceOw-data-for-countries-etc-by-year
 mincpcap_cppp,Average daily income per capita,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nXQrAb6bbJmhhitrvjOtuCLtE8IxnCoJ_TxjFEJQP2M-data-for-countries-etc-by-year
+sdi,Sustainable Development Index,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nfGL9zIEzcwaM-bToNlbHfSXz4PZ9uW8uhWHwxW7VKI-data-for-countries-etc-by-year
