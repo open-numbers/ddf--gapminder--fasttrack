@@ -1,0 +1,49 @@
+,geo,name,time,Number of UN peacekeepers,UN peacekeepers rate
+0,africa,Africa,"2,010","37,742",4
+1,africa,Africa,"2,011","40,714",4
+2,africa,Africa,"2,012","39,199",4
+3,africa,Africa,"2,013","45,169",4
+4,africa,Africa,"2,014","51,443",4
+5,africa,Africa,"2,015","54,666",5
+6,africa,Africa,"2,016","56,020",5
+7,africa,Africa,"2,017","51,182",4
+8,africa,Africa,"2,018","48,361",4
+9,africa,Africa,"2,019","45,158",3
+10,africa,Africa,"2,020","42,723",3
+11,africa,Africa,"2,021","40,018",3
+12,asia,Asia,"2,010","50,469",1
+13,asia,Asia,"2,011","49,277",1
+14,asia,Asia,"2,012","47,574",1
+15,asia,Asia,"2,013","43,536",1
+16,asia,Asia,"2,014","45,447",1
+17,asia,Asia,"2,015","46,566",1
+18,asia,Asia,"2,016","42,159",1
+19,asia,Asia,"2,017","39,588",1
+20,asia,Asia,"2,018","38,766",1
+21,asia,Asia,"2,019","35,714",1
+22,asia,Asia,"2,020","33,629",1
+23,asia,Asia,"2,021","33,851",1
+24,europe,Europe,"2,010","10,730",1
+25,europe,Europe,"2,011","9,076",1
+26,europe,Europe,"2,012","8,522",1
+27,europe,Europe,"2,013","8,142",1
+28,europe,Europe,"2,014","7,792",1
+29,europe,Europe,"2,015","7,596",1
+30,europe,Europe,"2,016","7,928",1
+31,europe,Europe,"2,017","8,487",1
+32,europe,Europe,"2,018","8,687",1
+33,europe,Europe,"2,019","8,257",1
+34,europe,Europe,"2,020","8,677",1
+35,europe,Europe,"2,021","7,669",1
+36,americas,The Americas,"2,010","8,485",1
+37,americas,The Americas,"2,011","8,542",1
+38,americas,The Americas,"2,012","8,082",1
+39,americas,The Americas,"2,013","7,489",1
+40,americas,The Americas,"2,014","7,073",1
+41,americas,The Americas,"2,015","6,436",1
+42,americas,The Americas,"2,016","5,188",1
+43,americas,The Americas,"2,017","5,196",1
+44,americas,The Americas,"2,018","2,777",0
+45,americas,The Americas,"2,019","2,870",0
+46,americas,The Americas,"2,020","2,780",0
+47,americas,The Americas,"2,021","2,491",0

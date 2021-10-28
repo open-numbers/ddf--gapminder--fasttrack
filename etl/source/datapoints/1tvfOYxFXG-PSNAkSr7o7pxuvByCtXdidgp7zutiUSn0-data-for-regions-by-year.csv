@@ -1,0 +1,233 @@
+,geo,name,time,Fish and seafood consumption per capita
+0,africa,Africa,1961,5.11
+1,africa,Africa,1962,5.18
+2,africa,Africa,1963,5.55
+3,africa,Africa,1964,6.02
+4,africa,Africa,1965,5.96
+5,africa,Africa,1966,6.26
+6,africa,Africa,1967,6.38
+7,africa,Africa,1968,5.96
+8,africa,Africa,1969,6.13
+9,africa,Africa,1970,6.84
+10,africa,Africa,1971,7.43
+11,africa,Africa,1972,7.72
+12,africa,Africa,1973,7.74
+13,africa,Africa,1974,7.88
+14,africa,Africa,1975,8.32
+15,africa,Africa,1976,8.76
+16,africa,Africa,1977,8.97
+17,africa,Africa,1978,9.25
+18,africa,Africa,1979,9.2
+19,africa,Africa,1980,9.04
+20,africa,Africa,1981,9.89
+21,africa,Africa,1982,10.08
+22,africa,Africa,1983,9.15
+23,africa,Africa,1984,8.76
+24,africa,Africa,1985,8.38
+25,africa,Africa,1986,8.67
+26,africa,Africa,1987,9.37
+27,africa,Africa,1988,9.38
+28,africa,Africa,1989,9.48
+29,africa,Africa,1990,9.87
+30,africa,Africa,1991,8.65
+31,africa,Africa,1992,8.57
+32,africa,Africa,1993,7.54
+33,africa,Africa,1994,6.99
+34,africa,Africa,1995,7.41
+35,africa,Africa,1996,7.6
+36,africa,Africa,1997,7.84
+37,africa,Africa,1998,7.88
+38,africa,Africa,1999,8.16
+39,africa,Africa,2000,8
+40,africa,Africa,2001,8.48
+41,africa,Africa,2002,8.09
+42,africa,Africa,2003,8.44
+43,africa,Africa,2004,9.11
+44,africa,Africa,2005,9.27
+45,africa,Africa,2006,9.99
+46,africa,Africa,2007,10.54
+47,africa,Africa,2008,10.31
+48,africa,Africa,2009,10.1
+49,africa,Africa,2010,10.64
+50,africa,Africa,2011,11.21
+51,africa,Africa,2012,11.07
+52,africa,Africa,2013,10.89
+53,africa,Africa,2014,11.11
+54,africa,Africa,2015,10.89
+55,africa,Africa,2016,10.53
+56,africa,Africa,2017,10.35
+57,africa,Africa,2018,10.27
+58,americas,The Americas,1961,8.96
+59,americas,The Americas,1962,9.37
+60,americas,The Americas,1963,9.31
+61,americas,The Americas,1964,9.2
+62,americas,The Americas,1965,9.02
+63,americas,The Americas,1966,9.42
+64,americas,The Americas,1967,9.24
+65,americas,The Americas,1968,9.96
+66,americas,The Americas,1969,9.45
+67,americas,The Americas,1970,10.13
+68,americas,The Americas,1971,10.07
+69,americas,The Americas,1972,10.93
+70,americas,The Americas,1973,11.38
+71,americas,The Americas,1974,10.66
+72,americas,The Americas,1975,10.28
+73,americas,The Americas,1976,10.58
+74,americas,The Americas,1977,10.71
+75,americas,The Americas,1978,11.58
+76,americas,The Americas,1979,12.01
+77,americas,The Americas,1980,11.82
+78,americas,The Americas,1981,12.53
+79,americas,The Americas,1982,11.78
+80,americas,The Americas,1983,11.67
+81,americas,The Americas,1984,12.55
+82,americas,The Americas,1985,12.54
+83,americas,The Americas,1986,12.94
+84,americas,The Americas,1987,13.83
+85,americas,The Americas,1988,13.14
+86,americas,The Americas,1989,14.12
+87,americas,The Americas,1990,13.99
+88,americas,The Americas,1991,13.01
+89,americas,The Americas,1992,13.22
+90,americas,The Americas,1993,13.86
+91,americas,The Americas,1994,13.79
+92,americas,The Americas,1995,13.9
+93,americas,The Americas,1996,13.88
+94,americas,The Americas,1997,13.84
+95,americas,The Americas,1998,13.64
+96,americas,The Americas,1999,13.39
+97,americas,The Americas,2000,13.51
+98,americas,The Americas,2001,13.64
+99,americas,The Americas,2002,13.79
+100,americas,The Americas,2003,14.28
+101,americas,The Americas,2004,14.63
+102,americas,The Americas,2005,14.04
+103,americas,The Americas,2006,14.66
+104,americas,The Americas,2007,14.3
+105,americas,The Americas,2008,14.05
+106,americas,The Americas,2009,13.99
+107,americas,The Americas,2010,14.02
+108,americas,The Americas,2011,14.14
+109,americas,The Americas,2012,14.16
+110,americas,The Americas,2013,14.19
+111,americas,The Americas,2014,14.78
+112,americas,The Americas,2015,14.63
+113,americas,The Americas,2016,14.7
+114,americas,The Americas,2017,14.77
+115,americas,The Americas,2018,14.65
+116,asia,Asia,1961,7.97
+117,asia,Asia,1962,8.06
+118,asia,Asia,1963,8.21
+119,asia,Asia,1964,8.09
+120,asia,Asia,1965,8.51
+121,asia,Asia,1966,8.63
+122,asia,Asia,1967,8.79
+123,asia,Asia,1968,9.19
+124,asia,Asia,1969,9.03
+125,asia,Asia,1970,9.01
+126,asia,Asia,1971,9.42
+127,asia,Asia,1972,9.62
+128,asia,Asia,1973,9.76
+129,asia,Asia,1974,10.12
+130,asia,Asia,1975,10.06
+131,asia,Asia,1976,10.19
+132,asia,Asia,1977,10.09
+133,asia,Asia,1978,9.95
+134,asia,Asia,1979,9.6
+135,asia,Asia,1980,9.68
+136,asia,Asia,1981,9.81
+137,asia,Asia,1982,9.98
+138,asia,Asia,1983,10.24
+139,asia,Asia,1984,10.65
+140,asia,Asia,1985,10.93
+141,asia,Asia,1986,11.4
+142,asia,Asia,1987,11.93
+143,asia,Asia,1988,12.21
+144,asia,Asia,1989,12.53
+145,asia,Asia,1990,12.55
+146,asia,Asia,1991,12.49
+147,asia,Asia,1992,12.92
+148,asia,Asia,1993,13.86
+149,asia,Asia,1994,15.09
+150,asia,Asia,1995,16.29
+151,asia,Asia,1996,16.83
+152,asia,Asia,1997,16.8
+153,asia,Asia,1998,16.8
+154,asia,Asia,1999,17.33
+155,asia,Asia,2000,17.63
+156,asia,Asia,2001,17.77
+157,asia,Asia,2002,18.04
+158,asia,Asia,2003,18.17
+159,asia,Asia,2004,18.59
+160,asia,Asia,2005,18.86
+161,asia,Asia,2006,19.21
+162,asia,Asia,2007,19.79
+163,asia,Asia,2008,20.36
+164,asia,Asia,2009,20.91
+165,asia,Asia,2010,21.37
+166,asia,Asia,2011,21.5
+167,asia,Asia,2012,22.01
+168,asia,Asia,2013,21.66
+169,asia,Asia,2014,22.95
+170,asia,Asia,2015,23.63
+171,asia,Asia,2016,23.85
+172,asia,Asia,2017,24.33
+173,asia,Asia,2018,24.11
+174,europe,Europe,1961,13.71
+175,europe,Europe,1962,13.72
+176,europe,Europe,1963,14.57
+177,europe,Europe,1964,14.96
+178,europe,Europe,1965,15.54
+179,europe,Europe,1966,15.14
+180,europe,Europe,1967,15.67
+181,europe,Europe,1968,16.13
+182,europe,Europe,1969,15.64
+183,europe,Europe,1970,16.29
+184,europe,Europe,1971,16
+185,europe,Europe,1972,15.93
+186,europe,Europe,1973,15.87
+187,europe,Europe,1974,16.11
+188,europe,Europe,1975,15.94
+189,europe,Europe,1976,15.99
+190,europe,Europe,1977,15.43
+191,europe,Europe,1978,15.4
+192,europe,Europe,1979,15.2
+193,europe,Europe,1980,15.79
+194,europe,Europe,1981,16.11
+195,europe,Europe,1982,16.32
+196,europe,Europe,1983,16.95
+197,europe,Europe,1984,16.95
+198,europe,Europe,1985,17.92
+199,europe,Europe,1986,18.06
+200,europe,Europe,1987,18.5
+201,europe,Europe,1988,18.84
+202,europe,Europe,1989,18.57
+203,europe,Europe,1990,18.61
+204,europe,Europe,1991,18.27
+205,europe,Europe,1992,17.23
+206,europe,Europe,1993,15.96
+207,europe,Europe,1994,15.88
+208,europe,Europe,1995,17.5
+209,europe,Europe,1996,18.22
+210,europe,Europe,1997,18.47
+211,europe,Europe,1998,19.32
+212,europe,Europe,1999,18.13
+213,europe,Europe,2000,18.14
+214,europe,Europe,2001,18.93
+215,europe,Europe,2002,18.37
+216,europe,Europe,2003,18.55
+217,europe,Europe,2004,18.63
+218,europe,Europe,2005,19.47
+219,europe,Europe,2006,19.91
+220,europe,Europe,2007,20.77
+221,europe,Europe,2008,20.77
+222,europe,Europe,2009,20.48
+223,europe,Europe,2010,20.2
+224,europe,Europe,2011,20.16
+225,europe,Europe,2012,20.07
+226,europe,Europe,2013,20.13
+227,europe,Europe,2014,20.01
+228,europe,Europe,2015,19.38
+229,europe,Europe,2016,19.56
+230,europe,Europe,2017,19.52
+231,europe,Europe,2018,19.43
