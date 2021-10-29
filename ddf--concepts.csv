@@ -218,13 +218,13 @@ oil_sp_qty,measure,http://gapm.io/doilsp,v3,April 7 2021,Quantity of oil spilt,Q
 oil_sp_med_num,measure,http://gapm.io/doilsp,v3,April 7 2021,Number of medium size oil spills,Number of oil spills (7 to 700 tonnes) per year,,Annual number of medium oil spills (7 to 700 tonnes),number,environment,,,,,,
 oil_sp_lar_num,measure,http://gapm.io/doilsp,v3,April 7 2021,Number of large oil spills,Number of oil spills (>  700 tonnes) per year,,Annual number of large oil spills (greater then 700 tonnes),number,environment,,,,,,
 oil_sp_tot_num,measure,http://gapm.io/doilsp,v3,April 7 2021,Number of medium and large oil spills,Number of medium and large oil spills (>7 tonnes)  per year,,Annual number of medium and large oil spills ( greater than 7 tonnes) ,number,environment,,,,,,
-pirats_bo,measure,http://gapm.io/dpirattack,v1,May 11 2021,Number of pirate attacks on boats,Number of pirate attacks on boats,,"This is the annual number of reported pirate attacks on boats.  United Nations Convention on the Law of the Sea (UNCLOS) defines piracy as 
+pirats_bo,measure,http://gapm.io/dpirattack,v1,May 11 2021,Pirate attacks on boats,Pirate attacks on boats,,"This is the annual number of reported pirate attacks on boats.  United Nations Convention on the Law of the Sea (UNCLOS) defines piracy as 
 a) any illegal acts of violence or detention, or any act of depredation, committed for private ends by the crew or the passengers of a private ship or a private aircraft, and directed (i) on the high seas, against another ship or aircraft, or against persons or property on board such ship or aircraft; ii) against a ship, aircraft, persons or property in a place outside the jurisdiction of any State. 
 b) any act of voluntary participation in the operation of a ship or of an aircraft with knowledge of facts making it a pirate ship or aircraft;
 (c) any act of inciting or of intentionally facilitating an act described in subparagraph (a) or (b).
 ",number,war_peace,,,,,,
-un_peakeeper_num,measure,http://gapm.io/dun-peakeeper,v2,October 20 2021,Number of UN peacekeepers,Number of UN peacekeepers,,Annual number of personnel serving United Nations peacekeeping operations.,number,war_peace,,,,,,
-un_peakeeper_rate,measure,http://gapm.io/dun-peakeeper,v2,October 20 2021,UN peacekeepers rate,UN peacekeepers rate (per 100000 people),,Number of personnel serving United Nations peacekeeping operations per 100000 people,rate,war_peace,,,,,,
+un_peakeeper_num,measure,http://gapm.io/dun-peakeeper,v2,October 20 2021,UN peacekeepers,UN peacekeepers,,Annual number of personnel serving United Nations peacekeeping operations.,number,war_peace,,,,,,
+un_peakeeper_rate,measure,http://gapm.io/dun-peakeeper,v2,October 20 2021,UN peacekeepers rate,UN peacekeepers rate (per 100 000 people),,Number of personnel serving United Nations peacekeeping operations per 100000 people,rate,war_peace,,,,,,
 geo,entity_domain,,,,,Geographic location,,,,_none,,,,,,
 name_long,string,,,,,Name Long,,,,_none,,,,,,
 country,entity_set,,,,,Country,,,,categorizations,,,geo,,,"[""world_6region"", ""income_groups"", ""landlocked"", ""g77_and_oecd_countries"", ""main_religion_2008"", ""world_4region"", ""unicef_region"", ""un_sdg_ldc"", ""un_sdg_region""]"
