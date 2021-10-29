@@ -151,3 +151,7 @@ percit_more_10m,Population in cities with more than 10m people (% total populati
 fisfod_cons_pc,Fish and seafood consumption per capita,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1tvfOYxFXG-PSNAkSr7o7pxuvByCtXdidgp7zutiUSn0-data-for-countries-etc-by-year
 fisfod_cons_pc,Fish and seafood consumption per capita,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1tvfOYxFXG-PSNAkSr7o7pxuvByCtXdidgp7zutiUSn0-data-for-regions-by-year
 fisfod_cons_pc,Fish and seafood consumption per capita,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1tvfOYxFXG-PSNAkSr7o7pxuvByCtXdidgp7zutiUSn0-data-for-world-by-year
+oil_sp_qty,Quantity of oil spilt,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",163EbX30APOnfTPEGbqc1pOaCuzoXjusmBYJySYGAxYk-data-for-world-by-year
+oil_sp_med_num,Number of medium size oil spills,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",163EbX30APOnfTPEGbqc1pOaCuzoXjusmBYJySYGAxYk-data-for-world-by-year
+oil_sp_lar_num,Number of large oil spills,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",163EbX30APOnfTPEGbqc1pOaCuzoXjusmBYJySYGAxYk-data-for-world-by-year
+oil_sp_tot_num,Number of medium and large oil spills,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",163EbX30APOnfTPEGbqc1pOaCuzoXjusmBYJySYGAxYk-data-for-world-by-year

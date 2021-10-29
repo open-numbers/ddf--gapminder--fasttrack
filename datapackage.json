@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2021-10-29T07:52:23.192887+00:00",
+    "created": "2021-10-29T08:45:08.590227+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -2056,6 +2056,90 @@
                     },
                     {
                         "name": "num_countries_fhos"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--oil_sp_lar_num--by--global--time",
+            "path": "ddf--datapoints--oil_sp_lar_num--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "oil_sp_lar_num"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--oil_sp_med_num--by--global--time",
+            "path": "ddf--datapoints--oil_sp_med_num--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "oil_sp_med_num"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--oil_sp_qty--by--global--time",
+            "path": "ddf--datapoints--oil_sp_qty--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "oil_sp_qty"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--oil_sp_tot_num--by--global--time",
+            "path": "ddf--datapoints--oil_sp_tot_num--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "oil_sp_tot_num"
                     }
                 ],
                 "primaryKey": [
@@ -6634,6 +6718,86 @@
                 "value": "num_countries_fhos",
                 "resources": [
                     "ddf--datapoints--num_countries_fhos--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "oil_sp_lar_num",
+                "resources": [
+                    "ddf--datapoints--oil_sp_lar_num--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "oil_sp_lar_num",
+                "resources": [
+                    "ddf--datapoints--oil_sp_lar_num--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "oil_sp_med_num",
+                "resources": [
+                    "ddf--datapoints--oil_sp_med_num--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "oil_sp_med_num",
+                "resources": [
+                    "ddf--datapoints--oil_sp_med_num--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "oil_sp_qty",
+                "resources": [
+                    "ddf--datapoints--oil_sp_qty--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "oil_sp_qty",
+                "resources": [
+                    "ddf--datapoints--oil_sp_qty--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "oil_sp_tot_num",
+                "resources": [
+                    "ddf--datapoints--oil_sp_tot_num--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "oil_sp_tot_num",
+                "resources": [
+                    "ddf--datapoints--oil_sp_tot_num--by--global--time"
                 ]
             },
             {
