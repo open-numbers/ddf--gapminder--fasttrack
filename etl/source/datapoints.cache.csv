@@ -68,8 +68,8 @@ rotac_vacc,RotaC immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasN
 six_vacc_rate,Lowest vaccination rate among six basic vaccines,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1YxVSb84P0BwMQqq6_BjsQPjHyIFZDdXh1muIW7AUnJk-data-for-countries-etc-by-year
 immigrant_n,Immigrant stock,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-world-by-year
 emigrant_n,Emigrant stock,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-world-by-year
-immigrant_pc,Share immigrant stock,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-world-by-year
-emigrant_pc,Share emigrant stock,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-world-by-year
+immigrant_pc,Immigrant stock share,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-world-by-year
+emigrant_pc,Emigrant stock share,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-world-by-year
 ndisasd_tot,Natural disaster deaths per year,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1kL2ALtkuxUd740nTmk0s3ALydAaZJHc5JZ8SrRTwMoE-data-for-world-by-year
 ndisasd_noep_tot,"Natural disaster deaths excluding epidemics, per year","[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1kL2ALtkuxUd740nTmk0s3ALydAaZJHc5JZ8SrRTwMoE-data-for-world-by-year
 ndisasd_rate,Natural disasters death rate per million people per year,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1kL2ALtkuxUd740nTmk0s3ALydAaZJHc5JZ8SrRTwMoE-data-for-world-by-year
@@ -163,3 +163,14 @@ un_peakeeper_num,Number of UN peacekeepers,"[geo:global,time:time]","{timeInColu
 un_peakeeper_rate,UN peacekeepers rate,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1YDKikuRZIo5Y6e53_hDOlCrdSeyz05dpCYOqXGRSubI-data-for-countries-etc-by-year
 un_peakeeper_rate,UN peacekeepers rate,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1YDKikuRZIo5Y6e53_hDOlCrdSeyz05dpCYOqXGRSubI-data-for-regions-by-year
 un_peakeeper_rate,UN peacekeepers rate,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1YDKikuRZIo5Y6e53_hDOlCrdSeyz05dpCYOqXGRSubI-data-for-world-by-year
+immigrant_n,Immigrant stock,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-countries-etc-by-year
+emigrant_n,Emigrant stock,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-countries-etc-by-year
+immigrant_pc,Immigrant stock share,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-countries-etc-by-year
+emigrant_pc,Emigrant stock share,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-countries-etc-by-year
+immigrant_n,Immigrant stock,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-regions-by-year
+emigrant_n,Emigrant stock,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-regions-by-year
+immigrant_pc,Immigrant stock share,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-regions-by-year
+emigrant_pc,Emigrant stock share,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-regions-by-year
+legs_sexhw,Legal status of sexual harrassment in employement,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ksl1-LzVnMUSrzkMmTIllG_bad5k4a-Ri_JjFbm72h8-data-for-countries-etc-by-year
+nc_sexhw_pc,Share of countries with legislation on sexual harassment in employment,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ksl1-LzVnMUSrzkMmTIllG_bad5k4a-Ri_JjFbm72h8-data-for-regions-by-year
+nc_sexhw_pc,Share of countries with legislation on sexual harassment in employment,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ksl1-LzVnMUSrzkMmTIllG_bad5k4a-Ri_JjFbm72h8-data-for-world-by-year
