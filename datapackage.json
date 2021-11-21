@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2021-11-07T10:29:26.856161+00:00",
+    "created": "2021-11-21T02:11:29.409582+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -4030,6 +4030,24 @@
             }
         },
         {
+            "name": "ddf--entities--geo--west_and_rest",
+            "path": "ddf--entities--geo--west_and_rest.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "west_and_rest"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "is--west_and_rest"
+                    }
+                ],
+                "primaryKey": "west_and_rest"
+            }
+        },
+        {
             "name": "ddf--entities--geo--world_4region",
             "path": "ddf--entities--geo--world_4region.csv",
             "schema": {
@@ -4588,6 +4606,24 @@
                 "primaryKey": [
                     "geo"
                 ],
+                "value": "is--west_and_rest",
+                "resources": [
+                    "ddf--entities--geo--west_and_rest"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "west_and_rest"
+                ],
+                "value": "is--west_and_rest",
+                "resources": [
+                    "ddf--entities--geo--west_and_rest"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
                 "value": "is--world_4region",
                 "resources": [
                     "ddf--entities--geo--world_4region"
@@ -4839,6 +4875,7 @@
                     "ddf--entities--geo--un_sdg_region",
                     "ddf--entities--geo--unhcr_region",
                     "ddf--entities--geo--unicef_region",
+                    "ddf--entities--geo--west_and_rest",
                     "ddf--entities--geo--world_4region",
                     "ddf--entities--geo--world_6region"
                 ]
@@ -4933,6 +4970,15 @@
                 "value": "name",
                 "resources": [
                     "ddf--entities--geo--unicef_region"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "west_and_rest"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--geo--west_and_rest"
                 ]
             },
             {
