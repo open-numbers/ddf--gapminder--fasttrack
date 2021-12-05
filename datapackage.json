@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2021-11-28T01:13:55.209403+00:00",
+    "created": "2021-12-05T01:55:41.393507+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -3814,6 +3814,9 @@
                     },
                     {
                         "name": "unhcr_region"
+                    },
+                    {
+                        "name": "west_and_rest"
                     }
                 ],
                 "primaryKey": "country"
@@ -5306,6 +5309,24 @@
                 "value": "unicode_region_subtag",
                 "resources": [
                     "ddf--entities--geo--global"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country"
+                ],
+                "value": "west_and_rest",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "west_and_rest",
+                "resources": [
+                    "ddf--entities--geo--country"
                 ]
             },
             {
