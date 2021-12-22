@@ -82,6 +82,7 @@ def parse_dimension_pairs(dimensions):
 @retry(times=10, backoff=10, exceptions=(EmptyColumn, EmptySheet, EmptyCell, APIError))
 def read_sheet(doc: Spread, sheet_name):
     df = doc.sheet_to_df(sheet=sheet_name, index=None)
+    df = df.dropna(how='all')  # remove empty rows
     # detect error in sheet
     if df.empty:
         raise EmptySheet(f"{sheet_name} is empty")
