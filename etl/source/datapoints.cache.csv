@@ -174,3 +174,6 @@ emigrant_pc,Emigrant stock share,"[geo:world_4region,time:time]","{timeInColumns
 legs_sexhw,Legal status of sexual harrassment in employement,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ksl1-LzVnMUSrzkMmTIllG_bad5k4a-Ri_JjFbm72h8-data-for-countries-etc-by-year
 nc_sexhw_pc,Share of countries with legislation on sexual harassment in employment,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ksl1-LzVnMUSrzkMmTIllG_bad5k4a-Ri_JjFbm72h8-data-for-regions-by-year
 nc_sexhw_pc,Share of countries with legislation on sexual harassment in employment,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ksl1-LzVnMUSrzkMmTIllG_bad5k4a-Ri_JjFbm72h8-data-for-world-by-year
+perceived_progress,perceived_progress,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1DLTQ0ngkTHnvis_Zal4_FTr9u86JAs70glMrZBtjeVU-data-for-countries-etc-by-year
+actual_progress,actual_progress,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1DLTQ0ngkTHnvis_Zal4_FTr9u86JAs70glMrZBtjeVU-data-for-countries-etc-by-year
+gapminder_index,gapminder_index,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1DLTQ0ngkTHnvis_Zal4_FTr9u86JAs70glMrZBtjeVU-data-for-countries-etc-by-year
