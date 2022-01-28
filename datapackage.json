@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2022-01-14T12:30:35.498430+00:00",
+    "created": "2022-01-28T18:07:57.979577+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -54,10 +54,10 @@
                         "name": "format"
                     },
                     {
-                        "name": "domain"
+                        "name": "scales"
                     },
                     {
-                        "name": "scales"
+                        "name": "domain"
                     },
                     {
                         "name": "indicator_url"
@@ -1237,6 +1237,27 @@
                     },
                     {
                         "name": "gini"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gnicap_atm_con--by--country--time",
+            "path": "ddf--datapoints--gnicap_atm_con--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gnicap_atm_con"
                     }
                 ],
                 "primaryKey": [
@@ -6494,6 +6515,26 @@
                 "value": "gini",
                 "resources": [
                     "ddf--datapoints--gini--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gnicap_atm_con",
+                "resources": [
+                    "ddf--datapoints--gnicap_atm_con--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gnicap_atm_con",
+                "resources": [
+                    "ddf--datapoints--gnicap_atm_con--by--country--time"
                 ]
             },
             {
