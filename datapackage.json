@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2022-01-14T12:30:35.498430+00:00",
+    "created": "2022-01-28T21:56:28.249362+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -54,10 +54,10 @@
                         "name": "format"
                     },
                     {
-                        "name": "domain"
+                        "name": "scales"
                     },
                     {
-                        "name": "scales"
+                        "name": "domain"
                     },
                     {
                         "name": "indicator_url"
@@ -1246,8 +1246,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--gnicap_atm_cur--by--country--time",
-            "path": "ddf--datapoints--gnicap_atm_cur--by--country--time.csv",
+            "name": "ddf--datapoints--gnicap_atm_con--by--country--time",
+            "path": "ddf--datapoints--gnicap_atm_con--by--country--time.csv",
             "schema": {
                 "fields": [
                     {
@@ -1257,7 +1257,7 @@
                         "name": "time"
                     },
                     {
-                        "name": "gnicap_atm_cur"
+                        "name": "gnicap_atm_con"
                     }
                 ],
                 "primaryKey": [
@@ -6501,9 +6501,9 @@
                     "country",
                     "time"
                 ],
-                "value": "gnicap_atm_cur",
+                "value": "gnicap_atm_con",
                 "resources": [
-                    "ddf--datapoints--gnicap_atm_cur--by--country--time"
+                    "ddf--datapoints--gnicap_atm_con--by--country--time"
                 ]
             },
             {
@@ -6511,9 +6511,9 @@
                     "geo",
                     "time"
                 ],
-                "value": "gnicap_atm_cur",
+                "value": "gnicap_atm_con",
                 "resources": [
-                    "ddf--datapoints--gnicap_atm_cur--by--country--time"
+                    "ddf--datapoints--gnicap_atm_con--by--country--time"
                 ]
             },
             {
