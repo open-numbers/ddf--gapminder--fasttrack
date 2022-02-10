@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2022-02-10T13:30:07.566932+00:00",
+    "created": "2022-02-10T13:50:34.266141+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -712,27 +712,6 @@
                     },
                     {
                         "name": "dirdemo_idea"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--domestic_violence--by--country--time",
-            "path": "ddf--datapoints--domestic_violence--by--country--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "domestic_violence"
                     }
                 ],
                 "primaryKey": [
@@ -2455,6 +2434,27 @@
                     },
                     {
                         "name": "owid_education_idx"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--partner_violence--by--country--time",
+            "path": "ddf--datapoints--partner_violence--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "partner_violence"
                     }
                 ],
                 "primaryKey": [
@@ -6076,26 +6076,6 @@
                     "country",
                     "time"
                 ],
-                "value": "domestic_violence",
-                "resources": [
-                    "ddf--datapoints--domestic_violence--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "domestic_violence",
-                "resources": [
-                    "ddf--datapoints--domestic_violence--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
                 "value": "efparlt_idea",
                 "resources": [
                     "ddf--datapoints--efparlt_idea--by--country--time"
@@ -7567,6 +7547,26 @@
                 "value": "owid_education_idx",
                 "resources": [
                     "ddf--datapoints--owid_education_idx--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "partner_violence",
+                "resources": [
+                    "ddf--datapoints--partner_violence--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "partner_violence",
+                "resources": [
+                    "ddf--datapoints--partner_violence--by--country--time"
                 ]
             },
             {
