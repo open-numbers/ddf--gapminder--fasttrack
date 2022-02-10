@@ -177,3 +177,4 @@ perceived_progress,perceived_progress,"[geo:country,time:time]","{timeInColumns:
 actual_progress,actual_progress,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1DLTQ0ngkTHnvis_Zal4_FTr9u86JAs70glMrZBtjeVU-data-for-countries-etc-by-year
 gapminder_index,gapminder_index,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1DLTQ0ngkTHnvis_Zal4_FTr9u86JAs70glMrZBtjeVU-data-for-countries-etc-by-year
 gnicap_atm_con,GNI per capita (Constant USD),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1JgkyFX8GSg71mipcQhftPqiT2rUNifOdT1feT1mkQDY-data-for-countries-etc-by-year
+partner_violence,Intimate Partner Violence,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",19M1JfyHYEUnHAVdBdSKaLw7cMosljC_8byCPB9mkjhY-data-for-countries-etc-by-year
