@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2022-02-12T22:31:51.769699+00:00",
+    "created": "2022-02-12T22:34:34.932734+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -2228,6 +2228,27 @@
                 ],
                 "primaryKey": [
                     "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ndisasd_tot--by--country--time",
+            "path": "ddf--datapoints--ndisasd_tot--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ndisasd_tot"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
                     "time"
                 ]
             }
@@ -7351,11 +7372,22 @@
             },
             {
                 "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "ndisasd_tot",
+                "resources": [
+                    "ddf--datapoints--ndisasd_tot--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
                     "geo",
                     "time"
                 ],
                 "value": "ndisasd_tot",
                 "resources": [
+                    "ddf--datapoints--ndisasd_tot--by--country--time",
                     "ddf--datapoints--ndisasd_tot--by--global--time"
                 ]
             },
