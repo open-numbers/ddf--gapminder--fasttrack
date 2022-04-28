@@ -88,9 +88,9 @@ percit_more_10m,Population in cities with more than 10m people (% total populati
 owid_education_idx,OWID Education Index,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1gK1UfJMvoeaK28f9HiqdeQ3cOU3V-EfImnsX_CrVFrA-data-for-countries-etc-by-year
 mmr_who,Maternal Mortality Ratio (WHO),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",14kb39XojncvwpNp_8ciuiEp5yP8QIaFmSZqAum6C63w-data-for-countries-etc-by-year
 mmr_ihme,Maternal Mortality Ratio (IHME),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Z2IS9xVg-KJ8nHK2fvwXVBXfereC-CxAJ5kZiRFD6BY-data-for-countries-etc-by-year
-wn_bothhouses_c,Pecentage of women in parliaments,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1MCXMf9TekU6T1Q31_laZrfBmIUI2CVYRXB9IBXrc7Tc-data-for-countries-etc-by-year
-wn_bothhouses_c,Pecentage of women in parliaments,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1MCXMf9TekU6T1Q31_laZrfBmIUI2CVYRXB9IBXrc7Tc-data-for-regions-by-year
-wn_bothhouses_c,Pecentage of women in parliaments,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1MCXMf9TekU6T1Q31_laZrfBmIUI2CVYRXB9IBXrc7Tc-data-for-world-by-year
+wn_bothhouses_c,Percentage of women in parliaments,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QE30QKC-uMbvUlYxLDaZpTVe59ooO0Rz9IC-dbIDQJg-data-for-countries-etc-by-year
+wn_bothhouses_c,Percentage of women in parliaments,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QE30QKC-uMbvUlYxLDaZpTVe59ooO0Rz9IC-dbIDQJg-data-for-regions-by-year
+wn_bothhouses_c,Percentage of women in parliaments,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QE30QKC-uMbvUlYxLDaZpTVe59ooO0Rz9IC-dbIDQJg-data-for-world-by-year
 matfootp,Material footprint (tonnes),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1x_hZAA0CdiiRnU3tJtu88jy1tSLrCCdVef97GXOGU6Y-data-for-countries-etc-by-year
 matfootp_cap,Material footprint per capita (tonnes),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1x_hZAA0CdiiRnU3tJtu88jy1tSLrCCdVef97GXOGU6Y-data-for-countries-etc-by-year
 matfootp,Material footprint (tonnes),"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1x_hZAA0CdiiRnU3tJtu88jy1tSLrCCdVef97GXOGU6Y-data-for-regions-by-year
@@ -178,3 +178,4 @@ ndisasd_tot,Natural disaster deaths per year,"[geo:global,time:time]","{timeInCo
 ndisasd_noep_tot,"Natural disaster deaths excluding epidemics, per year","[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1kL2ALtkuxUd740nTmk0s3ALydAaZJHc5JZ8SrRTwMoE-data-for-world-by-year
 ndisasd_rate,Natural disasters death rate per million people per year,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1kL2ALtkuxUd740nTmk0s3ALydAaZJHc5JZ8SrRTwMoE-data-for-world-by-year
 ndisasd_noep_rate,"Natural disasters death rate, excluding epidemics per million people per year","[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1kL2ALtkuxUd740nTmk0s3ALydAaZJHc5JZ8SrRTwMoE-data-for-world-by-year
+npl,National poverty line,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",16khgyZLd76fdcpmYMczKb0jItVT8wo8j2CsqY2JR4DE-data-for-countries-etc-by-year
