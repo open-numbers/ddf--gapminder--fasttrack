@@ -178,3 +178,4 @@ ndisasd_tot,Natural disaster deaths per year,"[geo:global,time:time]","{timeInCo
 ndisasd_noep_tot,"Natural disaster deaths excluding epidemics, per year","[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1kL2ALtkuxUd740nTmk0s3ALydAaZJHc5JZ8SrRTwMoE-data-for-world-by-year
 ndisasd_rate,Natural disasters death rate per million people per year,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1kL2ALtkuxUd740nTmk0s3ALydAaZJHc5JZ8SrRTwMoE-data-for-world-by-year
 ndisasd_noep_rate,"Natural disasters death rate, excluding epidemics per million people per year","[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1kL2ALtkuxUd740nTmk0s3ALydAaZJHc5JZ8SrRTwMoE-data-for-world-by-year
+npl,National poverty line,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",16khgyZLd76fdcpmYMczKb0jItVT8wo8j2CsqY2JR4DE-data-for-countries-etc-by-year

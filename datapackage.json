@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2022-02-27T02:18:19.297965+00:00",
+    "created": "2022-04-28T21:54:58.245338+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -2308,6 +2308,27 @@
                     },
                     {
                         "name": "non_net_users_prc"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--npl--by--country--time",
+            "path": "ddf--datapoints--npl--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "npl"
                     }
                 ],
                 "primaryKey": [
@@ -7427,6 +7448,26 @@
                 "value": "non_net_users_prc",
                 "resources": [
                     "ddf--datapoints--non_net_users_prc--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "npl",
+                "resources": [
+                    "ddf--datapoints--npl--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "npl",
+                "resources": [
+                    "ddf--datapoints--npl--by--country--time"
                 ]
             },
             {
