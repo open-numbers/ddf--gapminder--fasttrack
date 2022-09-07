@@ -1,0 +1,262 @@
+,geo,name,time,People who see climate change as a very serious threat,People who see climate change as a somewhat serious threat,People who see climate as a risk worldwide
+0,afg,Afghanistan,2019,36.8,40.1,76.9
+1,afg,Afghanistan,2021,36.6,44.7,81.3
+2,alb,Albania,2019,54.4,28.6,83
+3,alb,Albania,2021,63.9,22.3,86.2
+4,dza,Algeria,2019,27.9,47.4,75.3
+5,dza,Algeria,2021,35.1,40.7,75.8
+6,arg,Argentina,2019,74.1,15.3,89.3
+7,arg,Argentina,2021,70.7,18.7,89.4
+8,arm,Armenia,2019,37.1,38.9,76
+9,arm,Armenia,2021,39.1,30.5,69.7
+10,aus,Australia,2019,53.3,27.3,80.7
+11,aus,Australia,2021,53.5,27.7,81.2
+12,aut,Austria,2019,63.2,26.2,89.4
+13,aut,Austria,2021,63.5,25.7,89.2
+14,aze,Azerbaijan,2019,32.7,37.2,69.9
+15,bhr,Bahrain,2019,29.7,26.8,56.5
+16,bgd,Bangladesh,2019,26.4,25.7,52.1
+17,bgd,Bangladesh,2021,43.4,17.9,61.3
+18,blr,Belarus,2019,43.3,29.8,73
+19,bel,Belgium,2019,56.6,35,91.6
+20,bel,Belgium,2021,42.9,39.5,82.3
+21,ben,Benin,2019,44,25.9,69.9
+22,ben,Benin,2021,52.6,21.4,74
+23,bol,Bolivia,2019,69.7,19.5,89.2
+24,bol,Bolivia,2021,73.7,15.8,89.4
+25,bih,Bosnia and Herzegovina,2019,53.7,36.6,90.3
+26,bih,Bosnia and Herzegovina,2021,57.7,24,81.7
+27,bwa,Botswana,2019,52.5,10.4,62.9
+28,bra,Brazil,2019,71.4,8.3,79.7
+29,bra,Brazil,2021,77.3,12.5,89.8
+30,bgr,Bulgaria,2019,45.2,38.6,83.8
+31,bgr,Bulgaria,2021,46.7,32.4,79.2
+32,bfa,Burkina Faso,2019,56.7,21.4,78.1
+33,bfa,Burkina Faso,2021,50.4,28.8,79.2
+34,khm,Cambodia,2019,24.2,23.4,47.6
+35,khm,Cambodia,2021,28.5,33.3,61.8
+36,cmr,Cameroon,2019,43.4,29.7,73.1
+37,cmr,Cameroon,2021,44.2,28.3,72.5
+38,can,Canada,2019,57.3,29.3,86.6
+39,can,Canada,2021,62.2,23.8,85.9
+40,tcd,Chad,2019,46.7,23.3,70
+41,chl,Chile,2019,86.9,8.1,95
+42,chl,Chile,2021,86.3,6.9,93.2
+43,chn,China,2019,22.4,35.7,58.1
+44,chn,China,2021,22.6,40.8,63.4
+45,col,Colombia,2019,74.9,14,88.9
+46,col,Colombia,2021,69.4,13,82.4
+47,cog,"Congo, Rep.",2019,46.4,20.9,67.3
+48,cog,"Congo, Rep.",2021,41.6,16.9,58.5
+49,cri,Costa Rica,2019,80.9,11.1,92
+50,cri,Costa Rica,2021,74,11.8,85.8
+51,civ,Cote d'Ivoire,2019,46.8,15.6,62.4
+52,civ,Cote d'Ivoire,2021,52.5,25,77.5
+53,hrv,Croatia,2019,52.2,41.4,93.6
+54,hrv,Croatia,2021,70,21.9,91.9
+55,cyp,Cyprus,2019,78.4,12.6,91
+56,cyp,Cyprus,2021,75.7,13.3,89
+57,cze,Czech Republic,2021,48.5,39.2,87.7
+58,dnk,Denmark,2019,40.4,48,88.4
+59,dnk,Denmark,2021,35.2,49.4,84.6
+60,dom,Dominican Republic,2019,57,16.8,73.7
+61,dom,Dominican Republic,2021,48.6,13,61.5
+62,ecu,Ecuador,2019,73.8,15.6,89.4
+63,ecu,Ecuador,2021,64.9,18.1,83
+64,egy,Egypt,2019,17.9,39.2,57
+65,egy,Egypt,2021,15.3,36.5,51.8
+66,slv,El Salvador,2019,63.5,19,82.5
+67,slv,El Salvador,2021,58.1,13.1,71.2
+68,est,Estonia,2019,34.5,43.5,78.1
+69,est,Estonia,2021,30,49.9,79.9
+70,eth,Ethiopia,2019,18.4,32.8,51.2
+71,fin,Finland,2019,25,55.1,80.1
+72,fin,Finland,2021,34.8,54,88.8
+73,fra,France,2019,59.7,35,94.7
+74,fra,France,2021,59.8,33.4,93.2
+75,gab,Gabon,2019,52.4,20.9,73.4
+76,gab,Gabon,2021,41.9,36,77.9
+77,gmb,Gambia,2019,50,12.1,62.1
+78,geo,Georgia,2019,58.3,34.5,92.9
+79,geo,Georgia,2021,64.4,24.4,88.8
+80,deu,Germany,2019,52.8,35.8,88.6
+81,deu,Germany,2021,61.8,32,93.8
+82,gha,Ghana,2019,43.1,28.3,71.4
+83,gha,Ghana,2021,43.5,27.8,71.3
+84,grc,Greece,2019,81.3,16.3,97.6
+85,grc,Greece,2021,81.1,13.2,94.3
+86,gtm,Guatemala,2019,61.6,13.9,75.5
+87,gin,Guinea,2019,51.4,24.1,75.5
+88,gin,Guinea,2021,51.3,24.8,76.1
+89,hnd,Honduras,2019,65.3,14.9,80.2
+90,hnd,Honduras,2021,55.9,13,69
+91,hkg,"Hong Kong, China",2019,32.6,55.4,88
+92,hkg,"Hong Kong, China",2021,23.9,58.5,82.4
+93,hun,Hungary,2019,67.1,28.1,95.3
+94,hun,Hungary,2021,64.1,27.5,91.6
+95,isl,Iceland,2021,38.2,44.2,82.4
+96,ind,India,2019,34.1,26.5,60.6
+97,ind,India,2021,40.1,23.8,63.9
+98,idn,Indonesia,2019,34,22.2,56.2
+99,idn,Indonesia,2021,33.1,24.8,57.9
+100,irn,Iran,2019,40.2,27.6,67.8
+101,irn,Iran,2021,44.3,26.9,71.2
+102,irq,Iraq,2019,28,34.4,62.4
+103,irq,Iraq,2021,38.7,24.9,63.6
+104,irl,Ireland,2019,63.8,22.4,86.2
+105,irl,Ireland,2021,64.7,26.7,91.4
+106,isr,Israel,2019,38.3,42.5,80.7
+107,isr,Israel,2021,33,40.3,73.2
+108,ita,Italy,2019,70.4,23.3,93.7
+109,ita,Italy,2021,68.5,26.2,94.7
+110,jam,Jamaica,2019,54.3,12.2,66.5
+111,jam,Jamaica,2021,46.7,8.3,55
+112,jpn,Japan,2019,60.2,34.3,94.5
+113,jpn,Japan,2021,58.2,35,93.3
+114,jor,Jordan,2019,25.4,39.8,65.1
+115,jor,Jordan,2021,20.1,32.2,52.4
+116,kaz,Kazakhstan,2019,38.1,25.6,63.7
+117,kaz,Kazakhstan,2021,30.3,27.5,57.8
+118,ken,Kenya,2019,59.5,15.8,75.3
+119,ken,Kenya,2021,55.9,18.9,74.9
+120,kwt,Kuwait,2019,34.4,24.9,59.2
+121,kgz,Kyrgyz Republic,2019,46.3,25.8,72.1
+122,kgz,Kyrgyz Republic,2021,44.3,31.8,76
+123,lao,Lao,2019,25.8,11.9,37.7
+124,lao,Lao,2021,24.4,15.2,39.6
+125,lva,Latvia,2019,43.1,41,84.2
+126,lva,Latvia,2021,34.2,38.4,72.6
+127,lbn,Lebanon,2019,34.2,51.5,85.8
+128,lbn,Lebanon,2021,25.4,45,70.4
+129,lso,Lesotho,2019,78.2,4,82.2
+130,lbr,Liberia,2019,54.4,10.4,64.8
+131,lby,Libya,2019,26.2,26.7,52.9
+132,ltu,Lithuania,2019,28,37.2,65.2
+133,ltu,Lithuania,2021,30.6,49.9,80.4
+134,lux,Luxembourg,2019,53,37.5,90.5
+135,mkd,"Macedonia, FYR",2019,60.2,31.1,91.3
+136,mkd,"Macedonia, FYR",2021,63.6,19.7,83.2
+137,mdg,Madagascar,2019,43.3,35,78.3
+138,mwi,Malawi,2019,75.8,8.7,84.5
+139,mys,Malaysia,2019,40.8,30.8,71.7
+140,mys,Malaysia,2021,51.2,28.1,79.4
+141,mli,Mali,2019,53.5,20,73.5
+142,mli,Mali,2021,54.1,23.2,77.3
+143,mlt,Malta,2019,62.4,23.3,85.7
+144,mlt,Malta,2021,61.9,21.5,83.4
+145,mrt,Mauritania,2019,40.7,30,70.7
+146,mus,Mauritius,2019,54.8,30.7,85.5
+147,mus,Mauritius,2021,48,37.3,85.3
+148,mex,Mexico,2019,69.3,17.2,86.5
+149,mex,Mexico,2021,69.3,17.9,87.2
+150,mda,Moldova,2019,47.1,31.8,78.9
+151,mda,Moldova,2021,44.8,30.7,75.5
+152,mng,Mongolia,2019,35.4,39.7,75.1
+153,mng,Mongolia,2021,30,41.8,71.8
+154,mne,Montenegro,2019,43.4,42.9,86.3
+155,mar,Morocco,2019,45.4,10.8,56.3
+156,mar,Morocco,2021,40.6,13.7,54.3
+157,moz,Mozambique,2019,43.4,15.1,58.5
+158,moz,Mozambique,2021,42.4,12.2,54.6
+159,mmr,Myanmar,2019,20.4,37.1,57.5
+160,mmr,Myanmar,2021,21.6,39.6,61.2
+161,nam,Namibia,2019,66.9,12.8,79.6
+162,nam,Namibia,2021,47.2,15.5,62.7
+163,npl,Nepal,2019,34,13.2,47.1
+164,npl,Nepal,2021,42.4,17.9,60.3
+165,nld,Netherlands,2019,35.8,44.8,80.5
+166,nld,Netherlands,2021,47.2,39.7,86.9
+167,nzl,New Zealand,2019,46,35.6,81.6
+168,nzl,New Zealand,2021,44.4,34.7,79.1
+169,nic,Nicaragua,2019,56.9,21.8,78.7
+170,nic,Nicaragua,2021,55.8,11.5,67.3
+171,ner,Niger,2019,36.8,18.2,55
+172,nga,Nigeria,2019,45.9,23.3,69.2
+173,nga,Nigeria,2021,37,22.8,59.8
+174,nor,Norway,2019,40,42.9,82.9
+175,nor,Norway,2021,49.1,39.4,88.5
+176,pak,Pakistan,2019,34.3,41.9,76.2
+177,pak,Pakistan,2021,30.5,35.3,65.8
+178,pse,Palestine,2019,28.9,44.8,73.7
+179,pan,Panama,2019,68.1,18.5,86.6
+180,pan,Panama,2021,61.6,15.8,77.4
+181,pry,Paraguay,2019,70.8,16.2,87
+182,pry,Paraguay,2021,50.2,20.4,70.6
+183,per,Peru,2019,73.8,18.1,91.9
+184,per,Peru,2021,62.6,20.8,83.4
+185,phl,Philippines,2019,57.8,18.2,76
+186,phl,Philippines,2021,69.5,17.8,87.3
+187,pol,Poland,2019,52.4,34.1,86.5
+188,pol,Poland,2021,69.2,15.8,84.9
+189,prt,Portugal,2019,85.4,10.3,95.7
+190,prt,Portugal,2021,78.5,15.1,93.6
+191,rou,Romania,2019,75.5,11.9,87.4
+192,rou,Romania,2021,78.2,9.2,87.4
+193,rus,Russia,2019,40.4,22.7,63.1
+194,rus,Russia,2021,36.5,30.6,67.2
+195,rwa,Rwanda,2019,52.6,16.2,68.8
+196,sau,Saudi Arabia,2019,20.7,28.6,49.3
+197,sau,Saudi Arabia,2021,8.5,21.4,29.9
+198,sen,Senegal,2019,45.4,32.3,77.7
+199,sen,Senegal,2021,47.7,27.1,74.8
+200,srb,Serbia,2019,53.5,35.6,89.1
+201,srb,Serbia,2021,63.5,22.1,85.5
+202,sle,Sierra Leone,2019,48.4,18.2,66.5
+203,sle,Sierra Leone,2021,63.8,9.9,73.7
+204,sgp,Singapore,2019,70.2,19.9,90.1
+205,sgp,Singapore,2021,51.6,27.3,78.9
+206,svk,Slovak Republic,2019,44.6,48.1,92.7
+207,svk,Slovak Republic,2021,65.4,26.7,92.2
+208,svn,Slovenia,2019,50.9,36.2,87.1
+209,svn,Slovenia,2021,58.5,31.6,90.1
+210,zaf,South Africa,2019,59.6,11.6,71.2
+211,zaf,South Africa,2021,47.7,17.3,65
+212,kor,South Korea,2019,54.4,39.6,94
+213,kor,South Korea,2021,63.1,29.6,92.7
+214,esp,Spain,2019,84.1,11,95.1
+215,esp,Spain,2021,80,14.7,94.7
+216,lka,Sri Lanka,2019,39.2,36.4,75.6
+217,lka,Sri Lanka,2021,47.7,34.3,82
+218,swz,Swaziland,2019,70,14,84
+219,swe,Sweden,2019,40.7,44,84.7
+220,swe,Sweden,2021,49.8,39.4,89.1
+221,che,Switzerland,2019,51.1,35.1,86.2
+222,che,Switzerland,2021,57.8,37,94.8
+223,twn,Taiwan,2019,62.3,33.5,95.8
+224,twn,Taiwan,2021,56.7,35.3,92
+225,tjk,Tajikistan,2019,52.8,23.7,76.5
+226,tjk,Tajikistan,2021,37.2,28.7,65.9
+227,tza,Tanzania,2019,41.2,18.9,60.1
+228,tza,Tanzania,2021,36.4,19.2,55.6
+229,tha,Thailand,2019,36.5,34.2,70.7
+230,tha,Thailand,2021,43.3,37.2,80.4
+231,tgo,Togo,2019,44.2,27.3,71.5
+232,tgo,Togo,2021,53.3,27.9,81.2
+233,tun,Tunisia,2019,33.9,26.6,60.5
+234,tun,Tunisia,2021,34.1,29.6,63.7
+235,tur,Turkey,2019,52.2,25,77.2
+236,tur,Turkey,2021,67.7,18.7,86.4
+237,tkm,Turkmenistan,2019,34.3,33.2,67.6
+238,uga,Uganda,2019,56.1,16.2,72.3
+239,uga,Uganda,2021,57.3,18.6,75.9
+240,ukr,Ukraine,2019,53.8,25.6,79.4
+241,ukr,Ukraine,2021,55.3,25,80.3
+242,are,United Arab Emirates,2019,26.3,25.3,51.6
+243,are,United Arab Emirates,2021,28,23.4,51.4
+244,gbr,United Kingdom,2019,68.6,20.2,88.8
+245,gbr,United Kingdom,2021,70.3,21.8,92.1
+246,usa,United States,2019,46.3,25.3,71.6
+247,usa,United States,2021,50.4,22.2,72.6
+248,ury,Uruguay,2019,74.5,15.6,90.2
+249,ury,Uruguay,2021,61.3,23.1,84.4
+250,uzb,Uzbekistan,2019,22.7,32.3,55
+251,uzb,Uzbekistan,2021,25.6,36,61.6
+252,ven,Venezuela,2019,62.7,21.7,84.4
+253,ven,Venezuela,2021,60.7,17.7,78.4
+254,vnm,Vietnam,2019,63.2,20.7,83.8
+255,vnm,Vietnam,2021,66.9,25.4,92.4
+256,yem,Yemen,2019,15.1,31.6,46.7
+257,zmb,Zambia,2019,66.7,9.8,76.5
+258,zmb,Zambia,2021,51.7,15.2,66.9
+259,zwe,Zimbabwe,2019,61.6,15.5,77.2
+260,zwe,Zimbabwe,2021,50.1,24.8,74.9
