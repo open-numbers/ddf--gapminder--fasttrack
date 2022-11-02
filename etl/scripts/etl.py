@@ -39,6 +39,12 @@ def serve_concepts(concepts, entities_columns):
 
     # first, concepts from google spreadsheet
     cdf1 = concepts.copy()
+    # check duplicates. This spreadsheet should not have duplicated concepts.
+    dups1 = cdf1[cdf1['concept'].duplicated()]
+    if not dups1.empty:
+        print("ERROR: the concept sheet has duplicated entries:")
+        print(dups1['concept'].values)
+        raise ValueError("duplicated concepts in concept sheet.")
     cdf1 = cdf1.rename(columns={'concept_id': 'concept', 'topic': 'tags'})
     cdf1 = cdf1.set_index('concept')
     # trim descriptions
