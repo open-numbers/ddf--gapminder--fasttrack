@@ -49,10 +49,6 @@ polpartix_eiu,Political participation index(EIU),"[geo:country,time:time]","{tim
 polcultx_eiu,Political culture index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
 civlibx_eiu,Civil liberties index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
 c_demox_eiu,Change in democracy index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
-refugee_in_perc_wb,Share refugees,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",18lkyZQGvVUXupcFscGTaoJgA1FTZUsaEhk_6Xsm5pBM-data-for-countries-etc-by-year
-refugee_from_perc_wb,Refugee diaspora rate of origin population,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",18lkyZQGvVUXupcFscGTaoJgA1FTZUsaEhk_6Xsm5pBM-data-for-countries-etc-by-year
-refugee_in_perc_wb,Share refugees,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",18lkyZQGvVUXupcFscGTaoJgA1FTZUsaEhk_6Xsm5pBM-data-for-world-by-year
-refugee_in_perc_wb,Share refugees,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",18lkyZQGvVUXupcFscGTaoJgA1FTZUsaEhk_6Xsm5pBM-data-for-regions-by-year
 u5pop,Under-five population,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1-5qutEU2Fxg4t5Cx37Y1gpgOShTz-Adt5rEg1U31-S4-data-for-countries-etc-by-year
 u5stunted_prc,Stunting prevalence,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1GqwGgOnd4jMPn2cQfqOFFIVqvBoLVx9X9OsZZK-Fwq8-data-for-countries-etc-by-year
 ilevels3_wb,3 income groups (WB),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1X6NenlJpv4aP2ApFGVmtiUdMCnqOcimpVelW5KcNgg4-data-for-countries-etc-by-year
@@ -130,7 +126,6 @@ as_in,Asylum-seekers by country of residence,"[geo:country,time:time]","{timeInC
 unhcr_refg_from,UNHCR refugees by country of origin,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
 as_from,Asylum-seekers by country of origin,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
 idps,Internally displaced persons,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
-gnicap_atm_cur,GNI per capita,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1lTLaXD5hfY_H8VjK1wCiCrKQSNfP09mosihXCP9ceOw-data-for-countries-etc-by-year
 mincpcap_cppp,Average daily income per capita,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nXQrAb6bbJmhhitrvjOtuCLtE8IxnCoJ_TxjFEJQP2M-data-for-countries-etc-by-year
 sdi,Sustainable Development Index,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nfGL9zIEzcwaM-bToNlbHfSXz4PZ9uW8uhWHwxW7VKI-data-for-countries-etc-by-year
 hmless_nd,Homeless from natural disasters,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1KQaJDqZkRoVQGnIDAjtx9k5m1y6mRdCMEwSIS2i-eQo-data-for-countries-etc-by-year
