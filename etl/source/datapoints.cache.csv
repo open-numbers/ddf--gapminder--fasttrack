@@ -183,5 +183,3 @@ cc_vser_t_per,See climate change as a serious threat (% of population),"[geo:cou
 cc_somw_t_per,See climate change as a somewhat serious threat (% of population),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1coShn1xBg_b0yBa32S1DqNyLExQyQZ_G6lE8ippvWSk-data-for-countries-etc-by-year
 cc_vser_somw_t_per,See climate change as a threat (% of population),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1coShn1xBg_b0yBa32S1DqNyLExQyQZ_G6lE8ippvWSk-data-for-countries-etc-by-year
 npl,National poverty line,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",16khgyZLd76fdcpmYMczKb0jItVT8wo8j2CsqY2JR4DE-data-for-countries-etc-by-year
-gini_2100,gini_2100,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",18oDZZV2T0DZYsx-5qa9yAsgfm1MhRxq6swhvLMp-iGw-data-for-countries-etc-by-year
-mhhinc,household_income,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",18oDZZV2T0DZYsx-5qa9yAsgfm1MhRxq6swhvLMp-iGw-data-for-countries-etc-by-year
