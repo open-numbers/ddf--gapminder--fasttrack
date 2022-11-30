@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2022-11-20T01:43:00.289380+00:00",
+    "created": "2022-11-30T06:20:49.325826+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -313,6 +313,27 @@
                     },
                     {
                         "name": "c_elecparti_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--c_emission_cap--by--country--time",
+            "path": "ddf--datapoints--c_emission_cap--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "c_emission_cap"
                     }
                 ],
                 "primaryKey": [
@@ -796,6 +817,27 @@
                     },
                     {
                         "name": "compt_plastic_wst"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--cons_emissions--by--country--time",
+            "path": "ddf--datapoints--cons_emissions--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "cons_emissions"
                     }
                 ],
                 "primaryKey": [
@@ -3556,6 +3598,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--terr_emissions--by--country--time",
+            "path": "ddf--datapoints--terr_emissions--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "terr_emissions"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--top10_ptaxinc_wid--by--country--time",
             "path": "ddf--datapoints--top10_ptaxinc_wid--by--country--time.csv",
             "schema": {
@@ -3568,6 +3631,27 @@
                     },
                     {
                         "name": "top10_ptaxinc_wid"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--transfer_emissions--by--country--time",
+            "path": "ddf--datapoints--transfer_emissions--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "transfer_emissions"
                     }
                 ],
                 "primaryKey": [
@@ -5801,6 +5885,26 @@
                     "country",
                     "time"
                 ],
+                "value": "c_emission_cap",
+                "resources": [
+                    "ddf--datapoints--c_emission_cap--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "c_emission_cap",
+                "resources": [
+                    "ddf--datapoints--c_emission_cap--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "c_fundright_idea",
                 "resources": [
                     "ddf--datapoints--c_fundright_idea--by--country--time"
@@ -6227,6 +6331,26 @@
                 "value": "compt_plastic_wst",
                 "resources": [
                     "ddf--datapoints--compt_plastic_wst--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "cons_emissions",
+                "resources": [
+                    "ddf--datapoints--cons_emissions--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "cons_emissions",
+                "resources": [
+                    "ddf--datapoints--cons_emissions--by--country--time"
                 ]
             },
             {
@@ -8521,6 +8645,26 @@
                     "country",
                     "time"
                 ],
+                "value": "terr_emissions",
+                "resources": [
+                    "ddf--datapoints--terr_emissions--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "terr_emissions",
+                "resources": [
+                    "ddf--datapoints--terr_emissions--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "top10_ptaxinc_wid",
                 "resources": [
                     "ddf--datapoints--top10_ptaxinc_wid--by--country--time"
@@ -8534,6 +8678,26 @@
                 "value": "top10_ptaxinc_wid",
                 "resources": [
                     "ddf--datapoints--top10_ptaxinc_wid--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "transfer_emissions",
+                "resources": [
+                    "ddf--datapoints--transfer_emissions--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "transfer_emissions",
+                "resources": [
+                    "ddf--datapoints--transfer_emissions--by--country--time"
                 ]
             },
             {
