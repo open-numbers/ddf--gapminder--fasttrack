@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2022-11-30T06:38:33.091505+00:00",
+    "created": "2022-12-20T14:06:12.912980+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -796,6 +796,90 @@
                     },
                     {
                         "name": "cliberties_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--co2_cons--by--country--time",
+            "path": "ddf--datapoints--co2_cons--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "co2_cons"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--co2_pcap_cons--by--country--time",
+            "path": "ddf--datapoints--co2_pcap_cons--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "co2_pcap_cons"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--co2_pcap_terr--by--country--time",
+            "path": "ddf--datapoints--co2_pcap_terr--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "co2_pcap_terr"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--co2_terr--by--country--time",
+            "path": "ddf--datapoints--co2_terr--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "co2_terr"
                     }
                 ],
                 "primaryKey": [
@@ -6311,6 +6395,86 @@
                 "value": "cliberties_idea",
                 "resources": [
                     "ddf--datapoints--cliberties_idea--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "co2_cons",
+                "resources": [
+                    "ddf--datapoints--co2_cons--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "co2_cons",
+                "resources": [
+                    "ddf--datapoints--co2_cons--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "co2_pcap_cons",
+                "resources": [
+                    "ddf--datapoints--co2_pcap_cons--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "co2_pcap_cons",
+                "resources": [
+                    "ddf--datapoints--co2_pcap_cons--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "co2_pcap_terr",
+                "resources": [
+                    "ddf--datapoints--co2_pcap_terr--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "co2_pcap_terr",
+                "resources": [
+                    "ddf--datapoints--co2_pcap_terr--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "co2_terr",
+                "resources": [
+                    "ddf--datapoints--co2_terr--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "co2_terr",
+                "resources": [
+                    "ddf--datapoints--co2_terr--by--country--time"
                 ]
             },
             {
