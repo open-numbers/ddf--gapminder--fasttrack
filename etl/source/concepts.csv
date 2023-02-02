@@ -247,3 +247,11 @@ co2_pcap_cons,measure,http://gapm.io/dco2_consumption_historic,v1,"December 20, 
 co2_cons,measure,http://gapm.io/dco2_consumption_historic,v1,"December 20, 2022",CO2 Emissions total (Consumption),CO2 emissions total (Consumption based),,Carbondioxide Emissions total(Consumption based) from Global Carbon Project 2021 in Million Tonnes of CO2,million tonnes of CO2,emissions,,,
 co2_pcap_terr,measure,http://gapm.io/dco2_territorial_historic,v1,"December 20, 2022",CO2 per Cap (Territorial),CO2 emissions per capita (Territorial),,Carbondioxide per Capita (Territorial based) from Global Carbon Project 2021 in Million Tonnes of CO2 per capita,million tonnes of CO2 per capita,emissions,,,
 co2_terr,measure,http://gapm.io/dco2_territorial_historic,v1,"December 20, 2022",CO2 Emissions total (Territorial),CO2 emissions total (Territorial),,Carbondioxide Emissions total (Territorial based) from Global Carbon Project 2021 in Million Tonnes of CO2,million tonnes of CO2,emissions,,,
+carbonfp_pcap,measure,http://gapm.io/dwidgdp_percapco2,v1,February 1 2023,National carbon footprint,National Carbon Footprint per capita,,"Emissions are measured as carbon dioxyde equivalent (CO2e) from all human activities
+(including domestic and production emissions, private and public investment, deforestation
+and land-use change). CO2e is a unit introduced by the GIEC report to compare different
+green- house gases (GHG). For a given emission level of a gas, it is equal to the amount of
+CO2 that would have to be emitted to have the same warming effect within 100 years",tCO2e,environment,,,
+cemission_cap,measure,http://gapm.io/dwidgdp_percapco2,v1,February 1 2023,Global Carbon Project,Consumption Emissions per Capita,,"Consumption-based emission inventories allocate emissions to products that are consumed within a country and are conceptually calculated as the territorial emissions minus the “embodied” territorial emissions to produce exported products plus the emissions in other countries to produce imported products (consumption is equal to territorial minus exports plus imports).
+
+Consumption Emissions for a country divided by its population in Tonnes of CO2 per Capita",tCO2,environment,,,

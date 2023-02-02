@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2023-01-22T01:11:47.652881+00:00",
+    "created": "2023-02-02T13:04:18.760243+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -427,6 +427,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--carbonfp_pcap--by--country--time",
+            "path": "ddf--datapoints--carbonfp_pcap--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "carbonfp_pcap"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--cc_somw_t_per--by--country--time",
             "path": "ddf--datapoints--cc_somw_t_per--by--country--time.csv",
             "schema": {
@@ -565,6 +586,27 @@
                     },
                     {
                         "name": "celec_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--cemission_cap--by--country--time",
+            "path": "ddf--datapoints--cemission_cap--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "cemission_cap"
                     }
                 ],
                 "primaryKey": [
@@ -6111,6 +6153,26 @@
                     "country",
                     "time"
                 ],
+                "value": "carbonfp_pcap",
+                "resources": [
+                    "ddf--datapoints--carbonfp_pcap--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "carbonfp_pcap",
+                "resources": [
+                    "ddf--datapoints--carbonfp_pcap--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "cc_somw_t_per",
                 "resources": [
                     "ddf--datapoints--cc_somw_t_per--by--country--time"
@@ -6217,6 +6279,26 @@
                 "value": "celec_idea",
                 "resources": [
                     "ddf--datapoints--celec_idea--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "cemission_cap",
+                "resources": [
+                    "ddf--datapoints--cemission_cap--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "cemission_cap",
+                "resources": [
+                    "ddf--datapoints--cemission_cap--by--country--time"
                 ]
             },
             {
