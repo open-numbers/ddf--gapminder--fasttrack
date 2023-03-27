@@ -101,7 +101,7 @@ net_users_num,Internet users,"[geo:country,time:time]","{timeInColumns:FALSE, ha
 non_net_users_prc,Non-internet users (%),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",14HINefWNOFkh4TNz-ZmBwb1K6w2Lg9z0P9rDJlJiQ8s-data-for-countries-etc-by-year
 non_net_users_num,Non Internet users,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",14HINefWNOFkh4TNz-ZmBwb1K6w2Lg9z0P9rDJlJiQ8s-data-for-countries-etc-by-year
 manuf_employ,Share working in manufacturing,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1uAzU4ECJ137mLHivaFggbXrA5sdoBgfyfaZ9UtvtS90-data-for-countries-etc-by-year
-hapiscore_whr,Happiness score (WHR),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Jo6_-6W36Qx2IPa_61JLyQ5zUJAXRIcLcU5zBlUa7pM-data-for-countries-etc-by-year
+hapiscore_whr,Happiness score (WHR),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ll4dtbYCDKWzqIfpC5ZXYdxIyjZ8lKnEyWHQI4a_yM0-data-for-countries-etc-by-year
 popcit_less_300k,Population in cities with less than 300k people,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ccBxDTT5J9k3ZJbUmuvzc0xQvsLgBJnZ62S5xzPmY9E-data-for-countries-etc-by-year
 popcit_300_500k,Population in cities with 300k to 500k people,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ccBxDTT5J9k3ZJbUmuvzc0xQvsLgBJnZ62S5xzPmY9E-data-for-countries-etc-by-year
 popcit_500k_1m,Population in cities with 500k  to 1m people,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ccBxDTT5J9k3ZJbUmuvzc0xQvsLgBJnZ62S5xzPmY9E-data-for-countries-etc-by-year
