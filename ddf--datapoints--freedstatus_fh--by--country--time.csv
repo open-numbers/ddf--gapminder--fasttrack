@@ -47,6 +47,8 @@ afg,2017,NF
 afg,2018,NF
 afg,2019,NF
 afg,2020,NF
+afg,2021,NF
+afg,2022,NF
 ago,1975,NF
 ago,1976,NF
 ago,1977,NF
@@ -92,6 +94,8 @@ ago,2017,NF
 ago,2018,NF
 ago,2019,NF
 ago,2020,NF
+ago,2021,NF
+ago,2022,NF
 alb,1972,NF
 alb,1973,NF
 alb,1974,NF
@@ -140,6 +144,8 @@ alb,2017,PF
 alb,2018,PF
 alb,2019,PF
 alb,2020,PF
+alb,2021,PF
+alb,2022,PF
 and,1972,PF
 and,1973,PF
 and,1974,PF
@@ -173,6 +179,8 @@ and,2017,F
 and,2018,F
 and,2019,F
 and,2020,F
+and,2021,F
+and,2022,F
 are,1972,NF
 are,1973,NF
 are,1974,NF
@@ -221,6 +229,8 @@ are,2017,NF
 are,2018,NF
 are,2019,NF
 are,2020,NF
+are,2021,NF
+are,2022,NF
 arg,1972,PF
 arg,1973,F
 arg,1974,PF
@@ -269,6 +279,8 @@ arg,2017,F
 arg,2018,F
 arg,2019,F
 arg,2020,F
+arg,2021,F
+arg,2022,F
 arm,1991,PF
 arm,1992,PF
 arm,1993,PF
@@ -299,6 +311,8 @@ arm,2017,PF
 arm,2018,PF
 arm,2019,PF
 arm,2020,PF
+arm,2021,PF
+arm,2022,PF
 atg,1981,F
 atg,1983,F
 atg,1984,F
@@ -338,6 +352,8 @@ atg,2017,F
 atg,2018,F
 atg,2019,F
 atg,2020,F
+atg,2021,F
+atg,2022,F
 aus,1972,F
 aus,1973,F
 aus,1974,F
@@ -386,6 +402,8 @@ aus,2017,F
 aus,2018,F
 aus,2019,F
 aus,2020,F
+aus,2021,F
+aus,2022,F
 aut,1972,F
 aut,1973,F
 aut,1974,F
@@ -434,6 +452,8 @@ aut,2017,F
 aut,2018,F
 aut,2019,F
 aut,2020,F
+aut,2021,F
+aut,2022,F
 aze,1991,PF
 aze,1992,PF
 aze,1993,NF
@@ -464,6 +484,8 @@ aze,2017,NF
 aze,2018,NF
 aze,2019,NF
 aze,2020,NF
+aze,2021,NF
+aze,2022,NF
 bdi,1972,NF
 bdi,1973,NF
 bdi,1974,NF
@@ -512,6 +534,8 @@ bdi,2017,NF
 bdi,2018,NF
 bdi,2019,NF
 bdi,2020,NF
+bdi,2021,NF
+bdi,2022,NF
 bel,1972,F
 bel,1973,F
 bel,1974,F
@@ -560,6 +584,8 @@ bel,2017,F
 bel,2018,F
 bel,2019,F
 bel,2020,F
+bel,2021,F
+bel,2022,F
 ben,1972,NF
 ben,1973,NF
 ben,1974,NF
@@ -608,6 +634,8 @@ ben,2017,F
 ben,2018,F
 ben,2019,PF
 ben,2020,PF
+ben,2021,PF
+ben,2022,PF
 bfa,1972,PF
 bfa,1973,PF
 bfa,1974,PF
@@ -656,6 +684,8 @@ bfa,2017,PF
 bfa,2018,PF
 bfa,2019,PF
 bfa,2020,PF
+bfa,2021,PF
+bfa,2022,NF
 bgd,1972,PF
 bgd,1973,PF
 bgd,1974,PF
@@ -704,6 +734,8 @@ bgd,2017,PF
 bgd,2018,PF
 bgd,2019,PF
 bgd,2020,PF
+bgd,2021,PF
+bgd,2022,PF
 bgr,1972,NF
 bgr,1973,NF
 bgr,1974,NF
@@ -752,6 +784,8 @@ bgr,2017,F
 bgr,2018,F
 bgr,2019,F
 bgr,2020,F
+bgr,2021,F
+bgr,2022,F
 bhr,1972,NF
 bhr,1973,NF
 bhr,1974,PF
@@ -800,6 +834,8 @@ bhr,2017,NF
 bhr,2018,NF
 bhr,2019,NF
 bhr,2020,NF
+bhr,2021,NF
+bhr,2022,NF
 bhs,1973,F
 bhs,1974,F
 bhs,1975,F
@@ -847,6 +883,8 @@ bhs,2017,F
 bhs,2018,F
 bhs,2019,F
 bhs,2020,F
+bhs,2021,F
+bhs,2022,F
 bih,1992,NF
 bih,1993,NF
 bih,1994,NF
@@ -876,6 +914,8 @@ bih,2017,PF
 bih,2018,PF
 bih,2019,PF
 bih,2020,PF
+bih,2021,PF
+bih,2022,PF
 blr,1991,PF
 blr,1992,PF
 blr,1993,PF
@@ -906,6 +946,8 @@ blr,2017,NF
 blr,2018,NF
 blr,2019,NF
 blr,2020,NF
+blr,2021,NF
+blr,2022,NF
 blz,1981,F
 blz,1983,F
 blz,1984,F
@@ -945,6 +987,8 @@ blz,2017,F
 blz,2018,F
 blz,2019,F
 blz,2020,F
+blz,2021,F
+blz,2022,F
 bol,1972,PF
 bol,1973,PF
 bol,1974,NF
@@ -993,6 +1037,8 @@ bol,2017,PF
 bol,2018,PF
 bol,2019,PF
 bol,2020,PF
+bol,2021,PF
+bol,2022,PF
 bra,1972,PF
 bra,1973,PF
 bra,1974,PF
@@ -1041,6 +1087,8 @@ bra,2017,F
 bra,2018,F
 bra,2019,F
 bra,2020,F
+bra,2021,F
+bra,2022,F
 brb,1972,F
 brb,1973,F
 brb,1974,F
@@ -1089,6 +1137,8 @@ brb,2017,F
 brb,2018,F
 brb,2019,F
 brb,2020,F
+brb,2021,F
+brb,2022,F
 brn,1972,NF
 brn,1973,NF
 brn,1974,NF
@@ -1131,6 +1181,8 @@ brn,2017,NF
 brn,2018,NF
 brn,2019,NF
 brn,2020,NF
+brn,2021,NF
+brn,2022,NF
 btn,1972,PF
 btn,1973,PF
 btn,1974,PF
@@ -1179,6 +1231,8 @@ btn,2017,PF
 btn,2018,PF
 btn,2019,PF
 btn,2020,PF
+btn,2021,PF
+btn,2022,PF
 bwa,1972,PF
 bwa,1973,F
 bwa,1974,F
@@ -1227,6 +1281,8 @@ bwa,2017,F
 bwa,2018,F
 bwa,2019,F
 bwa,2020,F
+bwa,2021,F
+bwa,2022,F
 caf,1972,NF
 caf,1973,NF
 caf,1974,NF
@@ -1275,6 +1331,8 @@ caf,2017,NF
 caf,2018,NF
 caf,2019,NF
 caf,2020,NF
+caf,2021,NF
+caf,2022,NF
 can,1972,F
 can,1973,F
 can,1974,F
@@ -1323,6 +1381,8 @@ can,2017,F
 can,2018,F
 can,2019,F
 can,2020,F
+can,2021,F
+can,2022,F
 che,1972,F
 che,1973,F
 che,1974,F
@@ -1371,6 +1431,8 @@ che,2017,F
 che,2018,F
 che,2019,F
 che,2020,F
+che,2021,F
+che,2022,F
 chl,1972,F
 chl,1973,NF
 chl,1974,NF
@@ -1419,6 +1481,8 @@ chl,2017,F
 chl,2018,F
 chl,2019,F
 chl,2020,F
+chl,2021,F
+chl,2022,F
 chn,1972,NF
 chn,1973,NF
 chn,1974,NF
@@ -1467,6 +1531,8 @@ chn,2017,NF
 chn,2018,NF
 chn,2019,NF
 chn,2020,NF
+chn,2021,NF
+chn,2022,NF
 civ,1972,NF
 civ,1973,NF
 civ,1974,NF
@@ -1515,6 +1581,8 @@ civ,2017,PF
 civ,2018,PF
 civ,2019,PF
 civ,2020,PF
+civ,2021,PF
+civ,2022,PF
 cmr,1972,PF
 cmr,1973,PF
 cmr,1974,PF
@@ -1563,6 +1631,8 @@ cmr,2017,NF
 cmr,2018,NF
 cmr,2019,NF
 cmr,2020,NF
+cmr,2021,NF
+cmr,2022,NF
 cod,1972,NF
 cod,1973,NF
 cod,1974,NF
@@ -1611,6 +1681,8 @@ cod,2017,NF
 cod,2018,NF
 cod,2019,NF
 cod,2020,NF
+cod,2021,NF
+cod,2022,NF
 cog,1972,NF
 cog,1973,PF
 cog,1974,PF
@@ -1659,6 +1731,8 @@ cog,2017,NF
 cog,2018,NF
 cog,2019,NF
 cog,2020,NF
+cog,2021,NF
+cog,2022,NF
 col,1972,F
 col,1973,F
 col,1974,F
@@ -1707,6 +1781,8 @@ col,2017,PF
 col,2018,PF
 col,2019,PF
 col,2020,PF
+col,2021,PF
+col,2022,F
 com,1975,PF
 com,1976,PF
 com,1977,PF
@@ -1752,6 +1828,8 @@ com,2017,PF
 com,2018,PF
 com,2019,PF
 com,2020,PF
+com,2021,PF
+com,2022,PF
 cpv,1975,PF
 cpv,1976,NF
 cpv,1977,NF
@@ -1797,6 +1875,8 @@ cpv,2017,F
 cpv,2018,F
 cpv,2019,F
 cpv,2020,F
+cpv,2021,F
+cpv,2022,F
 cri,1972,F
 cri,1973,F
 cri,1974,F
@@ -1845,6 +1925,8 @@ cri,2017,F
 cri,2018,F
 cri,2019,F
 cri,2020,F
+cri,2021,F
+cri,2022,F
 cub,1972,NF
 cub,1973,NF
 cub,1974,NF
@@ -1893,6 +1975,8 @@ cub,2017,NF
 cub,2018,NF
 cub,2019,NF
 cub,2020,NF
+cub,2021,NF
+cub,2022,NF
 cyp,1972,F
 cyp,1973,F
 cyp,1974,PF
@@ -1941,6 +2025,8 @@ cyp,2017,F
 cyp,2018,F
 cyp,2019,F
 cyp,2020,F
+cyp,2021,F
+cyp,2022,F
 cze,1993,F
 cze,1994,F
 cze,1995,F
@@ -1969,6 +2055,8 @@ cze,2017,F
 cze,2018,F
 cze,2019,F
 cze,2020,F
+cze,2021,F
+cze,2022,F
 deu,1972,PF
 deu,1973,PF
 deu,1974,PF
@@ -2017,6 +2105,8 @@ deu,2017,F
 deu,2018,F
 deu,2019,F
 deu,2020,F
+deu,2021,F
+deu,2022,F
 dji,1977,PF
 dji,1978,PF
 dji,1979,PF
@@ -2060,6 +2150,8 @@ dji,2017,NF
 dji,2018,NF
 dji,2019,NF
 dji,2020,NF
+dji,2021,NF
+dji,2022,NF
 dma,1978,F
 dma,1979,F
 dma,1980,F
@@ -2102,6 +2194,8 @@ dma,2017,F
 dma,2018,F
 dma,2019,F
 dma,2020,F
+dma,2021,F
+dma,2022,F
 dnk,1972,F
 dnk,1973,F
 dnk,1974,F
@@ -2150,6 +2244,8 @@ dnk,2017,F
 dnk,2018,F
 dnk,2019,F
 dnk,2020,F
+dnk,2021,F
+dnk,2022,F
 dom,1972,F
 dom,1973,F
 dom,1974,PF
@@ -2198,6 +2294,8 @@ dom,2017,PF
 dom,2018,PF
 dom,2019,PF
 dom,2020,PF
+dom,2021,PF
+dom,2022,PF
 dza,1972,NF
 dza,1973,NF
 dza,1974,NF
@@ -2246,6 +2344,8 @@ dza,2017,NF
 dza,2018,NF
 dza,2019,NF
 dza,2020,NF
+dza,2021,NF
+dza,2022,NF
 ecu,1972,PF
 ecu,1973,PF
 ecu,1974,PF
@@ -2294,6 +2394,8 @@ ecu,2017,PF
 ecu,2018,PF
 ecu,2019,PF
 ecu,2020,PF
+ecu,2021,F
+ecu,2022,F
 egy,1972,NF
 egy,1973,NF
 egy,1974,PF
@@ -2342,6 +2444,8 @@ egy,2017,NF
 egy,2018,NF
 egy,2019,NF
 egy,2020,NF
+egy,2021,NF
+egy,2022,NF
 eri,1993,NF
 eri,1994,NF
 eri,1995,PF
@@ -2370,6 +2474,8 @@ eri,2017,NF
 eri,2018,NF
 eri,2019,NF
 eri,2020,NF
+eri,2021,NF
+eri,2022,NF
 esp,1972,NF
 esp,1973,NF
 esp,1974,PF
@@ -2418,6 +2524,8 @@ esp,2017,F
 esp,2018,F
 esp,2019,F
 esp,2020,F
+esp,2021,F
+esp,2022,F
 est,1991,F
 est,1992,PF
 est,1993,F
@@ -2448,6 +2556,8 @@ est,2017,F
 est,2018,F
 est,2019,F
 est,2020,F
+est,2021,F
+est,2022,F
 eth,1972,NF
 eth,1973,PF
 eth,1974,NF
@@ -2496,6 +2606,8 @@ eth,2017,NF
 eth,2018,NF
 eth,2019,NF
 eth,2020,NF
+eth,2021,NF
+eth,2022,NF
 fin,1972,F
 fin,1973,F
 fin,1974,F
@@ -2544,6 +2656,8 @@ fin,2017,F
 fin,2018,F
 fin,2019,F
 fin,2020,F
+fin,2021,F
+fin,2022,F
 fji,1972,F
 fji,1973,F
 fji,1974,F
@@ -2592,6 +2706,8 @@ fji,2017,PF
 fji,2018,PF
 fji,2019,PF
 fji,2020,PF
+fji,2021,PF
+fji,2022,PF
 fra,1972,F
 fra,1973,F
 fra,1974,F
@@ -2640,6 +2756,8 @@ fra,2017,F
 fra,2018,F
 fra,2019,F
 fra,2020,F
+fra,2021,F
+fra,2022,F
 fsm,1991,F
 fsm,1992,F
 fsm,1993,F
@@ -2670,6 +2788,8 @@ fsm,2017,F
 fsm,2018,F
 fsm,2019,F
 fsm,2020,F
+fsm,2021,F
+fsm,2022,F
 gab,1972,NF
 gab,1973,NF
 gab,1974,NF
@@ -2718,6 +2838,8 @@ gab,2017,NF
 gab,2018,NF
 gab,2019,NF
 gab,2020,NF
+gab,2021,NF
+gab,2022,NF
 gbr,1972,F
 gbr,1973,F
 gbr,1974,F
@@ -2766,6 +2888,8 @@ gbr,2017,F
 gbr,2018,F
 gbr,2019,F
 gbr,2020,F
+gbr,2021,F
+gbr,2022,F
 geo,1991,NF
 geo,1992,PF
 geo,1993,PF
@@ -2796,6 +2920,8 @@ geo,2017,PF
 geo,2018,PF
 geo,2019,PF
 geo,2020,PF
+geo,2021,PF
+geo,2022,PF
 gha,1972,NF
 gha,1973,NF
 gha,1974,NF
@@ -2844,6 +2970,8 @@ gha,2017,F
 gha,2018,F
 gha,2019,F
 gha,2020,F
+gha,2021,F
+gha,2022,F
 gin,1972,NF
 gin,1973,NF
 gin,1974,NF
@@ -2892,6 +3020,8 @@ gin,2017,PF
 gin,2018,PF
 gin,2019,PF
 gin,2020,PF
+gin,2021,NF
+gin,2022,NF
 gmb,1972,F
 gmb,1973,F
 gmb,1974,F
@@ -2940,6 +3070,8 @@ gmb,2017,PF
 gmb,2018,PF
 gmb,2019,PF
 gmb,2020,PF
+gmb,2021,PF
+gmb,2022,PF
 gnb,1974,NF
 gnb,1975,NF
 gnb,1976,NF
@@ -2986,6 +3118,8 @@ gnb,2017,PF
 gnb,2018,PF
 gnb,2019,PF
 gnb,2020,PF
+gnb,2021,PF
+gnb,2022,PF
 gnq,1972,NF
 gnq,1973,NF
 gnq,1974,NF
@@ -3034,6 +3168,8 @@ gnq,2017,NF
 gnq,2018,NF
 gnq,2019,NF
 gnq,2020,NF
+gnq,2021,NF
+gnq,2022,NF
 grc,1972,NF
 grc,1973,NF
 grc,1974,F
@@ -3082,6 +3218,8 @@ grc,2017,F
 grc,2018,F
 grc,2019,F
 grc,2020,F
+grc,2021,F
+grc,2022,F
 grd,1974,PF
 grd,1975,PF
 grd,1976,PF
@@ -3128,6 +3266,8 @@ grd,2017,F
 grd,2018,F
 grd,2019,F
 grd,2020,F
+grd,2021,F
+grd,2022,F
 gtm,1972,F
 gtm,1973,F
 gtm,1974,PF
@@ -3176,6 +3316,8 @@ gtm,2017,PF
 gtm,2018,PF
 gtm,2019,PF
 gtm,2020,PF
+gtm,2021,PF
+gtm,2022,PF
 guy,1972,F
 guy,1973,PF
 guy,1974,NF
@@ -3224,6 +3366,8 @@ guy,2017,F
 guy,2018,F
 guy,2019,F
 guy,2020,F
+guy,2021,F
+guy,2022,F
 hnd,1972,PF
 hnd,1973,PF
 hnd,1974,PF
@@ -3272,6 +3416,8 @@ hnd,2017,PF
 hnd,2018,PF
 hnd,2019,PF
 hnd,2020,PF
+hnd,2021,PF
+hnd,2022,PF
 hrv,1991,PF
 hrv,1992,PF
 hrv,1993,PF
@@ -3302,6 +3448,8 @@ hrv,2017,F
 hrv,2018,F
 hrv,2019,F
 hrv,2020,F
+hrv,2021,F
+hrv,2022,F
 hti,1972,NF
 hti,1973,NF
 hti,1974,NF
@@ -3350,6 +3498,8 @@ hti,2017,PF
 hti,2018,PF
 hti,2019,PF
 hti,2020,PF
+hti,2021,NF
+hti,2022,NF
 hun,1972,NF
 hun,1973,NF
 hun,1974,NF
@@ -3398,6 +3548,8 @@ hun,2017,F
 hun,2018,PF
 hun,2019,PF
 hun,2020,PF
+hun,2021,PF
+hun,2022,PF
 idn,1972,PF
 idn,1973,PF
 idn,1974,PF
@@ -3446,6 +3598,8 @@ idn,2017,PF
 idn,2018,PF
 idn,2019,PF
 idn,2020,PF
+idn,2021,PF
+idn,2022,PF
 ind,1972,F
 ind,1973,F
 ind,1974,F
@@ -3494,6 +3648,8 @@ ind,2017,F
 ind,2018,F
 ind,2019,F
 ind,2020,PF
+ind,2021,PF
+ind,2022,PF
 irl,1972,F
 irl,1973,F
 irl,1974,F
@@ -3542,6 +3698,8 @@ irl,2017,F
 irl,2018,F
 irl,2019,F
 irl,2020,F
+irl,2021,F
+irl,2022,F
 irn,1972,NF
 irn,1973,NF
 irn,1974,NF
@@ -3590,6 +3748,8 @@ irn,2017,NF
 irn,2018,NF
 irn,2019,NF
 irn,2020,NF
+irn,2021,NF
+irn,2022,NF
 irq,1972,NF
 irq,1973,NF
 irq,1974,NF
@@ -3638,6 +3798,8 @@ irq,2017,NF
 irq,2018,NF
 irq,2019,NF
 irq,2020,NF
+irq,2021,NF
+irq,2022,NF
 isl,1972,F
 isl,1973,F
 isl,1974,F
@@ -3686,6 +3848,8 @@ isl,2017,F
 isl,2018,F
 isl,2019,F
 isl,2020,F
+isl,2021,F
+isl,2022,F
 isr,1972,F
 isr,1973,F
 isr,1974,F
@@ -3734,6 +3898,8 @@ isr,2017,F
 isr,2018,F
 isr,2019,F
 isr,2020,F
+isr,2021,F
+isr,2022,F
 ita,1972,F
 ita,1973,F
 ita,1974,F
@@ -3782,6 +3948,8 @@ ita,2017,F
 ita,2018,F
 ita,2019,F
 ita,2020,F
+ita,2021,F
+ita,2022,F
 jam,1972,F
 jam,1973,F
 jam,1974,F
@@ -3830,6 +3998,8 @@ jam,2017,F
 jam,2018,F
 jam,2019,F
 jam,2020,F
+jam,2021,F
+jam,2022,F
 jor,1972,NF
 jor,1973,NF
 jor,1974,NF
@@ -3878,6 +4048,8 @@ jor,2017,PF
 jor,2018,PF
 jor,2019,PF
 jor,2020,NF
+jor,2021,NF
+jor,2022,NF
 jpn,1972,F
 jpn,1973,F
 jpn,1974,F
@@ -3926,6 +4098,8 @@ jpn,2017,F
 jpn,2018,F
 jpn,2019,F
 jpn,2020,F
+jpn,2021,F
+jpn,2022,F
 kaz,1991,PF
 kaz,1992,PF
 kaz,1993,PF
@@ -3956,6 +4130,8 @@ kaz,2017,NF
 kaz,2018,NF
 kaz,2019,NF
 kaz,2020,NF
+kaz,2021,NF
+kaz,2022,NF
 ken,1972,PF
 ken,1973,PF
 ken,1974,PF
@@ -4004,6 +4180,8 @@ ken,2017,PF
 ken,2018,PF
 ken,2019,PF
 ken,2020,PF
+ken,2021,PF
+ken,2022,PF
 kgz,1991,PF
 kgz,1992,PF
 kgz,1993,PF
@@ -4034,6 +4212,8 @@ kgz,2017,PF
 kgz,2018,PF
 kgz,2019,PF
 kgz,2020,NF
+kgz,2021,NF
+kgz,2022,NF
 khm,1972,NF
 khm,1973,NF
 khm,1974,NF
@@ -4082,6 +4262,8 @@ khm,2017,NF
 khm,2018,NF
 khm,2019,NF
 khm,2020,NF
+khm,2021,NF
+khm,2022,NF
 kir,1979,F
 kir,1980,F
 kir,1981,F
@@ -4123,6 +4305,8 @@ kir,2017,F
 kir,2018,F
 kir,2019,F
 kir,2020,F
+kir,2021,F
+kir,2022,F
 kna,1983,F
 kna,1984,F
 kna,1985,F
@@ -4161,6 +4345,8 @@ kna,2017,F
 kna,2018,F
 kna,2019,F
 kna,2020,F
+kna,2021,F
+kna,2022,F
 kor,1972,NF
 kor,1973,PF
 kor,1974,PF
@@ -4209,6 +4395,8 @@ kor,2017,F
 kor,2018,F
 kor,2019,F
 kor,2020,F
+kor,2021,F
+kor,2022,F
 kwt,1972,PF
 kwt,1973,PF
 kwt,1974,PF
@@ -4257,6 +4445,8 @@ kwt,2017,PF
 kwt,2018,PF
 kwt,2019,PF
 kwt,2020,PF
+kwt,2021,PF
+kwt,2022,PF
 lao,1972,PF
 lao,1973,PF
 lao,1974,PF
@@ -4305,6 +4495,8 @@ lao,2017,NF
 lao,2018,NF
 lao,2019,NF
 lao,2020,NF
+lao,2021,NF
+lao,2022,NF
 lbn,1972,F
 lbn,1973,F
 lbn,1974,F
@@ -4353,6 +4545,8 @@ lbn,2017,PF
 lbn,2018,PF
 lbn,2019,PF
 lbn,2020,PF
+lbn,2021,PF
+lbn,2022,PF
 lbr,1972,NF
 lbr,1973,NF
 lbr,1974,PF
@@ -4401,6 +4595,8 @@ lbr,2017,PF
 lbr,2018,PF
 lbr,2019,PF
 lbr,2020,PF
+lbr,2021,PF
+lbr,2022,PF
 lby,1972,NF
 lby,1973,NF
 lby,1974,NF
@@ -4449,6 +4645,8 @@ lby,2017,NF
 lby,2018,NF
 lby,2019,NF
 lby,2020,NF
+lby,2021,NF
+lby,2022,NF
 lca,1979,F
 lca,1980,F
 lca,1981,F
@@ -4490,6 +4688,8 @@ lca,2017,F
 lca,2018,F
 lca,2019,F
 lca,2020,F
+lca,2021,F
+lca,2022,F
 lie,1972,PF
 lie,1973,PF
 lie,1974,PF
@@ -4524,6 +4724,8 @@ lie,2017,F
 lie,2018,F
 lie,2019,F
 lie,2020,F
+lie,2021,F
+lie,2022,F
 lka,1972,F
 lka,1973,F
 lka,1974,F
@@ -4572,6 +4774,8 @@ lka,2017,PF
 lka,2018,PF
 lka,2019,PF
 lka,2020,PF
+lka,2021,PF
+lka,2022,PF
 lso,1972,NF
 lso,1973,PF
 lso,1974,PF
@@ -4620,6 +4824,8 @@ lso,2017,PF
 lso,2018,PF
 lso,2019,PF
 lso,2020,PF
+lso,2021,PF
+lso,2022,F
 ltu,1991,F
 ltu,1992,F
 ltu,1993,F
@@ -4650,6 +4856,8 @@ ltu,2017,F
 ltu,2018,F
 ltu,2019,F
 ltu,2020,F
+ltu,2021,F
+ltu,2022,F
 lux,1972,F
 lux,1973,F
 lux,1974,F
@@ -4698,6 +4906,8 @@ lux,2017,F
 lux,2018,F
 lux,2019,F
 lux,2020,F
+lux,2021,F
+lux,2022,F
 lva,1991,F
 lva,1992,PF
 lva,1993,PF
@@ -4728,6 +4938,8 @@ lva,2017,F
 lva,2018,F
 lva,2019,F
 lva,2020,F
+lva,2021,F
+lva,2022,F
 mar,1972,PF
 mar,1973,PF
 mar,1974,PF
@@ -4776,6 +4988,8 @@ mar,2017,PF
 mar,2018,PF
 mar,2019,PF
 mar,2020,PF
+mar,2021,PF
+mar,2022,PF
 mco,1972,PF
 mco,1973,PF
 mco,1974,PF
@@ -4809,6 +5023,8 @@ mco,2017,F
 mco,2018,F
 mco,2019,F
 mco,2020,F
+mco,2021,F
+mco,2022,F
 mda,1991,PF
 mda,1992,PF
 mda,1993,PF
@@ -4839,6 +5055,8 @@ mda,2017,PF
 mda,2018,PF
 mda,2019,PF
 mda,2020,PF
+mda,2021,PF
+mda,2022,PF
 mdg,1972,PF
 mdg,1973,PF
 mdg,1974,PF
@@ -4887,6 +5105,8 @@ mdg,2017,PF
 mdg,2018,PF
 mdg,2019,PF
 mdg,2020,PF
+mdg,2021,PF
+mdg,2022,PF
 mdv,1972,F
 mdv,1973,PF
 mdv,1974,PF
@@ -4935,6 +5155,8 @@ mdv,2017,PF
 mdv,2018,PF
 mdv,2019,PF
 mdv,2020,PF
+mdv,2021,PF
+mdv,2022,PF
 mex,1972,PF
 mex,1973,PF
 mex,1974,PF
@@ -4983,6 +5205,8 @@ mex,2017,PF
 mex,2018,PF
 mex,2019,PF
 mex,2020,PF
+mex,2021,PF
+mex,2022,PF
 mhl,1991,F
 mhl,1992,F
 mhl,1993,F
@@ -5013,6 +5237,8 @@ mhl,2017,F
 mhl,2018,F
 mhl,2019,F
 mhl,2020,F
+mhl,2021,F
+mhl,2022,F
 mkd,1992,PF
 mkd,1993,PF
 mkd,1994,PF
@@ -5042,6 +5268,8 @@ mkd,2017,PF
 mkd,2018,PF
 mkd,2019,PF
 mkd,2020,PF
+mkd,2021,PF
+mkd,2022,PF
 mli,1972,NF
 mli,1973,NF
 mli,1974,NF
@@ -5090,6 +5318,8 @@ mli,2017,PF
 mli,2018,PF
 mli,2019,PF
 mli,2020,NF
+mli,2021,NF
+mli,2022,NF
 mlt,1972,F
 mlt,1973,F
 mlt,1974,F
@@ -5138,6 +5368,8 @@ mlt,2017,F
 mlt,2018,F
 mlt,2019,F
 mlt,2020,F
+mlt,2021,F
+mlt,2022,F
 mmr,1972,NF
 mmr,1973,NF
 mmr,1974,NF
@@ -5186,6 +5418,8 @@ mmr,2017,PF
 mmr,2018,PF
 mmr,2019,NF
 mmr,2020,NF
+mmr,2021,NF
+mmr,2022,NF
 mne,2006,PF
 mne,2007,PF
 mne,2008,PF
@@ -5201,6 +5435,8 @@ mne,2017,PF
 mne,2018,PF
 mne,2019,PF
 mne,2020,PF
+mne,2021,PF
+mne,2022,PF
 mng,1972,NF
 mng,1973,NF
 mng,1974,NF
@@ -5249,6 +5485,8 @@ mng,2017,F
 mng,2018,F
 mng,2019,F
 mng,2020,F
+mng,2021,F
+mng,2022,F
 moz,1975,NF
 moz,1976,NF
 moz,1977,NF
@@ -5294,6 +5532,8 @@ moz,2017,PF
 moz,2018,PF
 moz,2019,PF
 moz,2020,PF
+moz,2021,PF
+moz,2022,PF
 mrt,1972,NF
 mrt,1973,NF
 mrt,1974,NF
@@ -5342,6 +5582,8 @@ mrt,2017,NF
 mrt,2018,NF
 mrt,2019,PF
 mrt,2020,PF
+mrt,2021,PF
+mrt,2022,PF
 mus,1972,F
 mus,1973,F
 mus,1974,F
@@ -5390,6 +5632,8 @@ mus,2017,F
 mus,2018,F
 mus,2019,F
 mus,2020,F
+mus,2021,F
+mus,2022,F
 mwi,1972,NF
 mwi,1973,NF
 mwi,1974,NF
@@ -5438,6 +5682,8 @@ mwi,2017,PF
 mwi,2018,PF
 mwi,2019,PF
 mwi,2020,PF
+mwi,2021,PF
+mwi,2022,PF
 mys,1972,F
 mys,1973,F
 mys,1974,PF
@@ -5486,6 +5732,8 @@ mys,2017,PF
 mys,2018,PF
 mys,2019,PF
 mys,2020,PF
+mys,2021,PF
+mys,2022,PF
 nam,1972,NF
 nam,1973,NF
 nam,1974,NF
@@ -5521,6 +5769,8 @@ nam,2017,F
 nam,2018,F
 nam,2019,F
 nam,2020,F
+nam,2021,F
+nam,2022,F
 ner,1972,NF
 ner,1973,NF
 ner,1974,NF
@@ -5569,6 +5819,8 @@ ner,2017,PF
 ner,2018,PF
 ner,2019,PF
 ner,2020,PF
+ner,2021,PF
+ner,2022,PF
 nga,1972,PF
 nga,1973,PF
 nga,1974,PF
@@ -5617,6 +5869,8 @@ nga,2017,PF
 nga,2018,PF
 nga,2019,PF
 nga,2020,PF
+nga,2021,PF
+nga,2022,PF
 nic,1972,PF
 nic,1973,PF
 nic,1974,PF
@@ -5665,6 +5919,8 @@ nic,2017,PF
 nic,2018,NF
 nic,2019,NF
 nic,2020,NF
+nic,2021,NF
+nic,2022,NF
 nld,1972,F
 nld,1973,F
 nld,1974,F
@@ -5713,6 +5969,8 @@ nld,2017,F
 nld,2018,F
 nld,2019,F
 nld,2020,F
+nld,2021,F
+nld,2022,F
 nor,1972,F
 nor,1973,F
 nor,1974,F
@@ -5761,6 +6019,8 @@ nor,2017,F
 nor,2018,F
 nor,2019,F
 nor,2020,F
+nor,2021,F
+nor,2022,F
 npl,1972,NF
 npl,1973,NF
 npl,1974,NF
@@ -5809,6 +6069,8 @@ npl,2017,PF
 npl,2018,PF
 npl,2019,PF
 npl,2020,PF
+npl,2021,PF
+npl,2022,PF
 nru,1972,F
 nru,1973,F
 nru,1974,F
@@ -5857,6 +6119,8 @@ nru,2017,F
 nru,2018,F
 nru,2019,F
 nru,2020,F
+nru,2021,F
+nru,2022,F
 nzl,1972,F
 nzl,1973,F
 nzl,1974,F
@@ -5905,6 +6169,8 @@ nzl,2017,F
 nzl,2018,F
 nzl,2019,F
 nzl,2020,F
+nzl,2021,F
+nzl,2022,F
 omn,1972,NF
 omn,1973,NF
 omn,1974,NF
@@ -5953,6 +6219,8 @@ omn,2017,NF
 omn,2018,NF
 omn,2019,NF
 omn,2020,NF
+omn,2021,NF
+omn,2022,NF
 pak,1972,PF
 pak,1973,PF
 pak,1974,PF
@@ -6001,6 +6269,8 @@ pak,2017,PF
 pak,2018,PF
 pak,2019,PF
 pak,2020,PF
+pak,2021,PF
+pak,2022,PF
 pan,1972,NF
 pan,1973,NF
 pan,1974,NF
@@ -6049,6 +6319,8 @@ pan,2017,F
 pan,2018,F
 pan,2019,F
 pan,2020,F
+pan,2021,F
+pan,2022,F
 per,1972,NF
 per,1973,NF
 per,1974,NF
@@ -6097,6 +6369,8 @@ per,2017,F
 per,2018,F
 per,2019,F
 per,2020,PF
+per,2021,F
+per,2022,PF
 phl,1972,PF
 phl,1973,PF
 phl,1974,PF
@@ -6145,6 +6419,8 @@ phl,2017,PF
 phl,2018,PF
 phl,2019,PF
 phl,2020,PF
+phl,2021,PF
+phl,2022,PF
 plw,1994,F
 plw,1995,F
 plw,1996,F
@@ -6172,6 +6448,8 @@ plw,2017,F
 plw,2018,F
 plw,2019,F
 plw,2020,F
+plw,2021,F
+plw,2022,F
 png,1975,PF
 png,1976,F
 png,1977,F
@@ -6217,6 +6495,8 @@ png,2017,PF
 png,2018,PF
 png,2019,PF
 png,2020,PF
+png,2021,PF
+png,2022,PF
 pol,1972,NF
 pol,1973,NF
 pol,1974,NF
@@ -6265,6 +6545,8 @@ pol,2017,F
 pol,2018,F
 pol,2019,F
 pol,2020,F
+pol,2021,F
+pol,2022,F
 prk,1972,NF
 prk,1973,NF
 prk,1974,NF
@@ -6313,6 +6595,8 @@ prk,2017,NF
 prk,2018,NF
 prk,2019,NF
 prk,2020,NF
+prk,2021,NF
+prk,2022,NF
 prt,1972,NF
 prt,1973,NF
 prt,1974,PF
@@ -6361,6 +6645,8 @@ prt,2017,F
 prt,2018,F
 prt,2019,F
 prt,2020,F
+prt,2021,F
+prt,2022,F
 pry,1972,PF
 pry,1973,PF
 pry,1974,PF
@@ -6409,6 +6695,8 @@ pry,2017,PF
 pry,2018,PF
 pry,2019,PF
 pry,2020,PF
+pry,2021,PF
+pry,2022,PF
 qat,1972,NF
 qat,1973,NF
 qat,1974,NF
@@ -6457,6 +6745,8 @@ qat,2017,NF
 qat,2018,NF
 qat,2019,NF
 qat,2020,NF
+qat,2021,NF
+qat,2022,NF
 rou,1972,NF
 rou,1973,NF
 rou,1974,NF
@@ -6505,6 +6795,8 @@ rou,2017,F
 rou,2018,F
 rou,2019,F
 rou,2020,F
+rou,2021,F
+rou,2022,F
 rus,1991,PF
 rus,1992,PF
 rus,1993,PF
@@ -6535,6 +6827,8 @@ rus,2017,NF
 rus,2018,NF
 rus,2019,NF
 rus,2020,NF
+rus,2021,NF
+rus,2022,NF
 rwa,1972,NF
 rwa,1973,NF
 rwa,1974,NF
@@ -6583,6 +6877,8 @@ rwa,2017,NF
 rwa,2018,NF
 rwa,2019,NF
 rwa,2020,NF
+rwa,2021,NF
+rwa,2022,NF
 sau,1972,NF
 sau,1973,NF
 sau,1974,NF
@@ -6631,6 +6927,8 @@ sau,2017,NF
 sau,2018,NF
 sau,2019,NF
 sau,2020,NF
+sau,2021,NF
+sau,2022,NF
 sdn,1972,NF
 sdn,1973,NF
 sdn,1974,NF
@@ -6679,6 +6977,8 @@ sdn,2017,NF
 sdn,2018,NF
 sdn,2019,NF
 sdn,2020,NF
+sdn,2021,NF
+sdn,2022,NF
 sen,1972,NF
 sen,1973,NF
 sen,1974,NF
@@ -6727,6 +7027,8 @@ sen,2017,F
 sen,2018,F
 sen,2019,PF
 sen,2020,PF
+sen,2021,PF
+sen,2022,PF
 sgp,1972,PF
 sgp,1973,PF
 sgp,1974,PF
@@ -6775,6 +7077,8 @@ sgp,2017,PF
 sgp,2018,PF
 sgp,2019,PF
 sgp,2020,PF
+sgp,2021,PF
+sgp,2022,PF
 slb,1978,F
 slb,1979,F
 slb,1980,F
@@ -6817,6 +7121,8 @@ slb,2017,F
 slb,2018,F
 slb,2019,F
 slb,2020,F
+slb,2021,F
+slb,2022,F
 sle,1972,PF
 sle,1973,PF
 sle,1974,PF
@@ -6865,6 +7171,8 @@ sle,2017,PF
 sle,2018,PF
 sle,2019,PF
 sle,2020,PF
+sle,2021,PF
+sle,2022,PF
 slv,1972,F
 slv,1973,F
 slv,1974,F
@@ -6913,6 +7221,8 @@ slv,2017,F
 slv,2018,F
 slv,2019,PF
 slv,2020,PF
+slv,2021,PF
+slv,2022,PF
 smr,1972,F
 smr,1973,F
 smr,1974,F
@@ -6947,6 +7257,8 @@ smr,2017,F
 smr,2018,F
 smr,2019,F
 smr,2020,F
+smr,2021,F
+smr,2022,F
 som,1972,NF
 som,1973,NF
 som,1974,NF
@@ -6995,6 +7307,8 @@ som,2017,NF
 som,2018,NF
 som,2019,NF
 som,2020,NF
+som,2021,NF
+som,2022,NF
 srb,2006,F
 srb,2007,F
 srb,2008,F
@@ -7010,6 +7324,8 @@ srb,2017,F
 srb,2018,PF
 srb,2019,PF
 srb,2020,PF
+srb,2021,PF
+srb,2022,PF
 ssd,2011,NF
 ssd,2012,NF
 ssd,2013,NF
@@ -7020,6 +7336,8 @@ ssd,2017,NF
 ssd,2018,NF
 ssd,2019,NF
 ssd,2020,NF
+ssd,2021,NF
+ssd,2022,NF
 stp,1975,PF
 stp,1976,PF
 stp,1977,NF
@@ -7065,6 +7383,8 @@ stp,2017,F
 stp,2018,F
 stp,2019,F
 stp,2020,F
+stp,2021,F
+stp,2022,F
 sur,1975,F
 sur,1976,F
 sur,1977,F
@@ -7110,6 +7430,8 @@ sur,2017,F
 sur,2018,F
 sur,2019,F
 sur,2020,F
+sur,2021,F
+sur,2022,F
 svk,1993,PF
 svk,1994,F
 svk,1995,F
@@ -7138,6 +7460,8 @@ svk,2017,F
 svk,2018,F
 svk,2019,F
 svk,2020,F
+svk,2021,F
+svk,2022,F
 svn,1991,F
 svn,1992,F
 svn,1993,F
@@ -7168,6 +7492,8 @@ svn,2017,F
 svn,2018,F
 svn,2019,F
 svn,2020,F
+svn,2021,F
+svn,2022,F
 swe,1972,F
 swe,1973,F
 swe,1974,F
@@ -7216,6 +7542,8 @@ swe,2017,F
 swe,2018,F
 swe,2019,F
 swe,2020,F
+swe,2021,F
+swe,2022,F
 swz,1972,PF
 swz,1973,PF
 swz,1974,PF
@@ -7264,6 +7592,8 @@ swz,2017,NF
 swz,2018,NF
 swz,2019,NF
 swz,2020,NF
+swz,2021,NF
+swz,2022,NF
 syc,1976,F
 syc,1977,PF
 syc,1978,PF
@@ -7308,6 +7638,8 @@ syc,2017,PF
 syc,2018,PF
 syc,2019,PF
 syc,2020,F
+syc,2021,F
+syc,2022,F
 syr,1972,NF
 syr,1973,NF
 syr,1974,NF
@@ -7356,6 +7688,8 @@ syr,2017,NF
 syr,2018,NF
 syr,2019,NF
 syr,2020,NF
+syr,2021,NF
+syr,2022,NF
 tcd,1972,NF
 tcd,1973,NF
 tcd,1974,NF
@@ -7404,6 +7738,8 @@ tcd,2017,NF
 tcd,2018,NF
 tcd,2019,NF
 tcd,2020,NF
+tcd,2021,NF
+tcd,2022,NF
 tgo,1972,NF
 tgo,1973,NF
 tgo,1974,NF
@@ -7452,6 +7788,8 @@ tgo,2017,PF
 tgo,2018,PF
 tgo,2019,PF
 tgo,2020,PF
+tgo,2021,PF
+tgo,2022,PF
 tha,1972,NF
 tha,1973,PF
 tha,1974,PF
@@ -7500,6 +7838,8 @@ tha,2017,NF
 tha,2018,NF
 tha,2019,PF
 tha,2020,NF
+tha,2021,NF
+tha,2022,NF
 tjk,1991,PF
 tjk,1992,NF
 tjk,1993,NF
@@ -7530,6 +7870,8 @@ tjk,2017,NF
 tjk,2018,NF
 tjk,2019,NF
 tjk,2020,NF
+tjk,2021,NF
+tjk,2022,NF
 tkm,1991,PF
 tkm,1992,NF
 tkm,1993,NF
@@ -7560,6 +7902,8 @@ tkm,2017,NF
 tkm,2018,NF
 tkm,2019,NF
 tkm,2020,NF
+tkm,2021,NF
+tkm,2022,NF
 tls,1999,PF
 tls,2000,PF
 tls,2001,PF
@@ -7582,6 +7926,8 @@ tls,2017,F
 tls,2018,F
 tls,2019,F
 tls,2020,F
+tls,2021,F
+tls,2022,F
 ton,1972,PF
 ton,1973,PF
 ton,1974,PF
@@ -7630,6 +7976,8 @@ ton,2017,F
 ton,2018,F
 ton,2019,F
 ton,2020,F
+ton,2021,F
+ton,2022,F
 tto,1972,F
 tto,1973,F
 tto,1974,F
@@ -7678,6 +8026,8 @@ tto,2017,F
 tto,2018,F
 tto,2019,F
 tto,2020,F
+tto,2021,F
+tto,2022,F
 tun,1972,NF
 tun,1973,NF
 tun,1974,NF
@@ -7726,6 +8076,8 @@ tun,2017,F
 tun,2018,F
 tun,2019,F
 tun,2020,F
+tun,2021,PF
+tun,2022,PF
 tur,1972,PF
 tur,1973,PF
 tur,1974,F
@@ -7774,6 +8126,8 @@ tur,2017,NF
 tur,2018,NF
 tur,2019,NF
 tur,2020,NF
+tur,2021,NF
+tur,2022,NF
 tuv,1978,F
 tuv,1979,F
 tuv,1980,F
@@ -7816,6 +8170,8 @@ tuv,2017,F
 tuv,2018,F
 tuv,2019,F
 tuv,2020,F
+tuv,2021,F
+tuv,2022,F
 twn,1972,NF
 twn,1973,NF
 twn,1974,NF
@@ -7864,6 +8220,8 @@ twn,2017,F
 twn,2018,F
 twn,2019,F
 twn,2020,F
+twn,2021,F
+twn,2022,F
 tza,1972,NF
 tza,1973,NF
 tza,1974,NF
@@ -7912,6 +8270,8 @@ tza,2017,PF
 tza,2018,PF
 tza,2019,PF
 tza,2020,PF
+tza,2021,PF
+tza,2022,PF
 uga,1972,NF
 uga,1973,NF
 uga,1974,NF
@@ -7960,6 +8320,8 @@ uga,2017,PF
 uga,2018,NF
 uga,2019,NF
 uga,2020,NF
+uga,2021,NF
+uga,2022,NF
 ukr,1991,PF
 ukr,1992,PF
 ukr,1993,PF
@@ -7990,6 +8352,8 @@ ukr,2017,PF
 ukr,2018,PF
 ukr,2019,PF
 ukr,2020,PF
+ukr,2021,PF
+ukr,2022,PF
 ury,1972,PF
 ury,1973,PF
 ury,1974,PF
@@ -8038,6 +8402,8 @@ ury,2017,F
 ury,2018,F
 ury,2019,F
 ury,2020,F
+ury,2021,F
+ury,2022,F
 usa,1972,F
 usa,1973,F
 usa,1974,F
@@ -8086,6 +8452,8 @@ usa,2017,F
 usa,2018,F
 usa,2019,F
 usa,2020,F
+usa,2021,F
+usa,2022,F
 uzb,1991,PF
 uzb,1992,NF
 uzb,1993,NF
@@ -8116,6 +8484,8 @@ uzb,2017,NF
 uzb,2018,NF
 uzb,2019,NF
 uzb,2020,NF
+uzb,2021,NF
+uzb,2022,NF
 vct,1979,F
 vct,1980,F
 vct,1981,F
@@ -8157,6 +8527,8 @@ vct,2017,F
 vct,2018,F
 vct,2019,F
 vct,2020,F
+vct,2021,F
+vct,2022,F
 ven,1972,F
 ven,1973,F
 ven,1974,F
@@ -8205,6 +8577,8 @@ ven,2017,NF
 ven,2018,NF
 ven,2019,NF
 ven,2020,NF
+ven,2021,NF
+ven,2022,NF
 vnm,1972,NF
 vnm,1973,NF
 vnm,1974,NF
@@ -8253,6 +8627,8 @@ vnm,2017,NF
 vnm,2018,NF
 vnm,2019,NF
 vnm,2020,NF
+vnm,2021,NF
+vnm,2022,NF
 vut,1980,F
 vut,1981,F
 vut,1983,PF
@@ -8293,6 +8669,8 @@ vut,2017,F
 vut,2018,F
 vut,2019,F
 vut,2020,F
+vut,2021,F
+vut,2022,F
 wsm,1972,PF
 wsm,1973,PF
 wsm,1974,PF
@@ -8341,6 +8719,8 @@ wsm,2017,F
 wsm,2018,F
 wsm,2019,F
 wsm,2020,F
+wsm,2021,F
+wsm,2022,F
 yem,1972,PF
 yem,1973,NF
 yem,1974,NF
@@ -8389,6 +8769,8 @@ yem,2017,NF
 yem,2018,NF
 yem,2019,NF
 yem,2020,NF
+yem,2021,NF
+yem,2022,NF
 zaf,1972,PF
 zaf,1973,PF
 zaf,1974,PF
@@ -8437,6 +8819,8 @@ zaf,2017,F
 zaf,2018,F
 zaf,2019,F
 zaf,2020,F
+zaf,2021,F
+zaf,2022,F
 zmb,1972,PF
 zmb,1973,PF
 zmb,1974,PF
@@ -8485,6 +8869,8 @@ zmb,2017,PF
 zmb,2018,PF
 zmb,2019,PF
 zmb,2020,PF
+zmb,2021,PF
+zmb,2022,PF
 zwe,1972,NF
 zwe,1973,NF
 zwe,1974,NF
@@ -8533,3 +8919,5 @@ zwe,2017,NF
 zwe,2018,PF
 zwe,2019,PF
 zwe,2020,NF
+zwe,2021,NF
+zwe,2022,NF

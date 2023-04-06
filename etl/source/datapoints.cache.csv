@@ -38,10 +38,10 @@ c_civsocpart_idea,Change in  civil society Participation Index (IDEA),"[geo:coun
 c_elecparti_idea,Change in Electoral Participation Index (IDEA),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1FY8AsCBMnO1pMRpnJijKt_Q02Nw4ce_G2rj_yRfRRv0-data-for-countries-etc-by-year
 c_dirdemo_idea,Change in Direct democracy Index (IDEA),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1FY8AsCBMnO1pMRpnJijKt_Q02Nw4ce_G2rj_yRfRRv0-data-for-countries-etc-by-year
 c_locdemo_idea,Change in Local Democracy Index (IDEA),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1FY8AsCBMnO1pMRpnJijKt_Q02Nw4ce_G2rj_yRfRRv0-data-for-countries-etc-by-year
-freedstatus_fh,Freedom status (FH),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1-lqYHfMFd9wJKbce6qfImvtGpRhvn6w-ptyRHJtiBx8-data-for-countries-etc-by-year
-freedix_fh,Freedom index (FH),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1-lqYHfMFd9wJKbce6qfImvtGpRhvn6w-ptyRHJtiBx8-data-for-countries-etc-by-year
-polrights_fh,Political Rights index (FH),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1-lqYHfMFd9wJKbce6qfImvtGpRhvn6w-ptyRHJtiBx8-data-for-countries-etc-by-year
-cliberities_fh,Civil Liberties index (FH),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1-lqYHfMFd9wJKbce6qfImvtGpRhvn6w-ptyRHJtiBx8-data-for-countries-etc-by-year
+freedstatus_fh,Freedom status (FH),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1eHw-43lUAOrMebEWDWb-GsF6xn34nHX7OGznxITGHzc-data-for-countries-etc-by-year
+freedix_fh,Freedom index (FH),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1eHw-43lUAOrMebEWDWb-GsF6xn34nHX7OGznxITGHzc-data-for-countries-etc-by-year
+polrights_fh,Political Rights index (FH),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1eHw-43lUAOrMebEWDWb-GsF6xn34nHX7OGznxITGHzc-data-for-countries-etc-by-year
+cliberities_fh,Civil Liberties index (FH),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1eHw-43lUAOrMebEWDWb-GsF6xn34nHX7OGznxITGHzc-data-for-countries-etc-by-year
 demox_eiu,Democracy index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
 electoplx_eiu,Electoral pluralism index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
 gvtx_eiu,Government index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
