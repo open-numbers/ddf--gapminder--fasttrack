@@ -8,7 +8,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2023-04-06T14:10:58.290934+00:00",
+    "created": "2023-04-19T03:37:34.310864+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -1490,6 +1490,27 @@
                     },
                     {
                         "name": "gapminder_index"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gdp_pcap--by--country--time",
+            "path": "ddf--datapoints--gdp_pcap--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gdp_pcap"
                     }
                 ],
                 "primaryKey": [
@@ -7086,6 +7107,26 @@
                 "value": "gapminder_index",
                 "resources": [
                     "ddf--datapoints--gapminder_index--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gdp_pcap",
+                "resources": [
+                    "ddf--datapoints--gdp_pcap--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gdp_pcap",
+                "resources": [
+                    "ddf--datapoints--gdp_pcap--by--country--time"
                 ]
             },
             {

@@ -195,3 +195,4 @@ co2_pcap_terr,CO2 per Cap (Territorial),"[geo:country,time:time]","{timeInColumn
 co2_terr,CO2 Emissions total (Territorial),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11YXbHov2h0Gk-8oC1VrakT4SSjPFKhbV5zEHIkyNtRQ-data-for-countries-etc-by-year
 carbonfp_pcap,National carbon footprint,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1TQXa62vo3WKM499neWOQAPsyyPuzwn-CMnUDFCA8Dgo-data-for-countries-etc-by-year
 cemission_cap,Global Carbon Project,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1TQXa62vo3WKM499neWOQAPsyyPuzwn-CMnUDFCA8Dgo-data-for-countries-etc-by-year
+gdp_pcap,Income per person,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QRBztI6iSaGt9VUG9FuVVRCkeNsAxiqOGJ3Sr_gwh54-data-for-countries-etc-by-year
