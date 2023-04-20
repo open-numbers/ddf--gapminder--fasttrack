@@ -1,0 +1,1205 @@
+,geo,name,time,Life expectancy 
+0,africa,Africa,1800,30.09
+1,africa,Africa,1801,30.02
+2,africa,Africa,1802,30.02
+3,africa,Africa,1803,30.1
+4,africa,Africa,1804,30.1
+5,africa,Africa,1805,30.1
+6,africa,Africa,1806,30.11
+7,africa,Africa,1807,30.11
+8,africa,Africa,1808,30.11
+9,africa,Africa,1809,30.11
+10,africa,Africa,1810,30.12
+11,africa,Africa,1811,30.12
+12,africa,Africa,1812,30.12
+13,africa,Africa,1813,30.12
+14,africa,Africa,1814,30.13
+15,africa,Africa,1815,30.13
+16,africa,Africa,1816,30.13
+17,africa,Africa,1817,30.13
+18,africa,Africa,1818,29.89
+19,africa,Africa,1819,29.85
+20,africa,Africa,1820,29.91
+21,africa,Africa,1821,30.14
+22,africa,Africa,1822,30.14
+23,africa,Africa,1823,30.14
+24,africa,Africa,1824,30.15
+25,africa,Africa,1825,30.15
+26,africa,Africa,1826,30.15
+27,africa,Africa,1827,30.15
+28,africa,Africa,1828,29.9
+29,africa,Africa,1829,29.75
+30,africa,Africa,1830,29.6
+31,africa,Africa,1831,29.75
+32,africa,Africa,1832,30.16
+33,africa,Africa,1833,30.17
+34,africa,Africa,1834,30.17
+35,africa,Africa,1835,29.9
+36,africa,Africa,1836,29.75
+37,africa,Africa,1837,29.58
+38,africa,Africa,1838,29.75
+39,africa,Africa,1839,30.17
+40,africa,Africa,1840,30.18
+41,africa,Africa,1841,30.17
+42,africa,Africa,1842,30.17
+43,africa,Africa,1843,30.19
+44,africa,Africa,1844,30.17
+45,africa,Africa,1845,30.19
+46,africa,Africa,1846,30.2
+47,africa,Africa,1847,30.21
+48,africa,Africa,1848,30.22
+49,africa,Africa,1849,29.86
+50,africa,Africa,1850,29.72
+51,africa,Africa,1851,30.06
+52,africa,Africa,1852,30.23
+53,africa,Africa,1853,30.23
+54,africa,Africa,1854,30.18
+55,africa,Africa,1855,30.22
+56,africa,Africa,1856,30.19
+57,africa,Africa,1857,30.24
+58,africa,Africa,1858,30.23
+59,africa,Africa,1859,30.23
+60,africa,Africa,1860,30.22
+61,africa,Africa,1861,30.23
+62,africa,Africa,1862,30.2
+63,africa,Africa,1863,30.22
+64,africa,Africa,1864,29.65
+65,africa,Africa,1865,29.5
+66,africa,Africa,1866,29.35
+67,africa,Africa,1867,29.94
+68,africa,Africa,1868,29.47
+69,africa,Africa,1869,29.83
+70,africa,Africa,1870,30.06
+71,africa,Africa,1871,30.32
+72,africa,Africa,1872,30.38
+73,africa,Africa,1873,30.43
+74,africa,Africa,1874,30.51
+75,africa,Africa,1875,30.59
+76,africa,Africa,1876,30.65
+77,africa,Africa,1877,30.72
+78,africa,Africa,1878,30.79
+79,africa,Africa,1879,30.85
+80,africa,Africa,1880,30.55
+81,africa,Africa,1881,30.47
+82,africa,Africa,1882,31.05
+83,africa,Africa,1883,31.12
+84,africa,Africa,1884,31.21
+85,africa,Africa,1885,31.27
+86,africa,Africa,1886,31.35
+87,africa,Africa,1887,31.41
+88,africa,Africa,1888,29.77
+89,africa,Africa,1889,28.23
+90,africa,Africa,1890,28.18
+91,africa,Africa,1891,28.82
+92,africa,Africa,1892,29.68
+93,africa,Africa,1893,31.83
+94,africa,Africa,1894,31.93
+95,africa,Africa,1895,31.96
+96,africa,Africa,1896,31.92
+97,africa,Africa,1897,32.11
+98,africa,Africa,1898,32.17
+99,africa,Africa,1899,32.23
+100,africa,Africa,1900,32.29
+101,africa,Africa,1901,32.35
+102,africa,Africa,1902,32.44
+103,africa,Africa,1903,32.52
+104,africa,Africa,1904,32.45
+105,africa,Africa,1905,32.62
+106,africa,Africa,1906,32.71
+107,africa,Africa,1907,32.8
+108,africa,Africa,1908,32.86
+109,africa,Africa,1909,33.08
+110,africa,Africa,1910,33.24
+111,africa,Africa,1911,33.31
+112,africa,Africa,1912,33.43
+113,africa,Africa,1913,33.42
+114,africa,Africa,1914,33.49
+115,africa,Africa,1915,33.54
+116,africa,Africa,1916,33.56
+117,africa,Africa,1917,33.62
+118,africa,Africa,1918,15.57
+119,africa,Africa,1919,33.8
+120,africa,Africa,1920,33.89
+121,africa,Africa,1921,33.92
+122,africa,Africa,1922,33.96
+123,africa,Africa,1923,34.22
+124,africa,Africa,1924,34.3
+125,africa,Africa,1925,34.36
+126,africa,Africa,1926,34.37
+127,africa,Africa,1927,34.3
+128,africa,Africa,1928,34.32
+129,africa,Africa,1929,34.41
+130,africa,Africa,1930,35.1
+131,africa,Africa,1931,34.9
+132,africa,Africa,1932,35
+133,africa,Africa,1933,35.33
+134,africa,Africa,1934,35.39
+135,africa,Africa,1935,35.56
+136,africa,Africa,1936,35.18
+137,africa,Africa,1937,36.11
+138,africa,Africa,1938,36.27
+139,africa,Africa,1939,36.65
+140,africa,Africa,1940,36.61
+141,africa,Africa,1941,36.93
+142,africa,Africa,1942,36.79
+143,africa,Africa,1943,36.75
+144,africa,Africa,1944,37.39
+145,africa,Africa,1945,37.83
+146,africa,Africa,1946,39.17
+147,africa,Africa,1947,40.44
+148,africa,Africa,1948,41.51
+149,africa,Africa,1949,42.59
+150,africa,Africa,1950,43.8
+151,africa,Africa,1951,44.03
+152,africa,Africa,1952,44.43
+153,africa,Africa,1953,44.7
+154,africa,Africa,1954,44.83
+155,africa,Africa,1955,45.08
+156,africa,Africa,1956,45.43
+157,africa,Africa,1957,45.42
+158,africa,Africa,1958,45.5
+159,africa,Africa,1959,46.42
+160,africa,Africa,1960,46.34
+161,africa,Africa,1961,46.69
+162,africa,Africa,1962,47.39
+163,africa,Africa,1963,47.95
+164,africa,Africa,1964,48.27
+165,africa,Africa,1965,48.55
+166,africa,Africa,1966,48.84
+167,africa,Africa,1967,49.16
+168,africa,Africa,1968,49.37
+169,africa,Africa,1969,49.68
+170,africa,Africa,1970,50.21
+171,africa,Africa,1971,50.67
+172,africa,Africa,1972,50.77
+173,africa,Africa,1973,51.26
+174,africa,Africa,1974,51.58
+175,africa,Africa,1975,52.03
+176,africa,Africa,1976,52.73
+177,africa,Africa,1977,53.14
+178,africa,Africa,1978,53.5
+179,africa,Africa,1979,54.01
+180,africa,Africa,1980,54.36
+181,africa,Africa,1981,54.62
+182,africa,Africa,1982,54.99
+183,africa,Africa,1983,55.01
+184,africa,Africa,1984,55.17
+185,africa,Africa,1985,55.76
+186,africa,Africa,1986,56.13
+187,africa,Africa,1987,56.35
+188,africa,Africa,1988,56.69
+189,africa,Africa,1989,56.77
+190,africa,Africa,1990,56.82
+191,africa,Africa,1991,56.91
+192,africa,Africa,1992,56.93
+193,africa,Africa,1993,56.88
+194,africa,Africa,1994,56.44
+195,africa,Africa,1995,56.71
+196,africa,Africa,1996,56.56
+197,africa,Africa,1997,56.49
+198,africa,Africa,1998,56.48
+199,africa,Africa,1999,56.54
+200,africa,Africa,2000,56.7
+201,africa,Africa,2001,57.03
+202,africa,Africa,2002,57.26
+203,africa,Africa,2003,57.54
+204,africa,Africa,2004,57.98
+205,africa,Africa,2005,58.57
+206,africa,Africa,2006,59.18
+207,africa,Africa,2007,59.86
+208,africa,Africa,2008,60.52
+209,africa,Africa,2009,61.11
+210,africa,Africa,2010,61.73
+211,africa,Africa,2011,62.3
+212,africa,Africa,2012,62.91
+213,africa,Africa,2013,63.45
+214,africa,Africa,2014,63.89
+215,africa,Africa,2015,64.35
+216,africa,Africa,2016,64.84
+217,africa,Africa,2017,65.33
+218,africa,Africa,2018,65.85
+219,africa,Africa,2019,66.3
+220,africa,Africa,2020,66.32
+221,africa,Africa,2021,66.9
+222,africa,Africa,2022,67.17
+223,africa,Africa,2023,67.44
+224,africa,Africa,2024,67.7
+225,africa,Africa,2025,67.96
+226,africa,Africa,2026,68.23
+227,africa,Africa,2027,68.49
+228,africa,Africa,2028,68.74
+229,africa,Africa,2029,69
+230,africa,Africa,2030,69.24
+231,africa,Africa,2031,69.48
+232,africa,Africa,2032,69.72
+233,africa,Africa,2033,69.95
+234,africa,Africa,2034,70.18
+235,africa,Africa,2035,70.4
+236,africa,Africa,2036,70.62
+237,africa,Africa,2037,70.84
+238,africa,Africa,2038,71.05
+239,africa,Africa,2039,71.26
+240,africa,Africa,2040,71.46
+241,africa,Africa,2041,71.67
+242,africa,Africa,2042,71.86
+243,africa,Africa,2043,72.06
+244,africa,Africa,2044,72.25
+245,africa,Africa,2045,72.44
+246,africa,Africa,2046,72.63
+247,africa,Africa,2047,72.81
+248,africa,Africa,2048,72.99
+249,africa,Africa,2049,73.17
+250,africa,Africa,2050,73.35
+251,africa,Africa,2051,73.52
+252,africa,Africa,2052,73.69
+253,africa,Africa,2053,73.86
+254,africa,Africa,2054,74.02
+255,africa,Africa,2055,74.19
+256,africa,Africa,2056,74.35
+257,africa,Africa,2057,74.51
+258,africa,Africa,2058,74.67
+259,africa,Africa,2059,74.82
+260,africa,Africa,2060,74.98
+261,africa,Africa,2061,75.13
+262,africa,Africa,2062,75.28
+263,africa,Africa,2063,75.43
+264,africa,Africa,2064,75.58
+265,africa,Africa,2065,75.73
+266,africa,Africa,2066,75.87
+267,africa,Africa,2067,76.02
+268,africa,Africa,2068,76.16
+269,africa,Africa,2069,76.31
+270,africa,Africa,2070,76.45
+271,africa,Africa,2071,76.59
+272,africa,Africa,2072,76.73
+273,africa,Africa,2073,76.87
+274,africa,Africa,2074,77.01
+275,africa,Africa,2075,77.15
+276,africa,Africa,2076,77.29
+277,africa,Africa,2077,77.42
+278,africa,Africa,2078,77.56
+279,africa,Africa,2079,77.69
+280,africa,Africa,2080,77.83
+281,africa,Africa,2081,77.96
+282,africa,Africa,2082,78.09
+283,africa,Africa,2083,78.23
+284,africa,Africa,2084,78.36
+285,africa,Africa,2085,78.49
+286,africa,Africa,2086,78.63
+287,africa,Africa,2087,78.76
+288,africa,Africa,2088,78.89
+289,africa,Africa,2089,79.02
+290,africa,Africa,2090,79.15
+291,africa,Africa,2091,79.28
+292,africa,Africa,2092,79.41
+293,africa,Africa,2093,79.54
+294,africa,Africa,2094,79.67
+295,africa,Africa,2095,79.8
+296,africa,Africa,2096,79.93
+297,africa,Africa,2097,80.07
+298,africa,Africa,2098,80.2
+299,africa,Africa,2099,80.33
+300,africa,Africa,2100,80.46
+301,asia,Asia,1800,29.56
+302,asia,Asia,1801,29.57
+303,asia,Asia,1802,29.44
+304,asia,Asia,1803,29.14
+305,asia,Asia,1804,29
+306,asia,Asia,1805,29.58
+307,asia,Asia,1806,29.59
+308,asia,Asia,1807,29.59
+309,asia,Asia,1808,29.59
+310,asia,Asia,1809,29.6
+311,asia,Asia,1810,29.61
+312,asia,Asia,1811,29.61
+313,asia,Asia,1812,28.86
+314,asia,Asia,1813,29.63
+315,asia,Asia,1814,29.64
+316,asia,Asia,1815,29.65
+317,asia,Asia,1816,29.66
+318,asia,Asia,1817,29.67
+319,asia,Asia,1818,29.68
+320,asia,Asia,1819,29.69
+321,asia,Asia,1820,29.7
+322,asia,Asia,1821,29.7
+323,asia,Asia,1822,29.71
+324,asia,Asia,1823,29.71
+325,asia,Asia,1824,29.72
+326,asia,Asia,1825,29.72
+327,asia,Asia,1826,29.72
+328,asia,Asia,1827,29.73
+329,asia,Asia,1828,29.73
+330,asia,Asia,1829,29.73
+331,asia,Asia,1830,29.73
+332,asia,Asia,1831,29.73
+333,asia,Asia,1832,29.04
+334,asia,Asia,1833,28.76
+335,asia,Asia,1834,29.72
+336,asia,Asia,1835,29.71
+337,asia,Asia,1836,29.71
+338,asia,Asia,1837,29.38
+339,asia,Asia,1838,29.26
+340,asia,Asia,1839,29.69
+341,asia,Asia,1840,29.69
+342,asia,Asia,1841,29.68
+343,asia,Asia,1842,29.68
+344,asia,Asia,1843,29.67
+345,asia,Asia,1844,29.67
+346,asia,Asia,1845,29.66
+347,asia,Asia,1846,29.66
+348,asia,Asia,1847,29.65
+349,asia,Asia,1848,29.65
+350,asia,Asia,1849,29.64
+351,asia,Asia,1850,29.63
+352,asia,Asia,1851,29.12
+353,asia,Asia,1852,28.61
+354,asia,Asia,1853,28.11
+355,asia,Asia,1854,27.61
+356,asia,Asia,1855,27.12
+357,asia,Asia,1856,26.64
+358,asia,Asia,1857,26.99
+359,asia,Asia,1858,27.33
+360,asia,Asia,1859,27.67
+361,asia,Asia,1860,27.26
+362,asia,Asia,1861,27.28
+363,asia,Asia,1862,28.67
+364,asia,Asia,1863,29
+365,asia,Asia,1864,29.24
+366,asia,Asia,1865,29.22
+367,asia,Asia,1866,27.94
+368,asia,Asia,1867,29.27
+369,asia,Asia,1868,29.28
+370,asia,Asia,1869,28.05
+371,asia,Asia,1870,29.37
+372,asia,Asia,1871,29.42
+373,asia,Asia,1872,29.46
+374,asia,Asia,1873,29.49
+375,asia,Asia,1874,29.53
+376,asia,Asia,1875,29.46
+377,asia,Asia,1876,26.75
+378,asia,Asia,1877,25.57
+379,asia,Asia,1878,24.9
+380,asia,Asia,1879,28.15
+381,asia,Asia,1880,29.74
+382,asia,Asia,1881,29.77
+383,asia,Asia,1882,29.76
+384,asia,Asia,1883,29.76
+385,asia,Asia,1884,29.75
+386,asia,Asia,1885,29.74
+387,asia,Asia,1886,29.73
+388,asia,Asia,1887,29.71
+389,asia,Asia,1888,29.63
+390,asia,Asia,1889,29.61
+391,asia,Asia,1890,29.67
+392,asia,Asia,1891,29.21
+393,asia,Asia,1892,29.07
+394,asia,Asia,1893,29.67
+395,asia,Asia,1894,29.67
+396,asia,Asia,1895,29.68
+397,asia,Asia,1896,29.25
+398,asia,Asia,1897,28.27
+399,asia,Asia,1898,30.41
+400,asia,Asia,1899,29.62
+401,asia,Asia,1900,27.92
+402,asia,Asia,1901,29.59
+403,asia,Asia,1902,29.69
+404,asia,Asia,1903,29.72
+405,asia,Asia,1904,29.33
+406,asia,Asia,1905,29.31
+407,asia,Asia,1906,29.32
+408,asia,Asia,1907,28.42
+409,asia,Asia,1908,29.94
+410,asia,Asia,1909,29.99
+411,asia,Asia,1910,30.07
+412,asia,Asia,1911,30.13
+413,asia,Asia,1912,30.28
+414,asia,Asia,1913,30.41
+415,asia,Asia,1914,30.53
+416,asia,Asia,1915,30.68
+417,asia,Asia,1916,30.82
+418,asia,Asia,1917,30.94
+419,asia,Asia,1918,18.21
+420,asia,Asia,1919,31.07
+421,asia,Asia,1920,31.15
+422,asia,Asia,1921,31.31
+423,asia,Asia,1922,31.6
+424,asia,Asia,1923,31.92
+425,asia,Asia,1924,32.23
+426,asia,Asia,1925,32.46
+427,asia,Asia,1926,32.91
+428,asia,Asia,1927,30.35
+429,asia,Asia,1928,33.78
+430,asia,Asia,1929,32.69
+431,asia,Asia,1930,34.64
+432,asia,Asia,1931,34.99
+433,asia,Asia,1932,35.34
+434,asia,Asia,1933,35.71
+435,asia,Asia,1934,36.46
+436,asia,Asia,1935,36.85
+437,asia,Asia,1936,37.39
+438,asia,Asia,1937,36.8
+439,asia,Asia,1938,37.05
+440,asia,Asia,1939,37.44
+441,asia,Asia,1940,37.74
+442,asia,Asia,1941,37.65
+443,asia,Asia,1942,36.4
+444,asia,Asia,1943,34.5
+445,asia,Asia,1944,36.75
+446,asia,Asia,1945,37.55
+447,asia,Asia,1946,40.36
+448,asia,Asia,1947,39.97
+449,asia,Asia,1948,42.33
+450,asia,Asia,1949,43.29
+451,asia,Asia,1950,44.21
+452,asia,Asia,1951,44.85
+453,asia,Asia,1952,45.75
+454,asia,Asia,1953,46.57
+455,asia,Asia,1954,47.79
+456,asia,Asia,1955,48.81
+457,asia,Asia,1956,50.3
+458,asia,Asia,1957,50.85
+459,asia,Asia,1958,49.93
+460,asia,Asia,1959,46.68
+461,asia,Asia,1960,41.79
+462,asia,Asia,1961,47.16
+463,asia,Asia,1962,52.37
+464,asia,Asia,1963,54.15
+465,asia,Asia,1964,54.67
+466,asia,Asia,1965,54.31
+467,asia,Asia,1966,54.82
+468,asia,Asia,1967,55.51
+469,asia,Asia,1968,56.27
+470,asia,Asia,1969,56.79
+471,asia,Asia,1970,57.09
+472,asia,Asia,1971,57.51
+473,asia,Asia,1972,58.15
+474,asia,Asia,1973,58.73
+475,asia,Asia,1974,59.07
+476,asia,Asia,1975,59.42
+477,asia,Asia,1976,59.67
+478,asia,Asia,1977,60.34
+479,asia,Asia,1978,60.82
+480,asia,Asia,1979,61.32
+481,asia,Asia,1980,61.74
+482,asia,Asia,1981,62.06
+483,asia,Asia,1982,62.47
+484,asia,Asia,1983,62.84
+485,asia,Asia,1984,63.2
+486,asia,Asia,1985,63.58
+487,asia,Asia,1986,63.99
+488,asia,Asia,1987,64.35
+489,asia,Asia,1988,64.62
+490,asia,Asia,1989,64.98
+491,asia,Asia,1990,65.32
+492,asia,Asia,1991,65.51
+493,asia,Asia,1992,65.85
+494,asia,Asia,1993,66.19
+495,asia,Asia,1994,66.54
+496,asia,Asia,1995,66.81
+497,asia,Asia,1996,67.11
+498,asia,Asia,1997,67.32
+499,asia,Asia,1998,67.57
+500,asia,Asia,1999,67.86
+501,asia,Asia,2000,68.11
+502,asia,Asia,2001,68.42
+503,asia,Asia,2002,68.74
+504,asia,Asia,2003,69.12
+505,asia,Asia,2004,69.36
+506,asia,Asia,2005,69.72
+507,asia,Asia,2006,70.12
+508,asia,Asia,2007,70.47
+509,asia,Asia,2008,70.6
+510,asia,Asia,2009,71.12
+511,asia,Asia,2010,71.42
+512,asia,Asia,2011,71.71
+513,asia,Asia,2012,72.07
+514,asia,Asia,2013,72.38
+515,asia,Asia,2014,72.72
+516,asia,Asia,2015,73.01
+517,asia,Asia,2016,73.31
+518,asia,Asia,2017,73.58
+519,asia,Asia,2018,73.78
+520,asia,Asia,2019,74
+521,asia,Asia,2020,73.96
+522,asia,Asia,2021,74.35
+523,asia,Asia,2022,74.51
+524,asia,Asia,2023,74.67
+525,asia,Asia,2024,74.83
+526,asia,Asia,2025,74.99
+527,asia,Asia,2026,75.15
+528,asia,Asia,2027,75.31
+529,asia,Asia,2028,75.46
+530,asia,Asia,2029,75.62
+531,asia,Asia,2030,75.77
+532,asia,Asia,2031,75.92
+533,asia,Asia,2032,76.06
+534,asia,Asia,2033,76.21
+535,asia,Asia,2034,76.35
+536,asia,Asia,2035,76.49
+537,asia,Asia,2036,76.63
+538,asia,Asia,2037,76.77
+539,asia,Asia,2038,76.91
+540,asia,Asia,2039,77.04
+541,asia,Asia,2040,77.18
+542,asia,Asia,2041,77.32
+543,asia,Asia,2042,77.45
+544,asia,Asia,2043,77.58
+545,asia,Asia,2044,77.72
+546,asia,Asia,2045,77.85
+547,asia,Asia,2046,77.98
+548,asia,Asia,2047,78.11
+549,asia,Asia,2048,78.24
+550,asia,Asia,2049,78.37
+551,asia,Asia,2050,78.5
+552,asia,Asia,2051,78.63
+553,asia,Asia,2052,78.76
+554,asia,Asia,2053,78.89
+555,asia,Asia,2054,79.01
+556,asia,Asia,2055,79.14
+557,asia,Asia,2056,79.27
+558,asia,Asia,2057,79.39
+559,asia,Asia,2058,79.52
+560,asia,Asia,2059,79.64
+561,asia,Asia,2060,79.77
+562,asia,Asia,2061,79.89
+563,asia,Asia,2062,80.01
+564,asia,Asia,2063,80.13
+565,asia,Asia,2064,80.26
+566,asia,Asia,2065,80.38
+567,asia,Asia,2066,80.5
+568,asia,Asia,2067,80.62
+569,asia,Asia,2068,80.74
+570,asia,Asia,2069,80.86
+571,asia,Asia,2070,80.98
+572,asia,Asia,2071,81.1
+573,asia,Asia,2072,81.22
+574,asia,Asia,2073,81.34
+575,asia,Asia,2074,81.46
+576,asia,Asia,2075,81.58
+577,asia,Asia,2076,81.7
+578,asia,Asia,2077,81.82
+579,asia,Asia,2078,81.94
+580,asia,Asia,2079,82.06
+581,asia,Asia,2080,82.18
+582,asia,Asia,2081,82.3
+583,asia,Asia,2082,82.42
+584,asia,Asia,2083,82.54
+585,asia,Asia,2084,82.65
+586,asia,Asia,2085,82.77
+587,asia,Asia,2086,82.9
+588,asia,Asia,2087,83.02
+589,asia,Asia,2088,83.14
+590,asia,Asia,2089,83.26
+591,asia,Asia,2090,83.38
+592,asia,Asia,2091,83.5
+593,asia,Asia,2092,83.62
+594,asia,Asia,2093,83.74
+595,asia,Asia,2094,83.86
+596,asia,Asia,2095,83.98
+597,asia,Asia,2096,84.1
+598,asia,Asia,2097,84.22
+599,asia,Asia,2098,84.34
+600,asia,Asia,2099,84.46
+601,asia,Asia,2100,84.59
+602,europe,Europe,1800,34.11
+603,europe,Europe,1801,34.45
+604,europe,Europe,1802,34.32
+605,europe,Europe,1803,33.7
+606,europe,Europe,1804,33.78
+607,europe,Europe,1805,34.65
+608,europe,Europe,1806,34.68
+609,europe,Europe,1807,34.41
+610,europe,Europe,1808,34.25
+611,europe,Europe,1809,34.33
+612,europe,Europe,1810,34.7
+613,europe,Europe,1811,34.63
+614,europe,Europe,1812,34.21
+615,europe,Europe,1813,34.23
+616,europe,Europe,1814,33.99
+617,europe,Europe,1815,35.01
+618,europe,Europe,1816,35.47
+619,europe,Europe,1817,35.48
+620,europe,Europe,1818,35.31
+621,europe,Europe,1819,35.17
+622,europe,Europe,1820,35.56
+623,europe,Europe,1821,35.66
+624,europe,Europe,1822,35.48
+625,europe,Europe,1823,35.66
+626,europe,Europe,1824,35.45
+627,europe,Europe,1825,35.45
+628,europe,Europe,1826,35.3
+629,europe,Europe,1827,35.66
+630,europe,Europe,1828,35.42
+631,europe,Europe,1829,35.55
+632,europe,Europe,1830,35.78
+633,europe,Europe,1831,35.53
+634,europe,Europe,1832,35
+635,europe,Europe,1833,35.48
+636,europe,Europe,1834,34.98
+637,europe,Europe,1835,35.7
+638,europe,Europe,1836,36
+639,europe,Europe,1837,35.51
+640,europe,Europe,1838,35.55
+641,europe,Europe,1839,35.81
+642,europe,Europe,1840,35.69
+643,europe,Europe,1841,35.94
+644,europe,Europe,1842,35.76
+645,europe,Europe,1843,35.92
+646,europe,Europe,1844,36.13
+647,europe,Europe,1845,36.38
+648,europe,Europe,1846,35.15
+649,europe,Europe,1847,35.01
+650,europe,Europe,1848,33.38
+651,europe,Europe,1849,34.18
+652,europe,Europe,1850,36.14
+653,europe,Europe,1851,35.99
+654,europe,Europe,1852,35.79
+655,europe,Europe,1853,35.85
+656,europe,Europe,1854,34.78
+657,europe,Europe,1855,34.97
+658,europe,Europe,1856,35.78
+659,europe,Europe,1857,35.51
+660,europe,Europe,1858,35.44
+661,europe,Europe,1859,34.99
+662,europe,Europe,1860,36.36
+663,europe,Europe,1861,35.88
+664,europe,Europe,1862,36.12
+665,europe,Europe,1863,35.82
+666,europe,Europe,1864,35.78
+667,europe,Europe,1865,35.57
+668,europe,Europe,1866,35.6
+669,europe,Europe,1867,36.09
+670,europe,Europe,1868,35.38
+671,europe,Europe,1869,35.64
+672,europe,Europe,1870,35.56
+673,europe,Europe,1871,34.29
+674,europe,Europe,1872,35.74
+675,europe,Europe,1873,36.46
+676,europe,Europe,1874,36.73
+677,europe,Europe,1875,36.58
+678,europe,Europe,1876,37.06
+679,europe,Europe,1877,37.48
+680,europe,Europe,1878,36.67
+681,europe,Europe,1879,37.39
+682,europe,Europe,1880,36.94
+683,europe,Europe,1881,37.76
+684,europe,Europe,1882,36.84
+685,europe,Europe,1883,37.37
+686,europe,Europe,1884,37.96
+687,europe,Europe,1885,38
+688,europe,Europe,1886,38.3
+689,europe,Europe,1887,38.51
+690,europe,Europe,1888,38.77
+691,europe,Europe,1889,38.8
+692,europe,Europe,1890,38.24
+693,europe,Europe,1891,37.82
+694,europe,Europe,1892,37.2
+695,europe,Europe,1893,38.35
+696,europe,Europe,1894,39.12
+697,europe,Europe,1895,38.8
+698,europe,Europe,1896,39.68
+699,europe,Europe,1897,40.38
+700,europe,Europe,1898,39.81
+701,europe,Europe,1899,40.33
+702,europe,Europe,1900,40.15
+703,europe,Europe,1901,40.63
+704,europe,Europe,1902,41.17
+705,europe,Europe,1903,41.8
+706,europe,Europe,1904,41.97
+707,europe,Europe,1905,42.03
+708,europe,Europe,1906,42.54
+709,europe,Europe,1907,43.2
+710,europe,Europe,1908,43.31
+711,europe,Europe,1909,43.61
+712,europe,Europe,1910,44.07
+713,europe,Europe,1911,44.04
+714,europe,Europe,1912,45.48
+715,europe,Europe,1913,45.12
+716,europe,Europe,1914,42.74
+717,europe,Europe,1915,39.41
+718,europe,Europe,1916,39.77
+719,europe,Europe,1917,39.31
+720,europe,Europe,1918,31.26
+721,europe,Europe,1919,41.61
+722,europe,Europe,1920,42.31
+723,europe,Europe,1921,44.3
+724,europe,Europe,1922,45.01
+725,europe,Europe,1923,47.83
+726,europe,Europe,1924,48.59
+727,europe,Europe,1925,48.56
+728,europe,Europe,1926,49.63
+729,europe,Europe,1927,49.75
+730,europe,Europe,1928,50.38
+731,europe,Europe,1929,49.78
+732,europe,Europe,1930,50.64
+733,europe,Europe,1931,50.5
+734,europe,Europe,1932,49.79
+735,europe,Europe,1933,45.49
+736,europe,Europe,1934,51.78
+737,europe,Europe,1935,53
+738,europe,Europe,1936,53.47
+739,europe,Europe,1937,53.09
+740,europe,Europe,1938,53.82
+741,europe,Europe,1939,53.81
+742,europe,Europe,1940,52.15
+743,europe,Europe,1941,45.86
+744,europe,Europe,1942,43.79
+745,europe,Europe,1943,41.42
+746,europe,Europe,1944,41.31
+747,europe,Europe,1945,45
+748,europe,Europe,1946,56.15
+749,europe,Europe,1947,55.53
+750,europe,Europe,1948,60.12
+751,europe,Europe,1949,61.29
+752,europe,Europe,1950,62.87
+753,europe,Europe,1951,63.4
+754,europe,Europe,1952,64.63
+755,europe,Europe,1953,65.62
+756,europe,Europe,1954,66.46
+757,europe,Europe,1955,66.72
+758,europe,Europe,1956,67
+759,europe,Europe,1957,67.12
+760,europe,Europe,1958,67.81
+761,europe,Europe,1959,67.84
+762,europe,Europe,1960,68.46
+763,europe,Europe,1961,68.7
+764,europe,Europe,1962,68.67
+765,europe,Europe,1963,69
+766,europe,Europe,1964,69.52
+767,europe,Europe,1965,69.64
+768,europe,Europe,1966,69.84
+769,europe,Europe,1967,69.83
+770,europe,Europe,1968,69.79
+771,europe,Europe,1969,69.65
+772,europe,Europe,1970,69.91
+773,europe,Europe,1971,70.12
+774,europe,Europe,1972,70.33
+775,europe,Europe,1973,70.51
+776,europe,Europe,1974,70.69
+777,europe,Europe,1975,70.66
+778,europe,Europe,1976,70.8
+779,europe,Europe,1977,70.95
+780,europe,Europe,1978,71.07
+781,europe,Europe,1979,71.16
+782,europe,Europe,1980,71.25
+783,europe,Europe,1981,71.51
+784,europe,Europe,1982,71.8
+785,europe,Europe,1983,71.85
+786,europe,Europe,1984,71.9
+787,europe,Europe,1985,72.19
+788,europe,Europe,1986,72.79
+789,europe,Europe,1987,72.92
+790,europe,Europe,1988,72.97
+791,europe,Europe,1989,73.04
+792,europe,Europe,1990,73.06
+793,europe,Europe,1991,73.05
+794,europe,Europe,1992,72.91
+795,europe,Europe,1993,72.52
+796,europe,Europe,1994,72.37
+797,europe,Europe,1995,72.58
+798,europe,Europe,1996,73.1
+799,europe,Europe,1997,73.56
+800,europe,Europe,1998,73.89
+801,europe,Europe,1999,73.8
+802,europe,Europe,2000,74.1
+803,europe,Europe,2001,74.32
+804,europe,Europe,2002,74.43
+805,europe,Europe,2003,74.58
+806,europe,Europe,2004,74.96
+807,europe,Europe,2005,75.09
+808,europe,Europe,2006,75.61
+809,europe,Europe,2007,75.94
+810,europe,Europe,2008,76.15
+811,europe,Europe,2009,76.56
+812,europe,Europe,2010,76.82
+813,europe,Europe,2011,77.24
+814,europe,Europe,2012,77.48
+815,europe,Europe,2013,77.73
+816,europe,Europe,2014,77.88
+817,europe,Europe,2015,78.04
+818,europe,Europe,2016,78.28
+819,europe,Europe,2017,78.59
+820,europe,Europe,2018,78.66
+821,europe,Europe,2019,78.71
+822,europe,Europe,2020,77.66
+823,europe,Europe,2021,79.01
+824,europe,Europe,2022,79.15
+825,europe,Europe,2023,79.3
+826,europe,Europe,2024,79.45
+827,europe,Europe,2025,79.6
+828,europe,Europe,2026,79.76
+829,europe,Europe,2027,79.91
+830,europe,Europe,2028,80.07
+831,europe,Europe,2029,80.23
+832,europe,Europe,2030,80.38
+833,europe,Europe,2031,80.54
+834,europe,Europe,2032,80.69
+835,europe,Europe,2033,80.84
+836,europe,Europe,2034,80.99
+837,europe,Europe,2035,81.14
+838,europe,Europe,2036,81.29
+839,europe,Europe,2037,81.43
+840,europe,Europe,2038,81.58
+841,europe,Europe,2039,81.72
+842,europe,Europe,2040,81.86
+843,europe,Europe,2041,82
+844,europe,Europe,2042,82.14
+845,europe,Europe,2043,82.28
+846,europe,Europe,2044,82.42
+847,europe,Europe,2045,82.56
+848,europe,Europe,2046,82.69
+849,europe,Europe,2047,82.83
+850,europe,Europe,2048,82.96
+851,europe,Europe,2049,83.09
+852,europe,Europe,2050,83.23
+853,europe,Europe,2051,83.36
+854,europe,Europe,2052,83.49
+855,europe,Europe,2053,83.62
+856,europe,Europe,2054,83.75
+857,europe,Europe,2055,83.88
+858,europe,Europe,2056,84
+859,europe,Europe,2057,84.13
+860,europe,Europe,2058,84.26
+861,europe,Europe,2059,84.38
+862,europe,Europe,2060,84.51
+863,europe,Europe,2061,84.63
+864,europe,Europe,2062,84.76
+865,europe,Europe,2063,84.89
+866,europe,Europe,2064,85.01
+867,europe,Europe,2065,85.14
+868,europe,Europe,2066,85.26
+869,europe,Europe,2067,85.39
+870,europe,Europe,2068,85.51
+871,europe,Europe,2069,85.63
+872,europe,Europe,2070,85.76
+873,europe,Europe,2071,85.88
+874,europe,Europe,2072,86
+875,europe,Europe,2073,86.12
+876,europe,Europe,2074,86.24
+877,europe,Europe,2075,86.36
+878,europe,Europe,2076,86.48
+879,europe,Europe,2077,86.6
+880,europe,Europe,2078,86.72
+881,europe,Europe,2079,86.84
+882,europe,Europe,2080,86.96
+883,europe,Europe,2081,87.08
+884,europe,Europe,2082,87.19
+885,europe,Europe,2083,87.31
+886,europe,Europe,2084,87.43
+887,europe,Europe,2085,87.54
+888,europe,Europe,2086,87.66
+889,europe,Europe,2087,87.77
+890,europe,Europe,2088,87.89
+891,europe,Europe,2089,88
+892,europe,Europe,2090,88.11
+893,europe,Europe,2091,88.23
+894,europe,Europe,2092,88.34
+895,europe,Europe,2093,88.45
+896,europe,Europe,2094,88.56
+897,europe,Europe,2095,88.68
+898,europe,Europe,2096,88.79
+899,europe,Europe,2097,88.9
+900,europe,Europe,2098,89.01
+901,europe,Europe,2099,89.13
+902,europe,Europe,2100,89.24
+903,americas,The Americas,1800,32.96
+904,americas,The Americas,1801,32.97
+905,americas,The Americas,1802,32.99
+906,americas,The Americas,1803,33
+907,americas,The Americas,1804,33.02
+908,americas,The Americas,1805,33.03
+909,americas,The Americas,1806,33.05
+910,americas,The Americas,1807,33.06
+911,americas,The Americas,1808,33.08
+912,americas,The Americas,1809,33.09
+913,americas,The Americas,1810,33.12
+914,americas,The Americas,1811,33.15
+915,americas,The Americas,1812,33.18
+916,americas,The Americas,1813,33.22
+917,americas,The Americas,1814,33.26
+918,americas,The Americas,1815,33.29
+919,americas,The Americas,1816,33.33
+920,americas,The Americas,1817,33.36
+921,americas,The Americas,1818,33.4
+922,americas,The Americas,1819,33.44
+923,americas,The Americas,1820,33.49
+924,americas,The Americas,1821,33.54
+925,americas,The Americas,1822,33.6
+926,americas,The Americas,1823,33.66
+927,americas,The Americas,1824,33.72
+928,americas,The Americas,1825,33.77
+929,americas,The Americas,1826,33.82
+930,americas,The Americas,1827,33.87
+931,americas,The Americas,1828,33.91
+932,americas,The Americas,1829,33.96
+933,americas,The Americas,1830,34.01
+934,americas,The Americas,1831,34.05
+935,americas,The Americas,1832,34.1
+936,americas,The Americas,1833,34.14
+937,americas,The Americas,1834,34.19
+938,americas,The Americas,1835,34.23
+939,americas,The Americas,1836,34.27
+940,americas,The Americas,1837,34.31
+941,americas,The Americas,1838,34.35
+942,americas,The Americas,1839,34.4
+943,americas,The Americas,1840,34.44
+944,americas,The Americas,1841,34.49
+945,americas,The Americas,1842,34.53
+946,americas,The Americas,1843,34.58
+947,americas,The Americas,1844,34.62
+948,americas,The Americas,1845,34.67
+949,americas,The Americas,1846,34.71
+950,americas,The Americas,1847,34.76
+951,americas,The Americas,1848,34.81
+952,americas,The Americas,1849,34.85
+953,americas,The Americas,1850,34.9
+954,americas,The Americas,1851,34.94
+955,americas,The Americas,1852,34.97
+956,americas,The Americas,1853,35.01
+957,americas,The Americas,1854,35.05
+958,americas,The Americas,1855,35.08
+959,americas,The Americas,1856,35.12
+960,americas,The Americas,1857,35.15
+961,americas,The Americas,1858,35.19
+962,americas,The Americas,1859,35.23
+963,americas,The Americas,1860,35.25
+964,americas,The Americas,1861,34.64
+965,americas,The Americas,1862,33.07
+966,americas,The Americas,1863,32.85
+967,americas,The Americas,1864,31.47
+968,americas,The Americas,1865,34.72
+969,americas,The Americas,1866,35.4
+970,americas,The Americas,1867,35.41
+971,americas,The Americas,1868,35.43
+972,americas,The Americas,1869,35.45
+973,americas,The Americas,1870,35.48
+974,americas,The Americas,1871,35.51
+975,americas,The Americas,1872,35.54
+976,americas,The Americas,1873,35.57
+977,americas,The Americas,1874,35.6
+978,americas,The Americas,1875,35.64
+979,americas,The Americas,1876,35.69
+980,americas,The Americas,1877,35.73
+981,americas,The Americas,1878,35.78
+982,americas,The Americas,1879,35.82
+983,americas,The Americas,1880,35.87
+984,americas,The Americas,1881,36.2
+985,americas,The Americas,1882,36.56
+986,americas,The Americas,1883,36.88
+987,americas,The Americas,1884,37.2
+988,americas,The Americas,1885,37.53
+989,americas,The Americas,1886,37.86
+990,americas,The Americas,1887,38.19
+991,americas,The Americas,1888,38.55
+992,americas,The Americas,1889,38.88
+993,americas,The Americas,1890,39.13
+994,americas,The Americas,1891,39.19
+995,americas,The Americas,1892,39.25
+996,americas,The Americas,1893,39.29
+997,americas,The Americas,1894,39.77
+998,americas,The Americas,1895,40.24
+999,americas,The Americas,1896,40.4
+1000,americas,The Americas,1897,40.4
+1001,americas,The Americas,1898,40.71
+1002,americas,The Americas,1899,40.76
+1003,americas,The Americas,1900,41.42
+1004,americas,The Americas,1901,41.58
+1005,americas,The Americas,1902,42.44
+1006,americas,The Americas,1903,42.55
+1007,americas,The Americas,1904,42.1
+1008,americas,The Americas,1905,42.34
+1009,americas,The Americas,1906,42.37
+1010,americas,The Americas,1907,42.48
+1011,americas,The Americas,1908,43.56
+1012,americas,The Americas,1909,44.16
+1013,americas,The Americas,1910,43.54
+1014,americas,The Americas,1911,44.5
+1015,americas,The Americas,1912,44.96
+1016,americas,The Americas,1913,44.74
+1017,americas,The Americas,1914,45.41
+1018,americas,The Americas,1915,45.76
+1019,americas,The Americas,1916,45.37
+1020,americas,The Americas,1917,45.34
+1021,americas,The Americas,1918,38.55
+1022,americas,The Americas,1919,46.24
+1023,americas,The Americas,1920,46.37
+1024,americas,The Americas,1921,47.91
+1025,americas,The Americas,1922,47.93
+1026,americas,The Americas,1923,47.73
+1027,americas,The Americas,1924,48.33
+1028,americas,The Americas,1925,48.34
+1029,americas,The Americas,1926,48.18
+1030,americas,The Americas,1927,49.46
+1031,americas,The Americas,1928,48.53
+1032,americas,The Americas,1929,48.71
+1033,americas,The Americas,1930,49.41
+1034,americas,The Americas,1931,50.01
+1035,americas,The Americas,1932,50.55
+1036,americas,The Americas,1933,50.54
+1037,americas,The Americas,1934,50.36
+1038,americas,The Americas,1935,50.91
+1039,americas,The Americas,1936,50.63
+1040,americas,The Americas,1937,50.98
+1041,americas,The Americas,1938,52.08
+1042,americas,The Americas,1939,53.07
+1043,americas,The Americas,1940,52.89
+1044,americas,The Americas,1941,53.72
+1045,americas,The Americas,1942,54.25
+1046,americas,The Americas,1943,54.65
+1047,americas,The Americas,1944,55.42
+1048,americas,The Americas,1945,56.11
+1049,americas,The Americas,1946,56.89
+1050,americas,The Americas,1947,57.59
+1051,americas,The Americas,1948,58.46
+1052,americas,The Americas,1949,58.88
+1053,americas,The Americas,1950,59.78
+1054,americas,The Americas,1951,59.99
+1055,americas,The Americas,1952,60.45
+1056,americas,The Americas,1953,60.92
+1057,americas,The Americas,1954,61.65
+1058,americas,The Americas,1955,61.88
+1059,americas,The Americas,1956,62.13
+1060,americas,The Americas,1957,62.17
+1061,americas,The Americas,1958,62.53
+1062,americas,The Americas,1959,62.81
+1063,americas,The Americas,1960,63.05
+1064,americas,The Americas,1961,63.52
+1065,americas,The Americas,1962,63.7
+1066,americas,The Americas,1963,63.77
+1067,americas,The Americas,1964,64.09
+1068,americas,The Americas,1965,64.24
+1069,americas,The Americas,1966,64.44
+1070,americas,The Americas,1967,64.68
+1071,americas,The Americas,1968,64.7
+1072,americas,The Americas,1969,64.95
+1073,americas,The Americas,1970,65.09
+1074,americas,The Americas,1971,65.83
+1075,americas,The Americas,1972,66
+1076,americas,The Americas,1973,66.33
+1077,americas,The Americas,1974,66.83
+1078,americas,The Americas,1975,67.39
+1079,americas,The Americas,1976,67.63
+1080,americas,The Americas,1977,68.2
+1081,americas,The Americas,1978,68.68
+1082,americas,The Americas,1979,68.96
+1083,americas,The Americas,1980,69.19
+1084,americas,The Americas,1981,69.44
+1085,americas,The Americas,1982,69.89
+1086,americas,The Americas,1983,70.06
+1087,americas,The Americas,1984,70.28
+1088,americas,The Americas,1985,70.35
+1089,americas,The Americas,1986,70.8
+1090,americas,The Americas,1987,71.07
+1091,americas,The Americas,1988,71.32
+1092,americas,The Americas,1989,71.65
+1093,americas,The Americas,1990,72.02
+1094,americas,The Americas,1991,72.27
+1095,americas,The Americas,1992,72.51
+1096,americas,The Americas,1993,72.58
+1097,americas,The Americas,1994,72.8
+1098,americas,The Americas,1995,73.01
+1099,americas,The Americas,1996,73.34
+1100,americas,The Americas,1997,73.72
+1101,americas,The Americas,1998,73.86
+1102,americas,The Americas,1999,74.06
+1103,americas,The Americas,2000,74.44
+1104,americas,The Americas,2001,74.64
+1105,americas,The Americas,2002,74.74
+1106,americas,The Americas,2003,74.95
+1107,americas,The Americas,2004,75.25
+1108,americas,The Americas,2005,75.49
+1109,americas,The Americas,2006,75.74
+1110,americas,The Americas,2007,75.98
+1111,americas,The Americas,2008,76.09
+1112,americas,The Americas,2009,76.17
+1113,americas,The Americas,2010,76.09
+1114,americas,The Americas,2011,76.56
+1115,americas,The Americas,2012,76.72
+1116,americas,The Americas,2013,76.81
+1117,americas,The Americas,2014,76.94
+1118,americas,The Americas,2015,77
+1119,americas,The Americas,2016,76.97
+1120,americas,The Americas,2017,77.13
+1121,americas,The Americas,2018,77.21
+1122,americas,The Americas,2019,77.28
+1123,americas,The Americas,2020,75.35
+1124,americas,The Americas,2021,77.52
+1125,americas,The Americas,2022,77.66
+1126,americas,The Americas,2023,77.8
+1127,americas,The Americas,2024,77.96
+1128,americas,The Americas,2025,78.12
+1129,americas,The Americas,2026,78.3
+1130,americas,The Americas,2027,78.48
+1131,americas,The Americas,2028,78.67
+1132,americas,The Americas,2029,78.87
+1133,americas,The Americas,2030,79.07
+1134,americas,The Americas,2031,79.27
+1135,americas,The Americas,2032,79.46
+1136,americas,The Americas,2033,79.65
+1137,americas,The Americas,2034,79.82
+1138,americas,The Americas,2035,79.99
+1139,americas,The Americas,2036,80.15
+1140,americas,The Americas,2037,80.3
+1141,americas,The Americas,2038,80.46
+1142,americas,The Americas,2039,80.61
+1143,americas,The Americas,2040,80.77
+1144,americas,The Americas,2041,80.92
+1145,americas,The Americas,2042,81.08
+1146,americas,The Americas,2043,81.23
+1147,americas,The Americas,2044,81.39
+1148,americas,The Americas,2045,81.54
+1149,americas,The Americas,2046,81.69
+1150,americas,The Americas,2047,81.85
+1151,americas,The Americas,2048,82
+1152,americas,The Americas,2049,82.14
+1153,americas,The Americas,2050,82.29
+1154,americas,The Americas,2051,82.44
+1155,americas,The Americas,2052,82.58
+1156,americas,The Americas,2053,82.73
+1157,americas,The Americas,2054,82.87
+1158,americas,The Americas,2055,83.01
+1159,americas,The Americas,2056,83.15
+1160,americas,The Americas,2057,83.28
+1161,americas,The Americas,2058,83.42
+1162,americas,The Americas,2059,83.56
+1163,americas,The Americas,2060,83.69
+1164,americas,The Americas,2061,83.82
+1165,americas,The Americas,2062,83.95
+1166,americas,The Americas,2063,84.08
+1167,americas,The Americas,2064,84.21
+1168,americas,The Americas,2065,84.34
+1169,americas,The Americas,2066,84.46
+1170,americas,The Americas,2067,84.59
+1171,americas,The Americas,2068,84.71
+1172,americas,The Americas,2069,84.84
+1173,americas,The Americas,2070,84.96
+1174,americas,The Americas,2071,85.08
+1175,americas,The Americas,2072,85.2
+1176,americas,The Americas,2073,85.32
+1177,americas,The Americas,2074,85.44
+1178,americas,The Americas,2075,85.55
+1179,americas,The Americas,2076,85.67
+1180,americas,The Americas,2077,85.79
+1181,americas,The Americas,2078,85.9
+1182,americas,The Americas,2079,86.02
+1183,americas,The Americas,2080,86.13
+1184,americas,The Americas,2081,86.25
+1185,americas,The Americas,2082,86.36
+1186,americas,The Americas,2083,86.47
+1187,americas,The Americas,2084,86.59
+1188,americas,The Americas,2085,86.7
+1189,americas,The Americas,2086,86.81
+1190,americas,The Americas,2087,86.92
+1191,americas,The Americas,2088,87.03
+1192,americas,The Americas,2089,87.14
+1193,americas,The Americas,2090,87.25
+1194,americas,The Americas,2091,87.36
+1195,americas,The Americas,2092,87.47
+1196,americas,The Americas,2093,87.58
+1197,americas,The Americas,2094,87.69
+1198,americas,The Americas,2095,87.8
+1199,americas,The Americas,2096,87.91
+1200,americas,The Americas,2097,88.02
+1201,americas,The Americas,2098,88.12
+1202,americas,The Americas,2099,88.23
+1203,americas,The Americas,2100,88.34
