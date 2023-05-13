@@ -196,3 +196,9 @@ co2_terr,CO2 Emissions total (Territorial),"[geo:country,time:time]","{timeInCol
 carbonfp_pcap,National carbon footprint,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1TQXa62vo3WKM499neWOQAPsyyPuzwn-CMnUDFCA8Dgo-data-for-countries-etc-by-year
 cemission_cap,Global Carbon Project,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1TQXa62vo3WKM499neWOQAPsyyPuzwn-CMnUDFCA8Dgo-data-for-countries-etc-by-year
 gdp_pcap,Income per person,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QRBztI6iSaGt9VUG9FuVVRCkeNsAxiqOGJ3Sr_gwh54-data-for-countries-etc-by-year
+lex,Life expectancy,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RheSon1-q4vFc3AGyupVPH6ptEByE-VtnjOCselU0PE-data-for-countries-etc-by-year
+lex,Life expectancy,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RheSon1-q4vFc3AGyupVPH6ptEByE-VtnjOCselU0PE-data-for-regions-by-year
+lex,Life expectancy,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RheSon1-q4vFc3AGyupVPH6ptEByE-VtnjOCselU0PE-data-for-world-by-year
+pop,Population,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c1luQNdpH90tNbMIeU7jD__59wQ0bdIGRFpbMm8ZBTk-data-for-countries-etc-by-year
+pop,Population,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c1luQNdpH90tNbMIeU7jD__59wQ0bdIGRFpbMm8ZBTk-data-for-regions-by-year
+pop,Population,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c1luQNdpH90tNbMIeU7jD__59wQ0bdIGRFpbMm8ZBTk-data-for-world-by-year
