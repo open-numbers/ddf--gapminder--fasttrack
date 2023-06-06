@@ -121,6 +121,8 @@ refas_prc_undesa,Refugees and asylum seekers (% of migrant stock) (UNDESA),"[geo
 ilevels4,Income levels (GM),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1F4V12IJUAXFq3lgrtN92IWQrxmV4DnXlQAJhBItkyII-data-for-countries-etc-by-year
 int_refg_in,International refugees by asylum,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qpZ1zw7wO6m3edFDY0bgZNrsOcd2nHUNUuKxT4GSRE-data-for-countries-etc-by-year
 int_refg_in_prc,International refugees (% of population ),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qpZ1zw7wO6m3edFDY0bgZNrsOcd2nHUNUuKxT4GSRE-data-for-countries-etc-by-year
+int_refg_origin,International refugees by origin,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qpZ1zw7wO6m3edFDY0bgZNrsOcd2nHUNUuKxT4GSRE-data-for-countries-etc-by-year
+int_refg_origin_prc,International refugees by origin (% of population ),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qpZ1zw7wO6m3edFDY0bgZNrsOcd2nHUNUuKxT4GSRE-data-for-countries-etc-by-year
 unhcr_refg_in,UNHCR refugees by country of residence,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
 as_in,Asylum-seekers by country of residence,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
 unhcr_refg_from,UNHCR refugees by country of origin,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1c8gMXcTMGcWkanogAyQ4pzwtXGD1cjPzZmyeFw1smlk-data-for-countries-etc-by-year
