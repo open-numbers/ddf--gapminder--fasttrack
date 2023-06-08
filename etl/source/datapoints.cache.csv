@@ -51,8 +51,8 @@ civlibx_eiu,Civil liberties index (EIU),"[geo:country,time:time]","{timeInColumn
 c_demox_eiu,Change in democracy index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
 u5pop,Under-five population,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1-5qutEU2Fxg4t5Cx37Y1gpgOShTz-Adt5rEg1U31-S4-data-for-countries-etc-by-year
 u5stunted_prc,Stunting prevalence,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1GqwGgOnd4jMPn2cQfqOFFIVqvBoLVx9X9OsZZK-Fwq8-data-for-countries-etc-by-year
-ilevels3_wb,3 income groups (WB),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1X6NenlJpv4aP2ApFGVmtiUdMCnqOcimpVelW5KcNgg4-data-for-countries-etc-by-year
-ilevels4_wb,4 income groups (WB),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1X6NenlJpv4aP2ApFGVmtiUdMCnqOcimpVelW5KcNgg4-data-for-countries-etc-by-year
+ilevels4_wb,4 income groups (WB),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1HulXQ3x0qFh5EPiTHcf_kpL-c8n65UVE_czBUHG-SuE-data-for-countries-etc-by-year
+ilevels3_wb,3 income groups (WB),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1HulXQ3x0qFh5EPiTHcf_kpL-c8n65UVE_czBUHG-SuE-data-for-countries-etc-by-year
 vccine_imptn_dag,"Vaccine importance, disagree (%)","[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1_EN4eAOS7zugaxQeEVYYVwFy3iFcBqzp5J6vvEGxJfI-data-for-countries-etc-by-year
 vccin_sfty_dag,"Vaccine safety, disagree (%)","[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1_EN4eAOS7zugaxQeEVYYVwFy3iFcBqzp5J6vvEGxJfI-data-for-countries-etc-by-year
 vccin_effect_dag,"Vaccine effectiveness, disagree (%)","[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1_EN4eAOS7zugaxQeEVYYVwFy3iFcBqzp5J6vvEGxJfI-data-for-countries-etc-by-year
