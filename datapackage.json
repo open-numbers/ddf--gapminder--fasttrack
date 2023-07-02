@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2023-06-08T13:39:32.793215+00:00",
+    "created": "2023-07-02T23:17:46.881469+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -2186,6 +2186,90 @@
                 ],
                 "primaryKey": [
                     "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--journakilled--by--world_4region--time",
+            "path": "ddf--datapoints--journakilled--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journakilled"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--journaprison--by--country--time",
+            "path": "ddf--datapoints--journaprison--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journaprison"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--journaprison--by--global--time",
+            "path": "ddf--datapoints--journaprison--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journaprison"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--journaprison--by--world_4region--time",
+            "path": "ddf--datapoints--journaprison--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journaprison"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
                     "time"
                 ]
             }
@@ -7902,7 +7986,8 @@
                 "value": "journakilled",
                 "resources": [
                     "ddf--datapoints--journakilled--by--country--time",
-                    "ddf--datapoints--journakilled--by--global--time"
+                    "ddf--datapoints--journakilled--by--global--time",
+                    "ddf--datapoints--journakilled--by--world_4region--time"
                 ]
             },
             {
@@ -7913,6 +7998,58 @@
                 "value": "journakilled",
                 "resources": [
                     "ddf--datapoints--journakilled--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "journakilled",
+                "resources": [
+                    "ddf--datapoints--journakilled--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "journaprison",
+                "resources": [
+                    "ddf--datapoints--journaprison--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "journaprison",
+                "resources": [
+                    "ddf--datapoints--journaprison--by--country--time",
+                    "ddf--datapoints--journaprison--by--global--time",
+                    "ddf--datapoints--journaprison--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "journaprison",
+                "resources": [
+                    "ddf--datapoints--journaprison--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "journaprison",
+                "resources": [
+                    "ddf--datapoints--journaprison--by--world_4region--time"
                 ]
             },
             {
