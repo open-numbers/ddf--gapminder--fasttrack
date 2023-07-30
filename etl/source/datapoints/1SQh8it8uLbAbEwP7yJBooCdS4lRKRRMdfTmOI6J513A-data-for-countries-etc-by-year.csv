@@ -10,12 +10,12 @@
 8,afg,Afghanistan,2002,0,0
 9,afg,Afghanistan,2003,0,0
 10,afg,Afghanistan,2004,0,0
-11,afg,Afghanistan,2005,0,1
+11,afg,Afghanistan,2005,0,0
 12,afg,Afghanistan,2006,3,0
-13,afg,Afghanistan,2007,3,1
-14,afg,Afghanistan,2008,2,1
+13,afg,Afghanistan,2007,3,0
+14,afg,Afghanistan,2008,2,0
 15,afg,Afghanistan,2009,3,0
-16,afg,Afghanistan,2010,3,1
+16,afg,Afghanistan,2010,3,0
 17,afg,Afghanistan,2011,2,0
 18,afg,Afghanistan,2012,1,0
 19,afg,Afghanistan,2013,0,0
@@ -27,2258 +27,2258 @@
 25,afg,Afghanistan,2019,2,0
 26,afg,Afghanistan,2020,6,0
 27,afg,Afghanistan,2021,4,0
-28,afg,Afghanistan,2022,0,3
-29,ago,Angola,1992,1,0
-30,ago,Angola,1993,3,0
-31,ago,Angola,1994,1,0
-32,ago,Angola,1995,1,0
-33,ago,Angola,1996,1,0
-34,ago,Angola,1997,0,1
-35,ago,Angola,1998,1,1
-36,ago,Angola,1999,1,1
-37,ago,Angola,2000,0,0
-38,ago,Angola,2001,0,0
-39,ago,Angola,2002,0,0
-40,ago,Angola,2003,0,0
-41,ago,Angola,2004,0,0
-42,ago,Angola,2005,0,0
-43,ago,Angola,2006,0,0
-44,ago,Angola,2007,0,0
-45,ago,Angola,2008,0,0
-46,ago,Angola,2009,0,0
-47,ago,Angola,2010,2,0
-48,are,United Arab Emirates,2015,0,1
-49,arg,Argentina,1993,1,0
-50,arg,Argentina,1994,0,0
-51,arg,Argentina,1995,0,0
-52,arg,Argentina,1996,0,0
-53,arg,Argentina,1997,1,0
-54,arg,Argentina,1998,0,0
-55,arg,Argentina,1999,1,0
-56,arg,Argentina,2000,0,0
-57,arg,Argentina,2001,0,0
-58,arg,Argentina,2002,0,0
-59,arg,Argentina,2003,0,0
-60,arg,Argentina,2004,0,0
-61,arg,Argentina,2005,0,0
-62,arg,Argentina,2006,0,0
-63,arg,Argentina,2007,0,0
-64,arg,Argentina,2008,0,0
-65,arg,Argentina,2009,0,0
-66,arg,Argentina,2010,1,0
-67,arm,Armenia,2002,1,0
-68,arm,Armenia,2006,0,1
-69,arm,Armenia,2007,0,1
-70,arm,Armenia,2008,0,1
-71,aze,Azerbaijan,1992,1,0
-72,aze,Azerbaijan,1993,0,0
-73,aze,Azerbaijan,1994,0,0
-74,aze,Azerbaijan,1995,1,0
-75,aze,Azerbaijan,1996,0,0
-76,aze,Azerbaijan,1997,0,0
-77,aze,Azerbaijan,1998,0,0
-78,aze,Azerbaijan,1999,0,0
-79,aze,Azerbaijan,2000,0,0
-80,aze,Azerbaijan,2001,0,0
-81,aze,Azerbaijan,2002,0,0
-82,aze,Azerbaijan,2003,0,1
-83,aze,Azerbaijan,2004,0,1
-84,aze,Azerbaijan,2005,1,0
-85,aze,Azerbaijan,2006,0,3
-86,aze,Azerbaijan,2007,0,10
-87,aze,Azerbaijan,2008,0,5
-88,aze,Azerbaijan,2009,1,6
-89,aze,Azerbaijan,2010,0,1
-90,aze,Azerbaijan,2011,1,2
-91,aze,Azerbaijan,2012,0,9
-92,aze,Azerbaijan,2013,0,8
-93,aze,Azerbaijan,2014,0,9
-94,aze,Azerbaijan,2015,1,8
-95,aze,Azerbaijan,2016,0,6
-96,aze,Azerbaijan,2017,0,10
-97,aze,Azerbaijan,2018,0,10
-98,aze,Azerbaijan,2019,0,6
-99,aze,Azerbaijan,2020,0,4
-100,aze,Azerbaijan,2021,2,2
-101,aze,Azerbaijan,2022,0,2
-102,bdi,Burundi,1992,0,1
-103,bdi,Burundi,1993,0,0
-104,bdi,Burundi,1994,1,0
-105,bdi,Burundi,1995,2,0
-106,bdi,Burundi,1996,0,1
-107,bdi,Burundi,1997,0,0
-108,bdi,Burundi,1998,0,0
-109,bdi,Burundi,1999,0,0
-110,bdi,Burundi,2000,0,0
-111,bdi,Burundi,2001,0,0
-112,bdi,Burundi,2002,0,0
-113,bdi,Burundi,2003,0,0
-114,bdi,Burundi,2004,0,0
-115,bdi,Burundi,2005,0,0
-116,bdi,Burundi,2006,0,3
-117,bdi,Burundi,2007,0,0
-118,bdi,Burundi,2008,0,1
-119,bdi,Burundi,2009,0,0
-120,bdi,Burundi,2010,0,1
-121,bdi,Burundi,2011,0,1
-122,bdi,Burundi,2012,0,1
-123,bdi,Burundi,2013,0,0
-124,bdi,Burundi,2014,0,0
-125,bdi,Burundi,2015,1,0
-126,bdi,Burundi,2016,0,0
-127,bdi,Burundi,2017,0,0
-128,bdi,Burundi,2018,0,0
-129,bdi,Burundi,2019,0,4
-130,bdi,Burundi,2020,0,4
-131,bdi,Burundi,2021,0,0
-132,bdi,Burundi,2022,0,1
-133,ben,Benin,1993,0,1
-134,ben,Benin,1994,0,0
-135,ben,Benin,1995,0,0
-136,ben,Benin,1996,0,0
-137,ben,Benin,1997,0,0
-138,ben,Benin,1998,0,0
-139,ben,Benin,1999,0,0
-140,ben,Benin,2000,0,0
-141,ben,Benin,2001,0,0
-142,ben,Benin,2002,0,0
-143,ben,Benin,2003,0,0
-144,ben,Benin,2004,0,0
-145,ben,Benin,2005,0,0
-146,ben,Benin,2006,0,0
-147,ben,Benin,2007,0,0
-148,ben,Benin,2008,0,0
-149,ben,Benin,2009,0,0
-150,ben,Benin,2010,0,0
-151,ben,Benin,2011,0,0
-152,ben,Benin,2012,0,0
-153,ben,Benin,2013,0,0
-154,ben,Benin,2014,0,0
-155,ben,Benin,2015,0,0
-156,ben,Benin,2016,0,0
-157,ben,Benin,2017,0,0
-158,ben,Benin,2018,0,0
-159,ben,Benin,2019,0,0
-160,ben,Benin,2020,0,0
-161,ben,Benin,2021,0,2
-162,bfa,Burkina Faso,1998,1,0
-163,bfa,Burkina Faso,1999,0,0
-164,bfa,Burkina Faso,2000,0,0
-165,bfa,Burkina Faso,2001,0,0
-166,bfa,Burkina Faso,2002,0,0
-167,bfa,Burkina Faso,2003,0,0
-168,bfa,Burkina Faso,2004,0,0
-169,bfa,Burkina Faso,2005,0,0
-170,bfa,Burkina Faso,2006,0,0
-171,bfa,Burkina Faso,2007,0,0
-172,bfa,Burkina Faso,2008,0,0
-173,bfa,Burkina Faso,2009,0,0
-174,bfa,Burkina Faso,2010,0,0
-175,bfa,Burkina Faso,2011,0,0
-176,bfa,Burkina Faso,2012,0,1
-177,bfa,Burkina Faso,2013,0,0
-178,bfa,Burkina Faso,2014,0,0
-179,bfa,Burkina Faso,2015,0,0
-180,bfa,Burkina Faso,2016,0,0
-181,bfa,Burkina Faso,2017,0,0
-182,bfa,Burkina Faso,2018,0,0
-183,bfa,Burkina Faso,2019,0,0
-184,bfa,Burkina Faso,2020,0,0
-185,bfa,Burkina Faso,2021,2,0
-186,bgd,Bangladesh,1996,2,0
-187,bgd,Bangladesh,1997,0,0
-188,bgd,Bangladesh,1998,1,0
-189,bgd,Bangladesh,1999,0,0
-190,bgd,Bangladesh,2000,2,0
-191,bgd,Bangladesh,2001,2,1
-192,bgd,Bangladesh,2002,3,1
-193,bgd,Bangladesh,2003,0,1
-194,bgd,Bangladesh,2004,4,1
-195,bgd,Bangladesh,2005,2,0
-196,bgd,Bangladesh,2006,0,1
-197,bgd,Bangladesh,2007,0,3
-198,bgd,Bangladesh,2008,0,1
-199,bgd,Bangladesh,2009,0,0
-200,bgd,Bangladesh,2010,0,1
-201,bgd,Bangladesh,2011,0,0
-202,bgd,Bangladesh,2012,3,0
-203,bgd,Bangladesh,2013,1,1
-204,bgd,Bangladesh,2014,3,3
-205,bgd,Bangladesh,2015,6,4
-206,bgd,Bangladesh,2016,0,2
-207,bgd,Bangladesh,2017,1,4
-208,bgd,Bangladesh,2018,0,0
-209,bgd,Bangladesh,2019,0,0
-210,bgd,Bangladesh,2020,1,6
-211,bgd,Bangladesh,2021,1,1
-212,bgd,Bangladesh,2022,2,0
-213,bgr,Bulgaria,2008,1,0
-214,bgr,Bulgaria,2009,0,0
-215,bgr,Bulgaria,2010,1,0
-216,bgr,Bulgaria,2011,0,0
-217,bgr,Bulgaria,2012,0,0
-218,bgr,Bulgaria,2013,0,0
-219,bgr,Bulgaria,2014,0,0
-220,bgr,Bulgaria,2015,0,0
-221,bgr,Bulgaria,2016,0,0
-222,bgr,Bulgaria,2017,0,0
-223,bgr,Bulgaria,2018,1,0
-224,bhr,Bahrain,2010,0,2
-225,bhr,Bahrain,2011,2,1
-226,bhr,Bahrain,2012,1,1
-227,bhr,Bahrain,2013,0,3
-228,bhr,Bahrain,2014,0,6
-229,bhr,Bahrain,2015,0,5
-230,bhr,Bahrain,2016,0,7
-231,bhr,Bahrain,2017,0,6
-232,bhr,Bahrain,2018,0,6
-233,bhr,Bahrain,2019,0,6
-234,bhr,Bahrain,2020,0,6
-235,bhr,Bahrain,2021,0,6
-236,bhr,Bahrain,2022,0,5
-237,bih,Bosnia and Herzegovina,1992,8,0
-238,bih,Bosnia and Herzegovina,1993,9,0
-239,bih,Bosnia and Herzegovina,1994,7,1
-240,bih,Bosnia and Herzegovina,1995,1,0
-241,blr,Belarus,1994,1,0
-242,blr,Belarus,1995,0,0
-243,blr,Belarus,1996,0,0
-244,blr,Belarus,1997,0,0
-245,blr,Belarus,1998,0,0
-246,blr,Belarus,1999,0,0
-247,blr,Belarus,2000,0,0
-248,blr,Belarus,2001,0,0
-249,blr,Belarus,2002,1,2
-250,blr,Belarus,2003,1,0
-251,blr,Belarus,2004,1,0
-252,blr,Belarus,2005,1,0
-253,blr,Belarus,2006,0,0
-254,blr,Belarus,2007,0,0
-255,blr,Belarus,2008,0,0
-256,blr,Belarus,2009,0,0
-257,blr,Belarus,2010,1,0
-258,blr,Belarus,2011,0,0
-259,blr,Belarus,2012,0,0
-260,blr,Belarus,2013,0,0
-261,blr,Belarus,2014,0,1
-262,blr,Belarus,2015,0,0
-263,blr,Belarus,2016,0,0
-264,blr,Belarus,2017,0,0
-265,blr,Belarus,2018,0,0
-266,blr,Belarus,2019,0,0
-267,blr,Belarus,2020,0,10
-268,blr,Belarus,2021,0,19
-269,blr,Belarus,2022,0,26
-270,bol,Bolivia,2001,1,0
-271,bol,Bolivia,2002,0,0
-272,bol,Bolivia,2003,0,0
-273,bol,Bolivia,2004,0,0
-274,bol,Bolivia,2005,0,0
-275,bol,Bolivia,2006,0,0
-276,bol,Bolivia,2007,0,0
-277,bol,Bolivia,2008,1,0
-278,bol,Bolivia,2009,0,0
-279,bol,Bolivia,2010,0,0
-280,bol,Bolivia,2011,1,0
-281,bra,Brazil,1994,1,0
-282,bra,Brazil,1995,4,0
-283,bra,Brazil,1996,0,0
-284,bra,Brazil,1997,2,0
-285,bra,Brazil,1998,2,0
-286,bra,Brazil,1999,0,0
-287,bra,Brazil,2000,1,0
-288,bra,Brazil,2001,1,0
-289,bra,Brazil,2002,2,0
-290,bra,Brazil,2003,2,0
-291,bra,Brazil,2004,3,0
-292,bra,Brazil,2005,1,0
-293,bra,Brazil,2006,0,0
-294,bra,Brazil,2007,1,0
-295,bra,Brazil,2008,0,0
-296,bra,Brazil,2009,1,0
-297,bra,Brazil,2010,1,0
-298,bra,Brazil,2011,6,0
-299,bra,Brazil,2012,5,0
-300,bra,Brazil,2013,4,0
-301,bra,Brazil,2014,3,0
-302,bra,Brazil,2015,8,0
-303,bra,Brazil,2016,3,0
-304,bra,Brazil,2017,1,0
-305,bra,Brazil,2018,3,1
-306,bra,Brazil,2019,2,0
-307,bra,Brazil,2020,1,0
-308,bra,Brazil,2021,0,1
-309,bra,Brazil,2022,2,0
-310,brb,Barbados,2020,1,0
-311,caf,Central African Republic,1995,0,1
-312,caf,Central African Republic,1996,0,1
-313,caf,Central African Republic,1997,0,0
-314,caf,Central African Republic,1998,0,0
-315,caf,Central African Republic,1999,0,0
-316,caf,Central African Republic,2000,0,0
-317,caf,Central African Republic,2001,0,0
-318,caf,Central African Republic,2002,0,0
-319,caf,Central African Republic,2003,0,0
-320,caf,Central African Republic,2004,0,0
-321,caf,Central African Republic,2005,0,0
-322,caf,Central African Republic,2006,0,0
-323,caf,Central African Republic,2007,0,0
-324,caf,Central African Republic,2008,0,0
-325,caf,Central African Republic,2009,0,0
-326,caf,Central African Republic,2010,0,0
-327,caf,Central African Republic,2011,0,0
-328,caf,Central African Republic,2012,0,0
-329,caf,Central African Republic,2013,0,0
-330,caf,Central African Republic,2014,1,0
-331,caf,Central African Republic,2015,0,0
-332,caf,Central African Republic,2016,0,0
-333,caf,Central African Republic,2017,0,0
-334,caf,Central African Republic,2018,3,0
-335,caf,Central African Republic,2019,0,0
-336,caf,Central African Republic,2020,0,0
-337,caf,Central African Republic,2021,0,1
-338,caf,Central African Republic,2022,1,0
-339,can,Canada,1995,1,0
-340,can,Canada,1996,0,0
-341,can,Canada,1997,0,0
-342,can,Canada,1998,1,0
-343,chl,Chile,2022,1,0
-344,chn,China,1992,0,34
-345,chn,China,1993,0,29
-346,chn,China,1994,0,28
-347,chn,China,1995,0,28
-348,chn,China,1996,0,26
-349,chn,China,1997,0,19
-350,chn,China,1998,0,17
-351,chn,China,1999,0,26
-352,chn,China,2000,0,27
-353,chn,China,2001,1,35
-354,chn,China,2002,0,39
-355,chn,China,2003,0,39
-356,chn,China,2004,0,40
-357,chn,China,2005,0,33
-358,chn,China,2006,1,31
-359,chn,China,2007,1,29
-360,chn,China,2008,0,30
-361,chn,China,2009,0,35
-362,chn,China,2010,1,43
-363,chn,China,2011,1,33
-364,chn,China,2012,0,33
-365,chn,China,2013,0,36
-366,chn,China,2014,0,45
-367,chn,China,2015,0,40
-368,chn,China,2016,0,40
-369,chn,China,2017,0,42
-370,chn,China,2018,0,48
-371,chn,China,2019,0,49
-372,chn,China,2020,0,47
-373,chn,China,2021,0,48
-374,chn,China,2022,0,43
-375,civ,Cote d'Ivoire,1996,0,3
-376,civ,Cote d'Ivoire,1997,0,0
-377,civ,Cote d'Ivoire,1998,0,0
-378,civ,Cote d'Ivoire,1999,1,0
-379,civ,Cote d'Ivoire,2000,0,0
-380,civ,Cote d'Ivoire,2001,0,0
-381,civ,Cote d'Ivoire,2002,0,0
-382,civ,Cote d'Ivoire,2003,2,0
-383,civ,Cote d'Ivoire,2004,1,0
-384,civ,Cote d'Ivoire,2005,0,0
-385,civ,Cote d'Ivoire,2006,0,0
-386,civ,Cote d'Ivoire,2007,0,0
-387,civ,Cote d'Ivoire,2008,0,1
-388,civ,Cote d'Ivoire,2009,0,0
-389,civ,Cote d'Ivoire,2010,0,0
-390,civ,Cote d'Ivoire,2011,2,4
-391,cmr,Cameroon,1995,0,1
-392,cmr,Cameroon,1996,0,0
-393,cmr,Cameroon,1997,0,1
-394,cmr,Cameroon,1998,0,1
-395,cmr,Cameroon,1999,0,1
-396,cmr,Cameroon,2000,0,0
-397,cmr,Cameroon,2001,0,0
-398,cmr,Cameroon,2002,0,0
-399,cmr,Cameroon,2003,0,0
-400,cmr,Cameroon,2004,0,1
-401,cmr,Cameroon,2005,0,0
-402,cmr,Cameroon,2006,0,0
-403,cmr,Cameroon,2007,0,0
-404,cmr,Cameroon,2008,0,2
-405,cmr,Cameroon,2009,0,1
-406,cmr,Cameroon,2010,1,0
-407,cmr,Cameroon,2011,0,0
-408,cmr,Cameroon,2012,0,0
-409,cmr,Cameroon,2013,0,0
-410,cmr,Cameroon,2014,0,2
-411,cmr,Cameroon,2015,0,1
-412,cmr,Cameroon,2016,0,2
-413,cmr,Cameroon,2017,0,5
-414,cmr,Cameroon,2018,0,8
-415,cmr,Cameroon,2019,1,7
-416,cmr,Cameroon,2020,0,9
-417,cmr,Cameroon,2021,0,6
-418,cmr,Cameroon,2022,0,5
-419,cod,"Congo, Dem. Rep.",1994,2,0
-420,cod,"Congo, Dem. Rep.",1995,0,3
-421,cod,"Congo, Dem. Rep.",1996,0,2
-422,cod,"Congo, Dem. Rep.",1997,0,0
-423,cod,"Congo, Dem. Rep.",1998,0,2
-424,cod,"Congo, Dem. Rep.",1999,0,2
-425,cod,"Congo, Dem. Rep.",2000,0,3
-426,cod,"Congo, Dem. Rep.",2001,0,0
-427,cod,"Congo, Dem. Rep.",2002,0,1
-428,cod,"Congo, Dem. Rep.",2003,0,0
-429,cod,"Congo, Dem. Rep.",2004,0,0
-430,cod,"Congo, Dem. Rep.",2005,1,1
-431,cod,"Congo, Dem. Rep.",2006,1,1
-432,cod,"Congo, Dem. Rep.",2007,2,0
-433,cod,"Congo, Dem. Rep.",2008,1,2
-434,cod,"Congo, Dem. Rep.",2009,1,0
-435,cod,"Congo, Dem. Rep.",2010,1,0
-436,cod,"Congo, Dem. Rep.",2011,1,0
-437,cod,"Congo, Dem. Rep.",2012,0,3
-438,cod,"Congo, Dem. Rep.",2013,0,1
-439,cod,"Congo, Dem. Rep.",2014,2,1
-440,cod,"Congo, Dem. Rep.",2015,1,1
-441,cod,"Congo, Dem. Rep.",2016,1,0
-442,cod,"Congo, Dem. Rep.",2017,0,5
-443,cod,"Congo, Dem. Rep.",2018,0,2
-444,cod,"Congo, Dem. Rep.",2019,1,1
-445,cod,"Congo, Dem. Rep.",2020,0,0
-446,cod,"Congo, Dem. Rep.",2021,1,1
-447,cod,"Congo, Dem. Rep.",2022,0,2
-448,cog,"Congo, Rep.",1993,1,0
-449,cog,"Congo, Rep.",1994,0,0
-450,cog,"Congo, Rep.",1995,0,0
-451,cog,"Congo, Rep.",1996,0,0
-452,cog,"Congo, Rep.",1997,0,0
-453,cog,"Congo, Rep.",1998,1,0
-454,cog,"Congo, Rep.",1999,0,0
-455,cog,"Congo, Rep.",2000,0,0
-456,cog,"Congo, Rep.",2001,0,0
-457,cog,"Congo, Rep.",2002,0,0
-458,cog,"Congo, Rep.",2003,0,0
-459,cog,"Congo, Rep.",2004,0,0
-460,cog,"Congo, Rep.",2005,0,0
-461,cog,"Congo, Rep.",2006,0,0
-462,cog,"Congo, Rep.",2007,0,0
-463,cog,"Congo, Rep.",2008,0,0
-464,cog,"Congo, Rep.",2009,1,0
-465,cog,"Congo, Rep.",2013,0,1
-466,cog,"Congo, Rep.",2014,0,0
-467,cog,"Congo, Rep.",2015,0,0
-468,cog,"Congo, Rep.",2016,0,0
-469,cog,"Congo, Rep.",2017,0,1
-470,col,Colombia,1992,1,0
-471,col,Colombia,1993,4,0
-472,col,Colombia,1994,2,0
-473,col,Colombia,1995,3,0
-474,col,Colombia,1996,1,0
-475,col,Colombia,1997,5,0
-476,col,Colombia,1998,9,0
-477,col,Colombia,1999,7,0
-478,col,Colombia,2000,7,0
-479,col,Colombia,2001,8,0
-480,col,Colombia,2002,9,0
-481,col,Colombia,2003,6,0
-482,col,Colombia,2004,2,0
-483,col,Colombia,2005,2,0
-484,col,Colombia,2006,3,1
-485,col,Colombia,2007,1,0
-486,col,Colombia,2008,0,0
-487,col,Colombia,2009,3,0
-488,col,Colombia,2010,2,0
-489,col,Colombia,2011,1,0
-490,col,Colombia,2012,2,0
-491,col,Colombia,2013,2,0
-492,col,Colombia,2014,1,0
-493,col,Colombia,2015,3,0
-494,col,Colombia,2016,0,0
-495,col,Colombia,2017,1,0
-496,col,Colombia,2018,3,0
-497,col,Colombia,2019,2,0
-498,col,Colombia,2020,2,0
-499,col,Colombia,2021,1,0
-500,col,Colombia,2022,2,0
-501,com,Comoros,2000,0,1
-502,com,Comoros,2001,0,1
-503,com,Comoros,2002,0,0
-504,com,Comoros,2003,0,0
-505,com,Comoros,2004,0,0
-506,com,Comoros,2005,0,0
-507,com,Comoros,2006,0,0
-508,com,Comoros,2007,0,0
-509,com,Comoros,2008,0,0
-510,com,Comoros,2009,0,0
-511,com,Comoros,2010,0,0
-512,com,Comoros,2011,0,0
-513,com,Comoros,2012,0,0
-514,com,Comoros,2013,0,0
-515,com,Comoros,2014,0,0
-516,com,Comoros,2015,0,0
-517,com,Comoros,2016,0,0
-518,com,Comoros,2017,0,0
-519,com,Comoros,2018,0,0
-520,com,Comoros,2019,0,1
-521,cri,Costa Rica,2001,1,0
-522,cub,Cuba,1992,0,1
-523,cub,Cuba,1993,0,1
-524,cub,Cuba,1994,0,2
-525,cub,Cuba,1995,0,0
-526,cub,Cuba,1996,0,0
-527,cub,Cuba,1997,0,2
-528,cub,Cuba,1998,0,5
-529,cub,Cuba,1999,0,4
-530,cub,Cuba,2000,0,3
-531,cub,Cuba,2001,0,1
-532,cub,Cuba,2002,0,1
-533,cub,Cuba,2003,0,29
-534,cub,Cuba,2004,0,24
-535,cub,Cuba,2005,0,25
-536,cub,Cuba,2006,0,24
-537,cub,Cuba,2007,0,24
-538,cub,Cuba,2008,0,21
-539,cub,Cuba,2009,0,22
-540,cub,Cuba,2010,0,4
-541,cub,Cuba,2011,0,0
-542,cub,Cuba,2012,0,1
-543,cub,Cuba,2013,0,1
-544,cub,Cuba,2014,0,1
-545,cub,Cuba,2015,0,0
-546,cub,Cuba,2016,0,2
-547,cub,Cuba,2017,0,0
-548,cub,Cuba,2018,0,0
-549,cub,Cuba,2019,0,1
-550,cub,Cuba,2020,0,0
-551,cub,Cuba,2021,0,3
-552,cub,Cuba,2022,0,1
-553,cyp,Cyprus,1996,1,0
-554,dnk,Denmark,2017,1,0
-555,dom,Dominican Republic,1995,1,0
-556,dom,Dominican Republic,1996,0,0
-557,dom,Dominican Republic,1997,0,0
-558,dom,Dominican Republic,1998,0,0
-559,dom,Dominican Republic,1999,0,0
-560,dom,Dominican Republic,2000,0,0
-561,dom,Dominican Republic,2001,0,0
-562,dom,Dominican Republic,2002,0,0
-563,dom,Dominican Republic,2003,0,0
-564,dom,Dominican Republic,2004,1,0
-565,dom,Dominican Republic,2005,0,0
-566,dom,Dominican Republic,2006,0,0
-567,dom,Dominican Republic,2007,0,0
-568,dom,Dominican Republic,2008,1,0
-569,dom,Dominican Republic,2009,0,0
-570,dom,Dominican Republic,2010,0,0
-571,dom,Dominican Republic,2011,1,0
-572,dom,Dominican Republic,2012,0,0
-573,dom,Dominican Republic,2013,0,0
-574,dom,Dominican Republic,2014,0,0
-575,dom,Dominican Republic,2015,0,0
-576,dom,Dominican Republic,2016,0,0
-577,dom,Dominican Republic,2017,2,0
-578,dza,Algeria,1992,1,1
-579,dza,Algeria,1993,8,1
-580,dza,Algeria,1994,18,0
-581,dza,Algeria,1995,24,3
-582,dza,Algeria,1996,7,1
-583,dza,Algeria,1997,0,0
-584,dza,Algeria,1998,0,0
-585,dza,Algeria,1999,0,0
-586,dza,Algeria,2000,0,0
-587,dza,Algeria,2001,2,0
-588,dza,Algeria,2002,0,0
-589,dza,Algeria,2003,0,0
-590,dza,Algeria,2004,0,2
-591,dza,Algeria,2005,0,1
-592,dza,Algeria,2006,0,0
-593,dza,Algeria,2007,0,0
-594,dza,Algeria,2008,0,0
-595,dza,Algeria,2009,0,0
-596,dza,Algeria,2010,0,0
-597,dza,Algeria,2011,0,0
-598,dza,Algeria,2012,0,0
-599,dza,Algeria,2013,0,1
-600,dza,Algeria,2014,0,1
-601,dza,Algeria,2015,0,0
-602,dza,Algeria,2016,0,0
-603,dza,Algeria,2017,0,2
-604,dza,Algeria,2018,0,1
-605,dza,Algeria,2019,0,3
-606,dza,Algeria,2020,0,2
-607,dza,Algeria,2021,0,2
-608,dza,Algeria,2022,0,1
-609,ecu,Ecuador,2005,1,0
-610,ecu,Ecuador,2006,1,0
-611,ecu,Ecuador,2007,0,0
-612,ecu,Ecuador,2008,0,1
-613,ecu,Ecuador,2009,0,0
-614,ecu,Ecuador,2010,0,0
-615,ecu,Ecuador,2011,0,0
-616,ecu,Ecuador,2012,1,0
-617,ecu,Ecuador,2013,0,0
-618,ecu,Ecuador,2014,0,0
-619,ecu,Ecuador,2015,0,0
-620,ecu,Ecuador,2016,0,0
-621,ecu,Ecuador,2017,0,1
-622,ecu,Ecuador,2018,0,0
-623,ecu,Ecuador,2019,0,0
-624,ecu,Ecuador,2020,0,0
-625,ecu,Ecuador,2021,0,0
-626,ecu,Ecuador,2022,1,0
-627,egy,Egypt,1992,1,0
-628,egy,Egypt,1993,0,0
-629,egy,Egypt,1994,1,0
-630,egy,Egypt,1995,0,0
-631,egy,Egypt,1996,0,0
-632,egy,Egypt,1997,0,0
-633,egy,Egypt,1998,0,0
-634,egy,Egypt,1999,0,1
-635,egy,Egypt,2000,0,1
-636,egy,Egypt,2001,0,1
-637,egy,Egypt,2002,0,1
-638,egy,Egypt,2003,0,0
-639,egy,Egypt,2004,0,0
-640,egy,Egypt,2005,0,0
-641,egy,Egypt,2006,0,1
-642,egy,Egypt,2007,0,1
-643,egy,Egypt,2008,0,3
-644,egy,Egypt,2009,0,4
-645,egy,Egypt,2010,0,1
-646,egy,Egypt,2011,2,2
-647,egy,Egypt,2012,1,0
-648,egy,Egypt,2013,7,11
-649,egy,Egypt,2014,1,22
-650,egy,Egypt,2015,0,27
-651,egy,Egypt,2016,0,28
-652,egy,Egypt,2017,0,22
-653,egy,Egypt,2018,0,28
-654,egy,Egypt,2019,0,32
-655,egy,Egypt,2020,0,35
-656,egy,Egypt,2021,0,26
-657,egy,Egypt,2022,0,21
-658,eri,Eritrea,1997,0,1
-659,eri,Eritrea,1998,0,1
-660,eri,Eritrea,1999,0,1
-661,eri,Eritrea,2000,0,2
-662,eri,Eritrea,2001,0,17
-663,eri,Eritrea,2002,0,21
-664,eri,Eritrea,2003,0,20
-665,eri,Eritrea,2004,0,20
-666,eri,Eritrea,2005,0,19
-667,eri,Eritrea,2006,0,27
-668,eri,Eritrea,2007,2,18
-669,eri,Eritrea,2008,0,17
-670,eri,Eritrea,2009,0,34
-671,eri,Eritrea,2010,0,33
-672,eri,Eritrea,2011,0,36
-673,eri,Eritrea,2012,0,35
-674,eri,Eritrea,2013,0,26
-675,eri,Eritrea,2014,0,25
-676,eri,Eritrea,2015,0,19
-677,eri,Eritrea,2016,0,19
-678,eri,Eritrea,2017,0,16
-679,eri,Eritrea,2018,0,16
-680,eri,Eritrea,2019,0,16
-681,eri,Eritrea,2020,0,16
-682,eri,Eritrea,2021,0,16
-683,eri,Eritrea,2022,0,16
-684,esp,Spain,2000,1,0
-685,eth,Ethiopia,1993,0,2
-686,eth,Ethiopia,1994,0,6
-687,eth,Ethiopia,1995,0,30
-688,eth,Ethiopia,1996,0,9
-689,eth,Ethiopia,1997,0,13
-690,eth,Ethiopia,1998,2,13
-691,eth,Ethiopia,1999,0,8
-692,eth,Ethiopia,2000,0,7
-693,eth,Ethiopia,2001,0,1
-694,eth,Ethiopia,2002,0,1
-695,eth,Ethiopia,2003,0,1
-696,eth,Ethiopia,2004,0,0
-697,eth,Ethiopia,2005,0,13
-698,eth,Ethiopia,2006,0,18
-699,eth,Ethiopia,2007,0,2
-700,eth,Ethiopia,2008,0,2
-701,eth,Ethiopia,2009,0,4
-702,eth,Ethiopia,2010,0,4
-703,eth,Ethiopia,2011,0,7
-704,eth,Ethiopia,2012,0,6
-705,eth,Ethiopia,2013,0,8
-706,eth,Ethiopia,2014,0,18
-707,eth,Ethiopia,2015,0,10
-708,eth,Ethiopia,2016,0,16
-709,eth,Ethiopia,2017,0,5
-710,eth,Ethiopia,2018,1,0
-711,eth,Ethiopia,2019,0,1
-712,eth,Ethiopia,2020,0,7
-713,eth,Ethiopia,2021,2,13
-714,eth,Ethiopia,2022,0,1
-715,fra,France,2001,1,0
-716,fra,France,2002,0,0
-717,fra,France,2003,0,0
-718,fra,France,2004,0,0
-719,fra,France,2005,0,0
-720,fra,France,2006,0,0
-721,fra,France,2007,0,0
-722,fra,France,2008,0,0
-723,fra,France,2009,0,0
-724,fra,France,2010,0,0
-725,fra,France,2011,0,0
-726,fra,France,2012,0,0
-727,fra,France,2013,0,0
-728,fra,France,2014,0,0
-729,fra,France,2015,9,0
-730,gab,Gabon,1998,0,3
-731,gab,Gabon,2003,1,0
-732,gbr,United Kingdom,1995,1,0
-733,gbr,United Kingdom,1996,0,0
-734,gbr,United Kingdom,1997,0,0
-735,gbr,United Kingdom,1998,0,0
-736,gbr,United Kingdom,1999,1,0
-737,gbr,United Kingdom,2000,0,0
-738,gbr,United Kingdom,2001,1,0
-739,gbr,United Kingdom,2002,0,0
-740,gbr,United Kingdom,2003,0,0
-741,gbr,United Kingdom,2004,0,0
-742,gbr,United Kingdom,2005,0,0
-743,gbr,United Kingdom,2006,0,0
-744,gbr,United Kingdom,2007,0,0
-745,gbr,United Kingdom,2008,0,0
-746,gbr,United Kingdom,2009,0,0
-747,gbr,United Kingdom,2010,0,0
-748,gbr,United Kingdom,2011,0,0
-749,gbr,United Kingdom,2012,0,0
-750,gbr,United Kingdom,2013,0,0
-751,gbr,United Kingdom,2014,0,0
-752,gbr,United Kingdom,2015,0,0
-753,gbr,United Kingdom,2016,0,0
-754,gbr,United Kingdom,2017,0,0
-755,gbr,United Kingdom,2018,0,0
-756,gbr,United Kingdom,2019,1,0
-757,geo,Georgia,1993,3,0
-758,geo,Georgia,1994,0,0
-759,geo,Georgia,1995,0,0
-760,geo,Georgia,1996,0,0
-761,geo,Georgia,1997,0,0
-762,geo,Georgia,1998,1,0
-763,geo,Georgia,1999,0,0
-764,geo,Georgia,2000,1,0
-765,geo,Georgia,2001,1,0
-766,geo,Georgia,2002,0,0
-767,geo,Georgia,2003,0,0
-768,geo,Georgia,2004,0,0
-769,geo,Georgia,2005,0,0
-770,geo,Georgia,2006,0,0
-771,geo,Georgia,2007,0,0
-772,geo,Georgia,2008,3,0
-773,geo,Georgia,2009,0,0
-774,geo,Georgia,2010,0,0
-775,geo,Georgia,2011,0,0
-776,geo,Georgia,2012,0,0
-777,geo,Georgia,2013,0,0
-778,geo,Georgia,2014,0,0
-779,geo,Georgia,2015,0,0
-780,geo,Georgia,2016,0,0
-781,geo,Georgia,2017,0,0
-782,geo,Georgia,2018,0,0
-783,geo,Georgia,2019,0,0
-784,geo,Georgia,2020,0,0
-785,geo,Georgia,2021,1,0
-786,geo,Georgia,2022,0,1
-787,gha,Ghana,1992,0,1
-788,gha,Ghana,2015,1,0
-789,gha,Ghana,2016,0,0
-790,gha,Ghana,2017,0,0
-791,gha,Ghana,2018,0,0
-792,gha,Ghana,2019,1,0
-793,gin,Guinea,2014,3,0
-794,gin,Guinea,2015,0,0
-795,gin,Guinea,2016,1,0
-796,gmb,Gambia,2004,1,0
-797,gmb,Gambia,2005,0,0
-798,gmb,Gambia,2006,0,1
-799,gmb,Gambia,2007,0,1
-800,gmb,Gambia,2008,0,1
-801,gmb,Gambia,2009,1,0
-802,gmb,Gambia,2010,0,0
-803,gmb,Gambia,2011,0,0
-804,gmb,Gambia,2012,0,0
-805,gmb,Gambia,2013,0,0
-806,gmb,Gambia,2014,0,0
-807,gmb,Gambia,2015,0,1
-808,gmb,Gambia,2016,0,2
-809,gnq,Equatorial Guinea,2017,0,1
-810,grc,Greece,2010,1,0
-811,grc,Greece,2011,0,0
-812,grc,Greece,2012,0,0
-813,grc,Greece,2013,0,0
-814,grc,Greece,2014,0,0
-815,grc,Greece,2015,0,0
-816,grc,Greece,2016,0,0
-817,grc,Greece,2017,0,0
-818,grc,Greece,2018,0,0
-819,grc,Greece,2019,0,0
-820,grc,Greece,2020,0,0
-821,grc,Greece,2021,1,0
-822,gtm,Guatemala,1994,1,0
-823,gtm,Guatemala,1995,1,0
-824,gtm,Guatemala,1996,2,0
-825,gtm,Guatemala,1997,3,0
-826,gtm,Guatemala,1998,0,0
-827,gtm,Guatemala,1999,1,0
-828,gtm,Guatemala,2000,1,0
-829,gtm,Guatemala,2001,1,0
-830,gtm,Guatemala,2002,0,0
-831,gtm,Guatemala,2003,1,0
-832,gtm,Guatemala,2004,0,0
-833,gtm,Guatemala,2005,0,0
-834,gtm,Guatemala,2006,1,0
-835,gtm,Guatemala,2007,1,0
-836,gtm,Guatemala,2008,2,0
-837,gtm,Guatemala,2009,2,0
-838,gtm,Guatemala,2010,0,0
-839,gtm,Guatemala,2011,1,0
-840,gtm,Guatemala,2012,0,0
-841,gtm,Guatemala,2013,2,0
-842,gtm,Guatemala,2014,0,0
-843,gtm,Guatemala,2015,2,0
-844,gtm,Guatemala,2016,1,0
-845,gtm,Guatemala,2017,0,1
-846,gtm,Guatemala,2018,1,0
-847,gtm,Guatemala,2019,0,0
-848,gtm,Guatemala,2020,2,0
-849,gtm,Guatemala,2021,0,0
-850,gtm,Guatemala,2022,1,1
-851,hnd,Honduras,1993,1,0
-852,hnd,Honduras,1994,0,0
-853,hnd,Honduras,1995,0,0
-854,hnd,Honduras,1996,0,0
-855,hnd,Honduras,1997,0,0
-856,hnd,Honduras,1998,0,0
-857,hnd,Honduras,1999,0,0
-858,hnd,Honduras,2000,0,0
-859,hnd,Honduras,2001,0,0
-860,hnd,Honduras,2002,0,0
-861,hnd,Honduras,2003,1,0
-862,hnd,Honduras,2004,0,0
-863,hnd,Honduras,2005,0,0
-864,hnd,Honduras,2006,0,0
-865,hnd,Honduras,2007,1,0
-866,hnd,Honduras,2008,0,0
-867,hnd,Honduras,2009,2,0
-868,hnd,Honduras,2010,9,0
-869,hnd,Honduras,2011,4,0
-870,hnd,Honduras,2012,1,0
-871,hnd,Honduras,2013,2,0
-872,hnd,Honduras,2014,2,0
-873,hnd,Honduras,2015,0,0
-874,hnd,Honduras,2016,0,0
-875,hnd,Honduras,2017,4,0
-876,hnd,Honduras,2018,0,0
-877,hnd,Honduras,2019,4,1
-878,hnd,Honduras,2020,4,0
-879,hnd,Honduras,2021,0,0
-880,hnd,Honduras,2022,2,0
-881,hrv,Croatia,1992,1,0
-882,hrv,Croatia,1993,0,0
-883,hrv,Croatia,1994,0,0
-884,hrv,Croatia,1995,1,0
-885,hrv,Croatia,1996,0,0
-886,hrv,Croatia,1997,0,0
-887,hrv,Croatia,1998,0,0
-888,hrv,Croatia,1999,0,0
-889,hrv,Croatia,2000,0,0
-890,hrv,Croatia,2001,0,0
-891,hrv,Croatia,2002,0,0
-892,hrv,Croatia,2003,0,0
-893,hrv,Croatia,2004,0,0
-894,hrv,Croatia,2005,0,0
-895,hrv,Croatia,2006,0,0
-896,hrv,Croatia,2007,0,0
-897,hrv,Croatia,2008,2,0
-898,hti,Haiti,1992,1,0
-899,hti,Haiti,1993,0,0
-900,hti,Haiti,1994,0,0
-901,hti,Haiti,1995,0,0
-902,hti,Haiti,1996,0,0
-903,hti,Haiti,1997,0,0
-904,hti,Haiti,1998,0,0
-905,hti,Haiti,1999,0,0
-906,hti,Haiti,2000,2,0
-907,hti,Haiti,2001,1,0
-908,hti,Haiti,2002,0,0
-909,hti,Haiti,2003,0,0
-910,hti,Haiti,2004,1,0
-911,hti,Haiti,2005,2,0
-912,hti,Haiti,2006,0,0
-913,hti,Haiti,2007,2,0
-914,hti,Haiti,2008,0,0
-915,hti,Haiti,2009,0,0
-916,hti,Haiti,2010,0,0
-917,hti,Haiti,2011,0,0
-918,hti,Haiti,2012,0,0
-919,hti,Haiti,2013,0,0
-920,hti,Haiti,2014,0,0
-921,hti,Haiti,2015,0,0
-922,hti,Haiti,2016,0,0
-923,hti,Haiti,2017,0,0
-924,hti,Haiti,2018,0,0
-925,hti,Haiti,2019,2,0
-926,hti,Haiti,2020,0,0
-927,hti,Haiti,2021,1,0
-928,hti,Haiti,2022,7,0
-929,idn,Indonesia,1992,0,2
-930,idn,Indonesia,1993,0,1
-931,idn,Indonesia,1994,0,1
-932,idn,Indonesia,1995,0,4
-933,idn,Indonesia,1996,1,4
-934,idn,Indonesia,1997,2,2
-935,idn,Indonesia,1998,0,0
-936,idn,Indonesia,1999,0,0
-937,idn,Indonesia,2000,0,0
-938,idn,Indonesia,2001,0,0
-939,idn,Indonesia,2002,0,1
-940,idn,Indonesia,2003,2,0
-941,idn,Indonesia,2004,0,0
-942,idn,Indonesia,2005,0,0
-943,idn,Indonesia,2006,1,0
-944,idn,Indonesia,2007,0,0
-945,idn,Indonesia,2008,0,0
-946,idn,Indonesia,2009,1,0
-947,idn,Indonesia,2010,3,1
-948,idn,Indonesia,2011,0,0
-949,idn,Indonesia,2012,1,0
-950,idn,Indonesia,2013,0,0
-951,idn,Indonesia,2014,0,0
-952,idn,Indonesia,2015,0,0
-953,idn,Indonesia,2016,0,0
-954,idn,Indonesia,2017,0,0
-955,idn,Indonesia,2018,1,0
-956,idn,Indonesia,2019,0,0
-957,idn,Indonesia,2020,0,0
-958,idn,Indonesia,2021,1,0
-959,ind,India,1992,3,1
-960,ind,India,1993,2,0
-961,ind,India,1994,1,1
-962,ind,India,1995,1,0
-963,ind,India,1996,2,0
-964,ind,India,1997,7,0
-965,ind,India,1998,0,0
-966,ind,India,1999,3,0
-967,ind,India,2000,4,0
-968,ind,India,2001,1,0
-969,ind,India,2002,3,1
-970,ind,India,2003,3,0
-971,ind,India,2004,3,0
-972,ind,India,2005,0,0
-973,ind,India,2006,2,0
-974,ind,India,2007,3,0
-975,ind,India,2008,5,0
-976,ind,India,2009,1,1
-977,ind,India,2010,3,0
-978,ind,India,2011,2,2
-979,ind,India,2012,4,3
-980,ind,India,2013,6,1
-981,ind,India,2014,2,1
-982,ind,India,2015,4,4
-983,ind,India,2016,5,1
-984,ind,India,2017,5,2
-985,ind,India,2018,5,1
-986,ind,India,2019,1,2
-987,ind,India,2020,2,4
-988,ind,India,2021,5,7
-989,ind,India,2022,2,7
-990,irl,Ireland,1996,1,0
-991,irn,Iran,1992,0,3
-992,irn,Iran,1993,0,3
-993,irn,Iran,1994,0,2
-994,irn,Iran,1995,0,2
-995,irn,Iran,1996,0,2
-996,irn,Iran,1997,1,2
-997,irn,Iran,1998,1,0
-998,irn,Iran,1999,0,2
-999,irn,Iran,2000,0,6
-1000,irn,Iran,2001,0,5
-1001,irn,Iran,2002,0,2
-1002,irn,Iran,2003,1,3
-1003,irn,Iran,2004,0,1
-1004,irn,Iran,2005,0,2
-1005,irn,Iran,2006,0,2
-1006,irn,Iran,2007,0,12
-1007,irn,Iran,2008,0,6
-1008,irn,Iran,2009,1,28
-1009,irn,Iran,2010,0,35
-1010,irn,Iran,2011,0,46
-1011,irn,Iran,2012,1,47
-1012,irn,Iran,2013,0,34
-1013,irn,Iran,2014,0,30
-1014,irn,Iran,2015,0,19
-1015,irn,Iran,2016,0,8
-1016,irn,Iran,2017,0,4
-1017,irn,Iran,2018,0,10
-1018,irn,Iran,2019,0,12
-1019,irn,Iran,2020,1,13
-1020,irn,Iran,2021,0,11
-1021,irn,Iran,2022,0,62
-1022,irq,Iraq,1992,0,1
-1023,irq,Iraq,1993,0,1
-1024,irq,Iraq,1994,1,2
-1025,irq,Iraq,1995,0,1
-1026,irq,Iraq,1996,0,1
-1027,irq,Iraq,1997,0,1
-1028,irq,Iraq,1998,0,1
-1029,irq,Iraq,1999,0,0
-1030,irq,Iraq,2000,0,0
-1031,irq,Iraq,2001,0,0
-1032,irq,Iraq,2002,0,0
-1033,irq,Iraq,2003,21,0
-1034,irq,Iraq,2004,38,0
-1035,irq,Iraq,2005,27,4
-1036,irq,Iraq,2006,56,1
-1037,irq,Iraq,2007,51,2
-1038,irq,Iraq,2008,16,1
-1039,irq,Iraq,2009,4,0
-1040,irq,Iraq,2010,9,1
-1041,irq,Iraq,2011,7,1
-1042,irq,Iraq,2012,3,1
-1043,irq,Iraq,2013,12,0
-1044,irq,Iraq,2014,6,0
-1045,irq,Iraq,2015,6,0
-1046,irq,Iraq,2016,11,0
-1047,irq,Iraq,2017,10,1
-1048,irq,Iraq,2018,0,0
-1049,irq,Iraq,2019,2,1
-1050,irq,Iraq,2020,3,3
-1051,irq,Iraq,2021,0,4
-1052,irq,Iraq,2022,0,3
-1053,ita,Italy,2012,0,1
-1054,ita,Italy,2013,0,1
-1055,jor,Jordan,2013,0,2
-1056,jor,Jordan,2014,0,0
-1057,jor,Jordan,2015,0,0
-1058,jor,Jordan,2016,0,0
-1059,jor,Jordan,2017,0,0
-1060,jor,Jordan,2018,0,0
-1061,jor,Jordan,2019,0,0
-1062,jor,Jordan,2020,0,1
-1063,jor,Jordan,2021,0,1
-1064,jor,Jordan,2022,0,1
-1065,jpn,Japan,2003,1,0
-1066,kaz,Kazakhstan,2002,0,1
-1067,kaz,Kazakhstan,2003,0,1
-1068,kaz,Kazakhstan,2004,1,0
-1069,kaz,Kazakhstan,2005,0,0
-1070,kaz,Kazakhstan,2006,0,0
-1071,kaz,Kazakhstan,2007,1,0
-1072,kaz,Kazakhstan,2008,0,0
-1073,kaz,Kazakhstan,2009,1,1
-1074,kaz,Kazakhstan,2010,0,1
-1075,kaz,Kazakhstan,2011,0,1
-1076,kaz,Kazakhstan,2012,0,0
-1077,kaz,Kazakhstan,2013,0,0
-1078,kaz,Kazakhstan,2014,0,0
-1079,kaz,Kazakhstan,2015,0,0
-1080,kaz,Kazakhstan,2016,0,3
-1081,kaz,Kazakhstan,2017,0,2
-1082,kaz,Kazakhstan,2018,0,0
-1083,kaz,Kazakhstan,2019,0,1
-1084,kaz,Kazakhstan,2020,0,1
-1085,kaz,Kazakhstan,2021,0,1
-1086,kaz,Kazakhstan,2022,1,0
-1087,ken,Kenya,2000,1,0
-1088,ken,Kenya,2001,0,0
-1089,ken,Kenya,2002,0,0
-1090,ken,Kenya,2003,0,0
-1091,ken,Kenya,2004,0,0
-1092,ken,Kenya,2005,0,0
-1093,ken,Kenya,2006,0,0
-1094,ken,Kenya,2007,0,0
-1095,ken,Kenya,2008,1,0
-1096,ken,Kenya,2009,1,0
-1097,ken,Kenya,2010,0,0
-1098,ken,Kenya,2011,0,0
-1099,ken,Kenya,2012,0,0
-1100,ken,Kenya,2013,1,0
-1101,ken,Kenya,2014,0,0
-1102,ken,Kenya,2015,1,0
-1103,ken,Kenya,2016,0,0
-1104,ken,Kenya,2017,0,0
-1105,ken,Kenya,2018,0,0
-1106,ken,Kenya,2019,0,0
-1107,ken,Kenya,2020,0,0
-1108,ken,Kenya,2021,0,0
-1109,ken,Kenya,2022,1,0
-1110,kgz,Kyrgyz Republic,2003,1,0
-1111,kgz,Kyrgyz Republic,2004,0,0
-1112,kgz,Kyrgyz Republic,2005,0,0
-1113,kgz,Kyrgyz Republic,2006,0,0
-1114,kgz,Kyrgyz Republic,2007,1,0
-1115,kgz,Kyrgyz Republic,2010,0,2
-1116,kgz,Kyrgyz Republic,2011,0,1
-1117,kgz,Kyrgyz Republic,2012,0,1
-1118,kgz,Kyrgyz Republic,2013,0,1
-1119,kgz,Kyrgyz Republic,2014,0,1
-1120,kgz,Kyrgyz Republic,2015,0,1
-1121,kgz,Kyrgyz Republic,2016,0,1
-1122,kgz,Kyrgyz Republic,2017,0,1
-1123,kgz,Kyrgyz Republic,2018,0,1
-1124,kgz,Kyrgyz Republic,2019,0,1
-1125,khm,Cambodia,1994,3,0
-1126,khm,Cambodia,1995,0,0
-1127,khm,Cambodia,1996,1,0
-1128,khm,Cambodia,1997,3,0
-1129,khm,Cambodia,1998,0,0
-1130,khm,Cambodia,1999,0,0
-1131,khm,Cambodia,2000,0,0
-1132,khm,Cambodia,2001,0,0
-1133,khm,Cambodia,2002,0,0
-1134,khm,Cambodia,2003,1,0
-1135,khm,Cambodia,2004,0,0
-1136,khm,Cambodia,2005,0,1
-1137,khm,Cambodia,2006,0,1
-1138,khm,Cambodia,2007,0,1
-1139,khm,Cambodia,2008,1,0
-1140,khm,Cambodia,2009,0,1
-1141,khm,Cambodia,2010,0,0
-1142,khm,Cambodia,2011,0,0
-1143,khm,Cambodia,2012,1,1
-1144,khm,Cambodia,2013,0,0
-1145,khm,Cambodia,2014,2,0
-1146,khm,Cambodia,2015,0,0
-1147,khm,Cambodia,2016,0,0
-1148,khm,Cambodia,2017,0,2
-1149,khm,Cambodia,2018,0,0
-1150,khm,Cambodia,2019,0,0
-1151,khm,Cambodia,2020,0,2
-1152,khm,Cambodia,2021,0,3
-1153,khm,Cambodia,2022,0,2
-1154,kor,South Korea,1992,0,1
-1155,kor,South Korea,1993,0,2
-1156,kor,South Korea,1994,0,1
-1157,kor,South Korea,1995,0,0
-1158,kor,South Korea,1996,0,0
-1159,kor,South Korea,1997,0,0
-1160,kor,South Korea,1998,0,2
-1161,kor,South Korea,1999,0,1
-1162,kor,South Korea,2000,0,0
-1163,kor,South Korea,2001,0,3
-1164,kwt,Kuwait,1992,0,18
-1165,kwt,Kuwait,1993,0,18
-1166,kwt,Kuwait,1994,0,18
-1167,kwt,Kuwait,1995,0,18
-1168,kwt,Kuwait,1996,0,15
-1169,kwt,Kuwait,1997,0,8
-1170,kwt,Kuwait,1998,0,5
-1171,kwt,Kuwait,1999,0,2
-1172,kwt,Kuwait,2000,0,2
-1173,kwt,Kuwait,2001,1,2
-1174,kwt,Kuwait,2002,0,2
-1175,kwt,Kuwait,2003,0,2
-1176,kwt,Kuwait,2004,0,0
-1177,kwt,Kuwait,2005,0,0
-1178,kwt,Kuwait,2006,0,0
-1179,kwt,Kuwait,2007,0,0
-1180,kwt,Kuwait,2008,0,0
-1181,kwt,Kuwait,2009,0,0
-1182,kwt,Kuwait,2010,0,1
-1183,kwt,Kuwait,2011,0,0
-1184,kwt,Kuwait,2012,0,0
-1185,kwt,Kuwait,2013,0,1
-1186,kwt,Kuwait,2014,0,1
-1187,kwt,Kuwait,2015,0,1
-1188,lbn,Lebanon,1992,2,0
-1189,lbn,Lebanon,1993,1,0
-1190,lbn,Lebanon,1994,0,0
-1191,lbn,Lebanon,1995,0,0
-1192,lbn,Lebanon,1996,0,0
-1193,lbn,Lebanon,1997,0,0
-1194,lbn,Lebanon,1998,0,0
-1195,lbn,Lebanon,1999,1,1
-1196,lbn,Lebanon,2000,0,0
-1197,lbn,Lebanon,2001,0,0
-1198,lbn,Lebanon,2002,0,0
-1199,lbn,Lebanon,2003,0,0
-1200,lbn,Lebanon,2004,0,0
-1201,lbn,Lebanon,2005,2,0
-1202,lbn,Lebanon,2006,2,0
-1203,lbn,Lebanon,2007,0,0
-1204,lbn,Lebanon,2008,0,0
-1205,lbn,Lebanon,2009,0,0
-1206,lbn,Lebanon,2010,1,0
-1207,lbn,Lebanon,2011,0,0
-1208,lbn,Lebanon,2012,1,0
-1209,lbn,Lebanon,2013,0,0
-1210,lbn,Lebanon,2014,0,0
-1211,lbn,Lebanon,2015,0,0
-1212,lbn,Lebanon,2016,0,0
-1213,lbn,Lebanon,2017,0,0
-1214,lbn,Lebanon,2018,0,1
-1215,lbn,Lebanon,2019,0,0
-1216,lbn,Lebanon,2020,0,0
-1217,lbn,Lebanon,2021,1,0
-1218,lbr,Liberia,2020,1,0
-1219,lby,Libya,2005,1,1
-1220,lby,Libya,2006,0,0
-1221,lby,Libya,2007,0,0
-1222,lby,Libya,2008,0,0
-1223,lby,Libya,2009,0,0
-1224,lby,Libya,2010,0,0
-1225,lby,Libya,2011,6,1
-1226,lby,Libya,2012,0,0
-1227,lby,Libya,2013,1,0
-1228,lby,Libya,2014,1,0
-1229,lby,Libya,2015,1,0
-1230,lby,Libya,2016,3,0
-1231,lby,Libya,2017,0,0
-1232,lby,Libya,2018,1,0
-1233,lby,Libya,2019,1,0
-1234,lka,Sri Lanka,1999,5,0
-1235,lka,Sri Lanka,2000,1,0
-1236,lka,Sri Lanka,2001,0,0
-1237,lka,Sri Lanka,2002,0,0
-1238,lka,Sri Lanka,2003,0,0
-1239,lka,Sri Lanka,2004,3,0
-1240,lka,Sri Lanka,2005,2,0
-1241,lka,Sri Lanka,2006,3,1
-1242,lka,Sri Lanka,2007,6,0
-1243,lka,Sri Lanka,2008,2,3
-1244,lka,Sri Lanka,2009,3,1
-1245,lka,Sri Lanka,2010,0,0
-1246,lka,Sri Lanka,2011,0,0
-1247,lka,Sri Lanka,2012,0,0
-1248,lka,Sri Lanka,2013,0,0
-1249,lka,Sri Lanka,2014,0,0
-1250,lka,Sri Lanka,2015,0,0
-1251,lka,Sri Lanka,2016,0,0
-1252,lka,Sri Lanka,2017,0,0
-1253,lka,Sri Lanka,2018,0,0
-1254,lka,Sri Lanka,2019,0,0
-1255,lka,Sri Lanka,2020,0,0
-1256,lka,Sri Lanka,2021,0,1
-1257,ltu,Lithuania,1993,1,0
-1258,lva,Latvia,2001,1,0
-1259,mar,Morocco,2001,0,1
-1260,mar,Morocco,2002,0,0
-1261,mar,Morocco,2003,0,2
-1262,mar,Morocco,2004,0,1
-1263,mar,Morocco,2005,0,1
-1264,mar,Morocco,2006,0,0
-1265,mar,Morocco,2007,0,0
-1266,mar,Morocco,2008,0,0
-1267,mar,Morocco,2009,0,1
-1268,mar,Morocco,2010,0,0
-1269,mar,Morocco,2011,0,2
-1270,mar,Morocco,2012,0,2
-1271,mar,Morocco,2013,0,1
-1272,mar,Morocco,2014,0,1
-1273,mar,Morocco,2015,0,1
-1274,mar,Morocco,2016,0,0
-1275,mar,Morocco,2017,0,4
-1276,mar,Morocco,2018,0,4
-1277,mar,Morocco,2019,0,4
-1278,mar,Morocco,2020,0,4
-1279,mar,Morocco,2021,0,3
-1280,mar,Morocco,2022,0,3
-1281,mda,Moldova,2010,0,1
-1282,mdg,Madagascar,1994,1,0
-1283,mdg,Madagascar,1995,0,0
-1284,mdg,Madagascar,1996,0,0
-1285,mdg,Madagascar,1997,0,0
-1286,mdg,Madagascar,1998,0,0
-1287,mdg,Madagascar,1999,0,0
-1288,mdg,Madagascar,2000,0,0
-1289,mdg,Madagascar,2001,0,0
-1290,mdg,Madagascar,2002,0,0
-1291,mdg,Madagascar,2003,0,0
-1292,mdg,Madagascar,2004,0,0
-1293,mdg,Madagascar,2005,0,0
-1294,mdg,Madagascar,2006,0,0
-1295,mdg,Madagascar,2007,0,0
-1296,mdg,Madagascar,2008,0,0
-1297,mdg,Madagascar,2009,1,0
-1298,mdv,Maldives,1992,0,3
-1299,mdv,Maldives,1993,0,0
-1300,mdv,Maldives,1994,0,1
-1301,mdv,Maldives,1995,0,0
-1302,mdv,Maldives,1996,0,0
-1303,mdv,Maldives,1997,0,0
-1304,mdv,Maldives,1998,0,0
-1305,mdv,Maldives,1999,0,0
-1306,mdv,Maldives,2000,0,0
-1307,mdv,Maldives,2001,0,0
-1308,mdv,Maldives,2002,0,3
-1309,mdv,Maldives,2003,0,2
-1310,mdv,Maldives,2004,0,2
-1311,mdv,Maldives,2005,0,3
-1312,mdv,Maldives,2006,0,1
-1313,mdv,Maldives,2007,0,1
-1314,mdv,Maldives,2008,0,1
-1315,mdv,Maldives,2014,1,0
-1316,mdv,Maldives,2015,0,0
-1317,mdv,Maldives,2016,0,0
-1318,mdv,Maldives,2017,1,0
-1319,mex,Mexico,1994,3,0
-1320,mex,Mexico,1995,1,0
-1321,mex,Mexico,1996,0,0
-1322,mex,Mexico,1997,3,0
-1323,mex,Mexico,1998,2,0
-1324,mex,Mexico,1999,0,0
-1325,mex,Mexico,2000,2,0
-1326,mex,Mexico,2001,1,0
-1327,mex,Mexico,2002,0,0
-1328,mex,Mexico,2003,0,0
-1329,mex,Mexico,2004,4,0
-1330,mex,Mexico,2005,2,0
-1331,mex,Mexico,2006,7,1
-1332,mex,Mexico,2007,7,0
-1333,mex,Mexico,2008,6,0
-1334,mex,Mexico,2009,8,0
-1335,mex,Mexico,2010,10,0
-1336,mex,Mexico,2011,8,0
-1337,mex,Mexico,2012,6,0
-1338,mex,Mexico,2013,3,0
-1339,mex,Mexico,2014,3,1
-1340,mex,Mexico,2015,5,0
-1341,mex,Mexico,2016,9,0
-1342,mex,Mexico,2017,9,0
-1343,mex,Mexico,2018,10,0
-1344,mex,Mexico,2019,11,0
-1345,mex,Mexico,2020,9,0
-1346,mex,Mexico,2021,9,0
-1347,mex,Mexico,2022,13,0
-1348,mkd,"Macedonia, FYR",2013,0,1
-1349,mkd,"Macedonia, FYR",2014,0,1
-1350,mli,Mali,2013,2,0
-1351,mli,Mali,2020,0,2
-1352,mlt,Malta,2017,1,0
-1353,mmr,Myanmar,1992,0,8
-1354,mmr,Myanmar,1993,0,8
-1355,mmr,Myanmar,1994,0,10
-1356,mmr,Myanmar,1995,0,11
-1357,mmr,Myanmar,1996,0,11
-1358,mmr,Myanmar,1997,0,10
-1359,mmr,Myanmar,1998,0,13
-1360,mmr,Myanmar,1999,2,15
-1361,mmr,Myanmar,2000,0,15
-1362,mmr,Myanmar,2001,0,12
-1363,mmr,Myanmar,2002,0,9
-1364,mmr,Myanmar,2003,0,10
-1365,mmr,Myanmar,2004,0,11
-1366,mmr,Myanmar,2005,0,5
-1367,mmr,Myanmar,2006,0,7
-1368,mmr,Myanmar,2007,1,8
-1369,mmr,Myanmar,2008,0,16
-1370,mmr,Myanmar,2009,0,15
-1371,mmr,Myanmar,2010,0,15
-1372,mmr,Myanmar,2011,0,12
-1373,mmr,Myanmar,2012,0,0
-1374,mmr,Myanmar,2013,0,0
-1375,mmr,Myanmar,2014,1,10
-1376,mmr,Myanmar,2015,0,5
-1377,mmr,Myanmar,2016,1,2
-1378,mmr,Myanmar,2017,1,3
-1379,mmr,Myanmar,2018,0,2
-1380,mmr,Myanmar,2019,0,1
-1381,mmr,Myanmar,2020,0,0
-1382,mmr,Myanmar,2021,2,30
-1383,mmr,Myanmar,2022,2,42
-1384,mne,Montenegro,2004,1,0
-1385,mne,Montenegro,2015,0,1
-1386,mne,Montenegro,2016,0,1
-1387,moz,Mozambique,2000,1,0
-1388,moz,Mozambique,2001,0,0
-1389,moz,Mozambique,2002,0,0
-1390,moz,Mozambique,2003,0,0
-1391,moz,Mozambique,2004,0,0
-1392,moz,Mozambique,2005,0,0
-1393,moz,Mozambique,2006,0,0
-1394,moz,Mozambique,2007,0,0
-1395,moz,Mozambique,2008,0,0
-1396,moz,Mozambique,2009,0,0
-1397,moz,Mozambique,2010,0,0
-1398,moz,Mozambique,2011,0,0
-1399,moz,Mozambique,2012,0,0
-1400,moz,Mozambique,2013,0,0
-1401,moz,Mozambique,2014,0,0
-1402,moz,Mozambique,2015,1,0
-1403,mrt,Mauritania,2009,0,1
-1404,mrt,Mauritania,2010,0,0
-1405,mrt,Mauritania,2011,0,0
-1406,mrt,Mauritania,2012,0,0
-1407,mrt,Mauritania,2013,0,0
-1408,mrt,Mauritania,2014,0,1
-1409,mrt,Mauritania,2015,0,1
-1410,mrt,Mauritania,2016,0,1
-1411,mrt,Mauritania,2017,0,1
-1412,mrt,Mauritania,2018,0,1
-1413,mys,Malaysia,1996,0,1
-1414,mys,Malaysia,1997,0,1
-1415,ner,Niger,2000,0,1
-1416,ner,Niger,2001,0,0
-1417,ner,Niger,2002,0,1
-1418,ner,Niger,2003,0,1
-1419,ner,Niger,2004,0,0
-1420,ner,Niger,2005,0,1
-1421,ner,Niger,2006,0,0
-1422,ner,Niger,2007,0,2
-1423,ner,Niger,2008,0,0
-1424,ner,Niger,2009,0,0
-1425,ner,Niger,2010,0,0
-1426,ner,Niger,2011,0,0
-1427,ner,Niger,2012,0,0
-1428,ner,Niger,2013,0,0
-1429,ner,Niger,2014,0,0
-1430,ner,Niger,2015,0,0
-1431,ner,Niger,2016,0,0
-1432,ner,Niger,2017,0,1
-1433,nga,Nigeria,1995,0,7
-1434,nga,Nigeria,1996,2,5
-1435,nga,Nigeria,1997,0,13
-1436,nga,Nigeria,1998,2,1
-1437,nga,Nigeria,1999,4,0
-1438,nga,Nigeria,2000,0,0
-1439,nga,Nigeria,2001,0,0
-1440,nga,Nigeria,2002,0,0
-1441,nga,Nigeria,2003,0,0
-1442,nga,Nigeria,2004,0,0
-1443,nga,Nigeria,2005,0,1
-1444,nga,Nigeria,2006,1,0
-1445,nga,Nigeria,2007,0,0
-1446,nga,Nigeria,2008,2,0
-1447,nga,Nigeria,2009,1,0
-1448,nga,Nigeria,2010,3,0
-1449,nga,Nigeria,2011,1,0
-1450,nga,Nigeria,2012,2,0
-1451,nga,Nigeria,2013,1,0
-1452,nga,Nigeria,2014,0,0
-1453,nga,Nigeria,2015,0,0
-1454,nga,Nigeria,2016,0,2
-1455,nga,Nigeria,2017,1,1
-1456,nga,Nigeria,2018,0,0
-1457,nga,Nigeria,2019,1,1
-1458,nga,Nigeria,2020,3,0
-1459,nga,Nigeria,2021,0,1
-1460,nga,Nigeria,2022,0,1
-1461,nic,Nicaragua,2004,2,0
-1462,nic,Nicaragua,2005,0,0
-1463,nic,Nicaragua,2006,0,0
-1464,nic,Nicaragua,2007,0,0
-1465,nic,Nicaragua,2008,0,0
-1466,nic,Nicaragua,2009,0,0
-1467,nic,Nicaragua,2010,0,0
-1468,nic,Nicaragua,2011,0,0
-1469,nic,Nicaragua,2012,0,0
-1470,nic,Nicaragua,2013,0,0
-1471,nic,Nicaragua,2014,0,0
-1472,nic,Nicaragua,2015,0,0
-1473,nic,Nicaragua,2016,0,0
-1474,nic,Nicaragua,2017,0,0
-1475,nic,Nicaragua,2018,1,0
-1476,nic,Nicaragua,2021,0,2
-1477,nic,Nicaragua,2022,0,2
-1478,nld,Netherlands,2021,1,0
-1479,npl,Nepal,1999,0,1
-1480,npl,Nepal,2000,1,1
-1481,npl,Nepal,2001,0,8
-1482,npl,Nepal,2002,3,17
-1483,npl,Nepal,2003,2,2
-1484,npl,Nepal,2004,1,3
-1485,npl,Nepal,2005,1,1
-1486,npl,Nepal,2006,0,0
-1487,npl,Nepal,2007,3,0
-1488,npl,Nepal,2008,1,0
-1489,npl,Nepal,2009,1,0
-1490,npl,Nepal,2010,3,0
-1491,npl,Nepal,2011,0,0
-1492,npl,Nepal,2012,1,0
-1493,npl,Nepal,2013,0,0
-1494,npl,Nepal,2014,0,0
-1495,npl,Nepal,2015,0,0
-1496,npl,Nepal,2016,0,0
-1497,npl,Nepal,2017,0,0
-1498,npl,Nepal,2018,0,0
-1499,npl,Nepal,2019,0,0
-1500,npl,Nepal,2020,0,1
-1501,pak,Pakistan,1994,2,0
-1502,pak,Pakistan,1995,0,1
-1503,pak,Pakistan,1996,0,2
-1504,pak,Pakistan,1997,1,0
-1505,pak,Pakistan,1998,1,0
-1506,pak,Pakistan,1999,1,0
-1507,pak,Pakistan,2000,1,0
-1508,pak,Pakistan,2001,1,1
-1509,pak,Pakistan,2002,2,1
-1510,pak,Pakistan,2003,1,1
-1511,pak,Pakistan,2004,1,0
-1512,pak,Pakistan,2005,2,0
-1513,pak,Pakistan,2006,3,0
-1514,pak,Pakistan,2007,5,0
-1515,pak,Pakistan,2008,6,0
-1516,pak,Pakistan,2009,8,0
-1517,pak,Pakistan,2010,11,0
-1518,pak,Pakistan,2011,11,0
-1519,pak,Pakistan,2012,9,0
-1520,pak,Pakistan,2013,8,1
-1521,pak,Pakistan,2014,7,0
-1522,pak,Pakistan,2015,2,0
-1523,pak,Pakistan,2016,3,2
-1524,pak,Pakistan,2017,3,2
-1525,pak,Pakistan,2018,2,1
-1526,pak,Pakistan,2019,2,0
-1527,pak,Pakistan,2020,1,0
-1528,pak,Pakistan,2021,3,0
-1529,pan,Panama,2011,1,0
-1530,pan,Panama,2016,0,1
-1531,per,Peru,1992,3,5
-1532,per,Peru,1993,1,7
-1533,per,Peru,1994,0,9
-1534,per,Peru,1995,0,8
-1535,per,Peru,1996,0,4
-1536,per,Peru,1997,1,4
-1537,per,Peru,1998,2,5
-1538,per,Peru,1999,0,0
-1539,per,Peru,2000,0,0
-1540,per,Peru,2001,0,0
-1541,per,Peru,2002,0,0
-1542,per,Peru,2003,0,0
-1543,per,Peru,2004,2,0
-1544,per,Peru,2005,0,0
-1545,per,Peru,2006,0,0
-1546,per,Peru,2007,1,0
-1547,per,Peru,2008,0,2
-1548,per,Peru,2009,0,0
-1549,per,Peru,2010,0,0
-1550,per,Peru,2011,3,0
-1551,per,Peru,2012,0,0
-1552,per,Peru,2013,1,0
-1553,per,Peru,2014,1,0
-1554,per,Peru,2015,0,0
-1555,per,Peru,2016,1,0
-1556,per,Peru,2017,0,0
-1557,per,Peru,2018,0,0
-1558,per,Peru,2019,1,0
-1559,phl,Philippines,1992,4,0
-1560,phl,Philippines,1993,3,0
-1561,phl,Philippines,1994,0,0
-1562,phl,Philippines,1995,0,0
-1563,phl,Philippines,1996,2,0
-1564,phl,Philippines,1997,1,0
-1565,phl,Philippines,1998,2,0
-1566,phl,Philippines,1999,0,0
-1567,phl,Philippines,2000,2,0
-1568,phl,Philippines,2001,4,0
-1569,phl,Philippines,2002,2,0
-1570,phl,Philippines,2003,6,0
-1571,phl,Philippines,2004,11,0
-1572,phl,Philippines,2005,8,0
-1573,phl,Philippines,2006,8,0
-1574,phl,Philippines,2007,3,1
-1575,phl,Philippines,2008,5,1
-1576,phl,Philippines,2009,38,0
-1577,phl,Philippines,2010,3,0
-1578,phl,Philippines,2011,5,0
-1579,phl,Philippines,2012,5,0
-1580,phl,Philippines,2013,9,0
-1581,phl,Philippines,2014,4,0
-1582,phl,Philippines,2015,7,0
-1583,phl,Philippines,2016,3,0
-1584,phl,Philippines,2017,3,0
-1585,phl,Philippines,2018,4,0
-1586,phl,Philippines,2019,3,0
-1587,phl,Philippines,2020,4,1
-1588,phl,Philippines,2021,3,1
-1589,phl,Philippines,2022,4,1
-1590,png,Papua New Guinea,1992,1,0
-1591,pol,Poland,1992,1,0
-1592,pol,Poland,1993,0,0
-1593,pol,Poland,1994,0,0
-1594,pol,Poland,1995,0,0
-1595,pol,Poland,1996,0,0
-1596,pol,Poland,1997,0,0
-1597,pol,Poland,1998,0,0
-1598,pol,Poland,1999,0,0
-1599,pol,Poland,2000,0,0
-1600,pol,Poland,2001,0,0
-1601,pol,Poland,2002,0,0
-1602,pol,Poland,2003,0,0
-1603,pol,Poland,2004,0,0
-1604,pol,Poland,2005,0,0
-1605,pol,Poland,2006,0,0
-1606,pol,Poland,2007,0,0
-1607,pol,Poland,2008,0,0
-1608,pol,Poland,2009,0,0
-1609,pol,Poland,2010,0,0
-1610,pol,Poland,2011,0,0
-1611,pol,Poland,2012,0,0
-1612,pol,Poland,2013,0,0
-1613,pol,Poland,2014,0,0
-1614,pol,Poland,2015,1,0
-1615,pry,Paraguay,2001,1,0
-1616,pry,Paraguay,2002,0,0
-1617,pry,Paraguay,2003,0,0
-1618,pry,Paraguay,2004,0,0
-1619,pry,Paraguay,2005,0,0
-1620,pry,Paraguay,2006,0,0
-1621,pry,Paraguay,2007,1,0
-1622,pry,Paraguay,2008,0,0
-1623,pry,Paraguay,2009,0,0
-1624,pry,Paraguay,2010,0,0
-1625,pry,Paraguay,2011,1,0
-1626,pry,Paraguay,2012,0,0
-1627,pry,Paraguay,2013,0,0
-1628,pry,Paraguay,2014,3,0
-1629,pry,Paraguay,2015,0,0
-1630,pry,Paraguay,2016,0,0
-1631,pry,Paraguay,2017,1,0
-1632,pry,Paraguay,2018,0,0
-1633,pry,Paraguay,2019,0,0
-1634,pry,Paraguay,2020,1,0
-1635,pry,Paraguay,2021,0,0
-1636,pry,Paraguay,2022,1,0
-1637,rus,Russia,1993,8,0
-1638,rus,Russia,1994,5,1
-1639,rus,Russia,1995,11,0
-1640,rus,Russia,1996,7,0
-1641,rus,Russia,1997,1,1
-1642,rus,Russia,1998,3,2
-1643,rus,Russia,1999,5,0
-1644,rus,Russia,2000,7,0
-1645,rus,Russia,2001,1,0
-1646,rus,Russia,2002,4,1
-1647,rus,Russia,2003,3,0
-1648,rus,Russia,2004,2,0
-1649,rus,Russia,2005,2,0
-1650,rus,Russia,2006,5,2
-1651,rus,Russia,2007,2,3
-1652,rus,Russia,2008,4,2
-1653,rus,Russia,2009,5,1
-1654,rus,Russia,2010,0,1
-1655,rus,Russia,2011,1,0
-1656,rus,Russia,2012,1,0
-1657,rus,Russia,2013,2,2
-1658,rus,Russia,2014,0,1
-1659,rus,Russia,2015,0,2
-1660,rus,Russia,2016,0,3
-1661,rus,Russia,2017,2,5
-1662,rus,Russia,2018,1,5
-1663,rus,Russia,2019,0,7
-1664,rus,Russia,2020,0,10
-1665,rus,Russia,2021,0,14
-1666,rus,Russia,2022,0,19
-1667,rwa,Rwanda,1992,0,1
-1668,rwa,Rwanda,1993,1,1
-1669,rwa,Rwanda,1994,20,0
-1670,rwa,Rwanda,1995,0,0
-1671,rwa,Rwanda,1996,0,0
-1672,rwa,Rwanda,1997,0,0
-1673,rwa,Rwanda,1998,1,0
-1674,rwa,Rwanda,1999,0,0
-1675,rwa,Rwanda,2000,0,0
-1676,rwa,Rwanda,2001,0,0
-1677,rwa,Rwanda,2002,0,0
-1678,rwa,Rwanda,2003,0,0
-1679,rwa,Rwanda,2004,0,0
-1680,rwa,Rwanda,2005,0,1
-1681,rwa,Rwanda,2006,0,0
-1682,rwa,Rwanda,2007,0,1
-1683,rwa,Rwanda,2008,0,0
-1684,rwa,Rwanda,2009,0,0
-1685,rwa,Rwanda,2010,1,2
-1686,rwa,Rwanda,2011,0,2
-1687,rwa,Rwanda,2012,0,3
-1688,rwa,Rwanda,2013,0,1
-1689,rwa,Rwanda,2014,0,0
-1690,rwa,Rwanda,2015,0,0
-1691,rwa,Rwanda,2016,0,0
-1692,rwa,Rwanda,2017,0,0
-1693,rwa,Rwanda,2018,0,4
-1694,rwa,Rwanda,2019,0,4
-1695,rwa,Rwanda,2020,0,5
-1696,rwa,Rwanda,2021,0,7
-1697,rwa,Rwanda,2022,0,4
-1698,sau,Saudi Arabia,2004,1,0
-1699,sau,Saudi Arabia,2005,0,0
-1700,sau,Saudi Arabia,2006,0,0
-1701,sau,Saudi Arabia,2007,0,0
-1702,sau,Saudi Arabia,2008,0,0
-1703,sau,Saudi Arabia,2009,0,1
-1704,sau,Saudi Arabia,2010,0,1
-1705,sau,Saudi Arabia,2011,0,0
-1706,sau,Saudi Arabia,2012,0,7
-1707,sau,Saudi Arabia,2013,0,5
-1708,sau,Saudi Arabia,2014,0,5
-1709,sau,Saudi Arabia,2015,0,6
-1710,sau,Saudi Arabia,2016,0,5
-1711,sau,Saudi Arabia,2017,0,12
-1712,sau,Saudi Arabia,2018,1,18
-1713,sau,Saudi Arabia,2019,0,26
-1714,sau,Saudi Arabia,2020,0,24
-1715,sau,Saudi Arabia,2021,0,14
-1716,sau,Saudi Arabia,2022,0,11
-1717,sdn,Sudan,1992,1,2
-1718,sdn,Sudan,1993,0,1
-1719,sdn,Sudan,1994,0,0
-1720,sdn,Sudan,1995,0,0
-1721,sdn,Sudan,1996,0,2
-1722,sdn,Sudan,1997,0,2
-1723,sdn,Sudan,1998,0,0
-1724,sdn,Sudan,1999,0,0
-1725,sdn,Sudan,2000,0,0
-1726,sdn,Sudan,2001,0,0
-1727,sdn,Sudan,2002,0,0
-1728,sdn,Sudan,2003,0,0
-1729,sdn,Sudan,2004,0,1
-1730,sdn,Sudan,2005,0,0
-1731,sdn,Sudan,2006,1,0
-1732,sdn,Sudan,2007,0,0
-1733,sdn,Sudan,2008,0,0
-1734,sdn,Sudan,2009,0,0
-1735,sdn,Sudan,2010,0,6
-1736,sdn,Sudan,2011,0,4
-1737,sen,Senegal,2008,0,1
-1738,sen,Senegal,2009,0,0
-1739,sen,Senegal,2010,0,0
-1740,sen,Senegal,2011,0,0
-1741,sen,Senegal,2012,0,0
-1742,sen,Senegal,2013,0,0
-1743,sen,Senegal,2014,0,0
-1744,sen,Senegal,2015,0,0
-1745,sen,Senegal,2016,0,0
-1746,sen,Senegal,2017,0,0
-1747,sen,Senegal,2018,0,0
-1748,sen,Senegal,2019,0,0
-1749,sen,Senegal,2020,0,0
-1750,sen,Senegal,2021,0,0
-1751,sen,Senegal,2022,0,1
-1752,sgp,Singapore,2015,0,2
-1753,sgp,Singapore,2016,0,2
-1754,sle,Sierra Leone,1997,1,0
-1755,sle,Sierra Leone,1998,1,11
-1756,sle,Sierra Leone,1999,10,0
-1757,sle,Sierra Leone,2000,3,0
-1758,sle,Sierra Leone,2001,0,0
-1759,sle,Sierra Leone,2002,0,1
-1760,sle,Sierra Leone,2003,0,0
-1761,sle,Sierra Leone,2004,0,1
-1762,sle,Sierra Leone,2005,1,0
-1763,sle,Sierra Leone,2006,0,0
-1764,sle,Sierra Leone,2007,0,0
-1765,sle,Sierra Leone,2008,0,0
-1766,sle,Sierra Leone,2009,0,0
-1767,sle,Sierra Leone,2010,0,0
-1768,sle,Sierra Leone,2011,1,0
-1769,sle,Sierra Leone,2012,0,0
-1770,sle,Sierra Leone,2013,0,0
-1771,sle,Sierra Leone,2014,0,0
-1772,sle,Sierra Leone,2015,0,0
-1773,sle,Sierra Leone,2016,0,0
-1774,sle,Sierra Leone,2017,0,0
-1775,sle,Sierra Leone,2018,1,0
-1776,slv,El Salvador,1993,1,0
-1777,slv,El Salvador,1994,0,0
-1778,slv,El Salvador,1995,0,0
-1779,slv,El Salvador,1996,0,0
-1780,slv,El Salvador,1997,1,0
-1781,slv,El Salvador,1998,0,0
-1782,slv,El Salvador,1999,0,0
-1783,slv,El Salvador,2000,0,0
-1784,slv,El Salvador,2001,0,0
-1785,slv,El Salvador,2002,0,0
-1786,slv,El Salvador,2003,0,0
-1787,slv,El Salvador,2004,0,0
-1788,slv,El Salvador,2005,0,0
-1789,slv,El Salvador,2006,0,0
-1790,slv,El Salvador,2007,1,0
-1791,slv,El Salvador,2008,0,0
-1792,slv,El Salvador,2009,1,0
-1793,slv,El Salvador,2010,0,0
-1794,slv,El Salvador,2011,1,0
-1795,slv,El Salvador,2012,0,0
-1796,slv,El Salvador,2013,0,0
-1797,slv,El Salvador,2014,0,0
-1798,slv,El Salvador,2015,0,0
-1799,slv,El Salvador,2016,1,0
-1800,som,Somalia,1993,5,0
-1801,som,Somalia,1994,3,0
-1802,som,Somalia,1995,1,0
-1803,som,Somalia,1996,0,0
-1804,som,Somalia,1997,0,0
-1805,som,Somalia,1998,0,1
-1806,som,Somalia,1999,0,0
-1807,som,Somalia,2000,1,0
-1808,som,Somalia,2001,0,0
-1809,som,Somalia,2002,0,0
-1810,som,Somalia,2003,1,0
-1811,som,Somalia,2004,0,0
-1812,som,Somalia,2005,2,1
-1813,som,Somalia,2006,1,0
-1814,som,Somalia,2007,8,0
-1815,som,Somalia,2008,2,0
-1816,som,Somalia,2009,9,0
-1817,som,Somalia,2010,3,0
-1818,som,Somalia,2011,3,0
-1819,som,Somalia,2012,14,1
-1820,som,Somalia,2013,5,2
-1821,som,Somalia,2014,4,2
-1822,som,Somalia,2015,3,2
-1823,som,Somalia,2016,3,0
-1824,som,Somalia,2017,3,1
-1825,som,Somalia,2018,7,1
-1826,som,Somalia,2019,2,1
-1827,som,Somalia,2020,1,0
-1828,som,Somalia,2021,2,2
-1829,som,Somalia,2022,2,0
-1830,srb,Serbia,1994,1,0
-1831,srb,Serbia,1995,0,0
-1832,srb,Serbia,1996,0,0
-1833,srb,Serbia,1997,0,0
-1834,srb,Serbia,1998,0,0
-1835,srb,Serbia,1999,0,0
-1836,srb,Serbia,2000,0,0
-1837,srb,Serbia,2001,0,0
-1838,srb,Serbia,2002,0,0
-1839,srb,Serbia,2003,0,0
-1840,srb,Serbia,2004,0,0
-1841,srb,Serbia,2005,1,0
-1842,ssd,South Sudan,2012,1,0
-1843,ssd,South Sudan,2013,0,0
-1844,ssd,South Sudan,2014,0,0
-1845,ssd,South Sudan,2015,7,0
-1846,ssd,South Sudan,2016,1,0
-1847,ssd,South Sudan,2017,1,0
-1848,ssd,South Sudan,2019,0,1
-1849,ssd,South Sudan,2020,0,2
-1850,svk,Slovak Republic,2018,1,0
-1851,swz,Swaziland,2014,0,1
-1852,syr,Syria,1992,0,15
-1853,syr,Syria,1993,0,15
-1854,syr,Syria,1994,0,12
-1855,syr,Syria,1995,0,9
-1856,syr,Syria,1996,0,9
-1857,syr,Syria,1997,0,8
-1858,syr,Syria,1998,0,8
-1859,syr,Syria,1999,0,6
-1860,syr,Syria,2000,0,1
-1861,syr,Syria,2001,0,0
-1862,syr,Syria,2002,0,0
-1863,syr,Syria,2003,0,0
-1864,syr,Syria,2004,0,0
-1865,syr,Syria,2005,0,0
-1866,syr,Syria,2006,0,0
-1867,syr,Syria,2007,0,1
-1868,syr,Syria,2008,0,2
-1869,syr,Syria,2009,0,2
-1870,syr,Syria,2010,0,2
-1871,syr,Syria,2011,2,9
-1872,syr,Syria,2012,37,16
-1873,syr,Syria,2013,32,13
-1874,syr,Syria,2014,19,12
-1875,syr,Syria,2015,16,7
-1876,syr,Syria,2016,18,6
-1877,syr,Syria,2017,10,6
-1878,syr,Syria,2018,9,5
-1879,syr,Syria,2019,7,5
-1880,syr,Syria,2020,4,5
-1881,syr,Syria,2021,0,5
-1882,syr,Syria,2022,1,5
-1883,tcd,Chad,1992,3,0
-1884,tcd,Chad,1993,0,0
-1885,tcd,Chad,1994,0,0
-1886,tcd,Chad,1995,0,0
-1887,tcd,Chad,1996,0,0
-1888,tcd,Chad,1997,0,0
-1889,tcd,Chad,1998,0,0
-1890,tcd,Chad,1999,0,0
-1891,tcd,Chad,2000,0,0
-1892,tcd,Chad,2001,0,0
-1893,tcd,Chad,2002,0,0
-1894,tcd,Chad,2003,0,0
-1895,tcd,Chad,2004,0,0
-1896,tcd,Chad,2005,0,0
-1897,tcd,Chad,2006,0,0
-1898,tcd,Chad,2007,0,0
-1899,tcd,Chad,2008,0,0
-1900,tcd,Chad,2009,0,0
-1901,tcd,Chad,2010,0,0
-1902,tcd,Chad,2011,0,0
-1903,tcd,Chad,2012,0,0
-1904,tcd,Chad,2013,0,0
-1905,tcd,Chad,2014,0,0
-1906,tcd,Chad,2015,0,0
-1907,tcd,Chad,2016,0,0
-1908,tcd,Chad,2017,0,0
-1909,tcd,Chad,2018,0,0
-1910,tcd,Chad,2019,1,1
-1911,tcd,Chad,2020,0,0
-1912,tcd,Chad,2021,0,0
-1913,tcd,Chad,2022,2,0
-1914,tgo,Togo,1994,0,1
-1915,tgo,Togo,1995,0,0
-1916,tgo,Togo,1996,0,0
-1917,tgo,Togo,1997,0,0
-1918,tgo,Togo,1998,0,2
-1919,tgo,Togo,1999,0,0
-1920,tgo,Togo,2000,0,0
-1921,tgo,Togo,2001,0,0
-1922,tgo,Togo,2002,0,1
-1923,tha,Thailand,1998,1,0
-1924,tha,Thailand,1999,0,0
-1925,tha,Thailand,2000,0,0
-1926,tha,Thailand,2001,5,0
-1927,tha,Thailand,2002,0,0
-1928,tha,Thailand,2003,1,0
-1929,tha,Thailand,2004,0,0
-1930,tha,Thailand,2005,2,0
-1931,tha,Thailand,2006,0,0
-1932,tha,Thailand,2007,0,0
-1933,tha,Thailand,2008,3,0
-1934,tha,Thailand,2009,0,0
-1935,tha,Thailand,2010,2,0
-1936,tha,Thailand,2011,1,1
-1937,tha,Thailand,2012,1,1
-1938,tha,Thailand,2013,0,1
-1939,tha,Thailand,2014,0,2
-1940,tha,Thailand,2015,0,2
-1941,tha,Thailand,2016,0,1
-1942,tha,Thailand,2017,0,2
-1943,tjk,Tajikistan,1992,10,0
-1944,tjk,Tajikistan,1993,12,4
-1945,tjk,Tajikistan,1994,4,0
-1946,tjk,Tajikistan,1995,1,0
-1947,tjk,Tajikistan,1996,1,0
-1948,tjk,Tajikistan,1997,0,0
-1949,tjk,Tajikistan,1998,0,0
-1950,tjk,Tajikistan,1999,1,0
-1951,tjk,Tajikistan,2000,0,0
-1952,tjk,Tajikistan,2001,0,0
-1953,tjk,Tajikistan,2002,0,0
-1954,tjk,Tajikistan,2003,0,0
-1955,tjk,Tajikistan,2004,0,0
-1956,tjk,Tajikistan,2005,0,1
-1957,tjk,Tajikistan,2006,0,0
-1958,tjk,Tajikistan,2007,0,0
-1959,tjk,Tajikistan,2008,0,0
-1960,tjk,Tajikistan,2009,0,0
-1961,tjk,Tajikistan,2010,0,0
-1962,tjk,Tajikistan,2011,0,0
-1963,tjk,Tajikistan,2012,0,0
-1964,tjk,Tajikistan,2013,0,0
-1965,tjk,Tajikistan,2014,0,0
-1966,tjk,Tajikistan,2015,0,0
-1967,tjk,Tajikistan,2016,0,0
-1968,tjk,Tajikistan,2017,0,0
-1969,tjk,Tajikistan,2018,0,0
-1970,tjk,Tajikistan,2019,0,0
-1971,tjk,Tajikistan,2020,0,1
-1972,tjk,Tajikistan,2021,0,0
-1973,tjk,Tajikistan,2022,0,6
-1974,tkm,Turkmenistan,2006,1,0
-1975,tkm,Turkmenistan,2015,0,1
-1976,tkm,Turkmenistan,2016,0,1
-1977,tkm,Turkmenistan,2017,0,1
-1978,tkm,Turkmenistan,2018,0,0
-1979,tkm,Turkmenistan,2019,0,0
-1980,tkm,Turkmenistan,2020,0,1
-1981,tkm,Turkmenistan,2021,0,1
-1982,tkm,Turkmenistan,2022,0,1
-1983,tls,Timor-Leste,1999,2,0
-1984,tun,Tunisia,1992,0,2
-1985,tun,Tunisia,1993,0,2
-1986,tun,Tunisia,1994,0,2
-1987,tun,Tunisia,1995,0,2
-1988,tun,Tunisia,1996,0,2
-1989,tun,Tunisia,1997,0,2
-1990,tun,Tunisia,1998,0,2
-1991,tun,Tunisia,1999,0,2
-1992,tun,Tunisia,2000,0,2
-1993,tun,Tunisia,2001,0,2
-1994,tun,Tunisia,2002,0,2
-1995,tun,Tunisia,2003,0,2
-1996,tun,Tunisia,2004,0,1
-1997,tun,Tunisia,2005,0,2
-1998,tun,Tunisia,2006,0,1
-1999,tun,Tunisia,2007,0,1
-2000,tun,Tunisia,2008,0,0
-2001,tun,Tunisia,2009,0,2
-2002,tun,Tunisia,2010,0,1
-2003,tun,Tunisia,2011,1,0
-2004,tun,Tunisia,2012,0,0
-2005,tun,Tunisia,2013,0,0
-2006,tun,Tunisia,2014,0,0
-2007,tun,Tunisia,2015,0,0
-2008,tun,Tunisia,2016,0,1
-2009,tur,Turkey,1992,11,3
-2010,tur,Turkey,1993,4,18
-2011,tur,Turkey,1994,2,66
-2012,tur,Turkey,1995,1,57
-2013,tur,Turkey,1996,1,68
-2014,tur,Turkey,1997,0,29
-2015,tur,Turkey,1998,0,28
-2016,tur,Turkey,1999,1,19
-2017,tur,Turkey,2000,0,15
-2018,tur,Turkey,2001,0,14
-2019,tur,Turkey,2002,0,12
-2020,tur,Turkey,2003,0,6
-2021,tur,Turkey,2004,0,3
-2022,tur,Turkey,2005,0,3
-2023,tur,Turkey,2006,0,5
-2024,tur,Turkey,2007,1,5
-2025,tur,Turkey,2008,0,5
-2026,tur,Turkey,2009,1,11
-2027,tur,Turkey,2010,1,18
-2028,tur,Turkey,2011,0,24
-2029,tur,Turkey,2012,0,49
-2030,tur,Turkey,2013,0,40
-2031,tur,Turkey,2014,1,7
-2032,tur,Turkey,2015,3,14
-2033,tur,Turkey,2016,2,84
-2034,tur,Turkey,2017,1,73
-2035,tur,Turkey,2018,0,68
-2036,tur,Turkey,2019,0,49
-2037,tur,Turkey,2020,0,40
-2038,tur,Turkey,2021,0,18
-2039,tur,Turkey,2022,1,40
-2040,tza,Tanzania,2012,1,0
-2041,tza,Tanzania,2013,1,0
-2042,tza,Tanzania,2019,0,1
-2043,uga,Uganda,1995,1,0
-2044,uga,Uganda,1996,0,0
-2045,uga,Uganda,1997,0,0
-2046,uga,Uganda,1998,0,0
-2047,uga,Uganda,1999,0,0
-2048,uga,Uganda,2000,0,0
-2049,uga,Uganda,2001,0,0
-2050,uga,Uganda,2002,1,0
-2051,uga,Uganda,2003,0,0
-2052,uga,Uganda,2004,0,0
-2053,uga,Uganda,2005,0,0
-2054,uga,Uganda,2006,0,0
-2055,uga,Uganda,2007,0,0
-2056,uga,Uganda,2008,0,0
-2057,uga,Uganda,2009,0,0
-2058,uga,Uganda,2010,2,0
-2059,uga,Uganda,2011,1,0
-2060,uga,Uganda,2017,0,8
-2061,uga,Uganda,2018,0,0
-2062,uga,Uganda,2019,0,0
-2063,uga,Uganda,2020,0,1
-2064,ukr,Ukraine,1993,0,1
-2065,ukr,Ukraine,1994,0,0
-2066,ukr,Ukraine,1995,2,0
-2067,ukr,Ukraine,1996,1,0
-2068,ukr,Ukraine,1997,2,0
-2069,ukr,Ukraine,1998,0,0
-2070,ukr,Ukraine,1999,0,0
-2071,ukr,Ukraine,2000,2,0
-2072,ukr,Ukraine,2001,2,0
-2073,ukr,Ukraine,2002,0,0
-2074,ukr,Ukraine,2003,0,0
-2075,ukr,Ukraine,2004,1,0
-2076,ukr,Ukraine,2005,0,0
-2077,ukr,Ukraine,2006,0,0
-2078,ukr,Ukraine,2007,0,0
-2079,ukr,Ukraine,2008,0,0
-2080,ukr,Ukraine,2009,0,0
-2081,ukr,Ukraine,2010,0,0
-2082,ukr,Ukraine,2011,0,0
-2083,ukr,Ukraine,2012,0,0
-2084,ukr,Ukraine,2013,0,0
-2085,ukr,Ukraine,2014,7,0
-2086,ukr,Ukraine,2015,1,0
-2087,ukr,Ukraine,2016,1,0
-2088,ukr,Ukraine,2017,0,1
-2089,ukr,Ukraine,2018,0,1
-2090,ukr,Ukraine,2019,1,0
-2091,ukr,Ukraine,2020,0,0
-2092,ukr,Ukraine,2021,0,0
-2093,ukr,Ukraine,2022,15,0
-2094,ury,Uruguay,2000,1,0
-2095,usa,United States,1992,1,0
-2096,usa,United States,1993,1,0
-2097,usa,United States,1994,0,0
-2098,usa,United States,1995,0,0
-2099,usa,United States,1996,0,0
-2100,usa,United States,1997,0,0
-2101,usa,United States,1998,0,0
-2102,usa,United States,1999,0,0
-2103,usa,United States,2000,1,0
-2104,usa,United States,2001,2,1
-2105,usa,United States,2002,0,1
-2106,usa,United States,2003,0,1
-2107,usa,United States,2004,0,1
-2108,usa,United States,2005,0,1
-2109,usa,United States,2006,0,2
-2110,usa,United States,2007,1,1
-2111,usa,United States,2008,0,1
-2112,usa,United States,2009,0,1
-2113,usa,United States,2010,0,0
-2114,usa,United States,2011,0,0
-2115,usa,United States,2012,0,0
-2116,usa,United States,2013,0,1
-2117,usa,United States,2014,0,0
-2118,usa,United States,2015,2,0
-2119,usa,United States,2016,1,0
-2120,usa,United States,2017,0,0
-2121,usa,United States,2018,6,0
-2122,usa,United States,2019,0,0
-2123,usa,United States,2020,0,0
-2124,usa,United States,2021,0,0
-2125,usa,United States,2022,1,0
-2126,uzb,Uzbekistan,1996,1,0
-2127,uzb,Uzbekistan,1997,0,1
-2128,uzb,Uzbekistan,1998,0,1
-2129,uzb,Uzbekistan,1999,0,3
-2130,uzb,Uzbekistan,2000,0,3
-2131,uzb,Uzbekistan,2001,0,4
-2132,uzb,Uzbekistan,2002,0,4
-2133,uzb,Uzbekistan,2003,0,5
-2134,uzb,Uzbekistan,2004,0,4
-2135,uzb,Uzbekistan,2005,0,6
-2136,uzb,Uzbekistan,2006,0,5
-2137,uzb,Uzbekistan,2007,0,5
-2138,uzb,Uzbekistan,2008,0,6
-2139,uzb,Uzbekistan,2009,0,7
-2140,uzb,Uzbekistan,2010,0,6
-2141,uzb,Uzbekistan,2011,0,5
-2142,uzb,Uzbekistan,2012,0,5
-2143,uzb,Uzbekistan,2013,0,5
-2144,uzb,Uzbekistan,2014,0,5
-2145,uzb,Uzbekistan,2015,0,5
-2146,uzb,Uzbekistan,2016,0,5
-2147,uzb,Uzbekistan,2017,0,4
-2148,uzb,Uzbekistan,2018,0,0
-2149,uzb,Uzbekistan,2019,0,1
-2150,uzb,Uzbekistan,2020,0,0
-2151,uzb,Uzbekistan,2021,0,2
-2152,uzb,Uzbekistan,2022,0,1
-2153,ven,Venezuela,1992,1,0
-2154,ven,Venezuela,1993,1,0
-2155,ven,Venezuela,1994,0,0
-2156,ven,Venezuela,1995,0,0
-2157,ven,Venezuela,1996,0,0
-2158,ven,Venezuela,1997,0,0
-2159,ven,Venezuela,1998,0,0
-2160,ven,Venezuela,1999,0,0
-2161,ven,Venezuela,2000,0,0
-2162,ven,Venezuela,2001,0,0
-2163,ven,Venezuela,2002,1,0
-2164,ven,Venezuela,2003,0,0
-2165,ven,Venezuela,2004,1,0
-2166,ven,Venezuela,2005,0,0
-2167,ven,Venezuela,2006,2,0
-2168,ven,Venezuela,2007,0,0
-2169,ven,Venezuela,2008,1,0
-2170,ven,Venezuela,2009,1,1
-2171,ven,Venezuela,2010,0,0
-2172,ven,Venezuela,2011,1,0
-2173,ven,Venezuela,2012,0,0
-2174,ven,Venezuela,2013,0,0
-2175,ven,Venezuela,2014,0,0
-2176,ven,Venezuela,2015,0,0
-2177,ven,Venezuela,2016,0,1
-2178,ven,Venezuela,2017,0,1
-2179,ven,Venezuela,2018,0,3
-2180,ven,Venezuela,2019,0,1
-2181,ven,Venezuela,2020,1,0
-2182,vnm,Vietnam,1992,0,6
-2183,vnm,Vietnam,1993,0,9
-2184,vnm,Vietnam,1994,0,9
-2185,vnm,Vietnam,1995,0,7
-2186,vnm,Vietnam,1996,0,5
-2187,vnm,Vietnam,1997,0,6
-2188,vnm,Vietnam,1998,0,1
-2189,vnm,Vietnam,1999,0,2
-2190,vnm,Vietnam,2000,0,2
-2191,vnm,Vietnam,2001,0,3
-2192,vnm,Vietnam,2002,0,7
-2193,vnm,Vietnam,2003,0,9
-2194,vnm,Vietnam,2004,0,4
-2195,vnm,Vietnam,2005,0,3
-2196,vnm,Vietnam,2006,0,1
-2197,vnm,Vietnam,2007,0,2
-2198,vnm,Vietnam,2008,0,4
-2199,vnm,Vietnam,2009,0,4
-2200,vnm,Vietnam,2010,0,7
-2201,vnm,Vietnam,2011,1,14
-2202,vnm,Vietnam,2012,0,16
-2203,vnm,Vietnam,2013,0,18
-2204,vnm,Vietnam,2014,0,16
-2205,vnm,Vietnam,2015,0,6
-2206,vnm,Vietnam,2016,0,8
-2207,vnm,Vietnam,2017,0,10
-2208,vnm,Vietnam,2018,0,11
-2209,vnm,Vietnam,2019,0,12
-2210,vnm,Vietnam,2020,0,15
-2211,vnm,Vietnam,2021,0,24
-2212,vnm,Vietnam,2022,0,21
-2213,yem,Yemen,2004,0,1
-2214,yem,Yemen,2005,0,0
-2215,yem,Yemen,2006,0,0
-2216,yem,Yemen,2007,0,0
-2217,yem,Yemen,2008,0,0
-2218,yem,Yemen,2009,0,2
-2219,yem,Yemen,2010,1,1
-2220,yem,Yemen,2011,3,2
-2221,yem,Yemen,2012,0,1
-2222,yem,Yemen,2013,0,0
-2223,yem,Yemen,2014,2,0
-2224,yem,Yemen,2015,8,0
-2225,yem,Yemen,2016,6,0
-2226,yem,Yemen,2017,2,0
-2227,yem,Yemen,2018,8,0
-2228,yem,Yemen,2019,1,0
-2229,yem,Yemen,2020,2,0
-2230,yem,Yemen,2021,1,0
-2231,yem,Yemen,2022,1,0
-2232,zaf,South Africa,1993,1,0
-2233,zaf,South Africa,1994,2,0
-2234,zaf,South Africa,1995,0,0
-2235,zaf,South Africa,1996,0,0
-2236,zaf,South Africa,1997,0,0
-2237,zaf,South Africa,1998,0,0
-2238,zaf,South Africa,1999,0,0
-2239,zaf,South Africa,2000,0,0
-2240,zaf,South Africa,2001,0,0
-2241,zaf,South Africa,2002,0,0
-2242,zaf,South Africa,2003,0,0
-2243,zaf,South Africa,2004,0,0
-2244,zaf,South Africa,2005,0,0
-2245,zaf,South Africa,2006,0,0
-2246,zaf,South Africa,2007,0,0
-2247,zaf,South Africa,2008,0,0
-2248,zaf,South Africa,2009,0,0
-2249,zaf,South Africa,2010,0,0
-2250,zaf,South Africa,2011,0,0
-2251,zaf,South Africa,2012,0,0
-2252,zaf,South Africa,2013,0,0
-2253,zaf,South Africa,2014,1,0
-2254,zaf,South Africa,2015,0,0
-2255,zaf,South Africa,2016,0,0
-2256,zaf,South Africa,2017,0,0
-2257,zaf,South Africa,2018,0,0
-2258,zaf,South Africa,2019,1,0
-2259,zmb,Zambia,1995,0,1
-2260,zmb,Zambia,1996,0,1
-2261,zmb,Zambia,1997,0,1
-2262,zmb,Zambia,1998,0,0
-2263,zmb,Zambia,1999,0,0
-2264,zmb,Zambia,2000,0,0
-2265,zmb,Zambia,2001,0,0
-2266,zmb,Zambia,2002,0,0
-2267,zmb,Zambia,2003,0,0
-2268,zmb,Zambia,2004,0,0
-2269,zmb,Zambia,2005,0,0
-2270,zmb,Zambia,2006,0,0
-2271,zmb,Zambia,2007,0,0
-2272,zmb,Zambia,2008,0,0
-2273,zmb,Zambia,2009,0,0
-2274,zmb,Zambia,2010,0,0
-2275,zmb,Zambia,2011,0,0
-2276,zmb,Zambia,2012,0,0
-2277,zmb,Zambia,2013,0,0
-2278,zmb,Zambia,2014,0,0
-2279,zmb,Zambia,2015,0,0
-2280,zmb,Zambia,2016,0,1
-2281,zmb,Zambia,2019,1,0
-2282,zwe,Zimbabwe,2007,1,0
+28,ago,Angola,1992,1,0
+29,ago,Angola,1993,3,0
+30,ago,Angola,1994,1,0
+31,ago,Angola,1995,1,0
+32,ago,Angola,1996,1,0
+33,ago,Angola,1997,0,0
+34,ago,Angola,1998,1,0
+35,ago,Angola,1999,1,0
+36,ago,Angola,2000,0,0
+37,ago,Angola,2001,0,0
+38,ago,Angola,2002,0,0
+39,ago,Angola,2003,0,0
+40,ago,Angola,2004,0,0
+41,ago,Angola,2005,0,0
+42,ago,Angola,2006,0,0
+43,ago,Angola,2007,0,0
+44,ago,Angola,2008,0,0
+45,ago,Angola,2009,0,0
+46,ago,Angola,2010,2,0
+47,arg,Argentina,1993,1,0
+48,arg,Argentina,1994,0,0
+49,arg,Argentina,1995,0,0
+50,arg,Argentina,1996,0,0
+51,arg,Argentina,1997,1,0
+52,arg,Argentina,1998,0,0
+53,arg,Argentina,1999,1,0
+54,arg,Argentina,2000,0,0
+55,arg,Argentina,2001,0,0
+56,arg,Argentina,2002,0,0
+57,arg,Argentina,2003,0,0
+58,arg,Argentina,2004,0,0
+59,arg,Argentina,2005,0,0
+60,arg,Argentina,2006,0,0
+61,arg,Argentina,2007,0,0
+62,arg,Argentina,2008,0,0
+63,arg,Argentina,2009,0,0
+64,arg,Argentina,2010,1,0
+65,arm,Armenia,2002,1,0
+66,aze,Azerbaijan,1992,1,0
+67,aze,Azerbaijan,1993,0,0
+68,aze,Azerbaijan,1994,0,0
+69,aze,Azerbaijan,1995,1,0
+70,aze,Azerbaijan,1996,0,0
+71,aze,Azerbaijan,1997,0,0
+72,aze,Azerbaijan,1998,0,0
+73,aze,Azerbaijan,1999,0,0
+74,aze,Azerbaijan,2000,0,0
+75,aze,Azerbaijan,2001,0,0
+76,aze,Azerbaijan,2002,0,0
+77,aze,Azerbaijan,2003,0,0
+78,aze,Azerbaijan,2004,0,0
+79,aze,Azerbaijan,2005,1,0
+80,aze,Azerbaijan,2006,0,0
+81,aze,Azerbaijan,2007,0,0
+82,aze,Azerbaijan,2008,0,0
+83,aze,Azerbaijan,2009,1,0
+84,aze,Azerbaijan,2010,0,0
+85,aze,Azerbaijan,2011,1,0
+86,aze,Azerbaijan,2012,0,0
+87,aze,Azerbaijan,2013,0,0
+88,aze,Azerbaijan,2014,0,0
+89,aze,Azerbaijan,2015,1,0
+90,aze,Azerbaijan,2016,0,0
+91,aze,Azerbaijan,2017,0,0
+92,aze,Azerbaijan,2018,0,0
+93,aze,Azerbaijan,2019,0,0
+94,aze,Azerbaijan,2020,0,0
+95,aze,Azerbaijan,2021,2,0
+96,bdi,Burundi,1994,1,0
+97,bdi,Burundi,1995,2,0
+98,bdi,Burundi,1996,0,0
+99,bdi,Burundi,1997,0,0
+100,bdi,Burundi,1998,0,0
+101,bdi,Burundi,1999,0,0
+102,bdi,Burundi,2000,0,0
+103,bdi,Burundi,2001,0,0
+104,bdi,Burundi,2002,0,0
+105,bdi,Burundi,2003,0,0
+106,bdi,Burundi,2004,0,0
+107,bdi,Burundi,2005,0,0
+108,bdi,Burundi,2006,0,0
+109,bdi,Burundi,2007,0,0
+110,bdi,Burundi,2008,0,0
+111,bdi,Burundi,2009,0,0
+112,bdi,Burundi,2010,0,0
+113,bdi,Burundi,2011,0,0
+114,bdi,Burundi,2012,0,0
+115,bdi,Burundi,2013,0,0
+116,bdi,Burundi,2014,0,0
+117,bdi,Burundi,2015,1,0
+118,bfa,Burkina Faso,1998,1,0
+119,bfa,Burkina Faso,1999,0,0
+120,bfa,Burkina Faso,2000,0,0
+121,bfa,Burkina Faso,2001,0,0
+122,bfa,Burkina Faso,2002,0,0
+123,bfa,Burkina Faso,2003,0,0
+124,bfa,Burkina Faso,2004,0,0
+125,bfa,Burkina Faso,2005,0,0
+126,bfa,Burkina Faso,2006,0,0
+127,bfa,Burkina Faso,2007,0,0
+128,bfa,Burkina Faso,2008,0,0
+129,bfa,Burkina Faso,2009,0,0
+130,bfa,Burkina Faso,2010,0,0
+131,bfa,Burkina Faso,2011,0,0
+132,bfa,Burkina Faso,2012,0,0
+133,bfa,Burkina Faso,2013,0,0
+134,bfa,Burkina Faso,2014,0,0
+135,bfa,Burkina Faso,2015,0,0
+136,bfa,Burkina Faso,2016,0,0
+137,bfa,Burkina Faso,2017,0,0
+138,bfa,Burkina Faso,2018,0,0
+139,bfa,Burkina Faso,2019,0,0
+140,bfa,Burkina Faso,2020,0,0
+141,bfa,Burkina Faso,2021,2,0
+142,bgd,Bangladesh,1996,2,0
+143,bgd,Bangladesh,1997,0,0
+144,bgd,Bangladesh,1998,1,0
+145,bgd,Bangladesh,1999,0,0
+146,bgd,Bangladesh,2000,2,0
+147,bgd,Bangladesh,2001,2,0
+148,bgd,Bangladesh,2002,3,0
+149,bgd,Bangladesh,2003,0,0
+150,bgd,Bangladesh,2004,4,0
+151,bgd,Bangladesh,2005,2,0
+152,bgd,Bangladesh,2006,0,0
+153,bgd,Bangladesh,2007,0,0
+154,bgd,Bangladesh,2008,0,0
+155,bgd,Bangladesh,2009,0,0
+156,bgd,Bangladesh,2010,0,0
+157,bgd,Bangladesh,2011,0,0
+158,bgd,Bangladesh,2012,3,0
+159,bgd,Bangladesh,2013,1,0
+160,bgd,Bangladesh,2014,3,0
+161,bgd,Bangladesh,2015,6,0
+162,bgd,Bangladesh,2016,0,0
+163,bgd,Bangladesh,2017,1,0
+164,bgd,Bangladesh,2018,0,0
+165,bgd,Bangladesh,2019,0,0
+166,bgd,Bangladesh,2020,1,0
+167,bgd,Bangladesh,2021,1,0
+168,bgd,Bangladesh,2022,2,0
+169,bgr,Bulgaria,2008,1,0
+170,bgr,Bulgaria,2009,0,0
+171,bgr,Bulgaria,2010,1,0
+172,bgr,Bulgaria,2011,0,0
+173,bgr,Bulgaria,2012,0,0
+174,bgr,Bulgaria,2013,0,0
+175,bgr,Bulgaria,2014,0,0
+176,bgr,Bulgaria,2015,0,0
+177,bgr,Bulgaria,2016,0,0
+178,bgr,Bulgaria,2017,0,0
+179,bgr,Bulgaria,2018,1,0
+180,bhr,Bahrain,2011,2,0
+181,bhr,Bahrain,2012,1,0
+182,bih,Bosnia and Herzegovina,1992,8,0
+183,bih,Bosnia and Herzegovina,1993,9,0
+184,bih,Bosnia and Herzegovina,1994,7,0
+185,bih,Bosnia and Herzegovina,1995,1,0
+186,blr,Belarus,1994,1,0
+187,blr,Belarus,1995,0,0
+188,blr,Belarus,1996,0,0
+189,blr,Belarus,1997,0,0
+190,blr,Belarus,1998,0,0
+191,blr,Belarus,1999,0,0
+192,blr,Belarus,2000,0,0
+193,blr,Belarus,2001,0,0
+194,blr,Belarus,2002,1,0
+195,blr,Belarus,2003,1,0
+196,blr,Belarus,2004,1,0
+197,blr,Belarus,2005,1,0
+198,blr,Belarus,2006,0,0
+199,blr,Belarus,2007,0,0
+200,blr,Belarus,2008,0,0
+201,blr,Belarus,2009,0,0
+202,blr,Belarus,2010,1,0
+203,bol,Bolivia,2001,1,0
+204,bol,Bolivia,2002,0,0
+205,bol,Bolivia,2003,0,0
+206,bol,Bolivia,2004,0,0
+207,bol,Bolivia,2005,0,0
+208,bol,Bolivia,2006,0,0
+209,bol,Bolivia,2007,0,0
+210,bol,Bolivia,2008,1,0
+211,bol,Bolivia,2009,0,0
+212,bol,Bolivia,2010,0,0
+213,bol,Bolivia,2011,1,0
+214,bra,Brazil,1994,1,0
+215,bra,Brazil,1995,4,0
+216,bra,Brazil,1996,0,0
+217,bra,Brazil,1997,2,0
+218,bra,Brazil,1998,2,0
+219,bra,Brazil,1999,0,0
+220,bra,Brazil,2000,1,0
+221,bra,Brazil,2001,1,0
+222,bra,Brazil,2002,2,0
+223,bra,Brazil,2003,2,0
+224,bra,Brazil,2004,3,0
+225,bra,Brazil,2005,1,0
+226,bra,Brazil,2006,0,0
+227,bra,Brazil,2007,1,0
+228,bra,Brazil,2008,0,0
+229,bra,Brazil,2009,1,0
+230,bra,Brazil,2010,1,0
+231,bra,Brazil,2011,6,0
+232,bra,Brazil,2012,5,0
+233,bra,Brazil,2013,4,0
+234,bra,Brazil,2014,3,0
+235,bra,Brazil,2015,8,0
+236,bra,Brazil,2016,3,0
+237,bra,Brazil,2017,1,0
+238,bra,Brazil,2018,3,0
+239,bra,Brazil,2019,2,0
+240,bra,Brazil,2020,1,0
+241,bra,Brazil,2021,0,0
+242,bra,Brazil,2022,2,0
+243,brb,Barbados,2020,1,0
+244,caf,Central African Republic,2014,1,0
+245,caf,Central African Republic,2015,0,0
+246,caf,Central African Republic,2016,0,0
+247,caf,Central African Republic,2017,0,0
+248,caf,Central African Republic,2018,3,0
+249,caf,Central African Republic,2019,0,0
+250,caf,Central African Republic,2020,0,0
+251,caf,Central African Republic,2021,0,0
+252,caf,Central African Republic,2022,1,0
+253,can,Canada,1995,1,0
+254,can,Canada,1996,0,0
+255,can,Canada,1997,0,0
+256,can,Canada,1998,1,0
+257,chl,Chile,2022,1,0
+258,chn,China,2001,1,0
+259,chn,China,2002,0,0
+260,chn,China,2003,0,0
+261,chn,China,2004,0,0
+262,chn,China,2005,0,0
+263,chn,China,2006,1,0
+264,chn,China,2007,1,0
+265,chn,China,2008,0,0
+266,chn,China,2009,0,0
+267,chn,China,2010,1,0
+268,chn,China,2011,1,0
+269,civ,Cote d'Ivoire,1999,1,0
+270,civ,Cote d'Ivoire,2000,0,0
+271,civ,Cote d'Ivoire,2001,0,0
+272,civ,Cote d'Ivoire,2002,0,0
+273,civ,Cote d'Ivoire,2003,2,0
+274,civ,Cote d'Ivoire,2004,1,0
+275,civ,Cote d'Ivoire,2005,0,0
+276,civ,Cote d'Ivoire,2006,0,0
+277,civ,Cote d'Ivoire,2007,0,0
+278,civ,Cote d'Ivoire,2008,0,0
+279,civ,Cote d'Ivoire,2009,0,0
+280,civ,Cote d'Ivoire,2010,0,0
+281,civ,Cote d'Ivoire,2011,2,0
+282,cmr,Cameroon,2010,1,0
+283,cmr,Cameroon,2011,0,0
+284,cmr,Cameroon,2012,0,0
+285,cmr,Cameroon,2013,0,0
+286,cmr,Cameroon,2014,0,0
+287,cmr,Cameroon,2015,0,0
+288,cmr,Cameroon,2016,0,0
+289,cmr,Cameroon,2017,0,0
+290,cmr,Cameroon,2018,0,0
+291,cmr,Cameroon,2019,1,0
+292,cod,"Congo, Dem. Rep.",1994,2,0
+293,cod,"Congo, Dem. Rep.",1995,0,0
+294,cod,"Congo, Dem. Rep.",1996,0,0
+295,cod,"Congo, Dem. Rep.",1997,0,0
+296,cod,"Congo, Dem. Rep.",1998,0,0
+297,cod,"Congo, Dem. Rep.",1999,0,0
+298,cod,"Congo, Dem. Rep.",2000,0,0
+299,cod,"Congo, Dem. Rep.",2001,0,0
+300,cod,"Congo, Dem. Rep.",2002,0,0
+301,cod,"Congo, Dem. Rep.",2003,0,0
+302,cod,"Congo, Dem. Rep.",2004,0,0
+303,cod,"Congo, Dem. Rep.",2005,1,0
+304,cod,"Congo, Dem. Rep.",2006,1,0
+305,cod,"Congo, Dem. Rep.",2007,2,0
+306,cod,"Congo, Dem. Rep.",2008,1,0
+307,cod,"Congo, Dem. Rep.",2009,1,0
+308,cod,"Congo, Dem. Rep.",2010,1,0
+309,cod,"Congo, Dem. Rep.",2011,1,0
+310,cod,"Congo, Dem. Rep.",2012,0,0
+311,cod,"Congo, Dem. Rep.",2013,0,0
+312,cod,"Congo, Dem. Rep.",2014,2,0
+313,cod,"Congo, Dem. Rep.",2015,1,0
+314,cod,"Congo, Dem. Rep.",2016,1,0
+315,cod,"Congo, Dem. Rep.",2017,0,0
+316,cod,"Congo, Dem. Rep.",2018,0,0
+317,cod,"Congo, Dem. Rep.",2019,1,0
+318,cod,"Congo, Dem. Rep.",2020,0,0
+319,cod,"Congo, Dem. Rep.",2021,1,0
+320,cog,"Congo, Rep.",1993,1,0
+321,cog,"Congo, Rep.",1994,0,0
+322,cog,"Congo, Rep.",1995,0,0
+323,cog,"Congo, Rep.",1996,0,0
+324,cog,"Congo, Rep.",1997,0,0
+325,cog,"Congo, Rep.",1998,1,0
+326,cog,"Congo, Rep.",1999,0,0
+327,cog,"Congo, Rep.",2000,0,0
+328,cog,"Congo, Rep.",2001,0,0
+329,cog,"Congo, Rep.",2002,0,0
+330,cog,"Congo, Rep.",2003,0,0
+331,cog,"Congo, Rep.",2004,0,0
+332,cog,"Congo, Rep.",2005,0,0
+333,cog,"Congo, Rep.",2006,0,0
+334,cog,"Congo, Rep.",2007,0,0
+335,cog,"Congo, Rep.",2008,0,0
+336,cog,"Congo, Rep.",2009,1,0
+337,col,Colombia,1992,1,0
+338,col,Colombia,1993,4,0
+339,col,Colombia,1994,2,0
+340,col,Colombia,1995,3,0
+341,col,Colombia,1996,1,0
+342,col,Colombia,1997,5,0
+343,col,Colombia,1998,9,0
+344,col,Colombia,1999,7,0
+345,col,Colombia,2000,7,0
+346,col,Colombia,2001,8,0
+347,col,Colombia,2002,9,0
+348,col,Colombia,2003,6,0
+349,col,Colombia,2004,2,0
+350,col,Colombia,2005,2,0
+351,col,Colombia,2006,3,0
+352,col,Colombia,2007,1,0
+353,col,Colombia,2008,0,0
+354,col,Colombia,2009,3,0
+355,col,Colombia,2010,2,0
+356,col,Colombia,2011,1,0
+357,col,Colombia,2012,2,0
+358,col,Colombia,2013,2,0
+359,col,Colombia,2014,1,0
+360,col,Colombia,2015,3,0
+361,col,Colombia,2016,0,0
+362,col,Colombia,2017,1,0
+363,col,Colombia,2018,3,0
+364,col,Colombia,2019,2,0
+365,col,Colombia,2020,2,0
+366,col,Colombia,2021,1,0
+367,col,Colombia,2022,2,0
+368,cri,Costa Rica,2001,1,0
+369,cyp,Cyprus,1996,1,0
+370,dnk,Denmark,2017,1,0
+371,dom,Dominican Republic,1995,1,0
+372,dom,Dominican Republic,1996,0,0
+373,dom,Dominican Republic,1997,0,0
+374,dom,Dominican Republic,1998,0,0
+375,dom,Dominican Republic,1999,0,0
+376,dom,Dominican Republic,2000,0,0
+377,dom,Dominican Republic,2001,0,0
+378,dom,Dominican Republic,2002,0,0
+379,dom,Dominican Republic,2003,0,0
+380,dom,Dominican Republic,2004,1,0
+381,dom,Dominican Republic,2005,0,0
+382,dom,Dominican Republic,2006,0,0
+383,dom,Dominican Republic,2007,0,0
+384,dom,Dominican Republic,2008,1,0
+385,dom,Dominican Republic,2009,0,0
+386,dom,Dominican Republic,2010,0,0
+387,dom,Dominican Republic,2011,1,0
+388,dom,Dominican Republic,2012,0,0
+389,dom,Dominican Republic,2013,0,0
+390,dom,Dominican Republic,2014,0,0
+391,dom,Dominican Republic,2015,0,0
+392,dom,Dominican Republic,2016,0,0
+393,dom,Dominican Republic,2017,2,0
+394,dza,Algeria,1992,1,0
+395,dza,Algeria,1993,8,0
+396,dza,Algeria,1994,18,0
+397,dza,Algeria,1995,24,0
+398,dza,Algeria,1996,7,0
+399,dza,Algeria,1997,0,0
+400,dza,Algeria,1998,0,0
+401,dza,Algeria,1999,0,0
+402,dza,Algeria,2000,0,0
+403,dza,Algeria,2001,2,0
+404,ecu,Ecuador,2005,1,0
+405,ecu,Ecuador,2006,1,0
+406,ecu,Ecuador,2007,0,0
+407,ecu,Ecuador,2008,0,0
+408,ecu,Ecuador,2009,0,0
+409,ecu,Ecuador,2010,0,0
+410,ecu,Ecuador,2011,0,0
+411,ecu,Ecuador,2012,1,0
+412,ecu,Ecuador,2013,0,0
+413,ecu,Ecuador,2014,0,0
+414,ecu,Ecuador,2015,0,0
+415,ecu,Ecuador,2016,0,0
+416,ecu,Ecuador,2017,0,0
+417,ecu,Ecuador,2018,0,0
+418,ecu,Ecuador,2019,0,0
+419,ecu,Ecuador,2020,0,0
+420,ecu,Ecuador,2021,0,0
+421,ecu,Ecuador,2022,1,0
+422,egy,Egypt,1992,1,0
+423,egy,Egypt,1993,0,0
+424,egy,Egypt,1994,1,0
+425,egy,Egypt,1995,0,0
+426,egy,Egypt,1996,0,0
+427,egy,Egypt,1997,0,0
+428,egy,Egypt,1998,0,0
+429,egy,Egypt,1999,0,0
+430,egy,Egypt,2000,0,0
+431,egy,Egypt,2001,0,0
+432,egy,Egypt,2002,0,0
+433,egy,Egypt,2003,0,0
+434,egy,Egypt,2004,0,0
+435,egy,Egypt,2005,0,0
+436,egy,Egypt,2006,0,0
+437,egy,Egypt,2007,0,0
+438,egy,Egypt,2008,0,0
+439,egy,Egypt,2009,0,0
+440,egy,Egypt,2010,0,0
+441,egy,Egypt,2011,2,0
+442,egy,Egypt,2012,1,0
+443,egy,Egypt,2013,7,0
+444,egy,Egypt,2014,1,0
+445,eri,Eritrea,2007,2,0
+446,esp,Spain,2000,1,0
+447,eth,Ethiopia,1998,2,0
+448,eth,Ethiopia,1999,0,0
+449,eth,Ethiopia,2000,0,0
+450,eth,Ethiopia,2001,0,0
+451,eth,Ethiopia,2002,0,0
+452,eth,Ethiopia,2003,0,0
+453,eth,Ethiopia,2004,0,0
+454,eth,Ethiopia,2005,0,0
+455,eth,Ethiopia,2006,0,0
+456,eth,Ethiopia,2007,0,0
+457,eth,Ethiopia,2008,0,0
+458,eth,Ethiopia,2009,0,0
+459,eth,Ethiopia,2010,0,0
+460,eth,Ethiopia,2011,0,0
+461,eth,Ethiopia,2012,0,0
+462,eth,Ethiopia,2013,0,0
+463,eth,Ethiopia,2014,0,0
+464,eth,Ethiopia,2015,0,0
+465,eth,Ethiopia,2016,0,0
+466,eth,Ethiopia,2017,0,0
+467,eth,Ethiopia,2018,1,0
+468,eth,Ethiopia,2019,0,0
+469,eth,Ethiopia,2020,0,0
+470,eth,Ethiopia,2021,2,0
+471,fra,France,2001,1,0
+472,fra,France,2002,0,0
+473,fra,France,2003,0,0
+474,fra,France,2004,0,0
+475,fra,France,2005,0,0
+476,fra,France,2006,0,0
+477,fra,France,2007,0,0
+478,fra,France,2008,0,0
+479,fra,France,2009,0,0
+480,fra,France,2010,0,0
+481,fra,France,2011,0,0
+482,fra,France,2012,0,0
+483,fra,France,2013,0,0
+484,fra,France,2014,0,0
+485,fra,France,2015,9,0
+486,gab,Gabon,2003,1,0
+487,gbr,United Kingdom,1995,1,0
+488,gbr,United Kingdom,1996,0,0
+489,gbr,United Kingdom,1997,0,0
+490,gbr,United Kingdom,1998,0,0
+491,gbr,United Kingdom,1999,1,0
+492,gbr,United Kingdom,2000,0,0
+493,gbr,United Kingdom,2001,1,0
+494,gbr,United Kingdom,2002,0,0
+495,gbr,United Kingdom,2003,0,0
+496,gbr,United Kingdom,2004,0,0
+497,gbr,United Kingdom,2005,0,0
+498,gbr,United Kingdom,2006,0,0
+499,gbr,United Kingdom,2007,0,0
+500,gbr,United Kingdom,2008,0,0
+501,gbr,United Kingdom,2009,0,0
+502,gbr,United Kingdom,2010,0,0
+503,gbr,United Kingdom,2011,0,0
+504,gbr,United Kingdom,2012,0,0
+505,gbr,United Kingdom,2013,0,0
+506,gbr,United Kingdom,2014,0,0
+507,gbr,United Kingdom,2015,0,0
+508,gbr,United Kingdom,2016,0,0
+509,gbr,United Kingdom,2017,0,0
+510,gbr,United Kingdom,2018,0,0
+511,gbr,United Kingdom,2019,1,0
+512,geo,Georgia,1993,3,0
+513,geo,Georgia,1994,0,0
+514,geo,Georgia,1995,0,0
+515,geo,Georgia,1996,0,0
+516,geo,Georgia,1997,0,0
+517,geo,Georgia,1998,1,0
+518,geo,Georgia,1999,0,0
+519,geo,Georgia,2000,1,0
+520,geo,Georgia,2001,1,0
+521,geo,Georgia,2002,0,0
+522,geo,Georgia,2003,0,0
+523,geo,Georgia,2004,0,0
+524,geo,Georgia,2005,0,0
+525,geo,Georgia,2006,0,0
+526,geo,Georgia,2007,0,0
+527,geo,Georgia,2008,3,0
+528,geo,Georgia,2009,0,0
+529,geo,Georgia,2010,0,0
+530,geo,Georgia,2011,0,0
+531,geo,Georgia,2012,0,0
+532,geo,Georgia,2013,0,0
+533,geo,Georgia,2014,0,0
+534,geo,Georgia,2015,0,0
+535,geo,Georgia,2016,0,0
+536,geo,Georgia,2017,0,0
+537,geo,Georgia,2018,0,0
+538,geo,Georgia,2019,0,0
+539,geo,Georgia,2020,0,0
+540,geo,Georgia,2021,1,0
+541,gha,Ghana,2015,1,0
+542,gha,Ghana,2016,0,0
+543,gha,Ghana,2017,0,0
+544,gha,Ghana,2018,0,0
+545,gha,Ghana,2019,1,0
+546,gin,Guinea,2014,3,0
+547,gin,Guinea,2015,0,0
+548,gin,Guinea,2016,1,0
+549,gmb,Gambia,2004,1,0
+550,gmb,Gambia,2005,0,0
+551,gmb,Gambia,2006,0,0
+552,gmb,Gambia,2007,0,0
+553,gmb,Gambia,2008,0,0
+554,gmb,Gambia,2009,1,0
+555,grc,Greece,2010,1,0
+556,grc,Greece,2011,0,0
+557,grc,Greece,2012,0,0
+558,grc,Greece,2013,0,0
+559,grc,Greece,2014,0,0
+560,grc,Greece,2015,0,0
+561,grc,Greece,2016,0,0
+562,grc,Greece,2017,0,0
+563,grc,Greece,2018,0,0
+564,grc,Greece,2019,0,0
+565,grc,Greece,2020,0,0
+566,grc,Greece,2021,1,0
+567,gtm,Guatemala,1994,1,0
+568,gtm,Guatemala,1995,1,0
+569,gtm,Guatemala,1996,2,0
+570,gtm,Guatemala,1997,3,0
+571,gtm,Guatemala,1998,0,0
+572,gtm,Guatemala,1999,1,0
+573,gtm,Guatemala,2000,1,0
+574,gtm,Guatemala,2001,1,0
+575,gtm,Guatemala,2002,0,0
+576,gtm,Guatemala,2003,1,0
+577,gtm,Guatemala,2004,0,0
+578,gtm,Guatemala,2005,0,0
+579,gtm,Guatemala,2006,1,0
+580,gtm,Guatemala,2007,1,0
+581,gtm,Guatemala,2008,2,0
+582,gtm,Guatemala,2009,2,0
+583,gtm,Guatemala,2010,0,0
+584,gtm,Guatemala,2011,1,0
+585,gtm,Guatemala,2012,0,0
+586,gtm,Guatemala,2013,2,0
+587,gtm,Guatemala,2014,0,0
+588,gtm,Guatemala,2015,2,0
+589,gtm,Guatemala,2016,1,0
+590,gtm,Guatemala,2017,0,0
+591,gtm,Guatemala,2018,1,0
+592,gtm,Guatemala,2019,0,0
+593,gtm,Guatemala,2020,2,0
+594,gtm,Guatemala,2021,0,0
+595,gtm,Guatemala,2022,1,0
+596,hnd,Honduras,1993,1,0
+597,hnd,Honduras,1994,0,0
+598,hnd,Honduras,1995,0,0
+599,hnd,Honduras,1996,0,0
+600,hnd,Honduras,1997,0,0
+601,hnd,Honduras,1998,0,0
+602,hnd,Honduras,1999,0,0
+603,hnd,Honduras,2000,0,0
+604,hnd,Honduras,2001,0,0
+605,hnd,Honduras,2002,0,0
+606,hnd,Honduras,2003,1,0
+607,hnd,Honduras,2004,0,0
+608,hnd,Honduras,2005,0,0
+609,hnd,Honduras,2006,0,0
+610,hnd,Honduras,2007,1,0
+611,hnd,Honduras,2008,0,0
+612,hnd,Honduras,2009,2,0
+613,hnd,Honduras,2010,9,0
+614,hnd,Honduras,2011,4,0
+615,hnd,Honduras,2012,1,0
+616,hnd,Honduras,2013,2,0
+617,hnd,Honduras,2014,2,0
+618,hnd,Honduras,2015,0,0
+619,hnd,Honduras,2016,0,0
+620,hnd,Honduras,2017,4,0
+621,hnd,Honduras,2018,0,0
+622,hnd,Honduras,2019,4,0
+623,hnd,Honduras,2020,4,0
+624,hnd,Honduras,2021,0,0
+625,hnd,Honduras,2022,2,0
+626,hrv,Croatia,1992,1,0
+627,hrv,Croatia,1993,0,0
+628,hrv,Croatia,1994,0,0
+629,hrv,Croatia,1995,1,0
+630,hrv,Croatia,1996,0,0
+631,hrv,Croatia,1997,0,0
+632,hrv,Croatia,1998,0,0
+633,hrv,Croatia,1999,0,0
+634,hrv,Croatia,2000,0,0
+635,hrv,Croatia,2001,0,0
+636,hrv,Croatia,2002,0,0
+637,hrv,Croatia,2003,0,0
+638,hrv,Croatia,2004,0,0
+639,hrv,Croatia,2005,0,0
+640,hrv,Croatia,2006,0,0
+641,hrv,Croatia,2007,0,0
+642,hrv,Croatia,2008,2,0
+643,hti,Haiti,1992,1,0
+644,hti,Haiti,1993,0,0
+645,hti,Haiti,1994,0,0
+646,hti,Haiti,1995,0,0
+647,hti,Haiti,1996,0,0
+648,hti,Haiti,1997,0,0
+649,hti,Haiti,1998,0,0
+650,hti,Haiti,1999,0,0
+651,hti,Haiti,2000,2,0
+652,hti,Haiti,2001,1,0
+653,hti,Haiti,2002,0,0
+654,hti,Haiti,2003,0,0
+655,hti,Haiti,2004,1,0
+656,hti,Haiti,2005,2,0
+657,hti,Haiti,2006,0,0
+658,hti,Haiti,2007,2,0
+659,hti,Haiti,2008,0,0
+660,hti,Haiti,2009,0,0
+661,hti,Haiti,2010,0,0
+662,hti,Haiti,2011,0,0
+663,hti,Haiti,2012,0,0
+664,hti,Haiti,2013,0,0
+665,hti,Haiti,2014,0,0
+666,hti,Haiti,2015,0,0
+667,hti,Haiti,2016,0,0
+668,hti,Haiti,2017,0,0
+669,hti,Haiti,2018,0,0
+670,hti,Haiti,2019,2,0
+671,hti,Haiti,2020,0,0
+672,hti,Haiti,2021,1,0
+673,hti,Haiti,2022,7,0
+674,idn,Indonesia,1996,1,0
+675,idn,Indonesia,1997,2,0
+676,idn,Indonesia,1998,0,0
+677,idn,Indonesia,1999,0,0
+678,idn,Indonesia,2000,0,0
+679,idn,Indonesia,2001,0,0
+680,idn,Indonesia,2002,0,0
+681,idn,Indonesia,2003,2,0
+682,idn,Indonesia,2004,0,0
+683,idn,Indonesia,2005,0,0
+684,idn,Indonesia,2006,1,0
+685,idn,Indonesia,2007,0,0
+686,idn,Indonesia,2008,0,0
+687,idn,Indonesia,2009,1,0
+688,idn,Indonesia,2010,3,0
+689,idn,Indonesia,2011,0,0
+690,idn,Indonesia,2012,1,0
+691,idn,Indonesia,2013,0,0
+692,idn,Indonesia,2014,0,0
+693,idn,Indonesia,2015,0,0
+694,idn,Indonesia,2016,0,0
+695,idn,Indonesia,2017,0,0
+696,idn,Indonesia,2018,1,0
+697,idn,Indonesia,2019,0,0
+698,idn,Indonesia,2020,0,0
+699,idn,Indonesia,2021,1,0
+700,ind,India,1992,3,0
+701,ind,India,1993,2,0
+702,ind,India,1994,1,0
+703,ind,India,1995,1,0
+704,ind,India,1996,2,0
+705,ind,India,1997,7,0
+706,ind,India,1998,0,0
+707,ind,India,1999,3,0
+708,ind,India,2000,4,0
+709,ind,India,2001,1,0
+710,ind,India,2002,3,0
+711,ind,India,2003,3,0
+712,ind,India,2004,3,0
+713,ind,India,2005,0,0
+714,ind,India,2006,2,0
+715,ind,India,2007,3,0
+716,ind,India,2008,5,0
+717,ind,India,2009,1,0
+718,ind,India,2010,3,0
+719,ind,India,2011,2,0
+720,ind,India,2012,4,0
+721,ind,India,2013,6,0
+722,ind,India,2014,2,0
+723,ind,India,2015,4,0
+724,ind,India,2016,5,0
+725,ind,India,2017,5,0
+726,ind,India,2018,5,0
+727,ind,India,2019,1,0
+728,ind,India,2020,2,0
+729,ind,India,2021,5,0
+730,ind,India,2022,2,0
+731,irl,Ireland,1996,1,0
+732,irn,Iran,1997,1,0
+733,irn,Iran,1998,1,0
+734,irn,Iran,1999,0,0
+735,irn,Iran,2000,0,0
+736,irn,Iran,2001,0,0
+737,irn,Iran,2002,0,0
+738,irn,Iran,2003,1,0
+739,irn,Iran,2004,0,0
+740,irn,Iran,2005,0,0
+741,irn,Iran,2006,0,0
+742,irn,Iran,2007,0,0
+743,irn,Iran,2008,0,0
+744,irn,Iran,2009,1,0
+745,irn,Iran,2010,0,0
+746,irn,Iran,2011,0,0
+747,irn,Iran,2012,1,0
+748,irn,Iran,2013,0,0
+749,irn,Iran,2014,0,0
+750,irn,Iran,2015,0,0
+751,irn,Iran,2016,0,0
+752,irn,Iran,2017,0,0
+753,irn,Iran,2018,0,0
+754,irn,Iran,2019,0,0
+755,irn,Iran,2020,1,0
+756,irq,Iraq,1994,1,0
+757,irq,Iraq,1995,0,0
+758,irq,Iraq,1996,0,0
+759,irq,Iraq,1997,0,0
+760,irq,Iraq,1998,0,0
+761,irq,Iraq,1999,0,0
+762,irq,Iraq,2000,0,0
+763,irq,Iraq,2001,0,0
+764,irq,Iraq,2002,0,0
+765,irq,Iraq,2003,21,0
+766,irq,Iraq,2004,38,0
+767,irq,Iraq,2005,27,0
+768,irq,Iraq,2006,56,0
+769,irq,Iraq,2007,51,0
+770,irq,Iraq,2008,16,0
+771,irq,Iraq,2009,4,0
+772,irq,Iraq,2010,9,0
+773,irq,Iraq,2011,7,0
+774,irq,Iraq,2012,3,0
+775,irq,Iraq,2013,12,0
+776,irq,Iraq,2014,6,0
+777,irq,Iraq,2015,6,0
+778,irq,Iraq,2016,11,0
+779,irq,Iraq,2017,10,0
+780,irq,Iraq,2018,0,0
+781,irq,Iraq,2019,2,0
+782,irq,Iraq,2020,3,0
+783,jpn,Japan,2003,1,0
+784,kaz,Kazakhstan,2004,1,0
+785,kaz,Kazakhstan,2005,0,0
+786,kaz,Kazakhstan,2006,0,0
+787,kaz,Kazakhstan,2007,1,0
+788,kaz,Kazakhstan,2008,0,0
+789,kaz,Kazakhstan,2009,1,0
+790,kaz,Kazakhstan,2010,0,0
+791,kaz,Kazakhstan,2011,0,0
+792,kaz,Kazakhstan,2012,0,0
+793,kaz,Kazakhstan,2013,0,0
+794,kaz,Kazakhstan,2014,0,0
+795,kaz,Kazakhstan,2015,0,0
+796,kaz,Kazakhstan,2016,0,0
+797,kaz,Kazakhstan,2017,0,0
+798,kaz,Kazakhstan,2018,0,0
+799,kaz,Kazakhstan,2019,0,0
+800,kaz,Kazakhstan,2020,0,0
+801,kaz,Kazakhstan,2021,0,0
+802,kaz,Kazakhstan,2022,1,0
+803,ken,Kenya,2000,1,0
+804,ken,Kenya,2001,0,0
+805,ken,Kenya,2002,0,0
+806,ken,Kenya,2003,0,0
+807,ken,Kenya,2004,0,0
+808,ken,Kenya,2005,0,0
+809,ken,Kenya,2006,0,0
+810,ken,Kenya,2007,0,0
+811,ken,Kenya,2008,1,0
+812,ken,Kenya,2009,1,0
+813,ken,Kenya,2010,0,0
+814,ken,Kenya,2011,0,0
+815,ken,Kenya,2012,0,0
+816,ken,Kenya,2013,1,0
+817,ken,Kenya,2014,0,0
+818,ken,Kenya,2015,1,0
+819,ken,Kenya,2016,0,0
+820,ken,Kenya,2017,0,0
+821,ken,Kenya,2018,0,0
+822,ken,Kenya,2019,0,0
+823,ken,Kenya,2020,0,0
+824,ken,Kenya,2021,0,0
+825,ken,Kenya,2022,1,0
+826,kgz,Kyrgyz Republic,2003,1,0
+827,kgz,Kyrgyz Republic,2004,0,0
+828,kgz,Kyrgyz Republic,2005,0,0
+829,kgz,Kyrgyz Republic,2006,0,0
+830,kgz,Kyrgyz Republic,2007,1,0
+831,khm,Cambodia,1994,3,0
+832,khm,Cambodia,1995,0,0
+833,khm,Cambodia,1996,1,0
+834,khm,Cambodia,1997,3,0
+835,khm,Cambodia,1998,0,0
+836,khm,Cambodia,1999,0,0
+837,khm,Cambodia,2000,0,0
+838,khm,Cambodia,2001,0,0
+839,khm,Cambodia,2002,0,0
+840,khm,Cambodia,2003,1,0
+841,khm,Cambodia,2004,0,0
+842,khm,Cambodia,2005,0,0
+843,khm,Cambodia,2006,0,0
+844,khm,Cambodia,2007,0,0
+845,khm,Cambodia,2008,1,0
+846,khm,Cambodia,2009,0,0
+847,khm,Cambodia,2010,0,0
+848,khm,Cambodia,2011,0,0
+849,khm,Cambodia,2012,1,0
+850,khm,Cambodia,2013,0,0
+851,khm,Cambodia,2014,2,0
+852,kwt,Kuwait,2001,1,0
+853,lbn,Lebanon,1992,2,0
+854,lbn,Lebanon,1993,1,0
+855,lbn,Lebanon,1994,0,0
+856,lbn,Lebanon,1995,0,0
+857,lbn,Lebanon,1996,0,0
+858,lbn,Lebanon,1997,0,0
+859,lbn,Lebanon,1998,0,0
+860,lbn,Lebanon,1999,1,0
+861,lbn,Lebanon,2000,0,0
+862,lbn,Lebanon,2001,0,0
+863,lbn,Lebanon,2002,0,0
+864,lbn,Lebanon,2003,0,0
+865,lbn,Lebanon,2004,0,0
+866,lbn,Lebanon,2005,2,0
+867,lbn,Lebanon,2006,2,0
+868,lbn,Lebanon,2007,0,0
+869,lbn,Lebanon,2008,0,0
+870,lbn,Lebanon,2009,0,0
+871,lbn,Lebanon,2010,1,0
+872,lbn,Lebanon,2011,0,0
+873,lbn,Lebanon,2012,1,0
+874,lbn,Lebanon,2013,0,0
+875,lbn,Lebanon,2014,0,0
+876,lbn,Lebanon,2015,0,0
+877,lbn,Lebanon,2016,0,0
+878,lbn,Lebanon,2017,0,0
+879,lbn,Lebanon,2018,0,0
+880,lbn,Lebanon,2019,0,0
+881,lbn,Lebanon,2020,0,0
+882,lbn,Lebanon,2021,1,0
+883,lbr,Liberia,2020,1,0
+884,lby,Libya,2005,1,0
+885,lby,Libya,2006,0,0
+886,lby,Libya,2007,0,0
+887,lby,Libya,2008,0,0
+888,lby,Libya,2009,0,0
+889,lby,Libya,2010,0,0
+890,lby,Libya,2011,6,0
+891,lby,Libya,2012,0,0
+892,lby,Libya,2013,1,0
+893,lby,Libya,2014,1,0
+894,lby,Libya,2015,1,0
+895,lby,Libya,2016,3,0
+896,lby,Libya,2017,0,0
+897,lby,Libya,2018,1,0
+898,lby,Libya,2019,1,0
+899,lka,Sri Lanka,1999,5,0
+900,lka,Sri Lanka,2000,1,0
+901,lka,Sri Lanka,2001,0,0
+902,lka,Sri Lanka,2002,0,0
+903,lka,Sri Lanka,2003,0,0
+904,lka,Sri Lanka,2004,3,0
+905,lka,Sri Lanka,2005,2,0
+906,lka,Sri Lanka,2006,3,0
+907,lka,Sri Lanka,2007,6,0
+908,lka,Sri Lanka,2008,2,0
+909,lka,Sri Lanka,2009,3,0
+910,ltu,Lithuania,1993,1,0
+911,lva,Latvia,2001,1,0
+912,mdg,Madagascar,1994,1,0
+913,mdg,Madagascar,1995,0,0
+914,mdg,Madagascar,1996,0,0
+915,mdg,Madagascar,1997,0,0
+916,mdg,Madagascar,1998,0,0
+917,mdg,Madagascar,1999,0,0
+918,mdg,Madagascar,2000,0,0
+919,mdg,Madagascar,2001,0,0
+920,mdg,Madagascar,2002,0,0
+921,mdg,Madagascar,2003,0,0
+922,mdg,Madagascar,2004,0,0
+923,mdg,Madagascar,2005,0,0
+924,mdg,Madagascar,2006,0,0
+925,mdg,Madagascar,2007,0,0
+926,mdg,Madagascar,2008,0,0
+927,mdg,Madagascar,2009,1,0
+928,mdv,Maldives,2014,1,0
+929,mdv,Maldives,2015,0,0
+930,mdv,Maldives,2016,0,0
+931,mdv,Maldives,2017,1,0
+932,mex,Mexico,1994,3,0
+933,mex,Mexico,1995,1,0
+934,mex,Mexico,1996,0,0
+935,mex,Mexico,1997,3,0
+936,mex,Mexico,1998,2,0
+937,mex,Mexico,1999,0,0
+938,mex,Mexico,2000,2,0
+939,mex,Mexico,2001,1,0
+940,mex,Mexico,2002,0,0
+941,mex,Mexico,2003,0,0
+942,mex,Mexico,2004,4,0
+943,mex,Mexico,2005,2,0
+944,mex,Mexico,2006,7,0
+945,mex,Mexico,2007,7,0
+946,mex,Mexico,2008,6,0
+947,mex,Mexico,2009,8,0
+948,mex,Mexico,2010,10,0
+949,mex,Mexico,2011,8,0
+950,mex,Mexico,2012,6,0
+951,mex,Mexico,2013,3,0
+952,mex,Mexico,2014,3,0
+953,mex,Mexico,2015,5,0
+954,mex,Mexico,2016,9,0
+955,mex,Mexico,2017,9,0
+956,mex,Mexico,2018,10,0
+957,mex,Mexico,2019,11,0
+958,mex,Mexico,2020,9,0
+959,mex,Mexico,2021,9,0
+960,mex,Mexico,2022,13,0
+961,mli,Mali,2013,2,0
+962,mlt,Malta,2017,1,0
+963,mmr,Myanmar,1999,2,0
+964,mmr,Myanmar,2000,0,0
+965,mmr,Myanmar,2001,0,0
+966,mmr,Myanmar,2002,0,0
+967,mmr,Myanmar,2003,0,0
+968,mmr,Myanmar,2004,0,0
+969,mmr,Myanmar,2005,0,0
+970,mmr,Myanmar,2006,0,0
+971,mmr,Myanmar,2007,1,0
+972,mmr,Myanmar,2008,0,0
+973,mmr,Myanmar,2009,0,0
+974,mmr,Myanmar,2010,0,0
+975,mmr,Myanmar,2011,0,0
+976,mmr,Myanmar,2012,0,0
+977,mmr,Myanmar,2013,0,0
+978,mmr,Myanmar,2014,1,0
+979,mmr,Myanmar,2015,0,0
+980,mmr,Myanmar,2016,1,0
+981,mmr,Myanmar,2017,1,0
+982,mmr,Myanmar,2018,0,0
+983,mmr,Myanmar,2019,0,0
+984,mmr,Myanmar,2020,0,0
+985,mmr,Myanmar,2021,2,0
+986,mmr,Myanmar,2022,2,0
+987,mne,Montenegro,2004,1,0
+988,moz,Mozambique,2000,1,0
+989,moz,Mozambique,2001,0,0
+990,moz,Mozambique,2002,0,0
+991,moz,Mozambique,2003,0,0
+992,moz,Mozambique,2004,0,0
+993,moz,Mozambique,2005,0,0
+994,moz,Mozambique,2006,0,0
+995,moz,Mozambique,2007,0,0
+996,moz,Mozambique,2008,0,0
+997,moz,Mozambique,2009,0,0
+998,moz,Mozambique,2010,0,0
+999,moz,Mozambique,2011,0,0
+1000,moz,Mozambique,2012,0,0
+1001,moz,Mozambique,2013,0,0
+1002,moz,Mozambique,2014,0,0
+1003,moz,Mozambique,2015,1,0
+1004,nga,Nigeria,1996,2,0
+1005,nga,Nigeria,1997,0,0
+1006,nga,Nigeria,1998,2,0
+1007,nga,Nigeria,1999,4,0
+1008,nga,Nigeria,2000,0,0
+1009,nga,Nigeria,2001,0,0
+1010,nga,Nigeria,2002,0,0
+1011,nga,Nigeria,2003,0,0
+1012,nga,Nigeria,2004,0,0
+1013,nga,Nigeria,2005,0,0
+1014,nga,Nigeria,2006,1,0
+1015,nga,Nigeria,2007,0,0
+1016,nga,Nigeria,2008,2,0
+1017,nga,Nigeria,2009,1,0
+1018,nga,Nigeria,2010,3,0
+1019,nga,Nigeria,2011,1,0
+1020,nga,Nigeria,2012,2,0
+1021,nga,Nigeria,2013,1,0
+1022,nga,Nigeria,2014,0,0
+1023,nga,Nigeria,2015,0,0
+1024,nga,Nigeria,2016,0,0
+1025,nga,Nigeria,2017,1,0
+1026,nga,Nigeria,2018,0,0
+1027,nga,Nigeria,2019,1,0
+1028,nga,Nigeria,2020,3,0
+1029,nic,Nicaragua,2004,2,0
+1030,nic,Nicaragua,2005,0,0
+1031,nic,Nicaragua,2006,0,0
+1032,nic,Nicaragua,2007,0,0
+1033,nic,Nicaragua,2008,0,0
+1034,nic,Nicaragua,2009,0,0
+1035,nic,Nicaragua,2010,0,0
+1036,nic,Nicaragua,2011,0,0
+1037,nic,Nicaragua,2012,0,0
+1038,nic,Nicaragua,2013,0,0
+1039,nic,Nicaragua,2014,0,0
+1040,nic,Nicaragua,2015,0,0
+1041,nic,Nicaragua,2016,0,0
+1042,nic,Nicaragua,2017,0,0
+1043,nic,Nicaragua,2018,1,0
+1044,nld,Netherlands,2021,1,0
+1045,npl,Nepal,2000,1,0
+1046,npl,Nepal,2001,0,0
+1047,npl,Nepal,2002,3,0
+1048,npl,Nepal,2003,2,0
+1049,npl,Nepal,2004,1,0
+1050,npl,Nepal,2005,1,0
+1051,npl,Nepal,2006,0,0
+1052,npl,Nepal,2007,3,0
+1053,npl,Nepal,2008,1,0
+1054,npl,Nepal,2009,1,0
+1055,npl,Nepal,2010,3,0
+1056,npl,Nepal,2011,0,0
+1057,npl,Nepal,2012,1,0
+1058,pak,Pakistan,1994,2,0
+1059,pak,Pakistan,1995,0,0
+1060,pak,Pakistan,1996,0,0
+1061,pak,Pakistan,1997,1,0
+1062,pak,Pakistan,1998,1,0
+1063,pak,Pakistan,1999,1,0
+1064,pak,Pakistan,2000,1,0
+1065,pak,Pakistan,2001,1,0
+1066,pak,Pakistan,2002,2,0
+1067,pak,Pakistan,2003,1,0
+1068,pak,Pakistan,2004,1,0
+1069,pak,Pakistan,2005,2,0
+1070,pak,Pakistan,2006,3,0
+1071,pak,Pakistan,2007,5,0
+1072,pak,Pakistan,2008,6,0
+1073,pak,Pakistan,2009,8,0
+1074,pak,Pakistan,2010,11,0
+1075,pak,Pakistan,2011,11,0
+1076,pak,Pakistan,2012,9,0
+1077,pak,Pakistan,2013,8,0
+1078,pak,Pakistan,2014,7,0
+1079,pak,Pakistan,2015,2,0
+1080,pak,Pakistan,2016,3,0
+1081,pak,Pakistan,2017,3,0
+1082,pak,Pakistan,2018,2,0
+1083,pak,Pakistan,2019,2,0
+1084,pak,Pakistan,2020,1,0
+1085,pak,Pakistan,2021,3,0
+1086,pan,Panama,2011,1,0
+1087,per,Peru,1992,3,0
+1088,per,Peru,1993,1,0
+1089,per,Peru,1994,0,0
+1090,per,Peru,1995,0,0
+1091,per,Peru,1996,0,0
+1092,per,Peru,1997,1,0
+1093,per,Peru,1998,2,0
+1094,per,Peru,1999,0,0
+1095,per,Peru,2000,0,0
+1096,per,Peru,2001,0,0
+1097,per,Peru,2002,0,0
+1098,per,Peru,2003,0,0
+1099,per,Peru,2004,2,0
+1100,per,Peru,2005,0,0
+1101,per,Peru,2006,0,0
+1102,per,Peru,2007,1,0
+1103,per,Peru,2008,0,0
+1104,per,Peru,2009,0,0
+1105,per,Peru,2010,0,0
+1106,per,Peru,2011,3,0
+1107,per,Peru,2012,0,0
+1108,per,Peru,2013,1,0
+1109,per,Peru,2014,1,0
+1110,per,Peru,2015,0,0
+1111,per,Peru,2016,1,0
+1112,per,Peru,2017,0,0
+1113,per,Peru,2018,0,0
+1114,per,Peru,2019,1,0
+1115,phl,Philippines,1992,4,0
+1116,phl,Philippines,1993,3,0
+1117,phl,Philippines,1994,0,0
+1118,phl,Philippines,1995,0,0
+1119,phl,Philippines,1996,2,0
+1120,phl,Philippines,1997,1,0
+1121,phl,Philippines,1998,2,0
+1122,phl,Philippines,1999,0,0
+1123,phl,Philippines,2000,2,0
+1124,phl,Philippines,2001,4,0
+1125,phl,Philippines,2002,2,0
+1126,phl,Philippines,2003,6,0
+1127,phl,Philippines,2004,11,0
+1128,phl,Philippines,2005,8,0
+1129,phl,Philippines,2006,8,0
+1130,phl,Philippines,2007,3,0
+1131,phl,Philippines,2008,5,0
+1132,phl,Philippines,2009,38,0
+1133,phl,Philippines,2010,3,0
+1134,phl,Philippines,2011,5,0
+1135,phl,Philippines,2012,5,0
+1136,phl,Philippines,2013,9,0
+1137,phl,Philippines,2014,4,0
+1138,phl,Philippines,2015,7,0
+1139,phl,Philippines,2016,3,0
+1140,phl,Philippines,2017,3,0
+1141,phl,Philippines,2018,4,0
+1142,phl,Philippines,2019,3,0
+1143,phl,Philippines,2020,4,0
+1144,phl,Philippines,2021,3,0
+1145,phl,Philippines,2022,4,0
+1146,png,Papua New Guinea,1992,1,0
+1147,pol,Poland,1992,1,0
+1148,pol,Poland,1993,0,0
+1149,pol,Poland,1994,0,0
+1150,pol,Poland,1995,0,0
+1151,pol,Poland,1996,0,0
+1152,pol,Poland,1997,0,0
+1153,pol,Poland,1998,0,0
+1154,pol,Poland,1999,0,0
+1155,pol,Poland,2000,0,0
+1156,pol,Poland,2001,0,0
+1157,pol,Poland,2002,0,0
+1158,pol,Poland,2003,0,0
+1159,pol,Poland,2004,0,0
+1160,pol,Poland,2005,0,0
+1161,pol,Poland,2006,0,0
+1162,pol,Poland,2007,0,0
+1163,pol,Poland,2008,0,0
+1164,pol,Poland,2009,0,0
+1165,pol,Poland,2010,0,0
+1166,pol,Poland,2011,0,0
+1167,pol,Poland,2012,0,0
+1168,pol,Poland,2013,0,0
+1169,pol,Poland,2014,0,0
+1170,pol,Poland,2015,1,0
+1171,pry,Paraguay,2001,1,0
+1172,pry,Paraguay,2002,0,0
+1173,pry,Paraguay,2003,0,0
+1174,pry,Paraguay,2004,0,0
+1175,pry,Paraguay,2005,0,0
+1176,pry,Paraguay,2006,0,0
+1177,pry,Paraguay,2007,1,0
+1178,pry,Paraguay,2008,0,0
+1179,pry,Paraguay,2009,0,0
+1180,pry,Paraguay,2010,0,0
+1181,pry,Paraguay,2011,1,0
+1182,pry,Paraguay,2012,0,0
+1183,pry,Paraguay,2013,0,0
+1184,pry,Paraguay,2014,3,0
+1185,pry,Paraguay,2015,0,0
+1186,pry,Paraguay,2016,0,0
+1187,pry,Paraguay,2017,1,0
+1188,pry,Paraguay,2018,0,0
+1189,pry,Paraguay,2019,0,0
+1190,pry,Paraguay,2020,1,0
+1191,pry,Paraguay,2021,0,0
+1192,pry,Paraguay,2022,1,0
+1193,rus,Russia,1993,8,0
+1194,rus,Russia,1994,5,0
+1195,rus,Russia,1995,11,0
+1196,rus,Russia,1996,7,0
+1197,rus,Russia,1997,1,0
+1198,rus,Russia,1998,3,0
+1199,rus,Russia,1999,5,0
+1200,rus,Russia,2000,7,0
+1201,rus,Russia,2001,1,0
+1202,rus,Russia,2002,4,0
+1203,rus,Russia,2003,3,0
+1204,rus,Russia,2004,2,0
+1205,rus,Russia,2005,2,0
+1206,rus,Russia,2006,5,0
+1207,rus,Russia,2007,2,0
+1208,rus,Russia,2008,4,0
+1209,rus,Russia,2009,5,0
+1210,rus,Russia,2010,0,0
+1211,rus,Russia,2011,1,0
+1212,rus,Russia,2012,1,0
+1213,rus,Russia,2013,2,0
+1214,rus,Russia,2014,0,0
+1215,rus,Russia,2015,0,0
+1216,rus,Russia,2016,0,0
+1217,rus,Russia,2017,2,0
+1218,rus,Russia,2018,1,0
+1219,rwa,Rwanda,1993,1,0
+1220,rwa,Rwanda,1994,20,0
+1221,rwa,Rwanda,1995,0,0
+1222,rwa,Rwanda,1996,0,0
+1223,rwa,Rwanda,1997,0,0
+1224,rwa,Rwanda,1998,1,0
+1225,rwa,Rwanda,1999,0,0
+1226,rwa,Rwanda,2000,0,0
+1227,rwa,Rwanda,2001,0,0
+1228,rwa,Rwanda,2002,0,0
+1229,rwa,Rwanda,2003,0,0
+1230,rwa,Rwanda,2004,0,0
+1231,rwa,Rwanda,2005,0,0
+1232,rwa,Rwanda,2006,0,0
+1233,rwa,Rwanda,2007,0,0
+1234,rwa,Rwanda,2008,0,0
+1235,rwa,Rwanda,2009,0,0
+1236,rwa,Rwanda,2010,1,0
+1237,sau,Saudi Arabia,2004,1,0
+1238,sau,Saudi Arabia,2005,0,0
+1239,sau,Saudi Arabia,2006,0,0
+1240,sau,Saudi Arabia,2007,0,0
+1241,sau,Saudi Arabia,2008,0,0
+1242,sau,Saudi Arabia,2009,0,0
+1243,sau,Saudi Arabia,2010,0,0
+1244,sau,Saudi Arabia,2011,0,0
+1245,sau,Saudi Arabia,2012,0,0
+1246,sau,Saudi Arabia,2013,0,0
+1247,sau,Saudi Arabia,2014,0,0
+1248,sau,Saudi Arabia,2015,0,0
+1249,sau,Saudi Arabia,2016,0,0
+1250,sau,Saudi Arabia,2017,0,0
+1251,sau,Saudi Arabia,2018,1,0
+1252,sdn,Sudan,1992,1,0
+1253,sdn,Sudan,1993,0,0
+1254,sdn,Sudan,1994,0,0
+1255,sdn,Sudan,1995,0,0
+1256,sdn,Sudan,1996,0,0
+1257,sdn,Sudan,1997,0,0
+1258,sdn,Sudan,1998,0,0
+1259,sdn,Sudan,1999,0,0
+1260,sdn,Sudan,2000,0,0
+1261,sdn,Sudan,2001,0,0
+1262,sdn,Sudan,2002,0,0
+1263,sdn,Sudan,2003,0,0
+1264,sdn,Sudan,2004,0,0
+1265,sdn,Sudan,2005,0,0
+1266,sdn,Sudan,2006,1,0
+1267,sle,Sierra Leone,1997,1,0
+1268,sle,Sierra Leone,1998,1,0
+1269,sle,Sierra Leone,1999,10,0
+1270,sle,Sierra Leone,2000,3,0
+1271,sle,Sierra Leone,2001,0,0
+1272,sle,Sierra Leone,2002,0,0
+1273,sle,Sierra Leone,2003,0,0
+1274,sle,Sierra Leone,2004,0,0
+1275,sle,Sierra Leone,2005,1,0
+1276,sle,Sierra Leone,2006,0,0
+1277,sle,Sierra Leone,2007,0,0
+1278,sle,Sierra Leone,2008,0,0
+1279,sle,Sierra Leone,2009,0,0
+1280,sle,Sierra Leone,2010,0,0
+1281,sle,Sierra Leone,2011,1,0
+1282,sle,Sierra Leone,2012,0,0
+1283,sle,Sierra Leone,2013,0,0
+1284,sle,Sierra Leone,2014,0,0
+1285,sle,Sierra Leone,2015,0,0
+1286,sle,Sierra Leone,2016,0,0
+1287,sle,Sierra Leone,2017,0,0
+1288,sle,Sierra Leone,2018,1,0
+1289,slv,El Salvador,1993,1,0
+1290,slv,El Salvador,1994,0,0
+1291,slv,El Salvador,1995,0,0
+1292,slv,El Salvador,1996,0,0
+1293,slv,El Salvador,1997,1,0
+1294,slv,El Salvador,1998,0,0
+1295,slv,El Salvador,1999,0,0
+1296,slv,El Salvador,2000,0,0
+1297,slv,El Salvador,2001,0,0
+1298,slv,El Salvador,2002,0,0
+1299,slv,El Salvador,2003,0,0
+1300,slv,El Salvador,2004,0,0
+1301,slv,El Salvador,2005,0,0
+1302,slv,El Salvador,2006,0,0
+1303,slv,El Salvador,2007,1,0
+1304,slv,El Salvador,2008,0,0
+1305,slv,El Salvador,2009,1,0
+1306,slv,El Salvador,2010,0,0
+1307,slv,El Salvador,2011,1,0
+1308,slv,El Salvador,2012,0,0
+1309,slv,El Salvador,2013,0,0
+1310,slv,El Salvador,2014,0,0
+1311,slv,El Salvador,2015,0,0
+1312,slv,El Salvador,2016,1,0
+1313,som,Somalia,1993,5,0
+1314,som,Somalia,1994,3,0
+1315,som,Somalia,1995,1,0
+1316,som,Somalia,1996,0,0
+1317,som,Somalia,1997,0,0
+1318,som,Somalia,1998,0,0
+1319,som,Somalia,1999,0,0
+1320,som,Somalia,2000,1,0
+1321,som,Somalia,2001,0,0
+1322,som,Somalia,2002,0,0
+1323,som,Somalia,2003,1,0
+1324,som,Somalia,2004,0,0
+1325,som,Somalia,2005,2,0
+1326,som,Somalia,2006,1,0
+1327,som,Somalia,2007,8,0
+1328,som,Somalia,2008,2,0
+1329,som,Somalia,2009,9,0
+1330,som,Somalia,2010,3,0
+1331,som,Somalia,2011,3,0
+1332,som,Somalia,2012,14,0
+1333,som,Somalia,2013,5,0
+1334,som,Somalia,2014,4,0
+1335,som,Somalia,2015,3,0
+1336,som,Somalia,2016,3,0
+1337,som,Somalia,2017,3,0
+1338,som,Somalia,2018,7,0
+1339,som,Somalia,2019,2,0
+1340,som,Somalia,2020,1,0
+1341,som,Somalia,2021,2,0
+1342,som,Somalia,2022,2,0
+1343,srb,Serbia,1994,1,0
+1344,srb,Serbia,1995,0,0
+1345,srb,Serbia,1996,0,0
+1346,srb,Serbia,1997,0,0
+1347,srb,Serbia,1998,0,0
+1348,srb,Serbia,1999,0,0
+1349,srb,Serbia,2000,0,0
+1350,srb,Serbia,2001,0,0
+1351,srb,Serbia,2002,0,0
+1352,srb,Serbia,2003,0,0
+1353,srb,Serbia,2004,0,0
+1354,srb,Serbia,2005,1,0
+1355,ssd,South Sudan,2012,1,0
+1356,ssd,South Sudan,2013,0,0
+1357,ssd,South Sudan,2014,0,0
+1358,ssd,South Sudan,2015,7,0
+1359,ssd,South Sudan,2016,1,0
+1360,ssd,South Sudan,2017,1,0
+1361,svk,Slovak Republic,2018,1,0
+1362,syr,Syria,2011,2,0
+1363,syr,Syria,2012,37,0
+1364,syr,Syria,2013,32,0
+1365,syr,Syria,2014,19,0
+1366,syr,Syria,2015,16,0
+1367,syr,Syria,2016,18,0
+1368,syr,Syria,2017,10,0
+1369,syr,Syria,2018,9,0
+1370,syr,Syria,2019,7,0
+1371,syr,Syria,2020,4,0
+1372,syr,Syria,2021,0,0
+1373,syr,Syria,2022,1,0
+1374,tcd,Chad,1992,3,0
+1375,tcd,Chad,1993,0,0
+1376,tcd,Chad,1994,0,0
+1377,tcd,Chad,1995,0,0
+1378,tcd,Chad,1996,0,0
+1379,tcd,Chad,1997,0,0
+1380,tcd,Chad,1998,0,0
+1381,tcd,Chad,1999,0,0
+1382,tcd,Chad,2000,0,0
+1383,tcd,Chad,2001,0,0
+1384,tcd,Chad,2002,0,0
+1385,tcd,Chad,2003,0,0
+1386,tcd,Chad,2004,0,0
+1387,tcd,Chad,2005,0,0
+1388,tcd,Chad,2006,0,0
+1389,tcd,Chad,2007,0,0
+1390,tcd,Chad,2008,0,0
+1391,tcd,Chad,2009,0,0
+1392,tcd,Chad,2010,0,0
+1393,tcd,Chad,2011,0,0
+1394,tcd,Chad,2012,0,0
+1395,tcd,Chad,2013,0,0
+1396,tcd,Chad,2014,0,0
+1397,tcd,Chad,2015,0,0
+1398,tcd,Chad,2016,0,0
+1399,tcd,Chad,2017,0,0
+1400,tcd,Chad,2018,0,0
+1401,tcd,Chad,2019,1,0
+1402,tcd,Chad,2020,0,0
+1403,tcd,Chad,2021,0,0
+1404,tcd,Chad,2022,2,0
+1405,tha,Thailand,1998,1,0
+1406,tha,Thailand,1999,0,0
+1407,tha,Thailand,2000,0,0
+1408,tha,Thailand,2001,5,0
+1409,tha,Thailand,2002,0,0
+1410,tha,Thailand,2003,1,0
+1411,tha,Thailand,2004,0,0
+1412,tha,Thailand,2005,2,0
+1413,tha,Thailand,2006,0,0
+1414,tha,Thailand,2007,0,0
+1415,tha,Thailand,2008,3,0
+1416,tha,Thailand,2009,0,0
+1417,tha,Thailand,2010,2,0
+1418,tha,Thailand,2011,1,0
+1419,tha,Thailand,2012,1,0
+1420,tjk,Tajikistan,1992,10,0
+1421,tjk,Tajikistan,1993,12,0
+1422,tjk,Tajikistan,1994,4,0
+1423,tjk,Tajikistan,1995,1,0
+1424,tjk,Tajikistan,1996,1,0
+1425,tjk,Tajikistan,1997,0,0
+1426,tjk,Tajikistan,1998,0,0
+1427,tjk,Tajikistan,1999,1,0
+1428,tkm,Turkmenistan,2006,1,0
+1429,tls,Timor-Leste,1999,2,0
+1430,tun,Tunisia,2011,1,0
+1431,tur,Turkey,1992,11,0
+1432,tur,Turkey,1993,4,0
+1433,tur,Turkey,1994,2,0
+1434,tur,Turkey,1995,1,0
+1435,tur,Turkey,1996,1,0
+1436,tur,Turkey,1997,0,0
+1437,tur,Turkey,1998,0,0
+1438,tur,Turkey,1999,1,0
+1439,tur,Turkey,2000,0,0
+1440,tur,Turkey,2001,0,0
+1441,tur,Turkey,2002,0,0
+1442,tur,Turkey,2003,0,0
+1443,tur,Turkey,2004,0,0
+1444,tur,Turkey,2005,0,0
+1445,tur,Turkey,2006,0,0
+1446,tur,Turkey,2007,1,0
+1447,tur,Turkey,2008,0,0
+1448,tur,Turkey,2009,1,0
+1449,tur,Turkey,2010,1,0
+1450,tur,Turkey,2011,0,0
+1451,tur,Turkey,2012,0,0
+1452,tur,Turkey,2013,0,0
+1453,tur,Turkey,2014,1,0
+1454,tur,Turkey,2015,3,0
+1455,tur,Turkey,2016,2,0
+1456,tur,Turkey,2017,1,0
+1457,tur,Turkey,2018,0,0
+1458,tur,Turkey,2019,0,0
+1459,tur,Turkey,2020,0,0
+1460,tur,Turkey,2021,0,0
+1461,tur,Turkey,2022,1,0
+1462,tza,Tanzania,2012,1,0
+1463,tza,Tanzania,2013,1,0
+1464,uga,Uganda,1995,1,0
+1465,uga,Uganda,1996,0,0
+1466,uga,Uganda,1997,0,0
+1467,uga,Uganda,1998,0,0
+1468,uga,Uganda,1999,0,0
+1469,uga,Uganda,2000,0,0
+1470,uga,Uganda,2001,0,0
+1471,uga,Uganda,2002,1,0
+1472,uga,Uganda,2003,0,0
+1473,uga,Uganda,2004,0,0
+1474,uga,Uganda,2005,0,0
+1475,uga,Uganda,2006,0,0
+1476,uga,Uganda,2007,0,0
+1477,uga,Uganda,2008,0,0
+1478,uga,Uganda,2009,0,0
+1479,uga,Uganda,2010,2,0
+1480,uga,Uganda,2011,1,0
+1481,ukr,Ukraine,1995,2,0
+1482,ukr,Ukraine,1996,1,0
+1483,ukr,Ukraine,1997,2,0
+1484,ukr,Ukraine,1998,0,0
+1485,ukr,Ukraine,1999,0,0
+1486,ukr,Ukraine,2000,2,0
+1487,ukr,Ukraine,2001,2,0
+1488,ukr,Ukraine,2002,0,0
+1489,ukr,Ukraine,2003,0,0
+1490,ukr,Ukraine,2004,1,0
+1491,ukr,Ukraine,2005,0,0
+1492,ukr,Ukraine,2006,0,0
+1493,ukr,Ukraine,2007,0,0
+1494,ukr,Ukraine,2008,0,0
+1495,ukr,Ukraine,2009,0,0
+1496,ukr,Ukraine,2010,0,0
+1497,ukr,Ukraine,2011,0,0
+1498,ukr,Ukraine,2012,0,0
+1499,ukr,Ukraine,2013,0,0
+1500,ukr,Ukraine,2014,7,0
+1501,ukr,Ukraine,2015,1,0
+1502,ukr,Ukraine,2016,1,0
+1503,ukr,Ukraine,2017,0,0
+1504,ukr,Ukraine,2018,0,0
+1505,ukr,Ukraine,2019,1,0
+1506,ukr,Ukraine,2020,0,0
+1507,ukr,Ukraine,2021,0,0
+1508,ukr,Ukraine,2022,15,0
+1509,ury,Uruguay,2000,1,0
+1510,usa,United States,1992,1,0
+1511,usa,United States,1993,1,0
+1512,usa,United States,1994,0,0
+1513,usa,United States,1995,0,0
+1514,usa,United States,1996,0,0
+1515,usa,United States,1997,0,0
+1516,usa,United States,1998,0,0
+1517,usa,United States,1999,0,0
+1518,usa,United States,2000,1,0
+1519,usa,United States,2001,2,0
+1520,usa,United States,2002,0,0
+1521,usa,United States,2003,0,0
+1522,usa,United States,2004,0,0
+1523,usa,United States,2005,0,0
+1524,usa,United States,2006,0,0
+1525,usa,United States,2007,1,0
+1526,usa,United States,2008,0,0
+1527,usa,United States,2009,0,0
+1528,usa,United States,2010,0,0
+1529,usa,United States,2011,0,0
+1530,usa,United States,2012,0,0
+1531,usa,United States,2013,0,0
+1532,usa,United States,2014,0,0
+1533,usa,United States,2015,2,0
+1534,usa,United States,2016,1,0
+1535,usa,United States,2017,0,0
+1536,usa,United States,2018,6,0
+1537,usa,United States,2019,0,0
+1538,usa,United States,2020,0,0
+1539,usa,United States,2021,0,0
+1540,usa,United States,2022,1,0
+1541,uzb,Uzbekistan,1996,1,0
+1542,ven,Venezuela,1992,1,0
+1543,ven,Venezuela,1993,1,0
+1544,ven,Venezuela,1994,0,0
+1545,ven,Venezuela,1995,0,0
+1546,ven,Venezuela,1996,0,0
+1547,ven,Venezuela,1997,0,0
+1548,ven,Venezuela,1998,0,0
+1549,ven,Venezuela,1999,0,0
+1550,ven,Venezuela,2000,0,0
+1551,ven,Venezuela,2001,0,0
+1552,ven,Venezuela,2002,1,0
+1553,ven,Venezuela,2003,0,0
+1554,ven,Venezuela,2004,1,0
+1555,ven,Venezuela,2005,0,0
+1556,ven,Venezuela,2006,2,0
+1557,ven,Venezuela,2007,0,0
+1558,ven,Venezuela,2008,1,0
+1559,ven,Venezuela,2009,1,0
+1560,ven,Venezuela,2010,0,0
+1561,ven,Venezuela,2011,1,0
+1562,ven,Venezuela,2012,0,0
+1563,ven,Venezuela,2013,0,0
+1564,ven,Venezuela,2014,0,0
+1565,ven,Venezuela,2015,0,0
+1566,ven,Venezuela,2016,0,0
+1567,ven,Venezuela,2017,0,0
+1568,ven,Venezuela,2018,0,0
+1569,ven,Venezuela,2019,0,0
+1570,ven,Venezuela,2020,1,0
+1571,vnm,Vietnam,2011,1,0
+1572,yem,Yemen,2010,1,0
+1573,yem,Yemen,2011,3,0
+1574,yem,Yemen,2012,0,0
+1575,yem,Yemen,2013,0,0
+1576,yem,Yemen,2014,2,0
+1577,yem,Yemen,2015,8,0
+1578,yem,Yemen,2016,6,0
+1579,yem,Yemen,2017,2,0
+1580,yem,Yemen,2018,8,0
+1581,yem,Yemen,2019,1,0
+1582,yem,Yemen,2020,2,0
+1583,yem,Yemen,2021,1,0
+1584,yem,Yemen,2022,1,0
+1585,zaf,South Africa,1993,1,0
+1586,zaf,South Africa,1994,2,0
+1587,zaf,South Africa,1995,0,0
+1588,zaf,South Africa,1996,0,0
+1589,zaf,South Africa,1997,0,0
+1590,zaf,South Africa,1998,0,0
+1591,zaf,South Africa,1999,0,0
+1592,zaf,South Africa,2000,0,0
+1593,zaf,South Africa,2001,0,0
+1594,zaf,South Africa,2002,0,0
+1595,zaf,South Africa,2003,0,0
+1596,zaf,South Africa,2004,0,0
+1597,zaf,South Africa,2005,0,0
+1598,zaf,South Africa,2006,0,0
+1599,zaf,South Africa,2007,0,0
+1600,zaf,South Africa,2008,0,0
+1601,zaf,South Africa,2009,0,0
+1602,zaf,South Africa,2010,0,0
+1603,zaf,South Africa,2011,0,0
+1604,zaf,South Africa,2012,0,0
+1605,zaf,South Africa,2013,0,0
+1606,zaf,South Africa,2014,1,0
+1607,zaf,South Africa,2015,0,0
+1608,zaf,South Africa,2016,0,0
+1609,zaf,South Africa,2017,0,0
+1610,zaf,South Africa,2018,0,0
+1611,zaf,South Africa,2019,1,0
+1612,zmb,Zambia,2019,1,0
+1613,zwe,Zimbabwe,2007,1,0
+1614,,,,#REF!,#REF!
+1615,,,,#REF!,#REF!
+1616,,,,#REF!,#REF!
+1617,,,,#REF!,#REF!
+1618,,,,#REF!,#REF!
+1619,,,,#REF!,#REF!
+1620,,,,#REF!,#REF!
+1621,,,,#REF!,#REF!
+1622,,,,#REF!,#REF!
+1623,,,,#REF!,#REF!
+1624,,,,#REF!,#REF!
+1625,,,,#REF!,#REF!
+1626,,,,#REF!,#REF!
+1627,,,,#REF!,#REF!
+1628,,,,#REF!,#REF!
+1629,,,,#REF!,#REF!
+1630,,,,#REF!,#REF!
+1631,,,,#REF!,#REF!
+1632,,,,#REF!,#REF!
+1633,,,,#REF!,#REF!
+1634,,,,#REF!,#REF!
+1635,,,,#REF!,#REF!
+1636,,,,#REF!,#REF!
+1637,,,,#REF!,#REF!
+1638,,,,#REF!,#REF!
+1639,,,,#REF!,#REF!
+1640,,,,#REF!,#REF!
+1641,,,,#REF!,#REF!
+1642,,,,#REF!,#REF!
+1643,,,,#REF!,#REF!
+1644,,,,#REF!,#REF!
+1645,,,,#REF!,#REF!
+1646,,,,#REF!,#REF!
+1647,,,,#REF!,#REF!
+1648,,,,#REF!,#REF!
+1649,,,,#REF!,#REF!
+1650,,,,#REF!,#REF!
+1651,,,,#REF!,#REF!
+1652,,,,#REF!,#REF!
+1653,,,,#REF!,#REF!
+1654,,,,#REF!,#REF!
+1655,,,,#REF!,#REF!
+1656,,,,#REF!,#REF!
+1657,,,,#REF!,#REF!
+1658,,,,#REF!,#REF!
+1659,,,,#REF!,#REF!
+1660,,,,#REF!,#REF!
+1661,,,,#REF!,#REF!
+1662,,,,#REF!,#REF!
+1663,,,,#REF!,#REF!
+1664,,,,#REF!,#REF!
+1665,,,,#REF!,#REF!
+1666,,,,#REF!,#REF!
+1667,,,,#REF!,#REF!
+1668,,,,#REF!,#REF!
+1669,,,,#REF!,#REF!
+1670,,,,#REF!,#REF!
+1671,,,,#REF!,#REF!
+1672,,,,#REF!,#REF!
+1673,,,,#REF!,#REF!
+1674,,,,#REF!,#REF!
+1675,,,,#REF!,#REF!
+1676,,,,#REF!,#REF!
+1677,,,,#REF!,#REF!
+1678,,,,#REF!,#REF!
+1679,,,,#REF!,#REF!
+1680,,,,#REF!,#REF!
+1681,,,,#REF!,#REF!
+1682,,,,#REF!,#REF!
+1683,,,,#REF!,#REF!
+1684,,,,#REF!,#REF!
+1685,,,,#REF!,#REF!
+1686,,,,#REF!,#REF!
+1687,,,,#REF!,#REF!
+1688,,,,#REF!,#REF!
+1689,,,,#REF!,#REF!
+1690,,,,#REF!,#REF!
+1691,,,,#REF!,#REF!
+1692,,,,#REF!,#REF!
+1693,,,,#REF!,#REF!
+1694,,,,#REF!,#REF!
+1695,,,,#REF!,#REF!
+1696,,,,#REF!,#REF!
+1697,,,,#REF!,#REF!
+1698,,,,#REF!,#REF!
+1699,,,,#REF!,#REF!
+1700,,,,#REF!,#REF!
+1701,,,,#REF!,#REF!
+1702,,,,#REF!,#REF!
+1703,,,,#REF!,#REF!
+1704,,,,#REF!,#REF!
+1705,,,,#REF!,#REF!
+1706,,,,#REF!,#REF!
+1707,,,,#REF!,#REF!
+1708,,,,#REF!,#REF!
+1709,,,,#REF!,#REF!
+1710,,,,#REF!,#REF!
+1711,,,,#REF!,#REF!
+1712,,,,#REF!,#REF!
+1713,,,,#REF!,#REF!
+1714,,,,#REF!,#REF!
+1715,,,,#REF!,#REF!
+1716,,,,#REF!,#REF!
+1717,,,,#REF!,#REF!
+1718,,,,#REF!,#REF!
+1719,,,,#REF!,#REF!
+1720,,,,#REF!,#REF!
+1721,,,,#REF!,#REF!
+1722,,,,#REF!,#REF!
+1723,,,,#REF!,#REF!
+1724,,,,#REF!,#REF!
+1725,,,,#REF!,#REF!
+1726,,,,#REF!,#REF!
+1727,,,,#REF!,#REF!
+1728,,,,#REF!,#REF!
+1729,,,,#REF!,#REF!
+1730,,,,#REF!,#REF!
+1731,,,,#REF!,#REF!
+1732,,,,#REF!,#REF!
+1733,,,,#REF!,#REF!
+1734,,,,#REF!,#REF!
+1735,,,,#REF!,#REF!
+1736,,,,#REF!,#REF!
+1737,,,,#REF!,#REF!
+1738,,,,#REF!,#REF!
+1739,,,,#REF!,#REF!
+1740,,,,#REF!,#REF!
+1741,,,,#REF!,#REF!
+1742,,,,#REF!,#REF!
+1743,,,,#REF!,#REF!
+1744,,,,#REF!,#REF!
+1745,,,,#REF!,#REF!
+1746,,,,#REF!,#REF!
+1747,,,,#REF!,#REF!
+1748,,,,#REF!,#REF!
+1749,,,,#REF!,#REF!
+1750,,,,#REF!,#REF!
+1751,,,,#REF!,#REF!
+1752,,,,#REF!,#REF!
+1753,,,,#REF!,#REF!
+1754,,,,#REF!,#REF!
+1755,,,,#REF!,#REF!
+1756,,,,#REF!,#REF!
+1757,,,,#REF!,#REF!
+1758,,,,#REF!,#REF!
+1759,,,,#REF!,#REF!
+1760,,,,#REF!,#REF!
+1761,,,,#REF!,#REF!
+1762,,,,#REF!,#REF!
+1763,,,,#REF!,#REF!
+1764,,,,#REF!,#REF!
+1765,,,,#REF!,#REF!
+1766,,,,#REF!,#REF!
+1767,,,,#REF!,#REF!
+1768,,,,#REF!,#REF!
+1769,,,,#REF!,#REF!
+1770,,,,#REF!,#REF!
+1771,,,,#REF!,#REF!
+1772,,,,#REF!,#REF!
+1773,,,,#REF!,#REF!
+1774,,,,#REF!,#REF!
+1775,,,,#REF!,#REF!
+1776,,,,#REF!,#REF!
+1777,,,,#REF!,#REF!
+1778,,,,#REF!,#REF!
+1779,,,,#REF!,#REF!
+1780,,,,#REF!,#REF!
+1781,,,,#REF!,#REF!
+1782,,,,#REF!,#REF!
+1783,,,,#REF!,#REF!
+1784,,,,#REF!,#REF!
+1785,,,,#REF!,#REF!
+1786,,,,#REF!,#REF!
+1787,,,,#REF!,#REF!
+1788,,,,#REF!,#REF!
+1789,,,,#REF!,#REF!
+1790,,,,#REF!,#REF!
+1791,,,,#REF!,#REF!
+1792,,,,#REF!,#REF!
+1793,,,,#REF!,#REF!
+1794,,,,#REF!,#REF!
+1795,,,,#REF!,#REF!
+1796,,,,#REF!,#REF!
+1797,,,,#REF!,#REF!
+1798,,,,#REF!,#REF!
+1799,,,,#REF!,#REF!
+1800,,,,#REF!,#REF!
+1801,,,,#REF!,#REF!
+1802,,,,#REF!,#REF!
+1803,,,,#REF!,#REF!
+1804,,,,#REF!,#REF!
+1805,,,,#REF!,#REF!
+1806,,,,#REF!,#REF!
+1807,,,,#REF!,#REF!
+1808,,,,#REF!,#REF!
+1809,,,,#REF!,#REF!
+1810,,,,#REF!,#REF!
+1811,,,,#REF!,#REF!
+1812,,,,#REF!,#REF!
+1813,,,,#REF!,#REF!
+1814,,,,#REF!,#REF!
+1815,,,,#REF!,#REF!
+1816,,,,#REF!,#REF!
+1817,,,,#REF!,#REF!
+1818,,,,#REF!,#REF!
+1819,,,,#REF!,#REF!
+1820,,,,#REF!,#REF!
+1821,,,,#REF!,#REF!
+1822,,,,#REF!,#REF!
+1823,,,,#REF!,#REF!
+1824,,,,#REF!,#REF!
+1825,,,,#REF!,#REF!
+1826,,,,#REF!,#REF!
+1827,,,,#REF!,#REF!
+1828,,,,#REF!,#REF!
+1829,,,,#REF!,#REF!
+1830,,,,#REF!,#REF!
+1831,,,,#REF!,#REF!
+1832,,,,#REF!,#REF!
+1833,,,,#REF!,#REF!
+1834,,,,#REF!,#REF!
+1835,,,,#REF!,#REF!
+1836,,,,#REF!,#REF!
+1837,,,,#REF!,#REF!
+1838,,,,#REF!,#REF!
+1839,,,,#REF!,#REF!
+1840,,,,#REF!,#REF!
+1841,,,,#REF!,#REF!
+1842,,,,#REF!,#REF!
+1843,,,,#REF!,#REF!
+1844,,,,#REF!,#REF!
+1845,,,,#REF!,#REF!
+1846,,,,#REF!,#REF!
+1847,,,,#REF!,#REF!
+1848,,,,#REF!,#REF!
+1849,,,,#REF!,#REF!
+1850,,,,#REF!,#REF!
+1851,,,,#REF!,#REF!
+1852,,,,#REF!,#REF!
+1853,,,,#REF!,#REF!
+1854,,,,#REF!,#REF!
+1855,,,,#REF!,#REF!
+1856,,,,#REF!,#REF!
+1857,,,,#REF!,#REF!
+1858,,,,#REF!,#REF!
+1859,,,,#REF!,#REF!
+1860,,,,#REF!,#REF!
+1861,,,,#REF!,#REF!
+1862,,,,#REF!,#REF!
+1863,,,,#REF!,#REF!
+1864,,,,#REF!,#REF!
+1865,,,,#REF!,#REF!
+1866,,,,#REF!,#REF!
+1867,,,,#REF!,#REF!
+1868,,,,#REF!,#REF!
+1869,,,,#REF!,#REF!
+1870,,,,#REF!,#REF!
+1871,,,,#REF!,#REF!
+1872,,,,#REF!,#REF!
+1873,,,,#REF!,#REF!
+1874,,,,#REF!,#REF!
+1875,,,,#REF!,#REF!
+1876,,,,#REF!,#REF!
+1877,,,,#REF!,#REF!
+1878,,,,#REF!,#REF!
+1879,,,,#REF!,#REF!
+1880,,,,#REF!,#REF!
+1881,,,,#REF!,#REF!
+1882,,,,#REF!,#REF!
+1883,,,,#REF!,#REF!
+1884,,,,#REF!,#REF!
+1885,,,,#REF!,#REF!
+1886,,,,#REF!,#REF!
+1887,,,,#REF!,#REF!
+1888,,,,#REF!,#REF!
+1889,,,,#REF!,#REF!
+1890,,,,#REF!,#REF!
+1891,,,,#REF!,#REF!
+1892,,,,#REF!,#REF!
+1893,,,,#REF!,#REF!
+1894,,,,#REF!,#REF!
+1895,,,,#REF!,#REF!
+1896,,,,#REF!,#REF!
+1897,,,,#REF!,#REF!
+1898,,,,#REF!,#REF!
+1899,,,,#REF!,#REF!
+1900,,,,#REF!,#REF!
+1901,,,,#REF!,#REF!
+1902,,,,#REF!,#REF!
+1903,,,,#REF!,#REF!
+1904,,,,#REF!,#REF!
+1905,,,,#REF!,#REF!
+1906,,,,#REF!,#REF!
+1907,,,,#REF!,#REF!
+1908,,,,#REF!,#REF!
+1909,,,,#REF!,#REF!
+1910,,,,#REF!,#REF!
+1911,,,,#REF!,#REF!
+1912,,,,#REF!,#REF!
+1913,,,,#REF!,#REF!
+1914,,,,#REF!,#REF!
+1915,,,,#REF!,#REF!
+1916,,,,#REF!,#REF!
+1917,,,,#REF!,#REF!
+1918,,,,#REF!,#REF!
+1919,,,,#REF!,#REF!
+1920,,,,#REF!,#REF!
+1921,,,,#REF!,#REF!
+1922,,,,#REF!,#REF!
+1923,,,,#REF!,#REF!
+1924,,,,#REF!,#REF!
+1925,,,,#REF!,#REF!
+1926,,,,#REF!,#REF!
+1927,,,,#REF!,#REF!
+1928,,,,#REF!,#REF!
+1929,,,,#REF!,#REF!
+1930,,,,#REF!,#REF!
+1931,,,,#REF!,#REF!
+1932,,,,#REF!,#REF!
+1933,,,,#REF!,#REF!
+1934,,,,#REF!,#REF!
+1935,,,,#REF!,#REF!
+1936,,,,#REF!,#REF!
+1937,,,,#REF!,#REF!
+1938,,,,#REF!,#REF!
+1939,,,,#REF!,#REF!
+1940,,,,#REF!,#REF!
+1941,,,,#REF!,#REF!
+1942,,,,#REF!,#REF!
+1943,,,,#REF!,#REF!
+1944,,,,#REF!,#REF!
+1945,,,,#REF!,#REF!
+1946,,,,#REF!,#REF!
+1947,,,,#REF!,#REF!
+1948,,,,#REF!,#REF!
+1949,,,,#REF!,#REF!
+1950,,,,#REF!,#REF!
+1951,,,,#REF!,#REF!
+1952,,,,#REF!,#REF!
+1953,,,,#REF!,#REF!
+1954,,,,#REF!,#REF!
+1955,,,,#REF!,#REF!
+1956,,,,#REF!,#REF!
+1957,,,,#REF!,#REF!
+1958,,,,#REF!,#REF!
+1959,,,,#REF!,#REF!
+1960,,,,#REF!,#REF!
+1961,,,,#REF!,#REF!
+1962,,,,#REF!,#REF!
+1963,,,,#REF!,#REF!
+1964,,,,#REF!,#REF!
+1965,,,,#REF!,#REF!
+1966,,,,#REF!,#REF!
+1967,,,,#REF!,#REF!
+1968,,,,#REF!,#REF!
+1969,,,,#REF!,#REF!
+1970,,,,#REF!,#REF!
+1971,,,,#REF!,#REF!
+1972,,,,#REF!,#REF!
+1973,,,,#REF!,#REF!
+1974,,,,#REF!,#REF!
+1975,,,,#REF!,#REF!
+1976,,,,#REF!,#REF!
+1977,,,,#REF!,#REF!
+1978,,,,#REF!,#REF!
+1979,,,,#REF!,#REF!
+1980,,,,#REF!,#REF!
+1981,,,,#REF!,#REF!
+1982,,,,#REF!,#REF!
+1983,,,,#REF!,#REF!
+1984,,,,#REF!,#REF!
+1985,,,,#REF!,#REF!
+1986,,,,#REF!,#REF!
+1987,,,,#REF!,#REF!
+1988,,,,#REF!,#REF!
+1989,,,,#REF!,#REF!
+1990,,,,#REF!,#REF!
+1991,,,,#REF!,#REF!
+1992,,,,#REF!,#REF!
+1993,,,,#REF!,#REF!
+1994,,,,#REF!,#REF!
+1995,,,,#REF!,#REF!
+1996,,,,#REF!,#REF!
+1997,,,,#REF!,#REF!
+1998,,,,#REF!,#REF!
+1999,,,,#REF!,#REF!
+2000,,,,#REF!,#REF!
+2001,,,,#REF!,#REF!
+2002,,,,#REF!,#REF!
+2003,,,,#REF!,#REF!
+2004,,,,#REF!,#REF!
+2005,,,,#REF!,#REF!
+2006,,,,#REF!,#REF!
+2007,,,,#REF!,#REF!
+2008,,,,#REF!,#REF!
+2009,,,,#REF!,#REF!
+2010,,,,#REF!,#REF!
+2011,,,,#REF!,#REF!
+2012,,,,#REF!,#REF!
+2013,,,,#REF!,#REF!
+2014,,,,#REF!,#REF!
+2015,,,,#REF!,#REF!
+2016,,,,#REF!,#REF!
+2017,,,,#REF!,#REF!
+2018,,,,#REF!,#REF!
+2019,,,,#REF!,#REF!
+2020,,,,#REF!,#REF!
+2021,,,,#REF!,#REF!
+2022,,,,#REF!,#REF!
+2023,,,,#REF!,#REF!
+2024,,,,#REF!,#REF!
+2025,,,,#REF!,#REF!
+2026,,,,#REF!,#REF!
+2027,,,,#REF!,#REF!
+2028,,,,#REF!,#REF!
+2029,,,,#REF!,#REF!
+2030,,,,#REF!,#REF!
+2031,,,,#REF!,#REF!
+2032,,,,#REF!,#REF!
+2033,,,,#REF!,#REF!
+2034,,,,#REF!,#REF!
+2035,,,,#REF!,#REF!
+2036,,,,#REF!,#REF!
+2037,,,,#REF!,#REF!
+2038,,,,#REF!,#REF!
+2039,,,,#REF!,#REF!
+2040,,,,#REF!,#REF!
+2041,,,,#REF!,#REF!
+2042,,,,#REF!,#REF!
+2043,,,,#REF!,#REF!
+2044,,,,#REF!,#REF!
+2045,,,,#REF!,#REF!
+2046,,,,#REF!,#REF!
+2047,,,,#REF!,#REF!
+2048,,,,#REF!,#REF!
+2049,,,,#REF!,#REF!
+2050,,,,#REF!,#REF!
+2051,,,,#REF!,#REF!
+2052,,,,#REF!,#REF!
+2053,,,,#REF!,#REF!
+2054,,,,#REF!,#REF!
+2055,,,,#REF!,#REF!
+2056,,,,#REF!,#REF!
+2057,,,,#REF!,#REF!
+2058,,,,#REF!,#REF!
+2059,,,,#REF!,#REF!
+2060,,,,#REF!,#REF!
+2061,,,,#REF!,#REF!
+2062,,,,#REF!,#REF!
+2063,,,,#REF!,#REF!
+2064,,,,#REF!,#REF!
+2065,,,,#REF!,#REF!
+2066,,,,#REF!,#REF!
+2067,,,,#REF!,#REF!
+2068,,,,#REF!,#REF!
+2069,,,,#REF!,#REF!
+2070,,,,#REF!,#REF!
+2071,,,,#REF!,#REF!
+2072,,,,#REF!,#REF!
+2073,,,,#REF!,#REF!
+2074,,,,#REF!,#REF!
+2075,,,,#REF!,#REF!
+2076,,,,#REF!,#REF!
+2077,,,,#REF!,#REF!
+2078,,,,#REF!,#REF!
+2079,,,,#REF!,#REF!
+2080,,,,#REF!,#REF!
+2081,,,,#REF!,#REF!
+2082,,,,#REF!,#REF!
+2083,,,,#REF!,#REF!
+2084,,,,#REF!,#REF!
+2085,,,,#REF!,#REF!
+2086,,,,#REF!,#REF!
+2087,,,,#REF!,#REF!
+2088,,,,#REF!,#REF!
+2089,,,,#REF!,#REF!
+2090,,,,#REF!,#REF!
+2091,,,,#REF!,#REF!
+2092,,,,#REF!,#REF!
+2093,,,,#REF!,#REF!
+2094,,,,#REF!,#REF!
+2095,,,,#REF!,#REF!
+2096,,,,#REF!,#REF!
+2097,,,,#REF!,#REF!
+2098,,,,#REF!,#REF!
+2099,,,,#REF!,#REF!
+2100,,,,#REF!,#REF!
+2101,,,,#REF!,#REF!
+2102,,,,#REF!,#REF!
+2103,,,,#REF!,#REF!
+2104,,,,#REF!,#REF!
+2105,,,,#REF!,#REF!
+2106,,,,#REF!,#REF!
+2107,,,,#REF!,#REF!
+2108,,,,#REF!,#REF!
+2109,,,,#REF!,#REF!
+2110,,,,#REF!,#REF!
+2111,,,,#REF!,#REF!
+2112,,,,#REF!,#REF!
+2113,,,,#REF!,#REF!
+2114,,,,#REF!,#REF!
+2115,,,,#REF!,#REF!
+2116,,,,#REF!,#REF!
+2117,,,,#REF!,#REF!
+2118,,,,#REF!,#REF!
+2119,,,,#REF!,#REF!
+2120,,,,#REF!,#REF!
+2121,,,,#REF!,#REF!
+2122,,,,#REF!,#REF!
+2123,,,,#REF!,#REF!
+2124,,,,#REF!,#REF!
+2125,,,,#REF!,#REF!
+2126,,,,#REF!,#REF!
+2127,,,,#REF!,#REF!
+2128,,,,#REF!,#REF!
+2129,,,,#REF!,#REF!
+2130,,,,#REF!,#REF!
+2131,,,,#REF!,#REF!
+2132,,,,#REF!,#REF!
+2133,,,,#REF!,#REF!
+2134,,,,#REF!,#REF!
+2135,,,,#REF!,#REF!
+2136,,,,#REF!,#REF!
+2137,,,,#REF!,#REF!
+2138,,,,#REF!,#REF!
+2139,,,,#REF!,#REF!
+2140,,,,#REF!,#REF!
+2141,,,,#REF!,#REF!
+2142,,,,#REF!,#REF!
+2143,,,,#REF!,#REF!
+2144,,,,#REF!,#REF!
+2145,,,,#REF!,#REF!
+2146,,,,#REF!,#REF!
+2147,,,,#REF!,#REF!
+2148,,,,#REF!,#REF!
+2149,,,,#REF!,#REF!
+2150,,,,#REF!,#REF!
+2151,,,,#REF!,#REF!
+2152,,,,#REF!,#REF!
+2153,,,,#REF!,#REF!
+2154,,,,#REF!,#REF!
+2155,,,,#REF!,#REF!
+2156,,,,#REF!,#REF!
+2157,,,,#REF!,#REF!
+2158,,,,#REF!,#REF!
+2159,,,,#REF!,#REF!
+2160,,,,#REF!,#REF!
+2161,,,,#REF!,#REF!
+2162,,,,#REF!,#REF!
+2163,,,,#REF!,#REF!
+2164,,,,#REF!,#REF!
+2165,,,,#REF!,#REF!
+2166,,,,#REF!,#REF!
+2167,,,,#REF!,#REF!
+2168,,,,#REF!,#REF!
+2169,,,,#REF!,#REF!
+2170,,,,#REF!,#REF!
+2171,,,,#REF!,#REF!
+2172,,,,#REF!,#REF!
+2173,,,,#REF!,#REF!
+2174,,,,#REF!,#REF!
+2175,,,,#REF!,#REF!
+2176,,,,#REF!,#REF!
+2177,,,,#REF!,#REF!
+2178,,,,#REF!,#REF!
+2179,,,,#REF!,#REF!
+2180,,,,#REF!,#REF!
+2181,,,,#REF!,#REF!
+2182,,,,#REF!,#REF!
+2183,,,,#REF!,#REF!
+2184,,,,#REF!,#REF!
+2185,,,,#REF!,#REF!
+2186,,,,#REF!,#REF!
+2187,,,,#REF!,#REF!
+2188,,,,#REF!,#REF!
+2189,,,,#REF!,#REF!
+2190,,,,#REF!,#REF!
+2191,,,,#REF!,#REF!
+2192,,,,#REF!,#REF!
+2193,,,,#REF!,#REF!
+2194,,,,#REF!,#REF!
+2195,,,,#REF!,#REF!
+2196,,,,#REF!,#REF!
+2197,,,,#REF!,#REF!
+2198,,,,#REF!,#REF!
+2199,,,,#REF!,#REF!
+2200,,,,#REF!,#REF!
+2201,,,,#REF!,#REF!
+2202,,,,#REF!,#REF!
+2203,,,,#REF!,#REF!
+2204,,,,#REF!,#REF!
+2205,,,,#REF!,#REF!
+2206,,,,#REF!,#REF!
+2207,,,,#REF!,#REF!
+2208,,,,#REF!,#REF!
+2209,,,,#REF!,#REF!
+2210,,,,#REF!,#REF!
+2211,,,,#REF!,#REF!
+2212,,,,#REF!,#REF!
+2213,,,,#REF!,#REF!
+2214,,,,#REF!,#REF!
+2215,,,,#REF!,#REF!
+2216,,,,#REF!,#REF!
+2217,,,,#REF!,#REF!
+2218,,,,#REF!,#REF!
+2219,,,,#REF!,#REF!
+2220,,,,#REF!,#REF!
+2221,,,,#REF!,#REF!
+2222,,,,#REF!,#REF!
+2223,,,,#REF!,#REF!
+2224,,,,#REF!,#REF!
+2225,,,,#REF!,#REF!
+2226,,,,#REF!,#REF!
+2227,,,,#REF!,#REF!
+2228,,,,#REF!,#REF!
+2229,,,,#REF!,#REF!
+2230,,,,#REF!,#REF!
+2231,,,,#REF!,#REF!
+2232,,,,#REF!,#REF!
+2233,,,,#REF!,#REF!
+2234,,,,#REF!,#REF!
+2235,,,,#REF!,#REF!
+2236,,,,#REF!,#REF!
+2237,,,,#REF!,#REF!
+2238,,,,#REF!,#REF!
+2239,,,,#REF!,#REF!
+2240,,,,#REF!,#REF!
+2241,,,,#REF!,#REF!
+2242,,,,#REF!,#REF!
+2243,,,,#REF!,#REF!
+2244,,,,#REF!,#REF!
+2245,,,,#REF!,#REF!
+2246,,,,#REF!,#REF!
+2247,,,,#REF!,#REF!
+2248,,,,#REF!,#REF!
+2249,,,,#REF!,#REF!
+2250,,,,#REF!,#REF!
+2251,,,,#REF!,#REF!
+2252,,,,#REF!,#REF!
+2253,,,,#REF!,#REF!
+2254,,,,#REF!,#REF!
+2255,,,,#REF!,#REF!
+2256,,,,#REF!,#REF!
+2257,,,,#REF!,#REF!
+2258,,,,#REF!,#REF!
+2259,,,,#REF!,#REF!
+2260,,,,#REF!,#REF!
+2261,,,,#REF!,#REF!
+2262,,,,#REF!,#REF!
+2263,,,,#REF!,#REF!
+2264,,,,#REF!,#REF!
+2265,,,,#REF!,#REF!
+2266,,,,#REF!,#REF!
+2267,,,,#REF!,#REF!
+2268,,,,#REF!,#REF!
+2269,,,,#REF!,#REF!
+2270,,,,#REF!,#REF!
+2271,,,,#REF!,#REF!
+2272,,,,#REF!,#REF!
+2273,,,,#REF!,#REF!
+2274,,,,#REF!,#REF!
+2275,,,,#REF!,#REF!
+2276,,,,#REF!,#REF!
+2277,,,,#REF!,#REF!
+2278,,,,#REF!,#REF!
+2279,,,,#REF!,#REF!
+2280,,,,#REF!,#REF!
+2281,,,,#REF!,#REF!
+2282,,,,#REF!,#REF!
