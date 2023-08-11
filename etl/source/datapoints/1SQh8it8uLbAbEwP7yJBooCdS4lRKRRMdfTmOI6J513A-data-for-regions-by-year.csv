@@ -1,125 +1,125 @@
-,geo,name,time,Journalists killed,Journalists imprisoned
-0,africa,Africa,1992,7,8
-1,africa,Africa,1993,19,8
-2,africa,Africa,1994,49,9
-3,africa,Africa,1995,29,48
-4,africa,Africa,1996,10,27
-5,africa,Africa,1997,1,34
-6,africa,Africa,1998,9,38
-7,africa,Africa,1999,16,16
-8,africa,Africa,2000,6,17
-9,africa,Africa,2001,2,23
-10,africa,Africa,2002,1,29
-11,africa,Africa,2003,4,26
-12,africa,Africa,2004,2,27
-13,africa,Africa,2005,5,42
-14,africa,Africa,2006,4,52
-15,africa,Africa,2007,13,26
-16,africa,Africa,2008,6,30
-17,africa,Africa,2009,15,47
-18,africa,Africa,2010,13,48
-19,africa,Africa,2011,18,59
-20,africa,Africa,2012,19,52
-21,africa,Africa,2013,18,52
-22,africa,Africa,2014,13,74
-23,africa,Africa,2015,16,63
-24,africa,Africa,2016,9,72
-25,africa,Africa,2017,5,73
-26,africa,Africa,2018,13,65
-27,africa,Africa,2019,10,78
-28,africa,Africa,2020,5,87
-29,africa,Africa,2021,7,80
-30,africa,Africa,2022,6,56
-31,americas,The Americas,1992,7,6
-32,americas,The Americas,1993,10,8
-33,americas,The Americas,1994,7,11
-34,americas,The Americas,1995,11,8
-35,americas,The Americas,1996,3,4
-36,americas,The Americas,1997,16,6
-37,americas,The Americas,1998,16,10
-38,americas,The Americas,1999,9,4
-39,americas,The Americas,2000,15,3
-40,americas,The Americas,2001,17,2
-41,americas,The Americas,2002,12,2
-42,americas,The Americas,2003,10,30
-43,americas,The Americas,2004,16,25
-44,americas,The Americas,2005,8,26
-45,americas,The Americas,2006,14,28
-46,americas,The Americas,2007,17,25
-47,americas,The Americas,2008,11,25
-48,americas,The Americas,2009,18,24
-49,americas,The Americas,2010,23,4
-50,americas,The Americas,2011,29,0
-51,americas,The Americas,2012,15,1
-52,americas,The Americas,2013,14,2
-53,americas,The Americas,2014,13,2
-54,americas,The Americas,2015,20,0
-55,americas,The Americas,2016,16,4
-56,americas,The Americas,2017,18,3
-57,americas,The Americas,2018,24,4
-58,americas,The Americas,2019,22,3
-59,americas,The Americas,2020,21,0
-60,americas,The Americas,2021,11,6
-61,americas,The Americas,2022,31,4
-62,asia,Asia,1992,20,92
-63,asia,Asia,1993,18,90
-64,asia,Asia,1994,12,85
-65,asia,Asia,1995,2,81
-66,asia,Asia,1996,10,76
-67,asia,Asia,1997,15,58
-68,asia,Asia,1998,7,48
-69,asia,Asia,1999,15,59
-70,asia,Asia,2000,11,57
-71,asia,Asia,2001,24,74
-72,asia,Asia,2002,13,88
-73,asia,Asia,2003,40,75
-74,asia,Asia,2004,63,67
-75,asia,Asia,2005,46,60
-76,asia,Asia,2006,80,51
-77,asia,Asia,2007,78,66
-78,asia,Asia,2008,41,72
-79,asia,Asia,2009,61,98
-80,asia,Asia,2010,40,120
-81,asia,Asia,2011,37,128
-82,asia,Asia,2012,69,133
-83,asia,Asia,2013,68,122
-84,asia,Asia,2014,52,137
-85,asia,Asia,2015,49,109
-86,asia,Asia,2016,53,94
-87,asia,Asia,2017,47,104
-88,asia,Asia,2018,46,104
-89,asia,Asia,2019,18,117
-90,asia,Asia,2020,24,131
-91,asia,Asia,2021,21,160
-92,asia,Asia,2022,13,214
-93,europe,Europe,1992,22,3
-94,europe,Europe,1993,25,19
-95,europe,Europe,1994,16,68
-96,europe,Europe,1995,18,57
-97,europe,Europe,1996,11,68
-98,europe,Europe,1997,3,30
-99,europe,Europe,1998,4,30
-100,europe,Europe,1999,7,19
-101,europe,Europe,2000,11,15
-102,europe,Europe,2001,7,14
-103,europe,Europe,2002,6,15
-104,europe,Europe,2003,4,7
-105,europe,Europe,2004,5,4
-106,europe,Europe,2005,5,3
-107,europe,Europe,2006,5,11
-108,europe,Europe,2007,3,19
-109,europe,Europe,2008,10,13
-110,europe,Europe,2009,7,18
-111,europe,Europe,2010,4,21
-112,europe,Europe,2011,2,26
-113,europe,Europe,2012,1,59
-114,europe,Europe,2013,2,52
-115,europe,Europe,2014,8,19
-116,europe,Europe,2015,15,25
-117,europe,Europe,2016,3,94
-118,europe,Europe,2017,5,89
-119,europe,Europe,2018,3,84
-120,europe,Europe,2019,2,62
-121,europe,Europe,2020,0,64
-122,europe,Europe,2021,5,53
-123,europe,Europe,2022,16,88
+,geo,name,time,Journalists killed,Journalists imprisoned,Journalists missing
+0,africa,Africa,1992,7,8,0
+1,africa,Africa,1993,19,8,0
+2,africa,Africa,1994,49,9,1
+3,africa,Africa,1995,29,48,3
+4,africa,Africa,1996,10,27,3
+5,africa,Africa,1997,1,34,4
+6,africa,Africa,1998,9,38,6
+7,africa,Africa,1999,16,16,6
+8,africa,Africa,2000,6,17,6
+9,africa,Africa,2001,2,23,6
+10,africa,Africa,2002,1,29,6
+11,africa,Africa,2003,4,26,8
+12,africa,Africa,2004,2,27,9
+13,africa,Africa,2005,5,42,9
+14,africa,Africa,2006,4,52,9
+15,africa,Africa,2007,13,26,9
+16,africa,Africa,2008,6,30,9
+17,africa,Africa,2009,15,47,9
+18,africa,Africa,2010,13,48,9
+19,africa,Africa,2011,18,59,9
+20,africa,Africa,2012,19,52,9
+21,africa,Africa,2013,18,52,9
+22,africa,Africa,2014,13,74,13
+23,africa,Africa,2015,16,63,13
+24,africa,Africa,2016,9,72,14
+25,africa,Africa,2017,5,73,15
+26,africa,Africa,2018,13,65,15
+27,africa,Africa,2019,10,78,15
+28,africa,Africa,2020,5,87,16
+29,africa,Africa,2021,7,80,16
+30,africa,Africa,2022,6,56,16
+31,americas,The Americas,1992,7,6,0
+32,americas,The Americas,1993,10,8,0
+33,americas,The Americas,1994,7,11,0
+34,americas,The Americas,1995,11,8,0
+35,americas,The Americas,1996,3,4,0
+36,americas,The Americas,1997,16,6,0
+37,americas,The Americas,1998,16,10,0
+38,americas,The Americas,1999,9,4,0
+39,americas,The Americas,2000,15,3,0
+40,americas,The Americas,2001,17,2,0
+41,americas,The Americas,2002,12,2,0
+42,americas,The Americas,2003,10,30,0
+43,americas,The Americas,2004,16,25,0
+44,americas,The Americas,2005,8,26,1
+45,americas,The Americas,2006,14,28,3
+46,americas,The Americas,2007,17,25,5
+47,americas,The Americas,2008,11,25,5
+48,americas,The Americas,2009,18,24,6
+49,americas,The Americas,2010,23,4,9
+50,americas,The Americas,2011,29,0,11
+51,americas,The Americas,2012,15,1,12
+52,americas,The Americas,2013,14,2,13
+53,americas,The Americas,2014,13,2,13
+54,americas,The Americas,2015,20,0,13
+55,americas,The Americas,2016,16,4,13
+56,americas,The Americas,2017,18,3,14
+57,americas,The Americas,2018,24,4,15
+58,americas,The Americas,2019,22,3,15
+59,americas,The Americas,2020,21,0,15
+60,americas,The Americas,2021,11,6,16
+61,americas,The Americas,2022,31,4,16
+62,asia,Asia,1992,20,92,1
+63,asia,Asia,1993,18,90,1
+64,asia,Asia,1994,12,85,1
+65,asia,Asia,1995,2,81,1
+66,asia,Asia,1996,10,76,1
+67,asia,Asia,1997,15,58,1
+68,asia,Asia,1998,7,48,1
+69,asia,Asia,1999,15,59,1
+70,asia,Asia,2000,11,57,1
+71,asia,Asia,2001,24,74,1
+72,asia,Asia,2002,13,88,1
+73,asia,Asia,2003,40,75,2
+74,asia,Asia,2004,63,67,3
+75,asia,Asia,2005,46,60,4
+76,asia,Asia,2006,80,51,4
+77,asia,Asia,2007,78,66,5
+78,asia,Asia,2008,41,72,4
+79,asia,Asia,2009,61,98,4
+80,asia,Asia,2010,40,120,5
+81,asia,Asia,2011,37,128,5
+82,asia,Asia,2012,69,133,9
+83,asia,Asia,2013,68,122,11
+84,asia,Asia,2014,52,137,20
+85,asia,Asia,2015,49,109,22
+86,asia,Asia,2016,53,94,22
+87,asia,Asia,2017,47,104,24
+88,asia,Asia,2018,46,104,23
+89,asia,Asia,2019,18,117,22
+90,asia,Asia,2020,24,131,22
+91,asia,Asia,2021,21,160,22
+92,asia,Asia,2022,13,214,22
+93,europe,Europe,1992,22,3,0
+94,europe,Europe,1993,25,19,0
+95,europe,Europe,1994,16,68,0
+96,europe,Europe,1995,18,57,3
+97,europe,Europe,1996,11,68,6
+98,europe,Europe,1997,3,30,6
+99,europe,Europe,1998,4,30,6
+100,europe,Europe,1999,7,19,6
+101,europe,Europe,2000,11,15,6
+102,europe,Europe,2001,7,14,6
+103,europe,Europe,2002,6,15,6
+104,europe,Europe,2003,4,7,7
+105,europe,Europe,2004,5,4,7
+106,europe,Europe,2005,5,3,7
+107,europe,Europe,2006,5,11,7
+108,europe,Europe,2007,3,19,7
+109,europe,Europe,2008,10,13,7
+110,europe,Europe,2009,7,18,7
+111,europe,Europe,2010,4,21,8
+112,europe,Europe,2011,2,26,8
+113,europe,Europe,2012,1,59,8
+114,europe,Europe,2013,2,52,8
+115,europe,Europe,2014,8,19,8
+116,europe,Europe,2015,15,25,8
+117,europe,Europe,2016,3,94,8
+118,europe,Europe,2017,5,89,8
+119,europe,Europe,2018,3,84,8
+120,europe,Europe,2019,2,62,8
+121,europe,Europe,2020,0,64,8
+122,europe,Europe,2021,5,53,8
+123,europe,Europe,2022,16,88,8

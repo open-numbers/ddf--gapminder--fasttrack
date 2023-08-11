@@ -6,6 +6,9 @@ journakilled,Journalists killed,"[geo:global,time:time]","{timeInColumns:FALSE, 
 journaprison,Journalists imprisoned,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1SQh8it8uLbAbEwP7yJBooCdS4lRKRRMdfTmOI6J513A-data-for-countries-etc-by-year
 journaprison,Journalists imprisoned,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1SQh8it8uLbAbEwP7yJBooCdS4lRKRRMdfTmOI6J513A-data-for-regions-by-year
 journaprison,Journalists imprisoned,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1SQh8it8uLbAbEwP7yJBooCdS4lRKRRMdfTmOI6J513A-data-for-world-by-year
+journamissing,Journalists missing,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1SQh8it8uLbAbEwP7yJBooCdS4lRKRRMdfTmOI6J513A-data-for-countries-etc-by-year
+journamissing,Journalists missing,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1SQh8it8uLbAbEwP7yJBooCdS4lRKRRMdfTmOI6J513A-data-for-regions-by-year
+journamissing,Journalists missing,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1SQh8it8uLbAbEwP7yJBooCdS4lRKRRMdfTmOI6J513A-data-for-world-by-year
 rgov_idea,Representative Government Index (IDEA),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1FY8AsCBMnO1pMRpnJijKt_Q02Nw4ce_G2rj_yRfRRv0-data-for-countries-etc-by-year
 celec_idea,Clean Elections Index (IDEA),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1FY8AsCBMnO1pMRpnJijKt_Q02Nw4ce_G2rj_yRfRRv0-data-for-countries-etc-by-year
 isuffrage_idea,Inclusive Suffrage Index  (IDEA),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1FY8AsCBMnO1pMRpnJijKt_Q02Nw4ce_G2rj_yRfRRv0-data-for-countries-etc-by-year

@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2023-08-06T01:16:36.893150+00:00",
+    "created": "2023-08-11T22:39:10.844881+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -2203,6 +2203,69 @@
                     },
                     {
                         "name": "journakilled"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--journamissing--by--country--time",
+            "path": "ddf--datapoints--journamissing--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journamissing"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--journamissing--by--global--time",
+            "path": "ddf--datapoints--journamissing--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journamissing"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--journamissing--by--world_4region--time",
+            "path": "ddf--datapoints--journamissing--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journamissing"
                     }
                 ],
                 "primaryKey": [
@@ -8008,6 +8071,48 @@
                 "value": "journakilled",
                 "resources": [
                     "ddf--datapoints--journakilled--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "journamissing",
+                "resources": [
+                    "ddf--datapoints--journamissing--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "journamissing",
+                "resources": [
+                    "ddf--datapoints--journamissing--by--country--time",
+                    "ddf--datapoints--journamissing--by--global--time",
+                    "ddf--datapoints--journamissing--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "journamissing",
+                "resources": [
+                    "ddf--datapoints--journamissing--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "journamissing",
+                "resources": [
+                    "ddf--datapoints--journamissing--by--world_4region--time"
                 ]
             },
             {
