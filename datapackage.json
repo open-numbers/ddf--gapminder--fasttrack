@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2023-08-27T01:15:48.289582+00:00",
+    "created": "2023-09-29T01:35:10.551146+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -2963,6 +2963,27 @@
                 ],
                 "primaryKey": [
                     "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--number_of_child_deaths--by--country--time",
+            "path": "ddf--datapoints--number_of_child_deaths--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "number_of_child_deaths"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
                     "time"
                 ]
             }
@@ -8692,6 +8713,26 @@
                 "value": "num_countries_fhos",
                 "resources": [
                     "ddf--datapoints--num_countries_fhos--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "number_of_child_deaths",
+                "resources": [
+                    "ddf--datapoints--number_of_child_deaths--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "number_of_child_deaths",
+                "resources": [
+                    "ddf--datapoints--number_of_child_deaths--by--country--time"
                 ]
             },
             {
