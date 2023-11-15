@@ -1,6 +1,5 @@
 {
     "name": "ddf--gapminder--fasttrack",
-    "version": "1.1.0",
     "language": {
         "id": "en"
     },
@@ -8,7 +7,8 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2023-11-10T17:00:00.043845+00:00",
+    "created": "2023-11-15T01:29:08.188149+00:00",
+    "version": "1.1.0",
     "resources": [
         {
             "name": "ddf--concepts",
