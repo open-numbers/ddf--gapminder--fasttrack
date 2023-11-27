@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2023-11-26T01:22:05.849231+00:00",
+    "created": "2023-11-27T17:52:36.754322+00:00",
     "version": "1.1.0",
     "resources": [
         {
@@ -4283,6 +4283,27 @@
                     },
                     {
                         "name": "u5stunted_prc"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--un_member_status--by--country--time",
+            "path": "ddf--datapoints--un_member_status--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "un_member_status"
                     }
                 ],
                 "primaryKey": [
@@ -9806,6 +9827,26 @@
                 "value": "u5stunted_prc",
                 "resources": [
                     "ddf--datapoints--u5stunted_prc--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "un_member_status",
+                "resources": [
+                    "ddf--datapoints--un_member_status--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "un_member_status",
+                "resources": [
+                    "ddf--datapoints--un_member_status--by--country--time"
                 ]
             },
             {
