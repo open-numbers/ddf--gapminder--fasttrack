@@ -8,7 +8,8 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2023-07-02T23:17:46.881469+00:00",
+    "created": "2023-11-27T18:26:00.975957+00:00",
+    "version": "1.1.0",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -629,6 +630,27 @@
                     },
                     {
                         "name": "checkgvt_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--country--time",
+            "path": "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "child_mortality_0_5_year_olds_dying_per_1000_born"
                     }
                 ],
                 "primaryKey": [
@@ -2213,6 +2235,69 @@
             }
         },
         {
+            "name": "ddf--datapoints--journamissing--by--country--time",
+            "path": "ddf--datapoints--journamissing--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journamissing"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--journamissing--by--global--time",
+            "path": "ddf--datapoints--journamissing--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journamissing"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--journamissing--by--world_4region--time",
+            "path": "ddf--datapoints--journamissing--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "journamissing"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--journaprison--by--country--time",
             "path": "ddf--datapoints--journaprison--by--country--time.csv",
             "schema": {
@@ -2901,6 +2986,27 @@
                 ],
                 "primaryKey": [
                     "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--number_of_child_deaths--by--country--time",
+            "path": "ddf--datapoints--number_of_child_deaths--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "number_of_child_deaths"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
                     "time"
                 ]
             }
@@ -4178,6 +4284,27 @@
                     },
                     {
                         "name": "u5stunted_prc"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--un_member_status--by--country--time",
+            "path": "ddf--datapoints--un_member_status--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "un_member_status"
                     }
                 ],
                 "primaryKey": [
@@ -6642,6 +6769,26 @@
                     "country",
                     "time"
                 ],
+                "value": "child_mortality_0_5_year_olds_dying_per_1000_born",
+                "resources": [
+                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "child_mortality_0_5_year_olds_dying_per_1000_born",
+                "resources": [
+                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "cities_w_1_5m_p",
                 "resources": [
                     "ddf--datapoints--cities_w_1_5m_p--by--country--time"
@@ -8016,6 +8163,48 @@
                     "country",
                     "time"
                 ],
+                "value": "journamissing",
+                "resources": [
+                    "ddf--datapoints--journamissing--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "journamissing",
+                "resources": [
+                    "ddf--datapoints--journamissing--by--country--time",
+                    "ddf--datapoints--journamissing--by--global--time",
+                    "ddf--datapoints--journamissing--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "journamissing",
+                "resources": [
+                    "ddf--datapoints--journamissing--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "journamissing",
+                "resources": [
+                    "ddf--datapoints--journamissing--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "journaprison",
                 "resources": [
                     "ddf--datapoints--journaprison--by--country--time"
@@ -8588,6 +8777,26 @@
                 "value": "num_countries_fhos",
                 "resources": [
                     "ddf--datapoints--num_countries_fhos--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "number_of_child_deaths",
+                "resources": [
+                    "ddf--datapoints--number_of_child_deaths--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "number_of_child_deaths",
+                "resources": [
+                    "ddf--datapoints--number_of_child_deaths--by--country--time"
                 ]
             },
             {
@@ -9619,6 +9828,26 @@
                 "value": "u5stunted_prc",
                 "resources": [
                     "ddf--datapoints--u5stunted_prc--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "un_member_status",
+                "resources": [
+                    "ddf--datapoints--un_member_status--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "un_member_status",
+                "resources": [
+                    "ddf--datapoints--un_member_status--by--country--time"
                 ]
             },
             {
