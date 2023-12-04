@@ -8,7 +8,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2023-11-30T13:21:44.717907+00:00",
+    "created": "2023-12-04T19:46:51.746552+00:00",
     "version": "1.1.0",
     "resources": [
         {
@@ -1857,6 +1857,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--ilevels--by--country--time",
+            "path": "ddf--datapoints--ilevels--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ilevels"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--ilevels3_wb--by--country--time",
             "path": "ddf--datapoints--ilevels3_wb--by--country--time.csv",
             "schema": {
@@ -1869,27 +1890,6 @@
                     },
                     {
                         "name": "ilevels3_wb"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--ilevels4--by--country--time",
-            "path": "ddf--datapoints--ilevels4--by--country--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "ilevels4"
                     }
                 ],
                 "primaryKey": [
@@ -7857,9 +7857,9 @@
                     "country",
                     "time"
                 ],
-                "value": "ilevels3_wb",
+                "value": "ilevels",
                 "resources": [
-                    "ddf--datapoints--ilevels3_wb--by--country--time"
+                    "ddf--datapoints--ilevels--by--country--time"
                 ]
             },
             {
@@ -7867,9 +7867,9 @@
                     "geo",
                     "time"
                 ],
-                "value": "ilevels3_wb",
+                "value": "ilevels",
                 "resources": [
-                    "ddf--datapoints--ilevels3_wb--by--country--time"
+                    "ddf--datapoints--ilevels--by--country--time"
                 ]
             },
             {
@@ -7877,9 +7877,9 @@
                     "country",
                     "time"
                 ],
-                "value": "ilevels4",
+                "value": "ilevels3_wb",
                 "resources": [
-                    "ddf--datapoints--ilevels4--by--country--time"
+                    "ddf--datapoints--ilevels3_wb--by--country--time"
                 ]
             },
             {
@@ -7887,9 +7887,9 @@
                     "geo",
                     "time"
                 ],
-                "value": "ilevels4",
+                "value": "ilevels3_wb",
                 "resources": [
-                    "ddf--datapoints--ilevels4--by--country--time"
+                    "ddf--datapoints--ilevels3_wb--by--country--time"
                 ]
             },
             {

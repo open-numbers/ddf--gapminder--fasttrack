@@ -125,7 +125,7 @@ top10_ptaxinc_wid,Estimates of richest 10% pre-tax income share (WID),"[geo:coun
 legslav_status,Legal slavery (or hard to inspect),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1L0Go0-9gfcY_dNG8JkR5F6H9szPZtUxCm-rifq9ZvTk-data-for-countries-etc-by-year
 legslav_numc,Number of countries with legal slavery (or hard to inspect),"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1L0Go0-9gfcY_dNG8JkR5F6H9szPZtUxCm-rifq9ZvTk-data-for-world-by-year
 refas_prc_undesa,Refugees and asylum seekers (% of migrant stock) (UNDESA),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-countries-etc-by-year
-ilevels4,Income levels (GM),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nvB-nd3Kxo21Tljlug-47JHjNoq3AbY-EtRWbLhg158-data-for-countries-etc-by-year
+ilevels,Income levels,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nvB-nd3Kxo21Tljlug-47JHjNoq3AbY-EtRWbLhg158-data-for-countries-etc-by-year
 int_refg_in,International refugees by asylum,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qpZ1zw7wO6m3edFDY0bgZNrsOcd2nHUNUuKxT4GSRE-data-for-countries-etc-by-year
 int_refg_in_prc,International refugees (% of population ),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qpZ1zw7wO6m3edFDY0bgZNrsOcd2nHUNUuKxT4GSRE-data-for-countries-etc-by-year
 int_refg_origin,International refugees by origin,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qpZ1zw7wO6m3edFDY0bgZNrsOcd2nHUNUuKxT4GSRE-data-for-countries-etc-by-year
