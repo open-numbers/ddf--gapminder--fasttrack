@@ -7385,12 +7385,12 @@ chn,2014,Illegal
 chn,2015,Illegal
 chn,2016,Illegal
 chn,2017,Illegal
-chn,2018,Legal
-chn,2019,Legal
-chn,2020,Legal
-chn,2021,Legal
-chn,2022,Legal
-chn,2023,Legal
+chn,2018,Illegal (Except for governmental practices)
+chn,2019,Illegal (Except for governmental practices)
+chn,2020,Illegal (Except for governmental practices)
+chn,2021,Illegal (Except for governmental practices)
+chn,2022,Illegal (Except for governmental practices)
+chn,2023,Illegal (Except for governmental practices)
 civ,1800,Legal
 civ,1801,Legal
 civ,1802,Legal
@@ -32017,20 +32017,20 @@ prk,2006,Legal
 prk,2007,Legal
 prk,2008,Legal
 prk,2009,Legal
-prk,2010,Legal
-prk,2011,Legal
-prk,2012,Legal
-prk,2013,Legal
-prk,2014,Legal
-prk,2015,Legal
-prk,2016,Legal
-prk,2017,Legal
-prk,2018,Legal
-prk,2019,Legal
-prk,2020,Legal
-prk,2021,Legal
-prk,2022,Legal
-prk,2023,Legal
+prk,2010,Illegal (Except for governmental practices)
+prk,2011,Illegal (Except for governmental practices)
+prk,2012,Illegal (Except for governmental practices)
+prk,2013,Illegal (Except for governmental practices)
+prk,2014,Illegal (Except for governmental practices)
+prk,2015,Illegal (Except for governmental practices)
+prk,2016,Illegal (Except for governmental practices)
+prk,2017,Illegal (Except for governmental practices)
+prk,2018,Illegal (Except for governmental practices)
+prk,2019,Illegal (Except for governmental practices)
+prk,2020,Illegal (Except for governmental practices)
+prk,2021,Illegal (Except for governmental practices)
+prk,2022,Illegal (Except for governmental practices)
+prk,2023,Illegal (Except for governmental practices)
 prt,1800,Legal
 prt,1801,Legal
 prt,1802,Legal
@@ -38948,33 +38948,33 @@ tkm,1993,Legal
 tkm,1994,Legal
 tkm,1995,Legal
 tkm,1996,Legal
-tkm,1997,Legal
-tkm,1998,Legal
-tkm,1999,Legal
-tkm,2000,Legal
-tkm,2001,Legal
-tkm,2002,Legal
-tkm,2003,Legal
-tkm,2004,Legal
-tkm,2005,Legal
-tkm,2006,Legal
-tkm,2007,Legal
-tkm,2008,Legal
-tkm,2009,Legal
-tkm,2010,Legal
-tkm,2011,Legal
-tkm,2012,Legal
-tkm,2013,Legal
-tkm,2014,Legal
-tkm,2015,Legal
-tkm,2016,Legal
-tkm,2017,Legal
-tkm,2018,Legal
-tkm,2019,Legal
-tkm,2020,Legal
-tkm,2021,Legal
-tkm,2022,Legal
-tkm,2023,Legal
+tkm,1997,Illegal (Except for governmental practices)
+tkm,1998,Illegal (Except for governmental practices)
+tkm,1999,Illegal (Except for governmental practices)
+tkm,2000,Illegal (Except for governmental practices)
+tkm,2001,Illegal (Except for governmental practices)
+tkm,2002,Illegal (Except for governmental practices)
+tkm,2003,Illegal (Except for governmental practices)
+tkm,2004,Illegal (Except for governmental practices)
+tkm,2005,Illegal (Except for governmental practices)
+tkm,2006,Illegal (Except for governmental practices)
+tkm,2007,Illegal (Except for governmental practices)
+tkm,2008,Illegal (Except for governmental practices)
+tkm,2009,Illegal (Except for governmental practices)
+tkm,2010,Illegal (Except for governmental practices)
+tkm,2011,Illegal (Except for governmental practices)
+tkm,2012,Illegal (Except for governmental practices)
+tkm,2013,Illegal (Except for governmental practices)
+tkm,2014,Illegal (Except for governmental practices)
+tkm,2015,Illegal (Except for governmental practices)
+tkm,2016,Illegal (Except for governmental practices)
+tkm,2017,Illegal (Except for governmental practices)
+tkm,2018,Illegal (Except for governmental practices)
+tkm,2019,Illegal (Except for governmental practices)
+tkm,2020,Illegal (Except for governmental practices)
+tkm,2021,Illegal (Except for governmental practices)
+tkm,2022,Illegal (Except for governmental practices)
+tkm,2023,Illegal (Except for governmental practices)
 tls,1800,Legal
 tls,1801,Legal
 tls,1802,Legal
@@ -41565,101 +41565,101 @@ uzb,1922,Legal
 uzb,1923,Legal
 uzb,1924,Legal
 uzb,1925,Legal
-uzb,1926,Legal
-uzb,1927,Legal
-uzb,1928,Legal
-uzb,1929,Legal
-uzb,1930,Legal
-uzb,1931,Legal
-uzb,1932,Legal
-uzb,1933,Legal
-uzb,1934,Legal
-uzb,1935,Legal
-uzb,1936,Legal
-uzb,1937,Legal
-uzb,1938,Legal
-uzb,1939,Legal
-uzb,1940,Legal
-uzb,1941,Legal
-uzb,1942,Legal
-uzb,1943,Legal
-uzb,1944,Legal
-uzb,1945,Legal
-uzb,1946,Legal
-uzb,1947,Legal
-uzb,1948,Legal
-uzb,1949,Legal
-uzb,1950,Legal
-uzb,1951,Legal
-uzb,1952,Legal
-uzb,1953,Legal
-uzb,1954,Legal
-uzb,1955,Legal
-uzb,1956,Legal
-uzb,1957,Legal
-uzb,1958,Legal
-uzb,1959,Legal
-uzb,1960,Legal
-uzb,1961,Legal
-uzb,1962,Legal
-uzb,1963,Legal
-uzb,1964,Legal
-uzb,1965,Legal
-uzb,1966,Legal
-uzb,1967,Legal
-uzb,1968,Legal
-uzb,1969,Legal
-uzb,1970,Legal
-uzb,1971,Legal
-uzb,1972,Legal
-uzb,1973,Legal
-uzb,1974,Legal
-uzb,1975,Legal
-uzb,1976,Legal
-uzb,1977,Legal
-uzb,1978,Legal
-uzb,1979,Legal
-uzb,1980,Legal
-uzb,1981,Legal
-uzb,1982,Legal
-uzb,1983,Legal
-uzb,1984,Legal
-uzb,1985,Legal
-uzb,1986,Legal
-uzb,1987,Legal
-uzb,1988,Legal
-uzb,1989,Legal
-uzb,1990,Legal
-uzb,1991,Legal
-uzb,1992,Legal
-uzb,1993,Legal
-uzb,1994,Legal
-uzb,1995,Legal
-uzb,1996,Legal
-uzb,1997,Legal
-uzb,1998,Legal
-uzb,1999,Legal
-uzb,2000,Legal
-uzb,2001,Legal
-uzb,2002,Legal
-uzb,2003,Legal
-uzb,2004,Legal
-uzb,2005,Legal
-uzb,2006,Legal
-uzb,2007,Legal
-uzb,2008,Legal
-uzb,2009,Legal
-uzb,2010,Legal
-uzb,2011,Legal
-uzb,2012,Legal
-uzb,2013,Legal
-uzb,2014,Legal
-uzb,2015,Legal
-uzb,2016,Legal
-uzb,2017,Legal
-uzb,2018,Legal
-uzb,2019,Legal
-uzb,2020,Legal
+uzb,1926,Illegal (Except for governmental practices)
+uzb,1927,Illegal (Except for governmental practices)
+uzb,1928,Illegal (Except for governmental practices)
+uzb,1929,Illegal (Except for governmental practices)
+uzb,1930,Illegal (Except for governmental practices)
+uzb,1931,Illegal (Except for governmental practices)
+uzb,1932,Illegal (Except for governmental practices)
+uzb,1933,Illegal (Except for governmental practices)
+uzb,1934,Illegal (Except for governmental practices)
+uzb,1935,Illegal (Except for governmental practices)
+uzb,1936,Illegal (Except for governmental practices)
+uzb,1937,Illegal (Except for governmental practices)
+uzb,1938,Illegal (Except for governmental practices)
+uzb,1939,Illegal (Except for governmental practices)
+uzb,1940,Illegal (Except for governmental practices)
+uzb,1941,Illegal (Except for governmental practices)
+uzb,1942,Illegal (Except for governmental practices)
+uzb,1943,Illegal (Except for governmental practices)
+uzb,1944,Illegal (Except for governmental practices)
+uzb,1945,Illegal (Except for governmental practices)
+uzb,1946,Illegal (Except for governmental practices)
+uzb,1947,Illegal (Except for governmental practices)
+uzb,1948,Illegal (Except for governmental practices)
+uzb,1949,Illegal (Except for governmental practices)
+uzb,1950,Illegal (Except for governmental practices)
+uzb,1951,Illegal (Except for governmental practices)
+uzb,1952,Illegal (Except for governmental practices)
+uzb,1953,Illegal (Except for governmental practices)
+uzb,1954,Illegal (Except for governmental practices)
+uzb,1955,Illegal (Except for governmental practices)
+uzb,1956,Illegal (Except for governmental practices)
+uzb,1957,Illegal (Except for governmental practices)
+uzb,1958,Illegal (Except for governmental practices)
+uzb,1959,Illegal (Except for governmental practices)
+uzb,1960,Illegal (Except for governmental practices)
+uzb,1961,Illegal (Except for governmental practices)
+uzb,1962,Illegal (Except for governmental practices)
+uzb,1963,Illegal (Except for governmental practices)
+uzb,1964,Illegal (Except for governmental practices)
+uzb,1965,Illegal (Except for governmental practices)
+uzb,1966,Illegal (Except for governmental practices)
+uzb,1967,Illegal (Except for governmental practices)
+uzb,1968,Illegal (Except for governmental practices)
+uzb,1969,Illegal (Except for governmental practices)
+uzb,1970,Illegal (Except for governmental practices)
+uzb,1971,Illegal (Except for governmental practices)
+uzb,1972,Illegal (Except for governmental practices)
+uzb,1973,Illegal (Except for governmental practices)
+uzb,1974,Illegal (Except for governmental practices)
+uzb,1975,Illegal (Except for governmental practices)
+uzb,1976,Illegal (Except for governmental practices)
+uzb,1977,Illegal (Except for governmental practices)
+uzb,1978,Illegal (Except for governmental practices)
+uzb,1979,Illegal (Except for governmental practices)
+uzb,1980,Illegal (Except for governmental practices)
+uzb,1981,Illegal (Except for governmental practices)
+uzb,1982,Illegal (Except for governmental practices)
+uzb,1983,Illegal (Except for governmental practices)
+uzb,1984,Illegal (Except for governmental practices)
+uzb,1985,Illegal (Except for governmental practices)
+uzb,1986,Illegal (Except for governmental practices)
+uzb,1987,Illegal (Except for governmental practices)
+uzb,1988,Illegal (Except for governmental practices)
+uzb,1989,Illegal (Except for governmental practices)
+uzb,1990,Illegal (Except for governmental practices)
+uzb,1991,Illegal (Except for governmental practices)
+uzb,1992,Illegal (Except for governmental practices)
+uzb,1993,Illegal (Except for governmental practices)
+uzb,1994,Illegal (Except for governmental practices)
+uzb,1995,Illegal (Except for governmental practices)
+uzb,1996,Illegal (Except for governmental practices)
+uzb,1997,Illegal (Except for governmental practices)
+uzb,1998,Illegal (Except for governmental practices)
+uzb,1999,Illegal (Except for governmental practices)
+uzb,2000,Illegal (Except for governmental practices)
+uzb,2001,Illegal (Except for governmental practices)
+uzb,2002,Illegal (Except for governmental practices)
+uzb,2003,Illegal (Except for governmental practices)
+uzb,2004,Illegal (Except for governmental practices)
+uzb,2005,Illegal (Except for governmental practices)
+uzb,2006,Illegal (Except for governmental practices)
+uzb,2007,Illegal (Except for governmental practices)
+uzb,2008,Illegal (Except for governmental practices)
+uzb,2009,Illegal (Except for governmental practices)
+uzb,2010,Illegal (Except for governmental practices)
+uzb,2011,Illegal (Except for governmental practices)
+uzb,2012,Illegal (Except for governmental practices)
+uzb,2013,Illegal (Except for governmental practices)
+uzb,2014,Illegal (Except for governmental practices)
+uzb,2015,Illegal (Except for governmental practices)
+uzb,2016,Illegal (Except for governmental practices)
+uzb,2017,Illegal (Except for governmental practices)
+uzb,2018,Illegal (Except for governmental practices)
+uzb,2019,Illegal (Except for governmental practices)
+uzb,2020,Illegal (Except for governmental practices)
 uzb,2021,Illegal
 uzb,2022,Illegal
 uzb,2023,Illegal

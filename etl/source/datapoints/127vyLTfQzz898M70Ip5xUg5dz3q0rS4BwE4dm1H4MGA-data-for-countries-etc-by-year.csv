@@ -8057,12 +8057,12 @@
 8055,chn,China,2015,Illegal,1
 8056,chn,China,2016,Illegal,1
 8057,chn,China,2017,Illegal,1
-8058,chn,China,2018,Legal,0
-8059,chn,China,2019,Legal,0
-8060,chn,China,2020,Legal,0
-8061,chn,China,2021,Legal,0
-8062,chn,China,2022,Legal,0
-8063,chn,China,2023,Legal,0
+8058,chn,China,2018,Illegal (Except for governmental practices),0
+8059,chn,China,2019,Illegal (Except for governmental practices),0
+8060,chn,China,2020,Illegal (Except for governmental practices),0
+8061,chn,China,2021,Illegal (Except for governmental practices),0
+8062,chn,China,2022,Illegal (Except for governmental practices),0
+8063,chn,China,2023,Illegal (Except for governmental practices),0
 8064,col,Colombia,1800,Legal,0
 8065,col,Colombia,1801,Legal,0
 8066,col,Colombia,1802,Legal,0
@@ -28657,20 +28657,20 @@
 28655,prk,North Korea,2007,Legal,0
 28656,prk,North Korea,2008,Legal,0
 28657,prk,North Korea,2009,Legal,0
-28658,prk,North Korea,2010,Legal,0
-28659,prk,North Korea,2011,Legal,0
-28660,prk,North Korea,2012,Legal,0
-28661,prk,North Korea,2013,Legal,0
-28662,prk,North Korea,2014,Legal,0
-28663,prk,North Korea,2015,Legal,0
-28664,prk,North Korea,2016,Legal,0
-28665,prk,North Korea,2017,Legal,0
-28666,prk,North Korea,2018,Legal,0
-28667,prk,North Korea,2019,Legal,0
-28668,prk,North Korea,2020,Legal,0
-28669,prk,North Korea,2021,Legal,0
-28670,prk,North Korea,2022,Legal,0
-28671,prk,North Korea,2023,Legal,0
+28658,prk,North Korea,2010,Illegal (Except for governmental practices),0
+28659,prk,North Korea,2011,Illegal (Except for governmental practices),0
+28660,prk,North Korea,2012,Illegal (Except for governmental practices),0
+28661,prk,North Korea,2013,Illegal (Except for governmental practices),0
+28662,prk,North Korea,2014,Illegal (Except for governmental practices),0
+28663,prk,North Korea,2015,Illegal (Except for governmental practices),0
+28664,prk,North Korea,2016,Illegal (Except for governmental practices),0
+28665,prk,North Korea,2017,Illegal (Except for governmental practices),0
+28666,prk,North Korea,2018,Illegal (Except for governmental practices),0
+28667,prk,North Korea,2019,Illegal (Except for governmental practices),0
+28668,prk,North Korea,2020,Illegal (Except for governmental practices),0
+28669,prk,North Korea,2021,Illegal (Except for governmental practices),0
+28670,prk,North Korea,2022,Illegal (Except for governmental practices),0
+28671,prk,North Korea,2023,Illegal (Except for governmental practices),0
 28672,nor,Norway,1800,Legal,0
 28673,nor,Norway,1801,Legal,0
 28674,nor,Norway,1802,Legal,0
@@ -40516,33 +40516,33 @@
 40514,tkm,Turkmenistan,1994,Legal,0
 40515,tkm,Turkmenistan,1995,Legal,0
 40516,tkm,Turkmenistan,1996,Legal,0
-40517,tkm,Turkmenistan,1997,Legal,0
-40518,tkm,Turkmenistan,1998,Legal,0
-40519,tkm,Turkmenistan,1999,Legal,0
-40520,tkm,Turkmenistan,2000,Legal,0
-40521,tkm,Turkmenistan,2001,Legal,0
-40522,tkm,Turkmenistan,2002,Legal,0
-40523,tkm,Turkmenistan,2003,Legal,0
-40524,tkm,Turkmenistan,2004,Legal,0
-40525,tkm,Turkmenistan,2005,Legal,0
-40526,tkm,Turkmenistan,2006,Legal,0
-40527,tkm,Turkmenistan,2007,Legal,0
-40528,tkm,Turkmenistan,2008,Legal,0
-40529,tkm,Turkmenistan,2009,Legal,0
-40530,tkm,Turkmenistan,2010,Legal,0
-40531,tkm,Turkmenistan,2011,Legal,0
-40532,tkm,Turkmenistan,2012,Legal,0
-40533,tkm,Turkmenistan,2013,Legal,0
-40534,tkm,Turkmenistan,2014,Legal,0
-40535,tkm,Turkmenistan,2015,Legal,0
-40536,tkm,Turkmenistan,2016,Legal,0
-40537,tkm,Turkmenistan,2017,Legal,0
-40538,tkm,Turkmenistan,2018,Legal,0
-40539,tkm,Turkmenistan,2019,Legal,0
-40540,tkm,Turkmenistan,2020,Legal,0
-40541,tkm,Turkmenistan,2021,Legal,0
-40542,tkm,Turkmenistan,2022,Legal,0
-40543,tkm,Turkmenistan,2023,Legal,0
+40517,tkm,Turkmenistan,1997,Illegal (Except for governmental practices),0
+40518,tkm,Turkmenistan,1998,Illegal (Except for governmental practices),0
+40519,tkm,Turkmenistan,1999,Illegal (Except for governmental practices),0
+40520,tkm,Turkmenistan,2000,Illegal (Except for governmental practices),0
+40521,tkm,Turkmenistan,2001,Illegal (Except for governmental practices),0
+40522,tkm,Turkmenistan,2002,Illegal (Except for governmental practices),0
+40523,tkm,Turkmenistan,2003,Illegal (Except for governmental practices),0
+40524,tkm,Turkmenistan,2004,Illegal (Except for governmental practices),0
+40525,tkm,Turkmenistan,2005,Illegal (Except for governmental practices),0
+40526,tkm,Turkmenistan,2006,Illegal (Except for governmental practices),0
+40527,tkm,Turkmenistan,2007,Illegal (Except for governmental practices),0
+40528,tkm,Turkmenistan,2008,Illegal (Except for governmental practices),0
+40529,tkm,Turkmenistan,2009,Illegal (Except for governmental practices),0
+40530,tkm,Turkmenistan,2010,Illegal (Except for governmental practices),0
+40531,tkm,Turkmenistan,2011,Illegal (Except for governmental practices),0
+40532,tkm,Turkmenistan,2012,Illegal (Except for governmental practices),0
+40533,tkm,Turkmenistan,2013,Illegal (Except for governmental practices),0
+40534,tkm,Turkmenistan,2014,Illegal (Except for governmental practices),0
+40535,tkm,Turkmenistan,2015,Illegal (Except for governmental practices),0
+40536,tkm,Turkmenistan,2016,Illegal (Except for governmental practices),0
+40537,tkm,Turkmenistan,2017,Illegal (Except for governmental practices),0
+40538,tkm,Turkmenistan,2018,Illegal (Except for governmental practices),0
+40539,tkm,Turkmenistan,2019,Illegal (Except for governmental practices),0
+40540,tkm,Turkmenistan,2020,Illegal (Except for governmental practices),0
+40541,tkm,Turkmenistan,2021,Illegal (Except for governmental practices),0
+40542,tkm,Turkmenistan,2022,Illegal (Except for governmental practices),0
+40543,tkm,Turkmenistan,2023,Illegal (Except for governmental practices),0
 40544,tuv,Tuvalu,1800,Legal,0
 40545,tuv,Tuvalu,1801,Legal,0
 40546,tuv,Tuvalu,1802,Legal,0
@@ -42237,101 +42237,101 @@
 42235,uzb,Uzbekistan,1923,Legal,0
 42236,uzb,Uzbekistan,1924,Legal,0
 42237,uzb,Uzbekistan,1925,Legal,0
-42238,uzb,Uzbekistan,1926,Legal,0
-42239,uzb,Uzbekistan,1927,Legal,0
-42240,uzb,Uzbekistan,1928,Legal,0
-42241,uzb,Uzbekistan,1929,Legal,0
-42242,uzb,Uzbekistan,1930,Legal,0
-42243,uzb,Uzbekistan,1931,Legal,0
-42244,uzb,Uzbekistan,1932,Legal,0
-42245,uzb,Uzbekistan,1933,Legal,0
-42246,uzb,Uzbekistan,1934,Legal,0
-42247,uzb,Uzbekistan,1935,Legal,0
-42248,uzb,Uzbekistan,1936,Legal,0
-42249,uzb,Uzbekistan,1937,Legal,0
-42250,uzb,Uzbekistan,1938,Legal,0
-42251,uzb,Uzbekistan,1939,Legal,0
-42252,uzb,Uzbekistan,1940,Legal,0
-42253,uzb,Uzbekistan,1941,Legal,0
-42254,uzb,Uzbekistan,1942,Legal,0
-42255,uzb,Uzbekistan,1943,Legal,0
-42256,uzb,Uzbekistan,1944,Legal,0
-42257,uzb,Uzbekistan,1945,Legal,0
-42258,uzb,Uzbekistan,1946,Legal,0
-42259,uzb,Uzbekistan,1947,Legal,0
-42260,uzb,Uzbekistan,1948,Legal,0
-42261,uzb,Uzbekistan,1949,Legal,0
-42262,uzb,Uzbekistan,1950,Legal,0
-42263,uzb,Uzbekistan,1951,Legal,0
-42264,uzb,Uzbekistan,1952,Legal,0
-42265,uzb,Uzbekistan,1953,Legal,0
-42266,uzb,Uzbekistan,1954,Legal,0
-42267,uzb,Uzbekistan,1955,Legal,0
-42268,uzb,Uzbekistan,1956,Legal,0
-42269,uzb,Uzbekistan,1957,Legal,0
-42270,uzb,Uzbekistan,1958,Legal,0
-42271,uzb,Uzbekistan,1959,Legal,0
-42272,uzb,Uzbekistan,1960,Legal,0
-42273,uzb,Uzbekistan,1961,Legal,0
-42274,uzb,Uzbekistan,1962,Legal,0
-42275,uzb,Uzbekistan,1963,Legal,0
-42276,uzb,Uzbekistan,1964,Legal,0
-42277,uzb,Uzbekistan,1965,Legal,0
-42278,uzb,Uzbekistan,1966,Legal,0
-42279,uzb,Uzbekistan,1967,Legal,0
-42280,uzb,Uzbekistan,1968,Legal,0
-42281,uzb,Uzbekistan,1969,Legal,0
-42282,uzb,Uzbekistan,1970,Legal,0
-42283,uzb,Uzbekistan,1971,Legal,0
-42284,uzb,Uzbekistan,1972,Legal,0
-42285,uzb,Uzbekistan,1973,Legal,0
-42286,uzb,Uzbekistan,1974,Legal,0
-42287,uzb,Uzbekistan,1975,Legal,0
-42288,uzb,Uzbekistan,1976,Legal,0
-42289,uzb,Uzbekistan,1977,Legal,0
-42290,uzb,Uzbekistan,1978,Legal,0
-42291,uzb,Uzbekistan,1979,Legal,0
-42292,uzb,Uzbekistan,1980,Legal,0
-42293,uzb,Uzbekistan,1981,Legal,0
-42294,uzb,Uzbekistan,1982,Legal,0
-42295,uzb,Uzbekistan,1983,Legal,0
-42296,uzb,Uzbekistan,1984,Legal,0
-42297,uzb,Uzbekistan,1985,Legal,0
-42298,uzb,Uzbekistan,1986,Legal,0
-42299,uzb,Uzbekistan,1987,Legal,0
-42300,uzb,Uzbekistan,1988,Legal,0
-42301,uzb,Uzbekistan,1989,Legal,0
-42302,uzb,Uzbekistan,1990,Legal,0
-42303,uzb,Uzbekistan,1991,Legal,0
-42304,uzb,Uzbekistan,1992,Legal,0
-42305,uzb,Uzbekistan,1993,Legal,0
-42306,uzb,Uzbekistan,1994,Legal,0
-42307,uzb,Uzbekistan,1995,Legal,0
-42308,uzb,Uzbekistan,1996,Legal,0
-42309,uzb,Uzbekistan,1997,Legal,0
-42310,uzb,Uzbekistan,1998,Legal,0
-42311,uzb,Uzbekistan,1999,Legal,0
-42312,uzb,Uzbekistan,2000,Legal,0
-42313,uzb,Uzbekistan,2001,Legal,0
-42314,uzb,Uzbekistan,2002,Legal,0
-42315,uzb,Uzbekistan,2003,Legal,0
-42316,uzb,Uzbekistan,2004,Legal,0
-42317,uzb,Uzbekistan,2005,Legal,0
-42318,uzb,Uzbekistan,2006,Legal,0
-42319,uzb,Uzbekistan,2007,Legal,0
-42320,uzb,Uzbekistan,2008,Legal,0
-42321,uzb,Uzbekistan,2009,Legal,0
-42322,uzb,Uzbekistan,2010,Legal,0
-42323,uzb,Uzbekistan,2011,Legal,0
-42324,uzb,Uzbekistan,2012,Legal,0
-42325,uzb,Uzbekistan,2013,Legal,0
-42326,uzb,Uzbekistan,2014,Legal,0
-42327,uzb,Uzbekistan,2015,Legal,0
-42328,uzb,Uzbekistan,2016,Legal,0
-42329,uzb,Uzbekistan,2017,Legal,0
-42330,uzb,Uzbekistan,2018,Legal,0
-42331,uzb,Uzbekistan,2019,Legal,0
-42332,uzb,Uzbekistan,2020,Legal,0
+42238,uzb,Uzbekistan,1926,Illegal (Except for governmental practices),0
+42239,uzb,Uzbekistan,1927,Illegal (Except for governmental practices),0
+42240,uzb,Uzbekistan,1928,Illegal (Except for governmental practices),0
+42241,uzb,Uzbekistan,1929,Illegal (Except for governmental practices),0
+42242,uzb,Uzbekistan,1930,Illegal (Except for governmental practices),0
+42243,uzb,Uzbekistan,1931,Illegal (Except for governmental practices),0
+42244,uzb,Uzbekistan,1932,Illegal (Except for governmental practices),0
+42245,uzb,Uzbekistan,1933,Illegal (Except for governmental practices),0
+42246,uzb,Uzbekistan,1934,Illegal (Except for governmental practices),0
+42247,uzb,Uzbekistan,1935,Illegal (Except for governmental practices),0
+42248,uzb,Uzbekistan,1936,Illegal (Except for governmental practices),0
+42249,uzb,Uzbekistan,1937,Illegal (Except for governmental practices),0
+42250,uzb,Uzbekistan,1938,Illegal (Except for governmental practices),0
+42251,uzb,Uzbekistan,1939,Illegal (Except for governmental practices),0
+42252,uzb,Uzbekistan,1940,Illegal (Except for governmental practices),0
+42253,uzb,Uzbekistan,1941,Illegal (Except for governmental practices),0
+42254,uzb,Uzbekistan,1942,Illegal (Except for governmental practices),0
+42255,uzb,Uzbekistan,1943,Illegal (Except for governmental practices),0
+42256,uzb,Uzbekistan,1944,Illegal (Except for governmental practices),0
+42257,uzb,Uzbekistan,1945,Illegal (Except for governmental practices),0
+42258,uzb,Uzbekistan,1946,Illegal (Except for governmental practices),0
+42259,uzb,Uzbekistan,1947,Illegal (Except for governmental practices),0
+42260,uzb,Uzbekistan,1948,Illegal (Except for governmental practices),0
+42261,uzb,Uzbekistan,1949,Illegal (Except for governmental practices),0
+42262,uzb,Uzbekistan,1950,Illegal (Except for governmental practices),0
+42263,uzb,Uzbekistan,1951,Illegal (Except for governmental practices),0
+42264,uzb,Uzbekistan,1952,Illegal (Except for governmental practices),0
+42265,uzb,Uzbekistan,1953,Illegal (Except for governmental practices),0
+42266,uzb,Uzbekistan,1954,Illegal (Except for governmental practices),0
+42267,uzb,Uzbekistan,1955,Illegal (Except for governmental practices),0
+42268,uzb,Uzbekistan,1956,Illegal (Except for governmental practices),0
+42269,uzb,Uzbekistan,1957,Illegal (Except for governmental practices),0
+42270,uzb,Uzbekistan,1958,Illegal (Except for governmental practices),0
+42271,uzb,Uzbekistan,1959,Illegal (Except for governmental practices),0
+42272,uzb,Uzbekistan,1960,Illegal (Except for governmental practices),0
+42273,uzb,Uzbekistan,1961,Illegal (Except for governmental practices),0
+42274,uzb,Uzbekistan,1962,Illegal (Except for governmental practices),0
+42275,uzb,Uzbekistan,1963,Illegal (Except for governmental practices),0
+42276,uzb,Uzbekistan,1964,Illegal (Except for governmental practices),0
+42277,uzb,Uzbekistan,1965,Illegal (Except for governmental practices),0
+42278,uzb,Uzbekistan,1966,Illegal (Except for governmental practices),0
+42279,uzb,Uzbekistan,1967,Illegal (Except for governmental practices),0
+42280,uzb,Uzbekistan,1968,Illegal (Except for governmental practices),0
+42281,uzb,Uzbekistan,1969,Illegal (Except for governmental practices),0
+42282,uzb,Uzbekistan,1970,Illegal (Except for governmental practices),0
+42283,uzb,Uzbekistan,1971,Illegal (Except for governmental practices),0
+42284,uzb,Uzbekistan,1972,Illegal (Except for governmental practices),0
+42285,uzb,Uzbekistan,1973,Illegal (Except for governmental practices),0
+42286,uzb,Uzbekistan,1974,Illegal (Except for governmental practices),0
+42287,uzb,Uzbekistan,1975,Illegal (Except for governmental practices),0
+42288,uzb,Uzbekistan,1976,Illegal (Except for governmental practices),0
+42289,uzb,Uzbekistan,1977,Illegal (Except for governmental practices),0
+42290,uzb,Uzbekistan,1978,Illegal (Except for governmental practices),0
+42291,uzb,Uzbekistan,1979,Illegal (Except for governmental practices),0
+42292,uzb,Uzbekistan,1980,Illegal (Except for governmental practices),0
+42293,uzb,Uzbekistan,1981,Illegal (Except for governmental practices),0
+42294,uzb,Uzbekistan,1982,Illegal (Except for governmental practices),0
+42295,uzb,Uzbekistan,1983,Illegal (Except for governmental practices),0
+42296,uzb,Uzbekistan,1984,Illegal (Except for governmental practices),0
+42297,uzb,Uzbekistan,1985,Illegal (Except for governmental practices),0
+42298,uzb,Uzbekistan,1986,Illegal (Except for governmental practices),0
+42299,uzb,Uzbekistan,1987,Illegal (Except for governmental practices),0
+42300,uzb,Uzbekistan,1988,Illegal (Except for governmental practices),0
+42301,uzb,Uzbekistan,1989,Illegal (Except for governmental practices),0
+42302,uzb,Uzbekistan,1990,Illegal (Except for governmental practices),0
+42303,uzb,Uzbekistan,1991,Illegal (Except for governmental practices),0
+42304,uzb,Uzbekistan,1992,Illegal (Except for governmental practices),0
+42305,uzb,Uzbekistan,1993,Illegal (Except for governmental practices),0
+42306,uzb,Uzbekistan,1994,Illegal (Except for governmental practices),0
+42307,uzb,Uzbekistan,1995,Illegal (Except for governmental practices),0
+42308,uzb,Uzbekistan,1996,Illegal (Except for governmental practices),0
+42309,uzb,Uzbekistan,1997,Illegal (Except for governmental practices),0
+42310,uzb,Uzbekistan,1998,Illegal (Except for governmental practices),0
+42311,uzb,Uzbekistan,1999,Illegal (Except for governmental practices),0
+42312,uzb,Uzbekistan,2000,Illegal (Except for governmental practices),0
+42313,uzb,Uzbekistan,2001,Illegal (Except for governmental practices),0
+42314,uzb,Uzbekistan,2002,Illegal (Except for governmental practices),0
+42315,uzb,Uzbekistan,2003,Illegal (Except for governmental practices),0
+42316,uzb,Uzbekistan,2004,Illegal (Except for governmental practices),0
+42317,uzb,Uzbekistan,2005,Illegal (Except for governmental practices),0
+42318,uzb,Uzbekistan,2006,Illegal (Except for governmental practices),0
+42319,uzb,Uzbekistan,2007,Illegal (Except for governmental practices),0
+42320,uzb,Uzbekistan,2008,Illegal (Except for governmental practices),0
+42321,uzb,Uzbekistan,2009,Illegal (Except for governmental practices),0
+42322,uzb,Uzbekistan,2010,Illegal (Except for governmental practices),0
+42323,uzb,Uzbekistan,2011,Illegal (Except for governmental practices),0
+42324,uzb,Uzbekistan,2012,Illegal (Except for governmental practices),0
+42325,uzb,Uzbekistan,2013,Illegal (Except for governmental practices),0
+42326,uzb,Uzbekistan,2014,Illegal (Except for governmental practices),0
+42327,uzb,Uzbekistan,2015,Illegal (Except for governmental practices),0
+42328,uzb,Uzbekistan,2016,Illegal (Except for governmental practices),0
+42329,uzb,Uzbekistan,2017,Illegal (Except for governmental practices),0
+42330,uzb,Uzbekistan,2018,Illegal (Except for governmental practices),0
+42331,uzb,Uzbekistan,2019,Illegal (Except for governmental practices),0
+42332,uzb,Uzbekistan,2020,Illegal (Except for governmental practices),0
 42333,uzb,Uzbekistan,2021,Illegal,1
 42334,uzb,Uzbekistan,2022,Illegal,1
 42335,uzb,Uzbekistan,2023,Illegal,1
