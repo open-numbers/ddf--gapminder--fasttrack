@@ -200,8 +200,8 @@ terr_emissions,Territorial Emissions,"[geo:country,time:time]","{timeInColumns:F
 cons_emissions,Consumption Emissions,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1bLhp_nVqNu2YJ6z5JpA_1Dy8VORw5LU9tL6c01eZkKk-data-for-countries-etc-by-year
 transfer_emissions,Emissions Transfers,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1bLhp_nVqNu2YJ6z5JpA_1Dy8VORw5LU9tL6c01eZkKk-data-for-countries-etc-by-year
 c_emission_cap,Consumption Emissions per Capita,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1bLhp_nVqNu2YJ6z5JpA_1Dy8VORw5LU9tL6c01eZkKk-data-for-countries-etc-by-year
-co2_pcap_cons,CO2 per Cap (Consumption),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ZXMWs9YXpGStfCk0VtkPE1Wz9YYC9CbrDHbS28_hGxY-data-for-countries-etc-by-year
-co2_cons,CO2 Emissions total (Consumption),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ZXMWs9YXpGStfCk0VtkPE1Wz9YYC9CbrDHbS28_hGxY-data-for-countries-etc-by-year
+co2_pcap_cons,CO2 per Cap (Consumption),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1t_GOXGrXQgSasIB7dWfRrq9dkqjrqwy3xHvywH7ah1A-data-for-countries-etc-by-year
+co2_cons,CO2 Emissions total (Consumption),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1t_GOXGrXQgSasIB7dWfRrq9dkqjrqwy3xHvywH7ah1A-data-for-countries-etc-by-year
 co2_pcap_terr,CO2 per Cap (Territorial),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11YXbHov2h0Gk-8oC1VrakT4SSjPFKhbV5zEHIkyNtRQ-data-for-countries-etc-by-year
 co2_terr,CO2 Emissions total (Territorial),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11YXbHov2h0Gk-8oC1VrakT4SSjPFKhbV5zEHIkyNtRQ-data-for-countries-etc-by-year
 carbonfp_pcap,National carbon footprint,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1TQXa62vo3WKM499neWOQAPsyyPuzwn-CMnUDFCA8Dgo-data-for-countries-etc-by-year
