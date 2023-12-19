@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2023-12-19T13:23:33.697355+00:00",
+    "created": "2023-12-19T13:40:11.187069+00:00",
     "version": "1.1.0",
     "resources": [
         {
@@ -654,6 +654,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--global--time",
+            "path": "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "child_mortality_0_5_year_olds_dying_per_1000_born"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -6780,7 +6801,18 @@
                 ],
                 "value": "child_mortality_0_5_year_olds_dying_per_1000_born",
                 "resources": [
-                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--country--time"
+                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--country--time",
+                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "child_mortality_0_5_year_olds_dying_per_1000_born",
+                "resources": [
+                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--global--time"
                 ]
             },
             {

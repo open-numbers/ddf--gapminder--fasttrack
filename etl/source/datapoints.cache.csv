@@ -216,3 +216,4 @@ pop,Population,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRU
 un_member_status,UN members,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1q9KUfgCyCYre-mRIXUQuh58aApuiJGCRMjc2viadC50-data-for-countries-etc-by-year
 number_of_child_deaths,Child deaths,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1GrC4DMuT0WFvBOrUOBZqQpU7c8dPFLMLzp9PbtFml2M-data-for-countries-etc-by-year
 child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RghEVLmEnpJQrBdldELHhS6tN-tGYGq2LyqgpzfronM-data-for-countries-etc-by-year
+child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RghEVLmEnpJQrBdldELHhS6tN-tGYGq2LyqgpzfronM-data-for-world-by-year
