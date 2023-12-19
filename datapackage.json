@@ -8,7 +8,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2023-12-19T10:41:36.551028+00:00",
+    "created": "2023-12-19T13:58:13.486268+00:00",
     "version": "1.1.0",
     "resources": [
         {
@@ -655,6 +655,48 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--global--time",
+            "path": "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "child_mortality_0_5_year_olds_dying_per_1000_born"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--world_4region--time",
+            "path": "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "child_mortality_0_5_year_olds_dying_per_1000_born"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
                     "time"
                 ]
             }
@@ -6781,7 +6823,29 @@
                 ],
                 "value": "child_mortality_0_5_year_olds_dying_per_1000_born",
                 "resources": [
-                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--country--time"
+                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--country--time",
+                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--global--time",
+                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "child_mortality_0_5_year_olds_dying_per_1000_born",
+                "resources": [
+                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "child_mortality_0_5_year_olds_dying_per_1000_born",
+                "resources": [
+                    "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--world_4region--time"
                 ]
             },
             {
