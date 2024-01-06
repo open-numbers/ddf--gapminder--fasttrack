@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import os
 import os.path as osp
 import pandas as pd
 import numpy as np
@@ -171,8 +172,15 @@ def process_datapoints(row, env):
             by_fn.append(v)
     by_fn = [translate_dict.get(x, x) for x in by_fn]
     df.index.names = by_fn
+    if 'country' in by_fn:
+        outdir = "countries_etc_datapoints"
+    else:
+        outdir = "global_regions_datapoints"
     df.dropna().sort_index().to_csv(
-        '../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'].strip(), '--'.join(by_fn)),
+        osp.join('../../',
+                 outdir,
+                 'ddf--datapoints--{}--by--{}.csv'.format(
+                     row['concept_id'].strip(), '--'.join(by_fn))),
         encoding='utf8')
 
 
@@ -208,6 +216,9 @@ def main():
     cdf = serve_concepts(concepts, entities_columns)
 
     # datapoints
+    # create datapoints folders if not exist
+    os.makedirs(osp.join("../../", "countries_etc_datapoints"), exist_ok=True)
+    os.makedirs(osp.join("../../", "global_regions_datapoints"), exist_ok=True)
     # map concept_name -> concept_id
     concept_map = datapoints.set_index('concept_name')['concept_id'].to_dict()
     # dictionary for translating plural form to singal form
