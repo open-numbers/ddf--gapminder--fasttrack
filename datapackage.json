@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2024-01-08T03:32:59.493842+00:00",
+    "created": "2024-01-08T04:04:53.073436+00:00",
     "version": "1.1.0",
     "resources": [
         {
@@ -5876,6 +5876,846 @@
             }
         },
         {
+            "name": "ddf--datapoints--population_aged_0_14_years_both_sexes_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_0_14_years_both_sexes_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_0_14_years_both_sexes_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_0_14_years_female_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_0_14_years_female_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_0_14_years_female_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_0_14_years_male_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_0_14_years_male_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_0_14_years_male_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_0_14_years_total_number--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_0_14_years_total_number--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_0_14_years_total_number"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_0_4_years_both_sexes_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_0_4_years_both_sexes_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_0_4_years_both_sexes_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_0_4_years_female_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_0_4_years_female_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_0_4_years_female_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_0_4_years_male_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_0_4_years_male_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_0_4_years_male_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_0_4_years_total_number--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_0_4_years_total_number--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_0_4_years_total_number"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_10_14_years_both_sexes_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_10_14_years_both_sexes_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_10_14_years_both_sexes_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_10_14_years_female_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_10_14_years_female_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_10_14_years_female_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_10_14_years_male_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_10_14_years_male_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_10_14_years_male_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_10_14_years_total_number--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_10_14_years_total_number--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_10_14_years_total_number"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_15_19_years_both_sexes_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_15_19_years_both_sexes_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_15_19_years_both_sexes_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_15_19_years_female_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_15_19_years_female_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_15_19_years_female_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_15_19_years_male_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_15_19_years_male_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_15_19_years_male_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_15_19_years_total_number--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_15_19_years_total_number--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_15_19_years_total_number"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_20_39_years_both_sexes_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_20_39_years_both_sexes_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_20_39_years_both_sexes_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_20_39_years_female_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_20_39_years_female_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_20_39_years_female_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_20_39_years_male_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_20_39_years_male_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_20_39_years_male_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_20_39_years_total_number--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_20_39_years_total_number--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_20_39_years_total_number"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_40_59_years_both_sexes_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_40_59_years_both_sexes_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_40_59_years_both_sexes_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_40_59_years_female_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_40_59_years_female_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_40_59_years_female_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_40_59_years_male_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_40_59_years_male_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_40_59_years_male_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_40_59_years_total_number--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_40_59_years_total_number--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_40_59_years_total_number"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_5_9_years_both_sexes_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_5_9_years_both_sexes_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_5_9_years_both_sexes_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_5_9_years_female_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_5_9_years_female_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_5_9_years_female_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_5_9_years_male_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_5_9_years_male_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_5_9_years_male_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_5_9_years_total_number--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_5_9_years_total_number--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_5_9_years_total_number"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_60plus_years_both_sexes_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_60plus_years_both_sexes_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_60plus_years_both_sexes_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_60plus_years_female_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_60plus_years_female_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_60plus_years_female_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_60plus_years_male_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_60plus_years_male_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_60plus_years_male_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_60plus_years_total_number--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_60plus_years_total_number--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_60plus_years_total_number"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_65plus_years_both_sexes_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_65plus_years_both_sexes_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_65plus_years_both_sexes_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_65plus_years_female_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_65plus_years_female_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_65plus_years_female_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_65plus_years_male_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_65plus_years_male_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_65plus_years_male_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_65plus_years_total_number--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_65plus_years_total_number--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_65plus_years_total_number"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_70plus_years_both_sexes_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_70plus_years_both_sexes_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_70plus_years_both_sexes_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_70plus_years_female_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_70plus_years_female_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_70plus_years_female_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_70plus_years_male_percent--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_70plus_years_male_percent--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_70plus_years_male_percent"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--population_aged_70plus_years_total_number--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--population_aged_70plus_years_total_number--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "population_aged_70plus_years_total_number"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--un_peakeeper_num--by--global--time",
             "path": "global_regions_datapoints/ddf--datapoints--un_peakeeper_num--by--global--time.csv",
             "schema": {
@@ -10651,7 +11491,18 @@
                 ],
                 "value": "population_aged_0_14_years_both_sexes_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_0_14_years_both_sexes_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_0_14_years_both_sexes_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_0_14_years_both_sexes_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_0_14_years_both_sexes_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_0_14_years_both_sexes_percent--by--global--time"
                 ]
             },
             {
@@ -10671,7 +11522,18 @@
                 ],
                 "value": "population_aged_0_14_years_female_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_0_14_years_female_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_0_14_years_female_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_0_14_years_female_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_0_14_years_female_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_0_14_years_female_percent--by--global--time"
                 ]
             },
             {
@@ -10691,7 +11553,18 @@
                 ],
                 "value": "population_aged_0_14_years_male_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_0_14_years_male_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_0_14_years_male_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_0_14_years_male_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_0_14_years_male_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_0_14_years_male_percent--by--global--time"
                 ]
             },
             {
@@ -10711,7 +11584,18 @@
                 ],
                 "value": "population_aged_0_14_years_total_number",
                 "resources": [
-                    "ddf--datapoints--population_aged_0_14_years_total_number--by--geo--time"
+                    "ddf--datapoints--population_aged_0_14_years_total_number--by--geo--time",
+                    "ddf--datapoints--population_aged_0_14_years_total_number--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_0_14_years_total_number",
+                "resources": [
+                    "ddf--datapoints--population_aged_0_14_years_total_number--by--global--time"
                 ]
             },
             {
@@ -10731,7 +11615,18 @@
                 ],
                 "value": "population_aged_0_4_years_both_sexes_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_0_4_years_both_sexes_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_0_4_years_both_sexes_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_0_4_years_both_sexes_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_0_4_years_both_sexes_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_0_4_years_both_sexes_percent--by--global--time"
                 ]
             },
             {
@@ -10751,7 +11646,18 @@
                 ],
                 "value": "population_aged_0_4_years_female_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_0_4_years_female_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_0_4_years_female_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_0_4_years_female_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_0_4_years_female_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_0_4_years_female_percent--by--global--time"
                 ]
             },
             {
@@ -10771,7 +11677,18 @@
                 ],
                 "value": "population_aged_0_4_years_male_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_0_4_years_male_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_0_4_years_male_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_0_4_years_male_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_0_4_years_male_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_0_4_years_male_percent--by--global--time"
                 ]
             },
             {
@@ -10791,7 +11708,18 @@
                 ],
                 "value": "population_aged_0_4_years_total_number",
                 "resources": [
-                    "ddf--datapoints--population_aged_0_4_years_total_number--by--geo--time"
+                    "ddf--datapoints--population_aged_0_4_years_total_number--by--geo--time",
+                    "ddf--datapoints--population_aged_0_4_years_total_number--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_0_4_years_total_number",
+                "resources": [
+                    "ddf--datapoints--population_aged_0_4_years_total_number--by--global--time"
                 ]
             },
             {
@@ -10811,7 +11739,18 @@
                 ],
                 "value": "population_aged_10_14_years_both_sexes_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_10_14_years_both_sexes_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_10_14_years_both_sexes_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_10_14_years_both_sexes_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_10_14_years_both_sexes_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_10_14_years_both_sexes_percent--by--global--time"
                 ]
             },
             {
@@ -10831,7 +11770,18 @@
                 ],
                 "value": "population_aged_10_14_years_female_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_10_14_years_female_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_10_14_years_female_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_10_14_years_female_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_10_14_years_female_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_10_14_years_female_percent--by--global--time"
                 ]
             },
             {
@@ -10851,7 +11801,18 @@
                 ],
                 "value": "population_aged_10_14_years_male_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_10_14_years_male_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_10_14_years_male_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_10_14_years_male_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_10_14_years_male_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_10_14_years_male_percent--by--global--time"
                 ]
             },
             {
@@ -10871,7 +11832,18 @@
                 ],
                 "value": "population_aged_10_14_years_total_number",
                 "resources": [
-                    "ddf--datapoints--population_aged_10_14_years_total_number--by--geo--time"
+                    "ddf--datapoints--population_aged_10_14_years_total_number--by--geo--time",
+                    "ddf--datapoints--population_aged_10_14_years_total_number--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_10_14_years_total_number",
+                "resources": [
+                    "ddf--datapoints--population_aged_10_14_years_total_number--by--global--time"
                 ]
             },
             {
@@ -10891,7 +11863,18 @@
                 ],
                 "value": "population_aged_15_19_years_both_sexes_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_15_19_years_both_sexes_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_15_19_years_both_sexes_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_15_19_years_both_sexes_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_15_19_years_both_sexes_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_15_19_years_both_sexes_percent--by--global--time"
                 ]
             },
             {
@@ -10911,7 +11894,18 @@
                 ],
                 "value": "population_aged_15_19_years_female_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_15_19_years_female_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_15_19_years_female_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_15_19_years_female_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_15_19_years_female_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_15_19_years_female_percent--by--global--time"
                 ]
             },
             {
@@ -10931,7 +11925,18 @@
                 ],
                 "value": "population_aged_15_19_years_male_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_15_19_years_male_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_15_19_years_male_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_15_19_years_male_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_15_19_years_male_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_15_19_years_male_percent--by--global--time"
                 ]
             },
             {
@@ -10951,7 +11956,18 @@
                 ],
                 "value": "population_aged_15_19_years_total_number",
                 "resources": [
-                    "ddf--datapoints--population_aged_15_19_years_total_number--by--geo--time"
+                    "ddf--datapoints--population_aged_15_19_years_total_number--by--geo--time",
+                    "ddf--datapoints--population_aged_15_19_years_total_number--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_15_19_years_total_number",
+                "resources": [
+                    "ddf--datapoints--population_aged_15_19_years_total_number--by--global--time"
                 ]
             },
             {
@@ -10971,7 +11987,18 @@
                 ],
                 "value": "population_aged_20_39_years_both_sexes_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_20_39_years_both_sexes_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_20_39_years_both_sexes_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_20_39_years_both_sexes_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_20_39_years_both_sexes_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_20_39_years_both_sexes_percent--by--global--time"
                 ]
             },
             {
@@ -10991,7 +12018,18 @@
                 ],
                 "value": "population_aged_20_39_years_female_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_20_39_years_female_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_20_39_years_female_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_20_39_years_female_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_20_39_years_female_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_20_39_years_female_percent--by--global--time"
                 ]
             },
             {
@@ -11011,7 +12049,18 @@
                 ],
                 "value": "population_aged_20_39_years_male_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_20_39_years_male_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_20_39_years_male_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_20_39_years_male_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_20_39_years_male_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_20_39_years_male_percent--by--global--time"
                 ]
             },
             {
@@ -11031,7 +12080,18 @@
                 ],
                 "value": "population_aged_20_39_years_total_number",
                 "resources": [
-                    "ddf--datapoints--population_aged_20_39_years_total_number--by--geo--time"
+                    "ddf--datapoints--population_aged_20_39_years_total_number--by--geo--time",
+                    "ddf--datapoints--population_aged_20_39_years_total_number--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_20_39_years_total_number",
+                "resources": [
+                    "ddf--datapoints--population_aged_20_39_years_total_number--by--global--time"
                 ]
             },
             {
@@ -11051,7 +12111,18 @@
                 ],
                 "value": "population_aged_40_59_years_both_sexes_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_40_59_years_both_sexes_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_40_59_years_both_sexes_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_40_59_years_both_sexes_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_40_59_years_both_sexes_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_40_59_years_both_sexes_percent--by--global--time"
                 ]
             },
             {
@@ -11071,7 +12142,18 @@
                 ],
                 "value": "population_aged_40_59_years_female_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_40_59_years_female_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_40_59_years_female_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_40_59_years_female_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_40_59_years_female_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_40_59_years_female_percent--by--global--time"
                 ]
             },
             {
@@ -11091,7 +12173,18 @@
                 ],
                 "value": "population_aged_40_59_years_male_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_40_59_years_male_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_40_59_years_male_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_40_59_years_male_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_40_59_years_male_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_40_59_years_male_percent--by--global--time"
                 ]
             },
             {
@@ -11111,7 +12204,18 @@
                 ],
                 "value": "population_aged_40_59_years_total_number",
                 "resources": [
-                    "ddf--datapoints--population_aged_40_59_years_total_number--by--geo--time"
+                    "ddf--datapoints--population_aged_40_59_years_total_number--by--geo--time",
+                    "ddf--datapoints--population_aged_40_59_years_total_number--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_40_59_years_total_number",
+                "resources": [
+                    "ddf--datapoints--population_aged_40_59_years_total_number--by--global--time"
                 ]
             },
             {
@@ -11131,7 +12235,18 @@
                 ],
                 "value": "population_aged_5_9_years_both_sexes_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_5_9_years_both_sexes_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_5_9_years_both_sexes_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_5_9_years_both_sexes_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_5_9_years_both_sexes_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_5_9_years_both_sexes_percent--by--global--time"
                 ]
             },
             {
@@ -11151,7 +12266,18 @@
                 ],
                 "value": "population_aged_5_9_years_female_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_5_9_years_female_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_5_9_years_female_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_5_9_years_female_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_5_9_years_female_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_5_9_years_female_percent--by--global--time"
                 ]
             },
             {
@@ -11171,7 +12297,18 @@
                 ],
                 "value": "population_aged_5_9_years_male_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_5_9_years_male_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_5_9_years_male_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_5_9_years_male_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_5_9_years_male_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_5_9_years_male_percent--by--global--time"
                 ]
             },
             {
@@ -11191,7 +12328,18 @@
                 ],
                 "value": "population_aged_5_9_years_total_number",
                 "resources": [
-                    "ddf--datapoints--population_aged_5_9_years_total_number--by--geo--time"
+                    "ddf--datapoints--population_aged_5_9_years_total_number--by--geo--time",
+                    "ddf--datapoints--population_aged_5_9_years_total_number--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_5_9_years_total_number",
+                "resources": [
+                    "ddf--datapoints--population_aged_5_9_years_total_number--by--global--time"
                 ]
             },
             {
@@ -11211,7 +12359,18 @@
                 ],
                 "value": "population_aged_60plus_years_both_sexes_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_60plus_years_both_sexes_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_60plus_years_both_sexes_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_60plus_years_both_sexes_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_60plus_years_both_sexes_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_60plus_years_both_sexes_percent--by--global--time"
                 ]
             },
             {
@@ -11231,7 +12390,18 @@
                 ],
                 "value": "population_aged_60plus_years_female_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_60plus_years_female_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_60plus_years_female_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_60plus_years_female_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_60plus_years_female_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_60plus_years_female_percent--by--global--time"
                 ]
             },
             {
@@ -11251,7 +12421,18 @@
                 ],
                 "value": "population_aged_60plus_years_male_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_60plus_years_male_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_60plus_years_male_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_60plus_years_male_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_60plus_years_male_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_60plus_years_male_percent--by--global--time"
                 ]
             },
             {
@@ -11271,7 +12452,18 @@
                 ],
                 "value": "population_aged_60plus_years_total_number",
                 "resources": [
-                    "ddf--datapoints--population_aged_60plus_years_total_number--by--geo--time"
+                    "ddf--datapoints--population_aged_60plus_years_total_number--by--geo--time",
+                    "ddf--datapoints--population_aged_60plus_years_total_number--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_60plus_years_total_number",
+                "resources": [
+                    "ddf--datapoints--population_aged_60plus_years_total_number--by--global--time"
                 ]
             },
             {
@@ -11291,7 +12483,18 @@
                 ],
                 "value": "population_aged_65plus_years_both_sexes_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_65plus_years_both_sexes_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_65plus_years_both_sexes_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_65plus_years_both_sexes_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_65plus_years_both_sexes_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_65plus_years_both_sexes_percent--by--global--time"
                 ]
             },
             {
@@ -11311,7 +12514,18 @@
                 ],
                 "value": "population_aged_65plus_years_female_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_65plus_years_female_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_65plus_years_female_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_65plus_years_female_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_65plus_years_female_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_65plus_years_female_percent--by--global--time"
                 ]
             },
             {
@@ -11331,7 +12545,18 @@
                 ],
                 "value": "population_aged_65plus_years_male_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_65plus_years_male_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_65plus_years_male_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_65plus_years_male_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_65plus_years_male_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_65plus_years_male_percent--by--global--time"
                 ]
             },
             {
@@ -11351,7 +12576,18 @@
                 ],
                 "value": "population_aged_65plus_years_total_number",
                 "resources": [
-                    "ddf--datapoints--population_aged_65plus_years_total_number--by--geo--time"
+                    "ddf--datapoints--population_aged_65plus_years_total_number--by--geo--time",
+                    "ddf--datapoints--population_aged_65plus_years_total_number--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_65plus_years_total_number",
+                "resources": [
+                    "ddf--datapoints--population_aged_65plus_years_total_number--by--global--time"
                 ]
             },
             {
@@ -11371,7 +12607,18 @@
                 ],
                 "value": "population_aged_70plus_years_both_sexes_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_70plus_years_both_sexes_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_70plus_years_both_sexes_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_70plus_years_both_sexes_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_70plus_years_both_sexes_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_70plus_years_both_sexes_percent--by--global--time"
                 ]
             },
             {
@@ -11391,7 +12638,18 @@
                 ],
                 "value": "population_aged_70plus_years_female_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_70plus_years_female_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_70plus_years_female_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_70plus_years_female_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_70plus_years_female_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_70plus_years_female_percent--by--global--time"
                 ]
             },
             {
@@ -11411,7 +12669,18 @@
                 ],
                 "value": "population_aged_70plus_years_male_percent",
                 "resources": [
-                    "ddf--datapoints--population_aged_70plus_years_male_percent--by--geo--time"
+                    "ddf--datapoints--population_aged_70plus_years_male_percent--by--geo--time",
+                    "ddf--datapoints--population_aged_70plus_years_male_percent--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_70plus_years_male_percent",
+                "resources": [
+                    "ddf--datapoints--population_aged_70plus_years_male_percent--by--global--time"
                 ]
             },
             {
@@ -11431,7 +12700,18 @@
                 ],
                 "value": "population_aged_70plus_years_total_number",
                 "resources": [
-                    "ddf--datapoints--population_aged_70plus_years_total_number--by--geo--time"
+                    "ddf--datapoints--population_aged_70plus_years_total_number--by--geo--time",
+                    "ddf--datapoints--population_aged_70plus_years_total_number--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "population_aged_70plus_years_total_number",
+                "resources": [
+                    "ddf--datapoints--population_aged_70plus_years_total_number--by--global--time"
                 ]
             },
             {
