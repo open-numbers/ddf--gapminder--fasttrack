@@ -194,13 +194,21 @@ def main():
     print('creating ddf datasets...')
     # entities
     entities_columns = set()  # mark down the columns, use to create concept table later
-    geo_concepts = concepts_ontology[concepts_ontology.domain == 'geo'].concept.values
+    geo_concepts = concepts_ontology[concepts_ontology.domain == 'geo'].concept.values.tolist()
+
+    geo_concepts.append('')  # there are some geos not belonging all groups
+
+    from_dir = '../source/ddf--open_numbers/'
+    to_dir = '../../'
     for e in geo_concepts:
-        file_path = f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv'
+        if e == '':
+            basename = 'ddf--entities--geo.csv'
+        else:
+            basename = f'ddf--entities--geo--{e}.csv'
+        file_path = os.path.join(from_dir, basename)
         if osp.exists(file_path):
-            edf = pd.read_csv(f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv',
-                              na_filter=False, dtype=str)
-            edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False, encoding='utf8')
+            edf = pd.read_csv(file_path, na_filter=False, dtype=str)
+            edf.to_csv(os.path.join(to_dir, basename), index=False, encoding='utf8')
             for c in edf.columns:
                 entities_columns.add(c)
         else:
