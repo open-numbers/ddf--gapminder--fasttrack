@@ -172,7 +172,7 @@ def process_datapoints(row, env):
             by_fn.append(v)
     by_fn = [translate_dict.get(x, x) for x in by_fn]
     df.index.names = by_fn
-    if 'country' in by_fn:
+    if 'country' in by_fn or 'geo' in by_fn:
         outdir = "countries_etc_datapoints"
     else:
         outdir = "global_regions_datapoints"
