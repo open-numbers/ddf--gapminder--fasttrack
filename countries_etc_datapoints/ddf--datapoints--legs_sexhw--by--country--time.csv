@@ -50,6 +50,8 @@ afg,2017,Yes
 afg,2018,Yes
 afg,2019,Yes
 afg,2020,Yes
+afg,2021,Yes
+afg,2022,Yes
 ago,1970,No
 ago,1971,No
 ago,1972,No
@@ -101,6 +103,8 @@ ago,2017,No
 ago,2018,No
 ago,2019,No
 ago,2020,No
+ago,2021,Yes
+ago,2022,Yes
 alb,1970,No
 alb,1971,No
 alb,1972,No
@@ -152,6 +156,8 @@ alb,2017,Yes
 alb,2018,Yes
 alb,2019,Yes
 alb,2020,Yes
+alb,2021,Yes
+alb,2022,Yes
 are,1970,No
 are,1971,No
 are,1972,No
@@ -203,6 +209,8 @@ are,2017,No
 are,2018,No
 are,2019,Yes
 are,2020,Yes
+are,2021,Yes
+are,2022,Yes
 arg,1970,No
 arg,1971,No
 arg,1972,No
@@ -254,6 +262,8 @@ arg,2017,Yes
 arg,2018,Yes
 arg,2019,Yes
 arg,2020,Yes
+arg,2021,Yes
+arg,2022,Yes
 arm,1970,No
 arm,1971,No
 arm,1972,No
@@ -305,6 +315,8 @@ arm,2017,No
 arm,2018,No
 arm,2019,No
 arm,2020,No
+arm,2021,No
+arm,2022,No
 atg,1970,No
 atg,1971,No
 atg,1972,No
@@ -356,6 +368,8 @@ atg,2017,No
 atg,2018,No
 atg,2019,No
 atg,2020,No
+atg,2021,No
+atg,2022,No
 aus,1970,No
 aus,1971,No
 aus,1972,No
@@ -407,6 +421,8 @@ aus,2017,Yes
 aus,2018,Yes
 aus,2019,Yes
 aus,2020,Yes
+aus,2021,Yes
+aus,2022,Yes
 aut,1970,No
 aut,1971,No
 aut,1972,No
@@ -458,6 +474,8 @@ aut,2017,Yes
 aut,2018,Yes
 aut,2019,Yes
 aut,2020,Yes
+aut,2021,Yes
+aut,2022,Yes
 aze,1970,No
 aze,1971,No
 aze,1972,No
@@ -509,6 +527,8 @@ aze,2017,Yes
 aze,2018,Yes
 aze,2019,Yes
 aze,2020,Yes
+aze,2021,Yes
+aze,2022,Yes
 bdi,1970,No
 bdi,1971,No
 bdi,1972,No
@@ -560,6 +580,8 @@ bdi,2017,Yes
 bdi,2018,Yes
 bdi,2019,Yes
 bdi,2020,Yes
+bdi,2021,Yes
+bdi,2022,Yes
 bel,1970,No
 bel,1971,No
 bel,1972,No
@@ -611,6 +633,8 @@ bel,2017,Yes
 bel,2018,Yes
 bel,2019,Yes
 bel,2020,Yes
+bel,2021,Yes
+bel,2022,Yes
 ben,1970,No
 ben,1971,No
 ben,1972,No
@@ -662,6 +686,8 @@ ben,2017,Yes
 ben,2018,Yes
 ben,2019,Yes
 ben,2020,Yes
+ben,2021,Yes
+ben,2022,Yes
 bfa,1970,No
 bfa,1971,No
 bfa,1972,No
@@ -713,6 +739,8 @@ bfa,2017,Yes
 bfa,2018,Yes
 bfa,2019,Yes
 bfa,2020,Yes
+bfa,2021,Yes
+bfa,2022,Yes
 bgd,1970,No
 bgd,1971,No
 bgd,1972,No
@@ -764,6 +792,8 @@ bgd,2017,Yes
 bgd,2018,Yes
 bgd,2019,Yes
 bgd,2020,Yes
+bgd,2021,Yes
+bgd,2022,Yes
 bgr,1970,No
 bgr,1971,No
 bgr,1972,No
@@ -815,6 +845,8 @@ bgr,2017,Yes
 bgr,2018,Yes
 bgr,2019,Yes
 bgr,2020,Yes
+bgr,2021,Yes
+bgr,2022,Yes
 bhr,1970,No
 bhr,1971,No
 bhr,1972,No
@@ -866,6 +898,8 @@ bhr,2017,No
 bhr,2018,No
 bhr,2019,Yes
 bhr,2020,Yes
+bhr,2021,Yes
+bhr,2022,Yes
 bhs,1970,No
 bhs,1971,No
 bhs,1972,No
@@ -917,6 +951,8 @@ bhs,2017,Yes
 bhs,2018,Yes
 bhs,2019,Yes
 bhs,2020,Yes
+bhs,2021,Yes
+bhs,2022,Yes
 bih,1970,No
 bih,1971,No
 bih,1972,No
@@ -968,6 +1004,8 @@ bih,2017,Yes
 bih,2018,Yes
 bih,2019,Yes
 bih,2020,Yes
+bih,2021,Yes
+bih,2022,Yes
 blr,1970,No
 blr,1971,No
 blr,1972,No
@@ -1019,6 +1057,8 @@ blr,2017,No
 blr,2018,No
 blr,2019,No
 blr,2020,No
+blr,2021,No
+blr,2022,No
 blz,1970,No
 blz,1971,No
 blz,1972,No
@@ -1070,6 +1110,8 @@ blz,2017,Yes
 blz,2018,Yes
 blz,2019,Yes
 blz,2020,Yes
+blz,2021,Yes
+blz,2022,Yes
 bol,1970,No
 bol,1971,No
 bol,1972,No
@@ -1121,6 +1163,8 @@ bol,2017,Yes
 bol,2018,Yes
 bol,2019,Yes
 bol,2020,Yes
+bol,2021,Yes
+bol,2022,Yes
 bra,1970,No
 bra,1971,No
 bra,1972,No
@@ -1172,6 +1216,8 @@ bra,2017,Yes
 bra,2018,Yes
 bra,2019,Yes
 bra,2020,Yes
+bra,2021,Yes
+bra,2022,Yes
 brb,1970,No
 brb,1971,No
 brb,1972,No
@@ -1223,6 +1269,8 @@ brb,2017,No
 brb,2018,Yes
 brb,2019,Yes
 brb,2020,Yes
+brb,2021,Yes
+brb,2022,Yes
 brn,1970,No
 brn,1971,No
 brn,1972,No
@@ -1274,6 +1322,8 @@ brn,2017,No
 brn,2018,No
 brn,2019,No
 brn,2020,No
+brn,2021,No
+brn,2022,No
 btn,1970,No
 btn,1971,No
 btn,1972,No
@@ -1325,6 +1375,8 @@ btn,2017,Yes
 btn,2018,Yes
 btn,2019,Yes
 btn,2020,Yes
+btn,2021,Yes
+btn,2022,Yes
 bwa,1970,No
 bwa,1971,No
 bwa,1972,No
@@ -1376,6 +1428,8 @@ bwa,2017,No
 bwa,2018,No
 bwa,2019,No
 bwa,2020,No
+bwa,2021,No
+bwa,2022,No
 caf,1970,No
 caf,1971,No
 caf,1972,No
@@ -1427,6 +1481,8 @@ caf,2017,Yes
 caf,2018,Yes
 caf,2019,Yes
 caf,2020,Yes
+caf,2021,Yes
+caf,2022,Yes
 can,1970,No
 can,1971,No
 can,1972,No
@@ -1478,6 +1534,8 @@ can,2017,Yes
 can,2018,Yes
 can,2019,Yes
 can,2020,Yes
+can,2021,Yes
+can,2022,Yes
 che,1970,No
 che,1971,No
 che,1972,No
@@ -1529,6 +1587,8 @@ che,2017,Yes
 che,2018,Yes
 che,2019,Yes
 che,2020,Yes
+che,2021,Yes
+che,2022,Yes
 chl,1970,No
 chl,1971,No
 chl,1972,No
@@ -1580,6 +1640,8 @@ chl,2017,Yes
 chl,2018,Yes
 chl,2019,Yes
 chl,2020,Yes
+chl,2021,Yes
+chl,2022,Yes
 chn,1970,No
 chn,1971,No
 chn,1972,No
@@ -1631,6 +1693,8 @@ chn,2017,Yes
 chn,2018,Yes
 chn,2019,Yes
 chn,2020,Yes
+chn,2021,Yes
+chn,2022,Yes
 civ,1970,No
 civ,1971,No
 civ,1972,No
@@ -1682,6 +1746,8 @@ civ,2017,Yes
 civ,2018,Yes
 civ,2019,Yes
 civ,2020,Yes
+civ,2021,Yes
+civ,2022,Yes
 cmr,1970,No
 cmr,1971,No
 cmr,1972,No
@@ -1733,6 +1799,8 @@ cmr,2017,Yes
 cmr,2018,Yes
 cmr,2019,Yes
 cmr,2020,Yes
+cmr,2021,Yes
+cmr,2022,Yes
 cod,1970,No
 cod,1971,No
 cod,1972,No
@@ -1784,6 +1852,8 @@ cod,2017,Yes
 cod,2018,Yes
 cod,2019,Yes
 cod,2020,Yes
+cod,2021,Yes
+cod,2022,Yes
 cog,1970,No
 cog,1971,No
 cog,1972,No
@@ -1835,6 +1905,8 @@ cog,2017,No
 cog,2018,No
 cog,2019,No
 cog,2020,No
+cog,2021,No
+cog,2022,Yes
 col,1970,No
 col,1971,No
 col,1972,No
@@ -1886,6 +1958,8 @@ col,2017,Yes
 col,2018,Yes
 col,2019,Yes
 col,2020,Yes
+col,2021,Yes
+col,2022,Yes
 com,1970,No
 com,1971,No
 com,1972,No
@@ -1937,6 +2011,8 @@ com,2017,Yes
 com,2018,Yes
 com,2019,Yes
 com,2020,Yes
+com,2021,Yes
+com,2022,Yes
 cpv,1970,No
 cpv,1971,No
 cpv,1972,No
@@ -1988,6 +2064,8 @@ cpv,2017,Yes
 cpv,2018,Yes
 cpv,2019,Yes
 cpv,2020,Yes
+cpv,2021,Yes
+cpv,2022,Yes
 cri,1970,No
 cri,1971,No
 cri,1972,No
@@ -2039,6 +2117,8 @@ cri,2017,Yes
 cri,2018,Yes
 cri,2019,Yes
 cri,2020,Yes
+cri,2021,Yes
+cri,2022,Yes
 cyp,1970,No
 cyp,1971,No
 cyp,1972,No
@@ -2090,6 +2170,8 @@ cyp,2017,Yes
 cyp,2018,Yes
 cyp,2019,Yes
 cyp,2020,Yes
+cyp,2021,Yes
+cyp,2022,Yes
 cze,1970,No
 cze,1971,No
 cze,1972,No
@@ -2126,7 +2208,7 @@ cze,2002,No
 cze,2003,No
 cze,2004,No
 cze,2005,No
-cze,2006,Yes
+cze,2006,No
 cze,2007,Yes
 cze,2008,Yes
 cze,2009,Yes
@@ -2141,6 +2223,8 @@ cze,2017,Yes
 cze,2018,Yes
 cze,2019,Yes
 cze,2020,Yes
+cze,2021,Yes
+cze,2022,Yes
 deu,1970,No
 deu,1971,No
 deu,1972,No
@@ -2192,6 +2276,8 @@ deu,2017,Yes
 deu,2018,Yes
 deu,2019,Yes
 deu,2020,Yes
+deu,2021,Yes
+deu,2022,Yes
 dji,1970,No
 dji,1971,No
 dji,1972,No
@@ -2243,6 +2329,8 @@ dji,2017,No
 dji,2018,No
 dji,2019,Yes
 dji,2020,Yes
+dji,2021,Yes
+dji,2022,Yes
 dma,1970,No
 dma,1971,No
 dma,1972,No
@@ -2294,6 +2382,8 @@ dma,2017,No
 dma,2018,No
 dma,2019,No
 dma,2020,No
+dma,2021,No
+dma,2022,No
 dnk,1970,No
 dnk,1971,No
 dnk,1972,No
@@ -2345,6 +2435,8 @@ dnk,2017,Yes
 dnk,2018,Yes
 dnk,2019,Yes
 dnk,2020,Yes
+dnk,2021,Yes
+dnk,2022,Yes
 dom,1970,No
 dom,1971,No
 dom,1972,No
@@ -2396,6 +2488,8 @@ dom,2017,Yes
 dom,2018,Yes
 dom,2019,Yes
 dom,2020,Yes
+dom,2021,Yes
+dom,2022,Yes
 dza,1970,No
 dza,1971,No
 dza,1972,No
@@ -2447,6 +2541,8 @@ dza,2017,Yes
 dza,2018,Yes
 dza,2019,Yes
 dza,2020,Yes
+dza,2021,Yes
+dza,2022,Yes
 ecu,1970,No
 ecu,1971,No
 ecu,1972,No
@@ -2498,6 +2594,8 @@ ecu,2017,Yes
 ecu,2018,Yes
 ecu,2019,Yes
 ecu,2020,Yes
+ecu,2021,Yes
+ecu,2022,Yes
 egy,1970,No
 egy,1971,No
 egy,1972,No
@@ -2549,6 +2647,8 @@ egy,2017,Yes
 egy,2018,Yes
 egy,2019,Yes
 egy,2020,Yes
+egy,2021,Yes
+egy,2022,Yes
 eri,1970,Yes
 eri,1971,Yes
 eri,1972,Yes
@@ -2600,6 +2700,8 @@ eri,2017,Yes
 eri,2018,Yes
 eri,2019,Yes
 eri,2020,Yes
+eri,2021,Yes
+eri,2022,Yes
 esp,1970,No
 esp,1971,No
 esp,1972,No
@@ -2651,6 +2753,8 @@ esp,2017,Yes
 esp,2018,Yes
 esp,2019,Yes
 esp,2020,Yes
+esp,2021,Yes
+esp,2022,Yes
 est,1970,No
 est,1971,No
 est,1972,No
@@ -2702,6 +2806,8 @@ est,2017,Yes
 est,2018,Yes
 est,2019,Yes
 est,2020,Yes
+est,2021,Yes
+est,2022,Yes
 eth,1970,Yes
 eth,1971,Yes
 eth,1972,Yes
@@ -2753,6 +2859,8 @@ eth,2017,Yes
 eth,2018,Yes
 eth,2019,Yes
 eth,2020,Yes
+eth,2021,Yes
+eth,2022,Yes
 fin,1970,No
 fin,1971,No
 fin,1972,No
@@ -2804,6 +2912,8 @@ fin,2017,Yes
 fin,2018,Yes
 fin,2019,Yes
 fin,2020,Yes
+fin,2021,Yes
+fin,2022,Yes
 fji,1970,No
 fji,1971,No
 fji,1972,No
@@ -2855,6 +2965,8 @@ fji,2017,Yes
 fji,2018,Yes
 fji,2019,Yes
 fji,2020,Yes
+fji,2021,Yes
+fji,2022,Yes
 fra,1970,No
 fra,1971,No
 fra,1972,No
@@ -2906,6 +3018,8 @@ fra,2017,Yes
 fra,2018,Yes
 fra,2019,Yes
 fra,2020,Yes
+fra,2021,Yes
+fra,2022,Yes
 fsm,1970,No
 fsm,1971,No
 fsm,1972,No
@@ -2957,6 +3071,8 @@ fsm,2017,No
 fsm,2018,No
 fsm,2019,No
 fsm,2020,No
+fsm,2021,No
+fsm,2022,No
 gab,1970,No
 gab,1971,No
 gab,1972,No
@@ -3008,6 +3124,8 @@ gab,2017,Yes
 gab,2018,Yes
 gab,2019,Yes
 gab,2020,Yes
+gab,2021,Yes
+gab,2022,Yes
 gbr,1970,No
 gbr,1971,No
 gbr,1972,No
@@ -3059,6 +3177,8 @@ gbr,2017,Yes
 gbr,2018,Yes
 gbr,2019,Yes
 gbr,2020,Yes
+gbr,2021,Yes
+gbr,2022,Yes
 geo,1970,No
 geo,1971,No
 geo,1972,No
@@ -3110,6 +3230,8 @@ geo,2017,Yes
 geo,2018,Yes
 geo,2019,Yes
 geo,2020,Yes
+geo,2021,Yes
+geo,2022,Yes
 gha,1970,No
 gha,1971,No
 gha,1972,No
@@ -3161,6 +3283,8 @@ gha,2017,Yes
 gha,2018,Yes
 gha,2019,Yes
 gha,2020,Yes
+gha,2021,Yes
+gha,2022,Yes
 gin,1970,No
 gin,1971,No
 gin,1972,No
@@ -3212,6 +3336,8 @@ gin,2017,Yes
 gin,2018,Yes
 gin,2019,Yes
 gin,2020,Yes
+gin,2021,Yes
+gin,2022,Yes
 gmb,1970,No
 gmb,1971,No
 gmb,1972,No
@@ -3263,6 +3389,8 @@ gmb,2017,No
 gmb,2018,No
 gmb,2019,No
 gmb,2020,No
+gmb,2021,No
+gmb,2022,No
 gnb,1970,No
 gnb,1971,No
 gnb,1972,No
@@ -3314,6 +3442,8 @@ gnb,2017,No
 gnb,2018,No
 gnb,2019,No
 gnb,2020,No
+gnb,2021,No
+gnb,2022,No
 gnq,1970,No
 gnq,1971,No
 gnq,1972,No
@@ -3365,6 +3495,8 @@ gnq,2017,No
 gnq,2018,No
 gnq,2019,No
 gnq,2020,No
+gnq,2021,No
+gnq,2022,No
 grc,1970,No
 grc,1971,No
 grc,1972,No
@@ -3416,6 +3548,8 @@ grc,2017,Yes
 grc,2018,Yes
 grc,2019,Yes
 grc,2020,Yes
+grc,2021,Yes
+grc,2022,Yes
 grd,1970,No
 grd,1971,No
 grd,1972,No
@@ -3467,6 +3601,8 @@ grd,2017,No
 grd,2018,No
 grd,2019,No
 grd,2020,No
+grd,2021,No
+grd,2022,No
 gtm,1970,No
 gtm,1971,No
 gtm,1972,No
@@ -3518,6 +3654,8 @@ gtm,2017,No
 gtm,2018,No
 gtm,2019,No
 gtm,2020,No
+gtm,2021,No
+gtm,2022,No
 guy,1970,No
 guy,1971,No
 guy,1972,No
@@ -3569,6 +3707,8 @@ guy,2017,Yes
 guy,2018,Yes
 guy,2019,Yes
 guy,2020,Yes
+guy,2021,Yes
+guy,2022,Yes
 hkg,1970,No
 hkg,1971,No
 hkg,1972,No
@@ -3620,6 +3760,8 @@ hkg,2017,Yes
 hkg,2018,Yes
 hkg,2019,Yes
 hkg,2020,Yes
+hkg,2021,Yes
+hkg,2022,Yes
 hnd,1970,No
 hnd,1971,No
 hnd,1972,No
@@ -3671,6 +3813,8 @@ hnd,2017,Yes
 hnd,2018,Yes
 hnd,2019,Yes
 hnd,2020,Yes
+hnd,2021,Yes
+hnd,2022,Yes
 hrv,1970,No
 hrv,1971,No
 hrv,1972,No
@@ -3722,6 +3866,8 @@ hrv,2017,Yes
 hrv,2018,Yes
 hrv,2019,Yes
 hrv,2020,Yes
+hrv,2021,Yes
+hrv,2022,Yes
 hti,1970,No
 hti,1971,No
 hti,1972,No
@@ -3773,6 +3919,8 @@ hti,2017,No
 hti,2018,No
 hti,2019,No
 hti,2020,No
+hti,2021,No
+hti,2022,No
 hun,1970,No
 hun,1971,No
 hun,1972,No
@@ -3809,7 +3957,7 @@ hun,2002,No
 hun,2003,No
 hun,2004,No
 hun,2005,No
-hun,2006,Yes
+hun,2006,No
 hun,2007,Yes
 hun,2008,Yes
 hun,2009,Yes
@@ -3824,6 +3972,8 @@ hun,2017,Yes
 hun,2018,Yes
 hun,2019,Yes
 hun,2020,Yes
+hun,2021,Yes
+hun,2022,Yes
 idn,1970,No
 idn,1971,No
 idn,1972,No
@@ -3875,6 +4025,8 @@ idn,2017,No
 idn,2018,No
 idn,2019,No
 idn,2020,No
+idn,2021,No
+idn,2022,Yes
 ind,1970,No
 ind,1971,No
 ind,1972,No
@@ -3903,21 +4055,21 @@ ind,1994,No
 ind,1995,No
 ind,1996,No
 ind,1997,No
-ind,1998,No
-ind,1999,No
-ind,2000,No
-ind,2001,No
-ind,2002,No
-ind,2003,No
-ind,2004,No
-ind,2005,No
-ind,2006,No
-ind,2007,No
-ind,2008,No
-ind,2009,No
-ind,2010,No
-ind,2011,No
-ind,2012,No
+ind,1998,Yes
+ind,1999,Yes
+ind,2000,Yes
+ind,2001,Yes
+ind,2002,Yes
+ind,2003,Yes
+ind,2004,Yes
+ind,2005,Yes
+ind,2006,Yes
+ind,2007,Yes
+ind,2008,Yes
+ind,2009,Yes
+ind,2010,Yes
+ind,2011,Yes
+ind,2012,Yes
 ind,2013,Yes
 ind,2014,Yes
 ind,2015,Yes
@@ -3926,6 +4078,8 @@ ind,2017,Yes
 ind,2018,Yes
 ind,2019,Yes
 ind,2020,Yes
+ind,2021,Yes
+ind,2022,Yes
 irl,1970,No
 irl,1971,No
 irl,1972,No
@@ -3977,6 +4131,8 @@ irl,2017,Yes
 irl,2018,Yes
 irl,2019,Yes
 irl,2020,Yes
+irl,2021,Yes
+irl,2022,Yes
 irn,1970,No
 irn,1971,No
 irn,1972,No
@@ -4028,6 +4184,8 @@ irn,2017,No
 irn,2018,No
 irn,2019,No
 irn,2020,No
+irn,2021,No
+irn,2022,No
 irq,1970,No
 irq,1971,No
 irq,1972,No
@@ -4079,6 +4237,8 @@ irq,2017,Yes
 irq,2018,Yes
 irq,2019,Yes
 irq,2020,Yes
+irq,2021,Yes
+irq,2022,Yes
 isl,1970,No
 isl,1971,No
 isl,1972,No
@@ -4130,6 +4290,8 @@ isl,2017,Yes
 isl,2018,Yes
 isl,2019,Yes
 isl,2020,Yes
+isl,2021,Yes
+isl,2022,Yes
 isr,1970,No
 isr,1971,No
 isr,1972,No
@@ -4181,6 +4343,8 @@ isr,2017,Yes
 isr,2018,Yes
 isr,2019,Yes
 isr,2020,Yes
+isr,2021,Yes
+isr,2022,Yes
 ita,1970,No
 ita,1971,No
 ita,1972,No
@@ -4232,6 +4396,8 @@ ita,2017,Yes
 ita,2018,Yes
 ita,2019,Yes
 ita,2020,Yes
+ita,2021,Yes
+ita,2022,Yes
 jam,1970,No
 jam,1971,No
 jam,1972,No
@@ -4283,6 +4449,8 @@ jam,2017,No
 jam,2018,No
 jam,2019,No
 jam,2020,No
+jam,2021,No
+jam,2022,Yes
 jor,1970,No
 jor,1971,No
 jor,1972,No
@@ -4334,6 +4502,8 @@ jor,2017,No
 jor,2018,No
 jor,2019,No
 jor,2020,No
+jor,2021,No
+jor,2022,No
 jpn,1970,No
 jpn,1971,No
 jpn,1972,No
@@ -4385,6 +4555,8 @@ jpn,2017,No
 jpn,2018,No
 jpn,2019,No
 jpn,2020,No
+jpn,2021,No
+jpn,2022,No
 kaz,1970,No
 kaz,1971,No
 kaz,1972,No
@@ -4436,6 +4608,8 @@ kaz,2017,No
 kaz,2018,No
 kaz,2019,No
 kaz,2020,No
+kaz,2021,No
+kaz,2022,No
 ken,1970,No
 ken,1971,No
 ken,1972,No
@@ -4487,6 +4661,8 @@ ken,2017,Yes
 ken,2018,Yes
 ken,2019,Yes
 ken,2020,Yes
+ken,2021,Yes
+ken,2022,Yes
 kgz,1970,No
 kgz,1971,No
 kgz,1972,No
@@ -4538,6 +4714,8 @@ kgz,2017,Yes
 kgz,2018,Yes
 kgz,2019,Yes
 kgz,2020,Yes
+kgz,2021,Yes
+kgz,2022,Yes
 khm,1970,No
 khm,1971,No
 khm,1972,No
@@ -4589,6 +4767,8 @@ khm,2017,Yes
 khm,2018,Yes
 khm,2019,Yes
 khm,2020,Yes
+khm,2021,Yes
+khm,2022,Yes
 kir,1970,No
 kir,1971,No
 kir,1972,No
@@ -4640,6 +4820,8 @@ kir,2017,Yes
 kir,2018,Yes
 kir,2019,Yes
 kir,2020,Yes
+kir,2021,Yes
+kir,2022,Yes
 kna,1970,No
 kna,1971,No
 kna,1972,No
@@ -4691,6 +4873,8 @@ kna,2017,No
 kna,2018,No
 kna,2019,No
 kna,2020,No
+kna,2021,No
+kna,2022,No
 kor,1970,No
 kor,1971,No
 kor,1972,No
@@ -4742,6 +4926,8 @@ kor,2017,Yes
 kor,2018,Yes
 kor,2019,Yes
 kor,2020,Yes
+kor,2021,Yes
+kor,2022,Yes
 kwt,1970,No
 kwt,1971,No
 kwt,1972,No
@@ -4793,6 +4979,8 @@ kwt,2017,No
 kwt,2018,No
 kwt,2019,No
 kwt,2020,No
+kwt,2021,Yes
+kwt,2022,Yes
 lao,1970,No
 lao,1971,No
 lao,1972,No
@@ -4844,6 +5032,8 @@ lao,2017,Yes
 lao,2018,Yes
 lao,2019,Yes
 lao,2020,Yes
+lao,2021,Yes
+lao,2022,Yes
 lbn,1970,No
 lbn,1971,No
 lbn,1972,No
@@ -4895,6 +5085,8 @@ lbn,2017,No
 lbn,2018,No
 lbn,2019,No
 lbn,2020,No
+lbn,2021,Yes
+lbn,2022,Yes
 lbr,1970,No
 lbr,1971,No
 lbr,1972,No
@@ -4946,6 +5138,8 @@ lbr,2017,Yes
 lbr,2018,Yes
 lbr,2019,Yes
 lbr,2020,Yes
+lbr,2021,Yes
+lbr,2022,Yes
 lby,1970,No
 lby,1971,No
 lby,1972,No
@@ -4997,6 +5191,8 @@ lby,2017,No
 lby,2018,No
 lby,2019,No
 lby,2020,No
+lby,2021,No
+lby,2022,No
 lca,1970,No
 lca,1971,No
 lca,1972,No
@@ -5048,6 +5244,8 @@ lca,2017,Yes
 lca,2018,Yes
 lca,2019,Yes
 lca,2020,Yes
+lca,2021,Yes
+lca,2022,Yes
 lka,1970,No
 lka,1971,No
 lka,1972,No
@@ -5099,6 +5297,8 @@ lka,2017,Yes
 lka,2018,Yes
 lka,2019,Yes
 lka,2020,Yes
+lka,2021,Yes
+lka,2022,Yes
 lso,1970,No
 lso,1971,No
 lso,1972,No
@@ -5150,6 +5350,8 @@ lso,2017,Yes
 lso,2018,Yes
 lso,2019,Yes
 lso,2020,Yes
+lso,2021,Yes
+lso,2022,Yes
 ltu,1970,No
 ltu,1971,No
 ltu,1972,No
@@ -5201,6 +5403,8 @@ ltu,2017,Yes
 ltu,2018,Yes
 ltu,2019,Yes
 ltu,2020,Yes
+ltu,2021,Yes
+ltu,2022,Yes
 lux,1970,No
 lux,1971,No
 lux,1972,No
@@ -5252,6 +5456,8 @@ lux,2017,Yes
 lux,2018,Yes
 lux,2019,Yes
 lux,2020,Yes
+lux,2021,Yes
+lux,2022,Yes
 lva,1970,No
 lva,1971,No
 lva,1972,No
@@ -5303,6 +5509,8 @@ lva,2017,Yes
 lva,2018,Yes
 lva,2019,Yes
 lva,2020,Yes
+lva,2021,Yes
+lva,2022,Yes
 mar,1970,No
 mar,1971,No
 mar,1972,No
@@ -5354,6 +5562,8 @@ mar,2017,Yes
 mar,2018,Yes
 mar,2019,Yes
 mar,2020,Yes
+mar,2021,Yes
+mar,2022,Yes
 mda,1970,No
 mda,1971,No
 mda,1972,No
@@ -5405,6 +5615,8 @@ mda,2017,Yes
 mda,2018,Yes
 mda,2019,Yes
 mda,2020,Yes
+mda,2021,Yes
+mda,2022,Yes
 mdg,1970,No
 mdg,1971,No
 mdg,1972,No
@@ -5456,6 +5668,8 @@ mdg,2017,Yes
 mdg,2018,Yes
 mdg,2019,Yes
 mdg,2020,Yes
+mdg,2021,Yes
+mdg,2022,Yes
 mdv,1970,No
 mdv,1971,No
 mdv,1972,No
@@ -5500,13 +5714,15 @@ mdv,2010,No
 mdv,2011,No
 mdv,2012,No
 mdv,2013,No
-mdv,2014,No
+mdv,2014,Yes
 mdv,2015,Yes
 mdv,2016,Yes
 mdv,2017,Yes
 mdv,2018,Yes
 mdv,2019,Yes
 mdv,2020,Yes
+mdv,2021,Yes
+mdv,2022,Yes
 mex,1970,No
 mex,1971,No
 mex,1972,No
@@ -5558,6 +5774,8 @@ mex,2017,Yes
 mex,2018,Yes
 mex,2019,Yes
 mex,2020,Yes
+mex,2021,Yes
+mex,2022,Yes
 mhl,1970,No
 mhl,1971,No
 mhl,1972,No
@@ -5609,6 +5827,8 @@ mhl,2017,No
 mhl,2018,No
 mhl,2019,No
 mhl,2020,No
+mhl,2021,No
+mhl,2022,No
 mkd,1970,No
 mkd,1971,No
 mkd,1972,No
@@ -5660,6 +5880,8 @@ mkd,2017,Yes
 mkd,2018,Yes
 mkd,2019,Yes
 mkd,2020,Yes
+mkd,2021,Yes
+mkd,2022,Yes
 mli,1970,No
 mli,1971,No
 mli,1972,No
@@ -5711,6 +5933,8 @@ mli,2017,No
 mli,2018,No
 mli,2019,No
 mli,2020,No
+mli,2021,No
+mli,2022,No
 mlt,1970,No
 mlt,1971,No
 mlt,1972,No
@@ -5762,6 +5986,8 @@ mlt,2017,Yes
 mlt,2018,Yes
 mlt,2019,Yes
 mlt,2020,Yes
+mlt,2021,Yes
+mlt,2022,Yes
 mmr,1970,No
 mmr,1971,No
 mmr,1972,No
@@ -5813,6 +6039,8 @@ mmr,2017,No
 mmr,2018,No
 mmr,2019,No
 mmr,2020,No
+mmr,2021,No
+mmr,2022,No
 mne,1970,No
 mne,1971,No
 mne,1972,No
@@ -5864,6 +6092,8 @@ mne,2017,Yes
 mne,2018,Yes
 mne,2019,Yes
 mne,2020,Yes
+mne,2021,Yes
+mne,2022,Yes
 mng,1970,No
 mng,1971,No
 mng,1972,No
@@ -5915,6 +6145,8 @@ mng,2017,Yes
 mng,2018,Yes
 mng,2019,Yes
 mng,2020,Yes
+mng,2021,Yes
+mng,2022,Yes
 moz,1970,No
 moz,1971,No
 moz,1972,No
@@ -5966,6 +6198,8 @@ moz,2017,Yes
 moz,2018,Yes
 moz,2019,Yes
 moz,2020,Yes
+moz,2021,Yes
+moz,2022,Yes
 mrt,1970,No
 mrt,1971,No
 mrt,1972,No
@@ -6017,6 +6251,8 @@ mrt,2017,No
 mrt,2018,No
 mrt,2019,No
 mrt,2020,No
+mrt,2021,No
+mrt,2022,No
 mus,1970,No
 mus,1971,No
 mus,1972,No
@@ -6068,6 +6304,8 @@ mus,2017,Yes
 mus,2018,Yes
 mus,2019,Yes
 mus,2020,Yes
+mus,2021,Yes
+mus,2022,Yes
 mwi,1970,No
 mwi,1971,No
 mwi,1972,No
@@ -6119,6 +6357,8 @@ mwi,2017,Yes
 mwi,2018,Yes
 mwi,2019,Yes
 mwi,2020,Yes
+mwi,2021,Yes
+mwi,2022,Yes
 mys,1970,No
 mys,1971,No
 mys,1972,No
@@ -6170,6 +6410,8 @@ mys,2017,Yes
 mys,2018,Yes
 mys,2019,Yes
 mys,2020,Yes
+mys,2021,Yes
+mys,2022,Yes
 nam,1970,No
 nam,1971,No
 nam,1972,No
@@ -6221,6 +6463,8 @@ nam,2017,Yes
 nam,2018,Yes
 nam,2019,Yes
 nam,2020,Yes
+nam,2021,Yes
+nam,2022,Yes
 ner,1970,No
 ner,1971,No
 ner,1972,No
@@ -6272,6 +6516,8 @@ ner,2017,Yes
 ner,2018,Yes
 ner,2019,Yes
 ner,2020,Yes
+ner,2021,Yes
+ner,2022,Yes
 nga,1970,No
 nga,1971,No
 nga,1972,No
@@ -6323,6 +6569,8 @@ nga,2017,Yes
 nga,2018,Yes
 nga,2019,Yes
 nga,2020,Yes
+nga,2021,Yes
+nga,2022,Yes
 nic,1970,No
 nic,1971,No
 nic,1972,No
@@ -6374,6 +6622,8 @@ nic,2017,Yes
 nic,2018,Yes
 nic,2019,Yes
 nic,2020,Yes
+nic,2021,Yes
+nic,2022,Yes
 nld,1970,No
 nld,1971,No
 nld,1972,No
@@ -6425,6 +6675,8 @@ nld,2017,Yes
 nld,2018,Yes
 nld,2019,Yes
 nld,2020,Yes
+nld,2021,Yes
+nld,2022,Yes
 nor,1970,No
 nor,1971,No
 nor,1972,No
@@ -6476,6 +6728,8 @@ nor,2017,Yes
 nor,2018,Yes
 nor,2019,Yes
 nor,2020,Yes
+nor,2021,Yes
+nor,2022,Yes
 npl,1970,No
 npl,1971,No
 npl,1972,No
@@ -6527,6 +6781,8 @@ npl,2017,Yes
 npl,2018,Yes
 npl,2019,Yes
 npl,2020,Yes
+npl,2021,Yes
+npl,2022,Yes
 nzl,1970,No
 nzl,1971,No
 nzl,1972,No
@@ -6578,6 +6834,8 @@ nzl,2017,Yes
 nzl,2018,Yes
 nzl,2019,Yes
 nzl,2020,Yes
+nzl,2021,Yes
+nzl,2022,Yes
 omn,1970,No
 omn,1971,No
 omn,1972,No
@@ -6629,6 +6887,8 @@ omn,2017,Yes
 omn,2018,Yes
 omn,2019,Yes
 omn,2020,Yes
+omn,2021,Yes
+omn,2022,Yes
 pak,1970,No
 pak,1971,No
 pak,1972,No
@@ -6680,6 +6940,8 @@ pak,2017,Yes
 pak,2018,Yes
 pak,2019,Yes
 pak,2020,Yes
+pak,2021,Yes
+pak,2022,Yes
 pan,1970,No
 pan,1971,No
 pan,1972,No
@@ -6731,6 +6993,8 @@ pan,2017,Yes
 pan,2018,Yes
 pan,2019,Yes
 pan,2020,Yes
+pan,2021,Yes
+pan,2022,Yes
 per,1970,No
 per,1971,No
 per,1972,No
@@ -6782,6 +7046,8 @@ per,2017,Yes
 per,2018,Yes
 per,2019,Yes
 per,2020,Yes
+per,2021,Yes
+per,2022,Yes
 phl,1970,No
 phl,1971,No
 phl,1972,No
@@ -6833,6 +7099,8 @@ phl,2017,Yes
 phl,2018,Yes
 phl,2019,Yes
 phl,2020,Yes
+phl,2021,Yes
+phl,2022,Yes
 plw,1970,No
 plw,1971,No
 plw,1972,No
@@ -6884,6 +7152,8 @@ plw,2017,No
 plw,2018,No
 plw,2019,No
 plw,2020,No
+plw,2021,No
+plw,2022,No
 png,1970,No
 png,1971,No
 png,1972,No
@@ -6935,6 +7205,8 @@ png,2017,No
 png,2018,No
 png,2019,No
 png,2020,No
+png,2021,No
+png,2022,No
 pol,1970,No
 pol,1971,No
 pol,1972,No
@@ -6986,6 +7258,8 @@ pol,2017,Yes
 pol,2018,Yes
 pol,2019,Yes
 pol,2020,Yes
+pol,2021,Yes
+pol,2022,Yes
 prt,1970,No
 prt,1971,No
 prt,1972,No
@@ -7037,6 +7311,8 @@ prt,2017,Yes
 prt,2018,Yes
 prt,2019,Yes
 prt,2020,Yes
+prt,2021,Yes
+prt,2022,Yes
 pry,1970,No
 pry,1971,No
 pry,1972,No
@@ -7088,6 +7364,8 @@ pry,2017,Yes
 pry,2018,Yes
 pry,2019,Yes
 pry,2020,Yes
+pry,2021,Yes
+pry,2022,Yes
 pse,1970,No
 pse,1971,No
 pse,1972,No
@@ -7139,6 +7417,8 @@ pse,2017,No
 pse,2018,No
 pse,2019,No
 pse,2020,No
+pse,2021,No
+pse,2022,No
 qat,1970,No
 qat,1971,No
 qat,1972,No
@@ -7190,6 +7470,8 @@ qat,2017,No
 qat,2018,No
 qat,2019,No
 qat,2020,No
+qat,2021,No
+qat,2022,No
 rou,1970,No
 rou,1971,No
 rou,1972,No
@@ -7241,6 +7523,8 @@ rou,2017,Yes
 rou,2018,Yes
 rou,2019,Yes
 rou,2020,Yes
+rou,2021,Yes
+rou,2022,Yes
 rus,1970,No
 rus,1971,No
 rus,1972,No
@@ -7292,6 +7576,8 @@ rus,2017,No
 rus,2018,No
 rus,2019,No
 rus,2020,No
+rus,2021,No
+rus,2022,No
 rwa,1970,No
 rwa,1971,No
 rwa,1972,No
@@ -7343,6 +7629,8 @@ rwa,2017,Yes
 rwa,2018,Yes
 rwa,2019,Yes
 rwa,2020,Yes
+rwa,2021,Yes
+rwa,2022,Yes
 sau,1970,No
 sau,1971,No
 sau,1972,No
@@ -7394,6 +7682,8 @@ sau,2017,No
 sau,2018,Yes
 sau,2019,Yes
 sau,2020,Yes
+sau,2021,Yes
+sau,2022,Yes
 sdn,1970,No
 sdn,1971,No
 sdn,1972,No
@@ -7445,6 +7735,8 @@ sdn,2017,No
 sdn,2018,No
 sdn,2019,No
 sdn,2020,No
+sdn,2021,No
+sdn,2022,No
 sen,1970,No
 sen,1971,No
 sen,1972,No
@@ -7496,6 +7788,8 @@ sen,2017,Yes
 sen,2018,Yes
 sen,2019,Yes
 sen,2020,Yes
+sen,2021,Yes
+sen,2022,Yes
 sgp,1970,No
 sgp,1971,No
 sgp,1972,No
@@ -7540,13 +7834,15 @@ sgp,2010,No
 sgp,2011,No
 sgp,2012,No
 sgp,2013,No
-sgp,2014,No
+sgp,2014,Yes
 sgp,2015,Yes
 sgp,2016,Yes
 sgp,2017,Yes
 sgp,2018,Yes
 sgp,2019,Yes
 sgp,2020,Yes
+sgp,2021,Yes
+sgp,2022,Yes
 slb,1970,No
 slb,1971,No
 slb,1972,No
@@ -7598,6 +7894,8 @@ slb,2017,No
 slb,2018,No
 slb,2019,No
 slb,2020,No
+slb,2021,No
+slb,2022,No
 sle,1970,No
 sle,1971,No
 sle,1972,No
@@ -7649,6 +7947,8 @@ sle,2017,No
 sle,2018,No
 sle,2019,No
 sle,2020,Yes
+sle,2021,Yes
+sle,2022,Yes
 slv,1970,No
 slv,1971,No
 slv,1972,No
@@ -7676,7 +7976,7 @@ slv,1993,No
 slv,1994,No
 slv,1995,No
 slv,1996,No
-slv,1997,No
+slv,1997,Yes
 slv,1998,Yes
 slv,1999,Yes
 slv,2000,Yes
@@ -7700,6 +8000,8 @@ slv,2017,Yes
 slv,2018,Yes
 slv,2019,Yes
 slv,2020,Yes
+slv,2021,Yes
+slv,2022,Yes
 smr,1970,No
 smr,1971,No
 smr,1972,No
@@ -7751,6 +8053,8 @@ smr,2017,No
 smr,2018,No
 smr,2019,No
 smr,2020,No
+smr,2021,No
+smr,2022,No
 som,1970,No
 som,1971,No
 som,1972,No
@@ -7802,6 +8106,8 @@ som,2017,No
 som,2018,No
 som,2019,No
 som,2020,No
+som,2021,No
+som,2022,No
 srb,1970,No
 srb,1971,No
 srb,1972,No
@@ -7853,6 +8159,8 @@ srb,2017,Yes
 srb,2018,Yes
 srb,2019,Yes
 srb,2020,Yes
+srb,2021,Yes
+srb,2022,Yes
 ssd,1970,No
 ssd,1971,No
 ssd,1972,No
@@ -7904,6 +8212,8 @@ ssd,2017,Yes
 ssd,2018,Yes
 ssd,2019,Yes
 ssd,2020,Yes
+ssd,2021,Yes
+ssd,2022,Yes
 stp,1970,No
 stp,1971,No
 stp,1972,No
@@ -7955,6 +8265,8 @@ stp,2017,Yes
 stp,2018,Yes
 stp,2019,Yes
 stp,2020,Yes
+stp,2021,Yes
+stp,2022,Yes
 sur,1970,No
 sur,1971,No
 sur,1972,No
@@ -8006,6 +8318,8 @@ sur,2017,No
 sur,2018,No
 sur,2019,No
 sur,2020,No
+sur,2021,No
+sur,2022,No
 svk,1970,No
 svk,1971,No
 svk,1972,No
@@ -8057,6 +8371,8 @@ svk,2017,Yes
 svk,2018,Yes
 svk,2019,Yes
 svk,2020,Yes
+svk,2021,Yes
+svk,2022,Yes
 svn,1970,No
 svn,1971,No
 svn,1972,No
@@ -8108,6 +8424,8 @@ svn,2017,Yes
 svn,2018,Yes
 svn,2019,Yes
 svn,2020,Yes
+svn,2021,Yes
+svn,2022,Yes
 swe,1970,No
 swe,1971,No
 swe,1972,No
@@ -8159,6 +8477,8 @@ swe,2017,Yes
 swe,2018,Yes
 swe,2019,Yes
 swe,2020,Yes
+swe,2021,Yes
+swe,2022,Yes
 swz,1970,No
 swz,1971,No
 swz,1972,No
@@ -8210,6 +8530,8 @@ swz,2017,No
 swz,2018,No
 swz,2019,No
 swz,2020,No
+swz,2021,No
+swz,2022,No
 syc,1970,No
 syc,1971,No
 syc,1972,No
@@ -8261,6 +8583,8 @@ syc,2017,No
 syc,2018,No
 syc,2019,No
 syc,2020,No
+syc,2021,No
+syc,2022,No
 syr,1970,No
 syr,1971,No
 syr,1972,No
@@ -8312,6 +8636,8 @@ syr,2017,No
 syr,2018,No
 syr,2019,No
 syr,2020,No
+syr,2021,No
+syr,2022,No
 tcd,1970,No
 tcd,1971,No
 tcd,1972,No
@@ -8363,6 +8689,8 @@ tcd,2017,Yes
 tcd,2018,Yes
 tcd,2019,Yes
 tcd,2020,Yes
+tcd,2021,Yes
+tcd,2022,Yes
 tgo,1970,No
 tgo,1971,No
 tgo,1972,No
@@ -8414,6 +8742,8 @@ tgo,2017,Yes
 tgo,2018,Yes
 tgo,2019,Yes
 tgo,2020,Yes
+tgo,2021,Yes
+tgo,2022,Yes
 tha,1970,No
 tha,1971,No
 tha,1972,No
@@ -8465,6 +8795,8 @@ tha,2017,Yes
 tha,2018,Yes
 tha,2019,Yes
 tha,2020,Yes
+tha,2021,Yes
+tha,2022,Yes
 tjk,1970,No
 tjk,1971,No
 tjk,1972,No
@@ -8516,6 +8848,8 @@ tjk,2017,No
 tjk,2018,No
 tjk,2019,No
 tjk,2020,No
+tjk,2021,No
+tjk,2022,No
 tls,1970,No
 tls,1971,No
 tls,1972,No
@@ -8567,6 +8901,8 @@ tls,2017,Yes
 tls,2018,Yes
 tls,2019,Yes
 tls,2020,Yes
+tls,2021,Yes
+tls,2022,Yes
 ton,1970,No
 ton,1971,No
 ton,1972,No
@@ -8618,6 +8954,8 @@ ton,2017,No
 ton,2018,No
 ton,2019,No
 ton,2020,No
+ton,2021,No
+ton,2022,No
 tto,1970,No
 tto,1971,No
 tto,1972,No
@@ -8669,6 +9007,8 @@ tto,2017,No
 tto,2018,No
 tto,2019,No
 tto,2020,No
+tto,2021,No
+tto,2022,No
 tun,1970,No
 tun,1971,No
 tun,1972,No
@@ -8720,6 +9060,8 @@ tun,2017,No
 tun,2018,Yes
 tun,2019,Yes
 tun,2020,Yes
+tun,2021,Yes
+tun,2022,Yes
 tur,1970,No
 tur,1971,No
 tur,1972,No
@@ -8771,6 +9113,8 @@ tur,2017,Yes
 tur,2018,Yes
 tur,2019,Yes
 tur,2020,Yes
+tur,2021,Yes
+tur,2022,Yes
 twn,1970,No
 twn,1971,No
 twn,1972,No
@@ -8822,6 +9166,8 @@ twn,2017,Yes
 twn,2018,Yes
 twn,2019,Yes
 twn,2020,Yes
+twn,2021,Yes
+twn,2022,Yes
 tza,1970,No
 tza,1971,No
 tza,1972,No
@@ -8873,6 +9219,8 @@ tza,2017,Yes
 tza,2018,Yes
 tza,2019,Yes
 tza,2020,Yes
+tza,2021,Yes
+tza,2022,Yes
 uga,1970,No
 uga,1971,No
 uga,1972,No
@@ -8924,6 +9272,8 @@ uga,2017,Yes
 uga,2018,Yes
 uga,2019,Yes
 uga,2020,Yes
+uga,2021,Yes
+uga,2022,Yes
 ukr,1970,No
 ukr,1971,No
 ukr,1972,No
@@ -8975,6 +9325,8 @@ ukr,2017,Yes
 ukr,2018,Yes
 ukr,2019,Yes
 ukr,2020,Yes
+ukr,2021,Yes
+ukr,2022,Yes
 ury,1970,No
 ury,1971,No
 ury,1972,No
@@ -9026,6 +9378,8 @@ ury,2017,Yes
 ury,2018,Yes
 ury,2019,Yes
 ury,2020,Yes
+ury,2021,Yes
+ury,2022,Yes
 usa,1970,No
 usa,1971,No
 usa,1972,No
@@ -9077,6 +9431,8 @@ usa,2017,Yes
 usa,2018,Yes
 usa,2019,Yes
 usa,2020,Yes
+usa,2021,Yes
+usa,2022,Yes
 uzb,1970,No
 uzb,1971,No
 uzb,1972,No
@@ -9128,6 +9484,8 @@ uzb,2017,No
 uzb,2018,No
 uzb,2019,No
 uzb,2020,No
+uzb,2021,No
+uzb,2022,No
 vct,1970,No
 vct,1971,No
 vct,1972,No
@@ -9179,6 +9537,8 @@ vct,2017,No
 vct,2018,No
 vct,2019,No
 vct,2020,No
+vct,2021,No
+vct,2022,No
 ven,1970,No
 ven,1971,No
 ven,1972,No
@@ -9230,6 +9590,8 @@ ven,2017,Yes
 ven,2018,Yes
 ven,2019,Yes
 ven,2020,Yes
+ven,2021,Yes
+ven,2022,Yes
 vnm,1970,No
 vnm,1971,No
 vnm,1972,No
@@ -9281,6 +9643,8 @@ vnm,2017,Yes
 vnm,2018,Yes
 vnm,2019,Yes
 vnm,2020,Yes
+vnm,2021,Yes
+vnm,2022,Yes
 vut,1970,No
 vut,1971,No
 vut,1972,No
@@ -9332,6 +9696,8 @@ vut,2017,No
 vut,2018,No
 vut,2019,No
 vut,2020,No
+vut,2021,No
+vut,2022,No
 wsm,1970,No
 wsm,1971,No
 wsm,1972,No
@@ -9383,6 +9749,8 @@ wsm,2017,Yes
 wsm,2018,Yes
 wsm,2019,Yes
 wsm,2020,Yes
+wsm,2021,Yes
+wsm,2022,Yes
 yem,1970,No
 yem,1971,No
 yem,1972,No
@@ -9434,6 +9802,8 @@ yem,2017,No
 yem,2018,No
 yem,2019,No
 yem,2020,No
+yem,2021,No
+yem,2022,No
 zaf,1970,No
 zaf,1971,No
 zaf,1972,No
@@ -9485,6 +9855,8 @@ zaf,2017,Yes
 zaf,2018,Yes
 zaf,2019,Yes
 zaf,2020,Yes
+zaf,2021,Yes
+zaf,2022,Yes
 zmb,1970,No
 zmb,1971,No
 zmb,1972,No
@@ -9536,6 +9908,8 @@ zmb,2017,Yes
 zmb,2018,Yes
 zmb,2019,Yes
 zmb,2020,Yes
+zmb,2021,Yes
+zmb,2022,Yes
 zwe,1970,No
 zwe,1971,No
 zwe,1972,No
@@ -9569,9 +9943,9 @@ zwe,1999,No
 zwe,2000,No
 zwe,2001,No
 zwe,2002,No
-zwe,2003,Yes
-zwe,2004,Yes
-zwe,2005,Yes
+zwe,2003,No
+zwe,2004,No
+zwe,2005,No
 zwe,2006,Yes
 zwe,2007,Yes
 zwe,2008,Yes
@@ -9587,3 +9961,5 @@ zwe,2017,Yes
 zwe,2018,Yes
 zwe,2019,Yes
 zwe,2020,Yes
+zwe,2021,Yes
+zwe,2022,Yes
