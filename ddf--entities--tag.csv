@@ -30,3 +30,7 @@ disasters,Disasters,environment
 migration,Migration,war_peace
 emissions,Emissions,environment
 incomes_growth,Incomes & growth,economy
+both_sexes_by_age,Both sexes by age (%),population
+female_by_age,Female by age (%),population
+male_by_age,Male by age (%),population
+both_sexes_by_age_total,Both sexes by age (total),population

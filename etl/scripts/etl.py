@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import os
 import os.path as osp
 import pandas as pd
 import numpy as np
@@ -171,8 +172,15 @@ def process_datapoints(row, env):
             by_fn.append(v)
     by_fn = [translate_dict.get(x, x) for x in by_fn]
     df.index.names = by_fn
+    if 'country' in by_fn or 'geo' in by_fn:
+        outdir = "countries_etc_datapoints"
+    else:
+        outdir = "global_regions_datapoints"
     df.dropna().sort_index().to_csv(
-        '../../ddf--datapoints--{}--by--{}.csv'.format(row['concept_id'].strip(), '--'.join(by_fn)),
+        osp.join('../../',
+                 outdir,
+                 'ddf--datapoints--{}--by--{}.csv'.format(
+                     row['concept_id'].strip(), '--'.join(by_fn))),
         encoding='utf8')
 
 
@@ -186,13 +194,21 @@ def main():
     print('creating ddf datasets...')
     # entities
     entities_columns = set()  # mark down the columns, use to create concept table later
-    geo_concepts = concepts_ontology[concepts_ontology.domain == 'geo'].concept.values
+    geo_concepts = concepts_ontology[concepts_ontology.domain == 'geo'].concept.values.tolist()
+
+    geo_concepts.append('')  # there are some geos not belonging all groups
+
+    from_dir = '../source/ddf--open_numbers/'
+    to_dir = '../../'
     for e in geo_concepts:
-        file_path = f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv'
+        if e == '':
+            basename = 'ddf--entities--geo.csv'
+        else:
+            basename = f'ddf--entities--geo--{e}.csv'
+        file_path = os.path.join(from_dir, basename)
         if osp.exists(file_path):
-            edf = pd.read_csv(f'../source/ddf--open_numbers/ddf--entities--geo--{e}.csv',
-                              na_filter=False, dtype=str)
-            edf.to_csv(f'../../ddf--entities--geo--{e}.csv', index=False, encoding='utf8')
+            edf = pd.read_csv(file_path, na_filter=False, dtype=str)
+            edf.to_csv(os.path.join(to_dir, basename), index=False, encoding='utf8')
             for c in edf.columns:
                 entities_columns.add(c)
         else:
@@ -208,6 +224,9 @@ def main():
     cdf = serve_concepts(concepts, entities_columns)
 
     # datapoints
+    # create datapoints folders if not exist
+    os.makedirs(osp.join("../../", "countries_etc_datapoints"), exist_ok=True)
+    os.makedirs(osp.join("../../", "global_regions_datapoints"), exist_ok=True)
     # map concept_name -> concept_id
     concept_map = datapoints.set_index('concept_name')['concept_id'].to_dict()
     # dictionary for translating plural form to singal form
