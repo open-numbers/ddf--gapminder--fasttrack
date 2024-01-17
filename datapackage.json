@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2024-01-16T14:19:53.882674+00:00",
+    "created": "2024-01-17T14:48:06.858053+00:00",
     "version": "2.0.0",
     "resources": [
         {
@@ -11214,8 +11214,7 @@
                 "resources": [
                     "ddf--datapoints--pop--by--country--time",
                     "ddf--datapoints--pop--by--global--time",
-                    "ddf--datapoints--pop--by--world_4region--time",
-                    "ddf--datapoints--pop_income_group--by--income_groups--time"
+                    "ddf--datapoints--pop--by--world_4region--time"
                 ]
             },
             {
@@ -11223,9 +11222,29 @@
                     "global",
                     "time"
                 ],
-                "value": "pop_income_group",
+                "value": "pop",
                 "resources": [
                     "ddf--datapoints--pop--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "pop",
+                "resources": [
+                    "ddf--datapoints--pop--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "pop_income_group",
+                "resources": [
+                    "ddf--datapoints--pop_income_group--by--income_groups--time"
                 ]
             },
             {
@@ -11246,16 +11265,6 @@
                 "value": "pop_income_group",
                 "resources": [
                     "ddf--datapoints--pop_income_group--by--income_groups--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_4region"
-                ],
-                "value": "pop_income_group",
-                "resources": [
-                    "ddf--datapoints--pop--by--world_4region--time"
                 ]
             },
             {
