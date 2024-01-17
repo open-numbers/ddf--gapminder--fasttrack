@@ -228,6 +228,13 @@ def main():
     os.makedirs(osp.join("../../", "countries_etc_datapoints"), exist_ok=True)
     os.makedirs(osp.join("../../", "global_regions_datapoints"), exist_ok=True)
     # map concept_name -> concept_id
+    # need to double check if there are duplicated entires
+    concept_map_df = datapoints[["concept_id", "concept_name"]].drop_duplicates()
+    dups = concept_map_df.loc[concept_map_df["concept_name"].duplicated()]
+    if not dups.empty:
+        print("duplicated in concept mapping:")
+        print(dups)
+        raise ValueError("Please make sure one concept_name only maps to one concept_id")
     concept_map = datapoints.set_index('concept_name')['concept_id'].to_dict()
     # dictionary for translating plural form to singal form
     translate_dict = {'countries': 'country', 'world_4regions': 'world_4region', 'regions': 'world_4region'}
