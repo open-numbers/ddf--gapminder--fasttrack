@@ -2584,7 +2584,7 @@
                         "name": "time"
                     },
                     {
-                        "name": "pop_income_group"
+                        "name": "pop"
                     }
                 ],
                 "primaryKey": [
@@ -5677,7 +5677,7 @@
                         "name": "time"
                     },
                     {
-                        "name": "pop_income_group"
+                        "name": "pop"
                     }
                 ],
                 "primaryKey": [
@@ -5698,7 +5698,7 @@
                         "name": "time"
                     },
                     {
-                        "name": "pop_income_group"
+                        "name": "pop"
                     }
                 ],
                 "primaryKey": [
@@ -11200,7 +11200,7 @@
                     "country",
                     "time"
                 ],
-                "value": "pop_income_group",
+                "value": "pop",
                 "resources": [
                     "ddf--datapoints--pop--by--country--time"
                 ]
@@ -11210,7 +11210,7 @@
                     "geo",
                     "time"
                 ],
-                "value": "pop_income_group",
+                "value": "pop",
                 "resources": [
                     "ddf--datapoints--pop--by--country--time",
                     "ddf--datapoints--pop--by--global--time",
