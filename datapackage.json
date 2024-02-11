@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2024-02-11T15:41:32.351525+00:00",
+    "created": "2024-02-11T21:56:42.286194+00:00",
     "version": "2.0.0",
     "resources": [
         {
@@ -527,6 +527,27 @@
                     },
                     {
                         "name": "child_mortality_0_5_year_olds_dying_per_1000_born"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--children_per_woman_total_fertility--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--children_per_woman_total_fertility--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "children_per_woman_total_fertility"
                     }
                 ],
                 "primaryKey": [
@@ -4604,6 +4625,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--children_per_woman_total_fertility--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--children_per_woman_total_fertility--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "children_per_woman_total_fertility"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--emigrant_n--by--global--time",
             "path": "global_regions_datapoints/ddf--datapoints--emigrant_n--by--global--time.csv",
             "schema": {
@@ -8567,6 +8609,37 @@
                 "value": "child_mortality_0_5_year_olds_dying_per_1000_born",
                 "resources": [
                     "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "children_per_woman_total_fertility",
+                "resources": [
+                    "ddf--datapoints--children_per_woman_total_fertility--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "children_per_woman_total_fertility",
+                "resources": [
+                    "ddf--datapoints--children_per_woman_total_fertility--by--country--time",
+                    "ddf--datapoints--children_per_woman_total_fertility--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "children_per_woman_total_fertility",
+                "resources": [
+                    "ddf--datapoints--children_per_woman_total_fertility--by--global--time"
                 ]
             },
             {
