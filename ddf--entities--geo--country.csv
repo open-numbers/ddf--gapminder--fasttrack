@@ -73,7 +73,7 @@ egy,g77,lower_middle_income,TRUE,EG,EG,EGY,818,,coastline,27.0,30.0,muslim,Egypt
 eri,g77,low_income,TRUE,ER,ER,ERI,232,,coastline,15.0,39.0,muslim,Eritrea,TRUE,africa,sub_saharan_africa,ssa,low_income,un_sub_saharan_africa,un_least_developed,unhcr_east_horn_africa_great_lates,rest
 eri_a_eth,others,,TRUE,,,,,,coastline,,,,Eritrea and Ethiopia,FALSE,africa,sub_saharan_africa,,,,,,
 esh,others,,TRUE,EH,EH,ESH,732,,coastline,24.49215,-12.65625,muslim,Western Sahara,FALSE,africa,middle_east_north_africa,,,un_northern_africa_and_western_asia,un_not_least_developed,unhcr_middle_east_north_africa,
-esp,oecd,high_income,TRUE,ES,ES,ESP,724,,coastline,40.0,-4.0,christian,Spain,TRUE,europe,europe_central_asia,eca,high_income,un_europe_and_northern_america,un_not_least_developed,unhcr_europe,rest
+esp,oecd,high_income,TRUE,ES,ES,ESP,724,,coastline,40.0,-4.0,christian,Spain,TRUE,europe,europe_central_asia,eca,high_income,un_europe_and_northern_america,un_not_least_developed,unhcr_europe,west
 est,others,high_income,TRUE,EE,EE,EST,233,,coastline,59.0,26.0,christian,Estonia,TRUE,europe,europe_central_asia,eca,high_income,un_europe_and_northern_america,un_not_least_developed,unhcr_europe,rest
 eth,g77,low_income,TRUE,ET,ET,ETH,231,,coastline,9.0,39.5,christian,Ethiopia,TRUE,africa,sub_saharan_africa,ssa,low_income,un_sub_saharan_africa,un_least_developed,unhcr_east_horn_africa_great_lates,rest
 fin,oecd,high_income,TRUE,FI,FI,FIN,246,,coastline,64.0,26.0,christian,Finland,TRUE,europe,europe_central_asia,eca,high_income,un_europe_and_northern_america,un_not_least_developed,unhcr_europe,west
