@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2024-02-13T11:26:32.144933+00:00",
+    "created": "2024-02-16T15:03:45.264441+00:00",
     "version": "2.0.0",
     "resources": [
         {
@@ -4646,6 +4646,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--children_per_woman_total_fertility--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--children_per_woman_total_fertility--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "children_per_woman_total_fertility"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--emigrant_n--by--global--time",
             "path": "global_regions_datapoints/ddf--datapoints--emigrant_n--by--global--time.csv",
             "schema": {
@@ -8629,7 +8650,8 @@
                 "value": "children_per_woman_total_fertility",
                 "resources": [
                     "ddf--datapoints--children_per_woman_total_fertility--by--country--time",
-                    "ddf--datapoints--children_per_woman_total_fertility--by--global--time"
+                    "ddf--datapoints--children_per_woman_total_fertility--by--global--time",
+                    "ddf--datapoints--children_per_woman_total_fertility--by--world_4region--time"
                 ]
             },
             {
@@ -8640,6 +8662,16 @@
                 "value": "children_per_woman_total_fertility",
                 "resources": [
                     "ddf--datapoints--children_per_woman_total_fertility--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "children_per_woman_total_fertility",
+                "resources": [
+                    "ddf--datapoints--children_per_woman_total_fertility--by--world_4region--time"
                 ]
             },
             {
