@@ -302,3 +302,4 @@ population_aged_70plus_years_male_percent,"Population aged 70+, male (%)","[geo:
 population_aged_70plus_years_total_number,"Population aged 70+, total number","[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1WXUqXIyDbxWemB2nSRfJ975M1xCFGixGxV9h4sTAhZo-data-for-world-by-year
 children_per_woman_total_fertility,Babies per woman,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1aLtIpAWvDGGa9k2XXEz6hZugWn0wCd5nmzaRPPjbYNA-data-for-countries-etc-by-year
 children_per_woman_total_fertility,Babies per woman,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1aLtIpAWvDGGa9k2XXEz6hZugWn0wCd5nmzaRPPjbYNA-data-for-world-by-year
+children_per_woman_total_fertility,Babies per woman,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1aLtIpAWvDGGa9k2XXEz6hZugWn0wCd5nmzaRPPjbYNA-data-for-regions-by-year
