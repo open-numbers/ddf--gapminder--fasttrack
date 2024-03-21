@@ -138,12 +138,12 @@
 136,africa,Africa,1936,6.53
 137,africa,Africa,1937,6.53
 138,africa,Africa,1938,6.53
-139,africa,Africa,1939,6.52
+139,africa,Africa,1939,6.53
 140,africa,Africa,1940,6.52
 141,africa,Africa,1941,6.52
 142,africa,Africa,1942,6.53
 143,africa,Africa,1943,6.53
-144,africa,Africa,1944,6.53
+144,africa,Africa,1944,6.54
 145,africa,Africa,1945,6.54
 146,africa,Africa,1946,6.55
 147,africa,Africa,1947,6.55
@@ -343,14 +343,14 @@
 341,asia,Asia,1840,5.72
 342,asia,Asia,1841,5.72
 343,asia,Asia,1842,5.72
-344,asia,Asia,1843,5.73
+344,asia,Asia,1843,5.72
 345,asia,Asia,1844,5.73
 346,asia,Asia,1845,5.73
 347,asia,Asia,1846,5.73
 348,asia,Asia,1847,5.73
 349,asia,Asia,1848,5.73
 350,asia,Asia,1849,5.73
-351,asia,Asia,1850,5.74
+351,asia,Asia,1850,5.73
 352,asia,Asia,1851,5.74
 353,asia,Asia,1852,5.74
 354,asia,Asia,1853,5.74
@@ -445,11 +445,11 @@
 443,asia,Asia,1942,5.52
 444,asia,Asia,1943,5.48
 445,asia,Asia,1944,5.42
-446,asia,Asia,1945,5.32
-447,asia,Asia,1946,5.43
+446,asia,Asia,1945,5.33
+447,asia,Asia,1946,5.44
 448,asia,Asia,1947,5.59
-449,asia,Asia,1948,5.45
-450,asia,Asia,1949,5.71
+449,asia,Asia,1948,5.46
+450,asia,Asia,1949,5.7
 451,asia,Asia,1950,5.56
 452,asia,Asia,1951,5.54
 453,asia,Asia,1952,5.86
@@ -615,7 +615,7 @@
 613,europe,Europe,1811,5.58
 614,europe,Europe,1812,5.56
 615,europe,Europe,1813,5.56
-616,europe,Europe,1814,5.56
+616,europe,Europe,1814,5.55
 617,europe,Europe,1815,5.6
 618,europe,Europe,1816,5.58
 619,europe,Europe,1817,5.57
@@ -748,7 +748,7 @@
 746,europe,Europe,1944,2.58
 747,europe,Europe,1945,2.55
 748,europe,Europe,1946,2.95
-749,europe,Europe,1947,3
+749,europe,Europe,1947,2.99
 750,europe,Europe,1948,2.92
 751,europe,Europe,1949,2.98
 752,europe,Europe,1950,2.85
@@ -902,104 +902,104 @@
 900,europe,Europe,2098,1.67
 901,europe,Europe,2099,1.67
 902,europe,Europe,2100,1.67
-903,americas,The Americas,1800,6.54
-904,americas,The Americas,1801,6.54
+903,americas,The Americas,1800,6.55
+904,americas,The Americas,1801,6.55
 905,americas,The Americas,1802,6.54
-906,americas,The Americas,1803,6.53
+906,americas,The Americas,1803,6.54
 907,americas,The Americas,1804,6.53
-908,americas,The Americas,1805,6.52
+908,americas,The Americas,1805,6.53
 909,americas,The Americas,1806,6.52
-910,americas,The Americas,1807,6.51
+910,americas,The Americas,1807,6.52
 911,americas,The Americas,1808,6.51
-912,americas,The Americas,1809,6.5
+912,americas,The Americas,1809,6.51
 913,americas,The Americas,1810,6.5
-914,americas,The Americas,1811,6.49
+914,americas,The Americas,1811,6.5
 915,americas,The Americas,1812,6.49
-916,americas,The Americas,1813,6.48
+916,americas,The Americas,1813,6.49
 917,americas,The Americas,1814,6.48
-918,americas,The Americas,1815,6.47
+918,americas,The Americas,1815,6.48
 919,americas,The Americas,1816,6.47
 920,americas,The Americas,1817,6.46
 921,americas,The Americas,1818,6.46
 922,americas,The Americas,1819,6.45
-923,americas,The Americas,1820,6.44
+923,americas,The Americas,1820,6.45
 924,americas,The Americas,1821,6.44
 925,americas,The Americas,1822,6.43
 926,americas,The Americas,1823,6.42
-927,americas,The Americas,1824,6.41
-928,americas,The Americas,1825,6.4
+927,americas,The Americas,1824,6.42
+928,americas,The Americas,1825,6.41
 929,americas,The Americas,1826,6.4
 930,americas,The Americas,1827,6.39
 931,americas,The Americas,1828,6.38
 932,americas,The Americas,1829,6.37
-933,americas,The Americas,1830,6.36
-934,americas,The Americas,1831,6.35
+933,americas,The Americas,1830,6.37
+934,americas,The Americas,1831,6.36
 935,americas,The Americas,1832,6.35
 936,americas,The Americas,1833,6.34
-937,americas,The Americas,1834,6.33
+937,americas,The Americas,1834,6.34
 938,americas,The Americas,1835,6.33
 939,americas,The Americas,1836,6.32
-940,americas,The Americas,1837,6.31
-941,americas,The Americas,1838,6.3
+940,americas,The Americas,1837,6.32
+941,americas,The Americas,1838,6.31
 942,americas,The Americas,1839,6.3
 943,americas,The Americas,1840,6.29
-944,americas,The Americas,1841,6.27
-945,americas,The Americas,1842,6.25
+944,americas,The Americas,1841,6.28
+945,americas,The Americas,1842,6.26
 946,americas,The Americas,1843,6.24
 947,americas,The Americas,1844,6.22
-948,americas,The Americas,1845,6.2
-949,americas,The Americas,1846,6.18
+948,americas,The Americas,1845,6.21
+949,americas,The Americas,1846,6.19
 950,americas,The Americas,1847,6.17
 951,americas,The Americas,1848,6.15
 952,americas,The Americas,1849,6.13
 953,americas,The Americas,1850,6.11
 954,americas,The Americas,1851,6.09
-955,americas,The Americas,1852,6.06
+955,americas,The Americas,1852,6.07
 956,americas,The Americas,1853,6.04
 957,americas,The Americas,1854,6.01
 958,americas,The Americas,1855,5.99
-959,americas,The Americas,1856,5.96
+959,americas,The Americas,1856,5.97
 960,americas,The Americas,1857,5.94
-961,americas,The Americas,1858,5.9
+961,americas,The Americas,1858,5.91
 962,americas,The Americas,1859,5.88
 963,americas,The Americas,1860,5.87
-964,americas,The Americas,1861,5.83
+964,americas,The Americas,1861,5.84
 965,americas,The Americas,1862,5.82
-966,americas,The Americas,1863,5.79
+966,americas,The Americas,1863,5.8
 967,americas,The Americas,1864,5.78
 968,americas,The Americas,1865,5.74
-969,americas,The Americas,1866,5.72
+969,americas,The Americas,1866,5.73
 970,americas,The Americas,1867,5.71
 971,americas,The Americas,1868,5.69
 972,americas,The Americas,1869,5.67
-973,americas,The Americas,1870,5.65
+973,americas,The Americas,1870,5.66
 974,americas,The Americas,1871,5.63
-975,americas,The Americas,1872,5.61
-976,americas,The Americas,1873,5.6
+975,americas,The Americas,1872,5.62
+976,americas,The Americas,1873,5.61
 977,americas,The Americas,1874,5.58
 978,americas,The Americas,1875,5.56
 979,americas,The Americas,1876,5.54
 980,americas,The Americas,1877,5.51
 981,americas,The Americas,1878,5.49
 982,americas,The Americas,1879,5.48
-983,americas,The Americas,1880,5.46
+983,americas,The Americas,1880,5.47
 984,americas,The Americas,1881,5.46
 985,americas,The Americas,1882,5.42
-986,americas,The Americas,1883,5.39
+986,americas,The Americas,1883,5.4
 987,americas,The Americas,1884,5.36
 988,americas,The Americas,1885,5.28
 989,americas,The Americas,1886,5.27
 990,americas,The Americas,1887,5.24
-991,americas,The Americas,1888,5.22
+991,americas,The Americas,1888,5.23
 992,americas,The Americas,1889,5.21
 993,americas,The Americas,1890,5.17
-994,americas,The Americas,1891,5.13
-995,americas,The Americas,1892,5.11
-996,americas,The Americas,1893,5.09
+994,americas,The Americas,1891,5.14
+995,americas,The Americas,1892,5.12
+996,americas,The Americas,1893,5.1
 997,americas,The Americas,1894,5.08
-998,americas,The Americas,1895,5.05
+998,americas,The Americas,1895,5.06
 999,americas,The Americas,1896,5
-1000,americas,The Americas,1897,4.94
+1000,americas,The Americas,1897,4.95
 1001,americas,The Americas,1898,4.9
 1002,americas,The Americas,1899,4.87
 1003,americas,The Americas,1900,4.86
@@ -1008,7 +1008,7 @@
 1006,americas,The Americas,1903,4.81
 1007,americas,The Americas,1904,4.79
 1008,americas,The Americas,1905,4.77
-1009,americas,The Americas,1906,4.74
+1009,americas,The Americas,1906,4.75
 1010,americas,The Americas,1907,4.72
 1011,americas,The Americas,1908,4.69
 1012,americas,The Americas,1909,4.66
@@ -1021,7 +1021,7 @@
 1019,americas,The Americas,1916,4.52
 1020,americas,The Americas,1917,4.43
 1021,americas,The Americas,1918,4.43
-1022,americas,The Americas,1919,4.31
+1022,americas,The Americas,1919,4.32
 1023,americas,The Americas,1920,4.42
 1024,americas,The Americas,1921,4.46
 1025,americas,The Americas,1922,4.35
@@ -1030,22 +1030,22 @@
 1028,americas,The Americas,1925,4.27
 1029,americas,The Americas,1926,4.22
 1030,americas,The Americas,1927,4.18
-1031,americas,The Americas,1928,4.08
+1031,americas,The Americas,1928,4.09
 1032,americas,The Americas,1929,4.01
 1033,americas,The Americas,1930,4
 1034,americas,The Americas,1931,3.93
 1035,americas,The Americas,1932,3.88
-1036,americas,The Americas,1933,3.71
+1036,americas,The Americas,1933,3.72
 1037,americas,The Americas,1934,3.74
 1038,americas,The Americas,1935,3.72
-1039,americas,The Americas,1936,3.7
-1040,americas,The Americas,1937,3.71
-1041,americas,The Americas,1938,3.75
-1042,americas,The Americas,1939,3.74
+1039,americas,The Americas,1936,3.69
+1040,americas,The Americas,1937,3.7
+1041,americas,The Americas,1938,3.74
+1042,americas,The Americas,1939,3.73
 1043,americas,The Americas,1940,3.78
 1044,americas,The Americas,1941,3.85
 1045,americas,The Americas,1942,3.99
-1046,americas,The Americas,1943,4.05
+1046,americas,The Americas,1943,4.06
 1047,americas,The Americas,1944,4.02
 1048,americas,The Americas,1945,4.01
 1049,americas,The Americas,1946,4.26
