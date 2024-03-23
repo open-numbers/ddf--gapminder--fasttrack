@@ -79,6 +79,8 @@ immigrant_pc,Immigrant stock share,"[geo:global,time:time]","{timeInColumns:FALS
 emigrant_pc,Emigrant stock share,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-world-by-year
 ihme_conflict_death,Conflict and terrorism deaths (%),"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1gPN7Kl4SN9_oi6NCTr4J7u_WYZg7K7zFpr9MDL_O8bE-data-for-regions-by-year
 ihme_cardio_death,Cardiovascular diseases deaths (%),"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1gPN7Kl4SN9_oi6NCTr4J7u_WYZg7K7zFpr9MDL_O8bE-data-for-regions-by-year
+ihme_hiv_death,HIV/AIDS deaths (%),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1gPN7Kl4SN9_oi6NCTr4J7u_WYZg7K7zFpr9MDL_O8bE-data-for-countries-etc-by-year
+ihme_hiv_death,HIV/AIDS deaths (%),"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1gPN7Kl4SN9_oi6NCTr4J7u_WYZg7K7zFpr9MDL_O8bE-data-for-world-by-year
 ihme_hiv_death,HIV/AIDS deaths (%),"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1gPN7Kl4SN9_oi6NCTr4J7u_WYZg7K7zFpr9MDL_O8bE-data-for-regions-by-year
 popcit_less_300k,Population in cities with less than 300k people,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ccBxDTT5J9k3ZJbUmuvzc0xQvsLgBJnZ62S5xzPmY9E-data-for-world-by-year
 popcit_300_500k,Population in cities with 300k to 500k people,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ccBxDTT5J9k3ZJbUmuvzc0xQvsLgBJnZ62S5xzPmY9E-data-for-world-by-year
