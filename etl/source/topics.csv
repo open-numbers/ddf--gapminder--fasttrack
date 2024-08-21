@@ -1,6 +1,5 @@
 topic_id,topic_name,parent_topic
 governance,Governance,society
-society,Society,
 inequality,Inequality,economy
 economy,Economy,
 media,Media,communication
