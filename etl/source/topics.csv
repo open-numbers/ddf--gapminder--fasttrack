@@ -34,3 +34,4 @@ female_by_age,Female by age (%),population
 male_by_age,Male by age (%),population
 both_sexes_by_age_total,Both sexes by age (total),population
 newborn_infants,Newborn & Infants,health
+poverty_inequality,Poverty & inequality,economy

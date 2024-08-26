@@ -306,3 +306,9 @@ children_per_woman_total_fertility,Babies per woman,"[geo:country,time:time]","{
 children_per_woman_total_fertility,Babies per woman,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1j6zkY_a1vX7RtIGKsC9V6AXyfUgtYZl52_SCezwESZM-data-for-world-by-year
 children_per_woman_total_fertility,Babies per woman,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1j6zkY_a1vX7RtIGKsC9V6AXyfUgtYZl52_SCezwESZM-data-for-regions-by-year
 cumulative_co2_emissions_tonnes,Cumulative CO2 Emissions (Consumption),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1FLzeh9Z-H2IaQFgQeRUmZnZUZFiB31DKtbdX0Z8poF8-data-for-countries-etc-by-year
+gm_epov_rate,Extreme Poverty Rate,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-countries-etc-by-year
+gm_epov_num,People in extreme poverty,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-countries-etc-by-year
+gm_365pov_rate,Poverty Rate 3.65,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-countries-etc-by-year
+gm_365pov_num,People in poverty 3.65,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-countries-etc-by-year
+gm_685pov_rate,Poverty Rate 6.85,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-countries-etc-by-year
+gm_685pov_num,People in poverty 6.85,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-countries-etc-by-year
