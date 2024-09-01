@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2024-09-01T01:14:46.424693+00:00",
+    "created": "2024-09-01T20:18:13.362215+00:00",
     "version": "2.0.0",
     "resources": [
         {
@@ -1556,6 +1556,132 @@
                     },
                     {
                         "name": "gm_epov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not365pov_num--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_not365pov_num--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not365pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not365pov_rate--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_not365pov_rate--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not365pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not685pov_num--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_not685pov_num--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not685pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not685pov_rate--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_not685pov_rate--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not685pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_notepov_num--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_notepov_num--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_notepov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_notepov_rate--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_notepov_rate--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_notepov_rate"
                     }
                 ],
                 "primaryKey": [
@@ -9919,6 +10045,126 @@
                 "value": "gm_epov_rate",
                 "resources": [
                     "ddf--datapoints--gm_epov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_not365pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_not365pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_not365pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_not365pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_not685pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_not685pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_not685pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_not685pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_notepov_num",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_notepov_num",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_notepov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_notepov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_rate--by--country--time"
                 ]
             },
             {
