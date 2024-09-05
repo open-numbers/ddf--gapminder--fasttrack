@@ -318,3 +318,27 @@ gm_not365pov_rate,Not in Poverty Rate 3.65,"[geo:country,time:time]","{timeInCol
 gm_not365pov_num,People Not in poverty 3.65,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-countries-etc-by-year
 gm_not685pov_rate,Not in Poverty Rate 6.85,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-countries-etc-by-year
 gm_not685pov_num,People Not in poverty 6.85,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-countries-etc-by-year
+gm_epov_rate,Extreme Poverty Rate,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-regions-by-year
+gm_epov_num,People in extreme poverty,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-regions-by-year
+gm_365pov_rate,Poverty Rate 3.65,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-regions-by-year
+gm_365pov_num,People in poverty 3.65,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-regions-by-year
+gm_685pov_rate,Poverty Rate 6.85,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-regions-by-year
+gm_685pov_num,People in poverty 6.85,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-regions-by-year
+gm_notepov_rate,Not in Extreme Poverty Rate,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-regions-by-year
+gm_notepov_num,People Not in extreme poverty,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-regions-by-year
+gm_not365pov_rate,Not in Poverty Rate 3.65,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-regions-by-year
+gm_not365pov_num,People Not in poverty 3.65,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-regions-by-year
+gm_not685pov_rate,Not in Poverty Rate 6.85,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-regions-by-year
+gm_not685pov_num,People Not in poverty 6.85,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-regions-by-year
+gm_epov_rate,Extreme Poverty Rate,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-world-by-year
+gm_epov_num,People in extreme poverty,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-world-by-year
+gm_365pov_rate,Poverty Rate 3.65,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-world-by-year
+gm_365pov_num,People in poverty 3.65,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-world-by-year
+gm_685pov_rate,Poverty Rate 6.85,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-world-by-year
+gm_685pov_num,People in poverty 6.85,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Vz-W9i2cn35UCVDah4CJkB-9lyiwNywc5pHn5AYHQ2U-data-for-world-by-year
+gm_notepov_rate,Not in Extreme Poverty Rate,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-world-by-year
+gm_notepov_num,People Not in extreme poverty,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-world-by-year
+gm_not365pov_rate,Not in Poverty Rate 3.65,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-world-by-year
+gm_not365pov_num,People Not in poverty 3.65,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-world-by-year
+gm_not685pov_rate,Not in Poverty Rate 6.85,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-world-by-year
+gm_not685pov_num,People Not in poverty 6.85,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-world-by-year
