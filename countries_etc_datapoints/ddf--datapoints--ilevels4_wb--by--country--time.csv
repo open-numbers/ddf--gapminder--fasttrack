@@ -2402,8 +2402,8 @@ gin,2018,Low income
 gin,2019,Low income
 gin,2020,Low income
 gin,2021,Low income
-gin,2022,Low income
-gin,2023,Low income
+gin,2022,Lower middle income
+gin,2023,Lower middle income
 gmb,1987,Low income
 gmb,1988,Low income
 gmb,1989,Low income
@@ -2661,8 +2661,8 @@ guy,2018,Upper middle income
 guy,2019,Upper middle income
 guy,2020,Upper middle income
 guy,2021,Upper middle income
-guy,2022,Upper middle income
-guy,2023,Upper middle income
+guy,2022,High income
+guy,2023,High income
 hkg,1987,High income
 hkg,1988,High income
 hkg,1989,High income
@@ -2883,8 +2883,8 @@ idn,2018,Lower middle income
 idn,2019,Upper middle income
 idn,2020,Lower middle income
 idn,2021,Lower middle income
-idn,2022,Lower middle income
-idn,2023,Lower middle income
+idn,2022,Upper middle income
+idn,2023,Upper middle income
 ind,1987,Low income
 ind,1988,Low income
 ind,1989,Low income
@@ -3216,8 +3216,8 @@ jor,2018,Upper middle income
 jor,2019,Upper middle income
 jor,2020,Upper middle income
 jor,2021,Upper middle income
-jor,2022,Upper middle income
-jor,2023,Upper middle income
+jor,2022,Lower middle income
+jor,2023,Lower middle income
 jpn,1987,High income
 jpn,1988,High income
 jpn,1989,High income
@@ -5399,8 +5399,8 @@ pse,2018,Lower middle income
 pse,2019,Lower middle income
 pse,2020,Lower middle income
 pse,2021,Lower middle income
-pse,2022,Lower middle income
-pse,2023,Lower middle income
+pse,2022,Upper middle income
+pse,2023,Upper middle income
 qat,1987,High income
 qat,1988,High income
 qat,1989,High income
@@ -5806,8 +5806,8 @@ slv,2018,Lower middle income
 slv,2019,Lower middle income
 slv,2020,Lower middle income
 slv,2021,Lower middle income
-slv,2022,Lower middle income
-slv,2023,Lower middle income
+slv,2022,Upper middle income
+slv,2023,Upper middle income
 smr,1987,High income
 smr,1988,High income
 smr,1989,High income
@@ -7212,8 +7212,8 @@ zmb,2018,Lower middle income
 zmb,2019,Lower middle income
 zmb,2020,Lower middle income
 zmb,2021,Low income
-zmb,2022,Low income
-zmb,2023,Low income
+zmb,2022,Lower middle income
+zmb,2023,Lower middle income
 zwe,1987,Lower middle income
 zwe,1988,Lower middle income
 zwe,1989,Lower middle income

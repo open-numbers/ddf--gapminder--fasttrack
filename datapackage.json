@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2024-08-11T01:20:02.430583+00:00",
+    "created": "2024-09-10T09:25:10.841230+00:00",
     "version": "2.0.0",
     "resources": [
         {
@@ -884,6 +884,27 @@
                     },
                     {
                         "name": "cons_emissions"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--cumulative_co2_emissions_tonnes--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--cumulative_co2_emissions_tonnes--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "cumulative_co2_emissions_tonnes"
                     }
                 ],
                 "primaryKey": [
@@ -9066,6 +9087,26 @@
                 "value": "cons_emissions",
                 "resources": [
                     "ddf--datapoints--cons_emissions--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "cumulative_co2_emissions_tonnes",
+                "resources": [
+                    "ddf--datapoints--cumulative_co2_emissions_tonnes--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "cumulative_co2_emissions_tonnes",
+                "resources": [
+                    "ddf--datapoints--cumulative_co2_emissions_tonnes--by--country--time"
                 ]
             },
             {

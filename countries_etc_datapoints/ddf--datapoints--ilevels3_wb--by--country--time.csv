@@ -2402,8 +2402,8 @@ gin,2018,Low income
 gin,2019,Low income
 gin,2020,Low income
 gin,2021,Low income
-gin,2022,Low income
-gin,2023,Low income
+gin,2022,Middle income
+gin,2023,Middle income
 gmb,1987,Low income
 gmb,1988,Low income
 gmb,1989,Low income
@@ -2661,8 +2661,8 @@ guy,2018,Middle income
 guy,2019,Middle income
 guy,2020,Middle income
 guy,2021,Middle income
-guy,2022,Middle income
-guy,2023,Middle income
+guy,2022,High income
+guy,2023,High income
 hkg,1987,High income
 hkg,1988,High income
 hkg,1989,High income
@@ -7212,8 +7212,8 @@ zmb,2018,Middle income
 zmb,2019,Middle income
 zmb,2020,Middle income
 zmb,2021,Low income
-zmb,2022,Low income
-zmb,2023,Low income
+zmb,2022,Middle income
+zmb,2023,Middle income
 zwe,1987,Middle income
 zwe,1988,Middle income
 zwe,1989,Middle income
