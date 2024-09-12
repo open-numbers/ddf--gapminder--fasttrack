@@ -342,6 +342,6 @@ gm_not365pov_rate,Not in Poverty Rate 3.65,"[geo:global,time:time]","{timeInColu
 gm_not365pov_num,People Not in poverty 3.65,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-world-by-year
 gm_not685pov_rate,Not in Poverty Rate 6.85,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-world-by-year
 gm_not685pov_num,People Not in poverty 6.85,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1qgteaUUIimWRYSfOGg245ZySDX9fjK7602HyAMJXdGE-data-for-world-by-year
-cpiti,Corruption Perceptions Index (TI),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CwLHwwtPF-CJH4RfjJYTQKG4D1BDnH8zQCvqJmYht70-data-for-countries-etc-by-year
-cpiti,Corruption Perceptions Index (TI),"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CwLHwwtPF-CJH4RfjJYTQKG4D1BDnH8zQCvqJmYht70-data-for-regions-by-year
-cpiti,Corruption Perceptions Index (TI),"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CwLHwwtPF-CJH4RfjJYTQKG4D1BDnH8zQCvqJmYht70-data-for-world-by-year
+cpiti,Corruption Perception Index (TI),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CwLHwwtPF-CJH4RfjJYTQKG4D1BDnH8zQCvqJmYht70-data-for-countries-etc-by-year
+cpiti,Corruption Perception Index (TI),"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CwLHwwtPF-CJH4RfjJYTQKG4D1BDnH8zQCvqJmYht70-data-for-regions-by-year
+cpiti,Corruption Perception Index (TI),"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CwLHwwtPF-CJH4RfjJYTQKG4D1BDnH8zQCvqJmYht70-data-for-world-by-year
