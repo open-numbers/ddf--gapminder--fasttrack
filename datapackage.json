@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2024-09-12T22:09:31.539867+00:00",
+    "created": "2024-09-30T12:21:27.893415+00:00",
     "version": "2.0.0",
     "resources": [
         {
@@ -893,8 +893,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--cpiti--by--country--time",
-            "path": "countries_etc_datapoints/ddf--datapoints--cpiti--by--country--time.csv",
+            "name": "ddf--datapoints--corruption_perception_index_cpi--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--corruption_perception_index_cpi--by--country--time.csv",
             "schema": {
                 "fields": [
                     {
@@ -904,7 +904,7 @@
                         "name": "time"
                     },
                     {
-                        "name": "cpiti"
+                        "name": "corruption_perception_index_cpi"
                     }
                 ],
                 "primaryKey": [
@@ -5014,8 +5014,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--cpiti--by--global--time",
-            "path": "global_regions_datapoints/ddf--datapoints--cpiti--by--global--time.csv",
+            "name": "ddf--datapoints--corruption_perception_index_cpi--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--corruption_perception_index_cpi--by--global--time.csv",
             "schema": {
                 "fields": [
                     {
@@ -5025,7 +5025,7 @@
                         "name": "time"
                     },
                     {
-                        "name": "cpiti"
+                        "name": "corruption_perception_index_cpi"
                     }
                 ],
                 "primaryKey": [
@@ -5035,8 +5035,8 @@
             }
         },
         {
-            "name": "ddf--datapoints--cpiti--by--world_4region--time",
-            "path": "global_regions_datapoints/ddf--datapoints--cpiti--by--world_4region--time.csv",
+            "name": "ddf--datapoints--corruption_perception_index_cpi--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--corruption_perception_index_cpi--by--world_4region--time.csv",
             "schema": {
                 "fields": [
                     {
@@ -5046,7 +5046,7 @@
                         "name": "time"
                     },
                     {
-                        "name": "cpiti"
+                        "name": "corruption_perception_index_cpi"
                     }
                 ],
                 "primaryKey": [
@@ -5177,6 +5177,27 @@
                 ],
                 "primaryKey": [
                     "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gdp_pcap--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gdp_pcap--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gdp_pcap"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -9913,9 +9934,9 @@
                     "country",
                     "time"
                 ],
-                "value": "cpiti",
+                "value": "corruption_perception_index_cpi",
                 "resources": [
-                    "ddf--datapoints--cpiti--by--country--time"
+                    "ddf--datapoints--corruption_perception_index_cpi--by--country--time"
                 ]
             },
             {
@@ -9923,11 +9944,11 @@
                     "geo",
                     "time"
                 ],
-                "value": "cpiti",
+                "value": "corruption_perception_index_cpi",
                 "resources": [
-                    "ddf--datapoints--cpiti--by--country--time",
-                    "ddf--datapoints--cpiti--by--global--time",
-                    "ddf--datapoints--cpiti--by--world_4region--time"
+                    "ddf--datapoints--corruption_perception_index_cpi--by--country--time",
+                    "ddf--datapoints--corruption_perception_index_cpi--by--global--time",
+                    "ddf--datapoints--corruption_perception_index_cpi--by--world_4region--time"
                 ]
             },
             {
@@ -9935,9 +9956,9 @@
                     "global",
                     "time"
                 ],
-                "value": "cpiti",
+                "value": "corruption_perception_index_cpi",
                 "resources": [
-                    "ddf--datapoints--cpiti--by--global--time"
+                    "ddf--datapoints--corruption_perception_index_cpi--by--global--time"
                 ]
             },
             {
@@ -9945,9 +9966,9 @@
                     "time",
                     "world_4region"
                 ],
-                "value": "cpiti",
+                "value": "corruption_perception_index_cpi",
                 "resources": [
-                    "ddf--datapoints--cpiti--by--world_4region--time"
+                    "ddf--datapoints--corruption_perception_index_cpi--by--world_4region--time"
                 ]
             },
             {
@@ -10473,7 +10494,18 @@
                 ],
                 "value": "gdp_pcap",
                 "resources": [
-                    "ddf--datapoints--gdp_pcap--by--country--time"
+                    "ddf--datapoints--gdp_pcap--by--country--time",
+                    "ddf--datapoints--gdp_pcap--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gdp_pcap",
+                "resources": [
+                    "ddf--datapoints--gdp_pcap--by--global--time"
                 ]
             },
             {
