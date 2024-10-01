@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2024-09-10T09:25:10.841230+00:00",
+    "created": "2024-09-30T23:19:29.415961+00:00",
     "version": "2.0.0",
     "resources": [
         {
@@ -893,6 +893,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--corruption_perception_index_cpi--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--corruption_perception_index_cpi--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "corruption_perception_index_cpi"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--cumulative_co2_emissions_tonnes--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--cumulative_co2_emissions_tonnes--by--country--time.csv",
             "schema": {
@@ -1430,6 +1451,258 @@
                     },
                     {
                         "name": "gini_2100"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_365pov_num--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_365pov_num--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_365pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_365pov_rate--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_365pov_rate--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_365pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_685pov_num--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_685pov_num--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_685pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_685pov_rate--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_685pov_rate--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_685pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_epov_num--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_epov_num--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_epov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_epov_rate--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_epov_rate--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_epov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not365pov_num--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_not365pov_num--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not365pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not365pov_rate--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_not365pov_rate--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not365pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not685pov_num--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_not685pov_num--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not685pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not685pov_rate--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_not685pov_rate--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not685pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_notepov_num--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_notepov_num--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_notepov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_notepov_rate--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--gm_notepov_rate--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_notepov_rate"
                     }
                 ],
                 "primaryKey": [
@@ -4741,6 +5014,48 @@
             }
         },
         {
+            "name": "ddf--datapoints--corruption_perception_index_cpi--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--corruption_perception_index_cpi--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "corruption_perception_index_cpi"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--corruption_perception_index_cpi--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--corruption_perception_index_cpi--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "corruption_perception_index_cpi"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--emigrant_n--by--global--time",
             "path": "global_regions_datapoints/ddf--datapoints--emigrant_n--by--global--time.csv",
             "schema": {
@@ -4858,6 +5173,531 @@
                     },
                     {
                         "name": "fisfod_cons_pc"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gdp_pcap--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gdp_pcap--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gdp_pcap"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_365pov_num--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_365pov_num--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_365pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_365pov_num--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_365pov_num--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_365pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_365pov_rate--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_365pov_rate--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_365pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_365pov_rate--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_365pov_rate--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_365pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_685pov_num--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_685pov_num--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_685pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_685pov_num--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_685pov_num--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_685pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_685pov_rate--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_685pov_rate--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_685pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_685pov_rate--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_685pov_rate--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_685pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_epov_num--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_epov_num--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_epov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_epov_num--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_epov_num--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_epov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_epov_rate--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_epov_rate--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_epov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_epov_rate--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_epov_rate--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_epov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not365pov_num--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_not365pov_num--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not365pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not365pov_num--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_not365pov_num--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not365pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not365pov_rate--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_not365pov_rate--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not365pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not365pov_rate--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_not365pov_rate--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not365pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not685pov_num--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_not685pov_num--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not685pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not685pov_num--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_not685pov_num--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not685pov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not685pov_rate--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_not685pov_rate--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not685pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_not685pov_rate--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_not685pov_rate--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_not685pov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_notepov_num--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_notepov_num--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_notepov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_notepov_num--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_notepov_num--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_notepov_num"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_notepov_rate--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_notepov_rate--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_notepov_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gm_notepov_rate--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gm_notepov_rate--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gm_notepov_rate"
                     }
                 ],
                 "primaryKey": [
@@ -9094,6 +9934,48 @@
                     "country",
                     "time"
                 ],
+                "value": "corruption_perception_index_cpi",
+                "resources": [
+                    "ddf--datapoints--corruption_perception_index_cpi--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "corruption_perception_index_cpi",
+                "resources": [
+                    "ddf--datapoints--corruption_perception_index_cpi--by--country--time",
+                    "ddf--datapoints--corruption_perception_index_cpi--by--global--time",
+                    "ddf--datapoints--corruption_perception_index_cpi--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "corruption_perception_index_cpi",
+                "resources": [
+                    "ddf--datapoints--corruption_perception_index_cpi--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "corruption_perception_index_cpi",
+                "resources": [
+                    "ddf--datapoints--corruption_perception_index_cpi--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "cumulative_co2_emissions_tonnes",
                 "resources": [
                     "ddf--datapoints--cumulative_co2_emissions_tonnes--by--country--time"
@@ -9612,7 +10494,18 @@
                 ],
                 "value": "gdp_pcap",
                 "resources": [
-                    "ddf--datapoints--gdp_pcap--by--country--time"
+                    "ddf--datapoints--gdp_pcap--by--country--time",
+                    "ddf--datapoints--gdp_pcap--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gdp_pcap",
+                "resources": [
+                    "ddf--datapoints--gdp_pcap--by--global--time"
                 ]
             },
             {
@@ -9673,6 +10566,510 @@
                 "value": "gini_2100",
                 "resources": [
                     "ddf--datapoints--gini_2100--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_365pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_365pov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_365pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_365pov_num--by--country--time",
+                    "ddf--datapoints--gm_365pov_num--by--global--time",
+                    "ddf--datapoints--gm_365pov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_365pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_365pov_num--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_365pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_365pov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_365pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_365pov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_365pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_365pov_rate--by--country--time",
+                    "ddf--datapoints--gm_365pov_rate--by--global--time",
+                    "ddf--datapoints--gm_365pov_rate--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_365pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_365pov_rate--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_365pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_365pov_rate--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_685pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_685pov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_685pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_685pov_num--by--country--time",
+                    "ddf--datapoints--gm_685pov_num--by--global--time",
+                    "ddf--datapoints--gm_685pov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_685pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_685pov_num--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_685pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_685pov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_685pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_685pov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_685pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_685pov_rate--by--country--time",
+                    "ddf--datapoints--gm_685pov_rate--by--global--time",
+                    "ddf--datapoints--gm_685pov_rate--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_685pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_685pov_rate--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_685pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_685pov_rate--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_epov_num",
+                "resources": [
+                    "ddf--datapoints--gm_epov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_epov_num",
+                "resources": [
+                    "ddf--datapoints--gm_epov_num--by--country--time",
+                    "ddf--datapoints--gm_epov_num--by--global--time",
+                    "ddf--datapoints--gm_epov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_epov_num",
+                "resources": [
+                    "ddf--datapoints--gm_epov_num--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_epov_num",
+                "resources": [
+                    "ddf--datapoints--gm_epov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_epov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_epov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_epov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_epov_rate--by--country--time",
+                    "ddf--datapoints--gm_epov_rate--by--global--time",
+                    "ddf--datapoints--gm_epov_rate--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_epov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_epov_rate--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_epov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_epov_rate--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_not365pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_not365pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_num--by--country--time",
+                    "ddf--datapoints--gm_not365pov_num--by--global--time",
+                    "ddf--datapoints--gm_not365pov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_not365pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_num--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_not365pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_not365pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_not365pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_rate--by--country--time",
+                    "ddf--datapoints--gm_not365pov_rate--by--global--time",
+                    "ddf--datapoints--gm_not365pov_rate--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_not365pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_rate--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_not365pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not365pov_rate--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_not685pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_not685pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_num--by--country--time",
+                    "ddf--datapoints--gm_not685pov_num--by--global--time",
+                    "ddf--datapoints--gm_not685pov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_not685pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_num--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_not685pov_num",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_not685pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_not685pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_rate--by--country--time",
+                    "ddf--datapoints--gm_not685pov_rate--by--global--time",
+                    "ddf--datapoints--gm_not685pov_rate--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_not685pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_rate--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_not685pov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_not685pov_rate--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_notepov_num",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_notepov_num",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_num--by--country--time",
+                    "ddf--datapoints--gm_notepov_num--by--global--time",
+                    "ddf--datapoints--gm_notepov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_notepov_num",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_num--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_notepov_num",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_num--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "gm_notepov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "gm_notepov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_rate--by--country--time",
+                    "ddf--datapoints--gm_notepov_rate--by--global--time",
+                    "ddf--datapoints--gm_notepov_rate--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gm_notepov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_rate--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_4region"
+                ],
+                "value": "gm_notepov_rate",
+                "resources": [
+                    "ddf--datapoints--gm_notepov_rate--by--world_4region--time"
                 ]
             },
             {

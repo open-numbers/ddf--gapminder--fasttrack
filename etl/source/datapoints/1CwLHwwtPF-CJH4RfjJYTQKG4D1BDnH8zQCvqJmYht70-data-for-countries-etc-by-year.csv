@@ -1,0 +1,2137 @@
+,geo,name,time,Corruption Perception Index (TI)
+0,afg,Afghanistan,2023,20
+1,afg,Afghanistan,2022,24
+2,afg,Afghanistan,2021,16
+3,afg,Afghanistan,2020,19
+4,afg,Afghanistan,2019,16
+5,afg,Afghanistan,2018,16
+6,afg,Afghanistan,2017,15
+7,afg,Afghanistan,2016,15
+8,afg,Afghanistan,2015,11
+9,afg,Afghanistan,2014,12
+10,afg,Afghanistan,2013,8
+11,afg,Afghanistan,2012,8
+12,ago,Angola,2023,33
+13,ago,Angola,2022,33
+14,ago,Angola,2021,29
+15,ago,Angola,2020,27
+16,ago,Angola,2019,26
+17,ago,Angola,2018,19
+18,ago,Angola,2017,19
+19,ago,Angola,2016,18
+20,ago,Angola,2015,15
+21,ago,Angola,2014,19
+22,ago,Angola,2013,23
+23,ago,Angola,2012,22
+24,alb,Albania,2023,37
+25,alb,Albania,2022,36
+26,alb,Albania,2021,35
+27,alb,Albania,2020,36
+28,alb,Albania,2019,35
+29,alb,Albania,2018,36
+30,alb,Albania,2017,38
+31,alb,Albania,2016,39
+32,alb,Albania,2015,36
+33,alb,Albania,2014,33
+34,alb,Albania,2013,31
+35,alb,Albania,2012,33
+36,are,United Arab Emirates,2023,68
+37,are,United Arab Emirates,2022,67
+38,are,United Arab Emirates,2021,69
+39,are,United Arab Emirates,2020,71
+40,are,United Arab Emirates,2019,71
+41,are,United Arab Emirates,2018,70
+42,are,United Arab Emirates,2017,71
+43,are,United Arab Emirates,2016,66
+44,are,United Arab Emirates,2015,70
+45,are,United Arab Emirates,2014,70
+46,are,United Arab Emirates,2013,69
+47,are,United Arab Emirates,2012,68
+48,arg,Argentina,2023,37
+49,arg,Argentina,2022,38
+50,arg,Argentina,2021,38
+51,arg,Argentina,2020,42
+52,arg,Argentina,2019,45
+53,arg,Argentina,2018,40
+54,arg,Argentina,2017,39
+55,arg,Argentina,2016,36
+56,arg,Argentina,2015,32
+57,arg,Argentina,2014,34
+58,arg,Argentina,2013,34
+59,arg,Argentina,2012,35
+60,arm,Armenia,2023,47
+61,arm,Armenia,2022,46
+62,arm,Armenia,2021,49
+63,arm,Armenia,2020,49
+64,arm,Armenia,2019,42
+65,arm,Armenia,2018,35
+66,arm,Armenia,2017,35
+67,arm,Armenia,2016,33
+68,arm,Armenia,2015,35
+69,arm,Armenia,2014,37
+70,arm,Armenia,2013,36
+71,arm,Armenia,2012,34
+72,aus,Australia,2023,75
+73,aus,Australia,2022,75
+74,aus,Australia,2021,73
+75,aus,Australia,2020,77
+76,aus,Australia,2019,77
+77,aus,Australia,2018,77
+78,aus,Australia,2017,77
+79,aus,Australia,2016,79
+80,aus,Australia,2015,79
+81,aus,Australia,2014,80
+82,aus,Australia,2013,81
+83,aus,Australia,2012,85
+84,aut,Austria,2023,71
+85,aut,Austria,2022,71
+86,aut,Austria,2021,74
+87,aut,Austria,2020,76
+88,aut,Austria,2019,77
+89,aut,Austria,2018,76
+90,aut,Austria,2017,75
+91,aut,Austria,2016,75
+92,aut,Austria,2015,76
+93,aut,Austria,2014,72
+94,aut,Austria,2013,69
+95,aut,Austria,2012,69
+96,aze,Azerbaijan,2023,23
+97,aze,Azerbaijan,2022,23
+98,aze,Azerbaijan,2021,30
+99,aze,Azerbaijan,2020,30
+100,aze,Azerbaijan,2019,30
+101,aze,Azerbaijan,2018,25
+102,aze,Azerbaijan,2017,31
+103,aze,Azerbaijan,2016,30
+104,aze,Azerbaijan,2015,29
+105,aze,Azerbaijan,2014,29
+106,aze,Azerbaijan,2013,28
+107,aze,Azerbaijan,2012,27
+108,bdi,Burundi,2023,20
+109,bdi,Burundi,2022,17
+110,bdi,Burundi,2021,19
+111,bdi,Burundi,2020,19
+112,bdi,Burundi,2019,19
+113,bdi,Burundi,2018,17
+114,bdi,Burundi,2017,22
+115,bdi,Burundi,2016,20
+116,bdi,Burundi,2015,21
+117,bdi,Burundi,2014,20
+118,bdi,Burundi,2013,21
+119,bdi,Burundi,2012,19
+120,bel,Belgium,2023,73
+121,bel,Belgium,2022,73
+122,bel,Belgium,2021,73
+123,bel,Belgium,2020,76
+124,bel,Belgium,2019,75
+125,bel,Belgium,2018,75
+126,bel,Belgium,2017,75
+127,bel,Belgium,2016,77
+128,bel,Belgium,2015,77
+129,bel,Belgium,2014,76
+130,bel,Belgium,2013,75
+131,bel,Belgium,2012,75
+132,ben,Benin,2023,43
+133,ben,Benin,2022,43
+134,ben,Benin,2021,42
+135,ben,Benin,2020,41
+136,ben,Benin,2019,41
+137,ben,Benin,2018,40
+138,ben,Benin,2017,39
+139,ben,Benin,2016,36
+140,ben,Benin,2015,37
+141,ben,Benin,2014,39
+142,ben,Benin,2013,36
+143,ben,Benin,2012,36
+144,bfa,Burkina Faso,2023,41
+145,bfa,Burkina Faso,2022,42
+146,bfa,Burkina Faso,2021,42
+147,bfa,Burkina Faso,2020,40
+148,bfa,Burkina Faso,2019,40
+149,bfa,Burkina Faso,2018,41
+150,bfa,Burkina Faso,2017,42
+151,bfa,Burkina Faso,2016,42
+152,bfa,Burkina Faso,2015,38
+153,bfa,Burkina Faso,2014,38
+154,bfa,Burkina Faso,2013,38
+155,bfa,Burkina Faso,2012,38
+156,bgd,Bangladesh,2023,24
+157,bgd,Bangladesh,2022,25
+158,bgd,Bangladesh,2021,26
+159,bgd,Bangladesh,2020,26
+160,bgd,Bangladesh,2019,26
+161,bgd,Bangladesh,2018,26
+162,bgd,Bangladesh,2017,28
+163,bgd,Bangladesh,2016,26
+164,bgd,Bangladesh,2015,25
+165,bgd,Bangladesh,2014,25
+166,bgd,Bangladesh,2013,27
+167,bgd,Bangladesh,2012,26
+168,bgr,Bulgaria,2023,45
+169,bgr,Bulgaria,2022,43
+170,bgr,Bulgaria,2021,42
+171,bgr,Bulgaria,2020,44
+172,bgr,Bulgaria,2019,43
+173,bgr,Bulgaria,2018,42
+174,bgr,Bulgaria,2017,43
+175,bgr,Bulgaria,2016,41
+176,bgr,Bulgaria,2015,41
+177,bgr,Bulgaria,2014,43
+178,bgr,Bulgaria,2013,41
+179,bgr,Bulgaria,2012,41
+180,bhr,Bahrain,2023,42
+181,bhr,Bahrain,2022,44
+182,bhr,Bahrain,2021,42
+183,bhr,Bahrain,2020,42
+184,bhr,Bahrain,2019,42
+185,bhr,Bahrain,2018,36
+186,bhr,Bahrain,2017,36
+187,bhr,Bahrain,2016,43
+188,bhr,Bahrain,2015,51
+189,bhr,Bahrain,2014,49
+190,bhr,Bahrain,2013,48
+191,bhr,Bahrain,2012,51
+192,bhs,Bahamas,2023,64
+193,bhs,Bahamas,2022,64
+194,bhs,Bahamas,2021,64
+195,bhs,Bahamas,2020,63
+196,bhs,Bahamas,2019,64
+197,bhs,Bahamas,2018,65
+198,bhs,Bahamas,2017,65
+199,bhs,Bahamas,2016,66
+200,bhs,Bahamas,2015,0
+201,bhs,Bahamas,2014,71
+202,bhs,Bahamas,2013,71
+203,bhs,Bahamas,2012,71
+204,bih,Bosnia and Herzegovina,2023,35
+205,bih,Bosnia and Herzegovina,2022,34
+206,bih,Bosnia and Herzegovina,2021,35
+207,bih,Bosnia and Herzegovina,2020,35
+208,bih,Bosnia and Herzegovina,2019,36
+209,bih,Bosnia and Herzegovina,2018,38
+210,bih,Bosnia and Herzegovina,2017,38
+211,bih,Bosnia and Herzegovina,2016,39
+212,bih,Bosnia and Herzegovina,2015,38
+213,bih,Bosnia and Herzegovina,2014,39
+214,bih,Bosnia and Herzegovina,2013,42
+215,bih,Bosnia and Herzegovina,2012,42
+216,blr,Belarus,2023,37
+217,blr,Belarus,2022,39
+218,blr,Belarus,2021,41
+219,blr,Belarus,2020,47
+220,blr,Belarus,2019,45
+221,blr,Belarus,2018,44
+222,blr,Belarus,2017,44
+223,blr,Belarus,2016,40
+224,blr,Belarus,2015,32
+225,blr,Belarus,2014,31
+226,blr,Belarus,2013,29
+227,blr,Belarus,2012,31
+228,bol,Bolivia,2023,29
+229,bol,Bolivia,2022,31
+230,bol,Bolivia,2021,30
+231,bol,Bolivia,2020,31
+232,bol,Bolivia,2019,31
+233,bol,Bolivia,2018,29
+234,bol,Bolivia,2017,33
+235,bol,Bolivia,2016,33
+236,bol,Bolivia,2015,34
+237,bol,Bolivia,2014,35
+238,bol,Bolivia,2013,34
+239,bol,Bolivia,2012,34
+240,bra,Brazil,2023,36
+241,bra,Brazil,2022,38
+242,bra,Brazil,2021,38
+243,bra,Brazil,2020,38
+244,bra,Brazil,2019,35
+245,bra,Brazil,2018,35
+246,bra,Brazil,2017,37
+247,bra,Brazil,2016,40
+248,bra,Brazil,2015,38
+249,bra,Brazil,2014,43
+250,bra,Brazil,2013,42
+251,bra,Brazil,2012,43
+252,brb,Barbados,2023,69
+253,brb,Barbados,2022,65
+254,brb,Barbados,2021,65
+255,brb,Barbados,2020,64
+256,brb,Barbados,2019,62
+257,brb,Barbados,2018,68
+258,brb,Barbados,2017,68
+259,brb,Barbados,2016,61
+260,brb,Barbados,2015,0
+261,brb,Barbados,2014,74
+262,brb,Barbados,2013,75
+263,brb,Barbados,2012,76
+264,brn,Brunei Darussalam,2023,0
+265,brn,Brunei Darussalam,2022,0
+266,brn,Brunei Darussalam,2021,0
+267,brn,Brunei Darussalam,2020,60
+268,brn,Brunei Darussalam,2019,60
+269,brn,Brunei Darussalam,2018,63
+270,brn,Brunei Darussalam,2017,62
+271,brn,Brunei Darussalam,2016,58
+272,brn,Brunei Darussalam,2015,0
+273,brn,Brunei Darussalam,2014,0
+274,brn,Brunei Darussalam,2013,60
+275,brn,Brunei Darussalam,2012,55
+276,btn,Bhutan,2023,68
+277,btn,Bhutan,2022,68
+278,btn,Bhutan,2021,68
+279,btn,Bhutan,2020,68
+280,btn,Bhutan,2019,68
+281,btn,Bhutan,2018,68
+282,btn,Bhutan,2017,67
+283,btn,Bhutan,2016,65
+284,btn,Bhutan,2015,65
+285,btn,Bhutan,2014,65
+286,btn,Bhutan,2013,63
+287,btn,Bhutan,2012,63
+288,bwa,Botswana,2023,59
+289,bwa,Botswana,2022,60
+290,bwa,Botswana,2021,55
+291,bwa,Botswana,2020,60
+292,bwa,Botswana,2019,61
+293,bwa,Botswana,2018,61
+294,bwa,Botswana,2017,61
+295,bwa,Botswana,2016,60
+296,bwa,Botswana,2015,63
+297,bwa,Botswana,2014,63
+298,bwa,Botswana,2013,64
+299,bwa,Botswana,2012,65
+300,caf,Central African Republic,2023,24
+301,caf,Central African Republic,2022,24
+302,caf,Central African Republic,2021,24
+303,caf,Central African Republic,2020,26
+304,caf,Central African Republic,2019,25
+305,caf,Central African Republic,2018,26
+306,caf,Central African Republic,2017,23
+307,caf,Central African Republic,2016,20
+308,caf,Central African Republic,2015,24
+309,caf,Central African Republic,2014,24
+310,caf,Central African Republic,2013,25
+311,caf,Central African Republic,2012,26
+312,can,Canada,2023,76
+313,can,Canada,2022,74
+314,can,Canada,2021,74
+315,can,Canada,2020,77
+316,can,Canada,2019,77
+317,can,Canada,2018,81
+318,can,Canada,2017,82
+319,can,Canada,2016,82
+320,can,Canada,2015,83
+321,can,Canada,2014,81
+322,can,Canada,2013,81
+323,can,Canada,2012,84
+324,che,Switzerland,2023,82
+325,che,Switzerland,2022,82
+326,che,Switzerland,2021,84
+327,che,Switzerland,2020,85
+328,che,Switzerland,2019,85
+329,che,Switzerland,2018,85
+330,che,Switzerland,2017,85
+331,che,Switzerland,2016,86
+332,che,Switzerland,2015,86
+333,che,Switzerland,2014,86
+334,che,Switzerland,2013,85
+335,che,Switzerland,2012,86
+336,chl,Chile,2023,66
+337,chl,Chile,2022,67
+338,chl,Chile,2021,67
+339,chl,Chile,2020,67
+340,chl,Chile,2019,67
+341,chl,Chile,2018,67
+342,chl,Chile,2017,67
+343,chl,Chile,2016,66
+344,chl,Chile,2015,70
+345,chl,Chile,2014,73
+346,chl,Chile,2013,71
+347,chl,Chile,2012,72
+348,chn,China,2023,42
+349,chn,China,2022,45
+350,chn,China,2021,45
+351,chn,China,2020,42
+352,chn,China,2019,41
+353,chn,China,2018,39
+354,chn,China,2017,41
+355,chn,China,2016,40
+356,chn,China,2015,37
+357,chn,China,2014,36
+358,chn,China,2013,40
+359,chn,China,2012,39
+360,civ,Cote d'Ivoire,2023,40
+361,civ,Cote d'Ivoire,2022,37
+362,civ,Cote d'Ivoire,2021,36
+363,civ,Cote d'Ivoire,2020,36
+364,civ,Cote d'Ivoire,2019,35
+365,civ,Cote d'Ivoire,2018,35
+366,civ,Cote d'Ivoire,2017,36
+367,civ,Cote d'Ivoire,2016,34
+368,civ,Cote d'Ivoire,2015,32
+369,civ,Cote d'Ivoire,2014,32
+370,civ,Cote d'Ivoire,2013,27
+371,civ,Cote d'Ivoire,2012,29
+372,cmr,Cameroon,2023,27
+373,cmr,Cameroon,2022,26
+374,cmr,Cameroon,2021,27
+375,cmr,Cameroon,2020,25
+376,cmr,Cameroon,2019,25
+377,cmr,Cameroon,2018,25
+378,cmr,Cameroon,2017,25
+379,cmr,Cameroon,2016,26
+380,cmr,Cameroon,2015,27
+381,cmr,Cameroon,2014,27
+382,cmr,Cameroon,2013,25
+383,cmr,Cameroon,2012,26
+384,cod,Democratic Republic of the Congo,2023,20
+385,cod,Democratic Republic of the Congo,2022,20
+386,cod,Democratic Republic of the Congo,2021,19
+387,cod,Democratic Republic of the Congo,2020,18
+388,cod,Democratic Republic of the Congo,2019,18
+389,cod,Democratic Republic of the Congo,2018,20
+390,cod,Democratic Republic of the Congo,2017,21
+391,cod,Democratic Republic of the Congo,2016,21
+392,cod,Democratic Republic of the Congo,2015,22
+393,cod,Democratic Republic of the Congo,2014,22
+394,cod,Democratic Republic of the Congo,2013,22
+395,cod,Democratic Republic of the Congo,2012,21
+396,cog,Congo,2023,22
+397,cog,Congo,2022,21
+398,cog,Congo,2021,21
+399,cog,Congo,2020,19
+400,cog,Congo,2019,19
+401,cog,Congo,2018,19
+402,cog,Congo,2017,21
+403,cog,Congo,2016,20
+404,cog,Congo,2015,23
+405,cog,Congo,2014,23
+406,cog,Congo,2013,22
+407,cog,Congo,2012,26
+408,col,Colombia,2023,40
+409,col,Colombia,2022,39
+410,col,Colombia,2021,39
+411,col,Colombia,2020,39
+412,col,Colombia,2019,37
+413,col,Colombia,2018,36
+414,col,Colombia,2017,37
+415,col,Colombia,2016,37
+416,col,Colombia,2015,37
+417,col,Colombia,2014,37
+418,col,Colombia,2013,36
+419,col,Colombia,2012,36
+420,com,Comoros,2023,20
+421,com,Comoros,2022,19
+422,com,Comoros,2021,20
+423,com,Comoros,2020,21
+424,com,Comoros,2019,25
+425,com,Comoros,2018,27
+426,com,Comoros,2017,27
+427,com,Comoros,2016,24
+428,com,Comoros,2015,26
+429,com,Comoros,2014,26
+430,com,Comoros,2013,28
+431,com,Comoros,2012,28
+432,cpv,Cabo Verde,2023,64
+433,cpv,Cabo Verde,2022,60
+434,cpv,Cabo Verde,2021,58
+435,cpv,Cabo Verde,2020,58
+436,cpv,Cabo Verde,2019,58
+437,cpv,Cabo Verde,2018,57
+438,cpv,Cabo Verde,2017,55
+439,cpv,Cabo Verde,2016,59
+440,cpv,Cabo Verde,2015,55
+441,cpv,Cabo Verde,2014,57
+442,cpv,Cabo Verde,2013,58
+443,cpv,Cabo Verde,2012,60
+444,cri,Costa Rica,2023,55
+445,cri,Costa Rica,2022,54
+446,cri,Costa Rica,2021,58
+447,cri,Costa Rica,2020,57
+448,cri,Costa Rica,2019,56
+449,cri,Costa Rica,2018,56
+450,cri,Costa Rica,2017,59
+451,cri,Costa Rica,2016,58
+452,cri,Costa Rica,2015,55
+453,cri,Costa Rica,2014,54
+454,cri,Costa Rica,2013,53
+455,cri,Costa Rica,2012,54
+456,cub,Cuba,2023,42
+457,cub,Cuba,2022,45
+458,cub,Cuba,2021,46
+459,cub,Cuba,2020,47
+460,cub,Cuba,2019,48
+461,cub,Cuba,2018,47
+462,cub,Cuba,2017,47
+463,cub,Cuba,2016,47
+464,cub,Cuba,2015,47
+465,cub,Cuba,2014,46
+466,cub,Cuba,2013,46
+467,cub,Cuba,2012,48
+468,cyp,Cyprus,2023,53
+469,cyp,Cyprus,2022,52
+470,cyp,Cyprus,2021,53
+471,cyp,Cyprus,2020,57
+472,cyp,Cyprus,2019,58
+473,cyp,Cyprus,2018,59
+474,cyp,Cyprus,2017,57
+475,cyp,Cyprus,2016,55
+476,cyp,Cyprus,2015,61
+477,cyp,Cyprus,2014,63
+478,cyp,Cyprus,2013,63
+479,cyp,Cyprus,2012,66
+480,cze,Czechia,2023,57
+481,cze,Czechia,2022,56
+482,cze,Czechia,2021,54
+483,cze,Czechia,2020,54
+484,cze,Czechia,2019,56
+485,cze,Czechia,2018,59
+486,cze,Czechia,2017,57
+487,cze,Czechia,2016,55
+488,cze,Czechia,2015,56
+489,cze,Czechia,2014,51
+490,cze,Czechia,2013,48
+491,cze,Czechia,2012,49
+492,deu,Germany,2023,78
+493,deu,Germany,2022,79
+494,deu,Germany,2021,80
+495,deu,Germany,2020,80
+496,deu,Germany,2019,80
+497,deu,Germany,2018,80
+498,deu,Germany,2017,81
+499,deu,Germany,2016,81
+500,deu,Germany,2015,81
+501,deu,Germany,2014,79
+502,deu,Germany,2013,78
+503,deu,Germany,2012,79
+504,dji,Djibouti,2023,30
+505,dji,Djibouti,2022,30
+506,dji,Djibouti,2021,30
+507,dji,Djibouti,2020,27
+508,dji,Djibouti,2019,30
+509,dji,Djibouti,2018,31
+510,dji,Djibouti,2017,31
+511,dji,Djibouti,2016,30
+512,dji,Djibouti,2015,34
+513,dji,Djibouti,2014,34
+514,dji,Djibouti,2013,36
+515,dji,Djibouti,2012,36
+516,dma,Dominica,2023,56
+517,dma,Dominica,2022,55
+518,dma,Dominica,2021,55
+519,dma,Dominica,2020,55
+520,dma,Dominica,2019,55
+521,dma,Dominica,2018,57
+522,dma,Dominica,2017,57
+523,dma,Dominica,2016,59
+524,dma,Dominica,2015,0
+525,dma,Dominica,2014,58
+526,dma,Dominica,2013,58
+527,dma,Dominica,2012,58
+528,dnk,Denmark,2023,90
+529,dnk,Denmark,2022,90
+530,dnk,Denmark,2021,88
+531,dnk,Denmark,2020,88
+532,dnk,Denmark,2019,87
+533,dnk,Denmark,2018,88
+534,dnk,Denmark,2017,88
+535,dnk,Denmark,2016,90
+536,dnk,Denmark,2015,91
+537,dnk,Denmark,2014,92
+538,dnk,Denmark,2013,91
+539,dnk,Denmark,2012,90
+540,dom,Dominican Republic,2023,35
+541,dom,Dominican Republic,2022,32
+542,dom,Dominican Republic,2021,30
+543,dom,Dominican Republic,2020,28
+544,dom,Dominican Republic,2019,28
+545,dom,Dominican Republic,2018,30
+546,dom,Dominican Republic,2017,29
+547,dom,Dominican Republic,2016,31
+548,dom,Dominican Republic,2015,33
+549,dom,Dominican Republic,2014,32
+550,dom,Dominican Republic,2013,29
+551,dom,Dominican Republic,2012,32
+552,dza,Algeria,2023,36
+553,dza,Algeria,2022,33
+554,dza,Algeria,2021,33
+555,dza,Algeria,2020,36
+556,dza,Algeria,2019,35
+557,dza,Algeria,2018,35
+558,dza,Algeria,2017,33
+559,dza,Algeria,2016,34
+560,dza,Algeria,2015,36
+561,dza,Algeria,2014,36
+562,dza,Algeria,2013,36
+563,dza,Algeria,2012,34
+564,ecu,Ecuador,2023,34
+565,ecu,Ecuador,2022,36
+566,ecu,Ecuador,2021,36
+567,ecu,Ecuador,2020,39
+568,ecu,Ecuador,2019,38
+569,ecu,Ecuador,2018,34
+570,ecu,Ecuador,2017,32
+571,ecu,Ecuador,2016,31
+572,ecu,Ecuador,2015,32
+573,ecu,Ecuador,2014,33
+574,ecu,Ecuador,2013,35
+575,ecu,Ecuador,2012,32
+576,egy,Egypt,2023,35
+577,egy,Egypt,2022,30
+578,egy,Egypt,2021,33
+579,egy,Egypt,2020,33
+580,egy,Egypt,2019,35
+581,egy,Egypt,2018,35
+582,egy,Egypt,2017,32
+583,egy,Egypt,2016,34
+584,egy,Egypt,2015,36
+585,egy,Egypt,2014,37
+586,egy,Egypt,2013,32
+587,egy,Egypt,2012,32
+588,eri,Eritrea,2023,21
+589,eri,Eritrea,2022,22
+590,eri,Eritrea,2021,22
+591,eri,Eritrea,2020,21
+592,eri,Eritrea,2019,23
+593,eri,Eritrea,2018,24
+594,eri,Eritrea,2017,20
+595,eri,Eritrea,2016,18
+596,eri,Eritrea,2015,18
+597,eri,Eritrea,2014,18
+598,eri,Eritrea,2013,20
+599,eri,Eritrea,2012,25
+600,esp,Spain,2023,60
+601,esp,Spain,2022,60
+602,esp,Spain,2021,61
+603,esp,Spain,2020,62
+604,esp,Spain,2019,62
+605,esp,Spain,2018,58
+606,esp,Spain,2017,57
+607,esp,Spain,2016,58
+608,esp,Spain,2015,58
+609,esp,Spain,2014,60
+610,esp,Spain,2013,59
+611,esp,Spain,2012,65
+612,est,Estonia,2023,76
+613,est,Estonia,2022,74
+614,est,Estonia,2021,74
+615,est,Estonia,2020,75
+616,est,Estonia,2019,74
+617,est,Estonia,2018,73
+618,est,Estonia,2017,71
+619,est,Estonia,2016,70
+620,est,Estonia,2015,70
+621,est,Estonia,2014,69
+622,est,Estonia,2013,68
+623,est,Estonia,2012,64
+624,eth,Ethiopia,2023,37
+625,eth,Ethiopia,2022,38
+626,eth,Ethiopia,2021,39
+627,eth,Ethiopia,2020,38
+628,eth,Ethiopia,2019,37
+629,eth,Ethiopia,2018,34
+630,eth,Ethiopia,2017,35
+631,eth,Ethiopia,2016,34
+632,eth,Ethiopia,2015,33
+633,eth,Ethiopia,2014,33
+634,eth,Ethiopia,2013,33
+635,eth,Ethiopia,2012,33
+636,fin,Finland,2023,87
+637,fin,Finland,2022,87
+638,fin,Finland,2021,88
+639,fin,Finland,2020,85
+640,fin,Finland,2019,86
+641,fin,Finland,2018,85
+642,fin,Finland,2017,85
+643,fin,Finland,2016,89
+644,fin,Finland,2015,90
+645,fin,Finland,2014,89
+646,fin,Finland,2013,89
+647,fin,Finland,2012,90
+648,fji,Fiji,2023,52
+649,fji,Fiji,2022,53
+650,fji,Fiji,2021,55
+651,fji,Fiji,2020,0
+652,fji,Fiji,2019,0
+653,fji,Fiji,2018,0
+654,fji,Fiji,2017,0
+655,fji,Fiji,2016,0
+656,fji,Fiji,2015,0
+657,fji,Fiji,2014,0
+658,fji,Fiji,2013,0
+659,fji,Fiji,2012,0
+660,fra,France,2023,71
+661,fra,France,2022,72
+662,fra,France,2021,71
+663,fra,France,2020,69
+664,fra,France,2019,69
+665,fra,France,2018,72
+666,fra,France,2017,70
+667,fra,France,2016,69
+668,fra,France,2015,70
+669,fra,France,2014,69
+670,fra,France,2013,71
+671,fra,France,2012,71
+672,gab,Gabon,2023,28
+673,gab,Gabon,2022,29
+674,gab,Gabon,2021,31
+675,gab,Gabon,2020,30
+676,gab,Gabon,2019,31
+677,gab,Gabon,2018,31
+678,gab,Gabon,2017,32
+679,gab,Gabon,2016,35
+680,gab,Gabon,2015,34
+681,gab,Gabon,2014,37
+682,gab,Gabon,2013,34
+683,gab,Gabon,2012,35
+684,gbr,United Kingdom,2023,71
+685,gbr,United Kingdom,2022,73
+686,gbr,United Kingdom,2021,78
+687,gbr,United Kingdom,2020,77
+688,gbr,United Kingdom,2019,77
+689,gbr,United Kingdom,2018,80
+690,gbr,United Kingdom,2017,82
+691,gbr,United Kingdom,2016,81
+692,gbr,United Kingdom,2015,81
+693,gbr,United Kingdom,2014,78
+694,gbr,United Kingdom,2013,76
+695,gbr,United Kingdom,2012,74
+696,geo,Georgia,2023,53
+697,geo,Georgia,2022,56
+698,geo,Georgia,2021,55
+699,geo,Georgia,2020,56
+700,geo,Georgia,2019,56
+701,geo,Georgia,2018,58
+702,geo,Georgia,2017,56
+703,geo,Georgia,2016,57
+704,geo,Georgia,2015,52
+705,geo,Georgia,2014,52
+706,geo,Georgia,2013,49
+707,geo,Georgia,2012,52
+708,gha,Ghana,2023,43
+709,gha,Ghana,2022,43
+710,gha,Ghana,2021,43
+711,gha,Ghana,2020,43
+712,gha,Ghana,2019,41
+713,gha,Ghana,2018,41
+714,gha,Ghana,2017,40
+715,gha,Ghana,2016,43
+716,gha,Ghana,2015,47
+717,gha,Ghana,2014,48
+718,gha,Ghana,2013,46
+719,gha,Ghana,2012,45
+720,gin,Guinea,2023,26
+721,gin,Guinea,2022,25
+722,gin,Guinea,2021,25
+723,gin,Guinea,2020,28
+724,gin,Guinea,2019,29
+725,gin,Guinea,2018,28
+726,gin,Guinea,2017,27
+727,gin,Guinea,2016,27
+728,gin,Guinea,2015,25
+729,gin,Guinea,2014,25
+730,gin,Guinea,2013,24
+731,gin,Guinea,2012,24
+732,gmb,Gambia,2023,37
+733,gmb,Gambia,2022,34
+734,gmb,Gambia,2021,37
+735,gmb,Gambia,2020,37
+736,gmb,Gambia,2019,37
+737,gmb,Gambia,2018,37
+738,gmb,Gambia,2017,30
+739,gmb,Gambia,2016,26
+740,gmb,Gambia,2015,28
+741,gmb,Gambia,2014,29
+742,gmb,Gambia,2013,28
+743,gmb,Gambia,2012,34
+744,gnb,Guinea Bissau,2023,22
+745,gnb,Guinea Bissau,2022,21
+746,gnb,Guinea Bissau,2021,21
+747,gnb,Guinea Bissau,2020,19
+748,gnb,Guinea Bissau,2019,18
+749,gnb,Guinea Bissau,2018,16
+750,gnb,Guinea Bissau,2017,17
+751,gnb,Guinea Bissau,2016,16
+752,gnb,Guinea Bissau,2015,17
+753,gnb,Guinea Bissau,2014,19
+754,gnb,Guinea Bissau,2013,19
+755,gnb,Guinea Bissau,2012,25
+756,gnq,Equatorial Guinea,2023,17
+757,gnq,Equatorial Guinea,2022,17
+758,gnq,Equatorial Guinea,2021,17
+759,gnq,Equatorial Guinea,2020,16
+760,gnq,Equatorial Guinea,2019,16
+761,gnq,Equatorial Guinea,2018,16
+762,gnq,Equatorial Guinea,2017,17
+763,gnq,Equatorial Guinea,2016,0
+764,gnq,Equatorial Guinea,2015,0
+765,gnq,Equatorial Guinea,2014,0
+766,gnq,Equatorial Guinea,2013,19
+767,gnq,Equatorial Guinea,2012,20
+768,grc,Greece,2023,49
+769,grc,Greece,2022,52
+770,grc,Greece,2021,49
+771,grc,Greece,2020,50
+772,grc,Greece,2019,48
+773,grc,Greece,2018,45
+774,grc,Greece,2017,48
+775,grc,Greece,2016,44
+776,grc,Greece,2015,46
+777,grc,Greece,2014,43
+778,grc,Greece,2013,40
+779,grc,Greece,2012,36
+780,grd,Grenada,2023,53
+781,grd,Grenada,2022,52
+782,grd,Grenada,2021,53
+783,grd,Grenada,2020,53
+784,grd,Grenada,2019,53
+785,grd,Grenada,2018,52
+786,grd,Grenada,2017,52
+787,grd,Grenada,2016,56
+788,grd,Grenada,2015,0
+789,grd,Grenada,2014,0
+790,grd,Grenada,2013,0
+791,grd,Grenada,2012,0
+792,gtm,Guatemala,2023,23
+793,gtm,Guatemala,2022,24
+794,gtm,Guatemala,2021,25
+795,gtm,Guatemala,2020,25
+796,gtm,Guatemala,2019,26
+797,gtm,Guatemala,2018,27
+798,gtm,Guatemala,2017,28
+799,gtm,Guatemala,2016,28
+800,gtm,Guatemala,2015,28
+801,gtm,Guatemala,2014,32
+802,gtm,Guatemala,2013,29
+803,gtm,Guatemala,2012,33
+804,guy,Guyana,2023,40
+805,guy,Guyana,2022,40
+806,guy,Guyana,2021,39
+807,guy,Guyana,2020,41
+808,guy,Guyana,2019,40
+809,guy,Guyana,2018,37
+810,guy,Guyana,2017,38
+811,guy,Guyana,2016,34
+812,guy,Guyana,2015,29
+813,guy,Guyana,2014,30
+814,guy,Guyana,2013,27
+815,guy,Guyana,2012,28
+816,hnd,Honduras,2023,23
+817,hnd,Honduras,2022,23
+818,hnd,Honduras,2021,23
+819,hnd,Honduras,2020,24
+820,hnd,Honduras,2019,26
+821,hnd,Honduras,2018,29
+822,hnd,Honduras,2017,29
+823,hnd,Honduras,2016,30
+824,hnd,Honduras,2015,31
+825,hnd,Honduras,2014,29
+826,hnd,Honduras,2013,26
+827,hnd,Honduras,2012,28
+828,hrv,Croatia,2023,50
+829,hrv,Croatia,2022,50
+830,hrv,Croatia,2021,47
+831,hrv,Croatia,2020,47
+832,hrv,Croatia,2019,47
+833,hrv,Croatia,2018,48
+834,hrv,Croatia,2017,49
+835,hrv,Croatia,2016,49
+836,hrv,Croatia,2015,51
+837,hrv,Croatia,2014,48
+838,hrv,Croatia,2013,48
+839,hrv,Croatia,2012,46
+840,hti,Haiti,2023,17
+841,hti,Haiti,2022,17
+842,hti,Haiti,2021,20
+843,hti,Haiti,2020,18
+844,hti,Haiti,2019,18
+845,hti,Haiti,2018,20
+846,hti,Haiti,2017,22
+847,hti,Haiti,2016,20
+848,hti,Haiti,2015,17
+849,hti,Haiti,2014,19
+850,hti,Haiti,2013,19
+851,hti,Haiti,2012,19
+852,hun,Hungary,2023,42
+853,hun,Hungary,2022,42
+854,hun,Hungary,2021,43
+855,hun,Hungary,2020,44
+856,hun,Hungary,2019,44
+857,hun,Hungary,2018,46
+858,hun,Hungary,2017,45
+859,hun,Hungary,2016,48
+860,hun,Hungary,2015,51
+861,hun,Hungary,2014,54
+862,hun,Hungary,2013,54
+863,hun,Hungary,2012,55
+864,idn,Indonesia,2023,34
+865,idn,Indonesia,2022,34
+866,idn,Indonesia,2021,38
+867,idn,Indonesia,2020,37
+868,idn,Indonesia,2019,40
+869,idn,Indonesia,2018,38
+870,idn,Indonesia,2017,37
+871,idn,Indonesia,2016,37
+872,idn,Indonesia,2015,36
+873,idn,Indonesia,2014,34
+874,idn,Indonesia,2013,32
+875,idn,Indonesia,2012,32
+876,ind,India,2023,39
+877,ind,India,2022,40
+878,ind,India,2021,40
+879,ind,India,2020,40
+880,ind,India,2019,41
+881,ind,India,2018,41
+882,ind,India,2017,40
+883,ind,India,2016,40
+884,ind,India,2015,38
+885,ind,India,2014,38
+886,ind,India,2013,36
+887,ind,India,2012,36
+888,irl,Ireland,2023,77
+889,irl,Ireland,2022,77
+890,irl,Ireland,2021,74
+891,irl,Ireland,2020,72
+892,irl,Ireland,2019,74
+893,irl,Ireland,2018,73
+894,irl,Ireland,2017,74
+895,irl,Ireland,2016,73
+896,irl,Ireland,2015,75
+897,irl,Ireland,2014,74
+898,irl,Ireland,2013,72
+899,irl,Ireland,2012,69
+900,irn,Iran,2023,24
+901,irn,Iran,2022,25
+902,irn,Iran,2021,25
+903,irn,Iran,2020,25
+904,irn,Iran,2019,26
+905,irn,Iran,2018,28
+906,irn,Iran,2017,30
+907,irn,Iran,2016,29
+908,irn,Iran,2015,27
+909,irn,Iran,2014,27
+910,irn,Iran,2013,25
+911,irn,Iran,2012,28
+912,irq,Iraq,2023,23
+913,irq,Iraq,2022,23
+914,irq,Iraq,2021,23
+915,irq,Iraq,2020,21
+916,irq,Iraq,2019,20
+917,irq,Iraq,2018,18
+918,irq,Iraq,2017,18
+919,irq,Iraq,2016,17
+920,irq,Iraq,2015,16
+921,irq,Iraq,2014,16
+922,irq,Iraq,2013,16
+923,irq,Iraq,2012,18
+924,isl,Iceland,2023,72
+925,isl,Iceland,2022,74
+926,isl,Iceland,2021,74
+927,isl,Iceland,2020,75
+928,isl,Iceland,2019,78
+929,isl,Iceland,2018,76
+930,isl,Iceland,2017,77
+931,isl,Iceland,2016,78
+932,isl,Iceland,2015,79
+933,isl,Iceland,2014,79
+934,isl,Iceland,2013,78
+935,isl,Iceland,2012,82
+936,isr,Israel,2023,62
+937,isr,Israel,2022,63
+938,isr,Israel,2021,59
+939,isr,Israel,2020,60
+940,isr,Israel,2019,60
+941,isr,Israel,2018,61
+942,isr,Israel,2017,62
+943,isr,Israel,2016,64
+944,isr,Israel,2015,61
+945,isr,Israel,2014,60
+946,isr,Israel,2013,61
+947,isr,Israel,2012,60
+948,ita,Italy,2023,56
+949,ita,Italy,2022,56
+950,ita,Italy,2021,56
+951,ita,Italy,2020,53
+952,ita,Italy,2019,53
+953,ita,Italy,2018,52
+954,ita,Italy,2017,50
+955,ita,Italy,2016,47
+956,ita,Italy,2015,44
+957,ita,Italy,2014,43
+958,ita,Italy,2013,43
+959,ita,Italy,2012,42
+960,jam,Jamaica,2023,44
+961,jam,Jamaica,2022,44
+962,jam,Jamaica,2021,44
+963,jam,Jamaica,2020,44
+964,jam,Jamaica,2019,43
+965,jam,Jamaica,2018,44
+966,jam,Jamaica,2017,44
+967,jam,Jamaica,2016,39
+968,jam,Jamaica,2015,41
+969,jam,Jamaica,2014,38
+970,jam,Jamaica,2013,38
+971,jam,Jamaica,2012,38
+972,jor,Jordan,2023,46
+973,jor,Jordan,2022,47
+974,jor,Jordan,2021,49
+975,jor,Jordan,2020,49
+976,jor,Jordan,2019,48
+977,jor,Jordan,2018,49
+978,jor,Jordan,2017,48
+979,jor,Jordan,2016,48
+980,jor,Jordan,2015,53
+981,jor,Jordan,2014,49
+982,jor,Jordan,2013,45
+983,jor,Jordan,2012,48
+984,jpn,Japan,2023,73
+985,jpn,Japan,2022,73
+986,jpn,Japan,2021,73
+987,jpn,Japan,2020,74
+988,jpn,Japan,2019,73
+989,jpn,Japan,2018,73
+990,jpn,Japan,2017,73
+991,jpn,Japan,2016,72
+992,jpn,Japan,2015,75
+993,jpn,Japan,2014,76
+994,jpn,Japan,2013,74
+995,jpn,Japan,2012,74
+996,kaz,Kazakhstan,2023,39
+997,kaz,Kazakhstan,2022,36
+998,kaz,Kazakhstan,2021,37
+999,kaz,Kazakhstan,2020,38
+1000,kaz,Kazakhstan,2019,34
+1001,kaz,Kazakhstan,2018,31
+1002,kaz,Kazakhstan,2017,31
+1003,kaz,Kazakhstan,2016,29
+1004,kaz,Kazakhstan,2015,28
+1005,kaz,Kazakhstan,2014,29
+1006,kaz,Kazakhstan,2013,26
+1007,kaz,Kazakhstan,2012,28
+1008,ken,Kenya,2023,31
+1009,ken,Kenya,2022,32
+1010,ken,Kenya,2021,30
+1011,ken,Kenya,2020,31
+1012,ken,Kenya,2019,28
+1013,ken,Kenya,2018,27
+1014,ken,Kenya,2017,28
+1015,ken,Kenya,2016,26
+1016,ken,Kenya,2015,25
+1017,ken,Kenya,2014,25
+1018,ken,Kenya,2013,27
+1019,ken,Kenya,2012,27
+1020,kgz,Kyrgyzstan,2023,26
+1021,kgz,Kyrgyzstan,2022,27
+1022,kgz,Kyrgyzstan,2021,27
+1023,kgz,Kyrgyzstan,2020,31
+1024,kgz,Kyrgyzstan,2019,30
+1025,kgz,Kyrgyzstan,2018,29
+1026,kgz,Kyrgyzstan,2017,29
+1027,kgz,Kyrgyzstan,2016,28
+1028,kgz,Kyrgyzstan,2015,28
+1029,kgz,Kyrgyzstan,2014,27
+1030,kgz,Kyrgyzstan,2013,24
+1031,kgz,Kyrgyzstan,2012,24
+1032,khm,Cambodia,2023,22
+1033,khm,Cambodia,2022,24
+1034,khm,Cambodia,2021,23
+1035,khm,Cambodia,2020,21
+1036,khm,Cambodia,2019,20
+1037,khm,Cambodia,2018,20
+1038,khm,Cambodia,2017,21
+1039,khm,Cambodia,2016,21
+1040,khm,Cambodia,2015,21
+1041,khm,Cambodia,2014,21
+1042,khm,Cambodia,2013,20
+1043,khm,Cambodia,2012,22
+1044,kor,"Korea, South",2023,63
+1045,kor,"Korea, South",2022,63
+1046,kor,"Korea, South",2021,62
+1047,kor,"Korea, South",2020,61
+1048,kor,"Korea, South",2019,59
+1049,kor,"Korea, South",2018,57
+1050,kor,"Korea, South",2017,54
+1051,kor,"Korea, South",2016,53
+1052,kor,"Korea, South",2015,54
+1053,kor,"Korea, South",2014,55
+1054,kor,"Korea, South",2013,55
+1055,kor,"Korea, South",2012,56
+1056,kwt,Kuwait,2023,46
+1057,kwt,Kuwait,2022,42
+1058,kwt,Kuwait,2021,43
+1059,kwt,Kuwait,2020,42
+1060,kwt,Kuwait,2019,40
+1061,kwt,Kuwait,2018,41
+1062,kwt,Kuwait,2017,39
+1063,kwt,Kuwait,2016,41
+1064,kwt,Kuwait,2015,49
+1065,kwt,Kuwait,2014,44
+1066,kwt,Kuwait,2013,43
+1067,kwt,Kuwait,2012,44
+1068,lao,Laos,2023,28
+1069,lao,Laos,2022,31
+1070,lao,Laos,2021,30
+1071,lao,Laos,2020,29
+1072,lao,Laos,2019,29
+1073,lao,Laos,2018,29
+1074,lao,Laos,2017,29
+1075,lao,Laos,2016,30
+1076,lao,Laos,2015,25
+1077,lao,Laos,2014,25
+1078,lao,Laos,2013,26
+1079,lao,Laos,2012,21
+1080,lbn,Lebanon,2023,24
+1081,lbn,Lebanon,2022,24
+1082,lbn,Lebanon,2021,24
+1083,lbn,Lebanon,2020,25
+1084,lbn,Lebanon,2019,28
+1085,lbn,Lebanon,2018,28
+1086,lbn,Lebanon,2017,28
+1087,lbn,Lebanon,2016,28
+1088,lbn,Lebanon,2015,28
+1089,lbn,Lebanon,2014,27
+1090,lbn,Lebanon,2013,28
+1091,lbn,Lebanon,2012,30
+1092,lbr,Liberia,2023,25
+1093,lbr,Liberia,2022,26
+1094,lbr,Liberia,2021,29
+1095,lbr,Liberia,2020,28
+1096,lbr,Liberia,2019,28
+1097,lbr,Liberia,2018,32
+1098,lbr,Liberia,2017,31
+1099,lbr,Liberia,2016,37
+1100,lbr,Liberia,2015,37
+1101,lbr,Liberia,2014,37
+1102,lbr,Liberia,2013,38
+1103,lbr,Liberia,2012,41
+1104,lby,Libya,2023,18
+1105,lby,Libya,2022,17
+1106,lby,Libya,2021,17
+1107,lby,Libya,2020,17
+1108,lby,Libya,2019,18
+1109,lby,Libya,2018,17
+1110,lby,Libya,2017,17
+1111,lby,Libya,2016,14
+1112,lby,Libya,2015,16
+1113,lby,Libya,2014,18
+1114,lby,Libya,2013,15
+1115,lby,Libya,2012,21
+1116,lca,Saint Lucia,2023,55
+1117,lca,Saint Lucia,2022,55
+1118,lca,Saint Lucia,2021,56
+1119,lca,Saint Lucia,2020,56
+1120,lca,Saint Lucia,2019,55
+1121,lca,Saint Lucia,2018,55
+1122,lca,Saint Lucia,2017,55
+1123,lca,Saint Lucia,2016,60
+1124,lca,Saint Lucia,2015,0
+1125,lca,Saint Lucia,2014,71
+1126,lca,Saint Lucia,2013,71
+1127,lca,Saint Lucia,2012,71
+1128,lka,Sri Lanka,2023,34
+1129,lka,Sri Lanka,2022,36
+1130,lka,Sri Lanka,2021,37
+1131,lka,Sri Lanka,2020,38
+1132,lka,Sri Lanka,2019,38
+1133,lka,Sri Lanka,2018,38
+1134,lka,Sri Lanka,2017,38
+1135,lka,Sri Lanka,2016,36
+1136,lka,Sri Lanka,2015,37
+1137,lka,Sri Lanka,2014,38
+1138,lka,Sri Lanka,2013,37
+1139,lka,Sri Lanka,2012,40
+1140,lso,Lesotho,2023,39
+1141,lso,Lesotho,2022,37
+1142,lso,Lesotho,2021,38
+1143,lso,Lesotho,2020,41
+1144,lso,Lesotho,2019,40
+1145,lso,Lesotho,2018,41
+1146,lso,Lesotho,2017,42
+1147,lso,Lesotho,2016,39
+1148,lso,Lesotho,2015,44
+1149,lso,Lesotho,2014,49
+1150,lso,Lesotho,2013,49
+1151,lso,Lesotho,2012,45
+1152,ltu,Lithuania,2023,61
+1153,ltu,Lithuania,2022,62
+1154,ltu,Lithuania,2021,61
+1155,ltu,Lithuania,2020,60
+1156,ltu,Lithuania,2019,60
+1157,ltu,Lithuania,2018,59
+1158,ltu,Lithuania,2017,59
+1159,ltu,Lithuania,2016,59
+1160,ltu,Lithuania,2015,59
+1161,ltu,Lithuania,2014,58
+1162,ltu,Lithuania,2013,57
+1163,ltu,Lithuania,2012,54
+1164,lux,Luxembourg,2023,78
+1165,lux,Luxembourg,2022,77
+1166,lux,Luxembourg,2021,81
+1167,lux,Luxembourg,2020,80
+1168,lux,Luxembourg,2019,80
+1169,lux,Luxembourg,2018,81
+1170,lux,Luxembourg,2017,82
+1171,lux,Luxembourg,2016,81
+1172,lux,Luxembourg,2015,85
+1173,lux,Luxembourg,2014,82
+1174,lux,Luxembourg,2013,80
+1175,lux,Luxembourg,2012,80
+1176,lva,Latvia,2023,60
+1177,lva,Latvia,2022,59
+1178,lva,Latvia,2021,59
+1179,lva,Latvia,2020,57
+1180,lva,Latvia,2019,56
+1181,lva,Latvia,2018,58
+1182,lva,Latvia,2017,58
+1183,lva,Latvia,2016,57
+1184,lva,Latvia,2015,56
+1185,lva,Latvia,2014,55
+1186,lva,Latvia,2013,53
+1187,lva,Latvia,2012,49
+1188,mar,Morocco,2023,38
+1189,mar,Morocco,2022,38
+1190,mar,Morocco,2021,39
+1191,mar,Morocco,2020,40
+1192,mar,Morocco,2019,41
+1193,mar,Morocco,2018,43
+1194,mar,Morocco,2017,40
+1195,mar,Morocco,2016,37
+1196,mar,Morocco,2015,36
+1197,mar,Morocco,2014,39
+1198,mar,Morocco,2013,37
+1199,mar,Morocco,2012,37
+1200,mda,Moldova,2023,42
+1201,mda,Moldova,2022,39
+1202,mda,Moldova,2021,36
+1203,mda,Moldova,2020,34
+1204,mda,Moldova,2019,32
+1205,mda,Moldova,2018,33
+1206,mda,Moldova,2017,31
+1207,mda,Moldova,2016,30
+1208,mda,Moldova,2015,33
+1209,mda,Moldova,2014,35
+1210,mda,Moldova,2013,35
+1211,mda,Moldova,2012,36
+1212,mdg,Madagascar,2023,25
+1213,mdg,Madagascar,2022,26
+1214,mdg,Madagascar,2021,26
+1215,mdg,Madagascar,2020,25
+1216,mdg,Madagascar,2019,24
+1217,mdg,Madagascar,2018,25
+1218,mdg,Madagascar,2017,24
+1219,mdg,Madagascar,2016,26
+1220,mdg,Madagascar,2015,28
+1221,mdg,Madagascar,2014,28
+1222,mdg,Madagascar,2013,28
+1223,mdg,Madagascar,2012,32
+1224,mdv,Maldives,2023,39
+1225,mdv,Maldives,2022,40
+1226,mdv,Maldives,2021,40
+1227,mdv,Maldives,2020,43
+1228,mdv,Maldives,2019,29
+1229,mdv,Maldives,2018,31
+1230,mdv,Maldives,2017,33
+1231,mdv,Maldives,2016,36
+1232,mdv,Maldives,2015,0
+1233,mdv,Maldives,2014,0
+1234,mdv,Maldives,2013,0
+1235,mdv,Maldives,2012,0
+1236,mex,Mexico,2023,31
+1237,mex,Mexico,2022,31
+1238,mex,Mexico,2021,31
+1239,mex,Mexico,2020,31
+1240,mex,Mexico,2019,29
+1241,mex,Mexico,2018,28
+1242,mex,Mexico,2017,29
+1243,mex,Mexico,2016,30
+1244,mex,Mexico,2015,31
+1245,mex,Mexico,2014,35
+1246,mex,Mexico,2013,34
+1247,mex,Mexico,2012,34
+1248,mkd,North Macedonia,2023,42
+1249,mkd,North Macedonia,2022,40
+1250,mkd,North Macedonia,2021,39
+1251,mkd,North Macedonia,2020,35
+1252,mkd,North Macedonia,2019,35
+1253,mkd,North Macedonia,2018,37
+1254,mkd,North Macedonia,2017,35
+1255,mkd,North Macedonia,2016,37
+1256,mkd,North Macedonia,2015,42
+1257,mkd,North Macedonia,2014,45
+1258,mkd,North Macedonia,2013,44
+1259,mkd,North Macedonia,2012,43
+1260,mli,Mali,2023,28
+1261,mli,Mali,2022,28
+1262,mli,Mali,2021,29
+1263,mli,Mali,2020,30
+1264,mli,Mali,2019,29
+1265,mli,Mali,2018,32
+1266,mli,Mali,2017,31
+1267,mli,Mali,2016,32
+1268,mli,Mali,2015,35
+1269,mli,Mali,2014,32
+1270,mli,Mali,2013,28
+1271,mli,Mali,2012,34
+1272,mlt,Malta,2023,51
+1273,mlt,Malta,2022,51
+1274,mlt,Malta,2021,54
+1275,mlt,Malta,2020,53
+1276,mlt,Malta,2019,54
+1277,mlt,Malta,2018,54
+1278,mlt,Malta,2017,56
+1279,mlt,Malta,2016,55
+1280,mlt,Malta,2015,60
+1281,mlt,Malta,2014,55
+1282,mlt,Malta,2013,56
+1283,mlt,Malta,2012,57
+1284,mmr,Myanmar,2023,20
+1285,mmr,Myanmar,2022,23
+1286,mmr,Myanmar,2021,28
+1287,mmr,Myanmar,2020,28
+1288,mmr,Myanmar,2019,29
+1289,mmr,Myanmar,2018,29
+1290,mmr,Myanmar,2017,30
+1291,mmr,Myanmar,2016,28
+1292,mmr,Myanmar,2015,22
+1293,mmr,Myanmar,2014,21
+1294,mmr,Myanmar,2013,21
+1295,mmr,Myanmar,2012,15
+1296,mne,Montenegro,2023,46
+1297,mne,Montenegro,2022,45
+1298,mne,Montenegro,2021,46
+1299,mne,Montenegro,2020,45
+1300,mne,Montenegro,2019,45
+1301,mne,Montenegro,2018,45
+1302,mne,Montenegro,2017,46
+1303,mne,Montenegro,2016,45
+1304,mne,Montenegro,2015,44
+1305,mne,Montenegro,2014,42
+1306,mne,Montenegro,2013,44
+1307,mne,Montenegro,2012,41
+1308,mng,Mongolia,2023,33
+1309,mng,Mongolia,2022,33
+1310,mng,Mongolia,2021,35
+1311,mng,Mongolia,2020,35
+1312,mng,Mongolia,2019,35
+1313,mng,Mongolia,2018,37
+1314,mng,Mongolia,2017,36
+1315,mng,Mongolia,2016,38
+1316,mng,Mongolia,2015,39
+1317,mng,Mongolia,2014,39
+1318,mng,Mongolia,2013,38
+1319,mng,Mongolia,2012,36
+1320,moz,Mozambique,2023,25
+1321,moz,Mozambique,2022,26
+1322,moz,Mozambique,2021,26
+1323,moz,Mozambique,2020,25
+1324,moz,Mozambique,2019,26
+1325,moz,Mozambique,2018,23
+1326,moz,Mozambique,2017,25
+1327,moz,Mozambique,2016,27
+1328,moz,Mozambique,2015,31
+1329,moz,Mozambique,2014,31
+1330,moz,Mozambique,2013,30
+1331,moz,Mozambique,2012,31
+1332,mrt,Mauritania,2023,30
+1333,mrt,Mauritania,2022,30
+1334,mrt,Mauritania,2021,28
+1335,mrt,Mauritania,2020,29
+1336,mrt,Mauritania,2019,28
+1337,mrt,Mauritania,2018,27
+1338,mrt,Mauritania,2017,28
+1339,mrt,Mauritania,2016,27
+1340,mrt,Mauritania,2015,31
+1341,mrt,Mauritania,2014,30
+1342,mrt,Mauritania,2013,30
+1343,mrt,Mauritania,2012,31
+1344,mus,Mauritius,2023,51
+1345,mus,Mauritius,2022,50
+1346,mus,Mauritius,2021,54
+1347,mus,Mauritius,2020,53
+1348,mus,Mauritius,2019,52
+1349,mus,Mauritius,2018,51
+1350,mus,Mauritius,2017,50
+1351,mus,Mauritius,2016,54
+1352,mus,Mauritius,2015,53
+1353,mus,Mauritius,2014,54
+1354,mus,Mauritius,2013,52
+1355,mus,Mauritius,2012,57
+1356,mwi,Malawi,2023,34
+1357,mwi,Malawi,2022,34
+1358,mwi,Malawi,2021,35
+1359,mwi,Malawi,2020,30
+1360,mwi,Malawi,2019,31
+1361,mwi,Malawi,2018,32
+1362,mwi,Malawi,2017,31
+1363,mwi,Malawi,2016,31
+1364,mwi,Malawi,2015,31
+1365,mwi,Malawi,2014,33
+1366,mwi,Malawi,2013,37
+1367,mwi,Malawi,2012,37
+1368,mys,Malaysia,2023,50
+1369,mys,Malaysia,2022,47
+1370,mys,Malaysia,2021,48
+1371,mys,Malaysia,2020,51
+1372,mys,Malaysia,2019,53
+1373,mys,Malaysia,2018,47
+1374,mys,Malaysia,2017,47
+1375,mys,Malaysia,2016,49
+1376,mys,Malaysia,2015,50
+1377,mys,Malaysia,2014,52
+1378,mys,Malaysia,2013,50
+1379,mys,Malaysia,2012,49
+1380,nam,Namibia,2023,49
+1381,nam,Namibia,2022,49
+1382,nam,Namibia,2021,49
+1383,nam,Namibia,2020,51
+1384,nam,Namibia,2019,52
+1385,nam,Namibia,2018,53
+1386,nam,Namibia,2017,51
+1387,nam,Namibia,2016,52
+1388,nam,Namibia,2015,53
+1389,nam,Namibia,2014,49
+1390,nam,Namibia,2013,48
+1391,nam,Namibia,2012,48
+1392,ner,Niger,2023,32
+1393,ner,Niger,2022,32
+1394,ner,Niger,2021,31
+1395,ner,Niger,2020,32
+1396,ner,Niger,2019,32
+1397,ner,Niger,2018,34
+1398,ner,Niger,2017,33
+1399,ner,Niger,2016,35
+1400,ner,Niger,2015,34
+1401,ner,Niger,2014,35
+1402,ner,Niger,2013,34
+1403,ner,Niger,2012,33
+1404,nga,Nigeria,2023,25
+1405,nga,Nigeria,2022,24
+1406,nga,Nigeria,2021,24
+1407,nga,Nigeria,2020,25
+1408,nga,Nigeria,2019,26
+1409,nga,Nigeria,2018,27
+1410,nga,Nigeria,2017,27
+1411,nga,Nigeria,2016,28
+1412,nga,Nigeria,2015,26
+1413,nga,Nigeria,2014,27
+1414,nga,Nigeria,2013,25
+1415,nga,Nigeria,2012,27
+1416,nic,Nicaragua,2023,17
+1417,nic,Nicaragua,2022,19
+1418,nic,Nicaragua,2021,20
+1419,nic,Nicaragua,2020,22
+1420,nic,Nicaragua,2019,22
+1421,nic,Nicaragua,2018,25
+1422,nic,Nicaragua,2017,26
+1423,nic,Nicaragua,2016,26
+1424,nic,Nicaragua,2015,27
+1425,nic,Nicaragua,2014,28
+1426,nic,Nicaragua,2013,28
+1427,nic,Nicaragua,2012,29
+1428,nld,Netherlands,2023,79
+1429,nld,Netherlands,2022,80
+1430,nld,Netherlands,2021,82
+1431,nld,Netherlands,2020,82
+1432,nld,Netherlands,2019,82
+1433,nld,Netherlands,2018,82
+1434,nld,Netherlands,2017,82
+1435,nld,Netherlands,2016,83
+1436,nld,Netherlands,2015,84
+1437,nld,Netherlands,2014,83
+1438,nld,Netherlands,2013,83
+1439,nld,Netherlands,2012,84
+1440,nor,Norway,2023,84
+1441,nor,Norway,2022,84
+1442,nor,Norway,2021,85
+1443,nor,Norway,2020,84
+1444,nor,Norway,2019,84
+1445,nor,Norway,2018,84
+1446,nor,Norway,2017,85
+1447,nor,Norway,2016,85
+1448,nor,Norway,2015,88
+1449,nor,Norway,2014,86
+1450,nor,Norway,2013,86
+1451,nor,Norway,2012,85
+1452,npl,Nepal,2023,35
+1453,npl,Nepal,2022,34
+1454,npl,Nepal,2021,33
+1455,npl,Nepal,2020,33
+1456,npl,Nepal,2019,34
+1457,npl,Nepal,2018,31
+1458,npl,Nepal,2017,31
+1459,npl,Nepal,2016,29
+1460,npl,Nepal,2015,27
+1461,npl,Nepal,2014,29
+1462,npl,Nepal,2013,31
+1463,npl,Nepal,2012,27
+1464,nzl,New Zealand,2023,85
+1465,nzl,New Zealand,2022,87
+1466,nzl,New Zealand,2021,88
+1467,nzl,New Zealand,2020,88
+1468,nzl,New Zealand,2019,87
+1469,nzl,New Zealand,2018,87
+1470,nzl,New Zealand,2017,89
+1471,nzl,New Zealand,2016,90
+1472,nzl,New Zealand,2015,91
+1473,nzl,New Zealand,2014,91
+1474,nzl,New Zealand,2013,91
+1475,nzl,New Zealand,2012,90
+1476,omn,Oman,2023,43
+1477,omn,Oman,2022,44
+1478,omn,Oman,2021,52
+1479,omn,Oman,2020,54
+1480,omn,Oman,2019,52
+1481,omn,Oman,2018,52
+1482,omn,Oman,2017,44
+1483,omn,Oman,2016,45
+1484,omn,Oman,2015,45
+1485,omn,Oman,2014,45
+1486,omn,Oman,2013,47
+1487,omn,Oman,2012,47
+1488,pak,Pakistan,2023,29
+1489,pak,Pakistan,2022,27
+1490,pak,Pakistan,2021,28
+1491,pak,Pakistan,2020,31
+1492,pak,Pakistan,2019,32
+1493,pak,Pakistan,2018,33
+1494,pak,Pakistan,2017,32
+1495,pak,Pakistan,2016,32
+1496,pak,Pakistan,2015,30
+1497,pak,Pakistan,2014,29
+1498,pak,Pakistan,2013,28
+1499,pak,Pakistan,2012,27
+1500,pan,Panama,2023,35
+1501,pan,Panama,2022,36
+1502,pan,Panama,2021,36
+1503,pan,Panama,2020,35
+1504,pan,Panama,2019,36
+1505,pan,Panama,2018,37
+1506,pan,Panama,2017,37
+1507,pan,Panama,2016,38
+1508,pan,Panama,2015,39
+1509,pan,Panama,2014,37
+1510,pan,Panama,2013,35
+1511,pan,Panama,2012,38
+1512,per,Peru,2023,33
+1513,per,Peru,2022,36
+1514,per,Peru,2021,36
+1515,per,Peru,2020,38
+1516,per,Peru,2019,36
+1517,per,Peru,2018,35
+1518,per,Peru,2017,37
+1519,per,Peru,2016,35
+1520,per,Peru,2015,36
+1521,per,Peru,2014,38
+1522,per,Peru,2013,38
+1523,per,Peru,2012,38
+1524,phl,Philippines,2023,34
+1525,phl,Philippines,2022,33
+1526,phl,Philippines,2021,33
+1527,phl,Philippines,2020,34
+1528,phl,Philippines,2019,34
+1529,phl,Philippines,2018,36
+1530,phl,Philippines,2017,34
+1531,phl,Philippines,2016,35
+1532,phl,Philippines,2015,35
+1533,phl,Philippines,2014,38
+1534,phl,Philippines,2013,36
+1535,phl,Philippines,2012,34
+1536,png,Papua New Guinea,2023,29
+1537,png,Papua New Guinea,2022,30
+1538,png,Papua New Guinea,2021,31
+1539,png,Papua New Guinea,2020,27
+1540,png,Papua New Guinea,2019,28
+1541,png,Papua New Guinea,2018,28
+1542,png,Papua New Guinea,2017,29
+1543,png,Papua New Guinea,2016,28
+1544,png,Papua New Guinea,2015,25
+1545,png,Papua New Guinea,2014,25
+1546,png,Papua New Guinea,2013,25
+1547,png,Papua New Guinea,2012,25
+1548,pol,Poland,2023,54
+1549,pol,Poland,2022,55
+1550,pol,Poland,2021,56
+1551,pol,Poland,2020,56
+1552,pol,Poland,2019,58
+1553,pol,Poland,2018,60
+1554,pol,Poland,2017,60
+1555,pol,Poland,2016,62
+1556,pol,Poland,2015,63
+1557,pol,Poland,2014,61
+1558,pol,Poland,2013,60
+1559,pol,Poland,2012,58
+1560,prk,"Korea, North",2023,17
+1561,prk,"Korea, North",2022,17
+1562,prk,"Korea, North",2021,16
+1563,prk,"Korea, North",2020,18
+1564,prk,"Korea, North",2019,17
+1565,prk,"Korea, North",2018,14
+1566,prk,"Korea, North",2017,17
+1567,prk,"Korea, North",2016,12
+1568,prk,"Korea, North",2015,8
+1569,prk,"Korea, North",2014,8
+1570,prk,"Korea, North",2013,8
+1571,prk,"Korea, North",2012,8
+1572,prt,Portugal,2023,61
+1573,prt,Portugal,2022,62
+1574,prt,Portugal,2021,62
+1575,prt,Portugal,2020,61
+1576,prt,Portugal,2019,62
+1577,prt,Portugal,2018,64
+1578,prt,Portugal,2017,63
+1579,prt,Portugal,2016,62
+1580,prt,Portugal,2015,64
+1581,prt,Portugal,2014,63
+1582,prt,Portugal,2013,62
+1583,prt,Portugal,2012,63
+1584,pry,Paraguay,2023,28
+1585,pry,Paraguay,2022,28
+1586,pry,Paraguay,2021,30
+1587,pry,Paraguay,2020,28
+1588,pry,Paraguay,2019,28
+1589,pry,Paraguay,2018,29
+1590,pry,Paraguay,2017,29
+1591,pry,Paraguay,2016,30
+1592,pry,Paraguay,2015,27
+1593,pry,Paraguay,2014,24
+1594,pry,Paraguay,2013,24
+1595,pry,Paraguay,2012,25
+1596,qat,Qatar,2023,58
+1597,qat,Qatar,2022,58
+1598,qat,Qatar,2021,63
+1599,qat,Qatar,2020,63
+1600,qat,Qatar,2019,62
+1601,qat,Qatar,2018,62
+1602,qat,Qatar,2017,63
+1603,qat,Qatar,2016,61
+1604,qat,Qatar,2015,71
+1605,qat,Qatar,2014,69
+1606,qat,Qatar,2013,68
+1607,qat,Qatar,2012,68
+1608,rou,Romania,2023,46
+1609,rou,Romania,2022,46
+1610,rou,Romania,2021,45
+1611,rou,Romania,2020,44
+1612,rou,Romania,2019,44
+1613,rou,Romania,2018,47
+1614,rou,Romania,2017,48
+1615,rou,Romania,2016,48
+1616,rou,Romania,2015,46
+1617,rou,Romania,2014,43
+1618,rou,Romania,2013,43
+1619,rou,Romania,2012,44
+1620,rus,Russia,2023,26
+1621,rus,Russia,2022,28
+1622,rus,Russia,2021,29
+1623,rus,Russia,2020,30
+1624,rus,Russia,2019,28
+1625,rus,Russia,2018,28
+1626,rus,Russia,2017,29
+1627,rus,Russia,2016,29
+1628,rus,Russia,2015,29
+1629,rus,Russia,2014,27
+1630,rus,Russia,2013,28
+1631,rus,Russia,2012,28
+1632,rwa,Rwanda,2023,53
+1633,rwa,Rwanda,2022,51
+1634,rwa,Rwanda,2021,53
+1635,rwa,Rwanda,2020,54
+1636,rwa,Rwanda,2019,53
+1637,rwa,Rwanda,2018,56
+1638,rwa,Rwanda,2017,55
+1639,rwa,Rwanda,2016,54
+1640,rwa,Rwanda,2015,54
+1641,rwa,Rwanda,2014,49
+1642,rwa,Rwanda,2013,53
+1643,rwa,Rwanda,2012,53
+1644,sau,Saudi Arabia,2023,52
+1645,sau,Saudi Arabia,2022,51
+1646,sau,Saudi Arabia,2021,53
+1647,sau,Saudi Arabia,2020,53
+1648,sau,Saudi Arabia,2019,53
+1649,sau,Saudi Arabia,2018,49
+1650,sau,Saudi Arabia,2017,49
+1651,sau,Saudi Arabia,2016,46
+1652,sau,Saudi Arabia,2015,52
+1653,sau,Saudi Arabia,2014,49
+1654,sau,Saudi Arabia,2013,46
+1655,sau,Saudi Arabia,2012,44
+1656,sdn,Sudan,2023,20
+1657,sdn,Sudan,2022,22
+1658,sdn,Sudan,2021,20
+1659,sdn,Sudan,2020,16
+1660,sdn,Sudan,2019,16
+1661,sdn,Sudan,2018,16
+1662,sdn,Sudan,2017,16
+1663,sdn,Sudan,2016,14
+1664,sdn,Sudan,2015,12
+1665,sdn,Sudan,2014,11
+1666,sdn,Sudan,2013,11
+1667,sdn,Sudan,2012,13
+1668,sen,Senegal,2023,43
+1669,sen,Senegal,2022,43
+1670,sen,Senegal,2021,43
+1671,sen,Senegal,2020,45
+1672,sen,Senegal,2019,45
+1673,sen,Senegal,2018,45
+1674,sen,Senegal,2017,45
+1675,sen,Senegal,2016,45
+1676,sen,Senegal,2015,44
+1677,sen,Senegal,2014,43
+1678,sen,Senegal,2013,41
+1679,sen,Senegal,2012,36
+1680,sgp,Singapore,2023,83
+1681,sgp,Singapore,2022,83
+1682,sgp,Singapore,2021,85
+1683,sgp,Singapore,2020,85
+1684,sgp,Singapore,2019,85
+1685,sgp,Singapore,2018,85
+1686,sgp,Singapore,2017,84
+1687,sgp,Singapore,2016,84
+1688,sgp,Singapore,2015,85
+1689,sgp,Singapore,2014,84
+1690,sgp,Singapore,2013,86
+1691,sgp,Singapore,2012,87
+1692,slb,Solomon Islands,2023,43
+1693,slb,Solomon Islands,2022,42
+1694,slb,Solomon Islands,2021,43
+1695,slb,Solomon Islands,2020,42
+1696,slb,Solomon Islands,2019,42
+1697,slb,Solomon Islands,2018,44
+1698,slb,Solomon Islands,2017,39
+1699,slb,Solomon Islands,2016,42
+1700,slb,Solomon Islands,2015,0
+1701,slb,Solomon Islands,2014,0
+1702,slb,Solomon Islands,2013,0
+1703,slb,Solomon Islands,2012,0
+1704,sle,Sierra Leone,2023,35
+1705,sle,Sierra Leone,2022,34
+1706,sle,Sierra Leone,2021,34
+1707,sle,Sierra Leone,2020,33
+1708,sle,Sierra Leone,2019,33
+1709,sle,Sierra Leone,2018,30
+1710,sle,Sierra Leone,2017,30
+1711,sle,Sierra Leone,2016,30
+1712,sle,Sierra Leone,2015,29
+1713,sle,Sierra Leone,2014,31
+1714,sle,Sierra Leone,2013,30
+1715,sle,Sierra Leone,2012,31
+1716,slv,El Salvador,2023,31
+1717,slv,El Salvador,2022,33
+1718,slv,El Salvador,2021,34
+1719,slv,El Salvador,2020,36
+1720,slv,El Salvador,2019,34
+1721,slv,El Salvador,2018,35
+1722,slv,El Salvador,2017,33
+1723,slv,El Salvador,2016,36
+1724,slv,El Salvador,2015,39
+1725,slv,El Salvador,2014,39
+1726,slv,El Salvador,2013,38
+1727,slv,El Salvador,2012,38
+1728,som,Somalia,2023,11
+1729,som,Somalia,2022,12
+1730,som,Somalia,2021,13
+1731,som,Somalia,2020,12
+1732,som,Somalia,2019,9
+1733,som,Somalia,2018,10
+1734,som,Somalia,2017,9
+1735,som,Somalia,2016,10
+1736,som,Somalia,2015,8
+1737,som,Somalia,2014,8
+1738,som,Somalia,2013,8
+1739,som,Somalia,2012,8
+1740,srb,Serbia,2023,36
+1741,srb,Serbia,2022,36
+1742,srb,Serbia,2021,38
+1743,srb,Serbia,2020,38
+1744,srb,Serbia,2019,39
+1745,srb,Serbia,2018,39
+1746,srb,Serbia,2017,41
+1747,srb,Serbia,2016,42
+1748,srb,Serbia,2015,40
+1749,srb,Serbia,2014,41
+1750,srb,Serbia,2013,42
+1751,srb,Serbia,2012,39
+1752,ssd,South Sudan,2023,13
+1753,ssd,South Sudan,2022,13
+1754,ssd,South Sudan,2021,11
+1755,ssd,South Sudan,2020,12
+1756,ssd,South Sudan,2019,12
+1757,ssd,South Sudan,2018,13
+1758,ssd,South Sudan,2017,12
+1759,ssd,South Sudan,2016,11
+1760,ssd,South Sudan,2015,15
+1761,ssd,South Sudan,2014,15
+1762,ssd,South Sudan,2013,14
+1763,ssd,South Sudan,2012,0
+1764,stp,Sao Tome and Principe,2023,45
+1765,stp,Sao Tome and Principe,2022,45
+1766,stp,Sao Tome and Principe,2021,45
+1767,stp,Sao Tome and Principe,2020,47
+1768,stp,Sao Tome and Principe,2019,46
+1769,stp,Sao Tome and Principe,2018,46
+1770,stp,Sao Tome and Principe,2017,46
+1771,stp,Sao Tome and Principe,2016,46
+1772,stp,Sao Tome and Principe,2015,42
+1773,stp,Sao Tome and Principe,2014,42
+1774,stp,Sao Tome and Principe,2013,42
+1775,stp,Sao Tome and Principe,2012,42
+1776,sur,Suriname,2023,40
+1777,sur,Suriname,2022,40
+1778,sur,Suriname,2021,39
+1779,sur,Suriname,2020,38
+1780,sur,Suriname,2019,44
+1781,sur,Suriname,2018,43
+1782,sur,Suriname,2017,41
+1783,sur,Suriname,2016,45
+1784,sur,Suriname,2015,36
+1785,sur,Suriname,2014,36
+1786,sur,Suriname,2013,36
+1787,sur,Suriname,2012,37
+1788,svk,Slovakia,2023,54
+1789,svk,Slovakia,2022,53
+1790,svk,Slovakia,2021,52
+1791,svk,Slovakia,2020,49
+1792,svk,Slovakia,2019,50
+1793,svk,Slovakia,2018,50
+1794,svk,Slovakia,2017,50
+1795,svk,Slovakia,2016,51
+1796,svk,Slovakia,2015,51
+1797,svk,Slovakia,2014,50
+1798,svk,Slovakia,2013,47
+1799,svk,Slovakia,2012,46
+1800,svn,Slovenia,2023,56
+1801,svn,Slovenia,2022,56
+1802,svn,Slovenia,2021,57
+1803,svn,Slovenia,2020,60
+1804,svn,Slovenia,2019,60
+1805,svn,Slovenia,2018,60
+1806,svn,Slovenia,2017,61
+1807,svn,Slovenia,2016,61
+1808,svn,Slovenia,2015,60
+1809,svn,Slovenia,2014,58
+1810,svn,Slovenia,2013,57
+1811,svn,Slovenia,2012,61
+1812,swe,Sweden,2023,82
+1813,swe,Sweden,2022,83
+1814,swe,Sweden,2021,85
+1815,swe,Sweden,2020,85
+1816,swe,Sweden,2019,85
+1817,swe,Sweden,2018,85
+1818,swe,Sweden,2017,84
+1819,swe,Sweden,2016,88
+1820,swe,Sweden,2015,89
+1821,swe,Sweden,2014,87
+1822,swe,Sweden,2013,89
+1823,swe,Sweden,2012,88
+1824,swz,Eswatini,2023,30
+1825,swz,Eswatini,2022,30
+1826,swz,Eswatini,2021,32
+1827,swz,Eswatini,2020,33
+1828,swz,Eswatini,2019,34
+1829,swz,Eswatini,2018,38
+1830,swz,Eswatini,2017,39
+1831,swz,Eswatini,2016,0
+1832,swz,Eswatini,2015,0
+1833,swz,Eswatini,2014,43
+1834,swz,Eswatini,2013,39
+1835,swz,Eswatini,2012,37
+1836,syc,Seychelles,2023,71
+1837,syc,Seychelles,2022,70
+1838,syc,Seychelles,2021,70
+1839,syc,Seychelles,2020,66
+1840,syc,Seychelles,2019,66
+1841,syc,Seychelles,2018,66
+1842,syc,Seychelles,2017,60
+1843,syc,Seychelles,2016,0
+1844,syc,Seychelles,2015,55
+1845,syc,Seychelles,2014,55
+1846,syc,Seychelles,2013,54
+1847,syc,Seychelles,2012,52
+1848,syr,Syria,2023,13
+1849,syr,Syria,2022,13
+1850,syr,Syria,2021,13
+1851,syr,Syria,2020,14
+1852,syr,Syria,2019,13
+1853,syr,Syria,2018,13
+1854,syr,Syria,2017,14
+1855,syr,Syria,2016,13
+1856,syr,Syria,2015,18
+1857,syr,Syria,2014,20
+1858,syr,Syria,2013,17
+1859,syr,Syria,2012,26
+1860,tcd,Chad,2023,20
+1861,tcd,Chad,2022,19
+1862,tcd,Chad,2021,20
+1863,tcd,Chad,2020,21
+1864,tcd,Chad,2019,20
+1865,tcd,Chad,2018,19
+1866,tcd,Chad,2017,20
+1867,tcd,Chad,2016,20
+1868,tcd,Chad,2015,22
+1869,tcd,Chad,2014,22
+1870,tcd,Chad,2013,19
+1871,tcd,Chad,2012,19
+1872,tgo,Togo,2023,31
+1873,tgo,Togo,2022,30
+1874,tgo,Togo,2021,30
+1875,tgo,Togo,2020,29
+1876,tgo,Togo,2019,29
+1877,tgo,Togo,2018,30
+1878,tgo,Togo,2017,32
+1879,tgo,Togo,2016,32
+1880,tgo,Togo,2015,32
+1881,tgo,Togo,2014,29
+1882,tgo,Togo,2013,29
+1883,tgo,Togo,2012,30
+1884,tha,Thailand,2023,35
+1885,tha,Thailand,2022,36
+1886,tha,Thailand,2021,35
+1887,tha,Thailand,2020,36
+1888,tha,Thailand,2019,36
+1889,tha,Thailand,2018,36
+1890,tha,Thailand,2017,37
+1891,tha,Thailand,2016,35
+1892,tha,Thailand,2015,38
+1893,tha,Thailand,2014,38
+1894,tha,Thailand,2013,35
+1895,tha,Thailand,2012,37
+1896,tjk,Tajikistan,2023,20
+1897,tjk,Tajikistan,2022,24
+1898,tjk,Tajikistan,2021,25
+1899,tjk,Tajikistan,2020,25
+1900,tjk,Tajikistan,2019,25
+1901,tjk,Tajikistan,2018,25
+1902,tjk,Tajikistan,2017,21
+1903,tjk,Tajikistan,2016,25
+1904,tjk,Tajikistan,2015,26
+1905,tjk,Tajikistan,2014,23
+1906,tjk,Tajikistan,2013,22
+1907,tjk,Tajikistan,2012,22
+1908,tkm,Turkmenistan,2023,18
+1909,tkm,Turkmenistan,2022,19
+1910,tkm,Turkmenistan,2021,19
+1911,tkm,Turkmenistan,2020,19
+1912,tkm,Turkmenistan,2019,19
+1913,tkm,Turkmenistan,2018,20
+1914,tkm,Turkmenistan,2017,19
+1915,tkm,Turkmenistan,2016,22
+1916,tkm,Turkmenistan,2015,18
+1917,tkm,Turkmenistan,2014,17
+1918,tkm,Turkmenistan,2013,17
+1919,tkm,Turkmenistan,2012,17
+1920,tls,Timor-Leste,2023,43
+1921,tls,Timor-Leste,2022,42
+1922,tls,Timor-Leste,2021,41
+1923,tls,Timor-Leste,2020,40
+1924,tls,Timor-Leste,2019,38
+1925,tls,Timor-Leste,2018,35
+1926,tls,Timor-Leste,2017,38
+1927,tls,Timor-Leste,2016,35
+1928,tls,Timor-Leste,2015,28
+1929,tls,Timor-Leste,2014,28
+1930,tls,Timor-Leste,2013,30
+1931,tls,Timor-Leste,2012,33
+1932,tto,Trinidad and Tobago,2023,42
+1933,tto,Trinidad and Tobago,2022,42
+1934,tto,Trinidad and Tobago,2021,41
+1935,tto,Trinidad and Tobago,2020,40
+1936,tto,Trinidad and Tobago,2019,40
+1937,tto,Trinidad and Tobago,2018,41
+1938,tto,Trinidad and Tobago,2017,41
+1939,tto,Trinidad and Tobago,2016,35
+1940,tto,Trinidad and Tobago,2015,39
+1941,tto,Trinidad and Tobago,2014,38
+1942,tto,Trinidad and Tobago,2013,38
+1943,tto,Trinidad and Tobago,2012,39
+1944,tun,Tunisia,2023,40
+1945,tun,Tunisia,2022,40
+1946,tun,Tunisia,2021,44
+1947,tun,Tunisia,2020,44
+1948,tun,Tunisia,2019,43
+1949,tun,Tunisia,2018,43
+1950,tun,Tunisia,2017,42
+1951,tun,Tunisia,2016,41
+1952,tun,Tunisia,2015,38
+1953,tun,Tunisia,2014,40
+1954,tun,Tunisia,2013,41
+1955,tun,Tunisia,2012,41
+1956,tur,Turkey,2023,34
+1957,tur,Turkey,2022,36
+1958,tur,Turkey,2021,38
+1959,tur,Turkey,2020,40
+1960,tur,Turkey,2019,39
+1961,tur,Turkey,2018,41
+1962,tur,Turkey,2017,40
+1963,tur,Turkey,2016,41
+1964,tur,Turkey,2015,42
+1965,tur,Turkey,2014,45
+1966,tur,Turkey,2013,50
+1967,tur,Turkey,2012,49
+1968,tza,Tanzania,2023,40
+1969,tza,Tanzania,2022,38
+1970,tza,Tanzania,2021,39
+1971,tza,Tanzania,2020,38
+1972,tza,Tanzania,2019,37
+1973,tza,Tanzania,2018,36
+1974,tza,Tanzania,2017,36
+1975,tza,Tanzania,2016,32
+1976,tza,Tanzania,2015,30
+1977,tza,Tanzania,2014,31
+1978,tza,Tanzania,2013,33
+1979,tza,Tanzania,2012,35
+1980,uga,Uganda,2023,26
+1981,uga,Uganda,2022,26
+1982,uga,Uganda,2021,27
+1983,uga,Uganda,2020,27
+1984,uga,Uganda,2019,28
+1985,uga,Uganda,2018,26
+1986,uga,Uganda,2017,26
+1987,uga,Uganda,2016,25
+1988,uga,Uganda,2015,25
+1989,uga,Uganda,2014,26
+1990,uga,Uganda,2013,26
+1991,uga,Uganda,2012,29
+1992,ukr,Ukraine,2023,36
+1993,ukr,Ukraine,2022,33
+1994,ukr,Ukraine,2021,32
+1995,ukr,Ukraine,2020,33
+1996,ukr,Ukraine,2019,30
+1997,ukr,Ukraine,2018,32
+1998,ukr,Ukraine,2017,30
+1999,ukr,Ukraine,2016,29
+2000,ukr,Ukraine,2015,27
+2001,ukr,Ukraine,2014,26
+2002,ukr,Ukraine,2013,25
+2003,ukr,Ukraine,2012,26
+2004,ury,Uruguay,2023,73
+2005,ury,Uruguay,2022,74
+2006,ury,Uruguay,2021,73
+2007,ury,Uruguay,2020,71
+2008,ury,Uruguay,2019,71
+2009,ury,Uruguay,2018,70
+2010,ury,Uruguay,2017,70
+2011,ury,Uruguay,2016,71
+2012,ury,Uruguay,2015,74
+2013,ury,Uruguay,2014,73
+2014,ury,Uruguay,2013,73
+2015,ury,Uruguay,2012,72
+2016,usa,United States of America,2023,69
+2017,usa,United States of America,2022,69
+2018,usa,United States of America,2021,67
+2019,usa,United States of America,2020,67
+2020,usa,United States of America,2019,69
+2021,usa,United States of America,2018,71
+2022,usa,United States of America,2017,75
+2023,usa,United States of America,2016,74
+2024,usa,United States of America,2015,76
+2025,usa,United States of America,2014,74
+2026,usa,United States of America,2013,73
+2027,usa,United States of America,2012,73
+2028,uzb,Uzbekistan,2023,33
+2029,uzb,Uzbekistan,2022,31
+2030,uzb,Uzbekistan,2021,28
+2031,uzb,Uzbekistan,2020,26
+2032,uzb,Uzbekistan,2019,25
+2033,uzb,Uzbekistan,2018,23
+2034,uzb,Uzbekistan,2017,22
+2035,uzb,Uzbekistan,2016,21
+2036,uzb,Uzbekistan,2015,19
+2037,uzb,Uzbekistan,2014,18
+2038,uzb,Uzbekistan,2013,17
+2039,uzb,Uzbekistan,2012,17
+2040,vct,Saint Vincent and the Grenadines,2023,60
+2041,vct,Saint Vincent and the Grenadines,2022,60
+2042,vct,Saint Vincent and the Grenadines,2021,59
+2043,vct,Saint Vincent and the Grenadines,2020,59
+2044,vct,Saint Vincent and the Grenadines,2019,59
+2045,vct,Saint Vincent and the Grenadines,2018,58
+2046,vct,Saint Vincent and the Grenadines,2017,58
+2047,vct,Saint Vincent and the Grenadines,2016,60
+2048,vct,Saint Vincent and the Grenadines,2015,0
+2049,vct,Saint Vincent and the Grenadines,2014,62
+2050,vct,Saint Vincent and the Grenadines,2013,62
+2051,vct,Saint Vincent and the Grenadines,2012,62
+2052,ven,Venezuela,2023,13
+2053,ven,Venezuela,2022,14
+2054,ven,Venezuela,2021,14
+2055,ven,Venezuela,2020,15
+2056,ven,Venezuela,2019,16
+2057,ven,Venezuela,2018,18
+2058,ven,Venezuela,2017,18
+2059,ven,Venezuela,2016,17
+2060,ven,Venezuela,2015,17
+2061,ven,Venezuela,2014,19
+2062,ven,Venezuela,2013,20
+2063,ven,Venezuela,2012,19
+2064,vnm,Vietnam,2023,41
+2065,vnm,Vietnam,2022,42
+2066,vnm,Vietnam,2021,39
+2067,vnm,Vietnam,2020,36
+2068,vnm,Vietnam,2019,37
+2069,vnm,Vietnam,2018,33
+2070,vnm,Vietnam,2017,35
+2071,vnm,Vietnam,2016,33
+2072,vnm,Vietnam,2015,31
+2073,vnm,Vietnam,2014,31
+2074,vnm,Vietnam,2013,31
+2075,vnm,Vietnam,2012,31
+2076,vut,Vanuatu,2023,48
+2077,vut,Vanuatu,2022,48
+2078,vut,Vanuatu,2021,45
+2079,vut,Vanuatu,2020,43
+2080,vut,Vanuatu,2019,46
+2081,vut,Vanuatu,2018,46
+2082,vut,Vanuatu,2017,43
+2083,vut,Vanuatu,2016,0
+2084,vut,Vanuatu,2015,0
+2085,vut,Vanuatu,2014,0
+2086,vut,Vanuatu,2013,0
+2087,vut,Vanuatu,2012,0
+2088,yem,Yemen,2023,16
+2089,yem,Yemen,2022,16
+2090,yem,Yemen,2021,16
+2091,yem,Yemen,2020,15
+2092,yem,Yemen,2019,15
+2093,yem,Yemen,2018,14
+2094,yem,Yemen,2017,16
+2095,yem,Yemen,2016,14
+2096,yem,Yemen,2015,18
+2097,yem,Yemen,2014,19
+2098,yem,Yemen,2013,18
+2099,yem,Yemen,2012,23
+2100,zaf,South Africa,2023,41
+2101,zaf,South Africa,2022,43
+2102,zaf,South Africa,2021,44
+2103,zaf,South Africa,2020,44
+2104,zaf,South Africa,2019,44
+2105,zaf,South Africa,2018,43
+2106,zaf,South Africa,2017,43
+2107,zaf,South Africa,2016,45
+2108,zaf,South Africa,2015,44
+2109,zaf,South Africa,2014,44
+2110,zaf,South Africa,2013,42
+2111,zaf,South Africa,2012,43
+2112,zmb,Zambia,2023,37
+2113,zmb,Zambia,2022,33
+2114,zmb,Zambia,2021,33
+2115,zmb,Zambia,2020,33
+2116,zmb,Zambia,2019,34
+2117,zmb,Zambia,2018,35
+2118,zmb,Zambia,2017,37
+2119,zmb,Zambia,2016,38
+2120,zmb,Zambia,2015,38
+2121,zmb,Zambia,2014,38
+2122,zmb,Zambia,2013,38
+2123,zmb,Zambia,2012,37
+2124,zwe,Zimbabwe,2023,24
+2125,zwe,Zimbabwe,2022,23
+2126,zwe,Zimbabwe,2021,23
+2127,zwe,Zimbabwe,2020,24
+2128,zwe,Zimbabwe,2019,24
+2129,zwe,Zimbabwe,2018,22
+2130,zwe,Zimbabwe,2017,22
+2131,zwe,Zimbabwe,2016,22
+2132,zwe,Zimbabwe,2015,21
+2133,zwe,Zimbabwe,2014,21
+2134,zwe,Zimbabwe,2013,21
+2135,zwe,Zimbabwe,2012,20
