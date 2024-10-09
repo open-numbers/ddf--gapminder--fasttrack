@@ -4,8 +4,8 @@ africa,1993,8
 africa,1994,9
 africa,1995,48
 africa,1996,27
-africa,1997,34
-africa,1998,38
+africa,1997,33
+africa,1998,37
 africa,1999,16
 africa,2000,17
 africa,2001,23
@@ -30,6 +30,7 @@ africa,2019,78
 africa,2020,87
 africa,2021,80
 africa,2022,56
+africa,2023,67
 americas,1992,6
 americas,1993,8
 americas,1994,11
@@ -61,6 +62,7 @@ americas,2019,3
 americas,2020,0
 americas,2021,6
 americas,2022,4
+americas,2023,3
 asia,1992,92
 asia,1993,90
 asia,1994,85
@@ -90,8 +92,9 @@ asia,2017,104
 asia,2018,104
 asia,2019,117
 asia,2020,131
-asia,2021,160
-asia,2022,214
+asia,2021,162
+asia,2022,216
+asia,2023,165
 europe,1992,3
 europe,1993,19
 europe,1994,68
@@ -120,6 +123,7 @@ europe,2016,94
 europe,2017,89
 europe,2018,84
 europe,2019,62
-europe,2020,64
-europe,2021,53
-europe,2022,88
+europe,2020,65
+europe,2021,54
+europe,2022,91
+europe,2023,68
