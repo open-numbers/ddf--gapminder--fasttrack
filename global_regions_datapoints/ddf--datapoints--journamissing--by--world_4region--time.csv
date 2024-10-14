@@ -30,6 +30,7 @@ africa,2019,15
 africa,2020,16
 africa,2021,16
 africa,2022,16
+africa,2023,16
 americas,1992,0
 americas,1993,0
 americas,1994,0
@@ -61,6 +62,7 @@ americas,2019,15
 americas,2020,15
 americas,2021,16
 americas,2022,16
+americas,2023,17
 asia,1992,1
 asia,1993,1
 asia,1994,1
@@ -92,6 +94,7 @@ asia,2019,22
 asia,2020,22
 asia,2021,22
 asia,2022,22
+asia,2023,22
 europe,1992,0
 europe,1993,0
 europe,1994,0
@@ -123,3 +126,4 @@ europe,2019,8
 europe,2020,8
 europe,2021,8
 europe,2022,8
+europe,2023,8

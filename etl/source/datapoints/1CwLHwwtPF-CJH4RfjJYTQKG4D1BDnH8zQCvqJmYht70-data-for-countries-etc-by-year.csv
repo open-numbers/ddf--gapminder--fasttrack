@@ -199,7 +199,7 @@
 197,bhs,Bahamas,2018,65
 198,bhs,Bahamas,2017,65
 199,bhs,Bahamas,2016,66
-200,bhs,Bahamas,2015,0
+200,bhs,Bahamas,2015,
 201,bhs,Bahamas,2014,71
 202,bhs,Bahamas,2013,71
 203,bhs,Bahamas,2012,71
@@ -259,20 +259,20 @@
 257,brb,Barbados,2018,68
 258,brb,Barbados,2017,68
 259,brb,Barbados,2016,61
-260,brb,Barbados,2015,0
+260,brb,Barbados,2015,
 261,brb,Barbados,2014,74
 262,brb,Barbados,2013,75
 263,brb,Barbados,2012,76
-264,brn,Brunei Darussalam,2023,0
-265,brn,Brunei Darussalam,2022,0
-266,brn,Brunei Darussalam,2021,0
+264,brn,Brunei Darussalam,2023,
+265,brn,Brunei Darussalam,2022,
+266,brn,Brunei Darussalam,2021,
 267,brn,Brunei Darussalam,2020,60
 268,brn,Brunei Darussalam,2019,60
 269,brn,Brunei Darussalam,2018,63
 270,brn,Brunei Darussalam,2017,62
 271,brn,Brunei Darussalam,2016,58
-272,brn,Brunei Darussalam,2015,0
-273,brn,Brunei Darussalam,2014,0
+272,brn,Brunei Darussalam,2015,
+273,brn,Brunei Darussalam,2014,
 274,brn,Brunei Darussalam,2013,60
 275,brn,Brunei Darussalam,2012,55
 276,btn,Bhutan,2023,68
@@ -523,7 +523,7 @@
 521,dma,Dominica,2018,57
 522,dma,Dominica,2017,57
 523,dma,Dominica,2016,59
-524,dma,Dominica,2015,0
+524,dma,Dominica,2015,
 525,dma,Dominica,2014,58
 526,dma,Dominica,2013,58
 527,dma,Dominica,2012,58
@@ -650,15 +650,15 @@
 648,fji,Fiji,2023,52
 649,fji,Fiji,2022,53
 650,fji,Fiji,2021,55
-651,fji,Fiji,2020,0
-652,fji,Fiji,2019,0
-653,fji,Fiji,2018,0
-654,fji,Fiji,2017,0
-655,fji,Fiji,2016,0
-656,fji,Fiji,2015,0
-657,fji,Fiji,2014,0
-658,fji,Fiji,2013,0
-659,fji,Fiji,2012,0
+651,fji,Fiji,2020,
+652,fji,Fiji,2019,
+653,fji,Fiji,2018,
+654,fji,Fiji,2017,
+655,fji,Fiji,2016,
+656,fji,Fiji,2015,
+657,fji,Fiji,2014,
+658,fji,Fiji,2013,
+659,fji,Fiji,2012,
 660,fra,France,2023,71
 661,fra,France,2022,72
 662,fra,France,2021,71
@@ -762,9 +762,9 @@
 760,gnq,Equatorial Guinea,2019,16
 761,gnq,Equatorial Guinea,2018,16
 762,gnq,Equatorial Guinea,2017,17
-763,gnq,Equatorial Guinea,2016,0
-764,gnq,Equatorial Guinea,2015,0
-765,gnq,Equatorial Guinea,2014,0
+763,gnq,Equatorial Guinea,2016,
+764,gnq,Equatorial Guinea,2015,
+765,gnq,Equatorial Guinea,2014,
 766,gnq,Equatorial Guinea,2013,19
 767,gnq,Equatorial Guinea,2012,20
 768,grc,Greece,2023,49
@@ -787,10 +787,10 @@
 785,grd,Grenada,2018,52
 786,grd,Grenada,2017,52
 787,grd,Grenada,2016,56
-788,grd,Grenada,2015,0
-789,grd,Grenada,2014,0
-790,grd,Grenada,2013,0
-791,grd,Grenada,2012,0
+788,grd,Grenada,2015,
+789,grd,Grenada,2014,
+790,grd,Grenada,2013,
+791,grd,Grenada,2012,
 792,gtm,Guatemala,2023,23
 793,gtm,Guatemala,2022,24
 794,gtm,Guatemala,2021,25
@@ -1123,7 +1123,7 @@
 1121,lca,Saint Lucia,2018,55
 1122,lca,Saint Lucia,2017,55
 1123,lca,Saint Lucia,2016,60
-1124,lca,Saint Lucia,2015,0
+1124,lca,Saint Lucia,2015,
 1125,lca,Saint Lucia,2014,71
 1126,lca,Saint Lucia,2013,71
 1127,lca,Saint Lucia,2012,71
@@ -1231,10 +1231,10 @@
 1229,mdv,Maldives,2018,31
 1230,mdv,Maldives,2017,33
 1231,mdv,Maldives,2016,36
-1232,mdv,Maldives,2015,0
-1233,mdv,Maldives,2014,0
-1234,mdv,Maldives,2013,0
-1235,mdv,Maldives,2012,0
+1232,mdv,Maldives,2015,
+1233,mdv,Maldives,2014,
+1234,mdv,Maldives,2013,
+1235,mdv,Maldives,2012,
 1236,mex,Mexico,2023,31
 1237,mex,Mexico,2022,31
 1238,mex,Mexico,2021,31
@@ -1699,10 +1699,10 @@
 1697,slb,Solomon Islands,2018,44
 1698,slb,Solomon Islands,2017,39
 1699,slb,Solomon Islands,2016,42
-1700,slb,Solomon Islands,2015,0
-1701,slb,Solomon Islands,2014,0
-1702,slb,Solomon Islands,2013,0
-1703,slb,Solomon Islands,2012,0
+1700,slb,Solomon Islands,2015,
+1701,slb,Solomon Islands,2014,
+1702,slb,Solomon Islands,2013,
+1703,slb,Solomon Islands,2012,
 1704,sle,Sierra Leone,2023,35
 1705,sle,Sierra Leone,2022,34
 1706,sle,Sierra Leone,2021,34
@@ -1762,7 +1762,7 @@
 1760,ssd,South Sudan,2015,15
 1761,ssd,South Sudan,2014,15
 1762,ssd,South Sudan,2013,14
-1763,ssd,South Sudan,2012,0
+1763,ssd,South Sudan,2012,
 1764,stp,Sao Tome and Principe,2023,45
 1765,stp,Sao Tome and Principe,2022,45
 1766,stp,Sao Tome and Principe,2021,45
@@ -1830,8 +1830,8 @@
 1828,swz,Eswatini,2019,34
 1829,swz,Eswatini,2018,38
 1830,swz,Eswatini,2017,39
-1831,swz,Eswatini,2016,0
-1832,swz,Eswatini,2015,0
+1831,swz,Eswatini,2016,
+1832,swz,Eswatini,2015,
 1833,swz,Eswatini,2014,43
 1834,swz,Eswatini,2013,39
 1835,swz,Eswatini,2012,37
@@ -1842,7 +1842,7 @@
 1840,syc,Seychelles,2019,66
 1841,syc,Seychelles,2018,66
 1842,syc,Seychelles,2017,60
-1843,syc,Seychelles,2016,0
+1843,syc,Seychelles,2016,
 1844,syc,Seychelles,2015,55
 1845,syc,Seychelles,2014,55
 1846,syc,Seychelles,2013,54
@@ -2047,7 +2047,7 @@
 2045,vct,Saint Vincent and the Grenadines,2018,58
 2046,vct,Saint Vincent and the Grenadines,2017,58
 2047,vct,Saint Vincent and the Grenadines,2016,60
-2048,vct,Saint Vincent and the Grenadines,2015,0
+2048,vct,Saint Vincent and the Grenadines,2015,
 2049,vct,Saint Vincent and the Grenadines,2014,62
 2050,vct,Saint Vincent and the Grenadines,2013,62
 2051,vct,Saint Vincent and the Grenadines,2012,62
@@ -2082,11 +2082,11 @@
 2080,vut,Vanuatu,2019,46
 2081,vut,Vanuatu,2018,46
 2082,vut,Vanuatu,2017,43
-2083,vut,Vanuatu,2016,0
-2084,vut,Vanuatu,2015,0
-2085,vut,Vanuatu,2014,0
-2086,vut,Vanuatu,2013,0
-2087,vut,Vanuatu,2012,0
+2083,vut,Vanuatu,2016,
+2084,vut,Vanuatu,2015,
+2085,vut,Vanuatu,2014,
+2086,vut,Vanuatu,2013,
+2087,vut,Vanuatu,2012,
 2088,yem,Yemen,2023,16
 2089,yem,Yemen,2022,16
 2090,yem,Yemen,2021,16
