@@ -1,0 +1,2360 @@
+,geo,name,time,Happiness score (WHR)
+0,afg,Afghanistan,2008,37.24
+1,afg,Afghanistan,2009,44.02
+2,afg,Afghanistan,2010,47.58
+3,afg,Afghanistan,2011,38.32
+4,afg,Afghanistan,2012,37.83
+5,afg,Afghanistan,2013,35.72
+6,afg,Afghanistan,2014,31.31
+7,afg,Afghanistan,2015,39.83
+8,afg,Afghanistan,2016,42.20
+9,afg,Afghanistan,2017,26.62
+10,afg,Afghanistan,2018,26.94
+11,afg,Afghanistan,2019,23.75
+12,afg,Afghanistan,2021,24.36
+13,afg,Afghanistan,2022,12.81
+14,afg,Afghanistan,2023,14.46
+15,ago,Angola,2011,55.89
+16,ago,Angola,2012,43.60
+17,ago,Angola,2013,39.37
+18,ago,Angola,2014,37.95
+19,alb,Albania,2007,46.34
+20,alb,Albania,2009,54.85
+21,alb,Albania,2010,52.69
+22,alb,Albania,2011,58.67
+23,alb,Albania,2012,55.10
+24,alb,Albania,2013,45.51
+25,alb,Albania,2014,48.14
+26,alb,Albania,2015,46.07
+27,alb,Albania,2016,45.11
+28,alb,Albania,2017,46.40
+29,alb,Albania,2018,50.04
+30,alb,Albania,2019,49.95
+31,alb,Albania,2020,53.65
+32,alb,Albania,2021,52.55
+33,alb,Albania,2022,52.12
+34,alb,Albania,2023,54.45
+35,are,United Arab Emirates,2006,67.34
+36,are,United Arab Emirates,2009,68.66
+37,are,United Arab Emirates,2010,70.97
+38,are,United Arab Emirates,2011,71.19
+39,are,United Arab Emirates,2012,72.18
+40,are,United Arab Emirates,2013,66.21
+41,are,United Arab Emirates,2014,65.40
+42,are,United Arab Emirates,2015,65.68
+43,are,United Arab Emirates,2016,68.31
+44,are,United Arab Emirates,2017,70.39
+45,are,United Arab Emirates,2018,66.04
+46,are,United Arab Emirates,2019,67.11
+47,are,United Arab Emirates,2020,64.58
+48,are,United Arab Emirates,2021,67.33
+49,are,United Arab Emirates,2022,67.38
+50,are,United Arab Emirates,2023,67.28
+51,arg,Argentina,2006,63.13
+52,arg,Argentina,2007,60.73
+53,arg,Argentina,2008,59.61
+54,arg,Argentina,2009,64.24
+55,arg,Argentina,2010,64.41
+56,arg,Argentina,2011,67.76
+57,arg,Argentina,2012,64.68
+58,arg,Argentina,2013,65.82
+59,arg,Argentina,2014,66.71
+60,arg,Argentina,2015,66.97
+61,arg,Argentina,2016,64.27
+62,arg,Argentina,2017,60.39
+63,arg,Argentina,2018,57.93
+64,arg,Argentina,2019,60.86
+65,arg,Argentina,2020,59.01
+66,arg,Argentina,2021,59.08
+67,arg,Argentina,2022,62.61
+68,arg,Argentina,2023,63.93
+69,arm,Armenia,2006,42.89
+70,arm,Armenia,2007,48.82
+71,arm,Armenia,2008,46.52
+72,arm,Armenia,2009,41.78
+73,arm,Armenia,2010,43.68
+74,arm,Armenia,2011,42.60
+75,arm,Armenia,2012,43.20
+76,arm,Armenia,2013,42.77
+77,arm,Armenia,2014,44.53
+78,arm,Armenia,2015,43.48
+79,arm,Armenia,2016,43.25
+80,arm,Armenia,2017,42.88
+81,arm,Armenia,2018,50.62
+82,arm,Armenia,2019,54.88
+83,arm,Armenia,2021,53.01
+84,arm,Armenia,2022,53.82
+85,arm,Armenia,2023,56.79
+86,aus,Australia,2005,73.41
+87,aus,Australia,2007,72.85
+88,aus,Australia,2008,72.54
+89,aus,Australia,2010,74.50
+90,aus,Australia,2011,74.06
+91,aus,Australia,2012,71.96
+92,aus,Australia,2013,73.64
+93,aus,Australia,2014,72.89
+94,aus,Australia,2015,73.09
+95,aus,Australia,2016,72.50
+96,aus,Australia,2017,72.57
+97,aus,Australia,2018,71.77
+98,aus,Australia,2019,72.34
+99,aus,Australia,2020,71.37
+100,aus,Australia,2021,71.12
+101,aus,Australia,2022,70.35
+102,aus,Australia,2023,70.25
+103,aut,Austria,2006,71.22
+104,aut,Austria,2008,71.81
+105,aut,Austria,2010,73.03
+106,aut,Austria,2011,74.71
+107,aut,Austria,2012,74.01
+108,aut,Austria,2013,74.99
+109,aut,Austria,2014,69.50
+110,aut,Austria,2015,70.76
+111,aut,Austria,2016,70.48
+112,aut,Austria,2017,72.94
+113,aut,Austria,2018,73.96
+114,aut,Austria,2019,71.95
+115,aut,Austria,2020,72.13
+116,aut,Austria,2021,70.80
+117,aut,Austria,2022,69.99
+118,aut,Austria,2023,66.36
+119,aze,Azerbaijan,2006,47.28
+120,aze,Azerbaijan,2007,45.68
+121,aze,Azerbaijan,2008,48.17
+122,aze,Azerbaijan,2009,45.74
+123,aze,Azerbaijan,2010,42.19
+124,aze,Azerbaijan,2011,46.80
+125,aze,Azerbaijan,2012,49.11
+126,aze,Azerbaijan,2013,54.81
+127,aze,Azerbaijan,2014,52.52
+128,aze,Azerbaijan,2015,51.47
+129,aze,Azerbaijan,2016,53.04
+130,aze,Azerbaijan,2017,51.52
+131,aze,Azerbaijan,2018,51.68
+132,aze,Azerbaijan,2019,51.73
+133,aze,Azerbaijan,2022,45.76
+134,aze,Azerbaijan,2023,52.14
+135,bdi,Burundi,2008,35.63
+136,bdi,Burundi,2009,37.92
+137,bdi,Burundi,2011,37.06
+138,bdi,Burundi,2014,29.05
+139,bdi,Burundi,2018,37.75
+140,bel,Belgium,2005,72.62
+141,bel,Belgium,2007,72.19
+142,bel,Belgium,2008,71.17
+143,bel,Belgium,2010,68.54
+144,bel,Belgium,2011,71.11
+145,bel,Belgium,2012,69.35
+146,bel,Belgium,2013,71.04
+147,bel,Belgium,2014,68.55
+148,bel,Belgium,2015,69.04
+149,bel,Belgium,2016,69.49
+150,bel,Belgium,2017,69.28
+151,bel,Belgium,2018,68.92
+152,bel,Belgium,2019,67.72
+153,bel,Belgium,2020,68.39
+154,bel,Belgium,2021,68.82
+155,bel,Belgium,2022,68.57
+156,bel,Belgium,2023,69.44
+157,ben,Benin,2006,33.30
+158,ben,Benin,2008,36.67
+159,ben,Benin,2011,38.70
+160,ben,Benin,2012,31.93
+161,ben,Benin,2013,34.79
+162,ben,Benin,2014,33.47
+163,ben,Benin,2015,36.25
+164,ben,Benin,2016,40.07
+165,ben,Benin,2017,48.53
+166,ben,Benin,2018,58.20
+167,ben,Benin,2019,49.76
+168,ben,Benin,2020,44.08
+169,ben,Benin,2021,44.93
+170,ben,Benin,2022,42.17
+171,ben,Benin,2023,44.20
+172,bfa,Burkina Faso,2006,38.01
+173,bfa,Burkina Faso,2007,40.17
+174,bfa,Burkina Faso,2008,38.46
+175,bfa,Burkina Faso,2010,40.36
+176,bfa,Burkina Faso,2011,47.85
+177,bfa,Burkina Faso,2012,39.55
+178,bfa,Burkina Faso,2013,33.26
+179,bfa,Burkina Faso,2014,34.81
+180,bfa,Burkina Faso,2015,44.19
+181,bfa,Burkina Faso,2016,42.06
+182,bfa,Burkina Faso,2017,46.47
+183,bfa,Burkina Faso,2018,49.27
+184,bfa,Burkina Faso,2019,47.41
+185,bfa,Burkina Faso,2020,46.40
+186,bfa,Burkina Faso,2021,46.36
+187,bfa,Burkina Faso,2023,44.62
+188,bgd,Bangladesh,2006,43.19
+189,bgd,Bangladesh,2007,46.07
+190,bgd,Bangladesh,2008,50.52
+191,bgd,Bangladesh,2009,50.83
+192,bgd,Bangladesh,2010,48.58
+193,bgd,Bangladesh,2011,49.86
+194,bgd,Bangladesh,2012,47.24
+195,bgd,Bangladesh,2013,46.60
+196,bgd,Bangladesh,2014,46.36
+197,bgd,Bangladesh,2015,46.33
+198,bgd,Bangladesh,2016,45.56
+199,bgd,Bangladesh,2017,43.10
+200,bgd,Bangladesh,2018,44.99
+201,bgd,Bangladesh,2019,51.14
+202,bgd,Bangladesh,2020,52.80
+203,bgd,Bangladesh,2021,41.23
+204,bgd,Bangladesh,2022,34.08
+205,bgd,Bangladesh,2023,41.14
+206,bgr,Bulgaria,2007,38.44
+207,bgr,Bulgaria,2010,39.12
+208,bgr,Bulgaria,2011,38.75
+209,bgr,Bulgaria,2012,42.22
+210,bgr,Bulgaria,2013,39.93
+211,bgr,Bulgaria,2014,44.38
+212,bgr,Bulgaria,2015,48.65
+213,bgr,Bulgaria,2016,48.38
+214,bgr,Bulgaria,2017,50.97
+215,bgr,Bulgaria,2018,50.99
+216,bgr,Bulgaria,2019,51.08
+217,bgr,Bulgaria,2020,55.98
+218,bgr,Bulgaria,2021,54.22
+219,bgr,Bulgaria,2022,53.78
+220,bgr,Bulgaria,2023,55.90
+221,bhr,Bahrain,2009,57.01
+222,bhr,Bahrain,2010,59.37
+223,bhr,Bahrain,2011,48.24
+224,bhr,Bahrain,2012,50.27
+225,bhr,Bahrain,2013,66.90
+226,bhr,Bahrain,2014,61.65
+227,bhr,Bahrain,2015,60.07
+228,bhr,Bahrain,2016,61.70
+229,bhr,Bahrain,2017,62.27
+230,bhr,Bahrain,2019,70.98
+231,bhr,Bahrain,2020,61.73
+232,bhr,Bahrain,2023,59.59
+233,bih,Bosnia and Herzegovina,2007,49.00
+234,bih,Bosnia and Herzegovina,2009,49.63
+235,bih,Bosnia and Herzegovina,2010,46.69
+236,bih,Bosnia and Herzegovina,2011,49.95
+237,bih,Bosnia and Herzegovina,2012,47.73
+238,bih,Bosnia and Herzegovina,2013,51.24
+239,bih,Bosnia and Herzegovina,2014,52.49
+240,bih,Bosnia and Herzegovina,2015,51.17
+241,bih,Bosnia and Herzegovina,2016,51.81
+242,bih,Bosnia and Herzegovina,2017,50.90
+243,bih,Bosnia and Herzegovina,2018,58.87
+244,bih,Bosnia and Herzegovina,2019,60.16
+245,bih,Bosnia and Herzegovina,2020,55.16
+246,bih,Bosnia and Herzegovina,2021,57.49
+247,bih,Bosnia and Herzegovina,2022,58.72
+248,bih,Bosnia and Herzegovina,2023,60.09
+249,blr,Belarus,2006,56.58
+250,blr,Belarus,2007,56.17
+251,blr,Belarus,2008,54.63
+252,blr,Belarus,2009,55.64
+253,blr,Belarus,2010,55.26
+254,blr,Belarus,2011,52.25
+255,blr,Belarus,2012,57.49
+256,blr,Belarus,2013,58.76
+257,blr,Belarus,2014,58.12
+258,blr,Belarus,2015,57.19
+259,blr,Belarus,2016,51.78
+260,blr,Belarus,2017,55.53
+261,blr,Belarus,2018,52.34
+262,blr,Belarus,2019,58.21
+263,blz,Belize,2007,64.51
+264,blz,Belize,2014,59.56
+265,bol,Bolivia,2006,53.74
+266,bol,Bolivia,2007,56.28
+267,bol,Bolivia,2008,52.98
+268,bol,Bolivia,2009,60.86
+269,bol,Bolivia,2010,57.81
+270,bol,Bolivia,2011,57.79
+271,bol,Bolivia,2012,60.19
+272,bol,Bolivia,2013,57.67
+273,bol,Bolivia,2014,58.65
+274,bol,Bolivia,2015,58.34
+275,bol,Bolivia,2016,57.70
+276,bol,Bolivia,2017,56.51
+277,bol,Bolivia,2018,59.16
+278,bol,Bolivia,2019,56.74
+279,bol,Bolivia,2020,55.59
+280,bol,Bolivia,2021,55.69
+281,bol,Bolivia,2022,59.29
+282,bol,Bolivia,2023,58.60
+283,bra,Brazil,2005,66.37
+284,bra,Brazil,2007,63.21
+285,bra,Brazil,2008,66.91
+286,bra,Brazil,2009,70.01
+287,bra,Brazil,2010,68.37
+288,bra,Brazil,2011,70.38
+289,bra,Brazil,2012,66.60
+290,bra,Brazil,2013,71.40
+291,bra,Brazil,2014,69.81
+292,bra,Brazil,2015,65.47
+293,bra,Brazil,2016,63.75
+294,bra,Brazil,2017,63.33
+295,bra,Brazil,2018,61.91
+296,bra,Brazil,2019,64.51
+297,bra,Brazil,2020,61.10
+298,bra,Brazil,2021,60.10
+299,bra,Brazil,2022,62.57
+300,bra,Brazil,2023,65.53
+301,btn,Bhutan,2013,55.69
+302,btn,Bhutan,2014,49.39
+303,btn,Bhutan,2015,50.82
+304,bwa,Botswana,2006,47.39
+305,bwa,Botswana,2008,54.51
+306,bwa,Botswana,2010,35.53
+307,bwa,Botswana,2011,35.20
+308,bwa,Botswana,2012,48.36
+309,bwa,Botswana,2013,41.28
+310,bwa,Botswana,2014,40.31
+311,bwa,Botswana,2015,37.62
+312,bwa,Botswana,2016,34.99
+313,bwa,Botswana,2017,35.05
+314,bwa,Botswana,2018,34.61
+315,bwa,Botswana,2019,34.71
+316,bwa,Botswana,2022,34.35
+317,bwa,Botswana,2023,33.32
+318,caf,Central African Republic,2007,41.60
+319,caf,Central African Republic,2010,35.68
+320,caf,Central African Republic,2011,36.78
+321,caf,Central African Republic,2016,26.93
+322,caf,Central African Republic,2017,34.76
+323,can,Canada,2005,74.18
+324,can,Canada,2007,74.82
+325,can,Canada,2008,74.86
+326,can,Canada,2009,74.88
+327,can,Canada,2010,76.50
+328,can,Canada,2011,74.26
+329,can,Canada,2012,74.15
+330,can,Canada,2013,75.94
+331,can,Canada,2014,73.04
+332,can,Canada,2015,74.13
+333,can,Canada,2016,72.45
+334,can,Canada,2017,74.15
+335,can,Canada,2018,71.75
+336,can,Canada,2019,71.09
+337,can,Canada,2020,70.25
+338,can,Canada,2021,69.39
+339,can,Canada,2022,69.18
+340,can,Canada,2023,68.41
+341,che,Switzerland,2006,74.73
+342,che,Switzerland,2009,75.25
+343,che,Switzerland,2012,77.76
+344,che,Switzerland,2014,74.93
+345,che,Switzerland,2015,75.72
+346,che,Switzerland,2016,74.59
+347,che,Switzerland,2017,74.74
+348,che,Switzerland,2018,75.09
+349,che,Switzerland,2019,76.94
+350,che,Switzerland,2020,75.08
+351,che,Switzerland,2021,73.28
+352,che,Switzerland,2022,68.84
+353,che,Switzerland,2023,69.69
+354,chl,Chile,2006,60.63
+355,chl,Chile,2007,56.98
+356,chl,Chile,2008,57.89
+357,chl,Chile,2009,64.94
+358,chl,Chile,2010,66.36
+359,chl,Chile,2011,65.26
+360,chl,Chile,2012,65.99
+361,chl,Chile,2013,67.40
+362,chl,Chile,2014,68.44
+363,chl,Chile,2015,65.33
+364,chl,Chile,2016,65.79
+365,chl,Chile,2017,63.20
+366,chl,Chile,2018,64.36
+367,chl,Chile,2019,59.42
+368,chl,Chile,2020,61.51
+369,chl,Chile,2021,64.36
+370,chl,Chile,2022,64.15
+371,chl,Chile,2023,62.30
+372,chn,China,2006,45.60
+373,chn,China,2007,48.63
+374,chn,China,2008,48.46
+375,chn,China,2009,44.54
+376,chn,China,2010,46.53
+377,chn,China,2011,50.37
+378,chn,China,2012,50.95
+379,chn,China,2013,52.41
+380,chn,China,2014,51.96
+381,chn,China,2015,53.04
+382,chn,China,2016,53.25
+383,chn,China,2017,50.99
+384,chn,China,2018,51.31
+385,chn,China,2019,51.44
+386,chn,China,2020,57.71
+387,chn,China,2021,58.63
+388,chn,China,2023,61.45
+389,civ,Cote d'Ivoire,2009,41.97
+390,civ,Cote d'Ivoire,2013,37.39
+391,civ,Cote d'Ivoire,2014,35.70
+392,civ,Cote d'Ivoire,2015,44.45
+393,civ,Cote d'Ivoire,2016,45.43
+394,civ,Cote d'Ivoire,2017,50.38
+395,civ,Cote d'Ivoire,2018,52.68
+396,civ,Cote d'Ivoire,2019,53.92
+397,civ,Cote d'Ivoire,2020,52.57
+398,civ,Cote d'Ivoire,2021,50.56
+399,civ,Cote d'Ivoire,2022,48.49
+400,civ,Cote d'Ivoire,2023,53.37
+401,cmr,Cameroon,2006,38.51
+402,cmr,Cameroon,2007,43.50
+403,cmr,Cameroon,2008,42.92
+404,cmr,Cameroon,2009,47.41
+405,cmr,Cameroon,2010,45.54
+406,cmr,Cameroon,2011,44.34
+407,cmr,Cameroon,2012,42.45
+408,cmr,Cameroon,2013,42.71
+409,cmr,Cameroon,2014,42.40
+410,cmr,Cameroon,2015,50.38
+411,cmr,Cameroon,2016,48.16
+412,cmr,Cameroon,2017,50.74
+413,cmr,Cameroon,2018,52.51
+414,cmr,Cameroon,2019,49.37
+415,cmr,Cameroon,2020,52.41
+416,cmr,Cameroon,2021,49.63
+417,cmr,Cameroon,2022,47.12
+418,cmr,Cameroon,2023,49.46
+419,cod,"Congo, Dem. Rep.",2009,39.84
+420,cod,"Congo, Dem. Rep.",2011,45.17
+421,cod,"Congo, Dem. Rep.",2012,46.39
+422,cod,"Congo, Dem. Rep.",2013,44.97
+423,cod,"Congo, Dem. Rep.",2014,44.14
+424,cod,"Congo, Dem. Rep.",2015,39.03
+425,cod,"Congo, Dem. Rep.",2016,45.22
+426,cod,"Congo, Dem. Rep.",2017,43.11
+427,cod,"Congo, Dem. Rep.",2022,32.07
+428,cod,"Congo, Dem. Rep.",2023,33.83
+429,cog,"Congo, Rep.",2008,38.20
+430,cog,"Congo, Rep.",2011,45.10
+431,cog,"Congo, Rep.",2012,39.19
+432,cog,"Congo, Rep.",2013,39.55
+433,cog,"Congo, Rep.",2014,40.56
+434,cog,"Congo, Rep.",2015,46.91
+435,cog,"Congo, Rep.",2016,41.19
+436,cog,"Congo, Rep.",2017,48.84
+437,cog,"Congo, Rep.",2018,54.90
+438,cog,"Congo, Rep.",2019,52.13
+439,cog,"Congo, Rep.",2020,50.79
+440,cog,"Congo, Rep.",2021,49.21
+441,cog,"Congo, Rep.",2022,58.05
+442,cog,"Congo, Rep.",2023,49.54
+443,col,Colombia,2006,60.25
+444,col,Colombia,2007,61.38
+445,col,Colombia,2008,61.68
+446,col,Colombia,2009,62.72
+447,col,Colombia,2010,64.08
+448,col,Colombia,2011,64.64
+449,col,Colombia,2012,63.75
+450,col,Colombia,2013,66.07
+451,col,Colombia,2014,64.49
+452,col,Colombia,2015,63.88
+453,col,Colombia,2016,62.34
+454,col,Colombia,2017,61.57
+455,col,Colombia,2018,59.84
+456,col,Colombia,2019,63.50
+457,col,Colombia,2020,57.09
+458,col,Colombia,2021,52.90
+459,col,Colombia,2022,58.92
+460,col,Colombia,2023,59.04
+461,com,Comoros,2009,34.76
+462,com,Comoros,2010,38.12
+463,com,Comoros,2011,38.38
+464,com,Comoros,2012,39.56
+465,com,Comoros,2018,39.73
+466,com,Comoros,2019,46.09
+467,com,Comoros,2022,35.45
+468,com,Comoros,2023,35.88
+469,cri,Costa Rica,2006,70.82
+470,cri,Costa Rica,2007,74.32
+471,cri,Costa Rica,2008,68.51
+472,cri,Costa Rica,2009,76.15
+473,cri,Costa Rica,2010,72.71
+474,cri,Costa Rica,2011,72.29
+475,cri,Costa Rica,2012,72.72
+476,cri,Costa Rica,2013,71.58
+477,cri,Costa Rica,2014,72.47
+478,cri,Costa Rica,2015,68.54
+479,cri,Costa Rica,2016,71.36
+480,cri,Costa Rica,2017,72.25
+481,cri,Costa Rica,2018,71.41
+482,cri,Costa Rica,2019,69.98
+483,cri,Costa Rica,2020,63.38
+484,cri,Costa Rica,2021,64.08
+485,cri,Costa Rica,2022,70.77
+486,cri,Costa Rica,2023,73.84
+487,cub,Cuba,2006,54.18
+488,cyp,Cyprus,2006,62.38
+489,cyp,Cyprus,2009,68.33
+490,cyp,Cyprus,2010,63.87
+491,cyp,Cyprus,2011,66.90
+492,cyp,Cyprus,2012,61.81
+493,cyp,Cyprus,2013,54.39
+494,cyp,Cyprus,2014,56.27
+495,cyp,Cyprus,2015,54.39
+496,cyp,Cyprus,2016,57.95
+497,cyp,Cyprus,2017,60.62
+498,cyp,Cyprus,2018,62.76
+499,cyp,Cyprus,2019,61.37
+500,cyp,Cyprus,2020,62.60
+501,cyp,Cyprus,2021,62.69
+502,cyp,Cyprus,2022,58.65
+503,cyp,Cyprus,2023,60.71
+504,cze,Czech Republic,2005,64.39
+505,cze,Czech Republic,2007,65.00
+506,cze,Czech Republic,2010,62.50
+507,cze,Czech Republic,2011,63.31
+508,cze,Czech Republic,2012,63.34
+509,cze,Czech Republic,2013,66.98
+510,cze,Czech Republic,2014,64.84
+511,cze,Czech Republic,2015,66.08
+512,cze,Czech Republic,2016,67.36
+513,cze,Czech Republic,2017,67.90
+514,cze,Czech Republic,2018,70.34
+515,cze,Czech Republic,2020,68.97
+516,cze,Czech Republic,2021,69.42
+517,cze,Czech Republic,2022,66.95
+518,cze,Czech Republic,2023,68.27
+519,deu,Germany,2005,66.20
+520,deu,Germany,2007,64.17
+521,deu,Germany,2008,65.22
+522,deu,Germany,2009,66.41
+523,deu,Germany,2010,67.25
+524,deu,Germany,2011,66.21
+525,deu,Germany,2012,67.02
+526,deu,Germany,2013,69.65
+527,deu,Germany,2014,69.84
+528,deu,Germany,2015,70.37
+529,deu,Germany,2016,68.74
+530,deu,Germany,2017,70.74
+531,deu,Germany,2018,71.18
+532,deu,Germany,2019,70.35
+533,deu,Germany,2020,73.12
+534,deu,Germany,2021,67.55
+535,deu,Germany,2022,66.08
+536,deu,Germany,2023,67.92
+537,dji,Djibouti,2008,50.09
+538,dji,Djibouti,2009,49.06
+539,dji,Djibouti,2010,50.06
+540,dji,Djibouti,2011,43.69
+541,dnk,Denmark,2005,80.19
+542,dnk,Denmark,2007,78.34
+543,dnk,Denmark,2008,79.71
+544,dnk,Denmark,2009,76.83
+545,dnk,Denmark,2010,77.71
+546,dnk,Denmark,2011,77.88
+547,dnk,Denmark,2012,75.20
+548,dnk,Denmark,2013,75.89
+549,dnk,Denmark,2014,75.08
+550,dnk,Denmark,2015,75.14
+551,dnk,Denmark,2016,75.58
+552,dnk,Denmark,2017,75.94
+553,dnk,Denmark,2018,76.49
+554,dnk,Denmark,2019,76.93
+555,dnk,Denmark,2020,75.15
+556,dnk,Denmark,2021,76.99
+557,dnk,Denmark,2022,75.45
+558,dnk,Denmark,2023,75.04
+559,dom,Dominican Republic,2006,50.88
+560,dom,Dominican Republic,2007,50.81
+561,dom,Dominican Republic,2008,48.42
+562,dom,Dominican Republic,2009,54.32
+563,dom,Dominican Republic,2010,47.35
+564,dom,Dominican Republic,2011,53.97
+565,dom,Dominican Republic,2012,47.53
+566,dom,Dominican Republic,2013,50.16
+567,dom,Dominican Republic,2014,53.87
+568,dom,Dominican Republic,2015,50.62
+569,dom,Dominican Republic,2016,52.39
+570,dom,Dominican Republic,2017,56.05
+571,dom,Dominican Republic,2018,54.33
+572,dom,Dominican Republic,2019,60.04
+573,dom,Dominican Republic,2020,51.68
+574,dom,Dominican Republic,2021,60.31
+575,dom,Dominican Republic,2022,55.18
+576,dom,Dominican Republic,2023,59.21
+577,dza,Algeria,2010,54.64
+578,dza,Algeria,2011,53.17
+579,dza,Algeria,2012,56.05
+580,dza,Algeria,2014,63.55
+581,dza,Algeria,2016,53.41
+582,dza,Algeria,2017,52.49
+583,dza,Algeria,2018,50.43
+584,dza,Algeria,2019,47.45
+585,dza,Algeria,2020,54.38
+586,dza,Algeria,2021,52.17
+587,dza,Algeria,2022,55.38
+588,ecu,Ecuador,2006,50.24
+589,ecu,Ecuador,2007,49.96
+590,ecu,Ecuador,2008,52.97
+591,ecu,Ecuador,2009,60.22
+592,ecu,Ecuador,2010,58.38
+593,ecu,Ecuador,2011,57.95
+594,ecu,Ecuador,2012,59.61
+595,ecu,Ecuador,2013,60.19
+596,ecu,Ecuador,2014,59.46
+597,ecu,Ecuador,2015,59.64
+598,ecu,Ecuador,2016,61.15
+599,ecu,Ecuador,2017,58.40
+600,ecu,Ecuador,2018,61.28
+601,ecu,Ecuador,2019,58.09
+602,ecu,Ecuador,2020,53.54
+603,ecu,Ecuador,2021,54.35
+604,ecu,Ecuador,2022,58.87
+605,ecu,Ecuador,2023,58.52
+606,egy,Egypt,2005,51.68
+607,egy,Egypt,2007,55.41
+608,egy,Egypt,2008,46.32
+609,egy,Egypt,2009,50.66
+610,egy,Egypt,2010,46.69
+611,egy,Egypt,2011,41.74
+612,egy,Egypt,2012,42.04
+613,egy,Egypt,2013,35.59
+614,egy,Egypt,2014,48.85
+615,egy,Egypt,2015,47.63
+616,egy,Egypt,2016,45.57
+617,egy,Egypt,2017,39.29
+618,egy,Egypt,2018,40.05
+619,egy,Egypt,2019,43.28
+620,egy,Egypt,2020,44.72
+621,egy,Egypt,2021,40.26
+622,egy,Egypt,2022,40.24
+623,egy,Egypt,2023,38.81
+624,esp,Spain,2005,71.53
+625,esp,Spain,2007,69.95
+626,esp,Spain,2008,72.94
+627,esp,Spain,2009,61.99
+628,esp,Spain,2010,61.88
+629,esp,Spain,2011,65.18
+630,esp,Spain,2012,62.91
+631,esp,Spain,2013,61.50
+632,esp,Spain,2014,64.56
+633,esp,Spain,2015,63.81
+634,esp,Spain,2016,63.19
+635,esp,Spain,2017,62.30
+636,esp,Spain,2018,65.13
+637,esp,Spain,2019,64.57
+638,esp,Spain,2020,65.02
+639,esp,Spain,2021,64.70
+640,esp,Spain,2022,63.37
+641,esp,Spain,2023,64.56
+642,est,Estonia,2006,53.71
+643,est,Estonia,2007,53.32
+644,est,Estonia,2008,54.52
+645,est,Estonia,2009,51.38
+646,est,Estonia,2011,54.87
+647,est,Estonia,2012,53.64
+648,est,Estonia,2013,53.67
+649,est,Estonia,2014,55.56
+650,est,Estonia,2015,56.29
+651,est,Estonia,2016,56.50
+652,est,Estonia,2017,59.38
+653,est,Estonia,2018,60.91
+654,est,Estonia,2019,60.35
+655,est,Estonia,2020,64.53
+656,est,Estonia,2021,65.54
+657,est,Estonia,2022,63.57
+658,est,Estonia,2023,64.30
+659,eth,Ethiopia,2012,45.61
+660,eth,Ethiopia,2013,44.45
+661,eth,Ethiopia,2014,45.07
+662,eth,Ethiopia,2015,45.73
+663,eth,Ethiopia,2016,42.98
+664,eth,Ethiopia,2017,41.80
+665,eth,Ethiopia,2018,43.79
+666,eth,Ethiopia,2019,41.00
+667,eth,Ethiopia,2020,45.49
+668,eth,Ethiopia,2022,36.28
+669,eth,Ethiopia,2023,40.93
+670,fin,Finland,2006,76.72
+671,fin,Finland,2008,76.71
+672,fin,Finland,2010,73.93
+673,fin,Finland,2011,73.54
+674,fin,Finland,2012,74.20
+675,fin,Finland,2013,74.45
+676,fin,Finland,2014,73.85
+677,fin,Finland,2015,74.48
+678,fin,Finland,2016,76.60
+679,fin,Finland,2017,77.88
+680,fin,Finland,2018,78.58
+681,fin,Finland,2019,77.80
+682,fin,Finland,2020,78.89
+683,fin,Finland,2021,77.94
+684,fin,Finland,2022,77.29
+685,fin,Finland,2023,76.99
+686,fra,France,2005,70.93
+687,fra,France,2006,65.83
+688,fra,France,2008,70.08
+689,fra,France,2009,62.83
+690,fra,France,2010,67.98
+691,fra,France,2011,69.59
+692,fra,France,2012,66.49
+693,fra,France,2013,66.67
+694,fra,France,2014,64.67
+695,fra,France,2015,63.58
+696,fra,France,2016,64.75
+697,fra,France,2017,66.35
+698,fra,France,2018,66.66
+699,fra,France,2019,66.90
+700,fra,France,2020,67.14
+701,fra,France,2021,66.56
+702,fra,France,2022,66.14
+703,fra,France,2023,65.57
+704,gab,Gabon,2011,42.55
+705,gab,Gabon,2012,39.72
+706,gab,Gabon,2013,38.00
+707,gab,Gabon,2014,39.18
+708,gab,Gabon,2015,46.61
+709,gab,Gabon,2016,48.32
+710,gab,Gabon,2017,47.82
+711,gab,Gabon,2018,47.83
+712,gab,Gabon,2019,49.14
+713,gab,Gabon,2020,48.87
+714,gab,Gabon,2021,50.75
+715,gab,Gabon,2022,51.40
+716,gab,Gabon,2023,51.04
+717,gbr,United Kingdom,2005,69.84
+718,gbr,United Kingdom,2007,68.02
+719,gbr,United Kingdom,2008,69.86
+720,gbr,United Kingdom,2009,69.07
+721,gbr,United Kingdom,2010,70.29
+722,gbr,United Kingdom,2011,68.69
+723,gbr,United Kingdom,2012,68.81
+724,gbr,United Kingdom,2013,69.18
+725,gbr,United Kingdom,2014,67.58
+726,gbr,United Kingdom,2015,65.15
+727,gbr,United Kingdom,2016,68.24
+728,gbr,United Kingdom,2017,71.03
+729,gbr,United Kingdom,2018,72.33
+730,gbr,United Kingdom,2019,71.57
+731,gbr,United Kingdom,2020,67.98
+732,gbr,United Kingdom,2021,68.67
+733,gbr,United Kingdom,2022,67.22
+734,gbr,United Kingdom,2023,66.58
+735,geo,Georgia,2006,36.75
+736,geo,Georgia,2007,37.07
+737,geo,Georgia,2008,41.56
+738,geo,Georgia,2009,38.01
+739,geo,Georgia,2010,41.02
+740,geo,Georgia,2011,42.03
+741,geo,Georgia,2012,42.54
+742,geo,Georgia,2013,43.49
+743,geo,Georgia,2014,42.88
+744,geo,Georgia,2015,41.22
+745,geo,Georgia,2016,44.48
+746,geo,Georgia,2017,44.51
+747,geo,Georgia,2018,46.59
+748,geo,Georgia,2019,48.92
+749,geo,Georgia,2020,51.23
+750,geo,Georgia,2021,49.11
+751,geo,Georgia,2022,52.93
+752,geo,Georgia,2023,53.51
+753,gha,Ghana,2006,45.35
+754,gha,Ghana,2007,52.20
+755,gha,Ghana,2008,49.65
+756,gha,Ghana,2009,41.98
+757,gha,Ghana,2010,46.06
+758,gha,Ghana,2011,56.08
+759,gha,Ghana,2012,50.57
+760,gha,Ghana,2013,49.65
+761,gha,Ghana,2014,38.60
+762,gha,Ghana,2015,39.86
+763,gha,Ghana,2016,45.14
+764,gha,Ghana,2017,54.81
+765,gha,Ghana,2018,50.04
+766,gha,Ghana,2019,49.67
+767,gha,Ghana,2020,53.19
+768,gha,Ghana,2021,43.78
+769,gha,Ghana,2022,41.91
+770,gha,Ghana,2023,42.98
+771,gin,Guinea,2011,40.45
+772,gin,Guinea,2012,36.52
+773,gin,Guinea,2013,39.02
+774,gin,Guinea,2014,34.12
+775,gin,Guinea,2015,35.05
+776,gin,Guinea,2016,36.03
+777,gin,Guinea,2017,48.74
+778,gin,Guinea,2018,52.52
+779,gin,Guinea,2019,47.68
+780,gin,Guinea,2020,49.72
+781,gin,Guinea,2021,49.45
+782,gin,Guinea,2022,53.17
+783,gin,Guinea,2023,48.27
+784,gmb,Gambia,2017,41.18
+785,gmb,Gambia,2018,49.22
+786,gmb,Gambia,2019,51.64
+787,gmb,Gambia,2022,42.79
+788,gmb,Gambia,2023,46.91
+789,grc,Greece,2005,60.06
+790,grc,Greece,2007,66.47
+791,grc,Greece,2009,60.39
+792,grc,Greece,2010,58.40
+793,grc,Greece,2011,53.72
+794,grc,Greece,2012,50.96
+795,grc,Greece,2013,47.20
+796,grc,Greece,2014,47.56
+797,grc,Greece,2015,56.23
+798,grc,Greece,2016,53.03
+799,grc,Greece,2017,51.48
+800,grc,Greece,2018,54.09
+801,grc,Greece,2019,59.52
+802,grc,Greece,2020,57.88
+803,grc,Greece,2021,61.04
+804,grc,Greece,2022,59.00
+805,grc,Greece,2023,57.96
+806,gtm,Guatemala,2006,59.01
+807,gtm,Guatemala,2007,63.30
+808,gtm,Guatemala,2008,64.14
+809,gtm,Guatemala,2009,64.52
+810,gtm,Guatemala,2010,62.90
+811,gtm,Guatemala,2011,57.43
+812,gtm,Guatemala,2012,58.56
+813,gtm,Guatemala,2013,59.85
+814,gtm,Guatemala,2014,65.36
+815,gtm,Guatemala,2015,64.65
+816,gtm,Guatemala,2016,63.59
+817,gtm,Guatemala,2017,63.25
+818,gtm,Guatemala,2018,66.27
+819,gtm,Guatemala,2019,62.62
+820,gtm,Guatemala,2022,61.50
+821,gtm,Guatemala,2023,64.21
+822,guy,Guyana,2007,59.93
+823,hkg,"Hong Kong, China",2006,55.11
+824,hkg,"Hong Kong, China",2008,51.37
+825,hkg,"Hong Kong, China",2009,53.97
+826,hkg,"Hong Kong, China",2010,56.43
+827,hkg,"Hong Kong, China",2011,54.74
+828,hkg,"Hong Kong, China",2012,54.84
+829,hkg,"Hong Kong, China",2014,54.58
+830,hkg,"Hong Kong, China",2016,54.98
+831,hkg,"Hong Kong, China",2017,53.62
+832,hkg,"Hong Kong, China",2019,56.59
+833,hkg,"Hong Kong, China",2020,52.95
+834,hkg,"Hong Kong, China",2021,53.22
+835,hkg,"Hong Kong, China",2022,53.11
+836,hnd,Honduras,2006,53.97
+837,hnd,Honduras,2007,50.97
+838,hnd,Honduras,2008,54.20
+839,hnd,Honduras,2009,60.33
+840,hnd,Honduras,2010,58.66
+841,hnd,Honduras,2011,49.61
+842,hnd,Honduras,2012,46.02
+843,hnd,Honduras,2013,47.13
+844,hnd,Honduras,2014,50.56
+845,hnd,Honduras,2015,48.45
+846,hnd,Honduras,2016,56.48
+847,hnd,Honduras,2017,60.20
+848,hnd,Honduras,2018,59.08
+849,hnd,Honduras,2019,59.30
+850,hnd,Honduras,2021,61.14
+851,hnd,Honduras,2022,59.32
+852,hnd,Honduras,2023,58.61
+853,hrv,Croatia,2007,58.21
+854,hrv,Croatia,2009,54.33
+855,hrv,Croatia,2010,55.96
+856,hrv,Croatia,2011,53.85
+857,hrv,Croatia,2012,60.28
+858,hrv,Croatia,2013,58.85
+859,hrv,Croatia,2014,53.81
+860,hrv,Croatia,2015,52.05
+861,hrv,Croatia,2016,54.17
+862,hrv,Croatia,2017,53.43
+863,hrv,Croatia,2018,55.36
+864,hrv,Croatia,2019,56.26
+865,hrv,Croatia,2020,65.08
+866,hrv,Croatia,2021,62.87
+867,hrv,Croatia,2022,55.79
+868,hrv,Croatia,2023,59.58
+869,hti,Haiti,2006,37.54
+870,hti,Haiti,2008,38.46
+871,hti,Haiti,2010,37.66
+872,hti,Haiti,2011,48.45
+873,hti,Haiti,2012,44.13
+874,hti,Haiti,2013,46.22
+875,hti,Haiti,2014,38.89
+876,hti,Haiti,2015,35.70
+877,hti,Haiti,2016,33.52
+878,hti,Haiti,2017,38.24
+879,hti,Haiti,2018,36.15
+880,hun,Hungary,2005,51.94
+881,hun,Hungary,2007,49.54
+882,hun,Hungary,2009,48.95
+883,hun,Hungary,2010,47.25
+884,hun,Hungary,2011,49.18
+885,hun,Hungary,2012,46.83
+886,hun,Hungary,2013,49.14
+887,hun,Hungary,2014,51.81
+888,hun,Hungary,2015,53.44
+889,hun,Hungary,2016,54.49
+890,hun,Hungary,2017,60.65
+891,hun,Hungary,2018,59.36
+892,hun,Hungary,2019,60.00
+893,hun,Hungary,2020,60.38
+894,hun,Hungary,2021,62.27
+895,hun,Hungary,2022,58.61
+896,hun,Hungary,2023,59.65
+897,idn,Indonesia,2006,49.47
+898,idn,Indonesia,2007,51.01
+899,idn,Indonesia,2008,48.15
+900,idn,Indonesia,2009,54.72
+901,idn,Indonesia,2010,54.57
+902,idn,Indonesia,2011,51.73
+903,idn,Indonesia,2012,53.68
+904,idn,Indonesia,2013,52.92
+905,idn,Indonesia,2014,55.97
+906,idn,Indonesia,2015,50.43
+907,idn,Indonesia,2016,51.36
+908,idn,Indonesia,2017,50.98
+909,idn,Indonesia,2018,53.40
+910,idn,Indonesia,2019,53.47
+911,idn,Indonesia,2020,48.28
+912,idn,Indonesia,2021,54.33
+913,idn,Indonesia,2022,55.85
+914,idn,Indonesia,2023,56.95
+915,ind,India,2006,53.48
+916,ind,India,2007,50.27
+917,ind,India,2008,51.46
+918,ind,India,2009,45.22
+919,ind,India,2010,49.89
+920,ind,India,2011,46.35
+921,ind,India,2012,47.20
+922,ind,India,2013,44.28
+923,ind,India,2014,44.24
+924,ind,India,2015,43.42
+925,ind,India,2016,41.79
+926,ind,India,2017,40.46
+927,ind,India,2018,38.18
+928,ind,India,2019,32.49
+929,ind,India,2020,42.24
+930,ind,India,2021,35.58
+931,ind,India,2022,39.30
+932,ind,India,2023,46.76
+933,irl,Ireland,2006,71.44
+934,irl,Ireland,2008,75.68
+935,irl,Ireland,2009,70.46
+936,irl,Ireland,2010,72.57
+937,irl,Ireland,2011,70.07
+938,irl,Ireland,2012,69.65
+939,irl,Ireland,2013,67.60
+940,irl,Ireland,2014,70.18
+941,irl,Ireland,2015,68.30
+942,irl,Ireland,2016,70.41
+943,irl,Ireland,2017,70.60
+944,irl,Ireland,2018,69.62
+945,irl,Ireland,2019,72.55
+946,irl,Ireland,2020,70.35
+947,irl,Ireland,2021,68.28
+948,irl,Ireland,2022,68.70
+949,irl,Ireland,2023,68.17
+950,irn,Iran,2005,53.08
+951,irn,Iran,2007,53.36
+952,irn,Iran,2008,51.29
+953,irn,Iran,2011,47.68
+954,irn,Iran,2012,46.09
+955,irn,Iran,2013,51.40
+956,irn,Iran,2014,46.82
+957,irn,Iran,2015,47.50
+958,irn,Iran,2016,46.53
+959,irn,Iran,2017,47.17
+960,irn,Iran,2018,42.78
+961,irn,Iran,2019,50.06
+962,irn,Iran,2020,48.65
+963,irn,Iran,2021,47.88
+964,irn,Iran,2022,49.77
+965,irn,Iran,2023,50.04
+966,irq,Iraq,2008,45.90
+967,irq,Iraq,2009,47.75
+968,irq,Iraq,2010,50.65
+969,irq,Iraq,2011,47.25
+970,irq,Iraq,2012,46.60
+971,irq,Iraq,2013,47.25
+972,irq,Iraq,2014,45.42
+973,irq,Iraq,2015,44.93
+974,irq,Iraq,2016,44.13
+975,irq,Iraq,2017,44.62
+976,irq,Iraq,2018,48.86
+977,irq,Iraq,2020,47.85
+978,irq,Iraq,2021,50.94
+979,irq,Iraq,2022,49.28
+980,irq,Iraq,2023,54.75
+981,isl,Iceland,2008,68.88
+982,isl,Iceland,2012,75.91
+983,isl,Iceland,2013,75.01
+984,isl,Iceland,2015,74.98
+985,isl,Iceland,2016,75.10
+986,isl,Iceland,2017,74.76
+987,isl,Iceland,2019,75.33
+988,isl,Iceland,2020,75.75
+989,isl,Iceland,2021,75.65
+990,isl,Iceland,2022,74.49
+991,isl,Iceland,2023,75.62
+992,isr,Israel,2006,71.73
+993,isr,Israel,2007,68.41
+994,isr,Israel,2008,72.61
+995,isr,Israel,2009,73.53
+996,isr,Israel,2010,73.59
+997,isr,Israel,2011,74.33
+998,isr,Israel,2012,71.11
+999,isr,Israel,2013,73.21
+1000,isr,Israel,2014,74.01
+1001,isr,Israel,2015,70.79
+1002,isr,Israel,2016,71.59
+1003,isr,Israel,2017,73.31
+1004,isr,Israel,2018,69.27
+1005,isr,Israel,2019,73.32
+1006,isr,Israel,2020,71.95
+1007,isr,Israel,2021,75.78
+1008,isr,Israel,2022,76.62
+1009,isr,Israel,2023,67.83
+1010,ita,Italy,2005,68.54
+1011,ita,Italy,2007,65.74
+1012,ita,Italy,2008,67.80
+1013,ita,Italy,2009,63.34
+1014,ita,Italy,2010,63.54
+1015,ita,Italy,2011,60.57
+1016,ita,Italy,2012,58.39
+1017,ita,Italy,2013,60.09
+1018,ita,Italy,2014,60.27
+1019,ita,Italy,2015,58.48
+1020,ita,Italy,2016,59.55
+1021,ita,Italy,2017,61.99
+1022,ita,Italy,2018,65.17
+1023,ita,Italy,2019,64.45
+1024,ita,Italy,2020,64.88
+1025,ita,Italy,2021,64.67
+1026,ita,Italy,2022,62.58
+1027,ita,Italy,2023,62.45
+1028,jam,Jamaica,2006,62.08
+1029,jam,Jamaica,2011,53.74
+1030,jam,Jamaica,2013,57.09
+1031,jam,Jamaica,2014,53.11
+1032,jam,Jamaica,2017,58.90
+1033,jam,Jamaica,2019,63.09
+1034,jam,Jamaica,2020,54.25
+1035,jam,Jamaica,2021,58.14
+1036,jam,Jamaica,2022,58.70
+1037,jor,Jordan,2005,62.95
+1038,jor,Jordan,2007,55.98
+1039,jor,Jordan,2008,49.30
+1040,jor,Jordan,2009,60.00
+1041,jor,Jordan,2010,55.70
+1042,jor,Jordan,2011,55.39
+1043,jor,Jordan,2012,51.32
+1044,jor,Jordan,2013,51.72
+1045,jor,Jordan,2014,53.33
+1046,jor,Jordan,2015,54.05
+1047,jor,Jordan,2016,52.71
+1048,jor,Jordan,2017,48.08
+1049,jor,Jordan,2018,46.39
+1050,jor,Jordan,2019,44.53
+1051,jor,Jordan,2020,40.94
+1052,jor,Jordan,2021,39.09
+1053,jor,Jordan,2022,43.56
+1054,jor,Jordan,2023,42.92
+1055,jpn,Japan,2005,65.16
+1056,jpn,Japan,2007,62.38
+1057,jpn,Japan,2008,59.11
+1058,jpn,Japan,2009,58.45
+1059,jpn,Japan,2010,60.57
+1060,jpn,Japan,2011,62.63
+1061,jpn,Japan,2012,59.68
+1062,jpn,Japan,2013,59.59
+1063,jpn,Japan,2014,59.23
+1064,jpn,Japan,2015,58.80
+1065,jpn,Japan,2016,59.55
+1066,jpn,Japan,2017,59.11
+1067,jpn,Japan,2018,57.94
+1068,jpn,Japan,2019,59.08
+1069,jpn,Japan,2020,61.18
+1070,jpn,Japan,2021,60.91
+1071,jpn,Japan,2022,61.78
+1072,jpn,Japan,2023,59.10
+1073,kaz,Kazakhstan,2006,54.76
+1074,kaz,Kazakhstan,2007,57.19
+1075,kaz,Kazakhstan,2008,58.86
+1076,kaz,Kazakhstan,2009,53.83
+1077,kaz,Kazakhstan,2010,55.14
+1078,kaz,Kazakhstan,2011,57.36
+1079,kaz,Kazakhstan,2012,57.59
+1080,kaz,Kazakhstan,2013,58.35
+1081,kaz,Kazakhstan,2014,59.70
+1082,kaz,Kazakhstan,2015,59.50
+1083,kaz,Kazakhstan,2016,55.34
+1084,kaz,Kazakhstan,2017,58.82
+1085,kaz,Kazakhstan,2018,60.08
+1086,kaz,Kazakhstan,2019,62.72
+1087,kaz,Kazakhstan,2020,61.68
+1088,kaz,Kazakhstan,2021,62.60
+1089,kaz,Kazakhstan,2022,60.06
+1090,kaz,Kazakhstan,2023,62.99
+1091,ken,Kenya,2006,42.23
+1092,ken,Kenya,2007,45.76
+1093,ken,Kenya,2008,40.15
+1094,ken,Kenya,2009,42.70
+1095,ken,Kenya,2010,42.56
+1096,ken,Kenya,2011,44.05
+1097,ken,Kenya,2012,45.47
+1098,ken,Kenya,2013,37.95
+1099,ken,Kenya,2014,49.05
+1100,ken,Kenya,2015,43.58
+1101,ken,Kenya,2016,43.96
+1102,ken,Kenya,2017,44.76
+1103,ken,Kenya,2018,46.56
+1104,ken,Kenya,2019,46.19
+1105,ken,Kenya,2020,45.47
+1106,ken,Kenya,2021,44.65
+1107,ken,Kenya,2022,44.48
+1108,ken,Kenya,2023,44.96
+1109,kgz,Kyrgyz Republic,2006,46.41
+1110,kgz,Kyrgyz Republic,2007,46.98
+1111,kgz,Kyrgyz Republic,2008,47.37
+1112,kgz,Kyrgyz Republic,2009,50.69
+1113,kgz,Kyrgyz Republic,2010,49.96
+1114,kgz,Kyrgyz Republic,2011,49.21
+1115,kgz,Kyrgyz Republic,2012,52.08
+1116,kgz,Kyrgyz Republic,2013,54.02
+1117,kgz,Kyrgyz Republic,2014,52.52
+1118,kgz,Kyrgyz Republic,2015,49.05
+1119,kgz,Kyrgyz Republic,2016,48.57
+1120,kgz,Kyrgyz Republic,2017,56.30
+1121,kgz,Kyrgyz Republic,2018,52.97
+1122,kgz,Kyrgyz Republic,2019,56.85
+1123,kgz,Kyrgyz Republic,2020,62.50
+1124,kgz,Kyrgyz Republic,2021,55.64
+1125,kgz,Kyrgyz Republic,2022,56.68
+1126,kgz,Kyrgyz Republic,2023,59.10
+1127,khm,Cambodia,2006,35.69
+1128,khm,Cambodia,2007,41.56
+1129,khm,Cambodia,2008,44.62
+1130,khm,Cambodia,2009,41.11
+1131,khm,Cambodia,2010,41.41
+1132,khm,Cambodia,2011,41.61
+1133,khm,Cambodia,2012,38.99
+1134,khm,Cambodia,2013,36.74
+1135,khm,Cambodia,2014,38.83
+1136,khm,Cambodia,2015,41.62
+1137,khm,Cambodia,2016,44.61
+1138,khm,Cambodia,2017,45.86
+1139,khm,Cambodia,2018,51.22
+1140,khm,Cambodia,2019,49.98
+1141,khm,Cambodia,2020,43.77
+1142,khm,Cambodia,2021,45.55
+1143,khm,Cambodia,2022,42.50
+1144,khm,Cambodia,2023,42.21
+1145,kor,South Korea,2006,53.32
+1146,kor,South Korea,2007,57.67
+1147,kor,South Korea,2008,53.90
+1148,kor,South Korea,2009,56.48
+1149,kor,South Korea,2010,61.16
+1150,kor,South Korea,2011,69.47
+1151,kor,South Korea,2012,60.03
+1152,kor,South Korea,2013,59.59
+1153,kor,South Korea,2014,58.01
+1154,kor,South Korea,2015,57.80
+1155,kor,South Korea,2016,59.71
+1156,kor,South Korea,2017,58.74
+1157,kor,South Korea,2018,58.40
+1158,kor,South Korea,2019,59.03
+1159,kor,South Korea,2020,57.93
+1160,kor,South Korea,2021,61.13
+1161,kor,South Korea,2022,59.50
+1162,kor,South Korea,2023,61.12
+1163,kos,Kosovo,2007,51.04
+1164,kos,Kosovo,2008,55.22
+1165,kos,Kosovo,2009,58.91
+1166,kos,Kosovo,2010,51.77
+1167,kos,Kosovo,2011,48.60
+1168,kos,Kosovo,2012,56.40
+1169,kos,Kosovo,2013,61.26
+1170,kos,Kosovo,2014,50.00
+1171,kos,Kosovo,2015,50.77
+1172,kos,Kosovo,2016,57.59
+1173,kos,Kosovo,2017,61.49
+1174,kos,Kosovo,2018,63.92
+1175,kos,Kosovo,2019,64.25
+1176,kos,Kosovo,2020,62.94
+1177,kos,Kosovo,2021,66.48
+1178,kos,Kosovo,2022,61.60
+1179,kos,Kosovo,2023,68.78
+1180,kwt,Kuwait,2006,60.76
+1181,kwt,Kuwait,2009,65.85
+1182,kwt,Kuwait,2010,67.98
+1183,kwt,Kuwait,2011,63.78
+1184,kwt,Kuwait,2012,62.21
+1185,kwt,Kuwait,2013,64.80
+1186,kwt,Kuwait,2014,61.80
+1187,kwt,Kuwait,2015,61.46
+1188,kwt,Kuwait,2016,59.47
+1189,kwt,Kuwait,2017,60.94
+1190,kwt,Kuwait,2019,61.06
+1191,kwt,Kuwait,2022,67.58
+1192,kwt,Kuwait,2023,71.30
+1193,lao,Lao,2006,50.76
+1194,lao,Lao,2007,53.64
+1195,lao,Lao,2008,50.44
+1196,lao,Lao,2011,47.04
+1197,lao,Lao,2012,48.76
+1198,lao,Lao,2017,46.23
+1199,lao,Lao,2018,48.59
+1200,lao,Lao,2019,51.97
+1201,lao,Lao,2020,52.84
+1202,lao,Lao,2021,49.27
+1203,lao,Lao,2022,49.62
+1204,lao,Lao,2023,54.86
+1205,lbn,Lebanon,2005,54.91
+1206,lbn,Lebanon,2006,46.53
+1207,lbn,Lebanon,2008,45.95
+1208,lbn,Lebanon,2009,52.06
+1209,lbn,Lebanon,2010,50.32
+1210,lbn,Lebanon,2011,51.88
+1211,lbn,Lebanon,2012,45.73
+1212,lbn,Lebanon,2013,49.83
+1213,lbn,Lebanon,2014,52.33
+1214,lbn,Lebanon,2015,51.72
+1215,lbn,Lebanon,2016,52.71
+1216,lbn,Lebanon,2017,51.54
+1217,lbn,Lebanon,2018,51.67
+1218,lbn,Lebanon,2019,40.24
+1219,lbn,Lebanon,2020,26.34
+1220,lbn,Lebanon,2021,21.79
+1221,lbn,Lebanon,2022,23.52
+1222,lbn,Lebanon,2023,35.88
+1223,lbr,Liberia,2007,37.01
+1224,lbr,Liberia,2008,42.21
+1225,lbr,Liberia,2010,41.96
+1226,lbr,Liberia,2014,45.71
+1227,lbr,Liberia,2015,27.02
+1228,lbr,Liberia,2016,33.55
+1229,lbr,Liberia,2017,44.24
+1230,lbr,Liberia,2018,41.35
+1231,lbr,Liberia,2019,51.21
+1232,lbr,Liberia,2022,40.42
+1233,lbr,Liberia,2023,44.94
+1234,lby,Libya,2012,57.54
+1235,lby,Libya,2015,56.15
+1236,lby,Libya,2016,54.34
+1237,lby,Libya,2017,56.47
+1238,lby,Libya,2018,54.94
+1239,lby,Libya,2019,53.30
+1240,lby,Libya,2022,57.60
+1241,lby,Libya,2023,59.70
+1242,lka,Sri Lanka,2006,43.45
+1243,lka,Sri Lanka,2007,44.15
+1244,lka,Sri Lanka,2008,44.31
+1245,lka,Sri Lanka,2009,42.12
+1246,lka,Sri Lanka,2010,39.77
+1247,lka,Sri Lanka,2011,41.81
+1248,lka,Sri Lanka,2012,42.25
+1249,lka,Sri Lanka,2013,43.65
+1250,lka,Sri Lanka,2014,42.68
+1251,lka,Sri Lanka,2015,46.12
+1252,lka,Sri Lanka,2017,43.31
+1253,lka,Sri Lanka,2018,44.35
+1254,lka,Sri Lanka,2019,42.13
+1255,lka,Sri Lanka,2020,47.78
+1256,lka,Sri Lanka,2021,41.03
+1257,lka,Sri Lanka,2022,39.85
+1258,lka,Sri Lanka,2023,36.02
+1259,lso,Lesotho,2011,48.98
+1260,lso,Lesotho,2016,38.08
+1261,lso,Lesotho,2017,37.95
+1262,lso,Lesotho,2019,35.12
+1263,lso,Lesotho,2022,31.86
+1264,ltu,Lithuania,2006,59.54
+1265,ltu,Lithuania,2007,58.08
+1266,ltu,Lithuania,2008,55.54
+1267,ltu,Lithuania,2009,54.67
+1268,ltu,Lithuania,2010,50.66
+1269,ltu,Lithuania,2011,54.32
+1270,ltu,Lithuania,2012,57.71
+1271,ltu,Lithuania,2013,55.96
+1272,ltu,Lithuania,2014,61.26
+1273,ltu,Lithuania,2015,57.11
+1274,ltu,Lithuania,2016,58.66
+1275,ltu,Lithuania,2017,62.73
+1276,ltu,Lithuania,2018,63.09
+1277,ltu,Lithuania,2019,60.64
+1278,ltu,Lithuania,2020,63.91
+1279,ltu,Lithuania,2021,68.65
+1280,ltu,Lithuania,2022,70.38
+1281,ltu,Lithuania,2023,65.53
+1282,lux,Luxembourg,2009,69.58
+1283,lux,Luxembourg,2010,70.97
+1284,lux,Luxembourg,2011,71.01
+1285,lux,Luxembourg,2012,69.64
+1286,lux,Luxembourg,2013,71.31
+1287,lux,Luxembourg,2014,68.91
+1288,lux,Luxembourg,2015,67.02
+1289,lux,Luxembourg,2016,69.67
+1290,lux,Luxembourg,2017,70.61
+1291,lux,Luxembourg,2018,72.43
+1292,lux,Luxembourg,2019,74.04
+1293,lux,Luxembourg,2022,72.28
+1294,lux,Luxembourg,2023,70.16
+1295,lva,Latvia,2006,47.10
+1296,lva,Latvia,2007,46.67
+1297,lva,Latvia,2008,51.45
+1298,lva,Latvia,2009,46.69
+1299,lva,Latvia,2011,49.67
+1300,lva,Latvia,2012,51.25
+1301,lva,Latvia,2013,50.70
+1302,lva,Latvia,2014,57.29
+1303,lva,Latvia,2015,58.81
+1304,lva,Latvia,2016,59.40
+1305,lva,Latvia,2017,59.78
+1306,lva,Latvia,2018,59.01
+1307,lva,Latvia,2019,59.70
+1308,lva,Latvia,2020,62.29
+1309,lva,Latvia,2021,63.53
+1310,lva,Latvia,2022,60.55
+1311,lva,Latvia,2023,62.96
+1312,mar,Morocco,2010,43.83
+1313,mar,Morocco,2011,50.85
+1314,mar,Morocco,2012,49.70
+1315,mar,Morocco,2013,51.42
+1316,mar,Morocco,2015,51.63
+1317,mar,Morocco,2016,53.86
+1318,mar,Morocco,2017,53.12
+1319,mar,Morocco,2018,48.97
+1320,mar,Morocco,2019,50.57
+1321,mar,Morocco,2020,48.03
+1322,mar,Morocco,2021,53.26
+1323,mar,Morocco,2022,45.96
+1324,mar,Morocco,2023,44.87
+1325,mda,Moldova,2006,51.02
+1326,mda,Moldova,2007,47.75
+1327,mda,Moldova,2008,55.03
+1328,mda,Moldova,2009,55.54
+1329,mda,Moldova,2010,55.90
+1330,mda,Moldova,2011,57.92
+1331,mda,Moldova,2012,59.96
+1332,mda,Moldova,2013,57.56
+1333,mda,Moldova,2014,59.17
+1334,mda,Moldova,2015,60.17
+1335,mda,Moldova,2016,55.78
+1336,mda,Moldova,2017,53.26
+1337,mda,Moldova,2018,56.82
+1338,mda,Moldova,2019,58.03
+1339,mda,Moldova,2020,58.12
+1340,mda,Moldova,2021,59.59
+1341,mda,Moldova,2022,56.87
+1342,mda,Moldova,2023,58.01
+1343,mdg,Madagascar,2006,39.80
+1344,mdg,Madagascar,2008,46.40
+1345,mdg,Madagascar,2011,43.81
+1346,mdg,Madagascar,2012,35.51
+1347,mdg,Madagascar,2013,38.16
+1348,mdg,Madagascar,2014,36.76
+1349,mdg,Madagascar,2015,35.93
+1350,mdg,Madagascar,2016,36.63
+1351,mdg,Madagascar,2017,40.79
+1352,mdg,Madagascar,2018,40.71
+1353,mdg,Madagascar,2019,43.39
+1354,mdg,Madagascar,2022,40.19
+1355,mdg,Madagascar,2023,44.33
+1356,mdv,Maldives,2018,51.98
+1357,mex,Mexico,2005,65.81
+1358,mex,Mexico,2007,65.25
+1359,mex,Mexico,2008,68.29
+1360,mex,Mexico,2009,69.63
+1361,mex,Mexico,2010,68.02
+1362,mex,Mexico,2011,69.10
+1363,mex,Mexico,2012,73.20
+1364,mex,Mexico,2013,74.43
+1365,mex,Mexico,2014,66.80
+1366,mex,Mexico,2015,62.36
+1367,mex,Mexico,2016,68.24
+1368,mex,Mexico,2017,64.10
+1369,mex,Mexico,2018,65.50
+1370,mex,Mexico,2019,64.32
+1371,mex,Mexico,2020,59.64
+1372,mex,Mexico,2021,59.91
+1373,mex,Mexico,2022,70.38
+1374,mex,Mexico,2023,70.06
+1375,mkd,"Macedonia, FYR",2007,44.94
+1376,mkd,"Macedonia, FYR",2009,44.28
+1377,mkd,"Macedonia, FYR",2010,41.80
+1378,mkd,"Macedonia, FYR",2011,48.98
+1379,mkd,"Macedonia, FYR",2012,46.40
+1380,mkd,"Macedonia, FYR",2013,51.86
+1381,mkd,"Macedonia, FYR",2014,52.04
+1382,mkd,"Macedonia, FYR",2015,49.76
+1383,mkd,"Macedonia, FYR",2016,53.46
+1384,mkd,"Macedonia, FYR",2017,52.34
+1385,mkd,"Macedonia, FYR",2018,52.40
+1386,mkd,"Macedonia, FYR",2019,50.15
+1387,mkd,"Macedonia, FYR",2020,50.54
+1388,mkd,"Macedonia, FYR",2021,55.35
+1389,mkd,"Macedonia, FYR",2022,51.67
+1390,mkd,"Macedonia, FYR",2023,54.03
+1391,mli,Mali,2006,40.14
+1392,mli,Mali,2008,41.15
+1393,mli,Mali,2009,39.77
+1394,mli,Mali,2010,37.62
+1395,mli,Mali,2011,46.67
+1396,mli,Mali,2012,43.13
+1397,mli,Mali,2013,36.76
+1398,mli,Mali,2014,39.75
+1399,mli,Mali,2015,45.82
+1400,mli,Mali,2016,40.16
+1401,mli,Mali,2017,47.42
+1402,mli,Mali,2018,44.16
+1403,mli,Mali,2019,49.88
+1404,mli,Mali,2020,42.69
+1405,mli,Mali,2021,41.13
+1406,mli,Mali,2022,42.11
+1407,mli,Mali,2023,43.70
+1408,mlt,Malta,2009,63.28
+1409,mlt,Malta,2010,57.74
+1410,mlt,Malta,2011,61.55
+1411,mlt,Malta,2012,59.63
+1412,mlt,Malta,2013,63.80
+1413,mlt,Malta,2014,64.52
+1414,mlt,Malta,2015,66.13
+1415,mlt,Malta,2016,65.91
+1416,mlt,Malta,2017,66.76
+1417,mlt,Malta,2018,69.10
+1418,mlt,Malta,2019,67.33
+1419,mlt,Malta,2020,61.57
+1420,mlt,Malta,2021,64.44
+1421,mlt,Malta,2022,62.99
+1422,mlt,Malta,2023,62.95
+1423,mmr,Myanmar,2012,44.39
+1424,mmr,Myanmar,2013,41.76
+1425,mmr,Myanmar,2014,47.86
+1426,mmr,Myanmar,2015,42.24
+1427,mmr,Myanmar,2016,46.23
+1428,mmr,Myanmar,2017,41.54
+1429,mmr,Myanmar,2018,44.11
+1430,mmr,Myanmar,2019,44.34
+1431,mmr,Myanmar,2020,44.31
+1432,mmr,Myanmar,2021,43.14
+1433,mmr,Myanmar,2022,43.59
+1434,mmr,Myanmar,2023,43.91
+1435,mne,Montenegro,2007,51.96
+1436,mne,Montenegro,2009,48.01
+1437,mne,Montenegro,2010,54.55
+1438,mne,Montenegro,2011,52.23
+1439,mne,Montenegro,2012,52.19
+1440,mne,Montenegro,2013,50.74
+1441,mne,Montenegro,2014,52.83
+1442,mne,Montenegro,2015,51.25
+1443,mne,Montenegro,2016,53.04
+1444,mne,Montenegro,2017,56.15
+1445,mne,Montenegro,2018,56.50
+1446,mne,Montenegro,2019,53.86
+1447,mne,Montenegro,2020,57.22
+1448,mne,Montenegro,2022,56.00
+1449,mne,Montenegro,2023,58.13
+1450,mng,Mongolia,2007,46.09
+1451,mng,Mongolia,2008,44.93
+1452,mng,Mongolia,2010,45.86
+1453,mng,Mongolia,2011,50.31
+1454,mng,Mongolia,2012,48.85
+1455,mng,Mongolia,2013,49.13
+1456,mng,Mongolia,2014,48.25
+1457,mng,Mongolia,2015,49.83
+1458,mng,Mongolia,2016,50.57
+1459,mng,Mongolia,2017,53.34
+1460,mng,Mongolia,2018,54.65
+1461,mng,Mongolia,2019,55.63
+1462,mng,Mongolia,2020,60.11
+1463,mng,Mongolia,2021,57.21
+1464,mng,Mongolia,2022,57.88
+1465,mng,Mongolia,2023,55.80
+1466,moz,Mozambique,2006,45.95
+1467,moz,Mozambique,2007,48.33
+1468,moz,Mozambique,2008,46.54
+1469,moz,Mozambique,2011,49.71
+1470,moz,Mozambique,2015,45.50
+1471,moz,Mozambique,2017,42.80
+1472,moz,Mozambique,2018,46.54
+1473,moz,Mozambique,2019,49.32
+1474,moz,Mozambique,2021,51.78
+1475,moz,Mozambique,2022,47.40
+1476,moz,Mozambique,2023,57.04
+1477,mrt,Mauritania,2007,41.49
+1478,mrt,Mauritania,2008,42.48
+1479,mrt,Mauritania,2009,45.00
+1480,mrt,Mauritania,2010,47.72
+1481,mrt,Mauritania,2011,47.85
+1482,mrt,Mauritania,2012,46.73
+1483,mrt,Mauritania,2013,41.99
+1484,mrt,Mauritania,2014,44.83
+1485,mrt,Mauritania,2015,39.23
+1486,mrt,Mauritania,2016,44.72
+1487,mrt,Mauritania,2017,46.78
+1488,mrt,Mauritania,2018,43.14
+1489,mrt,Mauritania,2019,41.53
+1490,mrt,Mauritania,2022,47.24
+1491,mrt,Mauritania,2023,42.92
+1492,mus,Mauritius,2011,54.77
+1493,mus,Mauritius,2014,56.48
+1494,mus,Mauritius,2016,56.10
+1495,mus,Mauritius,2017,61.74
+1496,mus,Mauritius,2018,58.82
+1497,mus,Mauritius,2019,62.41
+1498,mus,Mauritius,2020,60.15
+1499,mus,Mauritius,2021,59.49
+1500,mus,Mauritius,2022,57.41
+1501,mus,Mauritius,2023,57.59
+1502,mwi,Malawi,2006,38.30
+1503,mwi,Malawi,2007,48.91
+1504,mwi,Malawi,2009,51.48
+1505,mwi,Malawi,2011,39.46
+1506,mwi,Malawi,2012,42.79
+1507,mwi,Malawi,2013,40.35
+1508,mwi,Malawi,2014,45.63
+1509,mwi,Malawi,2015,38.68
+1510,mwi,Malawi,2016,34.76
+1511,mwi,Malawi,2017,34.17
+1512,mwi,Malawi,2018,33.35
+1513,mwi,Malawi,2019,38.69
+1514,mwi,Malawi,2021,36.35
+1515,mwi,Malawi,2022,33.56
+1516,mwi,Malawi,2023,32.72
+1517,mys,Malaysia,2006,60.12
+1518,mys,Malaysia,2007,62.39
+1519,mys,Malaysia,2008,58.07
+1520,mys,Malaysia,2009,53.85
+1521,mys,Malaysia,2010,55.80
+1522,mys,Malaysia,2011,57.86
+1523,mys,Malaysia,2012,59.14
+1524,mys,Malaysia,2013,57.70
+1525,mys,Malaysia,2014,59.63
+1526,mys,Malaysia,2015,63.22
+1527,mys,Malaysia,2018,53.39
+1528,mys,Malaysia,2019,54.28
+1529,mys,Malaysia,2020,60.14
+1530,mys,Malaysia,2021,60.10
+1531,mys,Malaysia,2022,60.48
+1532,mys,Malaysia,2023,58.68
+1533,nam,Namibia,2007,48.86
+1534,nam,Namibia,2014,45.74
+1535,nam,Namibia,2017,44.41
+1536,nam,Namibia,2018,48.34
+1537,nam,Namibia,2019,44.36
+1538,nam,Namibia,2020,44.51
+1539,nam,Namibia,2021,44.91
+1540,nam,Namibia,2022,49.49
+1541,nam,Namibia,2023,50.55
+1542,ner,Niger,2006,37.37
+1543,ner,Niger,2007,42.77
+1544,ner,Niger,2008,42.36
+1545,ner,Niger,2009,42.67
+1546,ner,Niger,2010,41.01
+1547,ner,Niger,2011,45.56
+1548,ner,Niger,2012,37.98
+1549,ner,Niger,2013,37.16
+1550,ner,Niger,2014,41.81
+1551,ner,Niger,2015,36.71
+1552,ner,Niger,2016,42.35
+1553,ner,Niger,2017,46.16
+1554,ner,Niger,2018,51.64
+1555,ner,Niger,2019,50.04
+1556,ner,Niger,2022,45.01
+1557,ner,Niger,2023,46.09
+1558,nga,Nigeria,2006,47.10
+1559,nga,Nigeria,2007,48.90
+1560,nga,Nigeria,2008,49.39
+1561,nga,Nigeria,2009,49.80
+1562,nga,Nigeria,2010,47.60
+1563,nga,Nigeria,2012,54.93
+1564,nga,Nigeria,2013,48.18
+1565,nga,Nigeria,2015,49.33
+1566,nga,Nigeria,2016,52.20
+1567,nga,Nigeria,2017,53.22
+1568,nga,Nigeria,2018,52.52
+1569,nga,Nigeria,2019,42.66
+1570,nga,Nigeria,2020,55.03
+1571,nga,Nigeria,2021,44.79
+1572,nga,Nigeria,2022,52.94
+1573,nga,Nigeria,2023,48.69
+1574,nic,Nicaragua,2006,44.60
+1575,nic,Nicaragua,2007,49.44
+1576,nic,Nicaragua,2008,51.04
+1577,nic,Nicaragua,2009,53.53
+1578,nic,Nicaragua,2010,56.87
+1579,nic,Nicaragua,2011,53.86
+1580,nic,Nicaragua,2012,54.48
+1581,nic,Nicaragua,2013,57.72
+1582,nic,Nicaragua,2014,62.75
+1583,nic,Nicaragua,2015,59.24
+1584,nic,Nicaragua,2016,60.13
+1585,nic,Nicaragua,2017,64.76
+1586,nic,Nicaragua,2018,58.19
+1587,nic,Nicaragua,2019,61.13
+1588,nic,Nicaragua,2020,62.87
+1589,nic,Nicaragua,2021,60.95
+1590,nic,Nicaragua,2022,63.92
+1591,nic,Nicaragua,2023,63.62
+1592,nld,Netherlands,2005,74.64
+1593,nld,Netherlands,2007,74.52
+1594,nld,Netherlands,2008,76.31
+1595,nld,Netherlands,2010,75.02
+1596,nld,Netherlands,2011,75.64
+1597,nld,Netherlands,2012,74.71
+1598,nld,Netherlands,2013,74.07
+1599,nld,Netherlands,2014,73.21
+1600,nld,Netherlands,2015,73.24
+1601,nld,Netherlands,2016,75.41
+1602,nld,Netherlands,2017,74.59
+1603,nld,Netherlands,2018,74.63
+1604,nld,Netherlands,2019,74.25
+1605,nld,Netherlands,2020,75.04
+1606,nld,Netherlands,2021,73.14
+1607,nld,Netherlands,2022,73.90
+1608,nld,Netherlands,2023,72.55
+1609,nor,Norway,2006,74.16
+1610,nor,Norway,2008,76.32
+1611,nor,Norway,2012,76.78
+1612,nor,Norway,2014,74.44
+1613,nor,Norway,2015,76.03
+1614,nor,Norway,2016,75.96
+1615,nor,Norway,2017,75.79
+1616,nor,Norway,2018,74.44
+1617,nor,Norway,2019,74.42
+1618,nor,Norway,2020,72.90
+1619,nor,Norway,2021,73.62
+1620,nor,Norway,2022,72.95
+1621,nor,Norway,2023,72.49
+1622,npl,Nepal,2006,45.67
+1623,npl,Nepal,2007,47.48
+1624,npl,Nepal,2008,44.41
+1625,npl,Nepal,2009,49.17
+1626,npl,Nepal,2010,43.50
+1627,npl,Nepal,2011,38.09
+1628,npl,Nepal,2012,42.33
+1629,npl,Nepal,2013,46.05
+1630,npl,Nepal,2014,49.75
+1631,npl,Nepal,2015,48.12
+1632,npl,Nepal,2016,51.00
+1633,npl,Nepal,2017,47.37
+1634,npl,Nepal,2018,49.10
+1635,npl,Nepal,2019,54.49
+1636,npl,Nepal,2020,59.82
+1637,npl,Nepal,2021,46.22
+1638,npl,Nepal,2022,54.74
+1639,npl,Nepal,2023,53.89
+1640,nzl,New Zealand,2006,73.05
+1641,nzl,New Zealand,2007,76.04
+1642,nzl,New Zealand,2008,73.81
+1643,nzl,New Zealand,2010,72.24
+1644,nzl,New Zealand,2011,71.91
+1645,nzl,New Zealand,2012,72.50
+1646,nzl,New Zealand,2013,72.80
+1647,nzl,New Zealand,2014,73.06
+1648,nzl,New Zealand,2015,74.18
+1649,nzl,New Zealand,2016,72.26
+1650,nzl,New Zealand,2017,73.27
+1651,nzl,New Zealand,2018,73.70
+1652,nzl,New Zealand,2019,72.05
+1653,nzl,New Zealand,2020,72.57
+1654,nzl,New Zealand,2021,71.37
+1655,nzl,New Zealand,2022,69.75
+1656,nzl,New Zealand,2023,69.76
+1657,omn,Oman,2011,68.53
+1658,pak,Pakistan,2005,52.25
+1659,pak,Pakistan,2007,56.71
+1660,pak,Pakistan,2008,44.14
+1661,pak,Pakistan,2009,52.08
+1662,pak,Pakistan,2010,57.86
+1663,pak,Pakistan,2011,52.67
+1664,pak,Pakistan,2012,51.32
+1665,pak,Pakistan,2013,51.38
+1666,pak,Pakistan,2014,54.36
+1667,pak,Pakistan,2015,48.23
+1668,pak,Pakistan,2016,55.49
+1669,pak,Pakistan,2017,58.31
+1670,pak,Pakistan,2018,54.72
+1671,pak,Pakistan,2019,44.43
+1672,pak,Pakistan,2020,46.24
+1673,pak,Pakistan,2021,44.87
+1674,pak,Pakistan,2022,49.31
+1675,pak,Pakistan,2023,45.49
+1676,pan,Panama,2006,61.28
+1677,pan,Panama,2007,68.94
+1678,pan,Panama,2008,69.31
+1679,pan,Panama,2009,70.34
+1680,pan,Panama,2010,73.21
+1681,pan,Panama,2011,72.48
+1682,pan,Panama,2012,68.60
+1683,pan,Panama,2013,68.66
+1684,pan,Panama,2014,66.31
+1685,pan,Panama,2015,66.06
+1686,pan,Panama,2016,61.18
+1687,pan,Panama,2017,65.68
+1688,pan,Panama,2018,62.81
+1689,pan,Panama,2019,60.86
+1690,pan,Panama,2021,65.53
+1691,pan,Panama,2022,59.79
+1692,pan,Panama,2023,65.43
+1693,per,Peru,2006,48.11
+1694,per,Peru,2007,52.14
+1695,per,Peru,2008,51.29
+1696,per,Peru,2009,55.19
+1697,per,Peru,2010,56.13
+1698,per,Peru,2011,58.92
+1699,per,Peru,2012,58.25
+1700,per,Peru,2013,57.83
+1701,per,Peru,2014,58.66
+1702,per,Peru,2015,55.77
+1703,per,Peru,2016,57.01
+1704,per,Peru,2017,57.11
+1705,per,Peru,2018,56.80
+1706,per,Peru,2019,59.99
+1707,per,Peru,2020,49.94
+1708,per,Peru,2021,56.94
+1709,per,Peru,2022,58.92
+1710,per,Peru,2023,59.36
+1711,phl,Philippines,2006,46.70
+1712,phl,Philippines,2007,50.74
+1713,phl,Philippines,2008,45.89
+1714,phl,Philippines,2009,48.80
+1715,phl,Philippines,2010,49.42
+1716,phl,Philippines,2011,49.94
+1717,phl,Philippines,2012,50.02
+1718,phl,Philippines,2013,49.77
+1719,phl,Philippines,2014,53.13
+1720,phl,Philippines,2015,55.47
+1721,phl,Philippines,2016,54.31
+1722,phl,Philippines,2017,55.94
+1723,phl,Philippines,2018,58.69
+1724,phl,Philippines,2019,62.68
+1725,phl,Philippines,2020,50.80
+1726,phl,Philippines,2021,59.65
+1727,phl,Philippines,2022,59.95
+1728,phl,Philippines,2023,61.84
+1729,pol,Poland,2005,55.87
+1730,pol,Poland,2007,58.86
+1731,pol,Poland,2009,57.72
+1732,pol,Poland,2010,58.87
+1733,pol,Poland,2011,56.46
+1734,pol,Poland,2012,58.76
+1735,pol,Poland,2013,57.46
+1736,pol,Poland,2014,57.50
+1737,pol,Poland,2015,60.07
+1738,pol,Poland,2016,61.62
+1739,pol,Poland,2017,62.01
+1740,pol,Poland,2018,61.11
+1741,pol,Poland,2019,62.42
+1742,pol,Poland,2020,61.39
+1743,pol,Poland,2021,59.78
+1744,pol,Poland,2022,66.66
+1745,pol,Poland,2023,66.85
+1746,prt,Portugal,2006,54.05
+1747,prt,Portugal,2008,57.17
+1748,prt,Portugal,2010,50.95
+1749,prt,Portugal,2011,52.20
+1750,prt,Portugal,2012,49.94
+1751,prt,Portugal,2013,51.58
+1752,prt,Portugal,2014,51.27
+1753,prt,Portugal,2015,50.81
+1754,prt,Portugal,2016,54.47
+1755,prt,Portugal,2017,57.11
+1756,prt,Portugal,2018,59.20
+1757,prt,Portugal,2019,60.95
+1758,prt,Portugal,2020,57.68
+1759,prt,Portugal,2021,61.83
+1760,prt,Portugal,2022,59.53
+1761,prt,Portugal,2023,59.54
+1762,pry,Paraguay,2006,47.30
+1763,pry,Paraguay,2007,52.72
+1764,pry,Paraguay,2008,55.70
+1765,pry,Paraguay,2009,55.76
+1766,pry,Paraguay,2010,58.41
+1767,pry,Paraguay,2011,56.77
+1768,pry,Paraguay,2012,58.20
+1769,pry,Paraguay,2013,59.36
+1770,pry,Paraguay,2014,51.19
+1771,pry,Paraguay,2015,55.60
+1772,pry,Paraguay,2016,58.01
+1773,pry,Paraguay,2017,57.13
+1774,pry,Paraguay,2019,56.53
+1775,pry,Paraguay,2020,55.01
+1776,pry,Paraguay,2021,55.76
+1777,pry,Paraguay,2022,61.38
+1778,pry,Paraguay,2023,62.14
+1779,pse,Palestine,2006,47.16
+1780,pse,Palestine,2007,41.51
+1781,pse,Palestine,2008,43.86
+1782,pse,Palestine,2009,44.70
+1783,pse,Palestine,2010,47.03
+1784,pse,Palestine,2011,47.51
+1785,pse,Palestine,2012,46.47
+1786,pse,Palestine,2013,48.44
+1787,pse,Palestine,2014,47.22
+1788,pse,Palestine,2015,46.95
+1789,pse,Palestine,2016,49.07
+1790,pse,Palestine,2017,46.28
+1791,pse,Palestine,2018,45.54
+1792,pse,Palestine,2019,44.83
+1793,pse,Palestine,2022,49.08
+1794,pse,Palestine,2023,48.51
+1795,qat,Qatar,2009,64.18
+1796,qat,Qatar,2010,68.50
+1797,qat,Qatar,2011,65.92
+1798,qat,Qatar,2012,66.11
+1799,qat,Qatar,2015,63.75
+1800,rou,Romania,2005,50.49
+1801,rou,Romania,2007,53.94
+1802,rou,Romania,2009,53.68
+1803,rou,Romania,2010,49.09
+1804,rou,Romania,2011,50.23
+1805,rou,Romania,2012,51.67
+1806,rou,Romania,2013,50.82
+1807,rou,Romania,2014,57.27
+1808,rou,Romania,2015,57.77
+1809,rou,Romania,2016,59.69
+1810,rou,Romania,2017,60.90
+1811,rou,Romania,2018,61.51
+1812,rou,Romania,2019,61.30
+1813,rou,Romania,2020,67.85
+1814,rou,Romania,2021,65.49
+1815,rou,Romania,2022,64.37
+1816,rou,Romania,2023,64.89
+1817,rus,Russia,2006,49.64
+1818,rus,Russia,2007,52.23
+1819,rus,Russia,2008,56.19
+1820,rus,Russia,2009,51.58
+1821,rus,Russia,2010,53.85
+1822,rus,Russia,2011,53.89
+1823,rus,Russia,2012,56.21
+1824,rus,Russia,2013,55.37
+1825,rus,Russia,2014,60.37
+1826,rus,Russia,2015,59.96
+1827,rus,Russia,2016,58.55
+1828,rus,Russia,2017,55.79
+1829,rus,Russia,2018,55.14
+1830,rus,Russia,2019,54.41
+1831,rus,Russia,2020,54.95
+1832,rus,Russia,2021,54.48
+1833,rus,Russia,2022,60.44
+1834,rus,Russia,2023,58.65
+1835,rwa,Rwanda,2006,42.15
+1836,rwa,Rwanda,2008,43.63
+1837,rwa,Rwanda,2009,40.30
+1838,rwa,Rwanda,2011,40.97
+1839,rwa,Rwanda,2012,33.33
+1840,rwa,Rwanda,2013,34.66
+1841,rwa,Rwanda,2014,35.96
+1842,rwa,Rwanda,2015,34.83
+1843,rwa,Rwanda,2016,33.33
+1844,rwa,Rwanda,2017,31.08
+1845,rwa,Rwanda,2018,35.61
+1846,rwa,Rwanda,2019,32.68
+1847,sau,Saudi Arabia,2005,70.80
+1848,sau,Saudi Arabia,2007,72.67
+1849,sau,Saudi Arabia,2008,68.11
+1850,sau,Saudi Arabia,2009,61.48
+1851,sau,Saudi Arabia,2010,63.07
+1852,sau,Saudi Arabia,2011,67.00
+1853,sau,Saudi Arabia,2012,63.96
+1854,sau,Saudi Arabia,2013,64.95
+1855,sau,Saudi Arabia,2014,62.78
+1856,sau,Saudi Arabia,2015,63.45
+1857,sau,Saudi Arabia,2016,64.74
+1858,sau,Saudi Arabia,2017,62.94
+1859,sau,Saudi Arabia,2018,63.56
+1860,sau,Saudi Arabia,2019,65.61
+1861,sau,Saudi Arabia,2020,65.60
+1862,sau,Saudi Arabia,2021,64.45
+1863,sau,Saudi Arabia,2022,63.82
+1864,sau,Saudi Arabia,2023,69.53
+1865,sdn,Sudan,2009,44.55
+1866,sdn,Sudan,2010,44.35
+1867,sdn,Sudan,2011,43.14
+1868,sdn,Sudan,2012,45.50
+1869,sdn,Sudan,2014,41.39
+1870,sen,Senegal,2006,44.17
+1871,sen,Senegal,2007,46.80
+1872,sen,Senegal,2008,46.83
+1873,sen,Senegal,2009,43.35
+1874,sen,Senegal,2010,43.72
+1875,sen,Senegal,2011,38.34
+1876,sen,Senegal,2012,36.69
+1877,sen,Senegal,2013,36.47
+1878,sen,Senegal,2014,43.95
+1879,sen,Senegal,2015,46.17
+1880,sen,Senegal,2016,45.95
+1881,sen,Senegal,2017,46.83
+1882,sen,Senegal,2018,47.69
+1883,sen,Senegal,2019,54.89
+1884,sen,Senegal,2020,47.57
+1885,sen,Senegal,2021,49.03
+1886,sen,Senegal,2022,49.07
+1887,sen,Senegal,2023,50.93
+1888,sgp,Singapore,2006,64.63
+1889,sgp,Singapore,2007,68.34
+1890,sgp,Singapore,2008,66.42
+1891,sgp,Singapore,2009,61.45
+1892,sgp,Singapore,2010,65.31
+1893,sgp,Singapore,2011,65.61
+1894,sgp,Singapore,2013,65.33
+1895,sgp,Singapore,2014,70.62
+1896,sgp,Singapore,2015,66.20
+1897,sgp,Singapore,2016,60.33
+1898,sgp,Singapore,2017,63.78
+1899,sgp,Singapore,2018,63.75
+1900,sgp,Singapore,2019,63.78
+1901,sgp,Singapore,2021,65.87
+1902,sgp,Singapore,2022,63.33
+1903,sgp,Singapore,2023,66.54
+1904,sle,Sierra Leone,2006,36.28
+1905,sle,Sierra Leone,2007,35.85
+1906,sle,Sierra Leone,2008,29.97
+1907,sle,Sierra Leone,2010,41.34
+1908,sle,Sierra Leone,2011,45.02
+1909,sle,Sierra Leone,2013,45.14
+1910,sle,Sierra Leone,2014,45.00
+1911,sle,Sierra Leone,2015,49.09
+1912,sle,Sierra Leone,2016,47.33
+1913,sle,Sierra Leone,2017,40.90
+1914,sle,Sierra Leone,2018,43.06
+1915,sle,Sierra Leone,2019,34.47
+1916,sle,Sierra Leone,2021,37.14
+1917,sle,Sierra Leone,2022,25.60
+1918,sle,Sierra Leone,2023,34.67
+1919,slv,El Salvador,2006,57.01
+1920,slv,El Salvador,2007,52.96
+1921,slv,El Salvador,2008,51.91
+1922,slv,El Salvador,2009,68.39
+1923,slv,El Salvador,2010,67.40
+1924,slv,El Salvador,2011,47.41
+1925,slv,El Salvador,2012,59.34
+1926,slv,El Salvador,2013,63.25
+1927,slv,El Salvador,2014,58.57
+1928,slv,El Salvador,2015,60.18
+1929,slv,El Salvador,2016,61.40
+1930,slv,El Salvador,2017,63.39
+1931,slv,El Salvador,2018,62.41
+1932,slv,El Salvador,2019,64.55
+1933,slv,El Salvador,2020,54.62
+1934,slv,El Salvador,2021,64.31
+1935,slv,El Salvador,2022,64.92
+1936,slv,El Salvador,2023,64.82
+1937,som,Somalia,2014,55.28
+1938,som,Somalia,2015,53.54
+1939,som,Somalia,2016,46.68
+1940,srb,Serbia,2007,47.50
+1941,srb,Serbia,2009,43.80
+1942,srb,Serbia,2010,44.61
+1943,srb,Serbia,2011,48.15
+1944,srb,Serbia,2012,51.55
+1945,srb,Serbia,2013,51.02
+1946,srb,Serbia,2014,51.13
+1947,srb,Serbia,2015,53.18
+1948,srb,Serbia,2016,57.53
+1949,srb,Serbia,2017,51.22
+1950,srb,Serbia,2018,59.36
+1951,srb,Serbia,2019,62.41
+1952,srb,Serbia,2020,60.42
+1953,srb,Serbia,2021,62.45
+1954,srb,Serbia,2022,65.46
+1955,srb,Serbia,2023,64.41
+1956,ssd,South Sudan,2014,38.32
+1957,ssd,South Sudan,2015,40.71
+1958,ssd,South Sudan,2016,28.88
+1959,ssd,South Sudan,2017,28.17
+1960,sur,Suriname,2012,62.69
+1961,svk,Slovak Republic,2006,52.65
+1962,svk,Slovak Republic,2010,60.52
+1963,svk,Slovak Republic,2011,59.45
+1964,svk,Slovak Republic,2012,59.11
+1965,svk,Slovak Republic,2013,59.37
+1966,svk,Slovak Republic,2014,61.39
+1967,svk,Slovak Republic,2015,61.62
+1968,svk,Slovak Republic,2016,59.93
+1969,svk,Slovak Republic,2017,63.66
+1970,svk,Slovak Republic,2018,62.35
+1971,svk,Slovak Republic,2019,62.43
+1972,svk,Slovak Republic,2020,65.19
+1973,svk,Slovak Republic,2021,64.19
+1974,svk,Slovak Republic,2022,60.91
+1975,svk,Slovak Republic,2023,62.61
+1976,svn,Slovenia,2006,58.11
+1977,svn,Slovenia,2009,58.30
+1978,svn,Slovenia,2010,60.83
+1979,svn,Slovenia,2011,60.36
+1980,svn,Slovenia,2012,60.63
+1981,svn,Slovenia,2013,59.75
+1982,svn,Slovenia,2014,56.78
+1983,svn,Slovenia,2015,57.41
+1984,svn,Slovenia,2016,59.37
+1985,svn,Slovenia,2017,61.67
+1986,svn,Slovenia,2018,62.49
+1987,svn,Slovenia,2019,66.65
+1988,svn,Slovenia,2020,64.62
+1989,svn,Slovenia,2021,67.61
+1990,svn,Slovenia,2022,67.23
+1991,svn,Slovenia,2023,67.46
+1992,swe,Sweden,2005,73.76
+1993,swe,Sweden,2007,72.41
+1994,swe,Sweden,2008,75.16
+1995,swe,Sweden,2009,72.66
+1996,swe,Sweden,2010,74.96
+1997,swe,Sweden,2011,73.82
+1998,swe,Sweden,2012,75.60
+1999,swe,Sweden,2013,74.34
+2000,swe,Sweden,2014,72.39
+2001,swe,Sweden,2015,72.89
+2002,swe,Sweden,2016,73.69
+2003,swe,Sweden,2017,72.87
+2004,swe,Sweden,2018,73.75
+2005,swe,Sweden,2019,73.98
+2006,swe,Sweden,2020,73.14
+2007,swe,Sweden,2021,74.39
+2008,swe,Sweden,2022,74.31
+2009,swe,Sweden,2023,71.61
+2010,swz,Swaziland,2011,48.67
+2011,swz,Swaziland,2018,42.12
+2012,swz,Swaziland,2019,43.96
+2013,swz,Swaziland,2022,35.02
+2014,syr,Syria,2008,53.23
+2015,syr,Syria,2009,49.79
+2016,syr,Syria,2010,44.65
+2017,syr,Syria,2011,40.38
+2018,syr,Syria,2012,31.64
+2019,syr,Syria,2013,26.88
+2020,syr,Syria,2015,34.62
+2021,tcd,Chad,2006,34.35
+2022,tcd,Chad,2007,41.41
+2023,tcd,Chad,2008,46.32
+2024,tcd,Chad,2009,36.39
+2025,tcd,Chad,2010,37.43
+2026,tcd,Chad,2011,43.93
+2027,tcd,Chad,2012,40.33
+2028,tcd,Chad,2013,35.08
+2029,tcd,Chad,2014,34.60
+2030,tcd,Chad,2015,43.23
+2031,tcd,Chad,2016,40.29
+2032,tcd,Chad,2017,45.59
+2033,tcd,Chad,2018,44.86
+2034,tcd,Chad,2019,42.51
+2035,tcd,Chad,2022,43.97
+2036,tcd,Chad,2023,45.44
+2037,tgo,Togo,2006,32.02
+2038,tgo,Togo,2008,28.08
+2039,tgo,Togo,2011,29.36
+2040,tgo,Togo,2014,28.39
+2041,tgo,Togo,2015,37.68
+2042,tgo,Togo,2016,38.79
+2043,tgo,Togo,2017,43.61
+2044,tgo,Togo,2018,40.23
+2045,tgo,Togo,2019,41.79
+2046,tgo,Togo,2021,40.37
+2047,tgo,Togo,2022,42.39
+2048,tgo,Togo,2023,43.65
+2049,tha,Thailand,2006,58.85
+2050,tha,Thailand,2007,57.84
+2051,tha,Thailand,2008,56.36
+2052,tha,Thailand,2009,54.76
+2053,tha,Thailand,2010,62.17
+2054,tha,Thailand,2011,66.64
+2055,tha,Thailand,2012,63.00
+2056,tha,Thailand,2013,62.31
+2057,tha,Thailand,2014,69.85
+2058,tha,Thailand,2015,62.02
+2059,tha,Thailand,2016,60.74
+2060,tha,Thailand,2017,59.39
+2061,tha,Thailand,2018,60.12
+2062,tha,Thailand,2019,60.22
+2063,tha,Thailand,2020,58.85
+2064,tha,Thailand,2021,56.38
+2065,tha,Thailand,2022,60.07
+2066,tha,Thailand,2023,62.82
+2067,tjk,Tajikistan,2006,46.13
+2068,tjk,Tajikistan,2007,44.32
+2069,tjk,Tajikistan,2008,50.64
+2070,tjk,Tajikistan,2009,45.75
+2071,tjk,Tajikistan,2010,43.81
+2072,tjk,Tajikistan,2011,42.63
+2073,tjk,Tajikistan,2012,44.97
+2074,tjk,Tajikistan,2013,49.67
+2075,tjk,Tajikistan,2014,48.96
+2076,tjk,Tajikistan,2015,51.24
+2077,tjk,Tajikistan,2016,51.04
+2078,tjk,Tajikistan,2017,58.29
+2079,tjk,Tajikistan,2018,54.97
+2080,tjk,Tajikistan,2019,54.64
+2081,tjk,Tajikistan,2020,53.73
+2082,tjk,Tajikistan,2021,52.87
+2083,tjk,Tajikistan,2022,51.76
+2084,tjk,Tajikistan,2023,53.79
+2085,tkm,Turkmenistan,2009,65.68
+2086,tkm,Turkmenistan,2011,57.92
+2087,tkm,Turkmenistan,2012,54.64
+2088,tkm,Turkmenistan,2013,53.92
+2089,tkm,Turkmenistan,2014,57.87
+2090,tkm,Turkmenistan,2015,57.91
+2091,tkm,Turkmenistan,2016,58.87
+2092,tkm,Turkmenistan,2017,52.29
+2093,tkm,Turkmenistan,2018,46.21
+2094,tkm,Turkmenistan,2019,54.74
+2095,tto,Trinidad and Tobago,2006,58.32
+2096,tto,Trinidad and Tobago,2008,66.96
+2097,tto,Trinidad and Tobago,2011,65.19
+2098,tto,Trinidad and Tobago,2013,61.68
+2099,tto,Trinidad and Tobago,2017,61.92
+2100,tun,Tunisia,2009,50.25
+2101,tun,Tunisia,2010,51.31
+2102,tun,Tunisia,2011,48.76
+2103,tun,Tunisia,2012,44.64
+2104,tun,Tunisia,2013,52.46
+2105,tun,Tunisia,2014,47.64
+2106,tun,Tunisia,2015,51.32
+2107,tun,Tunisia,2016,45.21
+2108,tun,Tunisia,2017,41.24
+2109,tun,Tunisia,2018,47.41
+2110,tun,Tunisia,2019,43.15
+2111,tun,Tunisia,2020,47.31
+2112,tun,Tunisia,2021,44.99
+2113,tun,Tunisia,2022,42.61
+2114,tun,Tunisia,2023,45.05
+2115,tur,Turkey,2005,47.19
+2116,tur,Turkey,2007,56.23
+2117,tur,Turkey,2008,51.18
+2118,tur,Turkey,2009,52.13
+2119,tur,Turkey,2010,54.90
+2120,tur,Turkey,2011,52.72
+2121,tur,Turkey,2012,53.09
+2122,tur,Turkey,2013,48.88
+2123,tur,Turkey,2014,55.80
+2124,tur,Turkey,2015,55.14
+2125,tur,Turkey,2016,53.26
+2126,tur,Turkey,2017,56.07
+2127,tur,Turkey,2018,51.86
+2128,tur,Turkey,2019,48.72
+2129,tur,Turkey,2020,48.62
+2130,tur,Turkey,2021,43.67
+2131,tur,Turkey,2022,50.93
+2132,tur,Turkey,2023,54.63
+2133,twn,Taiwan,2006,61.89
+2134,twn,Taiwan,2008,55.48
+2135,twn,Taiwan,2010,62.29
+2136,twn,Taiwan,2011,63.09
+2137,twn,Taiwan,2012,61.26
+2138,twn,Taiwan,2013,63.40
+2139,twn,Taiwan,2014,63.63
+2140,twn,Taiwan,2015,64.50
+2141,twn,Taiwan,2016,65.13
+2142,twn,Taiwan,2017,63.59
+2143,twn,Taiwan,2018,64.67
+2144,twn,Taiwan,2019,65.37
+2145,twn,Taiwan,2020,67.51
+2146,twn,Taiwan,2021,62.47
+2147,twn,Taiwan,2022,66.07
+2148,twn,Taiwan,2023,66.55
+2149,tza,Tanzania,2006,39.22
+2150,tza,Tanzania,2007,43.18
+2151,tza,Tanzania,2008,43.85
+2152,tza,Tanzania,2009,34.08
+2153,tza,Tanzania,2010,32.29
+2154,tza,Tanzania,2011,40.74
+2155,tza,Tanzania,2012,40.07
+2156,tza,Tanzania,2013,38.52
+2157,tza,Tanzania,2014,34.83
+2158,tza,Tanzania,2015,36.61
+2159,tza,Tanzania,2016,29.03
+2160,tza,Tanzania,2017,33.47
+2161,tza,Tanzania,2018,34.45
+2162,tza,Tanzania,2019,36.40
+2163,tza,Tanzania,2020,37.86
+2164,tza,Tanzania,2021,36.81
+2165,tza,Tanzania,2022,36.16
+2166,tza,Tanzania,2023,40.42
+2167,uga,Uganda,2006,37.34
+2168,uga,Uganda,2007,44.56
+2169,uga,Uganda,2008,45.69
+2170,uga,Uganda,2009,46.12
+2171,uga,Uganda,2010,41.93
+2172,uga,Uganda,2011,48.26
+2173,uga,Uganda,2012,43.09
+2174,uga,Uganda,2013,37.10
+2175,uga,Uganda,2014,37.70
+2176,uga,Uganda,2015,42.38
+2177,uga,Uganda,2016,42.33
+2178,uga,Uganda,2017,40.01
+2179,uga,Uganda,2018,43.22
+2180,uga,Uganda,2019,49.48
+2181,uga,Uganda,2020,46.41
+2182,uga,Uganda,2021,42.25
+2183,uga,Uganda,2022,44.25
+2184,uga,Uganda,2023,44.67
+2185,ukr,Ukraine,2006,48.04
+2186,ukr,Ukraine,2007,52.52
+2187,ukr,Ukraine,2008,51.72
+2188,ukr,Ukraine,2009,51.66
+2189,ukr,Ukraine,2010,50.58
+2190,ukr,Ukraine,2011,50.83
+2191,ukr,Ukraine,2012,50.30
+2192,ukr,Ukraine,2013,47.11
+2193,ukr,Ukraine,2014,42.97
+2194,ukr,Ukraine,2015,39.65
+2195,ukr,Ukraine,2016,40.29
+2196,ukr,Ukraine,2017,43.11
+2197,ukr,Ukraine,2018,46.62
+2198,ukr,Ukraine,2019,47.02
+2199,ukr,Ukraine,2020,52.70
+2200,ukr,Ukraine,2021,53.11
+2201,ukr,Ukraine,2022,46.37
+2202,ukr,Ukraine,2023,46.72
+2203,ury,Uruguay,2006,57.86
+2204,ury,Uruguay,2007,56.94
+2205,ury,Uruguay,2008,56.64
+2206,ury,Uruguay,2009,62.96
+2207,ury,Uruguay,2010,60.62
+2208,ury,Uruguay,2011,65.54
+2209,ury,Uruguay,2012,64.50
+2210,ury,Uruguay,2013,64.44
+2211,ury,Uruguay,2014,65.61
+2212,ury,Uruguay,2015,66.28
+2213,ury,Uruguay,2016,61.71
+2214,ury,Uruguay,2017,63.36
+2215,ury,Uruguay,2018,63.72
+2216,ury,Uruguay,2019,66.00
+2217,ury,Uruguay,2020,63.10
+2218,ury,Uruguay,2021,65.02
+2219,ury,Uruguay,2022,66.71
+2220,ury,Uruguay,2023,66.62
+2221,usa,United States,2006,71.82
+2222,usa,United States,2007,75.13
+2223,usa,United States,2008,72.80
+2224,usa,United States,2009,71.58
+2225,usa,United States,2010,71.64
+2226,usa,United States,2011,71.15
+2227,usa,United States,2012,70.26
+2228,usa,United States,2013,72.49
+2229,usa,United States,2014,71.51
+2230,usa,United States,2015,68.64
+2231,usa,United States,2016,68.04
+2232,usa,United States,2017,69.92
+2233,usa,United States,2018,68.83
+2234,usa,United States,2019,69.44
+2235,usa,United States,2020,70.28
+2236,usa,United States,2021,69.59
+2237,usa,United States,2022,66.93
+2238,usa,United States,2023,65.21
+2239,uzb,Uzbekistan,2006,52.32
+2240,uzb,Uzbekistan,2008,53.11
+2241,uzb,Uzbekistan,2009,52.61
+2242,uzb,Uzbekistan,2010,50.95
+2243,uzb,Uzbekistan,2011,57.39
+2244,uzb,Uzbekistan,2012,60.19
+2245,uzb,Uzbekistan,2013,59.40
+2246,uzb,Uzbekistan,2014,60.49
+2247,uzb,Uzbekistan,2015,59.72
+2248,uzb,Uzbekistan,2016,58.93
+2249,uzb,Uzbekistan,2017,64.21
+2250,uzb,Uzbekistan,2018,62.05
+2251,uzb,Uzbekistan,2019,61.54
+2252,uzb,Uzbekistan,2020,58.42
+2253,uzb,Uzbekistan,2021,61.85
+2254,uzb,Uzbekistan,2022,60.16
+2255,uzb,Uzbekistan,2023,63.85
+2256,ven,Venezuela,2005,71.70
+2257,ven,Venezuela,2006,65.25
+2258,ven,Venezuela,2008,62.58
+2259,ven,Venezuela,2009,71.89
+2260,ven,Venezuela,2010,74.78
+2261,ven,Venezuela,2011,65.80
+2262,ven,Venezuela,2012,70.67
+2263,ven,Venezuela,2013,65.53
+2264,ven,Venezuela,2014,61.36
+2265,ven,Venezuela,2015,55.69
+2266,ven,Venezuela,2016,40.41
+2267,ven,Venezuela,2017,50.71
+2268,ven,Venezuela,2018,50.06
+2269,ven,Venezuela,2019,50.81
+2270,ven,Venezuela,2020,45.74
+2271,ven,Venezuela,2021,51.08
+2272,ven,Venezuela,2022,59.49
+2273,ven,Venezuela,2023,57.65
+2274,vnm,Vietnam,2006,52.94
+2275,vnm,Vietnam,2007,54.22
+2276,vnm,Vietnam,2008,54.80
+2277,vnm,Vietnam,2009,53.04
+2278,vnm,Vietnam,2010,52.96
+2279,vnm,Vietnam,2011,57.67
+2280,vnm,Vietnam,2012,55.35
+2281,vnm,Vietnam,2013,50.23
+2282,vnm,Vietnam,2014,50.85
+2283,vnm,Vietnam,2015,50.76
+2284,vnm,Vietnam,2016,50.62
+2285,vnm,Vietnam,2017,51.75
+2286,vnm,Vietnam,2018,52.96
+2287,vnm,Vietnam,2019,54.67
+2288,vnm,Vietnam,2020,54.62
+2289,vnm,Vietnam,2021,55.40
+2290,vnm,Vietnam,2022,62.67
+2291,vnm,Vietnam,2023,63.25
+2292,yem,Yemen,2007,44.77
+2293,yem,Yemen,2009,48.09
+2294,yem,Yemen,2010,43.50
+2295,yem,Yemen,2011,37.46
+2296,yem,Yemen,2012,40.61
+2297,yem,Yemen,2013,42.18
+2298,yem,Yemen,2014,39.68
+2299,yem,Yemen,2015,29.83
+2300,yem,Yemen,2016,38.26
+2301,yem,Yemen,2017,32.54
+2302,yem,Yemen,2018,30.58
+2303,yem,Yemen,2019,41.97
+2304,yem,Yemen,2022,35.90
+2305,yem,Yemen,2023,35.32
+2306,zaf,South Africa,2006,50.84
+2307,zaf,South Africa,2007,52.04
+2308,zaf,South Africa,2008,53.46
+2309,zaf,South Africa,2009,52.18
+2310,zaf,South Africa,2010,46.52
+2311,zaf,South Africa,2011,49.31
+2312,zaf,South Africa,2012,51.34
+2313,zaf,South Africa,2013,36.61
+2314,zaf,South Africa,2014,48.28
+2315,zaf,South Africa,2015,48.87
+2316,zaf,South Africa,2016,47.70
+2317,zaf,South Africa,2017,45.14
+2318,zaf,South Africa,2018,48.84
+2319,zaf,South Africa,2019,50.35
+2320,zaf,South Africa,2020,49.47
+2321,zaf,South Africa,2021,55.99
+2322,zaf,South Africa,2022,55.81
+2323,zaf,South Africa,2023,50.76
+2324,zmb,Zambia,2006,48.24
+2325,zmb,Zambia,2007,39.98
+2326,zmb,Zambia,2008,47.30
+2327,zmb,Zambia,2009,52.60
+2328,zmb,Zambia,2011,49.99
+2329,zmb,Zambia,2012,50.13
+2330,zmb,Zambia,2013,52.44
+2331,zmb,Zambia,2014,43.46
+2332,zmb,Zambia,2015,48.43
+2333,zmb,Zambia,2016,43.48
+2334,zmb,Zambia,2017,39.33
+2335,zmb,Zambia,2018,40.41
+2336,zmb,Zambia,2019,33.07
+2337,zmb,Zambia,2020,48.38
+2338,zmb,Zambia,2021,30.82
+2339,zmb,Zambia,2022,37.28
+2340,zmb,Zambia,2023,36.86
+2341,zwe,Zimbabwe,2006,38.26
+2342,zwe,Zimbabwe,2007,32.80
+2343,zwe,Zimbabwe,2008,31.74
+2344,zwe,Zimbabwe,2009,40.56
+2345,zwe,Zimbabwe,2010,46.82
+2346,zwe,Zimbabwe,2011,48.46
+2347,zwe,Zimbabwe,2012,49.55
+2348,zwe,Zimbabwe,2013,46.90
+2349,zwe,Zimbabwe,2014,41.84
+2350,zwe,Zimbabwe,2015,37.03
+2351,zwe,Zimbabwe,2016,37.35
+2352,zwe,Zimbabwe,2017,36.38
+2353,zwe,Zimbabwe,2018,36.16
+2354,zwe,Zimbabwe,2019,26.94
+2355,zwe,Zimbabwe,2020,31.60
+2356,zwe,Zimbabwe,2021,31.55
+2357,zwe,Zimbabwe,2022,32.96
+2358,zwe,Zimbabwe,2023,35.72
