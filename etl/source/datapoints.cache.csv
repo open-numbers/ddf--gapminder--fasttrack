@@ -66,13 +66,6 @@ vccin_effect_dag,"Vaccine effectiveness, disagree (%)","[geo:country,time:time]"
 female_hos,Female Head of State,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1eIIc06lbHFkBXLKBRywCyFnkpIo_3LjuOnpfyA7WV7k-data-for-countries-etc-by-year
 num_countries_fhos,Number of countries,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1eIIc06lbHFkBXLKBRywCyFnkpIo_3LjuOnpfyA7WV7k-data-for-world-by-year
 compt_plastic_wst,Plastic waste composition (%),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1L8vJeFRwtHPf_C6M0w7u1IVnohJQ66qZnscVk33SrcM-data-for-countries-etc-by-year
-vacc_rate,Some vaccination rate,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",17TZgHPJrV5I09CSJYxsps8fKMK2XB2it2YWpXYMmRiE-data-for-countries-etc-by-year
-bcg_vacc,BCG immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",17TZgHPJrV5I09CSJYxsps8fKMK2XB2it2YWpXYMmRiE-data-for-countries-etc-by-year
-mcv2_vacc,Measles 2nd dose immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",17TZgHPJrV5I09CSJYxsps8fKMK2XB2it2YWpXYMmRiE-data-for-countries-etc-by-year
-pcv3_vacc,PCV3 immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",17TZgHPJrV5I09CSJYxsps8fKMK2XB2it2YWpXYMmRiE-data-for-countries-etc-by-year
-pol3_vacc,Pol3 immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",17TZgHPJrV5I09CSJYxsps8fKMK2XB2it2YWpXYMmRiE-data-for-countries-etc-by-year
-rotac_vacc,RotaC immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",17TZgHPJrV5I09CSJYxsps8fKMK2XB2it2YWpXYMmRiE-data-for-countries-etc-by-year
-six_vacc_rate,Lowest vaccination rate among six basic vaccines,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",17TZgHPJrV5I09CSJYxsps8fKMK2XB2it2YWpXYMmRiE-data-for-countries-etc-by-year
 immigrant_n,Immigrant stock,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-world-by-year
 emigrant_n,Emigrant stock,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-world-by-year
 immigrant_pc,Immigrant stock share,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-world-by-year
@@ -348,3 +341,25 @@ gm_not685pov_num,People Not in poverty 6.85,"[geo:global,time:time]","{timeInCol
 corruption_perception_index_cpi,Corruption Perception Index (TI),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CwLHwwtPF-CJH4RfjJYTQKG4D1BDnH8zQCvqJmYht70-data-for-countries-etc-by-year
 corruption_perception_index_cpi,Corruption Perception Index (TI),"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CwLHwwtPF-CJH4RfjJYTQKG4D1BDnH8zQCvqJmYht70-data-for-regions-by-year
 corruption_perception_index_cpi,Corruption Perception Index (TI),"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CwLHwwtPF-CJH4RfjJYTQKG4D1BDnH8zQCvqJmYht70-data-for-world-by-year
+bcg_vacc,BCG immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-countries-etc-by-year
+dtp3_vacc,DTP3 immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-countries-etc-by-year
+hepb3_vacc,HepB3 immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-countries-etc-by-year
+hib3_vacc,HIB3 immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-countries-etc-by-year
+mcv1_vacc,Measles 1st dose immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-countries-etc-by-year
+mcv2_vacc,Measles 2nd dose immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-countries-etc-by-year
+pcv3_vacc,PCV3 immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-countries-etc-by-year
+pol3_vacc,Pol3 immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-countries-etc-by-year
+rotac_vacc,RotaC immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-countries-etc-by-year
+vacc_rate,Some vaccination rate,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-countries-etc-by-year
+six_vacc_rate,Lowest vaccination rate among six basic vaccines,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-countries-etc-by-year
+bcg_vacc,BCG immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
+dtp3_vacc,DTP3 immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
+hepb3_vacc,HepB3 immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
+hib3_vacc,HIB3 immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
+mcv1_vacc,Measles 1st dose immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
+mcv2_vacc,Measles 2nd dose immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
+pcv3_vacc,PCV3 immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
+pol3_vacc,Pol3 immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
+rotac_vacc,RotaC immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
+vacc_rate,Some vaccination rate,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
+six_vacc_rate,Lowest vaccination rate among six basic vaccines,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
