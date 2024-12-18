@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2024-12-17T11:20:36.406714+00:00",
+    "created": "2024-12-18T21:55:10.415676+00:00",
     "version": "2.0.0",
     "resources": [
         {
@@ -2690,6 +2690,27 @@
                     },
                     {
                         "name": "owid_education_idx"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--pab_immunized_percent_of_newborns--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--pab_immunized_percent_of_newborns--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "pab_immunized_percent_of_newborns"
                     }
                 ],
                 "primaryKey": [
@@ -6580,6 +6601,27 @@
                     },
                     {
                         "name": "oil_sp_tot_num"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--pab_immunized_percent_of_newborns--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--pab_immunized_percent_of_newborns--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "pab_immunized_percent_of_newborns"
                     }
                 ],
                 "primaryKey": [
@@ -12855,6 +12897,37 @@
                 "value": "owid_education_idx",
                 "resources": [
                     "ddf--datapoints--owid_education_idx--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "pab_immunized_percent_of_newborns",
+                "resources": [
+                    "ddf--datapoints--pab_immunized_percent_of_newborns--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "pab_immunized_percent_of_newborns",
+                "resources": [
+                    "ddf--datapoints--pab_immunized_percent_of_newborns--by--country--time",
+                    "ddf--datapoints--pab_immunized_percent_of_newborns--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "pab_immunized_percent_of_newborns",
+                "resources": [
+                    "ddf--datapoints--pab_immunized_percent_of_newborns--by--global--time"
                 ]
             },
             {

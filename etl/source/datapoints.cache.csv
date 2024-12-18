@@ -363,3 +363,5 @@ pol3_vacc,Pol3 immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasName
 rotac_vacc,RotaC immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
 vacc_rate,Some vaccination rate,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
 six_vacc_rate,Lowest vaccination rate among six basic vaccines,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
+pab_immunized_percent_of_newborns,PAB Immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1n5uKVd9qINM_-zyAcOHwuXB6-aNknDrFh9BQFkl_m08-data-for-countries-etc-by-year
+pab_immunized_percent_of_newborns,PAB Immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1n5uKVd9qINM_-zyAcOHwuXB6-aNknDrFh9BQFkl_m08-data-for-world-by-year

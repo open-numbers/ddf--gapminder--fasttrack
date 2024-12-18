@@ -1,0 +1,4665 @@
+,geo,name,time,PAB Immunized
+0,afg,Afghanistan,1980,1
+1,alb,Albania,1980,
+2,dza,Algeria,1980,
+3,ago,Angola,1980,
+4,bhs,Bahamas,1980,
+5,bhr,Bahrain,1980,5
+6,bgd,Bangladesh,1980,2
+7,blz,Belize,1980,
+8,ben,Benin,1980,
+9,btn,Bhutan,1980,
+10,bol,Bolivia,1980,
+11,bwa,Botswana,1980,
+12,bra,Brazil,1980,
+13,brn,Brunei,1980,
+14,bfa,Burkina Faso,1980,
+15,bdi,Burundi,1980,
+16,cpv,Cape Verde,1980,
+17,khm,Cambodia,1980,
+18,cmr,Cameroon,1980,
+19,caf,Central African Republic,1980,8
+20,tcd,Chad,1980,
+21,col,Colombia,1980,3
+22,com,Comoros,1980,
+23,cog,"Congo, Rep.",1980,
+24,civ,Cote d'Ivoire,1980,
+25,prk,North Korea,1980,
+26,cod,"Congo, Dem. Rep.",1980,
+27,dji,Djibouti,1980,
+28,dom,Dominican Republic,1980,23
+29,ecu,Ecuador,1980,2
+30,egy,Egypt,1980,
+31,slv,El Salvador,1980,23
+32,gnq,Equatorial Guinea,1980,
+33,eri,Eritrea,1980,
+34,swz,Swaziland,1980,
+35,eth,Ethiopia,1980,
+36,fji,Fiji,1980,
+37,gab,Gabon,1980,
+38,gmb,Gambia,1980,
+39,gha,Ghana,1980,3
+40,gtm,Guatemala,1980,1
+41,gin,Guinea,1980,
+42,gnb,Guinea-Bissau,1980,
+43,guy,Guyana,1980,
+44,hti,Haiti,1980,14
+45,hnd,Honduras,1980,7
+46,ind,India,1980,20
+47,idn,Indonesia,1980,6
+48,irn,Iran,1980,1
+49,irq,Iraq,1980,4
+50,jam,Jamaica,1980,
+51,jor,Jordan,1980,
+52,ken,Kenya,1980,
+53,kir,Kiribati,1980,
+54,kwt,Kuwait,1980,6
+55,lao,Lao,1980,
+56,lso,Lesotho,1980,
+57,lbr,Liberia,1980,
+58,mdg,Madagascar,1980,
+59,mwi,Malawi,1980,
+60,mys,Malaysia,1980,20
+61,mdv,Maldives,1980,8
+62,mli,Mali,1980,
+63,mrt,Mauritania,1980,
+64,mus,Mauritius,1980,1
+65,mex,Mexico,1980,5
+66,mar,Morocco,1980,
+67,moz,Mozambique,1980,
+68,mmr,Myanmar,1980,3
+69,nam,Namibia,1980,
+70,npl,Nepal,1980,1
+71,nic,Nicaragua,1980,
+72,ner,Niger,1980,
+73,nga,Nigeria,1980,
+74,omn,Oman,1980,35
+75,pak,Pakistan,1980,
+76,png,Papua New Guinea,1980,45
+77,pry,Paraguay,1980,26
+78,per,Peru,1980,
+79,phl,Philippines,1980,8
+80,rwa,Rwanda,1980,
+81,stp,Sao Tome and Principe,1980,
+82,sen,Senegal,1980,
+83,syc,Seychelles,1980,
+84,sle,Sierra Leone,1980,8
+85,slb,Solomon Islands,1980,
+86,som,Somalia,1980,
+87,zaf,South Africa,1980,
+88,ssd,South Sudan,1980,
+89,lka,Sri Lanka,1980,45
+90,sdn,Sudan,1980,
+91,sur,Suriname,1980,
+92,syr,Syria,1980,1
+93,tha,Thailand,1980,25
+94,tls,Timor-Leste,1980,
+95,tgo,Togo,1980,
+96,tun,Tunisia,1980,2
+97,tur,Turkey,1980,
+98,uga,Uganda,1980,
+99,tza,Tanzania,1980,37
+100,vut,Vanuatu,1980,
+101,ven,Venezuela,1980,
+102,vnm,Vietnam,1980,
+103,yem,Yemen,1980,
+104,zmb,Zambia,1980,
+105,zwe,Zimbabwe,1980,
+106,afg,Afghanistan,1981,3
+107,alb,Albania,1981,
+108,dza,Algeria,1981,
+109,ago,Angola,1981,
+110,bhs,Bahamas,1981,
+111,bhr,Bahrain,1981,36
+112,bgd,Bangladesh,1981,1
+113,blz,Belize,1981,75
+114,ben,Benin,1981,
+115,btn,Bhutan,1981,
+116,bol,Bolivia,1981,
+117,bwa,Botswana,1981,29
+118,bra,Brazil,1981,
+119,brn,Brunei,1981,
+120,bfa,Burkina Faso,1981,10
+121,bdi,Burundi,1981,
+122,cpv,Cape Verde,1981,
+123,khm,Cambodia,1981,
+124,cmr,Cameroon,1981,
+125,caf,Central African Republic,1981,13
+126,tcd,Chad,1981,
+127,col,Colombia,1981,6
+128,com,Comoros,1981,
+129,cog,"Congo, Rep.",1981,
+130,civ,Cote d'Ivoire,1981,
+131,prk,North Korea,1981,
+132,cod,"Congo, Dem. Rep.",1981,
+133,dji,Djibouti,1981,
+134,dom,Dominican Republic,1981,27
+135,ecu,Ecuador,1981,4
+136,egy,Egypt,1981,9
+137,slv,El Salvador,1981,22
+138,gnq,Equatorial Guinea,1981,
+139,eri,Eritrea,1981,
+140,swz,Swaziland,1981,
+141,eth,Ethiopia,1981,2
+142,fji,Fiji,1981,
+143,gab,Gabon,1981,
+144,gmb,Gambia,1981,76
+145,gha,Ghana,1981,11
+146,gtm,Guatemala,1981,1
+147,gin,Guinea,1981,
+148,gnb,Guinea-Bissau,1981,
+149,guy,Guyana,1981,
+150,hti,Haiti,1981,19
+151,hnd,Honduras,1981,12
+152,ind,India,1981,26
+153,idn,Indonesia,1981,10
+154,irn,Iran,1981,2
+155,irq,Iraq,1981,5
+156,jam,Jamaica,1981,
+157,jor,Jordan,1981,2
+158,ken,Kenya,1981,
+159,kir,Kiribati,1981,
+160,kwt,Kuwait,1981,28
+161,lao,Lao,1981,
+162,lso,Lesotho,1981,
+163,lbr,Liberia,1981,54
+164,mdg,Madagascar,1981,
+165,mwi,Malawi,1981,
+166,mys,Malaysia,1981,22
+167,mdv,Maldives,1981,4
+168,mli,Mali,1981,1
+169,mrt,Mauritania,1981,5
+170,mus,Mauritius,1981,1
+171,mex,Mexico,1981,10
+172,mar,Morocco,1981,
+173,moz,Mozambique,1981,
+174,mmr,Myanmar,1981,6
+175,nam,Namibia,1981,
+176,npl,Nepal,1981,4
+177,nic,Nicaragua,1981,3
+178,ner,Niger,1981,3
+179,nga,Nigeria,1981,10
+180,omn,Oman,1981,32
+181,pak,Pakistan,1981,1
+182,png,Papua New Guinea,1981,39
+183,pry,Paraguay,1981,10
+184,per,Peru,1981,4
+185,phl,Philippines,1981,13
+186,rwa,Rwanda,1981,5
+187,stp,Sao Tome and Principe,1981,
+188,sen,Senegal,1981,
+189,syc,Seychelles,1981,
+190,sle,Sierra Leone,1981,11
+191,slb,Solomon Islands,1981,
+192,som,Somalia,1981,1
+193,zaf,South Africa,1981,
+194,ssd,South Sudan,1981,
+195,lka,Sri Lanka,1981,48
+196,sdn,Sudan,1981,1
+197,sur,Suriname,1981,
+198,syr,Syria,1981,3
+199,tha,Thailand,1981,32
+200,tls,Timor-Leste,1981,
+201,tgo,Togo,1981,
+202,tun,Tunisia,1981,2
+203,tur,Turkey,1981,
+204,uga,Uganda,1981,18
+205,tza,Tanzania,1981,38
+206,vut,Vanuatu,1981,
+207,ven,Venezuela,1981,
+208,vnm,Vietnam,1981,
+209,yem,Yemen,1981,
+210,zmb,Zambia,1981,
+211,zwe,Zimbabwe,1981,
+212,afg,Afghanistan,1982,2
+213,alb,Albania,1982,
+214,dza,Algeria,1982,
+215,ago,Angola,1982,
+216,bhs,Bahamas,1982,
+217,bhr,Bahrain,1982,25
+218,bgd,Bangladesh,1982,2
+219,blz,Belize,1982,83
+220,ben,Benin,1982,
+221,btn,Bhutan,1982,
+222,bol,Bolivia,1982,
+223,bwa,Botswana,1982,27
+224,bra,Brazil,1982,
+225,brn,Brunei,1982,
+226,bfa,Burkina Faso,1982,11
+227,bdi,Burundi,1982,
+228,cpv,Cape Verde,1982,
+229,khm,Cambodia,1982,
+230,cmr,Cameroon,1982,
+231,caf,Central African Republic,1982,18
+232,tcd,Chad,1982,
+233,col,Colombia,1982,7
+234,com,Comoros,1982,
+235,cog,"Congo, Rep.",1982,
+236,civ,Cote d'Ivoire,1982,
+237,prk,North Korea,1982,
+238,cod,"Congo, Dem. Rep.",1982,
+239,dji,Djibouti,1982,
+240,dom,Dominican Republic,1982,31
+241,ecu,Ecuador,1982,5
+242,egy,Egypt,1982,13
+243,slv,El Salvador,1982,26
+244,gnq,Equatorial Guinea,1982,
+245,eri,Eritrea,1982,
+246,swz,Swaziland,1982,
+247,eth,Ethiopia,1982,2
+248,fji,Fiji,1982,
+249,gab,Gabon,1982,
+250,gmb,Gambia,1982,80
+251,gha,Ghana,1982,11
+252,gtm,Guatemala,1982,1
+253,gin,Guinea,1982,
+254,gnb,Guinea-Bissau,1982,
+255,guy,Guyana,1982,
+256,hti,Haiti,1982,25
+257,hnd,Honduras,1982,17
+258,ind,India,1982,35
+259,idn,Indonesia,1982,16
+260,irn,Iran,1982,4
+261,irq,Iraq,1982,4
+262,jam,Jamaica,1982,
+263,jor,Jordan,1982,7
+264,ken,Kenya,1982,
+265,kir,Kiribati,1982,
+266,kwt,Kuwait,1982,28
+267,lao,Lao,1982,
+268,lso,Lesotho,1982,
+269,lbr,Liberia,1982,48
+270,mdg,Madagascar,1982,1
+271,mwi,Malawi,1982,
+272,mys,Malaysia,1982,21
+273,mdv,Maldives,1982,28
+274,mli,Mali,1982,2
+275,mrt,Mauritania,1982,8
+276,mus,Mauritius,1982,1
+277,mex,Mexico,1982,17
+278,mar,Morocco,1982,
+279,moz,Mozambique,1982,36
+280,mmr,Myanmar,1982,12
+281,nam,Namibia,1982,
+282,npl,Nepal,1982,8
+283,nic,Nicaragua,1982,7
+284,ner,Niger,1982,4
+285,nga,Nigeria,1982,11
+286,omn,Oman,1982,29
+287,pak,Pakistan,1982,1
+288,png,Papua New Guinea,1982,32
+289,pry,Paraguay,1982,11
+290,per,Peru,1982,4
+291,phl,Philippines,1982,17
+292,rwa,Rwanda,1982,10
+293,stp,Sao Tome and Principe,1982,
+294,sen,Senegal,1982,
+295,syc,Seychelles,1982,
+296,sle,Sierra Leone,1982,13
+297,slb,Solomon Islands,1982,
+298,som,Somalia,1982,3
+299,zaf,South Africa,1982,
+300,ssd,South Sudan,1982,
+301,lka,Sri Lanka,1982,50
+302,sdn,Sudan,1982,1
+303,sur,Suriname,1982,
+304,syr,Syria,1982,3
+305,tha,Thailand,1982,39
+306,tls,Timor-Leste,1982,
+307,tgo,Togo,1982,
+308,tun,Tunisia,1982,3
+309,tur,Turkey,1982,
+310,uga,Uganda,1982,19
+311,tza,Tanzania,1982,41
+312,vut,Vanuatu,1982,
+313,ven,Venezuela,1982,
+314,vnm,Vietnam,1982,
+315,yem,Yemen,1982,
+316,zmb,Zambia,1982,
+317,zwe,Zimbabwe,1982,
+318,afg,Afghanistan,1983,4
+319,alb,Albania,1983,
+320,dza,Algeria,1983,
+321,ago,Angola,1983,8
+322,bhs,Bahamas,1983,
+323,bhr,Bahrain,1983,31
+324,bgd,Bangladesh,1983,2
+325,blz,Belize,1983,89
+326,ben,Benin,1983,
+327,btn,Bhutan,1983,
+328,bol,Bolivia,1983,
+329,bwa,Botswana,1983,36
+330,bra,Brazil,1983,
+331,brn,Brunei,1983,30
+332,bfa,Burkina Faso,1983,12
+333,bdi,Burundi,1983,11
+334,cpv,Cape Verde,1983,
+335,khm,Cambodia,1983,6
+336,cmr,Cameroon,1983,
+337,caf,Central African Republic,1983,19
+338,tcd,Chad,1983,
+339,col,Colombia,1983,7
+340,com,Comoros,1983,
+341,cog,"Congo, Rep.",1983,
+342,civ,Cote d'Ivoire,1983,
+343,prk,North Korea,1983,
+344,cod,"Congo, Dem. Rep.",1983,
+345,dji,Djibouti,1983,
+346,dom,Dominican Republic,1983,31
+347,ecu,Ecuador,1983,7
+348,egy,Egypt,1983,11
+349,slv,El Salvador,1983,25
+350,gnq,Equatorial Guinea,1983,
+351,eri,Eritrea,1983,
+352,swz,Swaziland,1983,
+353,eth,Ethiopia,1983,4
+354,fji,Fiji,1983,
+355,gab,Gabon,1983,
+356,gmb,Gambia,1983,83
+357,gha,Ghana,1983,11
+358,gtm,Guatemala,1983,4
+359,gin,Guinea,1983,
+360,gnb,Guinea-Bissau,1983,
+361,guy,Guyana,1983,
+362,hti,Haiti,1983,28
+363,hnd,Honduras,1983,18
+364,ind,India,1983,38
+365,idn,Indonesia,1983,21
+366,irn,Iran,1983,5
+367,irq,Iraq,1983,4
+368,jam,Jamaica,1983,
+369,jor,Jordan,1983,10
+370,ken,Kenya,1983,
+371,kir,Kiribati,1983,
+372,kwt,Kuwait,1983,29
+373,lao,Lao,1983,
+374,lso,Lesotho,1983,
+375,lbr,Liberia,1983,41
+376,mdg,Madagascar,1983,15
+377,mwi,Malawi,1983,1
+378,mys,Malaysia,1983,23
+379,mdv,Maldives,1983,20
+380,mli,Mali,1983,2
+381,mrt,Mauritania,1983,16
+382,mus,Mauritius,1983,1
+383,mex,Mexico,1983,23
+384,mar,Morocco,1983,
+385,moz,Mozambique,1983,42
+386,mmr,Myanmar,1983,15
+387,nam,Namibia,1983,
+388,npl,Nepal,1983,13
+389,nic,Nicaragua,1983,12
+390,ner,Niger,1983,5
+391,nga,Nigeria,1983,12
+392,omn,Oman,1983,31
+393,pak,Pakistan,1983,4
+394,png,Papua New Guinea,1983,21
+395,pry,Paraguay,1983,18
+396,per,Peru,1983,5
+397,phl,Philippines,1983,23
+398,rwa,Rwanda,1983,16
+399,stp,Sao Tome and Principe,1983,
+400,sen,Senegal,1983,
+401,syc,Seychelles,1983,
+402,sle,Sierra Leone,1983,20
+403,slb,Solomon Islands,1983,
+404,som,Somalia,1983,6
+405,zaf,South Africa,1983,
+406,ssd,South Sudan,1983,
+407,lka,Sri Lanka,1983,51
+408,sdn,Sudan,1983,2
+409,sur,Suriname,1983,
+410,syr,Syria,1983,5
+411,tha,Thailand,1983,43
+412,tls,Timor-Leste,1983,
+413,tgo,Togo,1983,
+414,tun,Tunisia,1983,3
+415,tur,Turkey,1983,
+416,uga,Uganda,1983,19
+417,tza,Tanzania,1983,43
+418,vut,Vanuatu,1983,6
+419,ven,Venezuela,1983,
+420,vnm,Vietnam,1983,
+421,yem,Yemen,1983,
+422,zmb,Zambia,1983,
+423,zwe,Zimbabwe,1983,
+424,afg,Afghanistan,1984,5
+425,alb,Albania,1984,
+426,dza,Algeria,1984,
+427,ago,Angola,1984,13
+428,bhs,Bahamas,1984,
+429,bhr,Bahrain,1984,34
+430,bgd,Bangladesh,1984,2
+431,blz,Belize,1984,89
+432,ben,Benin,1984,
+433,btn,Bhutan,1984,3
+434,bol,Bolivia,1984,
+435,bwa,Botswana,1984,41
+436,bra,Brazil,1984,
+437,brn,Brunei,1984,48
+438,bfa,Burkina Faso,1984,10
+439,bdi,Burundi,1984,16
+440,cpv,Cape Verde,1984,
+441,khm,Cambodia,1984,8
+442,cmr,Cameroon,1984,6
+443,caf,Central African Republic,1984,24
+444,tcd,Chad,1984,
+445,col,Colombia,1984,7
+446,com,Comoros,1984,14
+447,cog,"Congo, Rep.",1984,
+448,civ,Cote d'Ivoire,1984,
+449,prk,North Korea,1984,
+450,cod,"Congo, Dem. Rep.",1984,25
+451,dji,Djibouti,1984,17
+452,dom,Dominican Republic,1984,32
+453,ecu,Ecuador,1984,12
+454,egy,Egypt,1984,7
+455,slv,El Salvador,1984,25
+456,gnq,Equatorial Guinea,1984,
+457,eri,Eritrea,1984,
+458,swz,Swaziland,1984,
+459,eth,Ethiopia,1984,4
+460,fji,Fiji,1984,
+461,gab,Gabon,1984,
+462,gmb,Gambia,1984,84
+463,gha,Ghana,1984,21
+464,gtm,Guatemala,1984,6
+465,gin,Guinea,1984,
+466,gnb,Guinea-Bissau,1984,5
+467,guy,Guyana,1984,
+468,hti,Haiti,1984,32
+469,hnd,Honduras,1984,16
+470,ind,India,1984,43
+471,idn,Indonesia,1984,23
+472,irn,Iran,1984,14
+473,irq,Iraq,1984,16
+474,jam,Jamaica,1984,
+475,jor,Jordan,1984,13
+476,ken,Kenya,1984,
+477,kir,Kiribati,1984,
+478,kwt,Kuwait,1984,28
+479,lao,Lao,1984,
+480,lso,Lesotho,1984,
+481,lbr,Liberia,1984,25
+482,mdg,Madagascar,1984,20
+483,mwi,Malawi,1984,28
+484,mys,Malaysia,1984,19
+485,mdv,Maldives,1984,12
+486,mli,Mali,1984,3
+487,mrt,Mauritania,1984,16
+488,mus,Mauritius,1984,9
+489,mex,Mexico,1984,30
+490,mar,Morocco,1984,
+491,moz,Mozambique,1984,47
+492,mmr,Myanmar,1984,21
+493,nam,Namibia,1984,
+494,npl,Nepal,1984,15
+495,nic,Nicaragua,1984,16
+496,ner,Niger,1984,5
+497,nga,Nigeria,1984,10
+498,omn,Oman,1984,37
+499,pak,Pakistan,1984,8
+500,png,Papua New Guinea,1984,10
+501,pry,Paraguay,1984,30
+502,per,Peru,1984,5
+503,phl,Philippines,1984,22
+504,rwa,Rwanda,1984,22
+505,stp,Sao Tome and Principe,1984,
+506,sen,Senegal,1984,
+507,syc,Seychelles,1984,
+508,sle,Sierra Leone,1984,23
+509,slb,Solomon Islands,1984,20
+510,som,Somalia,1984,9
+511,zaf,South Africa,1984,
+512,ssd,South Sudan,1984,
+513,lka,Sri Lanka,1984,53
+514,sdn,Sudan,1984,3
+515,sur,Suriname,1984,
+516,syr,Syria,1984,6
+517,tha,Thailand,1984,38
+518,tls,Timor-Leste,1984,
+519,tgo,Togo,1984,
+520,tun,Tunisia,1984,5
+521,tur,Turkey,1984,
+522,uga,Uganda,1984,16
+523,tza,Tanzania,1984,44
+524,vut,Vanuatu,1984,6
+525,ven,Venezuela,1984,
+526,vnm,Vietnam,1984,
+527,yem,Yemen,1984,
+528,zmb,Zambia,1984,
+529,zwe,Zimbabwe,1984,31
+530,afg,Afghanistan,1985,13
+531,alb,Albania,1985,
+532,dza,Algeria,1985,
+533,ago,Angola,1985,19
+534,bhs,Bahamas,1985,
+535,bhr,Bahrain,1985,34
+536,bgd,Bangladesh,1985,3
+537,blz,Belize,1985,88
+538,ben,Benin,1985,
+539,btn,Bhutan,1985,3
+540,bol,Bolivia,1985,
+541,bwa,Botswana,1985,39
+542,bra,Brazil,1985,
+543,brn,Brunei,1985,51
+544,bfa,Burkina Faso,1985,8
+545,bdi,Burundi,1985,21
+546,cpv,Cape Verde,1985,
+547,khm,Cambodia,1985,9
+548,cmr,Cameroon,1985,10
+549,caf,Central African Republic,1985,24
+550,tcd,Chad,1985,
+551,col,Colombia,1985,8
+552,com,Comoros,1985,13
+553,cog,"Congo, Rep.",1985,
+554,civ,Cote d'Ivoire,1985,
+555,prk,North Korea,1985,
+556,cod,"Congo, Dem. Rep.",1985,37
+557,dji,Djibouti,1985,14
+558,dom,Dominican Republic,1985,33
+559,ecu,Ecuador,1985,14
+560,egy,Egypt,1985,7
+561,slv,El Salvador,1985,26
+562,gnq,Equatorial Guinea,1985,14
+563,eri,Eritrea,1985,
+564,swz,Swaziland,1985,
+565,eth,Ethiopia,1985,5
+566,fji,Fiji,1985,
+567,gab,Gabon,1985,29
+568,gmb,Gambia,1985,85
+569,gha,Ghana,1985,34
+570,gtm,Guatemala,1985,9
+571,gin,Guinea,1985,
+572,gnb,Guinea-Bissau,1985,10
+573,guy,Guyana,1985,
+574,hti,Haiti,1985,36
+575,hnd,Honduras,1985,27
+576,ind,India,1985,49
+577,idn,Indonesia,1985,29
+578,irn,Iran,1985,26
+579,irq,Iraq,1985,31
+580,jam,Jamaica,1985,
+581,jor,Jordan,1985,52
+582,ken,Kenya,1985,36
+583,kir,Kiribati,1985,
+584,kwt,Kuwait,1985,13
+585,lao,Lao,1985,2
+586,lso,Lesotho,1985,
+587,lbr,Liberia,1985,18
+588,mdg,Madagascar,1985,26
+589,mwi,Malawi,1985,26
+590,mys,Malaysia,1985,52
+591,mdv,Maldives,1985,25
+592,mli,Mali,1985,4
+593,mrt,Mauritania,1985,17
+594,mus,Mauritius,1985,18
+595,mex,Mexico,1985,36
+596,mar,Morocco,1985,
+597,moz,Mozambique,1985,49
+598,mmr,Myanmar,1985,24
+599,nam,Namibia,1985,
+600,npl,Nepal,1985,18
+601,nic,Nicaragua,1985,21
+602,ner,Niger,1985,5
+603,nga,Nigeria,1985,11
+604,omn,Oman,1985,82
+605,pak,Pakistan,1985,12
+606,png,Papua New Guinea,1985,25
+607,pry,Paraguay,1985,42
+608,per,Peru,1985,5
+609,phl,Philippines,1985,28
+610,rwa,Rwanda,1985,28
+611,stp,Sao Tome and Principe,1985,
+612,sen,Senegal,1985,7
+613,syc,Seychelles,1985,
+614,sle,Sierra Leone,1985,38
+615,slb,Solomon Islands,1985,27
+616,som,Somalia,1985,16
+617,zaf,South Africa,1985,
+618,ssd,South Sudan,1985,
+619,lka,Sri Lanka,1985,50
+620,sdn,Sudan,1985,4
+621,sur,Suriname,1985,
+622,syr,Syria,1985,8
+623,tha,Thailand,1985,41
+624,tls,Timor-Leste,1985,
+625,tgo,Togo,1985,
+626,tun,Tunisia,1985,8
+627,tur,Turkey,1985,
+628,uga,Uganda,1985,12
+629,tza,Tanzania,1985,51
+630,vut,Vanuatu,1985,19
+631,ven,Venezuela,1985,
+632,vnm,Vietnam,1985,
+633,yem,Yemen,1985,3
+634,zmb,Zambia,1985,
+635,zwe,Zimbabwe,1985,44
+636,afg,Afghanistan,1986,18
+637,alb,Albania,1986,
+638,dza,Algeria,1986,
+639,ago,Angola,1986,25
+640,bhs,Bahamas,1986,
+641,bhr,Bahrain,1986,18
+642,bgd,Bangladesh,1986,5
+643,blz,Belize,1986,88
+644,ben,Benin,1986,4
+645,btn,Bhutan,1986,6
+646,bol,Bolivia,1986,
+647,bwa,Botswana,1986,43
+648,bra,Brazil,1986,
+649,brn,Brunei,1986,50
+650,bfa,Burkina Faso,1986,13
+651,bdi,Burundi,1986,35
+652,cpv,Cape Verde,1986,
+653,khm,Cambodia,1986,10
+654,cmr,Cameroon,1986,13
+655,caf,Central African Republic,1986,25
+656,tcd,Chad,1986,
+657,col,Colombia,1986,8
+658,com,Comoros,1986,24
+659,cog,"Congo, Rep.",1986,60
+660,civ,Cote d'Ivoire,1986,
+661,prk,North Korea,1986,
+662,cod,"Congo, Dem. Rep.",1986,37
+663,dji,Djibouti,1986,12
+664,dom,Dominican Republic,1986,33
+665,ecu,Ecuador,1986,15
+666,egy,Egypt,1986,7
+667,slv,El Salvador,1986,27
+668,gnq,Equatorial Guinea,1986,24
+669,eri,Eritrea,1986,
+670,swz,Swaziland,1986,
+671,eth,Ethiopia,1986,7
+672,fji,Fiji,1986,
+673,gab,Gabon,1986,43
+674,gmb,Gambia,1986,81
+675,gha,Ghana,1986,48
+676,gtm,Guatemala,1986,13
+677,gin,Guinea,1986,5
+678,gnb,Guinea-Bissau,1986,18
+679,guy,Guyana,1986,
+680,hti,Haiti,1986,39
+681,hnd,Honduras,1986,39
+682,ind,India,1986,55
+683,idn,Indonesia,1986,32
+684,irn,Iran,1986,35
+685,irq,Iraq,1986,47
+686,jam,Jamaica,1986,
+687,jor,Jordan,1986,40
+688,ken,Kenya,1986,52
+689,kir,Kiribati,1986,
+690,kwt,Kuwait,1986,9
+691,lao,Lao,1986,4
+692,lso,Lesotho,1986,
+693,lbr,Liberia,1986,22
+694,mdg,Madagascar,1986,35
+695,mwi,Malawi,1986,50
+696,mys,Malaysia,1986,56
+697,mdv,Maldives,1986,28
+698,mli,Mali,1986,5
+699,mrt,Mauritania,1986,23
+700,mus,Mauritius,1986,53
+701,mex,Mexico,1986,42
+702,mar,Morocco,1986,
+703,moz,Mozambique,1986,33
+704,mmr,Myanmar,1986,31
+705,nam,Namibia,1986,
+706,npl,Nepal,1986,29
+707,nic,Nicaragua,1986,26
+708,ner,Niger,1986,5
+709,nga,Nigeria,1986,16
+710,omn,Oman,1986,42
+711,pak,Pakistan,1986,20
+712,png,Papua New Guinea,1986,21
+713,pry,Paraguay,1986,53
+714,per,Peru,1986,5
+715,phl,Philippines,1986,31
+716,rwa,Rwanda,1986,35
+717,stp,Sao Tome and Principe,1986,
+718,sen,Senegal,1986,14
+719,syc,Seychelles,1986,98
+720,sle,Sierra Leone,1986,54
+721,slb,Solomon Islands,1986,29
+722,som,Somalia,1986,26
+723,zaf,South Africa,1986,
+724,ssd,South Sudan,1986,
+725,lka,Sri Lanka,1986,53
+726,sdn,Sudan,1986,7
+727,sur,Suriname,1986,
+728,syr,Syria,1986,9
+729,tha,Thailand,1986,40
+730,tls,Timor-Leste,1986,
+731,tgo,Togo,1986,
+732,tun,Tunisia,1986,14
+733,tur,Turkey,1986,
+734,uga,Uganda,1986,13
+735,tza,Tanzania,1986,59
+736,vut,Vanuatu,1986,19
+737,ven,Venezuela,1986,
+738,vnm,Vietnam,1986,
+739,yem,Yemen,1986,3
+740,zmb,Zambia,1986,36
+741,zwe,Zimbabwe,1986,56
+742,afg,Afghanistan,1987,13
+743,alb,Albania,1987,
+744,dza,Algeria,1987,
+745,ago,Angola,1987,27
+746,bhs,Bahamas,1987,61
+747,bhr,Bahrain,1987,13
+748,bgd,Bangladesh,1987,8
+749,blz,Belize,1987,88
+750,ben,Benin,1987,9
+751,btn,Bhutan,1987,14
+752,bol,Bolivia,1987,3
+753,bwa,Botswana,1987,50
+754,bra,Brazil,1987,56
+755,brn,Brunei,1987,45
+756,bfa,Burkina Faso,1987,18
+757,bdi,Burundi,1987,53
+758,cpv,Cape Verde,1987,
+759,khm,Cambodia,1987,10
+760,cmr,Cameroon,1987,17
+761,caf,Central African Republic,1987,25
+762,tcd,Chad,1987,8
+763,col,Colombia,1987,8
+764,com,Comoros,1987,31
+765,cog,"Congo, Rep.",1987,44
+766,civ,Cote d'Ivoire,1987,
+767,prk,North Korea,1987,
+768,cod,"Congo, Dem. Rep.",1987,36
+769,dji,Djibouti,1987,14
+770,dom,Dominican Republic,1987,34
+771,ecu,Ecuador,1987,16
+772,egy,Egypt,1987,7
+773,slv,El Salvador,1987,27
+774,gnq,Equatorial Guinea,1987,34
+775,eri,Eritrea,1987,
+776,swz,Swaziland,1987,
+777,eth,Ethiopia,1987,9
+778,fji,Fiji,1987,
+779,gab,Gabon,1987,57
+780,gmb,Gambia,1987,77
+781,gha,Ghana,1987,46
+782,gtm,Guatemala,1987,16
+783,gin,Guinea,1987,11
+784,gnb,Guinea-Bissau,1987,25
+785,guy,Guyana,1987,42
+786,hti,Haiti,1987,43
+787,hnd,Honduras,1987,52
+788,ind,India,1987,65
+789,idn,Indonesia,1987,34
+790,irn,Iran,1987,40
+791,irq,Iraq,1987,59
+792,jam,Jamaica,1987,
+793,jor,Jordan,1987,52
+794,ken,Kenya,1987,66
+795,kir,Kiribati,1987,
+796,kwt,Kuwait,1987,18
+797,lao,Lao,1987,7
+798,lso,Lesotho,1987,
+799,lbr,Liberia,1987,20
+800,mdg,Madagascar,1987,37
+801,mwi,Malawi,1987,50
+802,mys,Malaysia,1987,60
+803,mdv,Maldives,1987,47
+804,mli,Mali,1987,10
+805,mrt,Mauritania,1987,32
+806,mus,Mauritius,1987,62
+807,mex,Mexico,1987,48
+808,mar,Morocco,1987,29
+809,moz,Mozambique,1987,33
+810,mmr,Myanmar,1987,35
+811,nam,Namibia,1987,
+812,npl,Nepal,1987,25
+813,nic,Nicaragua,1987,30
+814,ner,Niger,1987,7
+815,nga,Nigeria,1987,22
+816,omn,Oman,1987,65
+817,pak,Pakistan,1987,32
+818,png,Papua New Guinea,1987,31
+819,pry,Paraguay,1987,63
+820,per,Peru,1987,6
+821,phl,Philippines,1987,39
+822,rwa,Rwanda,1987,47
+823,stp,Sao Tome and Principe,1987,
+824,sen,Senegal,1987,23
+825,syc,Seychelles,1987,98
+826,sle,Sierra Leone,1987,69
+827,slb,Solomon Islands,1987,47
+828,som,Somalia,1987,35
+829,zaf,South Africa,1987,
+830,ssd,South Sudan,1987,
+831,lka,Sri Lanka,1987,59
+832,sdn,Sudan,1987,14
+833,sur,Suriname,1987,89
+834,syr,Syria,1987,19
+835,tha,Thailand,1987,62
+836,tls,Timor-Leste,1987,
+837,tgo,Togo,1987,
+838,tun,Tunisia,1987,27
+839,tur,Turkey,1987,
+840,uga,Uganda,1987,19
+841,tza,Tanzania,1987,64
+842,vut,Vanuatu,1987,25
+843,ven,Venezuela,1987,
+844,vnm,Vietnam,1987,
+845,yem,Yemen,1987,8
+846,zmb,Zambia,1987,42
+847,zwe,Zimbabwe,1987,55
+848,afg,Afghanistan,1988,16
+849,alb,Albania,1988,
+850,dza,Algeria,1988,
+851,ago,Angola,1988,31
+852,bhs,Bahamas,1988,65
+853,bhr,Bahrain,1988,28
+854,bgd,Bangladesh,1988,14
+855,blz,Belize,1988,88
+856,ben,Benin,1988,13
+857,btn,Bhutan,1988,14
+858,bol,Bolivia,1988,11
+859,bwa,Botswana,1988,54
+860,bra,Brazil,1988,59
+861,brn,Brunei,1988,43
+862,bfa,Burkina Faso,1988,22
+863,bdi,Burundi,1988,59
+864,cpv,Cape Verde,1988,77
+865,khm,Cambodia,1988,10
+866,cmr,Cameroon,1988,20
+867,caf,Central African Republic,1988,34
+868,tcd,Chad,1988,10
+869,col,Colombia,1988,24
+870,com,Comoros,1988,33
+871,cog,"Congo, Rep.",1988,47
+872,civ,Cote d'Ivoire,1988,
+873,prk,North Korea,1988,
+874,cod,"Congo, Dem. Rep.",1988,51
+875,dji,Djibouti,1988,58
+876,dom,Dominican Republic,1988,34
+877,ecu,Ecuador,1988,13
+878,egy,Egypt,1988,68
+879,slv,El Salvador,1988,28
+880,gnq,Equatorial Guinea,1988,44
+881,eri,Eritrea,1988,
+882,swz,Swaziland,1988,
+883,eth,Ethiopia,1988,13
+884,fji,Fiji,1988,
+885,gab,Gabon,1988,63
+886,gmb,Gambia,1988,82
+887,gha,Ghana,1988,42
+888,gtm,Guatemala,1988,22
+889,gin,Guinea,1988,17
+890,gnb,Guinea-Bissau,1988,26
+891,guy,Guyana,1988,48
+892,hti,Haiti,1988,38
+893,hnd,Honduras,1988,54
+894,ind,India,1988,72
+895,idn,Indonesia,1988,37
+896,irn,Iran,1988,56
+897,irq,Iraq,1988,53
+898,jam,Jamaica,1988,
+899,jor,Jordan,1988,64
+900,ken,Kenya,1988,51
+901,kir,Kiribati,1988,
+902,kwt,Kuwait,1988,30
+903,lao,Lao,1988,7
+904,lso,Lesotho,1988,
+905,lbr,Liberia,1988,24
+906,mdg,Madagascar,1988,42
+907,mwi,Malawi,1988,69
+908,mys,Malaysia,1988,66
+909,mdv,Maldives,1988,53
+910,mli,Mali,1988,24
+911,mrt,Mauritania,1988,20
+912,mus,Mauritius,1988,71
+913,mex,Mexico,1988,52
+914,mar,Morocco,1988,47
+915,moz,Mozambique,1988,33
+916,mmr,Myanmar,1988,37
+917,nam,Namibia,1988,
+918,npl,Nepal,1988,37
+919,nic,Nicaragua,1988,32
+920,ner,Niger,1988,9
+921,nga,Nigeria,1988,29
+922,omn,Oman,1988,85
+923,pak,Pakistan,1988,31
+924,png,Papua New Guinea,1988,62
+925,pry,Paraguay,1988,65
+926,per,Peru,1988,9
+927,phl,Philippines,1988,45
+928,rwa,Rwanda,1988,55
+929,stp,Sao Tome and Principe,1988,
+930,sen,Senegal,1988,31
+931,syc,Seychelles,1988,98
+932,sle,Sierra Leone,1988,81
+933,slb,Solomon Islands,1988,58
+934,som,Somalia,1988,45
+935,zaf,South Africa,1988,
+936,ssd,South Sudan,1988,
+937,lka,Sri Lanka,1988,61
+938,sdn,Sudan,1988,20
+939,sur,Suriname,1988,91
+940,syr,Syria,1988,14
+941,tha,Thailand,1988,60
+942,tls,Timor-Leste,1988,
+943,tgo,Togo,1988,68
+944,tun,Tunisia,1988,37
+945,tur,Turkey,1988,11
+946,uga,Uganda,1988,22
+947,tza,Tanzania,1988,65
+948,vut,Vanuatu,1988,20
+949,ven,Venezuela,1988,
+950,vnm,Vietnam,1988,5
+951,yem,Yemen,1988,4
+952,zmb,Zambia,1988,44
+953,zwe,Zimbabwe,1988,54
+954,afg,Afghanistan,1989,26
+955,alb,Albania,1989,
+956,dza,Algeria,1989,3
+957,ago,Angola,1989,32
+958,bhs,Bahamas,1989,69
+959,bhr,Bahrain,1989,27
+960,bgd,Bangladesh,1989,27
+961,blz,Belize,1989,88
+962,ben,Benin,1989,23
+963,btn,Bhutan,1989,39
+964,bol,Bolivia,1989,21
+965,bwa,Botswana,1989,58
+966,bra,Brazil,1989,62
+967,brn,Brunei,1989,42
+968,bfa,Burkina Faso,1989,55
+969,bdi,Burundi,1989,65
+970,cpv,Cape Verde,1989,82
+971,khm,Cambodia,1989,10
+972,cmr,Cameroon,1989,20
+973,caf,Central African Republic,1989,49
+974,tcd,Chad,1989,19
+975,col,Colombia,1989,41
+976,com,Comoros,1989,64
+977,cog,"Congo, Rep.",1989,43
+978,civ,Cote d'Ivoire,1989,31
+979,prk,North Korea,1989,89
+980,cod,"Congo, Dem. Rep.",1989,52
+981,dji,Djibouti,1989,55
+982,dom,Dominican Republic,1989,34
+983,ecu,Ecuador,1989,9
+984,egy,Egypt,1989,67
+985,slv,El Salvador,1989,28
+986,gnq,Equatorial Guinea,1989,53
+987,eri,Eritrea,1989,
+988,swz,Swaziland,1989,63
+989,eth,Ethiopia,1989,27
+990,fji,Fiji,1989,
+991,gab,Gabon,1989,74
+992,gmb,Gambia,1989,83
+993,gha,Ghana,1989,40
+994,gtm,Guatemala,1989,28
+995,gin,Guinea,1989,24
+996,gnb,Guinea-Bissau,1989,36
+997,guy,Guyana,1989,53
+998,hti,Haiti,1989,39
+999,hnd,Honduras,1989,54
+1000,ind,India,1989,70
+1001,idn,Indonesia,1989,47
+1002,irn,Iran,1989,61
+1003,irq,Iraq,1989,46
+1004,jam,Jamaica,1989,
+1005,jor,Jordan,1989,47
+1006,ken,Kenya,1989,59
+1007,kir,Kiribati,1989,
+1008,kwt,Kuwait,1989,29
+1009,lao,Lao,1989,6
+1010,lso,Lesotho,1989,
+1011,lbr,Liberia,1989,28
+1012,mdg,Madagascar,1989,44
+1013,mwi,Malawi,1989,77
+1014,mys,Malaysia,1989,81
+1015,mdv,Maldives,1989,69
+1016,mli,Mali,1989,36
+1017,mrt,Mauritania,1989,24
+1018,mus,Mauritius,1989,62
+1019,mex,Mexico,1989,56
+1020,mar,Morocco,1989,63
+1021,moz,Mozambique,1989,41
+1022,mmr,Myanmar,1989,49
+1023,nam,Namibia,1989,
+1024,npl,Nepal,1989,32
+1025,nic,Nicaragua,1989,34
+1026,ner,Niger,1989,14
+1027,nga,Nigeria,1989,30
+1028,omn,Oman,1989,89
+1029,pak,Pakistan,1989,40
+1030,png,Papua New Guinea,1989,62
+1031,pry,Paraguay,1989,66
+1032,per,Peru,1989,14
+1033,phl,Philippines,1989,53
+1034,rwa,Rwanda,1989,60
+1035,stp,Sao Tome and Principe,1989,
+1036,sen,Senegal,1989,38
+1037,syc,Seychelles,1989,100
+1038,sle,Sierra Leone,1989,83
+1039,slb,Solomon Islands,1989,65
+1040,som,Somalia,1989,48
+1041,zaf,South Africa,1989,
+1042,ssd,South Sudan,1989,
+1043,lka,Sri Lanka,1989,64
+1044,sdn,Sudan,1989,30
+1045,sur,Suriname,1989,92
+1046,syr,Syria,1989,25
+1047,tha,Thailand,1989,67
+1048,tls,Timor-Leste,1989,
+1049,tgo,Togo,1989,44
+1050,tun,Tunisia,1989,39
+1051,tur,Turkey,1989,15
+1052,uga,Uganda,1989,29
+1053,tza,Tanzania,1989,75
+1054,vut,Vanuatu,1989,20
+1055,ven,Venezuela,1989,
+1056,vnm,Vietnam,1989,18
+1057,yem,Yemen,1989,7
+1058,zmb,Zambia,1989,51
+1059,zwe,Zimbabwe,1989,54
+1060,afg,Afghanistan,1990,13
+1061,alb,Albania,1990,30
+1062,dza,Algeria,1990,75
+1063,ago,Angola,1990,34
+1064,bhs,Bahamas,1990,71
+1065,bhr,Bahrain,1990,48
+1066,bgd,Bangladesh,1990,70
+1067,blz,Belize,1990,88
+1068,ben,Benin,1990,48
+1069,btn,Bhutan,1990,63
+1070,bol,Bolivia,1990,23
+1071,bwa,Botswana,1990,59
+1072,bra,Brazil,1990,63
+1073,brn,Brunei,1990,40
+1074,bfa,Burkina Faso,1990,55
+1075,bdi,Burundi,1990,67
+1076,cpv,Cape Verde,1990,75
+1077,khm,Cambodia,1990,11
+1078,cmr,Cameroon,1990,19
+1079,caf,Central African Republic,1990,69
+1080,tcd,Chad,1990,14
+1081,col,Colombia,1990,45
+1082,com,Comoros,1990,78
+1083,cog,"Congo, Rep.",1990,60
+1084,civ,Cote d'Ivoire,1990,36
+1085,prk,North Korea,1990,90
+1086,cod,"Congo, Dem. Rep.",1990,53
+1087,dji,Djibouti,1990,80
+1088,dom,Dominican Republic,1990,60
+1089,ecu,Ecuador,1990,82
+1090,egy,Egypt,1990,74
+1091,slv,El Salvador,1990,37
+1092,gnq,Equatorial Guinea,1990,58
+1093,eri,Eritrea,1990,
+1094,swz,Swaziland,1990,63
+1095,eth,Ethiopia,1990,24
+1096,fji,Fiji,1990,5
+1097,gab,Gabon,1990,84
+1098,gmb,Gambia,1990,85
+1099,gha,Ghana,1990,60
+1100,gtm,Guatemala,1990,44
+1101,gin,Guinea,1990,27
+1102,gnb,Guinea-Bissau,1990,40
+1103,guy,Guyana,1990,56
+1104,hti,Haiti,1990,39
+1105,hnd,Honduras,1990,60
+1106,ind,India,1990,81
+1107,idn,Indonesia,1990,64
+1108,irn,Iran,1990,71
+1109,irq,Iraq,1990,70
+1110,jam,Jamaica,1990,
+1111,jor,Jordan,1990,49
+1112,ken,Kenya,1990,60
+1113,kir,Kiribati,1990,
+1114,kwt,Kuwait,1990,51
+1115,lao,Lao,1990,12
+1116,lso,Lesotho,1990,
+1117,lbr,Liberia,1990,33
+1118,mdg,Madagascar,1990,45
+1119,mwi,Malawi,1990,81
+1120,mys,Malaysia,1990,82
+1121,mdv,Maldives,1990,86
+1122,mli,Mali,1990,45
+1123,mrt,Mauritania,1990,24
+1124,mus,Mauritius,1990,61
+1125,mex,Mexico,1990,59
+1126,mar,Morocco,1990,66
+1127,moz,Mozambique,1990,37
+1128,mmr,Myanmar,1990,62
+1129,nam,Namibia,1990,
+1130,npl,Nepal,1990,35
+1131,nic,Nicaragua,1990,39
+1132,ner,Niger,1990,17
+1133,nga,Nigeria,1990,32
+1134,omn,Oman,1990,93
+1135,pak,Pakistan,1990,50
+1136,png,Papua New Guinea,1990,78
+1137,pry,Paraguay,1990,66
+1138,per,Peru,1990,19
+1139,phl,Philippines,1990,57
+1140,rwa,Rwanda,1990,85
+1141,stp,Sao Tome and Principe,1990,
+1142,sen,Senegal,1990,45
+1143,syc,Seychelles,1990,100
+1144,sle,Sierra Leone,1990,85
+1145,slb,Solomon Islands,1990,71
+1146,som,Somalia,1990,49
+1147,zaf,South Africa,1990,
+1148,ssd,South Sudan,1990,
+1149,lka,Sri Lanka,1990,72
+1150,sdn,Sudan,1990,72
+1151,sur,Suriname,1990,92
+1152,syr,Syria,1990,63
+1153,tha,Thailand,1990,75
+1154,tls,Timor-Leste,1990,
+1155,tgo,Togo,1990,47
+1156,tun,Tunisia,1990,40
+1157,tur,Turkey,1990,20
+1158,uga,Uganda,1990,41
+1159,tza,Tanzania,1990,77
+1160,vut,Vanuatu,1990,47
+1161,ven,Venezuela,1990,
+1162,vnm,Vietnam,1990,24
+1163,yem,Yemen,1990,17
+1164,zmb,Zambia,1990,62
+1165,zwe,Zimbabwe,1990,57
+1166,afg,Afghanistan,1991,13
+1167,alb,Albania,1991,72
+1168,dza,Algeria,1991,18
+1169,ago,Angola,1991,37
+1170,bhs,Bahamas,1991,73
+1171,bhr,Bahrain,1991,44
+1172,bgd,Bangladesh,1991,76
+1173,blz,Belize,1991,88
+1174,ben,Benin,1991,71
+1175,btn,Bhutan,1991,68
+1176,bol,Bolivia,1991,25
+1177,bwa,Botswana,1991,59
+1178,bra,Brazil,1991,64
+1179,brn,Brunei,1991,38
+1180,bfa,Burkina Faso,1991,55
+1181,bdi,Burundi,1991,69
+1182,cpv,Cape Verde,1991,91
+1183,khm,Cambodia,1991,11
+1184,cmr,Cameroon,1991,19
+1185,caf,Central African Republic,1991,77
+1186,tcd,Chad,1991,13
+1187,col,Colombia,1991,57
+1188,com,Comoros,1991,44
+1189,cog,"Congo, Rep.",1991,76
+1190,civ,Cote d'Ivoire,1991,41
+1191,prk,North Korea,1991,90
+1192,cod,"Congo, Dem. Rep.",1991,35
+1193,dji,Djibouti,1991,85
+1194,dom,Dominican Republic,1991,82
+1195,ecu,Ecuador,1991,30
+1196,egy,Egypt,1991,75
+1197,slv,El Salvador,1991,46
+1198,gnq,Equatorial Guinea,1991,63
+1199,eri,Eritrea,1991,
+1200,swz,Swaziland,1991,84
+1201,eth,Ethiopia,1991,17
+1202,fji,Fiji,1991,34
+1203,gab,Gabon,1991,79
+1204,gmb,Gambia,1991,84
+1205,gha,Ghana,1991,63
+1206,gtm,Guatemala,1991,47
+1207,gin,Guinea,1991,36
+1208,gnb,Guinea-Bissau,1991,46
+1209,guy,Guyana,1991,60
+1210,hti,Haiti,1991,40
+1211,hnd,Honduras,1991,76
+1212,ind,India,1991,82
+1213,idn,Indonesia,1991,65
+1214,irn,Iran,1991,80
+1215,irq,Iraq,1991,62
+1216,jam,Jamaica,1991,
+1217,jor,Jordan,1991,51
+1218,ken,Kenya,1991,57
+1219,kir,Kiribati,1991,
+1220,kwt,Kuwait,1991,55
+1221,lao,Lao,1991,16
+1222,lso,Lesotho,1991,5
+1223,lbr,Liberia,1991,38
+1224,mdg,Madagascar,1991,35
+1225,mwi,Malawi,1991,83
+1226,mys,Malaysia,1991,83
+1227,mdv,Maldives,1991,89
+1228,mli,Mali,1991,45
+1229,mrt,Mauritania,1991,32
+1230,mus,Mauritius,1991,69
+1231,mex,Mexico,1991,62
+1232,mar,Morocco,1991,73
+1233,moz,Mozambique,1991,46
+1234,mmr,Myanmar,1991,80
+1235,nam,Namibia,1991,36
+1236,npl,Nepal,1991,36
+1237,nic,Nicaragua,1991,45
+1238,ner,Niger,1991,40
+1239,nga,Nigeria,1991,33
+1240,omn,Oman,1991,87
+1241,pak,Pakistan,1991,55
+1242,png,Papua New Guinea,1991,75
+1243,pry,Paraguay,1991,67
+1244,per,Peru,1991,24
+1245,phl,Philippines,1991,55
+1246,rwa,Rwanda,1991,86
+1247,stp,Sao Tome and Principe,1991,
+1248,sen,Senegal,1991,45
+1249,syc,Seychelles,1991,100
+1250,sle,Sierra Leone,1991,85
+1251,slb,Solomon Islands,1991,74
+1252,som,Somalia,1991,50
+1253,zaf,South Africa,1991,
+1254,ssd,South Sudan,1991,
+1255,lka,Sri Lanka,1991,76
+1256,sdn,Sudan,1991,72
+1257,sur,Suriname,1991,92
+1258,syr,Syria,1991,69
+1259,tha,Thailand,1991,74
+1260,tls,Timor-Leste,1991,
+1261,tgo,Togo,1991,30
+1262,tun,Tunisia,1991,42
+1263,tur,Turkey,1991,75
+1264,uga,Uganda,1991,50
+1265,tza,Tanzania,1991,81
+1266,vut,Vanuatu,1991,25
+1267,ven,Venezuela,1991,
+1268,vnm,Vietnam,1991,21
+1269,yem,Yemen,1991,14
+1270,zmb,Zambia,1991,73
+1271,zwe,Zimbabwe,1991,60
+1272,afg,Afghanistan,1992,11
+1273,alb,Albania,1992,87
+1274,dza,Algeria,1992,28
+1275,ago,Angola,1992,41
+1276,bhs,Bahamas,1992,74
+1277,bhr,Bahrain,1992,51
+1278,bgd,Bangladesh,1992,71
+1279,blz,Belize,1992,88
+1280,ben,Benin,1992,55
+1281,btn,Bhutan,1992,58
+1282,bol,Bolivia,1992,49
+1283,bwa,Botswana,1992,62
+1284,bra,Brazil,1992,68
+1285,brn,Brunei,1992,57
+1286,bfa,Burkina Faso,1992,52
+1287,bdi,Burundi,1992,70
+1288,cpv,Cape Verde,1992,92
+1289,khm,Cambodia,1992,11
+1290,cmr,Cameroon,1992,26
+1291,caf,Central African Republic,1992,45
+1292,tcd,Chad,1992,11
+1293,col,Colombia,1992,59
+1294,com,Comoros,1992,37
+1295,cog,"Congo, Rep.",1992,77
+1296,civ,Cote d'Ivoire,1992,43
+1297,prk,North Korea,1992,91
+1298,cod,"Congo, Dem. Rep.",1992,38
+1299,dji,Djibouti,1992,87
+1300,dom,Dominican Republic,1992,25
+1301,ecu,Ecuador,1992,32
+1302,egy,Egypt,1992,75
+1303,slv,El Salvador,1992,55
+1304,gnq,Equatorial Guinea,1992,68
+1305,eri,Eritrea,1992,
+1306,swz,Swaziland,1992,80
+1307,eth,Ethiopia,1992,17
+1308,fji,Fiji,1992,64
+1309,gab,Gabon,1992,74
+1310,gmb,Gambia,1992,83
+1311,gha,Ghana,1992,65
+1312,gtm,Guatemala,1992,50
+1313,gin,Guinea,1992,47
+1314,gnb,Guinea-Bissau,1992,48
+1315,guy,Guyana,1992,63
+1316,hti,Haiti,1992,40
+1317,hnd,Honduras,1992,64
+1318,ind,India,1992,83
+1319,idn,Indonesia,1992,68
+1320,irn,Iran,1992,64
+1321,irq,Iraq,1992,69
+1322,jam,Jamaica,1992,
+1323,jor,Jordan,1992,53
+1324,ken,Kenya,1992,61
+1325,kir,Kiribati,1992,
+1326,kwt,Kuwait,1992,58
+1327,lao,Lao,1992,22
+1328,lso,Lesotho,1992,8
+1329,lbr,Liberia,1992,43
+1330,mdg,Madagascar,1992,35
+1331,mwi,Malawi,1992,79
+1332,mys,Malaysia,1992,85
+1333,mdv,Maldives,1992,90
+1334,mli,Mali,1992,36
+1335,mrt,Mauritania,1992,40
+1336,mus,Mauritius,1992,77
+1337,mex,Mexico,1992,64
+1338,mar,Morocco,1992,76
+1339,moz,Mozambique,1992,47
+1340,mmr,Myanmar,1992,81
+1341,nam,Namibia,1992,38
+1342,npl,Nepal,1992,36
+1343,nic,Nicaragua,1992,50
+1344,ner,Niger,1992,49
+1345,nga,Nigeria,1992,35
+1346,omn,Oman,1992,89
+1347,pak,Pakistan,1992,59
+1348,png,Papua New Guinea,1992,51
+1349,pry,Paraguay,1992,85
+1350,per,Peru,1992,31
+1351,phl,Philippines,1992,56
+1352,rwa,Rwanda,1992,88
+1353,stp,Sao Tome and Principe,1992,
+1354,sen,Senegal,1992,41
+1355,syc,Seychelles,1992,100
+1356,sle,Sierra Leone,1992,86
+1357,slb,Solomon Islands,1992,76
+1358,som,Somalia,1992,49
+1359,zaf,South Africa,1992,23
+1360,ssd,South Sudan,1992,
+1361,lka,Sri Lanka,1992,82
+1362,sdn,Sudan,1992,64
+1363,sur,Suriname,1992,92
+1364,syr,Syria,1992,72
+1365,tha,Thailand,1992,76
+1366,tls,Timor-Leste,1992,
+1367,tgo,Togo,1992,27
+1368,tun,Tunisia,1992,54
+1369,tur,Turkey,1992,75
+1370,uga,Uganda,1992,82
+1371,tza,Tanzania,1992,82
+1372,vut,Vanuatu,1992,54
+1373,ven,Venezuela,1992,
+1374,vnm,Vietnam,1992,38
+1375,yem,Yemen,1992,15
+1376,zmb,Zambia,1992,46
+1377,zwe,Zimbabwe,1992,65
+1378,afg,Afghanistan,1993,13
+1379,alb,Albania,1993,89
+1380,dza,Algeria,1993,40
+1381,ago,Angola,1993,44
+1382,bhs,Bahamas,1993,76
+1383,bhr,Bahrain,1993,57
+1384,bgd,Bangladesh,1993,70
+1385,blz,Belize,1993,87
+1386,ben,Benin,1993,58
+1387,btn,Bhutan,1993,60
+1388,bol,Bolivia,1993,53
+1389,bwa,Botswana,1993,63
+1390,bra,Brazil,1993,71
+1391,brn,Brunei,1993,58
+1392,bfa,Burkina Faso,1993,54
+1393,bdi,Burundi,1993,67
+1394,cpv,Cape Verde,1993,91
+1395,khm,Cambodia,1993,26
+1396,cmr,Cameroon,1993,18
+1397,caf,Central African Republic,1993,39
+1398,tcd,Chad,1993,56
+1399,col,Colombia,1993,61
+1400,com,Comoros,1993,48
+1401,cog,"Congo, Rep.",1993,70
+1402,civ,Cote d'Ivoire,1993,47
+1403,prk,North Korea,1993,91
+1404,cod,"Congo, Dem. Rep.",1993,43
+1405,dji,Djibouti,1993,77
+1406,dom,Dominican Republic,1993,83
+1407,ecu,Ecuador,1993,30
+1408,egy,Egypt,1993,80
+1409,slv,El Salvador,1993,59
+1410,gnq,Equatorial Guinea,1993,66
+1411,eri,Eritrea,1993,5
+1412,swz,Swaziland,1993,80
+1413,eth,Ethiopia,1993,20
+1414,fji,Fiji,1993,91
+1415,gab,Gabon,1993,69
+1416,gmb,Gambia,1993,89
+1417,gha,Ghana,1993,66
+1418,gtm,Guatemala,1993,51
+1419,gin,Guinea,1993,50
+1420,gnb,Guinea-Bissau,1993,54
+1421,guy,Guyana,1993,66
+1422,hti,Haiti,1993,40
+1423,hnd,Honduras,1993,68
+1424,ind,India,1993,84
+1425,idn,Indonesia,1993,69
+1426,irn,Iran,1993,84
+1427,irq,Iraq,1993,68
+1428,jam,Jamaica,1993,
+1429,jor,Jordan,1993,53
+1430,ken,Kenya,1993,64
+1431,kir,Kiribati,1993,
+1432,kwt,Kuwait,1993,53
+1433,lao,Lao,1993,30
+1434,lso,Lesotho,1993,20
+1435,lbr,Liberia,1993,47
+1436,mdg,Madagascar,1993,33
+1437,mwi,Malawi,1993,82
+1438,mys,Malaysia,1993,84
+1439,mdv,Maldives,1993,91
+1440,mli,Mali,1993,36
+1441,mrt,Mauritania,1993,36
+1442,mus,Mauritius,1993,77
+1443,mex,Mexico,1993,67
+1444,mar,Morocco,1993,84
+1445,moz,Mozambique,1993,44
+1446,mmr,Myanmar,1993,82
+1447,nam,Namibia,1993,46
+1448,npl,Nepal,1993,45
+1449,nic,Nicaragua,1993,59
+1450,ner,Niger,1993,56
+1451,nga,Nigeria,1993,35
+1452,omn,Oman,1993,93
+1453,pak,Pakistan,1993,62
+1454,png,Papua New Guinea,1993,41
+1455,pry,Paraguay,1993,82
+1456,per,Peru,1993,38
+1457,phl,Philippines,1993,57
+1458,rwa,Rwanda,1993,69
+1459,stp,Sao Tome and Principe,1993,
+1460,sen,Senegal,1993,45
+1461,syc,Seychelles,1993,100
+1462,sle,Sierra Leone,1993,87
+1463,slb,Solomon Islands,1993,70
+1464,som,Somalia,1993,49
+1465,zaf,South Africa,1993,26
+1466,ssd,South Sudan,1993,
+1467,lka,Sri Lanka,1993,82
+1468,sdn,Sudan,1993,62
+1469,sur,Suriname,1993,92
+1470,syr,Syria,1993,84
+1471,tha,Thailand,1993,71
+1472,tls,Timor-Leste,1993,
+1473,tgo,Togo,1993,29
+1474,tun,Tunisia,1993,57
+1475,tur,Turkey,1993,75
+1476,uga,Uganda,1993,84
+1477,tza,Tanzania,1993,83
+1478,vut,Vanuatu,1993,56
+1479,ven,Venezuela,1993,
+1480,vnm,Vietnam,1993,69
+1481,yem,Yemen,1993,12
+1482,zmb,Zambia,1993,60
+1483,zwe,Zimbabwe,1993,68
+1484,afg,Afghanistan,1994,10
+1485,alb,Albania,1994,91
+1486,dza,Algeria,1994,42
+1487,ago,Angola,1994,46
+1488,bhs,Bahamas,1994,78
+1489,bhr,Bahrain,1994,56
+1490,bgd,Bangladesh,1994,81
+1491,blz,Belize,1994,87
+1492,ben,Benin,1994,61
+1493,btn,Bhutan,1994,70
+1494,bol,Bolivia,1994,56
+1495,bwa,Botswana,1994,91
+1496,bra,Brazil,1994,75
+1497,brn,Brunei,1994,64
+1498,bfa,Burkina Faso,1994,58
+1499,bdi,Burundi,1994,71
+1500,cpv,Cape Verde,1994,65
+1501,khm,Cambodia,1994,34
+1502,cmr,Cameroon,1994,18
+1503,caf,Central African Republic,1994,31
+1504,tcd,Chad,1994,60
+1505,col,Colombia,1994,62
+1506,com,Comoros,1994,58
+1507,cog,"Congo, Rep.",1994,71
+1508,civ,Cote d'Ivoire,1994,34
+1509,prk,North Korea,1994,92
+1510,cod,"Congo, Dem. Rep.",1994,52
+1511,dji,Djibouti,1994,55
+1512,dom,Dominican Republic,1994,82
+1513,ecu,Ecuador,1994,31
+1514,egy,Egypt,1994,74
+1515,slv,El Salvador,1994,63
+1516,gnq,Equatorial Guinea,1994,71
+1517,eri,Eritrea,1994,20
+1518,swz,Swaziland,1994,79
+1519,eth,Ethiopia,1994,25
+1520,fji,Fiji,1994,70
+1521,gab,Gabon,1994,44
+1522,gmb,Gambia,1994,85
+1523,gha,Ghana,1994,67
+1524,gtm,Guatemala,1994,53
+1525,gin,Guinea,1994,52
+1526,gnb,Guinea-Bissau,1994,66
+1527,guy,Guyana,1994,68
+1528,hti,Haiti,1994,41
+1529,hnd,Honduras,1994,73
+1530,ind,India,1994,84
+1531,idn,Indonesia,1994,74
+1532,irn,Iran,1994,69
+1533,irq,Iraq,1994,82
+1534,jam,Jamaica,1994,
+1535,jor,Jordan,1994,48
+1536,ken,Kenya,1994,62
+1537,kir,Kiribati,1994,
+1538,kwt,Kuwait,1994,43
+1539,lao,Lao,1994,40
+1540,lso,Lesotho,1994,40
+1541,lbr,Liberia,1994,52
+1542,mdg,Madagascar,1994,36
+1543,mwi,Malawi,1994,85
+1544,mys,Malaysia,1994,83
+1545,mdv,Maldives,1994,91
+1546,mli,Mali,1994,34
+1547,mrt,Mauritania,1994,41
+1548,mus,Mauritius,1994,78
+1549,mex,Mexico,1994,69
+1550,mar,Morocco,1994,82
+1551,moz,Mozambique,1994,41
+1552,mmr,Myanmar,1994,76
+1553,nam,Namibia,1994,61
+1554,npl,Nepal,1994,47
+1555,nic,Nicaragua,1994,64
+1556,ner,Niger,1994,57
+1557,nga,Nigeria,1994,36
+1558,omn,Oman,1994,86
+1559,pak,Pakistan,1994,62
+1560,png,Papua New Guinea,1994,51
+1561,pry,Paraguay,1994,79
+1562,per,Peru,1994,44
+1563,phl,Philippines,1994,54
+1564,rwa,Rwanda,1994,80
+1565,stp,Sao Tome and Principe,1994,
+1566,sen,Senegal,1994,47
+1567,syc,Seychelles,1994,100
+1568,sle,Sierra Leone,1994,66
+1569,slb,Solomon Islands,1994,73
+1570,som,Somalia,1994,48
+1571,zaf,South Africa,1994,28
+1572,ssd,South Sudan,1994,
+1573,lka,Sri Lanka,1994,80
+1574,sdn,Sudan,1994,68
+1575,sur,Suriname,1994,92
+1576,syr,Syria,1994,75
+1577,tha,Thailand,1994,84
+1578,tls,Timor-Leste,1994,
+1579,tgo,Togo,1994,26
+1580,tun,Tunisia,1994,56
+1581,tur,Turkey,1994,43
+1582,uga,Uganda,1994,83
+1583,tza,Tanzania,1994,84
+1584,vut,Vanuatu,1994,30
+1585,ven,Venezuela,1994,
+1586,vnm,Vietnam,1994,76
+1587,yem,Yemen,1994,17
+1588,zmb,Zambia,1994,75
+1589,zwe,Zimbabwe,1994,69
+1590,afg,Afghanistan,1995,13
+1591,alb,Albania,1995,90
+1592,dza,Algeria,1995,44
+1593,ago,Angola,1995,48
+1594,bhs,Bahamas,1995,79
+1595,bhr,Bahrain,1995,59
+1596,bgd,Bangladesh,1995,85
+1597,blz,Belize,1995,87
+1598,ben,Benin,1995,82
+1599,btn,Bhutan,1995,78
+1600,bol,Bolivia,1995,57
+1601,bwa,Botswana,1995,72
+1602,bra,Brazil,1995,78
+1603,brn,Brunei,1995,69
+1604,bfa,Burkina Faso,1995,64
+1605,bdi,Burundi,1995,61
+1606,cpv,Cape Verde,1995,30
+1607,khm,Cambodia,1995,45
+1608,cmr,Cameroon,1995,20
+1609,caf,Central African Republic,1995,34
+1610,tcd,Chad,1995,65
+1611,col,Colombia,1995,64
+1612,com,Comoros,1995,67
+1613,cog,"Congo, Rep.",1995,73
+1614,civ,Cote d'Ivoire,1995,36
+1615,prk,North Korea,1995,90
+1616,cod,"Congo, Dem. Rep.",1995,42
+1617,dji,Djibouti,1995,62
+1618,dom,Dominican Republic,1995,82
+1619,ecu,Ecuador,1995,33
+1620,egy,Egypt,1995,76
+1621,slv,El Salvador,1995,67
+1622,gnq,Equatorial Guinea,1995,75
+1623,eri,Eritrea,1995,17
+1624,swz,Swaziland,1995,77
+1625,eth,Ethiopia,1995,34
+1626,fji,Fiji,1995,76
+1627,gab,Gabon,1995,53
+1628,gmb,Gambia,1995,92
+1629,gha,Ghana,1995,68
+1630,gtm,Guatemala,1995,55
+1631,gin,Guinea,1995,68
+1632,gnb,Guinea-Bissau,1995,68
+1633,guy,Guyana,1995,71
+1634,hti,Haiti,1995,41
+1635,hnd,Honduras,1995,77
+1636,ind,India,1995,83
+1637,idn,Indonesia,1995,74
+1638,irn,Iran,1995,66
+1639,irq,Iraq,1995,81
+1640,jam,Jamaica,1995,
+1641,jor,Jordan,1995,47
+1642,ken,Kenya,1995,61
+1643,kir,Kiribati,1995,
+1644,kwt,Kuwait,1995,37
+1645,lao,Lao,1995,44
+1646,lso,Lesotho,1995,61
+1647,lbr,Liberia,1995,55
+1648,mdg,Madagascar,1995,38
+1649,mwi,Malawi,1995,87
+1650,mys,Malaysia,1995,84
+1651,mdv,Maldives,1995,92
+1652,mli,Mali,1995,36
+1653,mrt,Mauritania,1995,43
+1654,mus,Mauritius,1995,78
+1655,mex,Mexico,1995,71
+1656,mar,Morocco,1995,80
+1657,moz,Mozambique,1995,53
+1658,mmr,Myanmar,1995,80
+1659,nam,Namibia,1995,40
+1660,npl,Nepal,1995,48
+1661,nic,Nicaragua,1995,68
+1662,ner,Niger,1995,57
+1663,nga,Nigeria,1995,44
+1664,omn,Oman,1995,80
+1665,pak,Pakistan,1995,63
+1666,png,Papua New Guinea,1995,60
+1667,pry,Paraguay,1995,75
+1668,per,Peru,1995,50
+1669,phl,Philippines,1995,54
+1670,rwa,Rwanda,1995,89
+1671,stp,Sao Tome and Principe,1995,
+1672,sen,Senegal,1995,54
+1673,syc,Seychelles,1995,100
+1674,sle,Sierra Leone,1995,76
+1675,slb,Solomon Islands,1995,81
+1676,som,Somalia,1995,48
+1677,zaf,South Africa,1995,29
+1678,ssd,South Sudan,1995,
+1679,lka,Sri Lanka,1995,81
+1680,sdn,Sudan,1995,76
+1681,sur,Suriname,1995,92
+1682,syr,Syria,1995,76
+1683,tha,Thailand,1995,87
+1684,tls,Timor-Leste,1995,
+1685,tgo,Togo,1995,52
+1686,tun,Tunisia,1995,58
+1687,tur,Turkey,1995,42
+1688,uga,Uganda,1995,82
+1689,tza,Tanzania,1995,85
+1690,vut,Vanuatu,1995,33
+1691,ven,Venezuela,1995,
+1692,vnm,Vietnam,1995,80
+1693,yem,Yemen,1995,30
+1694,zmb,Zambia,1995,85
+1695,zwe,Zimbabwe,1995,42
+1696,afg,Afghanistan,1996,17
+1697,alb,Albania,1996,91
+1698,dza,Algeria,1996,45
+1699,ago,Angola,1996,49
+1700,bhs,Bahamas,1996,80
+1701,bhr,Bahrain,1996,63
+1702,bgd,Bangladesh,1996,87
+1703,blz,Belize,1996,86
+1704,ben,Benin,1996,81
+1705,btn,Bhutan,1996,79
+1706,bol,Bolivia,1996,58
+1707,bwa,Botswana,1996,75
+1708,bra,Brazil,1996,81
+1709,brn,Brunei,1996,74
+1710,bfa,Burkina Faso,1996,52
+1711,bdi,Burundi,1996,61
+1712,cpv,Cape Verde,1996,24
+1713,khm,Cambodia,1996,47
+1714,cmr,Cameroon,1996,21
+1715,caf,Central African Republic,1996,33
+1716,tcd,Chad,1996,43
+1717,col,Colombia,1996,65
+1718,com,Comoros,1996,50
+1719,cog,"Congo, Rep.",1996,80
+1720,civ,Cote d'Ivoire,1996,35
+1721,prk,North Korea,1996,82
+1722,cod,"Congo, Dem. Rep.",1996,43
+1723,dji,Djibouti,1996,68
+1724,dom,Dominican Republic,1996,81
+1725,ecu,Ecuador,1996,35
+1726,egy,Egypt,1996,71
+1727,slv,El Salvador,1996,71
+1728,gnq,Equatorial Guinea,1996,77
+1729,eri,Eritrea,1996,27
+1730,swz,Swaziland,1996,76
+1731,eth,Ethiopia,1996,39
+1732,fji,Fiji,1996,81
+1733,gab,Gabon,1996,33
+1734,gmb,Gambia,1996,92
+1735,gha,Ghana,1996,68
+1736,gtm,Guatemala,1996,57
+1737,gin,Guinea,1996,70
+1738,gnb,Guinea-Bissau,1996,47
+1739,guy,Guyana,1996,73
+1740,hti,Haiti,1996,41
+1741,hnd,Honduras,1996,81
+1742,ind,India,1996,82
+1743,idn,Indonesia,1996,76
+1744,irn,Iran,1996,68
+1745,irq,Iraq,1996,79
+1746,jam,Jamaica,1996,
+1747,jor,Jordan,1996,58
+1748,ken,Kenya,1996,47
+1749,kir,Kiribati,1996,
+1750,kwt,Kuwait,1996,36
+1751,lao,Lao,1996,43
+1752,lso,Lesotho,1996,84
+1753,lbr,Liberia,1996,57
+1754,mdg,Madagascar,1996,35
+1755,mwi,Malawi,1996,80
+1756,mys,Malaysia,1996,85
+1757,mdv,Maldives,1996,92
+1758,mli,Mali,1996,36
+1759,mrt,Mauritania,1996,45
+1760,mus,Mauritius,1996,79
+1761,mex,Mexico,1996,73
+1762,mar,Morocco,1996,63
+1763,moz,Mozambique,1996,54
+1764,mmr,Myanmar,1996,82
+1765,nam,Namibia,1996,76
+1766,npl,Nepal,1996,49
+1767,nic,Nicaragua,1996,71
+1768,ner,Niger,1996,58
+1769,nga,Nigeria,1996,46
+1770,omn,Oman,1996,78
+1771,pak,Pakistan,1996,65
+1772,png,Papua New Guinea,1996,69
+1773,pry,Paraguay,1996,71
+1774,per,Peru,1996,56
+1775,phl,Philippines,1996,55
+1776,rwa,Rwanda,1996,74
+1777,stp,Sao Tome and Principe,1996,
+1778,sen,Senegal,1996,55
+1779,syc,Seychelles,1996,100
+1780,sle,Sierra Leone,1996,83
+1781,slb,Solomon Islands,1996,78
+1782,som,Somalia,1996,48
+1783,zaf,South Africa,1996,30
+1784,ssd,South Sudan,1996,
+1785,lka,Sri Lanka,1996,85
+1786,sdn,Sudan,1996,64
+1787,sur,Suriname,1996,92
+1788,syr,Syria,1996,82
+1789,tha,Thailand,1996,83
+1790,tls,Timor-Leste,1996,
+1791,tgo,Togo,1996,55
+1792,tun,Tunisia,1996,80
+1793,tur,Turkey,1996,43
+1794,uga,Uganda,1996,77
+1795,tza,Tanzania,1996,85
+1796,vut,Vanuatu,1996,29
+1797,ven,Venezuela,1996,
+1798,vnm,Vietnam,1996,89
+1799,yem,Yemen,1996,33
+1800,zmb,Zambia,1996,87
+1801,zwe,Zimbabwe,1996,75
+1802,afg,Afghanistan,1997,19
+1803,alb,Albania,1997,92
+1804,dza,Algeria,1997,58
+1805,ago,Angola,1997,51
+1806,bhs,Bahamas,1997,82
+1807,bhr,Bahrain,1997,72
+1808,bgd,Bangladesh,1997,90
+1809,blz,Belize,1997,86
+1810,ben,Benin,1997,82
+1811,btn,Bhutan,1997,81
+1812,bol,Bolivia,1997,60
+1813,bwa,Botswana,1997,69
+1814,bra,Brazil,1997,83
+1815,brn,Brunei,1997,79
+1816,bfa,Burkina Faso,1997,63
+1817,bdi,Burundi,1997,60
+1818,cpv,Cape Verde,1997,63
+1819,khm,Cambodia,1997,46
+1820,cmr,Cameroon,1997,40
+1821,caf,Central African Republic,1997,29
+1822,tcd,Chad,1997,49
+1823,col,Colombia,1997,66
+1824,com,Comoros,1997,41
+1825,cog,"Congo, Rep.",1997,62
+1826,civ,Cote d'Ivoire,1997,54
+1827,prk,North Korea,1997,60
+1828,cod,"Congo, Dem. Rep.",1997,33
+1829,dji,Djibouti,1997,69
+1830,dom,Dominican Republic,1997,80
+1831,ecu,Ecuador,1997,37
+1832,egy,Egypt,1997,74
+1833,slv,El Salvador,1997,74
+1834,gnq,Equatorial Guinea,1997,78
+1835,eri,Eritrea,1997,36
+1836,swz,Swaziland,1997,80
+1837,eth,Ethiopia,1997,51
+1838,fji,Fiji,1997,86
+1839,gab,Gabon,1997,36
+1840,gmb,Gambia,1997,91
+1841,gha,Ghana,1997,69
+1842,gtm,Guatemala,1997,58
+1843,gin,Guinea,1997,72
+1844,gnb,Guinea-Bissau,1997,63
+1845,guy,Guyana,1997,76
+1846,hti,Haiti,1997,41
+1847,hnd,Honduras,1997,84
+1848,ind,India,1997,84
+1849,idn,Indonesia,1997,79
+1850,irn,Iran,1997,81
+1851,irq,Iraq,1997,75
+1852,jam,Jamaica,1997,
+1853,jor,Jordan,1997,52
+1854,ken,Kenya,1997,61
+1855,kir,Kiribati,1997,
+1856,kwt,Kuwait,1997,32
+1857,lao,Lao,1997,45
+1858,lso,Lesotho,1997,85
+1859,lbr,Liberia,1997,60
+1860,mdg,Madagascar,1997,47
+1861,mwi,Malawi,1997,87
+1862,mys,Malaysia,1997,85
+1863,mdv,Maldives,1997,93
+1864,mli,Mali,1997,37
+1865,mrt,Mauritania,1997,70
+1866,mus,Mauritius,1997,78
+1867,mex,Mexico,1997,75
+1868,mar,Morocco,1997,60
+1869,moz,Mozambique,1997,58
+1870,mmr,Myanmar,1997,84
+1871,nam,Namibia,1997,79
+1872,npl,Nepal,1997,59
+1873,nic,Nicaragua,1997,75
+1874,ner,Niger,1997,57
+1875,nga,Nigeria,1997,48
+1876,omn,Oman,1997,94
+1877,pak,Pakistan,1997,67
+1878,png,Papua New Guinea,1997,68
+1879,pry,Paraguay,1997,67
+1880,per,Peru,1997,62
+1881,phl,Philippines,1997,55
+1882,rwa,Rwanda,1997,79
+1883,stp,Sao Tome and Principe,1997,
+1884,sen,Senegal,1997,53
+1885,syc,Seychelles,1997,100
+1886,sle,Sierra Leone,1997,57
+1887,slb,Solomon Islands,1997,75
+1888,som,Somalia,1997,48
+1889,zaf,South Africa,1997,39
+1890,ssd,South Sudan,1997,
+1891,lka,Sri Lanka,1997,85
+1892,sdn,Sudan,1997,69
+1893,sur,Suriname,1997,92
+1894,syr,Syria,1997,79
+1895,tha,Thailand,1997,82
+1896,tls,Timor-Leste,1997,
+1897,tgo,Togo,1997,57
+1898,tun,Tunisia,1997,80
+1899,tur,Turkey,1997,47
+1900,uga,Uganda,1997,72
+1901,tza,Tanzania,1997,81
+1902,vut,Vanuatu,1997,23
+1903,ven,Venezuela,1997,
+1904,vnm,Vietnam,1997,86
+1905,yem,Yemen,1997,30
+1906,zmb,Zambia,1997,66
+1907,zwe,Zimbabwe,1997,78
+1908,afg,Afghanistan,1998,21
+1909,alb,Albania,1998,74
+1910,dza,Algeria,1998,60
+1911,ago,Angola,1998,52
+1912,bhs,Bahamas,1998,83
+1913,bhr,Bahrain,1998,80
+1914,bgd,Bangladesh,1998,86
+1915,blz,Belize,1998,85
+1916,ben,Benin,1998,79
+1917,btn,Bhutan,1998,85
+1918,bol,Bolivia,1998,61
+1919,bwa,Botswana,1998,72
+1920,bra,Brazil,1998,86
+1921,brn,Brunei,1998,66
+1922,bfa,Burkina Faso,1998,49
+1923,bdi,Burundi,1998,44
+1924,cpv,Cape Verde,1998,62
+1925,khm,Cambodia,1998,47
+1926,cmr,Cameroon,1998,47
+1927,caf,Central African Republic,1998,24
+1928,tcd,Chad,1998,47
+1929,col,Colombia,1998,67
+1930,com,Comoros,1998,44
+1931,cog,"Congo, Rep.",1998,62
+1932,civ,Cote d'Ivoire,1998,60
+1933,prk,North Korea,1998,30
+1934,cod,"Congo, Dem. Rep.",1998,50
+1935,dji,Djibouti,1998,53
+1936,dom,Dominican Republic,1998,71
+1937,ecu,Ecuador,1998,38
+1938,egy,Egypt,1998,74
+1939,slv,El Salvador,1998,77
+1940,gnq,Equatorial Guinea,1998,74
+1941,eri,Eritrea,1998,41
+1942,swz,Swaziland,1998,79
+1943,eth,Ethiopia,1998,42
+1944,fji,Fiji,1998,85
+1945,gab,Gabon,1998,40
+1946,gmb,Gambia,1998,94
+1947,gha,Ghana,1998,69
+1948,gtm,Guatemala,1998,59
+1949,gin,Guinea,1998,74
+1950,gnb,Guinea-Bissau,1998,49
+1951,guy,Guyana,1998,78
+1952,hti,Haiti,1998,41
+1953,hnd,Honduras,1998,87
+1954,ind,India,1998,84
+1955,idn,Indonesia,1998,80
+1956,irn,Iran,1998,82
+1957,irq,Iraq,1998,70
+1958,jam,Jamaica,1998,
+1959,jor,Jordan,1998,46
+1960,ken,Kenya,1998,74
+1961,kir,Kiribati,1998,
+1962,kwt,Kuwait,1998,24
+1963,lao,Lao,1998,46
+1964,lso,Lesotho,1998,82
+1965,lbr,Liberia,1998,56
+1966,mdg,Madagascar,1998,48
+1967,mwi,Malawi,1998,89
+1968,mys,Malaysia,1998,81
+1969,mdv,Maldives,1998,91
+1970,mli,Mali,1998,38
+1971,mrt,Mauritania,1998,57
+1972,mus,Mauritius,1998,78
+1973,mex,Mexico,1998,77
+1974,mar,Morocco,1998,53
+1975,moz,Mozambique,1998,61
+1976,mmr,Myanmar,1998,82
+1977,nam,Namibia,1998,77
+1978,npl,Nepal,1998,61
+1979,nic,Nicaragua,1998,78
+1980,ner,Niger,1998,63
+1981,nga,Nigeria,1998,48
+1982,omn,Oman,1998,94
+1983,pak,Pakistan,1998,68
+1984,png,Papua New Guinea,1998,31
+1985,pry,Paraguay,1998,61
+1986,per,Peru,1998,64
+1987,phl,Philippines,1998,55
+1988,rwa,Rwanda,1998,84
+1989,stp,Sao Tome and Principe,1998,
+1990,sen,Senegal,1998,54
+1991,syc,Seychelles,1998,100
+1992,sle,Sierra Leone,1998,55
+1993,slb,Solomon Islands,1998,75
+1994,som,Somalia,1998,47
+1995,zaf,South Africa,1998,49
+1996,ssd,South Sudan,1998,
+1997,lka,Sri Lanka,1998,80
+1998,sdn,Sudan,1998,71
+1999,sur,Suriname,1998,92
+2000,syr,Syria,1998,82
+2001,tha,Thailand,1998,83
+2002,tls,Timor-Leste,1998,
+2003,tgo,Togo,1998,51
+2004,tun,Tunisia,1998,85
+2005,tur,Turkey,1998,48
+2006,uga,Uganda,1998,68
+2007,tza,Tanzania,1998,81
+2008,vut,Vanuatu,1998,76
+2009,ven,Venezuela,1998,
+2010,vnm,Vietnam,1998,82
+2011,yem,Yemen,1998,39
+2012,zmb,Zambia,1998,70
+2013,zwe,Zimbabwe,1998,74
+2014,afg,Afghanistan,1999,28
+2015,alb,Albania,1999,80
+2016,dza,Algeria,1999,62
+2017,ago,Angola,1999,56
+2018,bhs,Bahamas,1999,84
+2019,bhr,Bahrain,1999,76
+2020,bgd,Bangladesh,1999,87
+2021,blz,Belize,1999,85
+2022,ben,Benin,1999,89
+2023,btn,Bhutan,1999,84
+2024,bol,Bolivia,1999,66
+2025,bwa,Botswana,1999,80
+2026,bra,Brazil,1999,89
+2027,brn,Brunei,1999,62
+2028,bfa,Burkina Faso,1999,55
+2029,bdi,Burundi,1999,35
+2030,cpv,Cape Verde,1999,64
+2031,khm,Cambodia,1999,50
+2032,cmr,Cameroon,1999,55
+2033,caf,Central African Republic,1999,38
+2034,tcd,Chad,1999,43
+2035,col,Colombia,1999,69
+2036,com,Comoros,1999,50
+2037,cog,"Congo, Rep.",1999,63
+2038,civ,Cote d'Ivoire,1999,71
+2039,prk,North Korea,1999,55
+2040,cod,"Congo, Dem. Rep.",1999,33
+2041,dji,Djibouti,1999,48
+2042,dom,Dominican Republic,1999,61
+2043,ecu,Ecuador,1999,40
+2044,egy,Egypt,1999,77
+2045,slv,El Salvador,1999,80
+2046,gnq,Equatorial Guinea,1999,68
+2047,eri,Eritrea,1999,77
+2048,swz,Swaziland,1999,79
+2049,eth,Ethiopia,1999,48
+2050,fji,Fiji,1999,84
+2051,gab,Gabon,1999,46
+2052,gmb,Gambia,1999,91
+2053,gha,Ghana,1999,69
+2054,gtm,Guatemala,1999,66
+2055,gin,Guinea,1999,75
+2056,gnb,Guinea-Bissau,1999,41
+2057,guy,Guyana,1999,80
+2058,hti,Haiti,1999,41
+2059,hnd,Honduras,1999,90
+2060,ind,India,1999,85
+2061,idn,Indonesia,1999,81
+2062,irn,Iran,1999,82
+2063,irq,Iraq,1999,73
+2064,jam,Jamaica,1999,
+2065,jor,Jordan,1999,41
+2066,ken,Kenya,1999,68
+2067,kir,Kiribati,1999,
+2068,kwt,Kuwait,1999,73
+2069,lao,Lao,1999,48
+2070,lso,Lesotho,1999,77
+2071,lbr,Liberia,1999,44
+2072,mdg,Madagascar,1999,54
+2073,mwi,Malawi,1999,84
+2074,mys,Malaysia,1999,85
+2075,mdv,Maldives,1999,93
+2076,mli,Mali,1999,43
+2077,mrt,Mauritania,1999,40
+2078,mus,Mauritius,1999,78
+2079,mex,Mexico,1999,79
+2080,mar,Morocco,1999,55
+2081,moz,Mozambique,1999,69
+2082,mmr,Myanmar,1999,76
+2083,nam,Namibia,1999,83
+2084,npl,Nepal,1999,62
+2085,nic,Nicaragua,1999,80
+2086,ner,Niger,1999,62
+2087,nga,Nigeria,1999,49
+2088,omn,Oman,1999,94
+2089,pak,Pakistan,1999,70
+2090,png,Papua New Guinea,1999,30
+2091,pry,Paraguay,1999,55
+2092,per,Peru,1999,65
+2093,phl,Philippines,1999,55
+2094,rwa,Rwanda,1999,89
+2095,stp,Sao Tome and Principe,1999,
+2096,sen,Senegal,1999,58
+2097,syc,Seychelles,1999,100
+2098,sle,Sierra Leone,1999,53
+2099,slb,Solomon Islands,1999,75
+2100,som,Somalia,1999,47
+2101,zaf,South Africa,1999,59
+2102,ssd,South Sudan,1999,
+2103,lka,Sri Lanka,1999,86
+2104,sdn,Sudan,1999,76
+2105,sur,Suriname,1999,92
+2106,syr,Syria,1999,86
+2107,tha,Thailand,1999,85
+2108,tls,Timor-Leste,1999,
+2109,tgo,Togo,1999,62
+2110,tun,Tunisia,1999,82
+2111,tur,Turkey,1999,49
+2112,uga,Uganda,1999,69
+2113,tza,Tanzania,1999,81
+2114,vut,Vanuatu,1999,84
+2115,ven,Venezuela,1999,
+2116,vnm,Vietnam,1999,83
+2117,yem,Yemen,1999,41
+2118,zmb,Zambia,1999,74
+2119,zwe,Zimbabwe,1999,75
+2120,afg,Afghanistan,2000,32
+2121,alb,Albania,2000,86
+2122,dza,Algeria,2000,64
+2123,ago,Angola,2000,60
+2124,bhs,Bahamas,2000,85
+2125,bhr,Bahrain,2000,84
+2126,bgd,Bangladesh,2000,89
+2127,blz,Belize,2000,85
+2128,ben,Benin,2000,87
+2129,btn,Bhutan,2000,85
+2130,bol,Bolivia,2000,67
+2131,bwa,Botswana,2000,80
+2132,bra,Brazil,2000,92
+2133,brn,Brunei,2000,77
+2134,bfa,Burkina Faso,2000,57
+2135,bdi,Burundi,2000,51
+2136,cpv,Cape Verde,2000,60
+2137,khm,Cambodia,2000,58
+2138,cmr,Cameroon,2000,54
+2139,caf,Central African Republic,2000,36
+2140,tcd,Chad,2000,39
+2141,col,Colombia,2000,70
+2142,com,Comoros,2000,57
+2143,cog,"Congo, Rep.",2000,67
+2144,civ,Cote d'Ivoire,2000,76
+2145,prk,North Korea,2000,81
+2146,cod,"Congo, Dem. Rep.",2000,45
+2147,dji,Djibouti,2000,46
+2148,dom,Dominican Republic,2000,48
+2149,ecu,Ecuador,2000,42
+2150,egy,Egypt,2000,80
+2151,slv,El Salvador,2000,83
+2152,gnq,Equatorial Guinea,2000,61
+2153,eri,Eritrea,2000,80
+2154,swz,Swaziland,2000,80
+2155,eth,Ethiopia,2000,54
+2156,fji,Fiji,2000,84
+2157,gab,Gabon,2000,39
+2158,gmb,Gambia,2000,92
+2159,gha,Ghana,2000,69
+2160,gtm,Guatemala,2000,67
+2161,gin,Guinea,2000,79
+2162,gnb,Guinea-Bissau,2000,49
+2163,guy,Guyana,2000,82
+2164,hti,Haiti,2000,41
+2165,hnd,Honduras,2000,93
+2166,ind,India,2000,85
+2167,idn,Indonesia,2000,82
+2168,irn,Iran,2000,82
+2169,irq,Iraq,2000,75
+2170,jam,Jamaica,2000,51
+2171,jor,Jordan,2000,44
+2172,ken,Kenya,2000,68
+2173,kir,Kiribati,2000,
+2174,kwt,Kuwait,2000,77
+2175,lao,Lao,2000,58
+2176,lso,Lesotho,2000,73
+2177,lbr,Liberia,2000,51
+2178,mdg,Madagascar,2000,58
+2179,mwi,Malawi,2000,84
+2180,mys,Malaysia,2000,88
+2181,mdv,Maldives,2000,95
+2182,mli,Mali,2000,50
+2183,mrt,Mauritania,2000,44
+2184,mus,Mauritius,2000,79
+2185,mex,Mexico,2000,81
+2186,mar,Morocco,2000,86
+2187,moz,Mozambique,2000,75
+2188,mmr,Myanmar,2000,79
+2189,nam,Namibia,2000,74
+2190,npl,Nepal,2000,67
+2191,nic,Nicaragua,2000,83
+2192,ner,Niger,2000,63
+2193,nga,Nigeria,2000,57
+2194,omn,Oman,2000,94
+2195,pak,Pakistan,2000,71
+2196,png,Papua New Guinea,2000,24
+2197,pry,Paraguay,2000,47
+2198,per,Peru,2000,66
+2199,phl,Philippines,2000,55
+2200,rwa,Rwanda,2000,81
+2201,stp,Sao Tome and Principe,2000,
+2202,sen,Senegal,2000,62
+2203,syc,Seychelles,2000,100
+2204,sle,Sierra Leone,2000,53
+2205,slb,Solomon Islands,2000,75
+2206,som,Somalia,2000,47
+2207,zaf,South Africa,2000,68
+2208,ssd,South Sudan,2000,
+2209,lka,Sri Lanka,2000,92
+2210,sdn,Sudan,2000,61
+2211,sur,Suriname,2000,92
+2212,syr,Syria,2000,90
+2213,tha,Thailand,2000,85
+2214,tls,Timor-Leste,2000,
+2215,tgo,Togo,2000,63
+2216,tun,Tunisia,2000,68
+2217,tur,Turkey,2000,50
+2218,uga,Uganda,2000,70
+2219,tza,Tanzania,2000,79
+2220,vut,Vanuatu,2000,86
+2221,ven,Venezuela,2000,
+2222,vnm,Vietnam,2000,86
+2223,yem,Yemen,2000,54
+2224,zmb,Zambia,2000,78
+2225,zwe,Zimbabwe,2000,76
+2226,afg,Afghanistan,2001,47
+2227,alb,Albania,2001,83
+2228,dza,Algeria,2001,65
+2229,ago,Angola,2001,64
+2230,bhs,Bahamas,2001,86
+2231,bhr,Bahrain,2001,86
+2232,bgd,Bangladesh,2001,89
+2233,blz,Belize,2001,84
+2234,ben,Benin,2001,81
+2235,btn,Bhutan,2001,86
+2236,bol,Bolivia,2001,68
+2237,bwa,Botswana,2001,81
+2238,bra,Brazil,2001,92
+2239,brn,Brunei,2001,78
+2240,bfa,Burkina Faso,2001,60
+2241,bdi,Burundi,2001,55
+2242,cpv,Cape Verde,2001,46
+2243,khm,Cambodia,2001,62
+2244,cmr,Cameroon,2001,52
+2245,caf,Central African Republic,2001,34
+2246,tcd,Chad,2001,37
+2247,col,Colombia,2001,71
+2248,com,Comoros,2001,70
+2249,cog,"Congo, Rep.",2001,67
+2250,civ,Cote d'Ivoire,2001,76
+2251,prk,North Korea,2001,80
+2252,cod,"Congo, Dem. Rep.",2001,43
+2253,dji,Djibouti,2001,54
+2254,dom,Dominican Republic,2001,32
+2255,ecu,Ecuador,2001,57
+2256,egy,Egypt,2001,80
+2257,slv,El Salvador,2001,85
+2258,gnq,Equatorial Guinea,2001,49
+2259,eri,Eritrea,2001,82
+2260,swz,Swaziland,2001,80
+2261,eth,Ethiopia,2001,60
+2262,fji,Fiji,2001,83
+2263,gab,Gabon,2001,42
+2264,gmb,Gambia,2001,90
+2265,gha,Ghana,2001,70
+2266,gtm,Guatemala,2001,68
+2267,gin,Guinea,2001,80
+2268,gnb,Guinea-Bissau,2001,60
+2269,guy,Guyana,2001,83
+2270,hti,Haiti,2001,42
+2271,hnd,Honduras,2001,94
+2272,ind,India,2001,83
+2273,idn,Indonesia,2001,82
+2274,irn,Iran,2001,82
+2275,irq,Iraq,2001,86
+2276,jam,Jamaica,2001,72
+2277,jor,Jordan,2001,41
+2278,ken,Kenya,2001,69
+2279,kir,Kiribati,2001,
+2280,kwt,Kuwait,2001,78
+2281,lao,Lao,2001,52
+2282,lso,Lesotho,2001,74
+2283,lbr,Liberia,2001,59
+2284,mdg,Madagascar,2001,60
+2285,mwi,Malawi,2001,87
+2286,mys,Malaysia,2001,87
+2287,mdv,Maldives,2001,95
+2288,mli,Mali,2001,52
+2289,mrt,Mauritania,2001,51
+2290,mus,Mauritius,2001,79
+2291,mex,Mexico,2001,83
+2292,mar,Morocco,2001,83
+2293,moz,Mozambique,2001,68
+2294,mmr,Myanmar,2001,81
+2295,nam,Namibia,2001,86
+2296,npl,Nepal,2001,76
+2297,nic,Nicaragua,2001,85
+2298,ner,Niger,2001,64
+2299,nga,Nigeria,2001,59
+2300,omn,Oman,2001,94
+2301,pak,Pakistan,2001,74
+2302,png,Papua New Guinea,2001,45
+2303,pry,Paraguay,2001,39
+2304,per,Peru,2001,62
+2305,phl,Philippines,2001,56
+2306,rwa,Rwanda,2001,71
+2307,stp,Sao Tome and Principe,2001,
+2308,sen,Senegal,2001,64
+2309,syc,Seychelles,2001,100
+2310,sle,Sierra Leone,2001,66
+2311,slb,Solomon Islands,2001,75
+2312,som,Somalia,2001,48
+2313,zaf,South Africa,2001,66
+2314,ssd,South Sudan,2001,
+2315,lka,Sri Lanka,2001,92
+2316,sdn,Sudan,2001,63
+2317,sur,Suriname,2001,92
+2318,syr,Syria,2001,90
+2319,tha,Thailand,2001,86
+2320,tls,Timor-Leste,2001,
+2321,tgo,Togo,2001,60
+2322,tun,Tunisia,2001,87
+2323,tur,Turkey,2001,52
+2324,uga,Uganda,2001,72
+2325,tza,Tanzania,2001,80
+2326,vut,Vanuatu,2001,87
+2327,ven,Venezuela,2001,24
+2328,vnm,Vietnam,2001,86
+2329,yem,Yemen,2001,58
+2330,zmb,Zambia,2001,85
+2331,zwe,Zimbabwe,2001,77
+2332,afg,Afghanistan,2002,52
+2333,alb,Albania,2002,80
+2334,dza,Algeria,2002,66
+2335,ago,Angola,2002,68
+2336,bhs,Bahamas,2002,87
+2337,bhr,Bahrain,2002,94
+2338,bgd,Bangladesh,2002,89
+2339,blz,Belize,2002,84
+2340,ben,Benin,2002,85
+2341,btn,Bhutan,2002,87
+2342,bol,Bolivia,2002,69
+2343,bwa,Botswana,2002,82
+2344,bra,Brazil,2002,65
+2345,brn,Brunei,2002,79
+2346,bfa,Burkina Faso,2002,63
+2347,bdi,Burundi,2002,63
+2348,cpv,Cape Verde,2002,62
+2349,khm,Cambodia,2002,64
+2350,cmr,Cameroon,2002,65
+2351,caf,Central African Republic,2002,31
+2352,tcd,Chad,2002,48
+2353,col,Colombia,2002,72
+2354,com,Comoros,2002,84
+2355,cog,"Congo, Rep.",2002,69
+2356,civ,Cote d'Ivoire,2002,76
+2357,prk,North Korea,2002,91
+2358,cod,"Congo, Dem. Rep.",2002,61
+2359,dji,Djibouti,2002,57
+2360,dom,Dominican Republic,2002,83
+2361,ecu,Ecuador,2002,58
+2362,egy,Egypt,2002,81
+2363,slv,El Salvador,2002,87
+2364,gnq,Equatorial Guinea,2002,46
+2365,eri,Eritrea,2002,83
+2366,swz,Swaziland,2002,81
+2367,eth,Ethiopia,2002,67
+2368,fji,Fiji,2002,92
+2369,gab,Gabon,2002,64
+2370,gmb,Gambia,2002,94
+2371,gha,Ghana,2002,70
+2372,gtm,Guatemala,2002,68
+2373,gin,Guinea,2002,80
+2374,gnb,Guinea-Bissau,2002,62
+2375,guy,Guyana,2002,83
+2376,hti,Haiti,2002,42
+2377,hnd,Honduras,2002,94
+2378,ind,India,2002,87
+2379,idn,Indonesia,2002,82
+2380,irn,Iran,2002,82
+2381,irq,Iraq,2002,87
+2382,jam,Jamaica,2002,71
+2383,jor,Jordan,2002,54
+2384,ken,Kenya,2002,72
+2385,kir,Kiribati,2002,
+2386,kwt,Kuwait,2002,79
+2387,lao,Lao,2002,53
+2388,lso,Lesotho,2002,76
+2389,lbr,Liberia,2002,64
+2390,mdg,Madagascar,2002,61
+2391,mwi,Malawi,2002,85
+2392,mys,Malaysia,2002,86
+2393,mdv,Maldives,2002,94
+2394,mli,Mali,2002,59
+2395,mrt,Mauritania,2002,59
+2396,mus,Mauritius,2002,79
+2397,mex,Mexico,2002,85
+2398,mar,Morocco,2002,84
+2399,moz,Mozambique,2002,64
+2400,mmr,Myanmar,2002,85
+2401,nam,Namibia,2002,80
+2402,npl,Nepal,2002,85
+2403,nic,Nicaragua,2002,87
+2404,ner,Niger,2002,65
+2405,nga,Nigeria,2002,60
+2406,omn,Oman,2002,94
+2407,pak,Pakistan,2002,79
+2408,png,Papua New Guinea,2002,47
+2409,pry,Paraguay,2002,61
+2410,per,Peru,2002,62
+2411,phl,Philippines,2002,56
+2412,rwa,Rwanda,2002,79
+2413,stp,Sao Tome and Principe,2002,
+2414,sen,Senegal,2002,72
+2415,syc,Seychelles,2002,100
+2416,sle,Sierra Leone,2002,77
+2417,slb,Solomon Islands,2002,74
+2418,som,Somalia,2002,48
+2419,zaf,South Africa,2002,62
+2420,ssd,South Sudan,2002,
+2421,lka,Sri Lanka,2002,89
+2422,sdn,Sudan,2002,62
+2423,sur,Suriname,2002,92
+2424,syr,Syria,2002,90
+2425,tha,Thailand,2002,86
+2426,tls,Timor-Leste,2002,55
+2427,tgo,Togo,2002,60
+2428,tun,Tunisia,2002,86
+2429,tur,Turkey,2002,52
+2430,uga,Uganda,2002,78
+2431,tza,Tanzania,2002,80
+2432,vut,Vanuatu,2002,82
+2433,ven,Venezuela,2002,26
+2434,vnm,Vietnam,2002,86
+2435,yem,Yemen,2002,68
+2436,zmb,Zambia,2002,87
+2437,zwe,Zimbabwe,2002,78
+2438,afg,Afghanistan,2003,62
+2439,alb,Albania,2003,81
+2440,dza,Algeria,2003,66
+2441,ago,Angola,2003,71
+2442,bhs,Bahamas,2003,88
+2443,bhr,Bahrain,2003,91
+2444,bgd,Bangladesh,2003,89
+2445,blz,Belize,2003,86
+2446,ben,Benin,2003,84
+2447,btn,Bhutan,2003,87
+2448,bol,Bolivia,2003,69
+2449,bwa,Botswana,2003,82
+2450,bra,Brazil,2003,76
+2451,brn,Brunei,2003,80
+2452,bfa,Burkina Faso,2003,67
+2453,bdi,Burundi,2003,65
+2454,cpv,Cape Verde,2003,76
+2455,khm,Cambodia,2003,71
+2456,cmr,Cameroon,2003,71
+2457,caf,Central African Republic,2003,32
+2458,tcd,Chad,2003,60
+2459,col,Colombia,2003,73
+2460,com,Comoros,2003,93
+2461,cog,"Congo, Rep.",2003,79
+2462,civ,Cote d'Ivoire,2003,76
+2463,prk,North Korea,2003,91
+2464,cod,"Congo, Dem. Rep.",2003,66
+2465,dji,Djibouti,2003,59
+2466,dom,Dominican Republic,2003,84
+2467,ecu,Ecuador,2003,60
+2468,egy,Egypt,2003,82
+2469,slv,El Salvador,2003,90
+2470,gnq,Equatorial Guinea,2003,62
+2471,eri,Eritrea,2003,83
+2472,swz,Swaziland,2003,81
+2473,eth,Ethiopia,2003,71
+2474,fji,Fiji,2003,92
+2475,gab,Gabon,2003,53
+2476,gmb,Gambia,2003,94
+2477,gha,Ghana,2003,74
+2478,gtm,Guatemala,2003,69
+2479,gin,Guinea,2003,85
+2480,gnb,Guinea-Bissau,2003,62
+2481,guy,Guyana,2003,84
+2482,hti,Haiti,2003,42
+2483,hnd,Honduras,2003,94
+2484,ind,India,2003,86
+2485,idn,Indonesia,2003,82
+2486,irn,Iran,2003,82
+2487,irq,Iraq,2003,88
+2488,jam,Jamaica,2003,52
+2489,jor,Jordan,2003,46
+2490,ken,Kenya,2003,73
+2491,kir,Kiribati,2003,76
+2492,kwt,Kuwait,2003,80
+2493,lao,Lao,2003,54
+2494,lso,Lesotho,2003,77
+2495,lbr,Liberia,2003,56
+2496,mdg,Madagascar,2003,62
+2497,mwi,Malawi,2003,87
+2498,mys,Malaysia,2003,86
+2499,mdv,Maldives,2003,94
+2500,mli,Mali,2003,60
+2501,mrt,Mauritania,2003,58
+2502,mus,Mauritius,2003,79
+2503,mex,Mexico,2003,88
+2504,mar,Morocco,2003,84
+2505,moz,Mozambique,2003,60
+2506,mmr,Myanmar,2003,86
+2507,nam,Namibia,2003,78
+2508,npl,Nepal,2003,90
+2509,nic,Nicaragua,2003,88
+2510,ner,Niger,2003,65
+2511,nga,Nigeria,2003,61
+2512,omn,Oman,2003,94
+2513,pak,Pakistan,2003,79
+2514,png,Papua New Guinea,2003,46
+2515,pry,Paraguay,2003,61
+2516,per,Peru,2003,63
+2517,phl,Philippines,2003,56
+2518,rwa,Rwanda,2003,77
+2519,stp,Sao Tome and Principe,2003,
+2520,sen,Senegal,2003,77
+2521,syc,Seychelles,2003,100
+2522,sle,Sierra Leone,2003,79
+2523,slb,Solomon Islands,2003,78
+2524,som,Somalia,2003,45
+2525,zaf,South Africa,2003,61
+2526,ssd,South Sudan,2003,
+2527,lka,Sri Lanka,2003,91
+2528,sdn,Sudan,2003,65
+2529,sur,Suriname,2003,92
+2530,syr,Syria,2003,92
+2531,tha,Thailand,2003,88
+2532,tls,Timor-Leste,2003,58
+2533,tgo,Togo,2003,75
+2534,tun,Tunisia,2003,87
+2535,tur,Turkey,2003,53
+2536,uga,Uganda,2003,78
+2537,tza,Tanzania,2003,80
+2538,vut,Vanuatu,2003,77
+2539,ven,Venezuela,2003,48
+2540,vnm,Vietnam,2003,85
+2541,yem,Yemen,2003,65
+2542,zmb,Zambia,2003,89
+2543,zwe,Zimbabwe,2003,78
+2544,afg,Afghanistan,2004,95
+2545,alb,Albania,2004,85
+2546,dza,Algeria,2004,69
+2547,ago,Angola,2004,73
+2548,bhs,Bahamas,2004,89
+2549,bhr,Bahrain,2004,97
+2550,bgd,Bangladesh,2004,89
+2551,blz,Belize,2004,86
+2552,ben,Benin,2004,93
+2553,btn,Bhutan,2004,86
+2554,bol,Bolivia,2004,70
+2555,bwa,Botswana,2004,83
+2556,bra,Brazil,2004,78
+2557,brn,Brunei,2004,68
+2558,bfa,Burkina Faso,2004,69
+2559,bdi,Burundi,2004,66
+2560,cpv,Cape Verde,2004,78
+2561,khm,Cambodia,2004,79
+2562,cmr,Cameroon,2004,73
+2563,caf,Central African Republic,2004,35
+2564,tcd,Chad,2004,61
+2565,col,Colombia,2004,76
+2566,com,Comoros,2004,92
+2567,cog,"Congo, Rep.",2004,74
+2568,civ,Cote d'Ivoire,2004,76
+2569,prk,North Korea,2004,92
+2570,cod,"Congo, Dem. Rep.",2004,67
+2571,dji,Djibouti,2004,65
+2572,dom,Dominican Republic,2004,86
+2573,ecu,Ecuador,2004,60
+2574,egy,Egypt,2004,85
+2575,slv,El Salvador,2004,93
+2576,gnq,Equatorial Guinea,2004,66
+2577,eri,Eritrea,2004,84
+2578,swz,Swaziland,2004,82
+2579,eth,Ethiopia,2004,77
+2580,fji,Fiji,2004,93
+2581,gab,Gabon,2004,58
+2582,gmb,Gambia,2004,94
+2583,gha,Ghana,2004,77
+2584,gtm,Guatemala,2004,70
+2585,gin,Guinea,2004,86
+2586,gnb,Guinea-Bissau,2004,64
+2587,guy,Guyana,2004,85
+2588,hti,Haiti,2004,48
+2589,hnd,Honduras,2004,94
+2590,ind,India,2004,86
+2591,idn,Indonesia,2004,82
+2592,irn,Iran,2004,82
+2593,irq,Iraq,2004,88
+2594,jam,Jamaica,2004,59
+2595,jor,Jordan,2004,53
+2596,ken,Kenya,2004,73
+2597,kir,Kiribati,2004,38
+2598,kwt,Kuwait,2004,81
+2599,lao,Lao,2004,51
+2600,lso,Lesotho,2004,78
+2601,lbr,Liberia,2004,59
+2602,mdg,Madagascar,2004,63
+2603,mwi,Malawi,2004,86
+2604,mys,Malaysia,2004,88
+2605,mdv,Maldives,2004,94
+2606,mli,Mali,2004,86
+2607,mrt,Mauritania,2004,62
+2608,mus,Mauritius,2004,89
+2609,mex,Mexico,2004,85
+2610,mar,Morocco,2004,84
+2611,moz,Mozambique,2004,62
+2612,mmr,Myanmar,2004,87
+2613,nam,Namibia,2004,79
+2614,npl,Nepal,2004,90
+2615,nic,Nicaragua,2004,91
+2616,ner,Niger,2004,66
+2617,nga,Nigeria,2004,61
+2618,omn,Oman,2004,94
+2619,pak,Pakistan,2004,78
+2620,png,Papua New Guinea,2004,49
+2621,pry,Paraguay,2004,68
+2622,per,Peru,2004,65
+2623,phl,Philippines,2004,57
+2624,rwa,Rwanda,2004,77
+2625,stp,Sao Tome and Principe,2004,
+2626,sen,Senegal,2004,78
+2627,syc,Seychelles,2004,100
+2628,sle,Sierra Leone,2004,81
+2629,slb,Solomon Islands,2004,82
+2630,som,Somalia,2004,45
+2631,zaf,South Africa,2004,60
+2632,ssd,South Sudan,2004,
+2633,lka,Sri Lanka,2004,91
+2634,sdn,Sudan,2004,68
+2635,sur,Suriname,2004,92
+2636,syr,Syria,2004,91
+2637,tha,Thailand,2004,88
+2638,tls,Timor-Leste,2004,64
+2639,tgo,Togo,2004,79
+2640,tun,Tunisia,2004,89
+2641,tur,Turkey,2004,77
+2642,uga,Uganda,2004,82
+2643,tza,Tanzania,2004,80
+2644,vut,Vanuatu,2004,78
+2645,ven,Venezuela,2004,48
+2646,vnm,Vietnam,2004,85
+2647,yem,Yemen,2004,69
+2648,zmb,Zambia,2004,90
+2649,zwe,Zimbabwe,2004,79
+2650,afg,Afghanistan,2005,96
+2651,alb,Albania,2005,86
+2652,dza,Algeria,2005,69
+2653,ago,Angola,2005,75
+2654,bhs,Bahamas,2005,90
+2655,bhr,Bahrain,2005,97
+2656,bgd,Bangladesh,2005,89
+2657,blz,Belize,2005,87
+2658,ben,Benin,2005,95
+2659,btn,Bhutan,2005,85
+2660,bol,Bolivia,2005,70
+2661,bwa,Botswana,2005,83
+2662,bra,Brazil,2005,67
+2663,brn,Brunei,2005,64
+2664,bfa,Burkina Faso,2005,72
+2665,bdi,Burundi,2005,65
+2666,cpv,Cape Verde,2005,70
+2667,khm,Cambodia,2005,81
+2668,cmr,Cameroon,2005,76
+2669,caf,Central African Republic,2005,48
+2670,tcd,Chad,2005,61
+2671,col,Colombia,2005,77
+2672,com,Comoros,2005,91
+2673,cog,"Congo, Rep.",2005,75
+2674,civ,Cote d'Ivoire,2005,75
+2675,prk,North Korea,2005,90
+2676,cod,"Congo, Dem. Rep.",2005,67
+2677,dji,Djibouti,2005,71
+2678,dom,Dominican Republic,2005,75
+2679,ecu,Ecuador,2005,65
+2680,egy,Egypt,2005,85
+2681,slv,El Salvador,2005,92
+2682,gnq,Equatorial Guinea,2005,59
+2683,eri,Eritrea,2005,84
+2684,swz,Swaziland,2005,82
+2685,eth,Ethiopia,2005,80
+2686,fji,Fiji,2005,93
+2687,gab,Gabon,2005,58
+2688,gmb,Gambia,2005,89
+2689,gha,Ghana,2005,83
+2690,gtm,Guatemala,2005,70
+2691,gin,Guinea,2005,90
+2692,gnb,Guinea-Bissau,2005,65
+2693,guy,Guyana,2005,91
+2694,hti,Haiti,2005,37
+2695,hnd,Honduras,2005,90
+2696,ind,India,2005,86
+2697,idn,Indonesia,2005,83
+2698,irn,Iran,2005,83
+2699,irq,Iraq,2005,71
+2700,jam,Jamaica,2005,51
+2701,jor,Jordan,2005,67
+2702,ken,Kenya,2005,73
+2703,kir,Kiribati,2005,45
+2704,kwt,Kuwait,2005,81
+2705,lao,Lao,2005,50
+2706,lso,Lesotho,2005,79
+2707,lbr,Liberia,2005,60
+2708,mdg,Madagascar,2005,66
+2709,mwi,Malawi,2005,86
+2710,mys,Malaysia,2005,88
+2711,mdv,Maldives,2005,94
+2712,mli,Mali,2005,86
+2713,mrt,Mauritania,2005,59
+2714,mus,Mauritius,2005,86
+2715,mex,Mexico,2005,86
+2716,mar,Morocco,2005,89
+2717,moz,Mozambique,2005,77
+2718,mmr,Myanmar,2005,89
+2719,nam,Namibia,2005,80
+2720,npl,Nepal,2005,88
+2721,nic,Nicaragua,2005,87
+2722,ner,Niger,2005,69
+2723,nga,Nigeria,2005,62
+2724,omn,Oman,2005,94
+2725,pak,Pakistan,2005,78
+2726,png,Papua New Guinea,2005,53
+2727,pry,Paraguay,2005,78
+2728,per,Peru,2005,65
+2729,phl,Philippines,2005,57
+2730,rwa,Rwanda,2005,79
+2731,stp,Sao Tome and Principe,2005,
+2732,sen,Senegal,2005,80
+2733,syc,Seychelles,2005,100
+2734,sle,Sierra Leone,2005,83
+2735,slb,Solomon Islands,2005,74
+2736,som,Somalia,2005,47
+2737,zaf,South Africa,2005,59
+2738,ssd,South Sudan,2005,
+2739,lka,Sri Lanka,2005,87
+2740,sdn,Sudan,2005,68
+2741,sur,Suriname,2005,92
+2742,syr,Syria,2005,92
+2743,tha,Thailand,2005,88
+2744,tls,Timor-Leste,2005,59
+2745,tgo,Togo,2005,81
+2746,tun,Tunisia,2005,90
+2747,tur,Turkey,2005,62
+2748,uga,Uganda,2005,85
+2749,tza,Tanzania,2005,81
+2750,vut,Vanuatu,2005,84
+2751,ven,Venezuela,2005,51
+2752,vnm,Vietnam,2005,86
+2753,yem,Yemen,2005,59
+2754,zmb,Zambia,2005,91
+2755,zwe,Zimbabwe,2005,77
+2756,afg,Afghanistan,2006,95
+2757,alb,Albania,2006,87
+2758,dza,Algeria,2006,70
+2759,ago,Angola,2006,77
+2760,bhs,Bahamas,2006,99
+2761,bhr,Bahrain,2006,93
+2762,bgd,Bangladesh,2006,92
+2763,blz,Belize,2006,85
+2764,ben,Benin,2006,95
+2765,btn,Bhutan,2006,85
+2766,bol,Bolivia,2006,71
+2767,bwa,Botswana,2006,84
+2768,bra,Brazil,2006,92
+2769,brn,Brunei,2006,64
+2770,bfa,Burkina Faso,2006,76
+2771,bdi,Burundi,2006,66
+2772,cpv,Cape Verde,2006,74
+2773,khm,Cambodia,2006,84
+2774,cmr,Cameroon,2006,81
+2775,caf,Central African Republic,2006,52
+2776,tcd,Chad,2006,60
+2777,col,Colombia,2006,77
+2778,com,Comoros,2006,88
+2779,cog,"Congo, Rep.",2006,81
+2780,civ,Cote d'Ivoire,2006,75
+2781,prk,North Korea,2006,90
+2782,cod,"Congo, Dem. Rep.",2006,66
+2783,dji,Djibouti,2006,77
+2784,dom,Dominican Republic,2006,85
+2785,ecu,Ecuador,2006,72
+2786,egy,Egypt,2006,86
+2787,slv,El Salvador,2006,91
+2788,gnq,Equatorial Guinea,2006,59
+2789,eri,Eritrea,2006,85
+2790,swz,Swaziland,2006,85
+2791,eth,Ethiopia,2006,82
+2792,fji,Fiji,2006,93
+2793,gab,Gabon,2006,63
+2794,gmb,Gambia,2006,94
+2795,gha,Ghana,2006,85
+2796,gtm,Guatemala,2006,70
+2797,gin,Guinea,2006,95
+2798,gnb,Guinea-Bissau,2006,69
+2799,guy,Guyana,2006,92
+2800,hti,Haiti,2006,31
+2801,hnd,Honduras,2006,94
+2802,ind,India,2006,86
+2803,idn,Indonesia,2006,83
+2804,irn,Iran,2006,83
+2805,irq,Iraq,2006,70
+2806,jam,Jamaica,2006,53
+2807,jor,Jordan,2006,86
+2808,ken,Kenya,2006,74
+2809,kir,Kiribati,2006,55
+2810,kwt,Kuwait,2006,82
+2811,lao,Lao,2006,52
+2812,lso,Lesotho,2006,80
+2813,lbr,Liberia,2006,73
+2814,mdg,Madagascar,2006,71
+2815,mwi,Malawi,2006,88
+2816,mys,Malaysia,2006,88
+2817,mdv,Maldives,2006,94
+2818,mli,Mali,2006,89
+2819,mrt,Mauritania,2006,62
+2820,mus,Mauritius,2006,85
+2821,mex,Mexico,2006,87
+2822,mar,Morocco,2006,87
+2823,moz,Mozambique,2006,81
+2824,mmr,Myanmar,2006,92
+2825,nam,Namibia,2006,81
+2826,npl,Nepal,2006,86
+2827,nic,Nicaragua,2006,85
+2828,ner,Niger,2006,73
+2829,nga,Nigeria,2006,63
+2830,omn,Oman,2006,94
+2831,pak,Pakistan,2006,80
+2832,png,Papua New Guinea,2006,57
+2833,pry,Paraguay,2006,81
+2834,per,Peru,2006,66
+2835,phl,Philippines,2006,61
+2836,rwa,Rwanda,2006,82
+2837,stp,Sao Tome and Principe,2006,98
+2838,sen,Senegal,2006,86
+2839,syc,Seychelles,2006,100
+2840,sle,Sierra Leone,2006,85
+2841,slb,Solomon Islands,2006,74
+2842,som,Somalia,2006,51
+2843,zaf,South Africa,2006,74
+2844,ssd,South Sudan,2006,
+2845,lka,Sri Lanka,2006,90
+2846,sdn,Sudan,2006,70
+2847,sur,Suriname,2006,93
+2848,syr,Syria,2006,93
+2849,tha,Thailand,2006,88
+2850,tls,Timor-Leste,2006,63
+2851,tgo,Togo,2006,81
+2852,tun,Tunisia,2006,89
+2853,tur,Turkey,2006,68
+2854,uga,Uganda,2006,83
+2855,tza,Tanzania,2006,81
+2856,vut,Vanuatu,2006,88
+2857,ven,Venezuela,2006,49
+2858,vnm,Vietnam,2006,87
+2859,yem,Yemen,2006,56
+2860,zmb,Zambia,2006,90
+2861,zwe,Zimbabwe,2006,78
+2862,afg,Afghanistan,2007,84
+2863,alb,Albania,2007,87
+2864,dza,Algeria,2007,70
+2865,ago,Angola,2007,78
+2866,bhs,Bahamas,2007,99
+2867,bhr,Bahrain,2007,96
+2868,bgd,Bangladesh,2007,91
+2869,blz,Belize,2007,87
+2870,ben,Benin,2007,93
+2871,btn,Bhutan,2007,84
+2872,bol,Bolivia,2007,71
+2873,bwa,Botswana,2007,84
+2874,bra,Brazil,2007,92
+2875,brn,Brunei,2007,64
+2876,bfa,Burkina Faso,2007,80
+2877,bdi,Burundi,2007,76
+2878,cpv,Cape Verde,2007,77
+2879,khm,Cambodia,2007,87
+2880,cmr,Cameroon,2007,83
+2881,caf,Central African Republic,2007,54
+2882,tcd,Chad,2007,60
+2883,col,Colombia,2007,78
+2884,com,Comoros,2007,89
+2885,cog,"Congo, Rep.",2007,82
+2886,civ,Cote d'Ivoire,2007,74
+2887,prk,North Korea,2007,91
+2888,cod,"Congo, Dem. Rep.",2007,70
+2889,dji,Djibouti,2007,79
+2890,dom,Dominican Republic,2007,85
+2891,ecu,Ecuador,2007,72
+2892,egy,Egypt,2007,85
+2893,slv,El Salvador,2007,87
+2894,gnq,Equatorial Guinea,2007,62
+2895,eri,Eritrea,2007,85
+2896,swz,Swaziland,2007,85
+2897,eth,Ethiopia,2007,83
+2898,fji,Fiji,2007,94
+2899,gab,Gabon,2007,67
+2900,gmb,Gambia,2007,90
+2901,gha,Ghana,2007,86
+2902,gtm,Guatemala,2007,71
+2903,gin,Guinea,2007,95
+2904,gnb,Guinea-Bissau,2007,92
+2905,guy,Guyana,2007,91
+2906,hti,Haiti,2007,43
+2907,hnd,Honduras,2007,94
+2908,ind,India,2007,86
+2909,idn,Indonesia,2007,83
+2910,irn,Iran,2007,83
+2911,irq,Iraq,2007,69
+2912,jam,Jamaica,2007,54
+2913,jor,Jordan,2007,87
+2914,ken,Kenya,2007,74
+2915,kir,Kiribati,2007,43
+2916,kwt,Kuwait,2007,83
+2917,lao,Lao,2007,47
+2918,lso,Lesotho,2007,82
+2919,lbr,Liberia,2007,90
+2920,mdg,Madagascar,2007,72
+2921,mwi,Malawi,2007,86
+2922,mys,Malaysia,2007,87
+2923,mdv,Maldives,2007,94
+2924,mli,Mali,2007,90
+2925,mrt,Mauritania,2007,77
+2926,mus,Mauritius,2007,86
+2927,mex,Mexico,2007,87
+2928,mar,Morocco,2007,88
+2929,moz,Mozambique,2007,82
+2930,mmr,Myanmar,2007,93
+2931,nam,Namibia,2007,82
+2932,npl,Nepal,2007,84
+2933,nic,Nicaragua,2007,80
+2934,ner,Niger,2007,79
+2935,nga,Nigeria,2007,63
+2936,omn,Oman,2007,95
+2937,pak,Pakistan,2007,78
+2938,png,Papua New Guinea,2007,60
+2939,pry,Paraguay,2007,74
+2940,per,Peru,2007,67
+2941,phl,Philippines,2007,58
+2942,rwa,Rwanda,2007,82
+2943,stp,Sao Tome and Principe,2007,98
+2944,sen,Senegal,2007,85
+2945,syc,Seychelles,2007,100
+2946,sle,Sierra Leone,2007,94
+2947,slb,Solomon Islands,2007,84
+2948,som,Somalia,2007,50
+2949,zaf,South Africa,2007,72
+2950,ssd,South Sudan,2007,
+2951,lka,Sri Lanka,2007,91
+2952,sdn,Sudan,2007,72
+2953,sur,Suriname,2007,93
+2954,syr,Syria,2007,92
+2955,tha,Thailand,2007,89
+2956,tls,Timor-Leste,2007,59
+2957,tgo,Togo,2007,82
+2958,tun,Tunisia,2007,96
+2959,tur,Turkey,2007,70
+2960,uga,Uganda,2007,85
+2961,tza,Tanzania,2007,81
+2962,vut,Vanuatu,2007,73
+2963,ven,Venezuela,2007,51
+2964,vnm,Vietnam,2007,86
+2965,yem,Yemen,2007,52
+2966,zmb,Zambia,2007,89
+2967,zwe,Zimbabwe,2007,78
+2968,afg,Afghanistan,2008,83
+2969,alb,Albania,2008,87
+2970,dza,Algeria,2008,71
+2971,ago,Angola,2008,79
+2972,bhs,Bahamas,2008,99
+2973,bhr,Bahrain,2008,99
+2974,bgd,Bangladesh,2008,91
+2975,blz,Belize,2008,88
+2976,ben,Benin,2008,92
+2977,btn,Bhutan,2008,89
+2978,bol,Bolivia,2008,74
+2979,bwa,Botswana,2008,85
+2980,bra,Brazil,2008,92
+2981,brn,Brunei,2008,65
+2982,bfa,Burkina Faso,2008,79
+2983,bdi,Burundi,2008,78
+2984,cpv,Cape Verde,2008,78
+2985,khm,Cambodia,2008,87
+2986,cmr,Cameroon,2008,86
+2987,caf,Central African Republic,2008,86
+2988,tcd,Chad,2008,58
+2989,col,Colombia,2008,78
+2990,com,Comoros,2008,83
+2991,cog,"Congo, Rep.",2008,82
+2992,civ,Cote d'Ivoire,2008,92
+2993,prk,North Korea,2008,91
+2994,cod,"Congo, Dem. Rep.",2008,75
+2995,dji,Djibouti,2008,79
+2996,dom,Dominican Republic,2008,86
+2997,ecu,Ecuador,2008,73
+2998,egy,Egypt,2008,85
+2999,slv,El Salvador,2008,87
+3000,gnq,Equatorial Guinea,2008,69
+3001,eri,Eritrea,2008,86
+3002,swz,Swaziland,2008,86
+3003,eth,Ethiopia,2008,84
+3004,fji,Fiji,2008,94
+3005,gab,Gabon,2008,73
+3006,gmb,Gambia,2008,91
+3007,gha,Ghana,2008,86
+3008,gtm,Guatemala,2008,71
+3009,gin,Guinea,2008,96
+3010,gnb,Guinea-Bissau,2008,94
+3011,guy,Guyana,2008,90
+3012,hti,Haiti,2008,50
+3013,hnd,Honduras,2008,94
+3014,ind,India,2008,86
+3015,idn,Indonesia,2008,79
+3016,irn,Iran,2008,83
+3017,irq,Iraq,2008,69
+3018,jam,Jamaica,2008,58
+3019,jor,Jordan,2008,87
+3020,ken,Kenya,2008,78
+3021,kir,Kiribati,2008,42
+3022,kwt,Kuwait,2008,84
+3023,lao,Lao,2008,47
+3024,lso,Lesotho,2008,83
+3025,lbr,Liberia,2008,91
+3026,mdg,Madagascar,2008,76
+3027,mwi,Malawi,2008,87
+3028,mys,Malaysia,2008,87
+3029,mdv,Maldives,2008,95
+3030,mli,Mali,2008,92
+3031,mrt,Mauritania,2008,77
+3032,mus,Mauritius,2008,87
+3033,mex,Mexico,2008,87
+3034,mar,Morocco,2008,90
+3035,moz,Mozambique,2008,83
+3036,mmr,Myanmar,2008,93
+3037,nam,Namibia,2008,82
+3038,npl,Nepal,2008,81
+3039,nic,Nicaragua,2008,80
+3040,ner,Niger,2008,84
+3041,nga,Nigeria,2008,64
+3042,omn,Oman,2008,91
+3043,pak,Pakistan,2008,80
+3044,png,Papua New Guinea,2008,61
+3045,pry,Paraguay,2008,74
+3046,per,Peru,2008,67
+3047,phl,Philippines,2008,58
+3048,rwa,Rwanda,2008,85
+3049,stp,Sao Tome and Principe,2008,98
+3050,sen,Senegal,2008,88
+3051,syc,Seychelles,2008,100
+3052,sle,Sierra Leone,2008,97
+3053,slb,Solomon Islands,2008,85
+3054,som,Somalia,2008,49
+3055,zaf,South Africa,2008,75
+3056,ssd,South Sudan,2008,
+3057,lka,Sri Lanka,2008,93
+3058,sdn,Sudan,2008,70
+3059,sur,Suriname,2008,93
+3060,syr,Syria,2008,94
+3061,tha,Thailand,2008,91
+3062,tls,Timor-Leste,2008,66
+3063,tgo,Togo,2008,81
+3064,tun,Tunisia,2008,96
+3065,tur,Turkey,2008,71
+3066,uga,Uganda,2008,85
+3067,tza,Tanzania,2008,81
+3068,vut,Vanuatu,2008,73
+3069,ven,Venezuela,2008,52
+3070,vnm,Vietnam,2008,84
+3071,yem,Yemen,2008,63
+3072,zmb,Zambia,2008,90
+3073,zwe,Zimbabwe,2008,76
+3074,afg,Afghanistan,2009,89
+3075,alb,Albania,2009,87
+3076,dza,Algeria,2009,71
+3077,ago,Angola,2009,88
+3078,bhs,Bahamas,2009,99
+3079,bhr,Bahrain,2009,94
+3080,bgd,Bangladesh,2009,93
+3081,blz,Belize,2009,88
+3082,ben,Benin,2009,92
+3083,btn,Bhutan,2009,89
+3084,bol,Bolivia,2009,74
+3085,bwa,Botswana,2009,92
+3086,bra,Brazil,2009,92
+3087,brn,Brunei,2009,65
+3088,bfa,Burkina Faso,2009,85
+3089,bdi,Burundi,2009,94
+3090,cpv,Cape Verde,2009,78
+3091,khm,Cambodia,2009,91
+3092,cmr,Cameroon,2009,91
+3093,caf,Central African Republic,2009,86
+3094,tcd,Chad,2009,60
+3095,col,Colombia,2009,78
+3096,com,Comoros,2009,83
+3097,cog,"Congo, Rep.",2009,82
+3098,civ,Cote d'Ivoire,2009,92
+3099,prk,North Korea,2009,91
+3100,cod,"Congo, Dem. Rep.",2009,85
+3101,dji,Djibouti,2009,77
+3102,dom,Dominican Republic,2009,86
+3103,ecu,Ecuador,2009,73
+3104,egy,Egypt,2009,85
+3105,slv,El Salvador,2009,87
+3106,gnq,Equatorial Guinea,2009,75
+3107,eri,Eritrea,2009,86
+3108,swz,Swaziland,2009,86
+3109,eth,Ethiopia,2009,88
+3110,fji,Fiji,2009,94
+3111,gab,Gabon,2009,75
+3112,gmb,Gambia,2009,91
+3113,gha,Ghana,2009,86
+3114,gtm,Guatemala,2009,71
+3115,gin,Guinea,2009,96
+3116,gnb,Guinea-Bissau,2009,94
+3117,guy,Guyana,2009,90
+3118,hti,Haiti,2009,70
+3119,hnd,Honduras,2009,94
+3120,ind,India,2009,86
+3121,idn,Indonesia,2009,85
+3122,irn,Iran,2009,83
+3123,irq,Iraq,2009,69
+3124,jam,Jamaica,2009,62
+3125,jor,Jordan,2009,87
+3126,ken,Kenya,2009,78
+3127,kir,Kiribati,2009,79
+3128,kwt,Kuwait,2009,84
+3129,lao,Lao,2009,47
+3130,lso,Lesotho,2009,83
+3131,lbr,Liberia,2009,91
+3132,mdg,Madagascar,2009,76
+3133,mwi,Malawi,2009,87
+3134,mys,Malaysia,2009,87
+3135,mdv,Maldives,2009,95
+3136,mli,Mali,2009,92
+3137,mrt,Mauritania,2009,87
+3138,mus,Mauritius,2009,87
+3139,mex,Mexico,2009,87
+3140,mar,Morocco,2009,87
+3141,moz,Mozambique,2009,83
+3142,mmr,Myanmar,2009,93
+3143,nam,Namibia,2009,82
+3144,npl,Nepal,2009,81
+3145,nic,Nicaragua,2009,80
+3146,ner,Niger,2009,84
+3147,nga,Nigeria,2009,67
+3148,omn,Oman,2009,91
+3149,pak,Pakistan,2009,84
+3150,png,Papua New Guinea,2009,61
+3151,pry,Paraguay,2009,74
+3152,per,Peru,2009,67
+3153,phl,Philippines,2009,68
+3154,rwa,Rwanda,2009,85
+3155,stp,Sao Tome and Principe,2009,98
+3156,sen,Senegal,2009,88
+3157,syc,Seychelles,2009,100
+3158,sle,Sierra Leone,2009,97
+3159,slb,Solomon Islands,2009,85
+3160,som,Somalia,2009,64
+3161,zaf,South Africa,2009,75
+3162,ssd,South Sudan,2009,
+3163,lka,Sri Lanka,2009,93
+3164,sdn,Sudan,2009,74
+3165,sur,Suriname,2009,93
+3166,syr,Syria,2009,94
+3167,tha,Thailand,2009,91
+3168,tls,Timor-Leste,2009,81
+3169,tgo,Togo,2009,81
+3170,tun,Tunisia,2009,96
+3171,tur,Turkey,2009,71
+3172,uga,Uganda,2009,89
+3173,tza,Tanzania,2009,90
+3174,vut,Vanuatu,2009,73
+3175,ven,Venezuela,2009,50
+3176,vnm,Vietnam,2009,87
+3177,yem,Yemen,2009,66
+3178,zmb,Zambia,2009,90
+3179,zwe,Zimbabwe,2009,76
+3180,afg,Afghanistan,2010,79
+3181,alb,Albania,2010,87
+3182,dza,Algeria,2010,90
+3183,ago,Angola,2010,75
+3184,bhs,Bahamas,2010,99
+3185,bhr,Bahrain,2010,94
+3186,bgd,Bangladesh,2010,93
+3187,blz,Belize,2010,88
+3188,ben,Benin,2010,92
+3189,btn,Bhutan,2010,89
+3190,bol,Bolivia,2010,74
+3191,bwa,Botswana,2010,92
+3192,bra,Brazil,2010,92
+3193,brn,Brunei,2010,95
+3194,bfa,Burkina Faso,2010,85
+3195,bdi,Burundi,2010,94
+3196,cpv,Cape Verde,2010,92
+3197,khm,Cambodia,2010,91
+3198,cmr,Cameroon,2010,91
+3199,caf,Central African Republic,2010,86
+3200,tcd,Chad,2010,60
+3201,col,Colombia,2010,79
+3202,com,Comoros,2010,85
+3203,cog,"Congo, Rep.",2010,83
+3204,civ,Cote d'Ivoire,2010,82
+3205,prk,North Korea,2010,91
+3206,cod,"Congo, Dem. Rep.",2010,77
+3207,dji,Djibouti,2010,79
+3208,dom,Dominican Republic,2010,87
+3209,ecu,Ecuador,2010,74
+3210,egy,Egypt,2010,86
+3211,slv,El Salvador,2010,88
+3212,gnq,Equatorial Guinea,2010,75
+3213,eri,Eritrea,2010,93
+3214,swz,Swaziland,2010,86
+3215,eth,Ethiopia,2010,88
+3216,fji,Fiji,2010,94
+3217,gab,Gabon,2010,75
+3218,gmb,Gambia,2010,91
+3219,gha,Ghana,2010,86
+3220,gtm,Guatemala,2010,85
+3221,gin,Guinea,2010,90
+3222,gnb,Guinea-Bissau,2010,78
+3223,guy,Guyana,2010,97
+3224,hti,Haiti,2010,70
+3225,hnd,Honduras,2010,94
+3226,ind,India,2010,87
+3227,idn,Indonesia,2010,85
+3228,irn,Iran,2010,95
+3229,irq,Iraq,2010,80
+3230,jam,Jamaica,2010,80
+3231,jor,Jordan,2010,87
+3232,ken,Kenya,2010,78
+3233,kir,Kiribati,2010,80
+3234,kwt,Kuwait,2010,95
+3235,lao,Lao,2010,80
+3236,lso,Lesotho,2010,83
+3237,lbr,Liberia,2010,91
+3238,mdg,Madagascar,2010,76
+3239,mwi,Malawi,2010,87
+3240,mys,Malaysia,2010,87
+3241,mdv,Maldives,2010,95
+3242,mli,Mali,2010,85
+3243,mrt,Mauritania,2010,87
+3244,mus,Mauritius,2010,95
+3245,mex,Mexico,2010,88
+3246,mar,Morocco,2010,89
+3247,moz,Mozambique,2010,83
+3248,mmr,Myanmar,2010,93
+3249,nam,Namibia,2010,83
+3250,npl,Nepal,2010,81
+3251,nic,Nicaragua,2010,81
+3252,ner,Niger,2010,84
+3253,nga,Nigeria,2010,69
+3254,omn,Oman,2010,91
+3255,pak,Pakistan,2010,84
+3256,png,Papua New Guinea,2010,61
+3257,pry,Paraguay,2010,85
+3258,per,Peru,2010,85
+3259,phl,Philippines,2010,75
+3260,rwa,Rwanda,2010,85
+3261,stp,Sao Tome and Principe,2010,99
+3262,sen,Senegal,2010,88
+3263,syc,Seychelles,2010,100
+3264,sle,Sierra Leone,2010,85
+3265,slb,Solomon Islands,2010,85
+3266,som,Somalia,2010,64
+3267,zaf,South Africa,2010,77
+3268,ssd,South Sudan,2010,
+3269,lka,Sri Lanka,2010,86
+3270,sdn,Sudan,2010,74
+3271,sur,Suriname,2010,93
+3272,syr,Syria,2010,94
+3273,tha,Thailand,2010,91
+3274,tls,Timor-Leste,2010,81
+3275,tgo,Togo,2010,81
+3276,tun,Tunisia,2010,96
+3277,tur,Turkey,2010,90
+3278,uga,Uganda,2010,85
+3279,tza,Tanzania,2010,83
+3280,vut,Vanuatu,2010,73
+3281,ven,Venezuela,2010,50
+3282,vnm,Vietnam,2010,87
+3283,yem,Yemen,2010,66
+3284,zmb,Zambia,2010,90
+3285,zwe,Zimbabwe,2010,76
+3286,afg,Afghanistan,2011,60
+3287,alb,Albania,2011,87
+3288,dza,Algeria,2011,90
+3289,ago,Angola,2011,70
+3290,bhs,Bahamas,2011,99
+3291,bhr,Bahrain,2011,94
+3292,bgd,Bangladesh,2011,94
+3293,blz,Belize,2011,88
+3294,ben,Benin,2011,92
+3295,btn,Bhutan,2011,89
+3296,bol,Bolivia,2011,74
+3297,bwa,Botswana,2011,92
+3298,bra,Brazil,2011,92
+3299,brn,Brunei,2011,95
+3300,bfa,Burkina Faso,2011,88
+3301,bdi,Burundi,2011,80
+3302,cpv,Cape Verde,2011,92
+3303,khm,Cambodia,2011,91
+3304,cmr,Cameroon,2011,75
+3305,caf,Central African Republic,2011,80
+3306,tcd,Chad,2011,60
+3307,col,Colombia,2011,79
+3308,com,Comoros,2011,85
+3309,cog,"Congo, Rep.",2011,83
+3310,civ,Cote d'Ivoire,2011,82
+3311,prk,North Korea,2011,93
+3312,cod,"Congo, Dem. Rep.",2011,70
+3313,dji,Djibouti,2011,79
+3314,dom,Dominican Republic,2011,90
+3315,ecu,Ecuador,2011,85
+3316,egy,Egypt,2011,86
+3317,slv,El Salvador,2011,88
+3318,gnq,Equatorial Guinea,2011,75
+3319,eri,Eritrea,2011,93
+3320,swz,Swaziland,2011,86
+3321,eth,Ethiopia,2011,88
+3322,fji,Fiji,2011,94
+3323,gab,Gabon,2011,75
+3324,gmb,Gambia,2011,91
+3325,gha,Ghana,2011,88
+3326,gtm,Guatemala,2011,85
+3327,gin,Guinea,2011,80
+3328,gnb,Guinea-Bissau,2011,80
+3329,guy,Guyana,2011,97
+3330,hti,Haiti,2011,70
+3331,hnd,Honduras,2011,94
+3332,ind,India,2011,87
+3333,idn,Indonesia,2011,85
+3334,irn,Iran,2011,95
+3335,irq,Iraq,2011,85
+3336,jam,Jamaica,2011,80
+3337,jor,Jordan,2011,90
+3338,ken,Kenya,2011,73
+3339,kir,Kiribati,2011,83
+3340,kwt,Kuwait,2011,95
+3341,lao,Lao,2011,80
+3342,lso,Lesotho,2011,83
+3343,lbr,Liberia,2011,91
+3344,mdg,Madagascar,2011,78
+3345,mwi,Malawi,2011,87
+3346,mys,Malaysia,2011,90
+3347,mdv,Maldives,2011,95
+3348,mli,Mali,2011,89
+3349,mrt,Mauritania,2011,80
+3350,mus,Mauritius,2011,95
+3351,mex,Mexico,2011,88
+3352,mar,Morocco,2011,89
+3353,moz,Mozambique,2011,83
+3354,mmr,Myanmar,2011,93
+3355,nam,Namibia,2011,83
+3356,npl,Nepal,2011,82
+3357,nic,Nicaragua,2011,81
+3358,ner,Niger,2011,84
+3359,nga,Nigeria,2011,60
+3360,omn,Oman,2011,91
+3361,pak,Pakistan,2011,75
+3362,png,Papua New Guinea,2011,61
+3363,pry,Paraguay,2011,85
+3364,per,Peru,2011,85
+3365,phl,Philippines,2011,76
+3366,rwa,Rwanda,2011,85
+3367,stp,Sao Tome and Principe,2011,99
+3368,sen,Senegal,2011,88
+3369,syc,Seychelles,2011,100
+3370,sle,Sierra Leone,2011,85
+3371,slb,Solomon Islands,2011,85
+3372,som,Somalia,2011,64
+3373,zaf,South Africa,2011,77
+3374,ssd,South Sudan,2011,64
+3375,lka,Sri Lanka,2011,95
+3376,sdn,Sudan,2011,74
+3377,sur,Suriname,2011,93
+3378,syr,Syria,2011,94
+3379,tha,Thailand,2011,91
+3380,tls,Timor-Leste,2011,81
+3381,tgo,Togo,2011,81
+3382,tun,Tunisia,2011,96
+3383,tur,Turkey,2011,90
+3384,uga,Uganda,2011,85
+3385,tza,Tanzania,2011,88
+3386,vut,Vanuatu,2011,75
+3387,ven,Venezuela,2011,50
+3388,vnm,Vietnam,2011,87
+3389,yem,Yemen,2011,66
+3390,zmb,Zambia,2011,81
+3391,zwe,Zimbabwe,2011,66
+3392,afg,Afghanistan,2012,60
+3393,alb,Albania,2012,87
+3394,dza,Algeria,2012,90
+3395,ago,Angola,2012,72
+3396,bhs,Bahamas,2012,99
+3397,bhr,Bahrain,2012,94
+3398,bgd,Bangladesh,2012,94
+3399,blz,Belize,2012,88
+3400,ben,Benin,2012,93
+3401,btn,Bhutan,2012,89
+3402,bol,Bolivia,2012,76
+3403,bwa,Botswana,2012,92
+3404,bra,Brazil,2012,93
+3405,brn,Brunei,2012,95
+3406,bfa,Burkina Faso,2012,88
+3407,bdi,Burundi,2012,85
+3408,cpv,Cape Verde,2012,92
+3409,khm,Cambodia,2012,91
+3410,cmr,Cameroon,2012,85
+3411,caf,Central African Republic,2012,66
+3412,tcd,Chad,2012,43
+3413,col,Colombia,2012,79
+3414,com,Comoros,2012,85
+3415,cog,"Congo, Rep.",2012,83
+3416,civ,Cote d'Ivoire,2012,82
+3417,prk,North Korea,2012,93
+3418,cod,"Congo, Dem. Rep.",2012,70
+3419,dji,Djibouti,2012,79
+3420,dom,Dominican Republic,2012,90
+3421,ecu,Ecuador,2012,85
+3422,egy,Egypt,2012,86
+3423,slv,El Salvador,2012,90
+3424,gnq,Equatorial Guinea,2012,75
+3425,eri,Eritrea,2012,94
+3426,swz,Swaziland,2012,86
+3427,eth,Ethiopia,2012,68
+3428,fji,Fiji,2012,94
+3429,gab,Gabon,2012,75
+3430,gmb,Gambia,2012,92
+3431,gha,Ghana,2012,88
+3432,gtm,Guatemala,2012,85
+3433,gin,Guinea,2012,80
+3434,gnb,Guinea-Bissau,2012,80
+3435,guy,Guyana,2012,97
+3436,hti,Haiti,2012,76
+3437,hnd,Honduras,2012,94
+3438,ind,India,2012,87
+3439,idn,Indonesia,2012,85
+3440,irn,Iran,2012,95
+3441,irq,Iraq,2012,85
+3442,jam,Jamaica,2012,80
+3443,jor,Jordan,2012,90
+3444,ken,Kenya,2012,73
+3445,kir,Kiribati,2012,85
+3446,kwt,Kuwait,2012,95
+3447,lao,Lao,2012,80
+3448,lso,Lesotho,2012,83
+3449,lbr,Liberia,2012,91
+3450,mdg,Madagascar,2012,78
+3451,mwi,Malawi,2012,89
+3452,mys,Malaysia,2012,90
+3453,mdv,Maldives,2012,95
+3454,mli,Mali,2012,89
+3455,mrt,Mauritania,2012,80
+3456,mus,Mauritius,2012,95
+3457,mex,Mexico,2012,88
+3458,mar,Morocco,2012,89
+3459,moz,Mozambique,2012,83
+3460,mmr,Myanmar,2012,93
+3461,nam,Namibia,2012,83
+3462,npl,Nepal,2012,82
+3463,nic,Nicaragua,2012,81
+3464,ner,Niger,2012,84
+3465,nga,Nigeria,2012,60
+3466,omn,Oman,2012,91
+3467,pak,Pakistan,2012,75
+3468,png,Papua New Guinea,2012,70
+3469,pry,Paraguay,2012,85
+3470,per,Peru,2012,85
+3471,phl,Philippines,2012,76
+3472,rwa,Rwanda,2012,85
+3473,stp,Sao Tome and Principe,2012,99
+3474,sen,Senegal,2012,91
+3475,syc,Seychelles,2012,100
+3476,sle,Sierra Leone,2012,87
+3477,slb,Solomon Islands,2012,85
+3478,som,Somalia,2012,64
+3479,zaf,South Africa,2012,77
+3480,ssd,South Sudan,2012,64
+3481,lka,Sri Lanka,2012,95
+3482,sdn,Sudan,2012,74
+3483,sur,Suriname,2012,93
+3484,syr,Syria,2012,94
+3485,tha,Thailand,2012,91
+3486,tls,Timor-Leste,2012,81
+3487,tgo,Togo,2012,81
+3488,tun,Tunisia,2012,96
+3489,tur,Turkey,2012,90
+3490,uga,Uganda,2012,85
+3491,tza,Tanzania,2012,88
+3492,vut,Vanuatu,2012,75
+3493,ven,Venezuela,2012,50
+3494,vnm,Vietnam,2012,91
+3495,yem,Yemen,2012,66
+3496,zmb,Zambia,2012,81
+3497,zwe,Zimbabwe,2012,66
+3498,afg,Afghanistan,2013,65
+3499,alb,Albania,2013,87
+3500,dza,Algeria,2013,90
+3501,ago,Angola,2013,75
+3502,bhs,Bahamas,2013,99
+3503,bhr,Bahrain,2013,94
+3504,bgd,Bangladesh,2013,94
+3505,blz,Belize,2013,88
+3506,ben,Benin,2013,93
+3507,btn,Bhutan,2013,83
+3508,bol,Bolivia,2013,76
+3509,bwa,Botswana,2013,92
+3510,bra,Brazil,2013,93
+3511,brn,Brunei,2013,95
+3512,bfa,Burkina Faso,2013,88
+3513,bdi,Burundi,2013,85
+3514,cpv,Cape Verde,2013,92
+3515,khm,Cambodia,2013,91
+3516,cmr,Cameroon,2013,85
+3517,caf,Central African Republic,2013,66
+3518,tcd,Chad,2013,50
+3519,col,Colombia,2013,79
+3520,com,Comoros,2013,85
+3521,cog,"Congo, Rep.",2013,83
+3522,civ,Cote d'Ivoire,2013,82
+3523,prk,North Korea,2013,93
+3524,cod,"Congo, Dem. Rep.",2013,75
+3525,dji,Djibouti,2013,79
+3526,dom,Dominican Republic,2013,90
+3527,ecu,Ecuador,2013,85
+3528,egy,Egypt,2013,86
+3529,slv,El Salvador,2013,90
+3530,gnq,Equatorial Guinea,2013,75
+3531,eri,Eritrea,2013,94
+3532,swz,Swaziland,2013,86
+3533,eth,Ethiopia,2013,72
+3534,fji,Fiji,2013,94
+3535,gab,Gabon,2013,85
+3536,gmb,Gambia,2013,82
+3537,gha,Ghana,2013,88
+3538,gtm,Guatemala,2013,85
+3539,gin,Guinea,2013,80
+3540,gnb,Guinea-Bissau,2013,80
+3541,guy,Guyana,2013,99
+3542,hti,Haiti,2013,76
+3543,hnd,Honduras,2013,94
+3544,ind,India,2013,87
+3545,idn,Indonesia,2013,85
+3546,irn,Iran,2013,95
+3547,irq,Iraq,2013,72
+3548,jam,Jamaica,2013,80
+3549,jor,Jordan,2013,90
+3550,ken,Kenya,2013,73
+3551,kir,Kiribati,2013,90
+3552,kwt,Kuwait,2013,95
+3553,lao,Lao,2013,90
+3554,lso,Lesotho,2013,83
+3555,lbr,Liberia,2013,91
+3556,mdg,Madagascar,2013,78
+3557,mwi,Malawi,2013,89
+3558,mys,Malaysia,2013,90
+3559,mdv,Maldives,2013,95
+3560,mli,Mali,2013,85
+3561,mrt,Mauritania,2013,80
+3562,mus,Mauritius,2013,95
+3563,mex,Mexico,2013,88
+3564,mar,Morocco,2013,89
+3565,moz,Mozambique,2013,83
+3566,mmr,Myanmar,2013,87
+3567,nam,Namibia,2013,83
+3568,npl,Nepal,2013,82
+3569,nic,Nicaragua,2013,81
+3570,ner,Niger,2013,81
+3571,nga,Nigeria,2013,60
+3572,omn,Oman,2013,91
+3573,pak,Pakistan,2013,75
+3574,png,Papua New Guinea,2013,65
+3575,pry,Paraguay,2013,85
+3576,per,Peru,2013,85
+3577,phl,Philippines,2013,80
+3578,rwa,Rwanda,2013,85
+3579,stp,Sao Tome and Principe,2013,99
+3580,sen,Senegal,2013,91
+3581,syc,Seychelles,2013,100
+3582,sle,Sierra Leone,2013,87
+3583,slb,Solomon Islands,2013,85
+3584,som,Somalia,2013,64
+3585,zaf,South Africa,2013,77
+3586,ssd,South Sudan,2013,64
+3587,lka,Sri Lanka,2013,95
+3588,sdn,Sudan,2013,74
+3589,sur,Suriname,2013,93
+3590,syr,Syria,2013,94
+3591,tha,Thailand,2013,91
+3592,tls,Timor-Leste,2013,81
+3593,tgo,Togo,2013,77
+3594,tun,Tunisia,2013,96
+3595,tur,Turkey,2013,90
+3596,uga,Uganda,2013,85
+3597,tza,Tanzania,2013,88
+3598,vut,Vanuatu,2013,75
+3599,ven,Venezuela,2013,75
+3600,vnm,Vietnam,2013,91
+3601,yem,Yemen,2013,70
+3602,zmb,Zambia,2013,81
+3603,zwe,Zimbabwe,2013,66
+3604,afg,Afghanistan,2014,70
+3605,alb,Albania,2014,92
+3606,dza,Algeria,2014,92
+3607,ago,Angola,2014,78
+3608,bhs,Bahamas,2014,99
+3609,bhr,Bahrain,2014,98
+3610,bgd,Bangladesh,2014,96
+3611,blz,Belize,2014,91
+3612,ben,Benin,2014,93
+3613,btn,Bhutan,2014,83
+3614,bol,Bolivia,2014,87
+3615,bwa,Botswana,2014,92
+3616,bra,Brazil,2014,93
+3617,brn,Brunei,2014,95
+3618,bfa,Burkina Faso,2014,89
+3619,bdi,Burundi,2014,85
+3620,cpv,Cape Verde,2014,92
+3621,khm,Cambodia,2014,91
+3622,cmr,Cameroon,2014,85
+3623,caf,Central African Republic,2014,60
+3624,tcd,Chad,2014,60
+3625,col,Colombia,2014,85
+3626,com,Comoros,2014,85
+3627,cog,"Congo, Rep.",2014,85
+3628,civ,Cote d'Ivoire,2014,82
+3629,prk,North Korea,2014,93
+3630,cod,"Congo, Dem. Rep.",2014,82
+3631,dji,Djibouti,2014,80
+3632,dom,Dominican Republic,2014,90
+3633,ecu,Ecuador,2014,85
+3634,egy,Egypt,2014,86
+3635,slv,El Salvador,2014,90
+3636,gnq,Equatorial Guinea,2014,70
+3637,eri,Eritrea,2014,94
+3638,swz,Swaziland,2014,88
+3639,eth,Ethiopia,2014,80
+3640,fji,Fiji,2014,94
+3641,gab,Gabon,2014,85
+3642,gmb,Gambia,2014,92
+3643,gha,Ghana,2014,88
+3644,gtm,Guatemala,2014,85
+3645,gin,Guinea,2014,80
+3646,gnb,Guinea-Bissau,2014,80
+3647,guy,Guyana,2014,99
+3648,hti,Haiti,2014,81
+3649,hnd,Honduras,2014,94
+3650,ind,India,2014,87
+3651,idn,Indonesia,2014,85
+3652,irn,Iran,2014,95
+3653,irq,Iraq,2014,72
+3654,jam,Jamaica,2014,80
+3655,jor,Jordan,2014,90
+3656,ken,Kenya,2014,76
+3657,kir,Kiribati,2014,90
+3658,kwt,Kuwait,2014,95
+3659,lao,Lao,2014,90
+3660,lso,Lesotho,2014,83
+3661,lbr,Liberia,2014,89
+3662,mdg,Madagascar,2014,78
+3663,mwi,Malawi,2014,89
+3664,mys,Malaysia,2014,90
+3665,mdv,Maldives,2014,95
+3666,mli,Mali,2014,85
+3667,mrt,Mauritania,2014,80
+3668,mus,Mauritius,2014,95
+3669,mex,Mexico,2014,88
+3670,mar,Morocco,2014,88
+3671,moz,Mozambique,2014,83
+3672,mmr,Myanmar,2014,87
+3673,nam,Namibia,2014,85
+3674,npl,Nepal,2014,82
+3675,nic,Nicaragua,2014,81
+3676,ner,Niger,2014,81
+3677,nga,Nigeria,2014,55
+3678,omn,Oman,2014,98
+3679,pak,Pakistan,2014,75
+3680,png,Papua New Guinea,2014,70
+3681,pry,Paraguay,2014,85
+3682,per,Peru,2014,85
+3683,phl,Philippines,2014,87
+3684,rwa,Rwanda,2014,90
+3685,stp,Sao Tome and Principe,2014,99
+3686,sen,Senegal,2014,91
+3687,syc,Seychelles,2014,100
+3688,sle,Sierra Leone,2014,85
+3689,slb,Solomon Islands,2014,85
+3690,som,Somalia,2014,64
+3691,zaf,South Africa,2014,80
+3692,ssd,South Sudan,2014,64
+3693,lka,Sri Lanka,2014,95
+3694,sdn,Sudan,2014,74
+3695,sur,Suriname,2014,93
+3696,syr,Syria,2014,92
+3697,tha,Thailand,2014,95
+3698,tls,Timor-Leste,2014,81
+3699,tgo,Togo,2014,81
+3700,tun,Tunisia,2014,96
+3701,tur,Turkey,2014,90
+3702,uga,Uganda,2014,85
+3703,tza,Tanzania,2014,88
+3704,vut,Vanuatu,2014,75
+3705,ven,Venezuela,2014,75
+3706,vnm,Vietnam,2014,91
+3707,yem,Yemen,2014,70
+3708,zmb,Zambia,2014,85
+3709,zwe,Zimbabwe,2014,75
+3710,afg,Afghanistan,2015,70
+3711,alb,Albania,2015,92
+3712,dza,Algeria,2015,92
+3713,ago,Angola,2015,78
+3714,bhs,Bahamas,2015,100
+3715,bhr,Bahrain,2015,98
+3716,bgd,Bangladesh,2015,97
+3717,blz,Belize,2015,91
+3718,ben,Benin,2015,85
+3719,btn,Bhutan,2015,89
+3720,bol,Bolivia,2015,87
+3721,bwa,Botswana,2015,92
+3722,bra,Brazil,2015,93
+3723,brn,Brunei,2015,95
+3724,bfa,Burkina Faso,2015,92
+3725,bdi,Burundi,2015,85
+3726,cpv,Cape Verde,2015,92
+3727,khm,Cambodia,2015,93
+3728,cmr,Cameroon,2015,85
+3729,caf,Central African Republic,2015,60
+3730,tcd,Chad,2015,75
+3731,col,Colombia,2015,85
+3732,com,Comoros,2015,85
+3733,cog,"Congo, Rep.",2015,85
+3734,civ,Cote d'Ivoire,2015,85
+3735,prk,North Korea,2015,97
+3736,cod,"Congo, Dem. Rep.",2015,82
+3737,dji,Djibouti,2015,80
+3738,dom,Dominican Republic,2015,90
+3739,ecu,Ecuador,2015,88
+3740,egy,Egypt,2015,86
+3741,slv,El Salvador,2015,90
+3742,gnq,Equatorial Guinea,2015,70
+3743,eri,Eritrea,2015,94
+3744,swz,Swaziland,2015,88
+3745,eth,Ethiopia,2015,80
+3746,fji,Fiji,2015,94
+3747,gab,Gabon,2015,85
+3748,gmb,Gambia,2015,92
+3749,gha,Ghana,2015,88
+3750,gtm,Guatemala,2015,90
+3751,gin,Guinea,2015,80
+3752,gnb,Guinea-Bissau,2015,80
+3753,guy,Guyana,2015,99
+3754,hti,Haiti,2015,81
+3755,hnd,Honduras,2015,94
+3756,ind,India,2015,87
+3757,idn,Indonesia,2015,85
+3758,irn,Iran,2015,95
+3759,irq,Iraq,2015,72
+3760,jam,Jamaica,2015,80
+3761,jor,Jordan,2015,90
+3762,ken,Kenya,2015,80
+3763,kir,Kiribati,2015,90
+3764,kwt,Kuwait,2015,95
+3765,lao,Lao,2015,90
+3766,lso,Lesotho,2015,83
+3767,lbr,Liberia,2015,89
+3768,mdg,Madagascar,2015,78
+3769,mwi,Malawi,2015,89
+3770,mys,Malaysia,2015,90
+3771,mdv,Maldives,2015,99
+3772,mli,Mali,2015,85
+3773,mrt,Mauritania,2015,80
+3774,mus,Mauritius,2015,95
+3775,mex,Mexico,2015,90
+3776,mar,Morocco,2015,88
+3777,moz,Mozambique,2015,83
+3778,mmr,Myanmar,2015,87
+3779,nam,Namibia,2015,85
+3780,npl,Nepal,2015,82
+3781,nic,Nicaragua,2015,81
+3782,ner,Niger,2015,81
+3783,nga,Nigeria,2015,55
+3784,omn,Oman,2015,98
+3785,pak,Pakistan,2015,75
+3786,png,Papua New Guinea,2015,70
+3787,pry,Paraguay,2015,85
+3788,per,Peru,2015,85
+3789,phl,Philippines,2015,90
+3790,rwa,Rwanda,2015,90
+3791,stp,Sao Tome and Principe,2015,99
+3792,sen,Senegal,2015,91
+3793,syc,Seychelles,2015,100
+3794,sle,Sierra Leone,2015,85
+3795,slb,Solomon Islands,2015,85
+3796,som,Somalia,2015,67
+3797,zaf,South Africa,2015,80
+3798,ssd,South Sudan,2015,68
+3799,lka,Sri Lanka,2015,95
+3800,sdn,Sudan,2015,77
+3801,sur,Suriname,2015,93
+3802,syr,Syria,2015,91
+3803,tha,Thailand,2015,95
+3804,tls,Timor-Leste,2015,81
+3805,tgo,Togo,2015,81
+3806,tun,Tunisia,2015,96
+3807,tur,Turkey,2015,90
+3808,uga,Uganda,2015,85
+3809,tza,Tanzania,2015,90
+3810,vut,Vanuatu,2015,78
+3811,ven,Venezuela,2015,75
+3812,vnm,Vietnam,2015,94
+3813,yem,Yemen,2015,70
+3814,zmb,Zambia,2015,85
+3815,zwe,Zimbabwe,2015,75
+3816,afg,Afghanistan,2016,70
+3817,alb,Albania,2016,92
+3818,dza,Algeria,2016,92
+3819,ago,Angola,2016,78
+3820,bhs,Bahamas,2016,100
+3821,bhr,Bahrain,2016,98
+3822,bgd,Bangladesh,2016,97
+3823,blz,Belize,2016,91
+3824,ben,Benin,2016,85
+3825,btn,Bhutan,2016,89
+3826,bol,Bolivia,2016,87
+3827,bwa,Botswana,2016,92
+3828,bra,Brazil,2016,93
+3829,brn,Brunei,2016,95
+3830,bfa,Burkina Faso,2016,92
+3831,bdi,Burundi,2016,85
+3832,cpv,Cape Verde,2016,92
+3833,khm,Cambodia,2016,93
+3834,cmr,Cameroon,2016,85
+3835,caf,Central African Republic,2016,60
+3836,tcd,Chad,2016,75
+3837,col,Colombia,2016,85
+3838,com,Comoros,2016,85
+3839,cog,"Congo, Rep.",2016,85
+3840,civ,Cote d'Ivoire,2016,85
+3841,prk,North Korea,2016,97
+3842,cod,"Congo, Dem. Rep.",2016,82
+3843,dji,Djibouti,2016,80
+3844,dom,Dominican Republic,2016,90
+3845,ecu,Ecuador,2016,88
+3846,egy,Egypt,2016,80
+3847,slv,El Salvador,2016,90
+3848,gnq,Equatorial Guinea,2016,70
+3849,eri,Eritrea,2016,94
+3850,swz,Swaziland,2016,88
+3851,eth,Ethiopia,2016,80
+3852,fji,Fiji,2016,94
+3853,gab,Gabon,2016,85
+3854,gmb,Gambia,2016,92
+3855,gha,Ghana,2016,88
+3856,gtm,Guatemala,2016,90
+3857,gin,Guinea,2016,80
+3858,gnb,Guinea-Bissau,2016,80
+3859,guy,Guyana,2016,99
+3860,hti,Haiti,2016,81
+3861,hnd,Honduras,2016,94
+3862,ind,India,2016,87
+3863,idn,Indonesia,2016,85
+3864,irn,Iran,2016,95
+3865,irq,Iraq,2016,75
+3866,jam,Jamaica,2016,80
+3867,jor,Jordan,2016,90
+3868,ken,Kenya,2016,80
+3869,kir,Kiribati,2016,90
+3870,kwt,Kuwait,2016,95
+3871,lao,Lao,2016,90
+3872,lso,Lesotho,2016,83
+3873,lbr,Liberia,2016,89
+3874,mdg,Madagascar,2016,78
+3875,mwi,Malawi,2016,89
+3876,mys,Malaysia,2016,90
+3877,mdv,Maldives,2016,99
+3878,mli,Mali,2016,85
+3879,mrt,Mauritania,2016,80
+3880,mus,Mauritius,2016,95
+3881,mex,Mexico,2016,90
+3882,mar,Morocco,2016,88
+3883,moz,Mozambique,2016,83
+3884,mmr,Myanmar,2016,87
+3885,nam,Namibia,2016,88
+3886,npl,Nepal,2016,82
+3887,nic,Nicaragua,2016,81
+3888,ner,Niger,2016,81
+3889,nga,Nigeria,2016,55
+3890,omn,Oman,2016,98
+3891,pak,Pakistan,2016,80
+3892,png,Papua New Guinea,2016,70
+3893,pry,Paraguay,2016,85
+3894,per,Peru,2016,85
+3895,phl,Philippines,2016,90
+3896,rwa,Rwanda,2016,90
+3897,stp,Sao Tome and Principe,2016,99
+3898,sen,Senegal,2016,91
+3899,syc,Seychelles,2016,100
+3900,sle,Sierra Leone,2016,90
+3901,slb,Solomon Islands,2016,85
+3902,som,Somalia,2016,67
+3903,zaf,South Africa,2016,80
+3904,ssd,South Sudan,2016,68
+3905,lka,Sri Lanka,2016,95
+3906,sdn,Sudan,2016,77
+3907,sur,Suriname,2016,93
+3908,syr,Syria,2016,91
+3909,tha,Thailand,2016,95
+3910,tls,Timor-Leste,2016,81
+3911,tgo,Togo,2016,81
+3912,tun,Tunisia,2016,96
+3913,tur,Turkey,2016,90
+3914,uga,Uganda,2016,85
+3915,tza,Tanzania,2016,90
+3916,vut,Vanuatu,2016,78
+3917,ven,Venezuela,2016,75
+3918,vnm,Vietnam,2016,94
+3919,yem,Yemen,2016,70
+3920,zmb,Zambia,2016,85
+3921,zwe,Zimbabwe,2016,75
+3922,afg,Afghanistan,2017,70
+3923,alb,Albania,2017,95
+3924,dza,Algeria,2017,98
+3925,ago,Angola,2017,78
+3926,bhs,Bahamas,2017,100
+3927,bhr,Bahrain,2017,98
+3928,bgd,Bangladesh,2017,98
+3929,blz,Belize,2017,91
+3930,ben,Benin,2017,85
+3931,btn,Bhutan,2017,89
+3932,bol,Bolivia,2017,87
+3933,bwa,Botswana,2017,93
+3934,bra,Brazil,2017,94
+3935,brn,Brunei,2017,96
+3936,bfa,Burkina Faso,2017,92
+3937,bdi,Burundi,2017,87
+3938,cpv,Cape Verde,2017,92
+3939,khm,Cambodia,2017,93
+3940,cmr,Cameroon,2017,85
+3941,caf,Central African Republic,2017,60
+3942,tcd,Chad,2017,78
+3943,col,Colombia,2017,95
+3944,com,Comoros,2017,85
+3945,cog,"Congo, Rep.",2017,85
+3946,civ,Cote d'Ivoire,2017,85
+3947,prk,North Korea,2017,98
+3948,cod,"Congo, Dem. Rep.",2017,85
+3949,dji,Djibouti,2017,98
+3950,dom,Dominican Republic,2017,99
+3951,ecu,Ecuador,2017,88
+3952,egy,Egypt,2017,86
+3953,slv,El Salvador,2017,92
+3954,gnq,Equatorial Guinea,2017,70
+3955,eri,Eritrea,2017,99
+3956,swz,Swaziland,2017,88
+3957,eth,Ethiopia,2017,93
+3958,fji,Fiji,2017,96
+3959,gab,Gabon,2017,85
+3960,gmb,Gambia,2017,92
+3961,gha,Ghana,2017,89
+3962,gtm,Guatemala,2017,90
+3963,gin,Guinea,2017,80
+3964,gnb,Guinea-Bissau,2017,83
+3965,guy,Guyana,2017,99
+3966,hti,Haiti,2017,81
+3967,hnd,Honduras,2017,99
+3968,ind,India,2017,90
+3969,idn,Indonesia,2017,85
+3970,irn,Iran,2017,95
+3971,irq,Iraq,2017,75
+3972,jam,Jamaica,2017,90
+3973,jor,Jordan,2017,90
+3974,ken,Kenya,2017,88
+3975,kir,Kiribati,2017,90
+3976,kwt,Kuwait,2017,99
+3977,lao,Lao,2017,90
+3978,lso,Lesotho,2017,85
+3979,lbr,Liberia,2017,89
+3980,mdg,Madagascar,2017,78
+3981,mwi,Malawi,2017,89
+3982,mys,Malaysia,2017,92
+3983,mdv,Maldives,2017,99
+3984,mli,Mali,2017,85
+3985,mrt,Mauritania,2017,80
+3986,mus,Mauritius,2017,95
+3987,mex,Mexico,2017,96
+3988,mar,Morocco,2017,88
+3989,moz,Mozambique,2017,86
+3990,mmr,Myanmar,2017,90
+3991,nam,Namibia,2017,88
+3992,npl,Nepal,2017,89
+3993,nic,Nicaragua,2017,90
+3994,ner,Niger,2017,81
+3995,nga,Nigeria,2017,55
+3996,omn,Oman,2017,99
+3997,pak,Pakistan,2017,85
+3998,png,Papua New Guinea,2017,70
+3999,pry,Paraguay,2017,95
+4000,per,Peru,2017,95
+4001,phl,Philippines,2017,90
+4002,rwa,Rwanda,2017,90
+4003,stp,Sao Tome and Principe,2017,99
+4004,sen,Senegal,2017,95
+4005,syc,Seychelles,2017,100
+4006,sle,Sierra Leone,2017,90
+4007,slb,Solomon Islands,2017,85
+4008,som,Somalia,2017,67
+4009,zaf,South Africa,2017,90
+4010,ssd,South Sudan,2017,68
+4011,lka,Sri Lanka,2017,99
+4012,sdn,Sudan,2017,80
+4013,sur,Suriname,2017,93
+4014,syr,Syria,2017,91
+4015,tha,Thailand,2017,98
+4016,tls,Timor-Leste,2017,83
+4017,tgo,Togo,2017,83
+4018,tun,Tunisia,2017,96
+4019,tur,Turkey,2017,95
+4020,uga,Uganda,2017,85
+4021,tza,Tanzania,2017,90
+4022,vut,Vanuatu,2017,78
+4023,ven,Venezuela,2017,70
+4024,vnm,Vietnam,2017,94
+4025,yem,Yemen,2017,70
+4026,zmb,Zambia,2017,85
+4027,zwe,Zimbabwe,2017,87
+4028,afg,Afghanistan,2018,68
+4029,alb,Albania,2018,95
+4030,dza,Algeria,2018,98
+4031,ago,Angola,2018,78
+4032,bhs,Bahamas,2018,100
+4033,bhr,Bahrain,2018,98
+4034,bgd,Bangladesh,2018,98
+4035,blz,Belize,2018,91
+4036,ben,Benin,2018,85
+4037,btn,Bhutan,2018,89
+4038,bol,Bolivia,2018,87
+4039,bwa,Botswana,2018,93
+4040,bra,Brazil,2018,94
+4041,brn,Brunei,2018,96
+4042,bfa,Burkina Faso,2018,92
+4043,bdi,Burundi,2018,90
+4044,cpv,Cape Verde,2018,92
+4045,khm,Cambodia,2018,93
+4046,cmr,Cameroon,2018,85
+4047,caf,Central African Republic,2018,60
+4048,tcd,Chad,2018,78
+4049,col,Colombia,2018,95
+4050,com,Comoros,2018,85
+4051,cog,"Congo, Rep.",2018,85
+4052,civ,Cote d'Ivoire,2018,85
+4053,prk,North Korea,2018,98
+4054,cod,"Congo, Dem. Rep.",2018,85
+4055,dji,Djibouti,2018,98
+4056,dom,Dominican Republic,2018,99
+4057,ecu,Ecuador,2018,88
+4058,egy,Egypt,2018,86
+4059,slv,El Salvador,2018,92
+4060,gnq,Equatorial Guinea,2018,70
+4061,eri,Eritrea,2018,99
+4062,swz,Swaziland,2018,88
+4063,eth,Ethiopia,2018,93
+4064,fji,Fiji,2018,96
+4065,gab,Gabon,2018,85
+4066,gmb,Gambia,2018,92
+4067,gha,Ghana,2018,89
+4068,gtm,Guatemala,2018,90
+4069,gin,Guinea,2018,80
+4070,gnb,Guinea-Bissau,2018,83
+4071,guy,Guyana,2018,99
+4072,hti,Haiti,2018,81
+4073,hnd,Honduras,2018,99
+4074,ind,India,2018,90
+4075,idn,Indonesia,2018,85
+4076,irn,Iran,2018,95
+4077,irq,Iraq,2018,75
+4078,jam,Jamaica,2018,90
+4079,jor,Jordan,2018,90
+4080,ken,Kenya,2018,88
+4081,kir,Kiribati,2018,
+4082,kwt,Kuwait,2018,99
+4083,lao,Lao,2018,90
+4084,lso,Lesotho,2018,85
+4085,lbr,Liberia,2018,89
+4086,mdg,Madagascar,2018,78
+4087,mwi,Malawi,2018,89
+4088,mys,Malaysia,2018,92
+4089,mdv,Maldives,2018,99
+4090,mli,Mali,2018,85
+4091,mrt,Mauritania,2018,80
+4092,mus,Mauritius,2018,95
+4093,mex,Mexico,2018,96
+4094,mar,Morocco,2018,88
+4095,moz,Mozambique,2018,86
+4096,mmr,Myanmar,2018,90
+4097,nam,Namibia,2018,88
+4098,npl,Nepal,2018,89
+4099,nic,Nicaragua,2018,90
+4100,ner,Niger,2018,81
+4101,nga,Nigeria,2018,60
+4102,omn,Oman,2018,99
+4103,pak,Pakistan,2018,85
+4104,png,Papua New Guinea,2018,70
+4105,pry,Paraguay,2018,95
+4106,per,Peru,2018,95
+4107,phl,Philippines,2018,90
+4108,rwa,Rwanda,2018,95
+4109,stp,Sao Tome and Principe,2018,99
+4110,sen,Senegal,2018,95
+4111,syc,Seychelles,2018,100
+4112,sle,Sierra Leone,2018,90
+4113,slb,Solomon Islands,2018,85
+4114,som,Somalia,2018,67
+4115,zaf,South Africa,2018,90
+4116,ssd,South Sudan,2018,68
+4117,lka,Sri Lanka,2018,99
+4118,sdn,Sudan,2018,80
+4119,sur,Suriname,2018,93
+4120,syr,Syria,2018,91
+4121,tha,Thailand,2018,98
+4122,tls,Timor-Leste,2018,83
+4123,tgo,Togo,2018,83
+4124,tun,Tunisia,2018,96
+4125,tur,Turkey,2018,95
+4126,uga,Uganda,2018,85
+4127,tza,Tanzania,2018,90
+4128,vut,Vanuatu,2018,78
+4129,ven,Venezuela,2018,70
+4130,vnm,Vietnam,2018,94
+4131,yem,Yemen,2018,70
+4132,zmb,Zambia,2018,85
+4133,zwe,Zimbabwe,2018,87
+4134,afg,Afghanistan,2019,68
+4135,alb,Albania,2019,96
+4136,dza,Algeria,2019,98
+4137,ago,Angola,2019,70
+4138,bhs,Bahamas,2019,100
+4139,bhr,Bahrain,2019,98
+4140,bgd,Bangladesh,2019,98
+4141,blz,Belize,2019,91
+4142,ben,Benin,2019,81
+4143,btn,Bhutan,2019,90
+4144,bol,Bolivia,2019,87
+4145,bwa,Botswana,2019,91
+4146,bra,Brazil,2019,94
+4147,brn,Brunei,2019,96
+4148,bfa,Burkina Faso,2019,92
+4149,bdi,Burundi,2019,90
+4150,cpv,Cape Verde,2019,92
+4151,khm,Cambodia,2019,93
+4152,cmr,Cameroon,2019,83
+4153,caf,Central African Republic,2019,60
+4154,tcd,Chad,2019,78
+4155,col,Colombia,2019,95
+4156,com,Comoros,2019,85
+4157,cog,"Congo, Rep.",2019,85
+4158,civ,Cote d'Ivoire,2019,85
+4159,prk,North Korea,2019,98
+4160,cod,"Congo, Dem. Rep.",2019,85
+4161,dji,Djibouti,2019,98
+4162,dom,Dominican Republic,2019,99
+4163,ecu,Ecuador,2019,88
+4164,egy,Egypt,2019,86
+4165,slv,El Salvador,2019,92
+4166,gnq,Equatorial Guinea,2019,65
+4167,eri,Eritrea,2019,99
+4168,swz,Swaziland,2019,88
+4169,eth,Ethiopia,2019,93
+4170,fji,Fiji,2019,96
+4171,gab,Gabon,2019,85
+4172,gmb,Gambia,2019,92
+4173,gha,Ghana,2019,89
+4174,gtm,Guatemala,2019,90
+4175,gin,Guinea,2019,80
+4176,gnb,Guinea-Bissau,2019,83
+4177,guy,Guyana,2019,99
+4178,hti,Haiti,2019,81
+4179,hnd,Honduras,2019,99
+4180,ind,India,2019,90
+4181,idn,Indonesia,2019,85
+4182,irn,Iran,2019,96
+4183,irq,Iraq,2019,75
+4184,jam,Jamaica,2019,91
+4185,jor,Jordan,2019,90
+4186,ken,Kenya,2019,88
+4187,kir,Kiribati,2019,90
+4188,kwt,Kuwait,2019,99
+4189,lao,Lao,2019,90
+4190,lso,Lesotho,2019,85
+4191,lbr,Liberia,2019,90
+4192,mdg,Madagascar,2019,78
+4193,mwi,Malawi,2019,90
+4194,mys,Malaysia,2019,95
+4195,mdv,Maldives,2019,99
+4196,mli,Mali,2019,85
+4197,mrt,Mauritania,2019,80
+4198,mus,Mauritius,2019,95
+4199,mex,Mexico,2019,96
+4200,mar,Morocco,2019,90
+4201,moz,Mozambique,2019,86
+4202,mmr,Myanmar,2019,90
+4203,nam,Namibia,2019,88
+4204,npl,Nepal,2019,89
+4205,nic,Nicaragua,2019,90
+4206,ner,Niger,2019,81
+4207,nga,Nigeria,2019,60
+4208,omn,Oman,2019,99
+4209,pak,Pakistan,2019,85
+4210,png,Papua New Guinea,2019,70
+4211,pry,Paraguay,2019,95
+4212,per,Peru,2019,95
+4213,phl,Philippines,2019,90
+4214,rwa,Rwanda,2019,95
+4215,stp,Sao Tome and Principe,2019,99
+4216,sen,Senegal,2019,95
+4217,syc,Seychelles,2019,100
+4218,sle,Sierra Leone,2019,93
+4219,slb,Solomon Islands,2019,85
+4220,som,Somalia,2019,67
+4221,zaf,South Africa,2019,90
+4222,ssd,South Sudan,2019,68
+4223,lka,Sri Lanka,2019,99
+4224,sdn,Sudan,2019,80
+4225,sur,Suriname,2019,93
+4226,syr,Syria,2019,91
+4227,tha,Thailand,2019,98
+4228,tls,Timor-Leste,2019,83
+4229,tgo,Togo,2019,83
+4230,tun,Tunisia,2019,97
+4231,tur,Turkey,2019,95
+4232,uga,Uganda,2019,85
+4233,tza,Tanzania,2019,91
+4234,vut,Vanuatu,2019,78
+4235,ven,Venezuela,2019,70
+4236,vnm,Vietnam,2019,96
+4237,yem,Yemen,2019,70
+4238,zmb,Zambia,2019,85
+4239,zwe,Zimbabwe,2019,87
+4240,afg,Afghanistan,2020,63
+4241,alb,Albania,2020,96
+4242,dza,Algeria,2020,98
+4243,ago,Angola,2020,70
+4244,bhs,Bahamas,2020,100
+4245,bhr,Bahrain,2020,99
+4246,bgd,Bangladesh,2020,98
+4247,blz,Belize,2020,95
+4248,ben,Benin,2020,81
+4249,btn,Bhutan,2020,90
+4250,bol,Bolivia,2020,89
+4251,bwa,Botswana,2020,91
+4252,bra,Brazil,2020,96
+4253,brn,Brunei,2020,97
+4254,bfa,Burkina Faso,2020,95
+4255,bdi,Burundi,2020,90
+4256,cpv,Cape Verde,2020,95
+4257,khm,Cambodia,2020,95
+4258,cmr,Cameroon,2020,83
+4259,caf,Central African Republic,2020,63
+4260,tcd,Chad,2020,78
+4261,col,Colombia,2020,97
+4262,com,Comoros,2020,83
+4263,cog,"Congo, Rep.",2020,87
+4264,civ,Cote d'Ivoire,2020,86
+4265,prk,North Korea,2020,98
+4266,cod,"Congo, Dem. Rep.",2020,85
+4267,dji,Djibouti,2020,98
+4268,dom,Dominican Republic,2020,99
+4269,ecu,Ecuador,2020,88
+4270,egy,Egypt,2020,86
+4271,slv,El Salvador,2020,92
+4272,gnq,Equatorial Guinea,2020,60
+4273,eri,Eritrea,2020,99
+4274,swz,Swaziland,2020,90
+4275,eth,Ethiopia,2020,90
+4276,fji,Fiji,2020,96
+4277,gab,Gabon,2020,83
+4278,gmb,Gambia,2020,95
+4279,gha,Ghana,2020,90
+4280,gtm,Guatemala,2020,91
+4281,gin,Guinea,2020,83
+4282,gnb,Guinea-Bissau,2020,83
+4283,guy,Guyana,2020,99
+4284,hti,Haiti,2020,80
+4285,hnd,Honduras,2020,99
+4286,ind,India,2020,90
+4287,idn,Indonesia,2020,85
+4288,irn,Iran,2020,96
+4289,irq,Iraq,2020,73
+4290,jam,Jamaica,2020,91
+4291,jor,Jordan,2020,92
+4292,ken,Kenya,2020,88
+4293,kir,Kiribati,2020,93
+4294,kwt,Kuwait,2020,99
+4295,lao,Lao,2020,93
+4296,lso,Lesotho,2020,85
+4297,lbr,Liberia,2020,90
+4298,mdg,Madagascar,2020,75
+4299,mwi,Malawi,2020,90
+4300,mys,Malaysia,2020,95
+4301,mdv,Maldives,2020,99
+4302,mli,Mali,2020,87
+4303,mrt,Mauritania,2020,83
+4304,mus,Mauritius,2020,97
+4305,mex,Mexico,2020,96
+4306,mar,Morocco,2020,90
+4307,moz,Mozambique,2020,86
+4308,mmr,Myanmar,2020,90
+4309,nam,Namibia,2020,90
+4310,npl,Nepal,2020,89
+4311,nic,Nicaragua,2020,90
+4312,ner,Niger,2020,83
+4313,nga,Nigeria,2020,65
+4314,omn,Oman,2020,99
+4315,pak,Pakistan,2020,85
+4316,png,Papua New Guinea,2020,67
+4317,pry,Paraguay,2020,95
+4318,per,Peru,2020,95
+4319,phl,Philippines,2020,91
+4320,rwa,Rwanda,2020,97
+4321,stp,Sao Tome and Principe,2020,99
+4322,sen,Senegal,2020,95
+4323,syc,Seychelles,2020,100
+4324,sle,Sierra Leone,2020,93
+4325,slb,Solomon Islands,2020,87
+4326,som,Somalia,2020,60
+4327,zaf,South Africa,2020,90
+4328,ssd,South Sudan,2020,65
+4329,lka,Sri Lanka,2020,99
+4330,sdn,Sudan,2020,81
+4331,sur,Suriname,2020,95
+4332,syr,Syria,2020,90
+4333,tha,Thailand,2020,98
+4334,tls,Timor-Leste,2020,83
+4335,tgo,Togo,2020,83
+4336,tun,Tunisia,2020,97
+4337,tur,Turkey,2020,95
+4338,uga,Uganda,2020,83
+4339,tza,Tanzania,2020,91
+4340,vut,Vanuatu,2020,78
+4341,ven,Venezuela,2020,67
+4342,vnm,Vietnam,2020,96
+4343,yem,Yemen,2020,70
+4344,zmb,Zambia,2020,85
+4345,zwe,Zimbabwe,2020,87
+4346,afg,Afghanistan,2021,65
+4347,alb,Albania,2021,96
+4348,dza,Algeria,2021,98
+4349,ago,Angola,2021,68
+4350,bhs,Bahamas,2021,100
+4351,bhr,Bahrain,2021,100
+4352,bgd,Bangladesh,2021,98
+4353,blz,Belize,2021,93
+4354,ben,Benin,2021,81
+4355,btn,Bhutan,2021,90
+4356,bol,Bolivia,2021,89
+4357,bwa,Botswana,2021,91
+4358,bra,Brazil,2021,96
+4359,brn,Brunei,2021,97
+4360,bfa,Burkina Faso,2021,95
+4361,bdi,Burundi,2021,87
+4362,cpv,Cape Verde,2021,95
+4363,khm,Cambodia,2021,93
+4364,cmr,Cameroon,2021,83
+4365,caf,Central African Republic,2021,65
+4366,tcd,Chad,2021,75
+4367,col,Colombia,2021,97
+4368,com,Comoros,2021,83
+4369,cog,"Congo, Rep.",2021,87
+4370,civ,Cote d'Ivoire,2021,86
+4371,prk,North Korea,2021,98
+4372,cod,"Congo, Dem. Rep.",2021,80
+4373,dji,Djibouti,2021,98
+4374,dom,Dominican Republic,2021,99
+4375,ecu,Ecuador,2021,90
+4376,egy,Egypt,2021,88
+4377,slv,El Salvador,2021,92
+4378,gnq,Equatorial Guinea,2021,60
+4379,eri,Eritrea,2021,99
+4380,swz,Swaziland,2021,90
+4381,eth,Ethiopia,2021,90
+4382,fji,Fiji,2021,96
+4383,gab,Gabon,2021,83
+4384,gmb,Gambia,2021,95
+4385,gha,Ghana,2021,90
+4386,gtm,Guatemala,2021,91
+4387,gin,Guinea,2021,83
+4388,gnb,Guinea-Bissau,2021,80
+4389,guy,Guyana,2021,99
+4390,hti,Haiti,2021,80
+4391,hnd,Honduras,2021,99
+4392,ind,India,2021,90
+4393,idn,Indonesia,2021,83
+4394,irn,Iran,2021,97
+4395,irq,Iraq,2021,73
+4396,jam,Jamaica,2021,91
+4397,jor,Jordan,2021,92
+4398,ken,Kenya,2021,85
+4399,kir,Kiribati,2021,93
+4400,kwt,Kuwait,2021,99
+4401,lao,Lao,2021,93
+4402,lso,Lesotho,2021,85
+4403,lbr,Liberia,2021,90
+4404,mdg,Madagascar,2021,75
+4405,mwi,Malawi,2021,90
+4406,mys,Malaysia,2021,95
+4407,mdv,Maldives,2021,99
+4408,mli,Mali,2021,87
+4409,mrt,Mauritania,2021,83
+4410,mus,Mauritius,2021,97
+4411,mex,Mexico,2021,98
+4412,mar,Morocco,2021,90
+4413,moz,Mozambique,2021,84
+4414,mmr,Myanmar,2021,88
+4415,nam,Namibia,2021,90
+4416,npl,Nepal,2021,91
+4417,nic,Nicaragua,2021,92
+4418,ner,Niger,2021,83
+4419,nga,Nigeria,2021,65
+4420,omn,Oman,2021,99
+4421,pak,Pakistan,2021,86
+4422,png,Papua New Guinea,2021,67
+4423,pry,Paraguay,2021,96
+4424,per,Peru,2021,95
+4425,phl,Philippines,2021,91
+4426,rwa,Rwanda,2021,97
+4427,stp,Sao Tome and Principe,2021,99
+4428,sen,Senegal,2021,96
+4429,syc,Seychelles,2021,100
+4430,sle,Sierra Leone,2021,93
+4431,slb,Solomon Islands,2021,90
+4432,som,Somalia,2021,60
+4433,zaf,South Africa,2021,88
+4434,ssd,South Sudan,2021,65
+4435,lka,Sri Lanka,2021,99
+4436,sdn,Sudan,2021,81
+4437,sur,Suriname,2021,95
+4438,syr,Syria,2021,90
+4439,tha,Thailand,2021,99
+4440,tls,Timor-Leste,2021,85
+4441,tgo,Togo,2021,85
+4442,tun,Tunisia,2021,97
+4443,tur,Turkey,2021,97
+4444,uga,Uganda,2021,83
+4445,tza,Tanzania,2021,90
+4446,vut,Vanuatu,2021,78
+4447,ven,Venezuela,2021,67
+4448,vnm,Vietnam,2021,96
+4449,yem,Yemen,2021,73
+4450,zmb,Zambia,2021,83
+4451,zwe,Zimbabwe,2021,87
+4452,afg,Afghanistan,2022,60
+4453,alb,Albania,2022,96
+4454,dza,Algeria,2022,97
+4455,ago,Angola,2022,65
+4456,bhs,Bahamas,2022,100
+4457,bhr,Bahrain,2022,100
+4458,bgd,Bangladesh,2022,98
+4459,blz,Belize,2022,95
+4460,ben,Benin,2022,83
+4461,btn,Bhutan,2022,95
+4462,bol,Bolivia,2022,92
+4463,bwa,Botswana,2022,91
+4464,bra,Brazil,2022,96
+4465,brn,Brunei,2022,97
+4466,bfa,Burkina Faso,2022,95
+4467,bdi,Burundi,2022,87
+4468,cpv,Cape Verde,2022,96
+4469,khm,Cambodia,2022,93
+4470,cmr,Cameroon,2022,81
+4471,caf,Central African Republic,2022,65
+4472,tcd,Chad,2022,75
+4473,col,Colombia,2022,97
+4474,com,Comoros,2022,83
+4475,cog,"Congo, Rep.",2022,87
+4476,civ,Cote d'Ivoire,2022,83
+4477,prk,North Korea,2022,98
+4478,cod,"Congo, Dem. Rep.",2022,80
+4479,dji,Djibouti,2022,99
+4480,dom,Dominican Republic,2022,99
+4481,ecu,Ecuador,2022,90
+4482,egy,Egypt,2022,88
+4483,slv,El Salvador,2022,94
+4484,gnq,Equatorial Guinea,2022,60
+4485,eri,Eritrea,2022,99
+4486,swz,Swaziland,2022,90
+4487,eth,Ethiopia,2022,85
+4488,fji,Fiji,2022,98
+4489,gab,Gabon,2022,83
+4490,gmb,Gambia,2022,96
+4491,gha,Ghana,2022,90
+4492,gtm,Guatemala,2022,90
+4493,gin,Guinea,2022,80
+4494,gnb,Guinea-Bissau,2022,80
+4495,guy,Guyana,2022,99
+4496,hti,Haiti,2022,78
+4497,hnd,Honduras,2022,99
+4498,ind,India,2022,93
+4499,idn,Indonesia,2022,83
+4500,irn,Iran,2022,97
+4501,irq,Iraq,2022,73
+4502,jam,Jamaica,2022,93
+4503,jor,Jordan,2022,92
+4504,ken,Kenya,2022,85
+4505,kir,Kiribati,2022,93
+4506,kwt,Kuwait,2022,99
+4507,lao,Lao,2022,93
+4508,lso,Lesotho,2022,83
+4509,lbr,Liberia,2022,90
+4510,mdg,Madagascar,2022,75
+4511,mwi,Malawi,2022,90
+4512,mys,Malaysia,2022,95
+4513,mdv,Maldives,2022,99
+4514,mli,Mali,2022,83
+4515,mrt,Mauritania,2022,81
+4516,mus,Mauritius,2022,97
+4517,mex,Mexico,2022,98
+4518,mar,Morocco,2022,93
+4519,moz,Mozambique,2022,84
+4520,mmr,Myanmar,2022,88
+4521,nam,Namibia,2022,90
+4522,npl,Nepal,2022,91
+4523,nic,Nicaragua,2022,92
+4524,ner,Niger,2022,83
+4525,nga,Nigeria,2022,67
+4526,omn,Oman,2022,99
+4527,pak,Pakistan,2022,86
+4528,png,Papua New Guinea,2022,65
+4529,pry,Paraguay,2022,96
+4530,per,Peru,2022,97
+4531,phl,Philippines,2022,91
+4532,rwa,Rwanda,2022,97
+4533,stp,Sao Tome and Principe,2022,99
+4534,sen,Senegal,2022,96
+4535,syc,Seychelles,2022,100
+4536,sle,Sierra Leone,2022,93
+4537,slb,Solomon Islands,2022,93
+4538,som,Somalia,2022,57
+4539,zaf,South Africa,2022,88
+4540,ssd,South Sudan,2022,65
+4541,lka,Sri Lanka,2022,99
+4542,sdn,Sudan,2022,81
+4543,sur,Suriname,2022,95
+4544,syr,Syria,2022,90
+4545,tha,Thailand,2022,99
+4546,tls,Timor-Leste,2022,85
+4547,tgo,Togo,2022,83
+4548,tun,Tunisia,2022,98
+4549,tur,Turkey,2022,97
+4550,uga,Uganda,2022,81
+4551,tza,Tanzania,2022,90
+4552,vut,Vanuatu,2022,80
+4553,ven,Venezuela,2022,67
+4554,vnm,Vietnam,2022,96
+4555,yem,Yemen,2022,73
+4556,zmb,Zambia,2022,83
+4557,zwe,Zimbabwe,2022,89
+4558,afg,Afghanistan,2023,60
+4559,alb,Albania,2023,96
+4560,dza,Algeria,2023,97
+4561,ago,Angola,2023,63
+4562,bhs,Bahamas,2023,100
+4563,bhr,Bahrain,2023,100
+4564,bgd,Bangladesh,2023,98
+4565,blz,Belize,2023,95
+4566,ben,Benin,2023,83
+4567,btn,Bhutan,2023,95
+4568,bol,Bolivia,2023,92
+4569,bwa,Botswana,2023,95
+4570,bra,Brazil,2023,96
+4571,brn,Brunei,2023,97
+4572,bfa,Burkina Faso,2023,95
+4573,bdi,Burundi,2023,87
+4574,cpv,Cape Verde,2023,96
+4575,khm,Cambodia,2023,95
+4576,cmr,Cameroon,2023,81
+4577,caf,Central African Republic,2023,60
+4578,tcd,Chad,2023,73
+4579,col,Colombia,2023,97
+4580,com,Comoros,2023,85
+4581,cog,"Congo, Rep.",2023,85
+4582,civ,Cote d'Ivoire,2023,84
+4583,prk,North Korea,2023,98
+4584,cod,"Congo, Dem. Rep.",2023,78
+4585,dji,Djibouti,2023,99
+4586,dom,Dominican Republic,2023,99
+4587,ecu,Ecuador,2023,90
+4588,egy,Egypt,2023,88
+4589,slv,El Salvador,2023,94
+4590,gnq,Equatorial Guinea,2023,63
+4591,eri,Eritrea,2023,99
+4592,swz,Swaziland,2023,90
+4593,eth,Ethiopia,2023,80
+4594,fji,Fiji,2023,98
+4595,gab,Gabon,2023,79
+4596,gmb,Gambia,2023,96
+4597,gha,Ghana,2023,90
+4598,gtm,Guatemala,2023,90
+4599,gin,Guinea,2023,75
+4600,gnb,Guinea-Bissau,2023,83
+4601,guy,Guyana,2023,96
+4602,hti,Haiti,2023,78
+4603,hnd,Honduras,2023,99
+4604,ind,India,2023,93
+4605,idn,Indonesia,2023,83
+4606,irn,Iran,2023,97
+4607,irq,Iraq,2023,75
+4608,jam,Jamaica,2023,93
+4609,jor,Jordan,2023,91
+4610,ken,Kenya,2023,85
+4611,kir,Kiribati,2023,93
+4612,kwt,Kuwait,2023,99
+4613,lao,Lao,2023,90
+4614,lso,Lesotho,2023,83
+4615,lbr,Liberia,2023,91
+4616,mdg,Madagascar,2023,75
+4617,mwi,Malawi,2023,93
+4618,mys,Malaysia,2023,96
+4619,mdv,Maldives,2023,99
+4620,mli,Mali,2023,83
+4621,mrt,Mauritania,2023,79
+4622,mus,Mauritius,2023,97
+4623,mex,Mexico,2023,98
+4624,mar,Morocco,2023,93
+4625,moz,Mozambique,2023,84
+4626,mmr,Myanmar,2023,88
+4627,nam,Namibia,2023,90
+4628,npl,Nepal,2023,93
+4629,nic,Nicaragua,2023,90
+4630,ner,Niger,2023,80
+4631,nga,Nigeria,2023,69
+4632,omn,Oman,2023,99
+4633,pak,Pakistan,2023,86
+4634,png,Papua New Guinea,2023,63
+4635,pry,Paraguay,2023,95
+4636,per,Peru,2023,97
+4637,phl,Philippines,2023,90
+4638,rwa,Rwanda,2023,97
+4639,stp,Sao Tome and Principe,2023,99
+4640,sen,Senegal,2023,96
+4641,syc,Seychelles,2023,100
+4642,sle,Sierra Leone,2023,90
+4643,slb,Solomon Islands,2023,93
+4644,som,Somalia,2023,50
+4645,zaf,South Africa,2023,88
+4646,ssd,South Sudan,2023,63
+4647,lka,Sri Lanka,2023,99
+4648,sdn,Sudan,2023,79
+4649,sur,Suriname,2023,95
+4650,syr,Syria,2023,88
+4651,tha,Thailand,2023,96
+4652,tls,Timor-Leste,2023,83
+4653,tgo,Togo,2023,83
+4654,tun,Tunisia,2023,98
+4655,tur,Turkey,2023,97
+4656,uga,Uganda,2023,81
+4657,tza,Tanzania,2023,90
+4658,vut,Vanuatu,2023,80
+4659,ven,Venezuela,2023,69
+4660,vnm,Vietnam,2023,96
+4661,yem,Yemen,2023,76
+4662,zmb,Zambia,2023,83
+4663,zwe,Zimbabwe,2023,90
