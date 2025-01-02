@@ -49,13 +49,13 @@ freedstatus_fh,Freedom status (FH),"[geo:country,time:time]","{timeInColumns:FAL
 freedix_fh,Freedom index (FH),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1eHw-43lUAOrMebEWDWb-GsF6xn34nHX7OGznxITGHzc-data-for-countries-etc-by-year
 polrights_fh,Political Rights index (FH),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1eHw-43lUAOrMebEWDWb-GsF6xn34nHX7OGznxITGHzc-data-for-countries-etc-by-year
 cliberities_fh,Civil Liberties index (FH),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1eHw-43lUAOrMebEWDWb-GsF6xn34nHX7OGznxITGHzc-data-for-countries-etc-by-year
-demox_eiu,Democracy index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
-electoplx_eiu,Electoral pluralism index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
-gvtx_eiu,Government index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
-polpartix_eiu,Political participation index(EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
-polcultx_eiu,Political culture index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
-civlibx_eiu,Civil liberties index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
-c_demox_eiu,Change in democracy index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1IQ_oADbMpEszuqd1VMGU9PdHrKl9bczoW_E35k78yeA-data-for-countries-etc-by-year
+demox_eiu,Democracy index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1V2GcmG-4-BqyRDAmOk0qPjJUoppY6w4-bszedOvhPTY-data-for-countries-etc-by-year
+electoplx_eiu,Electoral pluralism index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1V2GcmG-4-BqyRDAmOk0qPjJUoppY6w4-bszedOvhPTY-data-for-countries-etc-by-year
+gvtx_eiu,Government index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1V2GcmG-4-BqyRDAmOk0qPjJUoppY6w4-bszedOvhPTY-data-for-countries-etc-by-year
+polpartix_eiu,Political participation index(EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1V2GcmG-4-BqyRDAmOk0qPjJUoppY6w4-bszedOvhPTY-data-for-countries-etc-by-year
+polcultx_eiu,Political culture index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1V2GcmG-4-BqyRDAmOk0qPjJUoppY6w4-bszedOvhPTY-data-for-countries-etc-by-year
+civlibx_eiu,Civil liberties index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1V2GcmG-4-BqyRDAmOk0qPjJUoppY6w4-bszedOvhPTY-data-for-countries-etc-by-year
+c_demox_eiu,Change in democracy index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1V2GcmG-4-BqyRDAmOk0qPjJUoppY6w4-bszedOvhPTY-data-for-countries-etc-by-year
 u5pop,Under-five population,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1-5qutEU2Fxg4t5Cx37Y1gpgOShTz-Adt5rEg1U31-S4-data-for-countries-etc-by-year
 u5stunted_prc,Stunting prevalence,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1GqwGgOnd4jMPn2cQfqOFFIVqvBoLVx9X9OsZZK-Fwq8-data-for-countries-etc-by-year
 ilevels4_wb,4 income groups (WB),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1jH-pAuHTzBXE-MAqnVnIARz14beqRlHpPU2OD6Qiz8M-data-for-countries-etc-by-year
@@ -156,8 +156,8 @@ oil_sp_qty,Quantity of oil spilt,"[geo:global,time:time]","{timeInColumns:FALSE,
 oil_sp_med_num,Number of medium size oil spills,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",163EbX30APOnfTPEGbqc1pOaCuzoXjusmBYJySYGAxYk-data-for-world-by-year
 oil_sp_lar_num,Number of large oil spills,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",163EbX30APOnfTPEGbqc1pOaCuzoXjusmBYJySYGAxYk-data-for-world-by-year
 oil_sp_tot_num,Number of medium and large oil spills,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",163EbX30APOnfTPEGbqc1pOaCuzoXjusmBYJySYGAxYk-data-for-world-by-year
-pirats_bo,Pirate attacks on boats,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",120fqy_iQI6v_PXTIGLAiJ33gCYhlTw5hOYWIx3VDbAM-data-for-countries-etc-by-year
-pirats_bo,Pirate attacks on boats,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",120fqy_iQI6v_PXTIGLAiJ33gCYhlTw5hOYWIx3VDbAM-data-for-world-by-year
+pirats_bo,Pirate attacks on boats,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1KBGI42s5wNCqpcv0vGxhtGOPzd2Y-UNvshdzyrNtrZQ-data-for-countries-etc-by-year
+pirats_bo,Pirate attacks on boats,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1KBGI42s5wNCqpcv0vGxhtGOPzd2Y-UNvshdzyrNtrZQ-data-for-world-by-year
 un_peakeeper_num,Number of UN peacekeepers,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1YDKikuRZIo5Y6e53_hDOlCrdSeyz05dpCYOqXGRSubI-data-for-countries-etc-by-year
 un_peakeeper_num,Number of UN peacekeepers,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1YDKikuRZIo5Y6e53_hDOlCrdSeyz05dpCYOqXGRSubI-data-for-regions-by-year
 un_peakeeper_num,Number of UN peacekeepers,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1YDKikuRZIo5Y6e53_hDOlCrdSeyz05dpCYOqXGRSubI-data-for-world-by-year
