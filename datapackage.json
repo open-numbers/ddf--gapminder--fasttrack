@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2025-07-11T13:43:29.273275+00:00",
+    "created": "2025-07-11T15:30:43.129891+00:00",
     "version": "2.0.0",
     "resources": [
         {
@@ -6337,6 +6337,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--manuf_employ--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--manuf_employ--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "manuf_employ"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--matfootp--by--global--time",
             "path": "global_regions_datapoints/ddf--datapoints--matfootp--by--global--time.csv",
             "schema": {
@@ -12359,7 +12380,18 @@
                 ],
                 "value": "manuf_employ",
                 "resources": [
-                    "ddf--datapoints--manuf_employ--by--country--time"
+                    "ddf--datapoints--manuf_employ--by--country--time",
+                    "ddf--datapoints--manuf_employ--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "manuf_employ",
+                "resources": [
+                    "ddf--datapoints--manuf_employ--by--global--time"
                 ]
             },
             {
