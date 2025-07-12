@@ -102,7 +102,8 @@ matfootp_cap,Material footprint per capita (tonnes),"[geo:global,time:time]","{t
 net_users_num,Internet users,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",14HINefWNOFkh4TNz-ZmBwb1K6w2Lg9z0P9rDJlJiQ8s-data-for-countries-etc-by-year
 non_net_users_prc,Non-internet users (%),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",14HINefWNOFkh4TNz-ZmBwb1K6w2Lg9z0P9rDJlJiQ8s-data-for-countries-etc-by-year
 non_net_users_num,Non Internet users,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",14HINefWNOFkh4TNz-ZmBwb1K6w2Lg9z0P9rDJlJiQ8s-data-for-countries-etc-by-year
-manuf_employ,Share working in manufacturing,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1uAzU4ECJ137mLHivaFggbXrA5sdoBgfyfaZ9UtvtS90-data-for-countries-etc-by-year
+manuf_employ,Share working in manufacturing,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1bwMTTBz_Gdo62-V8-ySVLM4TZQ9QWRgOt31fvM0PTsU-data-for-countries-etc-by-year
+manuf_employ,Share working in manufacturing,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1bwMTTBz_Gdo62-V8-ySVLM4TZQ9QWRgOt31fvM0PTsU-data-for-world-by-year
 hapiscore_whr,Happiness score (WHR),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Hh2E8PrDA9nzRY_ikBAF3MSKkHreEUVLXnjE3PtJVVA-data-for-countries-etc-by-year
 popcit_less_300k,Population in cities with less than 300k people,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ccBxDTT5J9k3ZJbUmuvzc0xQvsLgBJnZ62S5xzPmY9E-data-for-countries-etc-by-year
 popcit_300_500k,Population in cities with 300k to 500k people,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1ccBxDTT5J9k3ZJbUmuvzc0xQvsLgBJnZ62S5xzPmY9E-data-for-countries-etc-by-year
