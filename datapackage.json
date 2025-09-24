@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2025-09-21T01:07:52.746834+00:00",
+    "created": "2025-09-24T20:26:37.150756+00:00",
     "version": "2.0.0",
     "resources": [
         {
@@ -1409,27 +1409,6 @@
                     },
                     {
                         "name": "gdp_pcap"
-                    }
-                ],
-                "primaryKey": [
-                    "country",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--gdp_pcap_21--by--country--time",
-            "path": "countries_etc_datapoints/ddf--datapoints--gdp_pcap_21--by--country--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "country"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "gdp_pcap_21"
                     }
                 ],
                 "primaryKey": [
@@ -5362,27 +5341,6 @@
                     },
                     {
                         "name": "gdp_pcap"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--gdp_pcap_21--by--global--time",
-            "path": "global_regions_datapoints/ddf--datapoints--gdp_pcap_21--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "gdp_pcap_21"
                     }
                 ],
                 "primaryKey": [
@@ -10968,37 +10926,6 @@
                 "value": "gdp_pcap",
                 "resources": [
                     "ddf--datapoints--gdp_pcap--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "gdp_pcap_21",
-                "resources": [
-                    "ddf--datapoints--gdp_pcap_21--by--country--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "gdp_pcap_21",
-                "resources": [
-                    "ddf--datapoints--gdp_pcap_21--by--country--time",
-                    "ddf--datapoints--gdp_pcap_21--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "gdp_pcap_21",
-                "resources": [
-                    "ddf--datapoints--gdp_pcap_21--by--global--time"
                 ]
             },
             {
