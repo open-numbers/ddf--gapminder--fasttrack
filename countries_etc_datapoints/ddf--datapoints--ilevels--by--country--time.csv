@@ -2027,6 +2027,7 @@ arm,2018,Level 2
 arm,2019,Level 2
 arm,2020,Level 2
 arm,2021,Level 2
+arm,2022,Level 2
 arm,2023,Level 2
 arm,2024,Level 2
 arm,2025,Level 2
@@ -6842,6 +6843,7 @@ bol,2018,Level 3
 bol,2019,Level 3
 bol,2020,Level 3
 bol,2021,Level 3
+bol,2022,Level 3
 bol,2023,Level 3
 bol,2024,Level 3
 bol,2025,Level 3
@@ -7142,6 +7144,7 @@ bra,2018,Level 3
 bra,2019,Level 3
 bra,2020,Level 3
 bra,2021,Level 3
+bra,2022,Level 3
 bra,2023,Level 3
 bra,2024,Level 3
 bra,2025,Level 3
@@ -11355,6 +11358,7 @@ col,2018,Level 3
 col,2019,Level 3
 col,2020,Level 2
 col,2021,Level 3
+col,2022,Level 3
 col,2023,Level 3
 col,2024,Level 3
 col,2025,Level 3
@@ -12257,6 +12261,8 @@ cri,2018,Level 3
 cri,2019,Level 3
 cri,2020,Level 3
 cri,2021,Level 3
+cri,2022,Level 3
+cri,2023,Level 3
 cri,2024,Level 3
 cri,2025,Level 3
 cri,2026,Level 3
@@ -14663,6 +14669,7 @@ dom,2018,Level 3
 dom,2019,Level 3
 dom,2020,Level 3
 dom,2021,Level 3
+dom,2022,Level 3
 dom,2023,Level 3
 dom,2024,Level 3
 dom,2025,Level 3
@@ -15264,6 +15271,7 @@ ecu,2018,Level 3
 ecu,2019,Level 3
 ecu,2020,Level 3
 ecu,2021,Level 3
+ecu,2022,Level 3
 ecu,2023,Level 3
 ecu,2024,Level 3
 ecu,2025,Level 3
@@ -18875,6 +18883,7 @@ geo,2018,Level 2
 geo,2019,Level 2
 geo,2020,Level 2
 geo,2021,Level 2
+geo,2022,Level 2
 geo,2023,Level 2
 geo,2024,Level 2
 geo,2025,Level 2
@@ -21274,6 +21283,15 @@ gtm,2010,Level 2
 gtm,2011,Level 2
 gtm,2012,Level 2
 gtm,2013,Level 2
+gtm,2014,Level 2
+gtm,2015,Level 2
+gtm,2016,Level 2
+gtm,2017,Level 2
+gtm,2018,Level 2
+gtm,2019,Level 2
+gtm,2020,Level 2
+gtm,2021,Level 2
+gtm,2022,Level 2
 gtm,2023,Level 2
 gtm,2024,Level 2
 gtm,2025,Level 2
@@ -22173,6 +22191,10 @@ hnd,2015,Level 2
 hnd,2016,Level 2
 hnd,2017,Level 2
 hnd,2018,Level 2
+hnd,2019,Level 2
+hnd,2020,Level 2
+hnd,2021,Level 2
+hnd,2022,Level 2
 hnd,2023,Level 2
 hnd,2024,Level 2
 hnd,2025,Level 2
@@ -23376,6 +23398,8 @@ idn,2018,Level 2
 idn,2019,Level 2
 idn,2020,Level 2
 idn,2021,Level 2
+idn,2022,Level 2
+idn,2023,Level 2
 idn,2024,Level 2
 idn,2025,Level 2
 idn,2026,Level 2
@@ -24277,6 +24301,7 @@ irn,2018,Level 2
 irn,2019,Level 2
 irn,2020,Level 2
 irn,2021,Level 2
+irn,2022,Level 2
 irn,2023,Level 2
 irn,2024,Level 2
 irn,2025,Level 2
@@ -24567,6 +24592,17 @@ irq,2008,Level 2
 irq,2009,Level 2
 irq,2010,Level 2
 irq,2011,Level 2
+irq,2012,Level 2
+irq,2013,Level 2
+irq,2014,Level 2
+irq,2015,Level 2
+irq,2016,Level 2
+irq,2017,Level 2
+irq,2018,Level 2
+irq,2019,Level 2
+irq,2020,Level 2
+irq,2021,Level 2
+irq,2022,Level 2
 irq,2023,Level 2
 irq,2024,Level 2
 irq,2025,Level 2
@@ -40819,6 +40855,8 @@ pan,2017,Level 3
 pan,2018,Level 3
 pan,2019,Level 3
 pan,2020,Level 3
+pan,2021,Level 3
+pan,2022,Level 3
 pan,2023,Level 3
 pan,2024,Level 3
 pan,2025,Level 3
@@ -41119,6 +41157,7 @@ per,2018,Level 2
 per,2019,Level 2
 per,2020,Level 2
 per,2021,Level 2
+per,2022,Level 2
 per,2023,Level 2
 per,2024,Level 2
 per,2025,Level 2
@@ -41418,6 +41457,8 @@ phl,2017,Level 3
 phl,2018,Level 3
 phl,2019,Level 3
 phl,2020,Level 3
+phl,2021,Level 3
+phl,2022,Level 3
 phl,2023,Level 3
 phl,2024,Level 3
 phl,2025,Level 3
@@ -43223,6 +43264,7 @@ pry,2018,Level 3
 pry,2019,Level 3
 pry,2020,Level 3
 pry,2021,Level 3
+pry,2022,Level 3
 pry,2023,Level 3
 pry,2024,Level 3
 pry,2025,Level 3
@@ -43517,6 +43559,13 @@ pse,2012,Level 2
 pse,2013,Level 2
 pse,2014,Level 2
 pse,2015,Level 2
+pse,2016,Level 2
+pse,2017,Level 2
+pse,2018,Level 2
+pse,2019,Level 2
+pse,2020,Level 2
+pse,2021,Level 2
+pse,2022,Level 2
 pse,2023,Level 2
 pse,2024,Level 2
 pse,2025,Level 2
@@ -46827,6 +46876,7 @@ slv,2018,Level 2
 slv,2019,Level 2
 slv,2020,Level 2
 slv,2021,Level 2
+slv,2022,Level 2
 slv,2023,Level 2
 slv,2024,Level 2
 slv,2025,Level 3
@@ -51341,6 +51391,7 @@ tha,2018,Level 3
 tha,2019,Level 3
 tha,2020,Level 3
 tha,2021,Level 3
+tha,2022,Level 3
 tha,2023,Level 3
 tha,2024,Level 3
 tha,2025,Level 3
@@ -55253,6 +55304,7 @@ ury,2018,Level 3
 ury,2019,Level 3
 ury,2020,Level 3
 ury,2021,Level 3
+ury,2022,Level 3
 ury,2023,Level 3
 ury,2024,Level 3
 ury,2025,Level 3
@@ -55553,6 +55605,7 @@ usa,2018,Level 4
 usa,2019,Level 4
 usa,2020,Level 4
 usa,2021,Level 4
+usa,2022,Level 4
 usa,2023,Level 4
 usa,2024,Level 4
 usa,2025,Level 4
@@ -55853,6 +55906,7 @@ uzb,2018,Level 2
 uzb,2019,Level 2
 uzb,2020,Level 2
 uzb,2021,Level 2
+uzb,2022,Level 2
 uzb,2023,Level 2
 uzb,2024,Level 2
 uzb,2025,Level 3

@@ -2328,7 +2328,7 @@
 2326,arm,Armenia,2019,Level 2
 2327,arm,Armenia,2020,Level 2
 2328,arm,Armenia,2021,Level 2
-2329,arm,Armenia,2022,
+2329,arm,Armenia,2022,Level 2
 2330,arm,Armenia,2023,Level 2
 2331,arm,Armenia,2024,Level 2
 2332,arm,Armenia,2025,Level 2
@@ -6241,7 +6241,7 @@
 6239,bol,Bolivia,2019,Level 3
 6240,bol,Bolivia,2020,Level 3
 6241,bol,Bolivia,2021,Level 3
-6242,bol,Bolivia,2022,
+6242,bol,Bolivia,2022,Level 3
 6243,bol,Bolivia,2023,Level 3
 6244,bol,Bolivia,2024,Level 3
 6245,bol,Bolivia,2025,Level 3
@@ -7144,7 +7144,7 @@
 7142,bra,Brazil,2019,Level 3
 7143,bra,Brazil,2020,Level 3
 7144,bra,Brazil,2021,Level 3
-7145,bra,Brazil,2022,
+7145,bra,Brazil,2022,Level 3
 7146,bra,Brazil,2023,Level 3
 7147,bra,Brazil,2024,Level 3
 7148,bra,Brazil,2025,Level 3
@@ -11057,7 +11057,7 @@
 11055,col,Colombia,2019,Level 3
 11056,col,Colombia,2020,Level 2
 11057,col,Colombia,2021,Level 3
-11058,col,Colombia,2022,
+11058,col,Colombia,2022,Level 3
 11059,col,Colombia,2023,Level 3
 11060,col,Colombia,2024,Level 3
 11061,col,Colombia,2025,Level 3
@@ -12261,8 +12261,8 @@
 12259,cri,Costa Rica,2019,Level 3
 12260,cri,Costa Rica,2020,Level 3
 12261,cri,Costa Rica,2021,Level 3
-12262,cri,Costa Rica,2022,
-12263,cri,Costa Rica,2023,
+12262,cri,Costa Rica,2022,Level 3
+12263,cri,Costa Rica,2023,Level 3
 12264,cri,Costa Rica,2024,Level 3
 12265,cri,Costa Rica,2025,Level 3
 12266,cri,Costa Rica,2026,Level 3
@@ -14970,7 +14970,7 @@
 14968,dom,Dominican Republic,2019,Level 3
 14969,dom,Dominican Republic,2020,Level 3
 14970,dom,Dominican Republic,2021,Level 3
-14971,dom,Dominican Republic,2022,
+14971,dom,Dominican Republic,2022,Level 3
 14972,dom,Dominican Republic,2023,Level 3
 14973,dom,Dominican Republic,2024,Level 3
 14974,dom,Dominican Republic,2025,Level 3
@@ -15271,7 +15271,7 @@
 15269,ecu,Ecuador,2019,Level 3
 15270,ecu,Ecuador,2020,Level 3
 15271,ecu,Ecuador,2021,Level 3
-15272,ecu,Ecuador,2022,
+15272,ecu,Ecuador,2022,Level 3
 15273,ecu,Ecuador,2023,Level 3
 15274,ecu,Ecuador,2024,Level 3
 15275,ecu,Ecuador,2025,Level 3
@@ -15873,7 +15873,7 @@
 15871,slv,El Salvador,2019,Level 2
 15872,slv,El Salvador,2020,Level 2
 15873,slv,El Salvador,2021,Level 2
-15874,slv,El Salvador,2022,
+15874,slv,El Salvador,2022,Level 2
 15875,slv,El Salvador,2023,Level 2
 15876,slv,El Salvador,2024,Level 2
 15877,slv,El Salvador,2025,Level 3
@@ -18883,7 +18883,7 @@
 18881,geo,Georgia,2019,Level 2
 18882,geo,Georgia,2020,Level 2
 18883,geo,Georgia,2021,Level 2
-18884,geo,Georgia,2022,
+18884,geo,Georgia,2022,Level 2
 18885,geo,Georgia,2023,Level 2
 18886,geo,Georgia,2024,Level 2
 18887,geo,Georgia,2025,Level 2
@@ -20380,15 +20380,15 @@
 20378,gtm,Guatemala,2011,Level 2
 20379,gtm,Guatemala,2012,Level 2
 20380,gtm,Guatemala,2013,Level 2
-20381,gtm,Guatemala,2014,
-20382,gtm,Guatemala,2015,
-20383,gtm,Guatemala,2016,
-20384,gtm,Guatemala,2017,
-20385,gtm,Guatemala,2018,
-20386,gtm,Guatemala,2019,
-20387,gtm,Guatemala,2020,
-20388,gtm,Guatemala,2021,
-20389,gtm,Guatemala,2022,
+20381,gtm,Guatemala,2014,Level 2
+20382,gtm,Guatemala,2015,Level 2
+20383,gtm,Guatemala,2016,Level 2
+20384,gtm,Guatemala,2017,Level 2
+20385,gtm,Guatemala,2018,Level 2
+20386,gtm,Guatemala,2019,Level 2
+20387,gtm,Guatemala,2020,Level 2
+20388,gtm,Guatemala,2021,Level 2
+20389,gtm,Guatemala,2022,Level 2
 20390,gtm,Guatemala,2023,Level 2
 20391,gtm,Guatemala,2024,Level 2
 20392,gtm,Guatemala,2025,Level 2
@@ -22191,10 +22191,10 @@
 22189,hnd,Honduras,2016,Level 2
 22190,hnd,Honduras,2017,Level 2
 22191,hnd,Honduras,2018,Level 2
-22192,hnd,Honduras,2019,
-22193,hnd,Honduras,2020,
-22194,hnd,Honduras,2021,
-22195,hnd,Honduras,2022,
+22192,hnd,Honduras,2019,Level 2
+22193,hnd,Honduras,2020,Level 2
+22194,hnd,Honduras,2021,Level 2
+22195,hnd,Honduras,2022,Level 2
 22196,hnd,Honduras,2023,Level 2
 22197,hnd,Honduras,2024,Level 2
 22198,hnd,Honduras,2025,Level 2
@@ -23699,8 +23699,8 @@
 23697,idn,Indonesia,2019,Level 2
 23698,idn,Indonesia,2020,Level 2
 23699,idn,Indonesia,2021,Level 2
-23700,idn,Indonesia,2022,
-23701,idn,Indonesia,2023,
+23700,idn,Indonesia,2022,Level 2
+23701,idn,Indonesia,2023,Level 2
 23702,idn,Indonesia,2024,Level 2
 23703,idn,Indonesia,2025,Level 2
 23704,idn,Indonesia,2026,Level 2
@@ -24000,7 +24000,7 @@
 23998,irn,Iran,2019,Level 2
 23999,irn,Iran,2020,Level 2
 24000,irn,Iran,2021,Level 2
-24001,irn,Iran,2022,
+24001,irn,Iran,2022,Level 2
 24002,irn,Iran,2023,Level 2
 24003,irn,Iran,2024,Level 2
 24004,irn,Iran,2025,Level 2
@@ -24291,17 +24291,17 @@
 24289,irq,Iraq,2009,Level 2
 24290,irq,Iraq,2010,Level 2
 24291,irq,Iraq,2011,Level 2
-24292,irq,Iraq,2012,
-24293,irq,Iraq,2013,
-24294,irq,Iraq,2014,
-24295,irq,Iraq,2015,
-24296,irq,Iraq,2016,
-24297,irq,Iraq,2017,
-24298,irq,Iraq,2018,
-24299,irq,Iraq,2019,
-24300,irq,Iraq,2020,
-24301,irq,Iraq,2021,
-24302,irq,Iraq,2022,
+24292,irq,Iraq,2012,Level 2
+24293,irq,Iraq,2013,Level 2
+24294,irq,Iraq,2014,Level 2
+24295,irq,Iraq,2015,Level 2
+24296,irq,Iraq,2016,Level 2
+24297,irq,Iraq,2017,Level 2
+24298,irq,Iraq,2018,Level 2
+24299,irq,Iraq,2019,Level 2
+24300,irq,Iraq,2020,Level 2
+24301,irq,Iraq,2021,Level 2
+24302,irq,Iraq,2022,Level 2
 24303,irq,Iraq,2023,Level 2
 24304,irq,Iraq,2024,Level 2
 24305,irq,Iraq,2025,Level 2
@@ -40248,13 +40248,13 @@
 40246,pse,Palestine,2013,Level 2
 40247,pse,Palestine,2014,Level 2
 40248,pse,Palestine,2015,Level 2
-40249,pse,Palestine,2016,
-40250,pse,Palestine,2017,
-40251,pse,Palestine,2018,
-40252,pse,Palestine,2019,
-40253,pse,Palestine,2020,
-40254,pse,Palestine,2021,
-40255,pse,Palestine,2022,
+40249,pse,Palestine,2016,Level 2
+40250,pse,Palestine,2017,Level 2
+40251,pse,Palestine,2018,Level 2
+40252,pse,Palestine,2019,Level 2
+40253,pse,Palestine,2020,Level 2
+40254,pse,Palestine,2021,Level 2
+40255,pse,Palestine,2022,Level 2
 40256,pse,Palestine,2023,Level 2
 40257,pse,Palestine,2024,Level 2
 40258,pse,Palestine,2025,Level 2
@@ -40554,8 +40554,8 @@
 40552,pan,Panama,2018,Level 3
 40553,pan,Panama,2019,Level 3
 40554,pan,Panama,2020,Level 3
-40555,pan,Panama,2021,
-40556,pan,Panama,2022,
+40555,pan,Panama,2021,Level 3
+40556,pan,Panama,2022,Level 3
 40557,pan,Panama,2023,Level 3
 40558,pan,Panama,2024,Level 3
 40559,pan,Panama,2025,Level 3
@@ -41157,7 +41157,7 @@
 41155,pry,Paraguay,2019,Level 3
 41156,pry,Paraguay,2020,Level 3
 41157,pry,Paraguay,2021,Level 3
-41158,pry,Paraguay,2022,
+41158,pry,Paraguay,2022,Level 3
 41159,pry,Paraguay,2023,Level 3
 41160,pry,Paraguay,2024,Level 3
 41161,pry,Paraguay,2025,Level 3
@@ -41458,7 +41458,7 @@
 41456,per,Peru,2019,Level 2
 41457,per,Peru,2020,Level 2
 41458,per,Peru,2021,Level 2
-41459,per,Peru,2022,
+41459,per,Peru,2022,Level 2
 41460,per,Peru,2023,Level 2
 41461,per,Peru,2024,Level 2
 41462,per,Peru,2025,Level 2
@@ -41758,8 +41758,8 @@
 41756,phl,Philippines,2018,Level 3
 41757,phl,Philippines,2019,Level 3
 41758,phl,Philippines,2020,Level 3
-41759,phl,Philippines,2021,
-41760,phl,Philippines,2022,
+41759,phl,Philippines,2021,Level 3
+41760,phl,Philippines,2022,Level 3
 41761,phl,Philippines,2023,Level 3
 41762,phl,Philippines,2024,Level 3
 41763,phl,Philippines,2025,Level 3
@@ -52896,7 +52896,7 @@
 52894,tha,Thailand,2019,Level 3
 52895,tha,Thailand,2020,Level 3
 52896,tha,Thailand,2021,Level 3
-52897,tha,Thailand,2022,
+52897,tha,Thailand,2022,Level 3
 52898,tha,Thailand,2023,Level 3
 52899,tha,Thailand,2024,Level 3
 52900,tha,Thailand,2025,Level 3
@@ -56809,7 +56809,7 @@
 56807,usa,United States,2019,Level 4
 56808,usa,United States,2020,Level 4
 56809,usa,United States,2021,Level 4
-56810,usa,United States,2022,
+56810,usa,United States,2022,Level 4
 56811,usa,United States,2023,Level 4
 56812,usa,United States,2024,Level 4
 56813,usa,United States,2025,Level 4
@@ -57110,7 +57110,7 @@
 57108,ury,Uruguay,2019,Level 3
 57109,ury,Uruguay,2020,Level 3
 57110,ury,Uruguay,2021,Level 3
-57111,ury,Uruguay,2022,
+57111,ury,Uruguay,2022,Level 3
 57112,ury,Uruguay,2023,Level 3
 57113,ury,Uruguay,2024,Level 3
 57114,ury,Uruguay,2025,Level 3
@@ -57411,7 +57411,7 @@
 57409,uzb,Uzbekistan,2019,Level 2
 57410,uzb,Uzbekistan,2020,Level 2
 57411,uzb,Uzbekistan,2021,Level 2
-57412,uzb,Uzbekistan,2022,
+57412,uzb,Uzbekistan,2022,Level 2
 57413,uzb,Uzbekistan,2023,Level 2
 57414,uzb,Uzbekistan,2024,Level 2
 57415,uzb,Uzbekistan,2025,Level 3
