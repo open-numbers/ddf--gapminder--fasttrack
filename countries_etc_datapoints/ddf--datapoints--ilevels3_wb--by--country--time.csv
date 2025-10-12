@@ -36,6 +36,7 @@ afg,2020,Low income
 afg,2021,Low income
 afg,2022,Low income
 afg,2023,Low income
+afg,2024,Low income
 ago,1987,Middle income
 ago,1988,Middle income
 ago,1989,Middle income
@@ -73,6 +74,7 @@ ago,2020,Middle income
 ago,2021,Middle income
 ago,2022,Middle income
 ago,2023,Middle income
+ago,2024,Middle income
 alb,1987,Middle income
 alb,1988,Middle income
 alb,1989,Middle income
@@ -110,6 +112,7 @@ alb,2020,Middle income
 alb,2021,Middle income
 alb,2022,Middle income
 alb,2023,Middle income
+alb,2024,Middle income
 and,1987,High income
 and,1988,High income
 and,1989,High income
@@ -147,6 +150,7 @@ and,2020,High income
 and,2021,High income
 and,2022,High income
 and,2023,High income
+and,2024,High income
 are,1987,High income
 are,1988,High income
 are,1989,High income
@@ -184,6 +188,7 @@ are,2020,High income
 are,2021,High income
 are,2022,High income
 are,2023,High income
+are,2024,High income
 arg,1987,Middle income
 arg,1988,Middle income
 arg,1989,Middle income
@@ -221,6 +226,7 @@ arg,2020,Middle income
 arg,2021,Middle income
 arg,2022,Middle income
 arg,2023,Middle income
+arg,2024,Middle income
 arm,1987,Middle income
 arm,1988,Middle income
 arm,1989,Middle income
@@ -258,6 +264,7 @@ arm,2020,Middle income
 arm,2021,Middle income
 arm,2022,Middle income
 arm,2023,Middle income
+arm,2024,Middle income
 atg,1987,Middle income
 atg,1988,Middle income
 atg,1989,Middle income
@@ -295,6 +302,7 @@ atg,2020,High income
 atg,2021,High income
 atg,2022,High income
 atg,2023,High income
+atg,2024,High income
 aus,1987,High income
 aus,1988,High income
 aus,1989,High income
@@ -332,6 +340,7 @@ aus,2020,High income
 aus,2021,High income
 aus,2022,High income
 aus,2023,High income
+aus,2024,High income
 aut,1987,High income
 aut,1988,High income
 aut,1989,High income
@@ -369,6 +378,7 @@ aut,2020,High income
 aut,2021,High income
 aut,2022,High income
 aut,2023,High income
+aut,2024,High income
 aze,1987,Middle income
 aze,1988,Middle income
 aze,1989,Middle income
@@ -406,6 +416,7 @@ aze,2020,Middle income
 aze,2021,Middle income
 aze,2022,Middle income
 aze,2023,Middle income
+aze,2024,Middle income
 bdi,1987,Low income
 bdi,1988,Low income
 bdi,1989,Low income
@@ -443,6 +454,7 @@ bdi,2020,Low income
 bdi,2021,Low income
 bdi,2022,Low income
 bdi,2023,Low income
+bdi,2024,Low income
 bel,1987,High income
 bel,1988,High income
 bel,1989,High income
@@ -480,6 +492,7 @@ bel,2020,High income
 bel,2021,High income
 bel,2022,High income
 bel,2023,High income
+bel,2024,High income
 ben,1987,Low income
 ben,1988,Low income
 ben,1989,Low income
@@ -517,6 +530,7 @@ ben,2020,Middle income
 ben,2021,Middle income
 ben,2022,Middle income
 ben,2023,Middle income
+ben,2024,Middle income
 bfa,1987,Low income
 bfa,1988,Low income
 bfa,1989,Low income
@@ -554,6 +568,7 @@ bfa,2020,Low income
 bfa,2021,Low income
 bfa,2022,Low income
 bfa,2023,Low income
+bfa,2024,Low income
 bgd,1987,Low income
 bgd,1988,Low income
 bgd,1989,Low income
@@ -591,6 +606,7 @@ bgd,2020,Middle income
 bgd,2021,Middle income
 bgd,2022,Middle income
 bgd,2023,Middle income
+bgd,2024,Middle income
 bgr,1987,Middle income
 bgr,1988,Middle income
 bgr,1989,Middle income
@@ -627,7 +643,8 @@ bgr,2019,Middle income
 bgr,2020,Middle income
 bgr,2021,Middle income
 bgr,2022,Middle income
-bgr,2023,Middle income
+bgr,2023,High income
+bgr,2024,High income
 bhr,1987,High income
 bhr,1988,High income
 bhr,1989,High income
@@ -665,6 +682,7 @@ bhr,2020,High income
 bhr,2021,High income
 bhr,2022,High income
 bhr,2023,High income
+bhr,2024,High income
 bhs,1987,High income
 bhs,1988,High income
 bhs,1989,High income
@@ -702,6 +720,7 @@ bhs,2020,High income
 bhs,2021,High income
 bhs,2022,High income
 bhs,2023,High income
+bhs,2024,High income
 bih,1987,Middle income
 bih,1988,Middle income
 bih,1989,Middle income
@@ -739,6 +758,7 @@ bih,2020,Middle income
 bih,2021,Middle income
 bih,2022,Middle income
 bih,2023,Middle income
+bih,2024,Middle income
 blr,1987,Middle income
 blr,1988,Middle income
 blr,1989,Middle income
@@ -776,6 +796,7 @@ blr,2020,Middle income
 blr,2021,Middle income
 blr,2022,Middle income
 blr,2023,Middle income
+blr,2024,Middle income
 blz,1987,Middle income
 blz,1988,Middle income
 blz,1989,Middle income
@@ -813,6 +834,7 @@ blz,2020,Middle income
 blz,2021,Middle income
 blz,2022,Middle income
 blz,2023,Middle income
+blz,2024,Middle income
 bol,1987,Middle income
 bol,1988,Middle income
 bol,1989,Middle income
@@ -850,6 +872,7 @@ bol,2020,Middle income
 bol,2021,Middle income
 bol,2022,Middle income
 bol,2023,Middle income
+bol,2024,Middle income
 bra,1987,Middle income
 bra,1988,Middle income
 bra,1989,Middle income
@@ -887,6 +910,7 @@ bra,2020,Middle income
 bra,2021,Middle income
 bra,2022,Middle income
 bra,2023,Middle income
+bra,2024,Middle income
 brb,1987,Middle income
 brb,1988,Middle income
 brb,1989,High income
@@ -924,6 +948,7 @@ brb,2020,High income
 brb,2021,High income
 brb,2022,High income
 brb,2023,High income
+brb,2024,High income
 brn,1987,High income
 brn,1988,High income
 brn,1989,High income
@@ -961,6 +986,7 @@ brn,2020,High income
 brn,2021,High income
 brn,2022,High income
 brn,2023,High income
+brn,2024,High income
 btn,1987,Low income
 btn,1988,Low income
 btn,1989,Low income
@@ -998,6 +1024,7 @@ btn,2020,Middle income
 btn,2021,Middle income
 btn,2022,Middle income
 btn,2023,Middle income
+btn,2024,Middle income
 bwa,1987,Middle income
 bwa,1988,Middle income
 bwa,1989,Middle income
@@ -1035,6 +1062,7 @@ bwa,2020,Middle income
 bwa,2021,Middle income
 bwa,2022,Middle income
 bwa,2023,Middle income
+bwa,2024,Middle income
 caf,1987,Low income
 caf,1988,Low income
 caf,1989,Low income
@@ -1072,6 +1100,7 @@ caf,2020,Low income
 caf,2021,Low income
 caf,2022,Low income
 caf,2023,Low income
+caf,2024,Low income
 can,1987,High income
 can,1988,High income
 can,1989,High income
@@ -1109,6 +1138,7 @@ can,2020,High income
 can,2021,High income
 can,2022,High income
 can,2023,High income
+can,2024,High income
 che,1987,High income
 che,1988,High income
 che,1989,High income
@@ -1146,6 +1176,7 @@ che,2020,High income
 che,2021,High income
 che,2022,High income
 che,2023,High income
+che,2024,High income
 chl,1987,Middle income
 chl,1988,Middle income
 chl,1989,Middle income
@@ -1183,6 +1214,7 @@ chl,2020,High income
 chl,2021,High income
 chl,2022,High income
 chl,2023,High income
+chl,2024,High income
 chn,1987,Low income
 chn,1988,Low income
 chn,1989,Low income
@@ -1220,6 +1252,7 @@ chn,2020,Middle income
 chn,2021,Middle income
 chn,2022,Middle income
 chn,2023,Middle income
+chn,2024,Middle income
 civ,1987,Middle income
 civ,1988,Middle income
 civ,1989,Middle income
@@ -1257,6 +1290,7 @@ civ,2020,Middle income
 civ,2021,Middle income
 civ,2022,Middle income
 civ,2023,Middle income
+civ,2024,Middle income
 cmr,1987,Middle income
 cmr,1988,Middle income
 cmr,1989,Middle income
@@ -1294,6 +1328,7 @@ cmr,2020,Middle income
 cmr,2021,Middle income
 cmr,2022,Middle income
 cmr,2023,Middle income
+cmr,2024,Middle income
 cod,1987,Low income
 cod,1988,Low income
 cod,1989,Low income
@@ -1331,6 +1366,7 @@ cod,2020,Low income
 cod,2021,Low income
 cod,2022,Low income
 cod,2023,Low income
+cod,2024,Low income
 cog,1987,Middle income
 cog,1988,Middle income
 cog,1989,Middle income
@@ -1368,6 +1404,7 @@ cog,2020,Middle income
 cog,2021,Middle income
 cog,2022,Middle income
 cog,2023,Middle income
+cog,2024,Middle income
 col,1987,Middle income
 col,1988,Middle income
 col,1989,Middle income
@@ -1405,6 +1442,7 @@ col,2020,Middle income
 col,2021,Middle income
 col,2022,Middle income
 col,2023,Middle income
+col,2024,Middle income
 com,1987,Low income
 com,1988,Low income
 com,1989,Low income
@@ -1442,6 +1480,7 @@ com,2020,Middle income
 com,2021,Middle income
 com,2022,Middle income
 com,2023,Middle income
+com,2024,Middle income
 cpv,1987,Middle income
 cpv,1988,Middle income
 cpv,1989,Middle income
@@ -1479,6 +1518,7 @@ cpv,2020,Middle income
 cpv,2021,Middle income
 cpv,2022,Middle income
 cpv,2023,Middle income
+cpv,2024,Middle income
 cri,1987,Middle income
 cri,1988,Middle income
 cri,1989,Middle income
@@ -1516,6 +1556,7 @@ cri,2020,Middle income
 cri,2021,Middle income
 cri,2022,Middle income
 cri,2023,Middle income
+cri,2024,High income
 cub,1987,Middle income
 cub,1988,Middle income
 cub,1989,Middle income
@@ -1553,6 +1594,7 @@ cub,2020,Middle income
 cub,2021,Middle income
 cub,2022,Middle income
 cub,2023,Middle income
+cub,2024,Middle income
 cyp,1987,Middle income
 cyp,1988,High income
 cyp,1989,High income
@@ -1590,6 +1632,7 @@ cyp,2020,High income
 cyp,2021,High income
 cyp,2022,High income
 cyp,2023,High income
+cyp,2024,High income
 cze,1987,Middle income
 cze,1988,Middle income
 cze,1989,Middle income
@@ -1627,6 +1670,7 @@ cze,2020,High income
 cze,2021,High income
 cze,2022,High income
 cze,2023,High income
+cze,2024,High income
 deu,1987,High income
 deu,1988,High income
 deu,1989,High income
@@ -1664,6 +1708,7 @@ deu,2020,High income
 deu,2021,High income
 deu,2022,High income
 deu,2023,High income
+deu,2024,High income
 dji,1987,Middle income
 dji,1988,Middle income
 dji,1989,Middle income
@@ -1701,6 +1746,7 @@ dji,2020,Middle income
 dji,2021,Middle income
 dji,2022,Middle income
 dji,2023,Middle income
+dji,2024,Middle income
 dma,1987,Middle income
 dma,1988,Middle income
 dma,1989,Middle income
@@ -1738,6 +1784,7 @@ dma,2020,Middle income
 dma,2021,Middle income
 dma,2022,Middle income
 dma,2023,Middle income
+dma,2024,Middle income
 dnk,1987,High income
 dnk,1988,High income
 dnk,1989,High income
@@ -1775,6 +1822,7 @@ dnk,2020,High income
 dnk,2021,High income
 dnk,2022,High income
 dnk,2023,High income
+dnk,2024,High income
 dom,1987,Middle income
 dom,1988,Middle income
 dom,1989,Middle income
@@ -1812,6 +1860,7 @@ dom,2020,Middle income
 dom,2021,Middle income
 dom,2022,Middle income
 dom,2023,Middle income
+dom,2024,Middle income
 dza,1987,Middle income
 dza,1988,Middle income
 dza,1989,Middle income
@@ -1849,6 +1898,7 @@ dza,2020,Middle income
 dza,2021,Middle income
 dza,2022,Middle income
 dza,2023,Middle income
+dza,2024,Middle income
 ecu,1987,Middle income
 ecu,1988,Middle income
 ecu,1989,Middle income
@@ -1886,6 +1936,7 @@ ecu,2020,Middle income
 ecu,2021,Middle income
 ecu,2022,Middle income
 ecu,2023,Middle income
+ecu,2024,Middle income
 egy,1987,Middle income
 egy,1988,Middle income
 egy,1989,Middle income
@@ -1923,6 +1974,7 @@ egy,2020,Middle income
 egy,2021,Middle income
 egy,2022,Middle income
 egy,2023,Middle income
+egy,2024,Middle income
 eri,1987,Low income
 eri,1988,Low income
 eri,1989,Low income
@@ -1960,6 +2012,7 @@ eri,2020,Low income
 eri,2021,Low income
 eri,2022,Low income
 eri,2023,Low income
+eri,2024,Low income
 esp,1987,High income
 esp,1988,High income
 esp,1989,High income
@@ -1997,6 +2050,7 @@ esp,2020,High income
 esp,2021,High income
 esp,2022,High income
 esp,2023,High income
+esp,2024,High income
 est,1987,Middle income
 est,1988,Middle income
 est,1989,Middle income
@@ -2034,6 +2088,7 @@ est,2020,High income
 est,2021,High income
 est,2022,High income
 est,2023,High income
+est,2024,High income
 eth,1987,Low income
 eth,1988,Low income
 eth,1989,Low income
@@ -2071,6 +2126,7 @@ eth,2020,Low income
 eth,2021,Low income
 eth,2022,Low income
 eth,2023,Low income
+eth,2024,Low income
 fin,1987,High income
 fin,1988,High income
 fin,1989,High income
@@ -2108,6 +2164,7 @@ fin,2020,High income
 fin,2021,High income
 fin,2022,High income
 fin,2023,High income
+fin,2024,High income
 fji,1987,Middle income
 fji,1988,Middle income
 fji,1989,Middle income
@@ -2145,6 +2202,7 @@ fji,2020,Middle income
 fji,2021,Middle income
 fji,2022,Middle income
 fji,2023,Middle income
+fji,2024,Middle income
 fra,1987,High income
 fra,1988,High income
 fra,1989,High income
@@ -2182,6 +2240,7 @@ fra,2020,High income
 fra,2021,High income
 fra,2022,High income
 fra,2023,High income
+fra,2024,High income
 fsm,1987,Middle income
 fsm,1988,Middle income
 fsm,1989,Middle income
@@ -2219,6 +2278,7 @@ fsm,2020,Middle income
 fsm,2021,Middle income
 fsm,2022,Middle income
 fsm,2023,Middle income
+fsm,2024,Middle income
 gab,1987,Middle income
 gab,1988,Middle income
 gab,1989,Middle income
@@ -2256,6 +2316,7 @@ gab,2020,Middle income
 gab,2021,Middle income
 gab,2022,Middle income
 gab,2023,Middle income
+gab,2024,Middle income
 gbr,1987,High income
 gbr,1988,High income
 gbr,1989,High income
@@ -2293,6 +2354,7 @@ gbr,2020,High income
 gbr,2021,High income
 gbr,2022,High income
 gbr,2023,High income
+gbr,2024,High income
 geo,1987,Middle income
 geo,1988,Middle income
 geo,1989,Middle income
@@ -2330,6 +2392,7 @@ geo,2020,Middle income
 geo,2021,Middle income
 geo,2022,Middle income
 geo,2023,Middle income
+geo,2024,Middle income
 gha,1987,Low income
 gha,1988,Low income
 gha,1989,Low income
@@ -2367,6 +2430,7 @@ gha,2020,Middle income
 gha,2021,Middle income
 gha,2022,Middle income
 gha,2023,Middle income
+gha,2024,Middle income
 gin,1987,Low income
 gin,1988,Low income
 gin,1989,Low income
@@ -2404,6 +2468,7 @@ gin,2020,Low income
 gin,2021,Low income
 gin,2022,Middle income
 gin,2023,Middle income
+gin,2024,Middle income
 gmb,1987,Low income
 gmb,1988,Low income
 gmb,1989,Low income
@@ -2441,6 +2506,7 @@ gmb,2020,Low income
 gmb,2021,Low income
 gmb,2022,Low income
 gmb,2023,Low income
+gmb,2024,Low income
 gnb,1987,Low income
 gnb,1988,Low income
 gnb,1989,Low income
@@ -2478,6 +2544,7 @@ gnb,2020,Low income
 gnb,2021,Low income
 gnb,2022,Low income
 gnb,2023,Low income
+gnb,2024,Low income
 gnq,1987,Low income
 gnq,1988,Low income
 gnq,1989,Low income
@@ -2515,6 +2582,7 @@ gnq,2020,Middle income
 gnq,2021,Middle income
 gnq,2022,Middle income
 gnq,2023,Middle income
+gnq,2024,Middle income
 grc,1987,Middle income
 grc,1988,Middle income
 grc,1989,Middle income
@@ -2552,6 +2620,7 @@ grc,2020,High income
 grc,2021,High income
 grc,2022,High income
 grc,2023,High income
+grc,2024,High income
 grd,1987,Middle income
 grd,1988,Middle income
 grd,1989,Middle income
@@ -2589,6 +2658,7 @@ grd,2020,Middle income
 grd,2021,Middle income
 grd,2022,Middle income
 grd,2023,Middle income
+grd,2024,Middle income
 gtm,1987,Middle income
 gtm,1988,Middle income
 gtm,1989,Middle income
@@ -2626,6 +2696,7 @@ gtm,2020,Middle income
 gtm,2021,Middle income
 gtm,2022,Middle income
 gtm,2023,Middle income
+gtm,2024,Middle income
 guy,1987,Low income
 guy,1988,Low income
 guy,1989,Low income
@@ -2663,6 +2734,7 @@ guy,2020,Middle income
 guy,2021,Middle income
 guy,2022,High income
 guy,2023,High income
+guy,2024,High income
 hkg,1987,High income
 hkg,1988,High income
 hkg,1989,High income
@@ -2700,6 +2772,7 @@ hkg,2020,High income
 hkg,2021,High income
 hkg,2022,High income
 hkg,2023,High income
+hkg,2024,High income
 hnd,1987,Middle income
 hnd,1988,Middle income
 hnd,1989,Middle income
@@ -2737,6 +2810,7 @@ hnd,2020,Middle income
 hnd,2021,Middle income
 hnd,2022,Middle income
 hnd,2023,Middle income
+hnd,2024,Middle income
 hrv,1987,Middle income
 hrv,1988,Middle income
 hrv,1989,Middle income
@@ -2774,6 +2848,7 @@ hrv,2020,High income
 hrv,2021,High income
 hrv,2022,High income
 hrv,2023,High income
+hrv,2024,High income
 hti,1987,Low income
 hti,1988,Low income
 hti,1989,Low income
@@ -2811,6 +2886,7 @@ hti,2020,Middle income
 hti,2021,Middle income
 hti,2022,Middle income
 hti,2023,Middle income
+hti,2024,Middle income
 hun,1987,Middle income
 hun,1988,Middle income
 hun,1989,Middle income
@@ -2848,6 +2924,7 @@ hun,2020,High income
 hun,2021,High income
 hun,2022,High income
 hun,2023,High income
+hun,2024,High income
 idn,1987,Low income
 idn,1988,Low income
 idn,1989,Low income
@@ -2885,6 +2962,7 @@ idn,2020,Middle income
 idn,2021,Middle income
 idn,2022,Middle income
 idn,2023,Middle income
+idn,2024,Middle income
 ind,1987,Low income
 ind,1988,Low income
 ind,1989,Low income
@@ -2922,6 +3000,7 @@ ind,2020,Middle income
 ind,2021,Middle income
 ind,2022,Middle income
 ind,2023,Middle income
+ind,2024,Middle income
 irl,1987,High income
 irl,1988,High income
 irl,1989,High income
@@ -2959,6 +3038,7 @@ irl,2020,High income
 irl,2021,High income
 irl,2022,High income
 irl,2023,High income
+irl,2024,High income
 irn,1987,Middle income
 irn,1988,Middle income
 irn,1989,Middle income
@@ -2996,6 +3076,7 @@ irn,2020,Middle income
 irn,2021,Middle income
 irn,2022,Middle income
 irn,2023,Middle income
+irn,2024,Middle income
 irq,1987,Middle income
 irq,1988,Middle income
 irq,1989,Middle income
@@ -3033,6 +3114,7 @@ irq,2020,Middle income
 irq,2021,Middle income
 irq,2022,Middle income
 irq,2023,Middle income
+irq,2024,Middle income
 isl,1987,High income
 isl,1988,High income
 isl,1989,High income
@@ -3070,6 +3152,7 @@ isl,2020,High income
 isl,2021,High income
 isl,2022,High income
 isl,2023,High income
+isl,2024,High income
 isr,1987,High income
 isr,1988,High income
 isr,1989,High income
@@ -3107,6 +3190,7 @@ isr,2020,High income
 isr,2021,High income
 isr,2022,High income
 isr,2023,High income
+isr,2024,High income
 ita,1987,High income
 ita,1988,High income
 ita,1989,High income
@@ -3144,6 +3228,7 @@ ita,2020,High income
 ita,2021,High income
 ita,2022,High income
 ita,2023,High income
+ita,2024,High income
 jam,1987,Middle income
 jam,1988,Middle income
 jam,1989,Middle income
@@ -3181,6 +3266,7 @@ jam,2020,Middle income
 jam,2021,Middle income
 jam,2022,Middle income
 jam,2023,Middle income
+jam,2024,Middle income
 jor,1987,Middle income
 jor,1988,Middle income
 jor,1989,Middle income
@@ -3218,6 +3304,7 @@ jor,2020,Middle income
 jor,2021,Middle income
 jor,2022,Middle income
 jor,2023,Middle income
+jor,2024,Middle income
 jpn,1987,High income
 jpn,1988,High income
 jpn,1989,High income
@@ -3255,6 +3342,7 @@ jpn,2020,High income
 jpn,2021,High income
 jpn,2022,High income
 jpn,2023,High income
+jpn,2024,High income
 kaz,1987,Middle income
 kaz,1988,Middle income
 kaz,1989,Middle income
@@ -3292,6 +3380,7 @@ kaz,2020,Middle income
 kaz,2021,Middle income
 kaz,2022,Middle income
 kaz,2023,Middle income
+kaz,2024,Middle income
 ken,1987,Low income
 ken,1988,Low income
 ken,1989,Low income
@@ -3329,6 +3418,7 @@ ken,2020,Middle income
 ken,2021,Middle income
 ken,2022,Middle income
 ken,2023,Middle income
+ken,2024,Middle income
 kgz,1987,Middle income
 kgz,1988,Middle income
 kgz,1989,Middle income
@@ -3366,6 +3456,7 @@ kgz,2020,Middle income
 kgz,2021,Middle income
 kgz,2022,Middle income
 kgz,2023,Middle income
+kgz,2024,Middle income
 khm,1987,Low income
 khm,1988,Low income
 khm,1989,Low income
@@ -3403,6 +3494,7 @@ khm,2020,Middle income
 khm,2021,Middle income
 khm,2022,Middle income
 khm,2023,Middle income
+khm,2024,Middle income
 kir,1987,Middle income
 kir,1988,Middle income
 kir,1989,Middle income
@@ -3440,6 +3532,7 @@ kir,2020,Middle income
 kir,2021,Middle income
 kir,2022,Middle income
 kir,2023,Middle income
+kir,2024,Middle income
 kna,1987,Middle income
 kna,1988,Middle income
 kna,1989,Middle income
@@ -3477,6 +3570,7 @@ kna,2020,High income
 kna,2021,High income
 kna,2022,High income
 kna,2023,High income
+kna,2024,High income
 kor,1987,Middle income
 kor,1988,Middle income
 kor,1989,Middle income
@@ -3514,6 +3608,45 @@ kor,2020,High income
 kor,2021,High income
 kor,2022,High income
 kor,2023,High income
+kor,2024,High income
+kos,1987,Middle income
+kos,1988,Middle income
+kos,1989,Middle income
+kos,1990,Middle income
+kos,1991,Middle income
+kos,1992,Middle income
+kos,1993,Middle income
+kos,1994,Middle income
+kos,1995,Middle income
+kos,1996,Middle income
+kos,1997,Middle income
+kos,1998,Middle income
+kos,1999,Middle income
+kos,2000,Middle income
+kos,2001,Middle income
+kos,2002,Middle income
+kos,2003,Middle income
+kos,2004,Middle income
+kos,2005,Middle income
+kos,2006,Middle income
+kos,2007,Middle income
+kos,2008,Middle income
+kos,2009,Middle income
+kos,2010,Middle income
+kos,2011,Middle income
+kos,2012,Middle income
+kos,2013,Middle income
+kos,2014,Middle income
+kos,2015,Middle income
+kos,2016,Middle income
+kos,2017,Middle income
+kos,2018,Middle income
+kos,2019,Middle income
+kos,2020,Middle income
+kos,2021,Middle income
+kos,2022,Middle income
+kos,2023,Middle income
+kos,2024,Middle income
 kwt,1987,High income
 kwt,1988,High income
 kwt,1989,High income
@@ -3551,6 +3684,7 @@ kwt,2020,High income
 kwt,2021,High income
 kwt,2022,High income
 kwt,2023,High income
+kwt,2024,High income
 lao,1987,Low income
 lao,1988,Low income
 lao,1989,Low income
@@ -3588,6 +3722,7 @@ lao,2020,Middle income
 lao,2021,Middle income
 lao,2022,Middle income
 lao,2023,Middle income
+lao,2024,Middle income
 lbn,1987,Middle income
 lbn,1988,Middle income
 lbn,1989,Middle income
@@ -3625,6 +3760,7 @@ lbn,2020,Middle income
 lbn,2021,Middle income
 lbn,2022,Middle income
 lbn,2023,Middle income
+lbn,2024,Middle income
 lbr,1987,Low income
 lbr,1988,Low income
 lbr,1989,Low income
@@ -3662,6 +3798,7 @@ lbr,2020,Low income
 lbr,2021,Low income
 lbr,2022,Low income
 lbr,2023,Low income
+lbr,2024,Low income
 lby,1987,Middle income
 lby,1988,Middle income
 lby,1989,Middle income
@@ -3699,6 +3836,7 @@ lby,2020,Middle income
 lby,2021,Middle income
 lby,2022,Middle income
 lby,2023,Middle income
+lby,2024,Middle income
 lca,1987,Middle income
 lca,1988,Middle income
 lca,1989,Middle income
@@ -3736,6 +3874,7 @@ lca,2020,Middle income
 lca,2021,Middle income
 lca,2022,Middle income
 lca,2023,Middle income
+lca,2024,Middle income
 lie,1987,High income
 lie,1988,High income
 lie,1989,High income
@@ -3773,6 +3912,7 @@ lie,2020,High income
 lie,2021,High income
 lie,2022,High income
 lie,2023,High income
+lie,2024,High income
 lka,1987,Low income
 lka,1988,Low income
 lka,1989,Low income
@@ -3810,6 +3950,7 @@ lka,2020,Middle income
 lka,2021,Middle income
 lka,2022,Middle income
 lka,2023,Middle income
+lka,2024,Middle income
 lso,1987,Low income
 lso,1988,Low income
 lso,1989,Low income
@@ -3847,6 +3988,7 @@ lso,2020,Middle income
 lso,2021,Middle income
 lso,2022,Middle income
 lso,2023,Middle income
+lso,2024,Middle income
 ltu,1987,Middle income
 ltu,1988,Middle income
 ltu,1989,Middle income
@@ -3884,6 +4026,7 @@ ltu,2020,High income
 ltu,2021,High income
 ltu,2022,High income
 ltu,2023,High income
+ltu,2024,High income
 lux,1987,High income
 lux,1988,High income
 lux,1989,High income
@@ -3921,6 +4064,7 @@ lux,2020,High income
 lux,2021,High income
 lux,2022,High income
 lux,2023,High income
+lux,2024,High income
 lva,1987,Middle income
 lva,1988,Middle income
 lva,1989,Middle income
@@ -3958,6 +4102,7 @@ lva,2020,High income
 lva,2021,High income
 lva,2022,High income
 lva,2023,High income
+lva,2024,High income
 mar,1987,Middle income
 mar,1988,Middle income
 mar,1989,Middle income
@@ -3995,6 +4140,7 @@ mar,2020,Middle income
 mar,2021,Middle income
 mar,2022,Middle income
 mar,2023,Middle income
+mar,2024,Middle income
 mco,1987,High income
 mco,1988,High income
 mco,1989,High income
@@ -4032,6 +4178,7 @@ mco,2020,High income
 mco,2021,High income
 mco,2022,High income
 mco,2023,High income
+mco,2024,High income
 mda,1987,Middle income
 mda,1988,Middle income
 mda,1989,Middle income
@@ -4069,6 +4216,7 @@ mda,2020,Middle income
 mda,2021,Middle income
 mda,2022,Middle income
 mda,2023,Middle income
+mda,2024,Middle income
 mdg,1987,Low income
 mdg,1988,Low income
 mdg,1989,Low income
@@ -4106,6 +4254,7 @@ mdg,2020,Low income
 mdg,2021,Low income
 mdg,2022,Low income
 mdg,2023,Low income
+mdg,2024,Low income
 mdv,1987,Low income
 mdv,1988,Low income
 mdv,1989,Low income
@@ -4143,6 +4292,7 @@ mdv,2020,Middle income
 mdv,2021,Middle income
 mdv,2022,Middle income
 mdv,2023,Middle income
+mdv,2024,Middle income
 mex,1987,Middle income
 mex,1988,Middle income
 mex,1989,Middle income
@@ -4180,6 +4330,7 @@ mex,2020,Middle income
 mex,2021,Middle income
 mex,2022,Middle income
 mex,2023,Middle income
+mex,2024,Middle income
 mhl,1987,Middle income
 mhl,1988,Middle income
 mhl,1989,Middle income
@@ -4217,6 +4368,7 @@ mhl,2020,Middle income
 mhl,2021,Middle income
 mhl,2022,Middle income
 mhl,2023,Middle income
+mhl,2024,Middle income
 mkd,1987,Middle income
 mkd,1988,Middle income
 mkd,1989,Middle income
@@ -4254,6 +4406,7 @@ mkd,2020,Middle income
 mkd,2021,Middle income
 mkd,2022,Middle income
 mkd,2023,Middle income
+mkd,2024,Middle income
 mli,1987,Low income
 mli,1988,Low income
 mli,1989,Low income
@@ -4291,6 +4444,7 @@ mli,2020,Low income
 mli,2021,Low income
 mli,2022,Low income
 mli,2023,Low income
+mli,2024,Low income
 mlt,1987,Middle income
 mlt,1988,Middle income
 mlt,1989,High income
@@ -4328,6 +4482,7 @@ mlt,2020,High income
 mlt,2021,High income
 mlt,2022,High income
 mlt,2023,High income
+mlt,2024,High income
 mmr,1987,Low income
 mmr,1988,Low income
 mmr,1989,Low income
@@ -4365,6 +4520,7 @@ mmr,2020,Middle income
 mmr,2021,Middle income
 mmr,2022,Middle income
 mmr,2023,Middle income
+mmr,2024,Middle income
 mne,1987,Middle income
 mne,1988,Middle income
 mne,1989,Middle income
@@ -4402,6 +4558,7 @@ mne,2020,Middle income
 mne,2021,Middle income
 mne,2022,Middle income
 mne,2023,Middle income
+mne,2024,Middle income
 mng,1987,Middle income
 mng,1988,Middle income
 mng,1989,Middle income
@@ -4439,6 +4596,7 @@ mng,2020,Middle income
 mng,2021,Middle income
 mng,2022,Middle income
 mng,2023,Middle income
+mng,2024,Middle income
 moz,1987,Low income
 moz,1988,Low income
 moz,1989,Low income
@@ -4476,6 +4634,7 @@ moz,2020,Low income
 moz,2021,Low income
 moz,2022,Low income
 moz,2023,Low income
+moz,2024,Low income
 mrt,1987,Low income
 mrt,1988,Low income
 mrt,1989,Low income
@@ -4513,6 +4672,7 @@ mrt,2020,Middle income
 mrt,2021,Middle income
 mrt,2022,Middle income
 mrt,2023,Middle income
+mrt,2024,Middle income
 mus,1987,Middle income
 mus,1988,Middle income
 mus,1989,Middle income
@@ -4550,6 +4710,7 @@ mus,2020,Middle income
 mus,2021,Middle income
 mus,2022,Middle income
 mus,2023,Middle income
+mus,2024,Middle income
 mwi,1987,Low income
 mwi,1988,Low income
 mwi,1989,Low income
@@ -4587,6 +4748,7 @@ mwi,2020,Low income
 mwi,2021,Low income
 mwi,2022,Low income
 mwi,2023,Low income
+mwi,2024,Low income
 mys,1987,Middle income
 mys,1988,Middle income
 mys,1989,Middle income
@@ -4624,6 +4786,7 @@ mys,2020,Middle income
 mys,2021,Middle income
 mys,2022,Middle income
 mys,2023,Middle income
+mys,2024,Middle income
 nam,1987,Middle income
 nam,1988,Middle income
 nam,1989,Middle income
@@ -4661,6 +4824,7 @@ nam,2020,Middle income
 nam,2021,Middle income
 nam,2022,Middle income
 nam,2023,Middle income
+nam,2024,Middle income
 ner,1987,Low income
 ner,1988,Low income
 ner,1989,Low income
@@ -4698,6 +4862,7 @@ ner,2020,Low income
 ner,2021,Low income
 ner,2022,Low income
 ner,2023,Low income
+ner,2024,Low income
 nga,1987,Low income
 nga,1988,Low income
 nga,1989,Low income
@@ -4735,6 +4900,7 @@ nga,2020,Middle income
 nga,2021,Middle income
 nga,2022,Middle income
 nga,2023,Middle income
+nga,2024,Middle income
 nic,1987,Middle income
 nic,1988,Middle income
 nic,1989,Middle income
@@ -4772,6 +4938,7 @@ nic,2020,Middle income
 nic,2021,Middle income
 nic,2022,Middle income
 nic,2023,Middle income
+nic,2024,Middle income
 nld,1987,High income
 nld,1988,High income
 nld,1989,High income
@@ -4809,6 +4976,7 @@ nld,2020,High income
 nld,2021,High income
 nld,2022,High income
 nld,2023,High income
+nld,2024,High income
 nor,1987,High income
 nor,1988,High income
 nor,1989,High income
@@ -4846,6 +5014,7 @@ nor,2020,High income
 nor,2021,High income
 nor,2022,High income
 nor,2023,High income
+nor,2024,High income
 npl,1987,Low income
 npl,1988,Low income
 npl,1989,Low income
@@ -4883,6 +5052,7 @@ npl,2020,Middle income
 npl,2021,Middle income
 npl,2022,Middle income
 npl,2023,Middle income
+npl,2024,Middle income
 nru,1987,High income
 nru,1988,High income
 nru,1989,High income
@@ -4920,6 +5090,7 @@ nru,2020,High income
 nru,2021,High income
 nru,2022,High income
 nru,2023,High income
+nru,2024,High income
 nzl,1987,High income
 nzl,1988,High income
 nzl,1989,High income
@@ -4957,6 +5128,7 @@ nzl,2020,High income
 nzl,2021,High income
 nzl,2022,High income
 nzl,2023,High income
+nzl,2024,High income
 omn,1987,Middle income
 omn,1988,Middle income
 omn,1989,Middle income
@@ -4994,6 +5166,7 @@ omn,2020,High income
 omn,2021,High income
 omn,2022,High income
 omn,2023,High income
+omn,2024,High income
 pak,1987,Low income
 pak,1988,Low income
 pak,1989,Low income
@@ -5031,6 +5204,7 @@ pak,2020,Middle income
 pak,2021,Middle income
 pak,2022,Middle income
 pak,2023,Middle income
+pak,2024,Middle income
 pan,1987,Middle income
 pan,1988,Middle income
 pan,1989,Middle income
@@ -5068,6 +5242,7 @@ pan,2020,Middle income
 pan,2021,High income
 pan,2022,High income
 pan,2023,High income
+pan,2024,High income
 per,1987,Middle income
 per,1988,Middle income
 per,1989,Middle income
@@ -5105,6 +5280,7 @@ per,2020,Middle income
 per,2021,Middle income
 per,2022,Middle income
 per,2023,Middle income
+per,2024,Middle income
 phl,1987,Middle income
 phl,1988,Middle income
 phl,1989,Middle income
@@ -5142,6 +5318,7 @@ phl,2020,Middle income
 phl,2021,Middle income
 phl,2022,Middle income
 phl,2023,Middle income
+phl,2024,Middle income
 plw,1987,Middle income
 plw,1988,Middle income
 plw,1989,Middle income
@@ -5178,7 +5355,8 @@ plw,2019,High income
 plw,2020,High income
 plw,2021,Middle income
 plw,2022,Middle income
-plw,2023,Middle income
+plw,2023,High income
+plw,2024,High income
 png,1987,Middle income
 png,1988,Middle income
 png,1989,Middle income
@@ -5216,6 +5394,7 @@ png,2020,Middle income
 png,2021,Middle income
 png,2022,Middle income
 png,2023,Middle income
+png,2024,Middle income
 pol,1987,Middle income
 pol,1988,Middle income
 pol,1989,Middle income
@@ -5253,6 +5432,7 @@ pol,2020,High income
 pol,2021,High income
 pol,2022,High income
 pol,2023,High income
+pol,2024,High income
 prk,1987,Middle income
 prk,1988,Middle income
 prk,1989,Middle income
@@ -5290,6 +5470,7 @@ prk,2020,Low income
 prk,2021,Low income
 prk,2022,Low income
 prk,2023,Low income
+prk,2024,Low income
 prt,1987,Middle income
 prt,1988,Middle income
 prt,1989,Middle income
@@ -5327,6 +5508,7 @@ prt,2020,High income
 prt,2021,High income
 prt,2022,High income
 prt,2023,High income
+prt,2024,High income
 pry,1987,Middle income
 pry,1988,Middle income
 pry,1989,Middle income
@@ -5364,6 +5546,7 @@ pry,2020,Middle income
 pry,2021,Middle income
 pry,2022,Middle income
 pry,2023,Middle income
+pry,2024,Middle income
 pse,1987,Middle income
 pse,1988,Middle income
 pse,1989,Middle income
@@ -5401,6 +5584,7 @@ pse,2020,Middle income
 pse,2021,Middle income
 pse,2022,Middle income
 pse,2023,Middle income
+pse,2024,Middle income
 qat,1987,High income
 qat,1988,High income
 qat,1989,High income
@@ -5438,6 +5622,7 @@ qat,2020,High income
 qat,2021,High income
 qat,2022,High income
 qat,2023,High income
+qat,2024,High income
 rou,1987,Middle income
 rou,1988,Middle income
 rou,1989,Middle income
@@ -5475,6 +5660,7 @@ rou,2020,Middle income
 rou,2021,High income
 rou,2022,High income
 rou,2023,High income
+rou,2024,High income
 rus,1987,Middle income
 rus,1988,Middle income
 rus,1989,Middle income
@@ -5511,7 +5697,8 @@ rus,2019,Middle income
 rus,2020,Middle income
 rus,2021,Middle income
 rus,2022,Middle income
-rus,2023,Middle income
+rus,2023,High income
+rus,2024,High income
 rwa,1987,Low income
 rwa,1988,Low income
 rwa,1989,Low income
@@ -5549,6 +5736,7 @@ rwa,2020,Low income
 rwa,2021,Low income
 rwa,2022,Low income
 rwa,2023,Low income
+rwa,2024,Low income
 sau,1987,High income
 sau,1988,High income
 sau,1989,High income
@@ -5586,6 +5774,7 @@ sau,2020,High income
 sau,2021,High income
 sau,2022,High income
 sau,2023,High income
+sau,2024,High income
 sdn,1987,Low income
 sdn,1988,Low income
 sdn,1989,Low income
@@ -5623,6 +5812,7 @@ sdn,2020,Low income
 sdn,2021,Low income
 sdn,2022,Low income
 sdn,2023,Low income
+sdn,2024,Low income
 sen,1987,Middle income
 sen,1988,Middle income
 sen,1989,Middle income
@@ -5660,6 +5850,7 @@ sen,2020,Middle income
 sen,2021,Middle income
 sen,2022,Middle income
 sen,2023,Middle income
+sen,2024,Middle income
 sgp,1987,High income
 sgp,1988,High income
 sgp,1989,High income
@@ -5697,6 +5888,7 @@ sgp,2020,High income
 sgp,2021,High income
 sgp,2022,High income
 sgp,2023,High income
+sgp,2024,High income
 slb,1987,Low income
 slb,1988,Middle income
 slb,1989,Low income
@@ -5734,6 +5926,7 @@ slb,2020,Middle income
 slb,2021,Middle income
 slb,2022,Middle income
 slb,2023,Middle income
+slb,2024,Middle income
 sle,1987,Low income
 sle,1988,Low income
 sle,1989,Low income
@@ -5771,6 +5964,7 @@ sle,2020,Low income
 sle,2021,Low income
 sle,2022,Low income
 sle,2023,Low income
+sle,2024,Low income
 slv,1987,Middle income
 slv,1988,Middle income
 slv,1989,Middle income
@@ -5808,6 +6002,7 @@ slv,2020,Middle income
 slv,2021,Middle income
 slv,2022,Middle income
 slv,2023,Middle income
+slv,2024,Middle income
 smr,1987,High income
 smr,1988,High income
 smr,1989,High income
@@ -5845,6 +6040,7 @@ smr,2020,High income
 smr,2021,High income
 smr,2022,High income
 smr,2023,High income
+smr,2024,High income
 som,1987,Low income
 som,1988,Low income
 som,1989,Low income
@@ -5882,6 +6078,7 @@ som,2020,Low income
 som,2021,Low income
 som,2022,Low income
 som,2023,Low income
+som,2024,Low income
 srb,1987,Middle income
 srb,1988,Middle income
 srb,1989,Middle income
@@ -5919,6 +6116,7 @@ srb,2020,Middle income
 srb,2021,Middle income
 srb,2022,Middle income
 srb,2023,Middle income
+srb,2024,Middle income
 ssd,1987,Middle income
 ssd,1988,Middle income
 ssd,1989,Middle income
@@ -5956,6 +6154,7 @@ ssd,2020,Low income
 ssd,2021,Low income
 ssd,2022,Low income
 ssd,2023,Low income
+ssd,2024,Low income
 stp,1987,Low income
 stp,1988,Low income
 stp,1989,Low income
@@ -5993,6 +6192,7 @@ stp,2020,Middle income
 stp,2021,Middle income
 stp,2022,Middle income
 stp,2023,Middle income
+stp,2024,Middle income
 sur,1987,Middle income
 sur,1988,Middle income
 sur,1989,Middle income
@@ -6030,6 +6230,7 @@ sur,2020,Middle income
 sur,2021,Middle income
 sur,2022,Middle income
 sur,2023,Middle income
+sur,2024,Middle income
 svk,1987,Middle income
 svk,1988,Middle income
 svk,1989,Middle income
@@ -6067,6 +6268,7 @@ svk,2020,High income
 svk,2021,High income
 svk,2022,High income
 svk,2023,High income
+svk,2024,High income
 svn,1987,Middle income
 svn,1988,Middle income
 svn,1989,Middle income
@@ -6104,6 +6306,7 @@ svn,2020,High income
 svn,2021,High income
 svn,2022,High income
 svn,2023,High income
+svn,2024,High income
 swe,1987,High income
 swe,1988,High income
 swe,1989,High income
@@ -6141,6 +6344,7 @@ swe,2020,High income
 swe,2021,High income
 swe,2022,High income
 swe,2023,High income
+swe,2024,High income
 swz,1987,Middle income
 swz,1988,Middle income
 swz,1989,Middle income
@@ -6178,6 +6382,7 @@ swz,2020,Middle income
 swz,2021,Middle income
 swz,2022,Middle income
 swz,2023,Middle income
+swz,2024,Middle income
 syc,1987,Middle income
 syc,1988,Middle income
 syc,1989,Middle income
@@ -6215,6 +6420,7 @@ syc,2020,High income
 syc,2021,High income
 syc,2022,High income
 syc,2023,High income
+syc,2024,High income
 syr,1987,Middle income
 syr,1988,Middle income
 syr,1989,Middle income
@@ -6252,6 +6458,7 @@ syr,2020,Low income
 syr,2021,Low income
 syr,2022,Low income
 syr,2023,Low income
+syr,2024,Low income
 tcd,1987,Low income
 tcd,1988,Low income
 tcd,1989,Low income
@@ -6289,6 +6496,7 @@ tcd,2020,Low income
 tcd,2021,Low income
 tcd,2022,Low income
 tcd,2023,Low income
+tcd,2024,Low income
 tgo,1987,Low income
 tgo,1988,Low income
 tgo,1989,Low income
@@ -6326,6 +6534,7 @@ tgo,2020,Low income
 tgo,2021,Low income
 tgo,2022,Low income
 tgo,2023,Low income
+tgo,2024,Low income
 tha,1987,Middle income
 tha,1988,Middle income
 tha,1989,Middle income
@@ -6363,6 +6572,7 @@ tha,2020,Middle income
 tha,2021,Middle income
 tha,2022,Middle income
 tha,2023,Middle income
+tha,2024,Middle income
 tjk,1987,Middle income
 tjk,1988,Middle income
 tjk,1989,Middle income
@@ -6400,6 +6610,7 @@ tjk,2020,Middle income
 tjk,2021,Middle income
 tjk,2022,Middle income
 tjk,2023,Middle income
+tjk,2024,Middle income
 tkm,1987,Middle income
 tkm,1988,Middle income
 tkm,1989,Middle income
@@ -6437,6 +6648,7 @@ tkm,2020,Middle income
 tkm,2021,Middle income
 tkm,2022,Middle income
 tkm,2023,Middle income
+tkm,2024,Middle income
 tls,1987,Low income
 tls,1988,Low income
 tls,1989,Low income
@@ -6474,6 +6686,7 @@ tls,2020,Middle income
 tls,2021,Middle income
 tls,2022,Middle income
 tls,2023,Middle income
+tls,2024,Middle income
 ton,1987,Middle income
 ton,1988,Middle income
 ton,1989,Middle income
@@ -6511,6 +6724,7 @@ ton,2020,Middle income
 ton,2021,Middle income
 ton,2022,Middle income
 ton,2023,Middle income
+ton,2024,Middle income
 tto,1987,Middle income
 tto,1988,Middle income
 tto,1989,Middle income
@@ -6548,6 +6762,7 @@ tto,2020,High income
 tto,2021,High income
 tto,2022,High income
 tto,2023,High income
+tto,2024,High income
 tun,1987,Middle income
 tun,1988,Middle income
 tun,1989,Middle income
@@ -6585,6 +6800,7 @@ tun,2020,Middle income
 tun,2021,Middle income
 tun,2022,Middle income
 tun,2023,Middle income
+tun,2024,Middle income
 tur,1987,Middle income
 tur,1988,Middle income
 tur,1989,Middle income
@@ -6622,6 +6838,7 @@ tur,2020,Middle income
 tur,2021,Middle income
 tur,2022,Middle income
 tur,2023,Middle income
+tur,2024,Middle income
 tuv,1987,Middle income
 tuv,1988,Middle income
 tuv,1989,Middle income
@@ -6659,6 +6876,7 @@ tuv,2020,Middle income
 tuv,2021,Middle income
 tuv,2022,Middle income
 tuv,2023,Middle income
+tuv,2024,Middle income
 twn,1987,High income
 twn,1988,High income
 twn,1989,High income
@@ -6696,6 +6914,7 @@ twn,2020,High income
 twn,2021,High income
 twn,2022,High income
 twn,2023,High income
+twn,2024,High income
 tza,1987,Low income
 tza,1988,Low income
 tza,1989,Low income
@@ -6733,6 +6952,7 @@ tza,2020,Middle income
 tza,2021,Middle income
 tza,2022,Middle income
 tza,2023,Middle income
+tza,2024,Middle income
 uga,1987,Low income
 uga,1988,Low income
 uga,1989,Low income
@@ -6770,6 +6990,7 @@ uga,2020,Low income
 uga,2021,Low income
 uga,2022,Low income
 uga,2023,Low income
+uga,2024,Low income
 ukr,1987,Middle income
 ukr,1988,Middle income
 ukr,1989,Middle income
@@ -6807,6 +7028,7 @@ ukr,2020,Middle income
 ukr,2021,Middle income
 ukr,2022,Middle income
 ukr,2023,Middle income
+ukr,2024,Middle income
 ury,1987,Middle income
 ury,1988,Middle income
 ury,1989,Middle income
@@ -6844,6 +7066,7 @@ ury,2020,High income
 ury,2021,High income
 ury,2022,High income
 ury,2023,High income
+ury,2024,High income
 usa,1987,High income
 usa,1988,High income
 usa,1989,High income
@@ -6881,6 +7104,7 @@ usa,2020,High income
 usa,2021,High income
 usa,2022,High income
 usa,2023,High income
+usa,2024,High income
 uzb,1987,Middle income
 uzb,1988,Middle income
 uzb,1989,Middle income
@@ -6918,6 +7142,7 @@ uzb,2020,Middle income
 uzb,2021,Middle income
 uzb,2022,Middle income
 uzb,2023,Middle income
+uzb,2024,Middle income
 vct,1987,Middle income
 vct,1988,Middle income
 vct,1989,Middle income
@@ -6955,6 +7180,7 @@ vct,2020,Middle income
 vct,2021,Middle income
 vct,2022,Middle income
 vct,2023,Middle income
+vct,2024,Middle income
 ven,1987,Middle income
 ven,1988,Middle income
 ven,1989,Middle income
@@ -6992,6 +7218,7 @@ ven,2020,Middle income
 ven,2021,Middle income
 ven,2022,Middle income
 ven,2023,Middle income
+ven,2024,Middle income
 vnm,1987,Low income
 vnm,1988,Low income
 vnm,1989,Low income
@@ -7029,6 +7256,7 @@ vnm,2020,Middle income
 vnm,2021,Middle income
 vnm,2022,Middle income
 vnm,2023,Middle income
+vnm,2024,Middle income
 vut,1987,Middle income
 vut,1988,Middle income
 vut,1989,Middle income
@@ -7066,6 +7294,7 @@ vut,2020,Middle income
 vut,2021,Middle income
 vut,2022,Middle income
 vut,2023,Middle income
+vut,2024,Middle income
 wsm,1987,Middle income
 wsm,1988,Middle income
 wsm,1989,Middle income
@@ -7103,6 +7332,7 @@ wsm,2020,Middle income
 wsm,2021,Middle income
 wsm,2022,Middle income
 wsm,2023,Middle income
+wsm,2024,Middle income
 yem,1987,Middle income
 yem,1988,Middle income
 yem,1989,Middle income
@@ -7140,6 +7370,7 @@ yem,2020,Low income
 yem,2021,Low income
 yem,2022,Low income
 yem,2023,Low income
+yem,2024,Low income
 zaf,1987,Middle income
 zaf,1988,Middle income
 zaf,1989,Middle income
@@ -7177,6 +7408,7 @@ zaf,2020,Middle income
 zaf,2021,Middle income
 zaf,2022,Middle income
 zaf,2023,Middle income
+zaf,2024,Middle income
 zmb,1987,Low income
 zmb,1988,Low income
 zmb,1989,Low income
@@ -7214,6 +7446,7 @@ zmb,2020,Middle income
 zmb,2021,Low income
 zmb,2022,Middle income
 zmb,2023,Middle income
+zmb,2024,Middle income
 zwe,1987,Middle income
 zwe,1988,Middle income
 zwe,1989,Middle income
@@ -7251,3 +7484,4 @@ zwe,2020,Middle income
 zwe,2021,Middle income
 zwe,2022,Middle income
 zwe,2023,Middle income
+zwe,2024,Middle income
