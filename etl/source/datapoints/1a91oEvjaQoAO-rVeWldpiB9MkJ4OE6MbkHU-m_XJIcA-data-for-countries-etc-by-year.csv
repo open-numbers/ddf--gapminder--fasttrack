@@ -293,13 +293,13 @@
 291,afg,Afghanistan,2091,Level 2
 292,afg,Afghanistan,2092,Level 2
 293,afg,Afghanistan,2093,Level 2
-294,afg,Afghanistan,2094,Level 3
-295,afg,Afghanistan,2095,Level 3
-296,afg,Afghanistan,2096,Level 3
-297,afg,Afghanistan,2097,Level 3
-298,afg,Afghanistan,2098,Level 3
-299,afg,Afghanistan,2099,Level 3
-300,afg,Afghanistan,2100,Level 3
+294,afg,Afghanistan,2094,Level 2
+295,afg,Afghanistan,2095,Level 2
+296,afg,Afghanistan,2096,Level 2
+297,afg,Afghanistan,2097,Level 2
+298,afg,Afghanistan,2098,Level 2
+299,afg,Afghanistan,2099,Level 2
+300,afg,Afghanistan,2100,Level 2
 301,alb,Albania,1800,Level 1
 302,alb,Albania,1801,Level 1
 303,alb,Albania,1802,Level 1
@@ -507,14 +507,14 @@
 505,alb,Albania,2004,Level 2
 506,alb,Albania,2005,Level 2
 507,alb,Albania,2006,Level 2
-508,alb,Albania,2007,Level 3
-509,alb,Albania,2008,Level 3
-510,alb,Albania,2009,Level 3
-511,alb,Albania,2010,Level 3
-512,alb,Albania,2011,Level 3
-513,alb,Albania,2012,Level 3
-514,alb,Albania,2013,Level 3
-515,alb,Albania,2014,Level 3
+508,alb,Albania,2007,Level 2
+509,alb,Albania,2008,Level 2
+510,alb,Albania,2009,Level 2
+511,alb,Albania,2010,Level 2
+512,alb,Albania,2011,Level 2
+513,alb,Albania,2012,Level 2
+514,alb,Albania,2013,Level 2
+515,alb,Albania,2014,Level 2
 516,alb,Albania,2015,Level 3
 517,alb,Albania,2016,Level 3
 518,alb,Albania,2017,Level 3
@@ -798,13 +798,13 @@
 796,dza,Algeria,1994,Level 2
 797,dza,Algeria,1995,Level 2
 798,dza,Algeria,1996,Level 2
-799,dza,Algeria,1997,Level 3
-800,dza,Algeria,1998,Level 3
-801,dza,Algeria,1999,Level 3
-802,dza,Algeria,2000,Level 3
-803,dza,Algeria,2001,Level 3
-804,dza,Algeria,2002,Level 3
-805,dza,Algeria,2003,Level 3
+799,dza,Algeria,1997,Level 2
+800,dza,Algeria,1998,Level 2
+801,dza,Algeria,1999,Level 2
+802,dza,Algeria,2000,Level 2
+803,dza,Algeria,2001,Level 2
+804,dza,Algeria,2002,Level 2
+805,dza,Algeria,2003,Level 2
 806,dza,Algeria,2004,Level 3
 807,dza,Algeria,2005,Level 3
 808,dza,Algeria,2006,Level 3
@@ -1053,9 +1053,9 @@
 1051,and,Andorra,1948,Level 2
 1052,and,Andorra,1949,Level 2
 1053,and,Andorra,1950,Level 2
-1054,and,Andorra,1951,Level 3
-1055,and,Andorra,1952,Level 3
-1056,and,Andorra,1953,Level 3
+1054,and,Andorra,1951,Level 2
+1055,and,Andorra,1952,Level 2
+1056,and,Andorra,1953,Level 2
 1057,and,Andorra,1954,Level 3
 1058,and,Andorra,1955,Level 3
 1059,and,Andorra,1956,Level 3
@@ -1415,9 +1415,9 @@
 1413,ago,Angola,2009,Level 2
 1414,ago,Angola,2010,Level 2
 1415,ago,Angola,2011,Level 2
-1416,ago,Angola,2012,Level 3
-1417,ago,Angola,2013,Level 3
-1418,ago,Angola,2014,Level 3
+1416,ago,Angola,2012,Level 2
+1417,ago,Angola,2013,Level 2
+1418,ago,Angola,2014,Level 2
 1419,ago,Angola,2015,Level 2
 1420,ago,Angola,2016,Level 2
 1421,ago,Angola,2017,Level 2
@@ -1442,17 +1442,17 @@
 1440,ago,Angola,2036,Level 2
 1441,ago,Angola,2037,Level 2
 1442,ago,Angola,2038,Level 2
-1443,ago,Angola,2039,Level 3
-1444,ago,Angola,2040,Level 3
-1445,ago,Angola,2041,Level 3
-1446,ago,Angola,2042,Level 3
-1447,ago,Angola,2043,Level 3
-1448,ago,Angola,2044,Level 3
-1449,ago,Angola,2045,Level 3
-1450,ago,Angola,2046,Level 3
-1451,ago,Angola,2047,Level 3
-1452,ago,Angola,2048,Level 3
-1453,ago,Angola,2049,Level 3
+1443,ago,Angola,2039,Level 2
+1444,ago,Angola,2040,Level 2
+1445,ago,Angola,2041,Level 2
+1446,ago,Angola,2042,Level 2
+1447,ago,Angola,2043,Level 2
+1448,ago,Angola,2044,Level 2
+1449,ago,Angola,2045,Level 2
+1450,ago,Angola,2046,Level 2
+1451,ago,Angola,2047,Level 2
+1452,ago,Angola,2048,Level 2
+1453,ago,Angola,2049,Level 2
 1454,ago,Angola,2050,Level 3
 1455,ago,Angola,2051,Level 3
 1456,ago,Angola,2052,Level 3
@@ -1687,8 +1687,8 @@
 1685,atg,Antigua and Barbuda,1980,Level 2
 1686,atg,Antigua and Barbuda,1981,Level 2
 1687,atg,Antigua and Barbuda,1982,Level 2
-1688,atg,Antigua and Barbuda,1983,Level 3
-1689,atg,Antigua and Barbuda,1984,Level 3
+1688,atg,Antigua and Barbuda,1983,Level 2
+1689,atg,Antigua and Barbuda,1984,Level 2
 1690,atg,Antigua and Barbuda,1985,Level 3
 1691,atg,Antigua and Barbuda,1986,Level 3
 1692,atg,Antigua and Barbuda,1987,Level 3
@@ -1952,27 +1952,27 @@
 1950,arg,Argentina,1944,Level 2
 1951,arg,Argentina,1945,Level 2
 1952,arg,Argentina,1946,Level 2
-1953,arg,Argentina,1947,Level 3
-1954,arg,Argentina,1948,Level 3
-1955,arg,Argentina,1949,Level 3
-1956,arg,Argentina,1950,Level 3
-1957,arg,Argentina,1951,Level 3
+1953,arg,Argentina,1947,Level 2
+1954,arg,Argentina,1948,Level 2
+1955,arg,Argentina,1949,Level 2
+1956,arg,Argentina,1950,Level 2
+1957,arg,Argentina,1951,Level 2
 1958,arg,Argentina,1952,Level 2
-1959,arg,Argentina,1953,Level 3
-1960,arg,Argentina,1954,Level 3
-1961,arg,Argentina,1955,Level 3
-1962,arg,Argentina,1956,Level 3
-1963,arg,Argentina,1957,Level 3
-1964,arg,Argentina,1958,Level 3
-1965,arg,Argentina,1959,Level 3
-1966,arg,Argentina,1960,Level 3
-1967,arg,Argentina,1961,Level 3
-1968,arg,Argentina,1962,Level 3
-1969,arg,Argentina,1963,Level 3
-1970,arg,Argentina,1964,Level 3
-1971,arg,Argentina,1965,Level 3
-1972,arg,Argentina,1966,Level 3
-1973,arg,Argentina,1967,Level 3
+1959,arg,Argentina,1953,Level 2
+1960,arg,Argentina,1954,Level 2
+1961,arg,Argentina,1955,Level 2
+1962,arg,Argentina,1956,Level 2
+1963,arg,Argentina,1957,Level 2
+1964,arg,Argentina,1958,Level 2
+1965,arg,Argentina,1959,Level 2
+1966,arg,Argentina,1960,Level 2
+1967,arg,Argentina,1961,Level 2
+1968,arg,Argentina,1962,Level 2
+1969,arg,Argentina,1963,Level 2
+1970,arg,Argentina,1964,Level 2
+1971,arg,Argentina,1965,Level 2
+1972,arg,Argentina,1966,Level 2
+1973,arg,Argentina,1967,Level 2
 1974,arg,Argentina,1968,Level 3
 1975,arg,Argentina,1969,Level 3
 1976,arg,Argentina,1970,Level 3
@@ -2313,14 +2313,14 @@
 2311,arm,Armenia,2004,Level 2
 2312,arm,Armenia,2005,Level 2
 2313,arm,Armenia,2006,Level 2
-2314,arm,Armenia,2007,Level 3
-2315,arm,Armenia,2008,Level 3
-2316,arm,Armenia,2009,Level 3
-2317,arm,Armenia,2010,Level 3
-2318,arm,Armenia,2011,Level 3
-2319,arm,Armenia,2012,Level 3
-2320,arm,Armenia,2013,Level 3
-2321,arm,Armenia,2014,Level 3
+2314,arm,Armenia,2007,Level 2
+2315,arm,Armenia,2008,Level 2
+2316,arm,Armenia,2009,Level 2
+2317,arm,Armenia,2010,Level 2
+2318,arm,Armenia,2011,Level 2
+2319,arm,Armenia,2012,Level 2
+2320,arm,Armenia,2013,Level 2
+2321,arm,Armenia,2014,Level 2
 2322,arm,Armenia,2015,Level 3
 2323,arm,Armenia,2016,Level 3
 2324,arm,Armenia,2017,Level 3
@@ -2496,7 +2496,7 @@
 2494,aus,Australia,1886,Level 2
 2495,aus,Australia,1887,Level 2
 2496,aus,Australia,1888,Level 2
-2497,aus,Australia,1889,Level 3
+2497,aus,Australia,1889,Level 2
 2498,aus,Australia,1890,Level 2
 2499,aus,Australia,1891,Level 2
 2500,aus,Australia,1892,Level 2
@@ -2516,37 +2516,37 @@
 2514,aus,Australia,1906,Level 2
 2515,aus,Australia,1907,Level 2
 2516,aus,Australia,1908,Level 2
-2517,aus,Australia,1909,Level 3
-2518,aus,Australia,1910,Level 3
-2519,aus,Australia,1911,Level 3
-2520,aus,Australia,1912,Level 3
-2521,aus,Australia,1913,Level 3
-2522,aus,Australia,1914,Level 3
-2523,aus,Australia,1915,Level 3
-2524,aus,Australia,1916,Level 3
-2525,aus,Australia,1917,Level 3
+2517,aus,Australia,1909,Level 2
+2518,aus,Australia,1910,Level 2
+2519,aus,Australia,1911,Level 2
+2520,aus,Australia,1912,Level 2
+2521,aus,Australia,1913,Level 2
+2522,aus,Australia,1914,Level 2
+2523,aus,Australia,1915,Level 2
+2524,aus,Australia,1916,Level 2
+2525,aus,Australia,1917,Level 2
 2526,aus,Australia,1918,Level 2
-2527,aus,Australia,1919,Level 3
-2528,aus,Australia,1920,Level 3
-2529,aus,Australia,1921,Level 3
-2530,aus,Australia,1922,Level 3
-2531,aus,Australia,1923,Level 3
-2532,aus,Australia,1924,Level 3
-2533,aus,Australia,1925,Level 3
-2534,aus,Australia,1926,Level 3
-2535,aus,Australia,1927,Level 3
-2536,aus,Australia,1928,Level 3
-2537,aus,Australia,1929,Level 3
-2538,aus,Australia,1930,Level 3
+2527,aus,Australia,1919,Level 2
+2528,aus,Australia,1920,Level 2
+2529,aus,Australia,1921,Level 2
+2530,aus,Australia,1922,Level 2
+2531,aus,Australia,1923,Level 2
+2532,aus,Australia,1924,Level 2
+2533,aus,Australia,1925,Level 2
+2534,aus,Australia,1926,Level 2
+2535,aus,Australia,1927,Level 2
+2536,aus,Australia,1928,Level 2
+2537,aus,Australia,1929,Level 2
+2538,aus,Australia,1930,Level 2
 2539,aus,Australia,1931,Level 2
 2540,aus,Australia,1932,Level 2
-2541,aus,Australia,1933,Level 3
-2542,aus,Australia,1934,Level 3
-2543,aus,Australia,1935,Level 3
-2544,aus,Australia,1936,Level 3
-2545,aus,Australia,1937,Level 3
-2546,aus,Australia,1938,Level 3
-2547,aus,Australia,1939,Level 3
+2541,aus,Australia,1933,Level 2
+2542,aus,Australia,1934,Level 2
+2543,aus,Australia,1935,Level 2
+2544,aus,Australia,1936,Level 2
+2545,aus,Australia,1937,Level 2
+2546,aus,Australia,1938,Level 2
+2547,aus,Australia,1939,Level 2
 2548,aus,Australia,1940,Level 3
 2549,aus,Australia,1941,Level 3
 2550,aus,Australia,1942,Level 3
@@ -2863,11 +2863,11 @@
 2861,aut,Austria,1952,Level 2
 2862,aut,Austria,1953,Level 2
 2863,aut,Austria,1954,Level 2
-2864,aut,Austria,1955,Level 3
-2865,aut,Austria,1956,Level 3
-2866,aut,Austria,1957,Level 3
-2867,aut,Austria,1958,Level 3
-2868,aut,Austria,1959,Level 3
+2864,aut,Austria,1955,Level 2
+2865,aut,Austria,1956,Level 2
+2866,aut,Austria,1957,Level 2
+2867,aut,Austria,1958,Level 2
+2868,aut,Austria,1959,Level 2
 2869,aut,Austria,1960,Level 3
 2870,aut,Austria,1961,Level 3
 2871,aut,Austria,1962,Level 3
@@ -3188,19 +3188,19 @@
 3186,aze,Azerbaijan,1976,Level 2
 3187,aze,Azerbaijan,1977,Level 2
 3188,aze,Azerbaijan,1978,Level 2
-3189,aze,Azerbaijan,1979,Level 3
-3190,aze,Azerbaijan,1980,Level 3
-3191,aze,Azerbaijan,1981,Level 3
-3192,aze,Azerbaijan,1982,Level 3
-3193,aze,Azerbaijan,1983,Level 3
-3194,aze,Azerbaijan,1984,Level 3
-3195,aze,Azerbaijan,1985,Level 3
-3196,aze,Azerbaijan,1986,Level 3
-3197,aze,Azerbaijan,1987,Level 3
+3189,aze,Azerbaijan,1979,Level 2
+3190,aze,Azerbaijan,1980,Level 2
+3191,aze,Azerbaijan,1981,Level 2
+3192,aze,Azerbaijan,1982,Level 2
+3193,aze,Azerbaijan,1983,Level 2
+3194,aze,Azerbaijan,1984,Level 2
+3195,aze,Azerbaijan,1985,Level 2
+3196,aze,Azerbaijan,1986,Level 2
+3197,aze,Azerbaijan,1987,Level 2
 3198,aze,Azerbaijan,1988,Level 3
-3199,aze,Azerbaijan,1989,Level 3
-3200,aze,Azerbaijan,1990,Level 3
-3201,aze,Azerbaijan,1991,Level 3
+3199,aze,Azerbaijan,1989,Level 2
+3200,aze,Azerbaijan,1990,Level 2
+3201,aze,Azerbaijan,1991,Level 2
 3202,aze,Azerbaijan,1992,Level 2
 3203,aze,Azerbaijan,1993,Level 2
 3204,aze,Azerbaijan,1994,Level 2
@@ -3214,7 +3214,7 @@
 3212,aze,Azerbaijan,2002,Level 2
 3213,aze,Azerbaijan,2003,Level 2
 3214,aze,Azerbaijan,2004,Level 2
-3215,aze,Azerbaijan,2005,Level 3
+3215,aze,Azerbaijan,2005,Level 2
 3216,aze,Azerbaijan,2006,Level 3
 3217,aze,Azerbaijan,2007,Level 3
 3218,aze,Azerbaijan,2008,Level 3
@@ -3452,13 +3452,13 @@
 3450,bhs,Bahamas,1939,Level 2
 3451,bhs,Bahamas,1940,Level 2
 3452,bhs,Bahamas,1941,Level 2
-3453,bhs,Bahamas,1942,Level 3
-3454,bhs,Bahamas,1943,Level 3
-3455,bhs,Bahamas,1944,Level 3
-3456,bhs,Bahamas,1945,Level 3
-3457,bhs,Bahamas,1946,Level 3
-3458,bhs,Bahamas,1947,Level 3
-3459,bhs,Bahamas,1948,Level 3
+3453,bhs,Bahamas,1942,Level 2
+3454,bhs,Bahamas,1943,Level 2
+3455,bhs,Bahamas,1944,Level 2
+3456,bhs,Bahamas,1945,Level 2
+3457,bhs,Bahamas,1946,Level 2
+3458,bhs,Bahamas,1947,Level 2
+3459,bhs,Bahamas,1948,Level 2
 3460,bhs,Bahamas,1949,Level 3
 3461,bhs,Bahamas,1950,Level 3
 3462,bhs,Bahamas,1951,Level 3
@@ -3777,11 +3777,11 @@
 3775,bhr,Bahrain,1963,Level 2
 3776,bhr,Bahrain,1964,Level 2
 3777,bhr,Bahrain,1965,Level 2
-3778,bhr,Bahrain,1966,Level 3
-3779,bhr,Bahrain,1967,Level 3
-3780,bhr,Bahrain,1968,Level 3
-3781,bhr,Bahrain,1969,Level 3
-3782,bhr,Bahrain,1970,Level 3
+3778,bhr,Bahrain,1966,Level 2
+3779,bhr,Bahrain,1967,Level 2
+3780,bhr,Bahrain,1968,Level 2
+3781,bhr,Bahrain,1969,Level 2
+3782,bhr,Bahrain,1970,Level 2
 3783,bhr,Bahrain,1971,Level 3
 3784,bhr,Bahrain,1972,Level 3
 3785,bhr,Bahrain,1973,Level 3
@@ -4139,14 +4139,14 @@
 4137,bgd,Bangladesh,2024,Level 2
 4138,bgd,Bangladesh,2025,Level 2
 4139,bgd,Bangladesh,2026,Level 2
-4140,bgd,Bangladesh,2027,Level 3
-4141,bgd,Bangladesh,2028,Level 3
-4142,bgd,Bangladesh,2029,Level 3
-4143,bgd,Bangladesh,2030,Level 3
-4144,bgd,Bangladesh,2031,Level 3
-4145,bgd,Bangladesh,2032,Level 3
-4146,bgd,Bangladesh,2033,Level 3
-4147,bgd,Bangladesh,2034,Level 3
+4140,bgd,Bangladesh,2027,Level 2
+4141,bgd,Bangladesh,2028,Level 2
+4142,bgd,Bangladesh,2029,Level 2
+4143,bgd,Bangladesh,2030,Level 2
+4144,bgd,Bangladesh,2031,Level 2
+4145,bgd,Bangladesh,2032,Level 2
+4146,bgd,Bangladesh,2033,Level 2
+4147,bgd,Bangladesh,2034,Level 2
 4148,bgd,Bangladesh,2035,Level 3
 4149,bgd,Bangladesh,2036,Level 3
 4150,bgd,Bangladesh,2037,Level 3
@@ -4382,20 +4382,20 @@
 4380,brb,Barbados,1966,Level 2
 4381,brb,Barbados,1967,Level 2
 4382,brb,Barbados,1968,Level 2
-4383,brb,Barbados,1969,Level 3
-4384,brb,Barbados,1970,Level 3
-4385,brb,Barbados,1971,Level 3
-4386,brb,Barbados,1972,Level 3
-4387,brb,Barbados,1973,Level 3
-4388,brb,Barbados,1974,Level 3
-4389,brb,Barbados,1975,Level 3
-4390,brb,Barbados,1976,Level 3
-4391,brb,Barbados,1977,Level 3
-4392,brb,Barbados,1978,Level 3
-4393,brb,Barbados,1979,Level 3
-4394,brb,Barbados,1980,Level 3
+4383,brb,Barbados,1969,Level 2
+4384,brb,Barbados,1970,Level 2
+4385,brb,Barbados,1971,Level 2
+4386,brb,Barbados,1972,Level 2
+4387,brb,Barbados,1973,Level 2
+4388,brb,Barbados,1974,Level 2
+4389,brb,Barbados,1975,Level 2
+4390,brb,Barbados,1976,Level 2
+4391,brb,Barbados,1977,Level 2
+4392,brb,Barbados,1978,Level 2
+4393,brb,Barbados,1979,Level 2
+4394,brb,Barbados,1980,Level 2
 4395,brb,Barbados,1981,Level 3
-4396,brb,Barbados,1982,Level 3
+4396,brb,Barbados,1982,Level 2
 4397,brb,Barbados,1983,Level 3
 4398,brb,Barbados,1984,Level 3
 4399,brb,Barbados,1985,Level 3
@@ -4687,36 +4687,36 @@
 4685,blr,Belarus,1970,Level 2
 4686,blr,Belarus,1971,Level 2
 4687,blr,Belarus,1972,Level 2
-4688,blr,Belarus,1973,Level 3
-4689,blr,Belarus,1974,Level 3
-4690,blr,Belarus,1975,Level 3
-4691,blr,Belarus,1976,Level 3
-4692,blr,Belarus,1977,Level 3
-4693,blr,Belarus,1978,Level 3
-4694,blr,Belarus,1979,Level 3
-4695,blr,Belarus,1980,Level 3
-4696,blr,Belarus,1981,Level 3
-4697,blr,Belarus,1982,Level 3
-4698,blr,Belarus,1983,Level 3
-4699,blr,Belarus,1984,Level 3
-4700,blr,Belarus,1985,Level 3
+4688,blr,Belarus,1973,Level 2
+4689,blr,Belarus,1974,Level 2
+4690,blr,Belarus,1975,Level 2
+4691,blr,Belarus,1976,Level 2
+4692,blr,Belarus,1977,Level 2
+4693,blr,Belarus,1978,Level 2
+4694,blr,Belarus,1979,Level 2
+4695,blr,Belarus,1980,Level 2
+4696,blr,Belarus,1981,Level 2
+4697,blr,Belarus,1982,Level 2
+4698,blr,Belarus,1983,Level 2
+4699,blr,Belarus,1984,Level 2
+4700,blr,Belarus,1985,Level 2
 4701,blr,Belarus,1986,Level 3
 4702,blr,Belarus,1987,Level 3
-4703,blr,Belarus,1988,Level 3
+4703,blr,Belarus,1988,Level 2
 4704,blr,Belarus,1989,Level 3
 4705,blr,Belarus,1990,Level 3
-4706,blr,Belarus,1991,Level 3
-4707,blr,Belarus,1992,Level 3
-4708,blr,Belarus,1993,Level 3
+4706,blr,Belarus,1991,Level 2
+4707,blr,Belarus,1992,Level 2
+4708,blr,Belarus,1993,Level 2
 4709,blr,Belarus,1994,Level 2
 4710,blr,Belarus,1995,Level 2
 4711,blr,Belarus,1996,Level 2
 4712,blr,Belarus,1997,Level 2
-4713,blr,Belarus,1998,Level 3
-4714,blr,Belarus,1999,Level 3
-4715,blr,Belarus,2000,Level 3
-4716,blr,Belarus,2001,Level 3
-4717,blr,Belarus,2002,Level 3
+4713,blr,Belarus,1998,Level 2
+4714,blr,Belarus,1999,Level 2
+4715,blr,Belarus,2000,Level 2
+4716,blr,Belarus,2001,Level 2
+4717,blr,Belarus,2002,Level 2
 4718,blr,Belarus,2003,Level 3
 4719,blr,Belarus,2004,Level 3
 4720,blr,Belarus,2005,Level 3
@@ -4941,20 +4941,20 @@
 4939,bel,Belgium,1923,Level 2
 4940,bel,Belgium,1924,Level 2
 4941,bel,Belgium,1925,Level 2
-4942,bel,Belgium,1926,Level 3
-4943,bel,Belgium,1927,Level 3
-4944,bel,Belgium,1928,Level 3
-4945,bel,Belgium,1929,Level 3
-4946,bel,Belgium,1930,Level 3
-4947,bel,Belgium,1931,Level 3
+4942,bel,Belgium,1926,Level 2
+4943,bel,Belgium,1927,Level 2
+4944,bel,Belgium,1928,Level 2
+4945,bel,Belgium,1929,Level 2
+4946,bel,Belgium,1930,Level 2
+4947,bel,Belgium,1931,Level 2
 4948,bel,Belgium,1932,Level 2
 4949,bel,Belgium,1933,Level 2
 4950,bel,Belgium,1934,Level 2
-4951,bel,Belgium,1935,Level 3
-4952,bel,Belgium,1936,Level 3
-4953,bel,Belgium,1937,Level 3
-4954,bel,Belgium,1938,Level 3
-4955,bel,Belgium,1939,Level 3
+4951,bel,Belgium,1935,Level 2
+4952,bel,Belgium,1936,Level 2
+4953,bel,Belgium,1937,Level 2
+4954,bel,Belgium,1938,Level 2
+4955,bel,Belgium,1939,Level 2
 4956,bel,Belgium,1940,Level 2
 4957,bel,Belgium,1941,Level 2
 4958,bel,Belgium,1942,Level 2
@@ -4963,18 +4963,18 @@
 4961,bel,Belgium,1945,Level 2
 4962,bel,Belgium,1946,Level 2
 4963,bel,Belgium,1947,Level 2
-4964,bel,Belgium,1948,Level 3
-4965,bel,Belgium,1949,Level 3
-4966,bel,Belgium,1950,Level 3
-4967,bel,Belgium,1951,Level 3
-4968,bel,Belgium,1952,Level 3
-4969,bel,Belgium,1953,Level 3
-4970,bel,Belgium,1954,Level 3
-4971,bel,Belgium,1955,Level 3
-4972,bel,Belgium,1956,Level 3
-4973,bel,Belgium,1957,Level 3
-4974,bel,Belgium,1958,Level 3
-4975,bel,Belgium,1959,Level 3
+4964,bel,Belgium,1948,Level 2
+4965,bel,Belgium,1949,Level 2
+4966,bel,Belgium,1950,Level 2
+4967,bel,Belgium,1951,Level 2
+4968,bel,Belgium,1952,Level 2
+4969,bel,Belgium,1953,Level 2
+4970,bel,Belgium,1954,Level 2
+4971,bel,Belgium,1955,Level 2
+4972,bel,Belgium,1956,Level 2
+4973,bel,Belgium,1957,Level 2
+4974,bel,Belgium,1958,Level 2
+4975,bel,Belgium,1959,Level 2
 4976,bel,Belgium,1960,Level 3
 4977,bel,Belgium,1961,Level 3
 4978,bel,Belgium,1962,Level 3
@@ -5315,31 +5315,31 @@
 5313,blz,Belize,1996,Level 2
 5314,blz,Belize,1997,Level 2
 5315,blz,Belize,1998,Level 2
-5316,blz,Belize,1999,Level 3
-5317,blz,Belize,2000,Level 3
-5318,blz,Belize,2001,Level 3
-5319,blz,Belize,2002,Level 3
-5320,blz,Belize,2003,Level 3
-5321,blz,Belize,2004,Level 3
-5322,blz,Belize,2005,Level 3
-5323,blz,Belize,2006,Level 3
-5324,blz,Belize,2007,Level 3
-5325,blz,Belize,2008,Level 3
-5326,blz,Belize,2009,Level 3
-5327,blz,Belize,2010,Level 3
-5328,blz,Belize,2011,Level 3
-5329,blz,Belize,2012,Level 3
-5330,blz,Belize,2013,Level 3
-5331,blz,Belize,2014,Level 3
-5332,blz,Belize,2015,Level 3
-5333,blz,Belize,2016,Level 3
-5334,blz,Belize,2017,Level 3
-5335,blz,Belize,2018,Level 3
-5336,blz,Belize,2019,Level 3
-5337,blz,Belize,2020,Level 3
-5338,blz,Belize,2021,Level 3
-5339,blz,Belize,2022,Level 3
-5340,blz,Belize,2023,Level 3
+5316,blz,Belize,1999,Level 2
+5317,blz,Belize,2000,Level 2
+5318,blz,Belize,2001,Level 2
+5319,blz,Belize,2002,Level 2
+5320,blz,Belize,2003,Level 2
+5321,blz,Belize,2004,Level 2
+5322,blz,Belize,2005,Level 2
+5323,blz,Belize,2006,Level 2
+5324,blz,Belize,2007,Level 2
+5325,blz,Belize,2008,Level 2
+5326,blz,Belize,2009,Level 2
+5327,blz,Belize,2010,Level 2
+5328,blz,Belize,2011,Level 2
+5329,blz,Belize,2012,Level 2
+5330,blz,Belize,2013,Level 2
+5331,blz,Belize,2014,Level 2
+5332,blz,Belize,2015,Level 2
+5333,blz,Belize,2016,Level 2
+5334,blz,Belize,2017,Level 2
+5335,blz,Belize,2018,Level 2
+5336,blz,Belize,2019,Level 2
+5337,blz,Belize,2020,Level 2
+5338,blz,Belize,2021,Level 2
+5339,blz,Belize,2022,Level 2
+5340,blz,Belize,2023,Level 2
 5341,blz,Belize,2024,Level 3
 5342,blz,Belize,2025,Level 3
 5343,blz,Belize,2026,Level 3
@@ -5677,17 +5677,17 @@
 5675,ben,Benin,2057,Level 2
 5676,ben,Benin,2058,Level 2
 5677,ben,Benin,2059,Level 2
-5678,ben,Benin,2060,Level 3
-5679,ben,Benin,2061,Level 3
-5680,ben,Benin,2062,Level 3
-5681,ben,Benin,2063,Level 3
-5682,ben,Benin,2064,Level 3
-5683,ben,Benin,2065,Level 3
-5684,ben,Benin,2066,Level 3
-5685,ben,Benin,2067,Level 3
-5686,ben,Benin,2068,Level 3
-5687,ben,Benin,2069,Level 3
-5688,ben,Benin,2070,Level 3
+5678,ben,Benin,2060,Level 2
+5679,ben,Benin,2061,Level 2
+5680,ben,Benin,2062,Level 2
+5681,ben,Benin,2063,Level 2
+5682,ben,Benin,2064,Level 2
+5683,ben,Benin,2065,Level 2
+5684,ben,Benin,2066,Level 2
+5685,ben,Benin,2067,Level 2
+5686,ben,Benin,2068,Level 2
+5687,ben,Benin,2069,Level 2
+5688,ben,Benin,2070,Level 2
 5689,ben,Benin,2071,Level 3
 5690,ben,Benin,2072,Level 3
 5691,ben,Benin,2073,Level 3
@@ -5929,16 +5929,16 @@
 5927,btn,Bhutan,2008,Level 2
 5928,btn,Bhutan,2009,Level 2
 5929,btn,Bhutan,2010,Level 2
-5930,btn,Bhutan,2011,Level 3
-5931,btn,Bhutan,2012,Level 3
-5932,btn,Bhutan,2013,Level 3
-5933,btn,Bhutan,2014,Level 3
-5934,btn,Bhutan,2015,Level 3
+5930,btn,Bhutan,2011,Level 2
+5931,btn,Bhutan,2012,Level 2
+5932,btn,Bhutan,2013,Level 2
+5933,btn,Bhutan,2014,Level 2
+5934,btn,Bhutan,2015,Level 2
 5935,btn,Bhutan,2016,Level 3
 5936,btn,Bhutan,2017,Level 3
 5937,btn,Bhutan,2018,Level 3
 5938,btn,Bhutan,2019,Level 3
-5939,btn,Bhutan,2020,Level 3
+5939,btn,Bhutan,2020,Level 2
 5940,btn,Bhutan,2021,Level 3
 5941,btn,Bhutan,2022,Level 3
 5942,btn,Bhutan,2023,Level 3
@@ -6244,17 +6244,17 @@
 6242,bol,Bolivia,2022,Level 2
 6243,bol,Bolivia,2023,Level 2
 6244,bol,Bolivia,2024,Level 2
-6245,bol,Bolivia,2025,Level 3
-6246,bol,Bolivia,2026,Level 3
-6247,bol,Bolivia,2027,Level 3
-6248,bol,Bolivia,2028,Level 3
-6249,bol,Bolivia,2029,Level 3
-6250,bol,Bolivia,2030,Level 3
-6251,bol,Bolivia,2031,Level 3
-6252,bol,Bolivia,2032,Level 3
-6253,bol,Bolivia,2033,Level 3
-6254,bol,Bolivia,2034,Level 3
-6255,bol,Bolivia,2035,Level 3
+6245,bol,Bolivia,2025,Level 2
+6246,bol,Bolivia,2026,Level 2
+6247,bol,Bolivia,2027,Level 2
+6248,bol,Bolivia,2028,Level 2
+6249,bol,Bolivia,2029,Level 2
+6250,bol,Bolivia,2030,Level 2
+6251,bol,Bolivia,2031,Level 2
+6252,bol,Bolivia,2032,Level 2
+6253,bol,Bolivia,2033,Level 2
+6254,bol,Bolivia,2034,Level 2
+6255,bol,Bolivia,2035,Level 2
 6256,bol,Bolivia,2036,Level 3
 6257,bol,Bolivia,2037,Level 3
 6258,bol,Bolivia,2038,Level 3
@@ -6526,13 +6526,13 @@
 6524,bih,Bosnia and Herzegovina,2003,Level 2
 6525,bih,Bosnia and Herzegovina,2004,Level 2
 6526,bih,Bosnia and Herzegovina,2005,Level 2
-6527,bih,Bosnia and Herzegovina,2006,Level 3
-6528,bih,Bosnia and Herzegovina,2007,Level 3
-6529,bih,Bosnia and Herzegovina,2008,Level 3
-6530,bih,Bosnia and Herzegovina,2009,Level 3
-6531,bih,Bosnia and Herzegovina,2010,Level 3
-6532,bih,Bosnia and Herzegovina,2011,Level 3
-6533,bih,Bosnia and Herzegovina,2012,Level 3
+6527,bih,Bosnia and Herzegovina,2006,Level 2
+6528,bih,Bosnia and Herzegovina,2007,Level 2
+6529,bih,Bosnia and Herzegovina,2008,Level 2
+6530,bih,Bosnia and Herzegovina,2009,Level 2
+6531,bih,Bosnia and Herzegovina,2010,Level 2
+6532,bih,Bosnia and Herzegovina,2011,Level 2
+6533,bih,Bosnia and Herzegovina,2012,Level 2
 6534,bih,Bosnia and Herzegovina,2013,Level 3
 6535,bih,Bosnia and Herzegovina,2014,Level 3
 6536,bih,Bosnia and Herzegovina,2015,Level 3
@@ -6813,16 +6813,16 @@
 6811,bwa,Botswana,1989,Level 2
 6812,bwa,Botswana,1990,Level 2
 6813,bwa,Botswana,1991,Level 2
-6814,bwa,Botswana,1992,Level 3
-6815,bwa,Botswana,1993,Level 3
-6816,bwa,Botswana,1994,Level 3
-6817,bwa,Botswana,1995,Level 3
-6818,bwa,Botswana,1996,Level 3
-6819,bwa,Botswana,1997,Level 3
-6820,bwa,Botswana,1998,Level 3
-6821,bwa,Botswana,1999,Level 3
-6822,bwa,Botswana,2000,Level 3
-6823,bwa,Botswana,2001,Level 3
+6814,bwa,Botswana,1992,Level 2
+6815,bwa,Botswana,1993,Level 2
+6816,bwa,Botswana,1994,Level 2
+6817,bwa,Botswana,1995,Level 2
+6818,bwa,Botswana,1996,Level 2
+6819,bwa,Botswana,1997,Level 2
+6820,bwa,Botswana,1998,Level 2
+6821,bwa,Botswana,1999,Level 2
+6822,bwa,Botswana,2000,Level 2
+6823,bwa,Botswana,2001,Level 2
 6824,bwa,Botswana,2002,Level 3
 6825,bwa,Botswana,2003,Level 3
 6826,bwa,Botswana,2004,Level 3
@@ -7107,16 +7107,16 @@
 7105,bra,Brazil,1982,Level 2
 7106,bra,Brazil,1983,Level 2
 7107,bra,Brazil,1984,Level 2
-7108,bra,Brazil,1985,Level 3
-7109,bra,Brazil,1986,Level 3
-7110,bra,Brazil,1987,Level 3
-7111,bra,Brazil,1988,Level 3
-7112,bra,Brazil,1989,Level 3
-7113,bra,Brazil,1990,Level 3
-7114,bra,Brazil,1991,Level 3
-7115,bra,Brazil,1992,Level 3
-7116,bra,Brazil,1993,Level 3
-7117,bra,Brazil,1994,Level 3
+7108,bra,Brazil,1985,Level 2
+7109,bra,Brazil,1986,Level 2
+7110,bra,Brazil,1987,Level 2
+7111,bra,Brazil,1988,Level 2
+7112,bra,Brazil,1989,Level 2
+7113,bra,Brazil,1990,Level 2
+7114,bra,Brazil,1991,Level 2
+7115,bra,Brazil,1992,Level 2
+7116,bra,Brazil,1993,Level 2
+7117,bra,Brazil,1994,Level 2
 7118,bra,Brazil,1995,Level 3
 7119,bra,Brazil,1996,Level 3
 7120,bra,Brazil,1997,Level 3
@@ -7360,8 +7360,8 @@
 7358,brn,Brunei,1934,Level 2
 7359,brn,Brunei,1935,Level 2
 7360,brn,Brunei,1936,Level 2
-7361,brn,Brunei,1937,Level 3
-7362,brn,Brunei,1938,Level 3
+7361,brn,Brunei,1937,Level 2
+7362,brn,Brunei,1938,Level 2
 7363,brn,Brunei,1939,Level 3
 7364,brn,Brunei,1940,Level 3
 7365,brn,Brunei,1941,Level 3
@@ -7705,26 +7705,26 @@
 7703,bgr,Bulgaria,1978,Level 2
 7704,bgr,Bulgaria,1979,Level 2
 7705,bgr,Bulgaria,1980,Level 2
-7706,bgr,Bulgaria,1981,Level 3
-7707,bgr,Bulgaria,1982,Level 3
-7708,bgr,Bulgaria,1983,Level 3
-7709,bgr,Bulgaria,1984,Level 3
-7710,bgr,Bulgaria,1985,Level 3
+7706,bgr,Bulgaria,1981,Level 2
+7707,bgr,Bulgaria,1982,Level 2
+7708,bgr,Bulgaria,1983,Level 2
+7709,bgr,Bulgaria,1984,Level 2
+7710,bgr,Bulgaria,1985,Level 2
 7711,bgr,Bulgaria,1986,Level 3
 7712,bgr,Bulgaria,1987,Level 3
 7713,bgr,Bulgaria,1988,Level 3
 7714,bgr,Bulgaria,1989,Level 3
 7715,bgr,Bulgaria,1990,Level 3
 7716,bgr,Bulgaria,1991,Level 3
-7717,bgr,Bulgaria,1992,Level 3
-7718,bgr,Bulgaria,1993,Level 3
-7719,bgr,Bulgaria,1994,Level 3
+7717,bgr,Bulgaria,1992,Level 2
+7718,bgr,Bulgaria,1993,Level 2
+7719,bgr,Bulgaria,1994,Level 2
 7720,bgr,Bulgaria,1995,Level 3
 7721,bgr,Bulgaria,1996,Level 3
-7722,bgr,Bulgaria,1997,Level 3
-7723,bgr,Bulgaria,1998,Level 3
-7724,bgr,Bulgaria,1999,Level 3
-7725,bgr,Bulgaria,2000,Level 3
+7722,bgr,Bulgaria,1997,Level 2
+7723,bgr,Bulgaria,1998,Level 2
+7724,bgr,Bulgaria,1999,Level 2
+7725,bgr,Bulgaria,2000,Level 2
 7726,bgr,Bulgaria,2001,Level 3
 7727,bgr,Bulgaria,2002,Level 3
 7728,bgr,Bulgaria,2003,Level 3
@@ -8103,17 +8103,17 @@
 8101,bfa,Burkina Faso,2075,Level 2
 8102,bfa,Burkina Faso,2076,Level 2
 8103,bfa,Burkina Faso,2077,Level 2
-8104,bfa,Burkina Faso,2078,Level 3
-8105,bfa,Burkina Faso,2079,Level 3
-8106,bfa,Burkina Faso,2080,Level 3
-8107,bfa,Burkina Faso,2081,Level 3
-8108,bfa,Burkina Faso,2082,Level 3
-8109,bfa,Burkina Faso,2083,Level 3
-8110,bfa,Burkina Faso,2084,Level 3
-8111,bfa,Burkina Faso,2085,Level 3
-8112,bfa,Burkina Faso,2086,Level 3
-8113,bfa,Burkina Faso,2087,Level 3
-8114,bfa,Burkina Faso,2088,Level 3
+8104,bfa,Burkina Faso,2078,Level 2
+8105,bfa,Burkina Faso,2079,Level 2
+8106,bfa,Burkina Faso,2080,Level 2
+8107,bfa,Burkina Faso,2081,Level 2
+8108,bfa,Burkina Faso,2082,Level 2
+8109,bfa,Burkina Faso,2083,Level 2
+8110,bfa,Burkina Faso,2084,Level 2
+8111,bfa,Burkina Faso,2085,Level 2
+8112,bfa,Burkina Faso,2086,Level 2
+8113,bfa,Burkina Faso,2087,Level 2
+8114,bfa,Burkina Faso,2088,Level 2
 8115,bfa,Burkina Faso,2089,Level 3
 8116,bfa,Burkina Faso,2090,Level 3
 8117,bfa,Burkina Faso,2091,Level 3
@@ -8659,17 +8659,17 @@
 8657,khm,Cambodia,2029,Level 2
 8658,khm,Cambodia,2030,Level 2
 8659,khm,Cambodia,2031,Level 2
-8660,khm,Cambodia,2032,Level 3
-8661,khm,Cambodia,2033,Level 3
-8662,khm,Cambodia,2034,Level 3
-8663,khm,Cambodia,2035,Level 3
-8664,khm,Cambodia,2036,Level 3
-8665,khm,Cambodia,2037,Level 3
-8666,khm,Cambodia,2038,Level 3
-8667,khm,Cambodia,2039,Level 3
-8668,khm,Cambodia,2040,Level 3
-8669,khm,Cambodia,2041,Level 3
-8670,khm,Cambodia,2042,Level 3
+8660,khm,Cambodia,2032,Level 2
+8661,khm,Cambodia,2033,Level 2
+8662,khm,Cambodia,2034,Level 2
+8663,khm,Cambodia,2035,Level 2
+8664,khm,Cambodia,2036,Level 2
+8665,khm,Cambodia,2037,Level 2
+8666,khm,Cambodia,2038,Level 2
+8667,khm,Cambodia,2039,Level 2
+8668,khm,Cambodia,2040,Level 2
+8669,khm,Cambodia,2041,Level 2
+8670,khm,Cambodia,2042,Level 2
 8671,khm,Cambodia,2043,Level 3
 8672,khm,Cambodia,2044,Level 3
 8673,khm,Cambodia,2045,Level 3
@@ -8979,17 +8979,17 @@
 8977,cmr,Cameroon,2048,Level 2
 8978,cmr,Cameroon,2049,Level 2
 8979,cmr,Cameroon,2050,Level 2
-8980,cmr,Cameroon,2051,Level 3
-8981,cmr,Cameroon,2052,Level 3
-8982,cmr,Cameroon,2053,Level 3
-8983,cmr,Cameroon,2054,Level 3
-8984,cmr,Cameroon,2055,Level 3
-8985,cmr,Cameroon,2056,Level 3
-8986,cmr,Cameroon,2057,Level 3
-8987,cmr,Cameroon,2058,Level 3
-8988,cmr,Cameroon,2059,Level 3
-8989,cmr,Cameroon,2060,Level 3
-8990,cmr,Cameroon,2061,Level 3
+8980,cmr,Cameroon,2051,Level 2
+8981,cmr,Cameroon,2052,Level 2
+8982,cmr,Cameroon,2053,Level 2
+8983,cmr,Cameroon,2054,Level 2
+8984,cmr,Cameroon,2055,Level 2
+8985,cmr,Cameroon,2056,Level 2
+8986,cmr,Cameroon,2057,Level 2
+8987,cmr,Cameroon,2058,Level 2
+8988,cmr,Cameroon,2059,Level 2
+8989,cmr,Cameroon,2060,Level 2
+8990,cmr,Cameroon,2061,Level 2
 8991,cmr,Cameroon,2062,Level 3
 8992,cmr,Cameroon,2063,Level 3
 8993,cmr,Cameroon,2064,Level 3
@@ -9146,7 +9146,7 @@
 9144,can,Canada,1914,Level 2
 9145,can,Canada,1915,Level 2
 9146,can,Canada,1916,Level 2
-9147,can,Canada,1917,Level 3
+9147,can,Canada,1917,Level 2
 9148,can,Canada,1918,Level 2
 9149,can,Canada,1919,Level 2
 9150,can,Canada,1920,Level 2
@@ -9156,10 +9156,10 @@
 9154,can,Canada,1924,Level 2
 9155,can,Canada,1925,Level 2
 9156,can,Canada,1926,Level 2
-9157,can,Canada,1927,Level 3
-9158,can,Canada,1928,Level 3
-9159,can,Canada,1929,Level 3
-9160,can,Canada,1930,Level 3
+9157,can,Canada,1927,Level 2
+9158,can,Canada,1928,Level 2
+9159,can,Canada,1929,Level 2
+9160,can,Canada,1930,Level 2
 9161,can,Canada,1931,Level 2
 9162,can,Canada,1932,Level 2
 9163,can,Canada,1933,Level 2
@@ -9168,9 +9168,9 @@
 9166,can,Canada,1936,Level 2
 9167,can,Canada,1937,Level 2
 9168,can,Canada,1938,Level 2
-9169,can,Canada,1939,Level 3
-9170,can,Canada,1940,Level 3
-9171,can,Canada,1941,Level 3
+9169,can,Canada,1939,Level 2
+9170,can,Canada,1940,Level 2
+9171,can,Canada,1941,Level 2
 9172,can,Canada,1942,Level 3
 9173,can,Canada,1943,Level 3
 9174,can,Canada,1944,Level 3
@@ -9555,11 +9555,11 @@
 9553,cpv,Cape Verde,2022,Level 2
 9554,cpv,Cape Verde,2023,Level 2
 9555,cpv,Cape Verde,2024,Level 2
-9556,cpv,Cape Verde,2025,Level 3
-9557,cpv,Cape Verde,2026,Level 3
-9558,cpv,Cape Verde,2027,Level 3
-9559,cpv,Cape Verde,2028,Level 3
-9560,cpv,Cape Verde,2029,Level 3
+9556,cpv,Cape Verde,2025,Level 2
+9557,cpv,Cape Verde,2026,Level 2
+9558,cpv,Cape Verde,2027,Level 2
+9559,cpv,Cape Verde,2028,Level 2
+9560,cpv,Cape Verde,2029,Level 2
 9561,cpv,Cape Verde,2030,Level 3
 9562,cpv,Cape Verde,2031,Level 3
 9563,cpv,Cape Verde,2032,Level 3
@@ -10218,17 +10218,17 @@
 10216,tcd,Chad,2083,Level 2
 10217,tcd,Chad,2084,Level 2
 10218,tcd,Chad,2085,Level 2
-10219,tcd,Chad,2086,Level 3
-10220,tcd,Chad,2087,Level 3
-10221,tcd,Chad,2088,Level 3
-10222,tcd,Chad,2089,Level 3
-10223,tcd,Chad,2090,Level 3
-10224,tcd,Chad,2091,Level 3
-10225,tcd,Chad,2092,Level 3
-10226,tcd,Chad,2093,Level 3
-10227,tcd,Chad,2094,Level 3
-10228,tcd,Chad,2095,Level 3
-10229,tcd,Chad,2096,Level 3
+10219,tcd,Chad,2086,Level 2
+10220,tcd,Chad,2087,Level 2
+10221,tcd,Chad,2088,Level 2
+10222,tcd,Chad,2089,Level 2
+10223,tcd,Chad,2090,Level 2
+10224,tcd,Chad,2091,Level 2
+10225,tcd,Chad,2092,Level 2
+10226,tcd,Chad,2093,Level 2
+10227,tcd,Chad,2094,Level 2
+10228,tcd,Chad,2095,Level 2
+10229,tcd,Chad,2096,Level 2
 10230,tcd,Chad,2097,Level 3
 10231,tcd,Chad,2098,Level 3
 10232,tcd,Chad,2099,Level 3
@@ -10421,10 +10421,10 @@
 10419,chl,Chile,1985,Level 2
 10420,chl,Chile,1986,Level 2
 10421,chl,Chile,1987,Level 2
-10422,chl,Chile,1988,Level 3
-10423,chl,Chile,1989,Level 3
-10424,chl,Chile,1990,Level 3
-10425,chl,Chile,1991,Level 3
+10422,chl,Chile,1988,Level 2
+10423,chl,Chile,1989,Level 2
+10424,chl,Chile,1990,Level 2
+10425,chl,Chile,1991,Level 2
 10426,chl,Chile,1992,Level 3
 10427,chl,Chile,1993,Level 3
 10428,chl,Chile,1994,Level 3
@@ -10744,9 +10744,9 @@
 10742,chn,China,2007,Level 2
 10743,chn,China,2008,Level 2
 10744,chn,China,2009,Level 2
-10745,chn,China,2010,Level 3
-10746,chn,China,2011,Level 3
-10747,chn,China,2012,Level 3
+10745,chn,China,2010,Level 2
+10746,chn,China,2011,Level 2
+10747,chn,China,2012,Level 2
 10748,chn,China,2013,Level 3
 10749,chn,China,2014,Level 3
 10750,chn,China,2015,Level 3
@@ -11025,23 +11025,23 @@
 11023,col,Colombia,1987,Level 2
 11024,col,Colombia,1988,Level 2
 11025,col,Colombia,1989,Level 2
-11026,col,Colombia,1990,Level 3
-11027,col,Colombia,1991,Level 3
-11028,col,Colombia,1992,Level 3
-11029,col,Colombia,1993,Level 3
-11030,col,Colombia,1994,Level 3
-11031,col,Colombia,1995,Level 3
-11032,col,Colombia,1996,Level 3
-11033,col,Colombia,1997,Level 3
-11034,col,Colombia,1998,Level 3
-11035,col,Colombia,1999,Level 3
-11036,col,Colombia,2000,Level 3
-11037,col,Colombia,2001,Level 3
-11038,col,Colombia,2002,Level 3
-11039,col,Colombia,2003,Level 3
-11040,col,Colombia,2004,Level 3
-11041,col,Colombia,2005,Level 3
-11042,col,Colombia,2006,Level 3
+11026,col,Colombia,1990,Level 2
+11027,col,Colombia,1991,Level 2
+11028,col,Colombia,1992,Level 2
+11029,col,Colombia,1993,Level 2
+11030,col,Colombia,1994,Level 2
+11031,col,Colombia,1995,Level 2
+11032,col,Colombia,1996,Level 2
+11033,col,Colombia,1997,Level 2
+11034,col,Colombia,1998,Level 2
+11035,col,Colombia,1999,Level 2
+11036,col,Colombia,2000,Level 2
+11037,col,Colombia,2001,Level 2
+11038,col,Colombia,2002,Level 2
+11039,col,Colombia,2003,Level 2
+11040,col,Colombia,2004,Level 2
+11041,col,Colombia,2005,Level 2
+11042,col,Colombia,2006,Level 2
 11043,col,Colombia,2007,Level 3
 11044,col,Colombia,2008,Level 3
 11045,col,Colombia,2009,Level 3
@@ -11401,17 +11401,17 @@
 11399,com,Comoros,2062,Level 2
 11400,com,Comoros,2063,Level 2
 11401,com,Comoros,2064,Level 2
-11402,com,Comoros,2065,Level 3
-11403,com,Comoros,2066,Level 3
-11404,com,Comoros,2067,Level 3
-11405,com,Comoros,2068,Level 3
-11406,com,Comoros,2069,Level 3
-11407,com,Comoros,2070,Level 3
-11408,com,Comoros,2071,Level 3
-11409,com,Comoros,2072,Level 3
-11410,com,Comoros,2073,Level 3
-11411,com,Comoros,2074,Level 3
-11412,com,Comoros,2075,Level 3
+11402,com,Comoros,2065,Level 2
+11403,com,Comoros,2066,Level 2
+11404,com,Comoros,2067,Level 2
+11405,com,Comoros,2068,Level 2
+11406,com,Comoros,2069,Level 2
+11407,com,Comoros,2070,Level 2
+11408,com,Comoros,2071,Level 2
+11409,com,Comoros,2072,Level 2
+11410,com,Comoros,2073,Level 2
+11411,com,Comoros,2074,Level 2
+11412,com,Comoros,2075,Level 2
 11413,com,Comoros,2076,Level 3
 11414,com,Comoros,2077,Level 3
 11415,com,Comoros,2078,Level 3
@@ -11981,17 +11981,17 @@
 11979,cog,"Congo, Rep.",2040,Level 2
 11980,cog,"Congo, Rep.",2041,Level 2
 11981,cog,"Congo, Rep.",2042,Level 2
-11982,cog,"Congo, Rep.",2043,Level 3
-11983,cog,"Congo, Rep.",2044,Level 3
-11984,cog,"Congo, Rep.",2045,Level 3
-11985,cog,"Congo, Rep.",2046,Level 3
-11986,cog,"Congo, Rep.",2047,Level 3
-11987,cog,"Congo, Rep.",2048,Level 3
-11988,cog,"Congo, Rep.",2049,Level 3
-11989,cog,"Congo, Rep.",2050,Level 3
-11990,cog,"Congo, Rep.",2051,Level 3
-11991,cog,"Congo, Rep.",2052,Level 3
-11992,cog,"Congo, Rep.",2053,Level 3
+11982,cog,"Congo, Rep.",2043,Level 2
+11983,cog,"Congo, Rep.",2044,Level 2
+11984,cog,"Congo, Rep.",2045,Level 2
+11985,cog,"Congo, Rep.",2046,Level 2
+11986,cog,"Congo, Rep.",2047,Level 2
+11987,cog,"Congo, Rep.",2048,Level 2
+11988,cog,"Congo, Rep.",2049,Level 2
+11989,cog,"Congo, Rep.",2050,Level 2
+11990,cog,"Congo, Rep.",2051,Level 2
+11991,cog,"Congo, Rep.",2052,Level 2
+11992,cog,"Congo, Rep.",2053,Level 2
 11993,cog,"Congo, Rep.",2054,Level 3
 11994,cog,"Congo, Rep.",2055,Level 3
 11995,cog,"Congo, Rep.",2056,Level 3
@@ -12228,15 +12228,15 @@
 12226,cri,Costa Rica,1986,Level 2
 12227,cri,Costa Rica,1987,Level 2
 12228,cri,Costa Rica,1988,Level 2
-12229,cri,Costa Rica,1989,Level 3
-12230,cri,Costa Rica,1990,Level 3
-12231,cri,Costa Rica,1991,Level 3
-12232,cri,Costa Rica,1992,Level 3
-12233,cri,Costa Rica,1993,Level 3
-12234,cri,Costa Rica,1994,Level 3
-12235,cri,Costa Rica,1995,Level 3
-12236,cri,Costa Rica,1996,Level 3
-12237,cri,Costa Rica,1997,Level 3
+12229,cri,Costa Rica,1989,Level 2
+12230,cri,Costa Rica,1990,Level 2
+12231,cri,Costa Rica,1991,Level 2
+12232,cri,Costa Rica,1992,Level 2
+12233,cri,Costa Rica,1993,Level 2
+12234,cri,Costa Rica,1994,Level 2
+12235,cri,Costa Rica,1995,Level 2
+12236,cri,Costa Rica,1996,Level 2
+12237,cri,Costa Rica,1997,Level 2
 12238,cri,Costa Rica,1998,Level 3
 12239,cri,Costa Rica,1999,Level 3
 12240,cri,Costa Rica,2000,Level 3
@@ -12576,17 +12576,17 @@
 12574,civ,Cote d'Ivoire,2033,Level 2
 12575,civ,Cote d'Ivoire,2034,Level 2
 12576,civ,Cote d'Ivoire,2035,Level 2
-12577,civ,Cote d'Ivoire,2036,Level 3
-12578,civ,Cote d'Ivoire,2037,Level 3
-12579,civ,Cote d'Ivoire,2038,Level 3
-12580,civ,Cote d'Ivoire,2039,Level 3
-12581,civ,Cote d'Ivoire,2040,Level 3
-12582,civ,Cote d'Ivoire,2041,Level 3
-12583,civ,Cote d'Ivoire,2042,Level 3
-12584,civ,Cote d'Ivoire,2043,Level 3
-12585,civ,Cote d'Ivoire,2044,Level 3
-12586,civ,Cote d'Ivoire,2045,Level 3
-12587,civ,Cote d'Ivoire,2046,Level 3
+12577,civ,Cote d'Ivoire,2036,Level 2
+12578,civ,Cote d'Ivoire,2037,Level 2
+12579,civ,Cote d'Ivoire,2038,Level 2
+12580,civ,Cote d'Ivoire,2039,Level 2
+12581,civ,Cote d'Ivoire,2040,Level 2
+12582,civ,Cote d'Ivoire,2041,Level 2
+12583,civ,Cote d'Ivoire,2042,Level 2
+12584,civ,Cote d'Ivoire,2043,Level 2
+12585,civ,Cote d'Ivoire,2044,Level 2
+12586,civ,Cote d'Ivoire,2045,Level 2
+12587,civ,Cote d'Ivoire,2046,Level 2
 12588,civ,Cote d'Ivoire,2047,Level 3
 12589,civ,Cote d'Ivoire,2048,Level 3
 12590,civ,Cote d'Ivoire,2049,Level 3
@@ -12806,11 +12806,11 @@
 12804,hrv,Croatia,1962,Level 2
 12805,hrv,Croatia,1963,Level 2
 12806,hrv,Croatia,1964,Level 2
-12807,hrv,Croatia,1965,Level 3
-12808,hrv,Croatia,1966,Level 3
-12809,hrv,Croatia,1967,Level 3
-12810,hrv,Croatia,1968,Level 3
-12811,hrv,Croatia,1969,Level 3
+12807,hrv,Croatia,1965,Level 2
+12808,hrv,Croatia,1966,Level 2
+12809,hrv,Croatia,1967,Level 2
+12810,hrv,Croatia,1968,Level 2
+12811,hrv,Croatia,1969,Level 2
 12812,hrv,Croatia,1970,Level 3
 12813,hrv,Croatia,1971,Level 3
 12814,hrv,Croatia,1972,Level 3
@@ -13148,10 +13148,10 @@
 13146,cub,Cuba,2003,Level 2
 13147,cub,Cuba,2004,Level 2
 13148,cub,Cuba,2005,Level 2
-13149,cub,Cuba,2006,Level 3
-13150,cub,Cuba,2007,Level 3
-13151,cub,Cuba,2008,Level 3
-13152,cub,Cuba,2009,Level 3
+13149,cub,Cuba,2006,Level 2
+13150,cub,Cuba,2007,Level 2
+13151,cub,Cuba,2008,Level 2
+13152,cub,Cuba,2009,Level 2
 13153,cub,Cuba,2010,Level 3
 13154,cub,Cuba,2011,Level 3
 13155,cub,Cuba,2012,Level 3
@@ -13421,10 +13421,10 @@
 13419,cyp,Cyprus,1975,Level 2
 13420,cyp,Cyprus,1976,Level 2
 13421,cyp,Cyprus,1977,Level 2
-13422,cyp,Cyprus,1978,Level 3
-13423,cyp,Cyprus,1979,Level 3
-13424,cyp,Cyprus,1980,Level 3
-13425,cyp,Cyprus,1981,Level 3
+13422,cyp,Cyprus,1978,Level 2
+13423,cyp,Cyprus,1979,Level 2
+13424,cyp,Cyprus,1980,Level 2
+13425,cyp,Cyprus,1981,Level 2
 13426,cyp,Cyprus,1982,Level 3
 13427,cyp,Cyprus,1983,Level 3
 13428,cyp,Cyprus,1984,Level 3
@@ -13702,16 +13702,16 @@
 13700,cze,Czech Republic,1955,Level 2
 13701,cze,Czech Republic,1956,Level 2
 13702,cze,Czech Republic,1957,Level 2
-13703,cze,Czech Republic,1958,Level 3
-13704,cze,Czech Republic,1959,Level 3
-13705,cze,Czech Republic,1960,Level 3
-13706,cze,Czech Republic,1961,Level 3
-13707,cze,Czech Republic,1962,Level 3
-13708,cze,Czech Republic,1963,Level 3
-13709,cze,Czech Republic,1964,Level 3
-13710,cze,Czech Republic,1965,Level 3
-13711,cze,Czech Republic,1966,Level 3
-13712,cze,Czech Republic,1967,Level 3
+13703,cze,Czech Republic,1958,Level 2
+13704,cze,Czech Republic,1959,Level 2
+13705,cze,Czech Republic,1960,Level 2
+13706,cze,Czech Republic,1961,Level 2
+13707,cze,Czech Republic,1962,Level 2
+13708,cze,Czech Republic,1963,Level 2
+13709,cze,Czech Republic,1964,Level 2
+13710,cze,Czech Republic,1965,Level 2
+13711,cze,Czech Republic,1966,Level 2
+13712,cze,Czech Republic,1967,Level 2
 13713,cze,Czech Republic,1968,Level 3
 13714,cze,Czech Republic,1969,Level 3
 13715,cze,Czech Republic,1970,Level 3
@@ -13973,27 +13973,27 @@
 13971,dnk,Denmark,1925,Level 2
 13972,dnk,Denmark,1926,Level 2
 13973,dnk,Denmark,1927,Level 2
-13974,dnk,Denmark,1928,Level 3
-13975,dnk,Denmark,1929,Level 3
-13976,dnk,Denmark,1930,Level 3
-13977,dnk,Denmark,1931,Level 3
-13978,dnk,Denmark,1932,Level 3
-13979,dnk,Denmark,1933,Level 3
-13980,dnk,Denmark,1934,Level 3
-13981,dnk,Denmark,1935,Level 3
-13982,dnk,Denmark,1936,Level 3
-13983,dnk,Denmark,1937,Level 3
-13984,dnk,Denmark,1938,Level 3
-13985,dnk,Denmark,1939,Level 3
-13986,dnk,Denmark,1940,Level 3
+13974,dnk,Denmark,1928,Level 2
+13975,dnk,Denmark,1929,Level 2
+13976,dnk,Denmark,1930,Level 2
+13977,dnk,Denmark,1931,Level 2
+13978,dnk,Denmark,1932,Level 2
+13979,dnk,Denmark,1933,Level 2
+13980,dnk,Denmark,1934,Level 2
+13981,dnk,Denmark,1935,Level 2
+13982,dnk,Denmark,1936,Level 2
+13983,dnk,Denmark,1937,Level 2
+13984,dnk,Denmark,1938,Level 2
+13985,dnk,Denmark,1939,Level 2
+13986,dnk,Denmark,1940,Level 2
 13987,dnk,Denmark,1941,Level 2
 13988,dnk,Denmark,1942,Level 2
-13989,dnk,Denmark,1943,Level 3
-13990,dnk,Denmark,1944,Level 3
-13991,dnk,Denmark,1945,Level 3
-13992,dnk,Denmark,1946,Level 3
-13993,dnk,Denmark,1947,Level 3
-13994,dnk,Denmark,1948,Level 3
+13989,dnk,Denmark,1943,Level 2
+13990,dnk,Denmark,1944,Level 2
+13991,dnk,Denmark,1945,Level 2
+13992,dnk,Denmark,1946,Level 2
+13993,dnk,Denmark,1947,Level 2
+13994,dnk,Denmark,1948,Level 2
 13995,dnk,Denmark,1949,Level 3
 13996,dnk,Denmark,1950,Level 3
 13997,dnk,Denmark,1951,Level 3
@@ -14378,17 +14378,17 @@
 14376,dji,Djibouti,2029,Level 2
 14377,dji,Djibouti,2030,Level 2
 14378,dji,Djibouti,2031,Level 2
-14379,dji,Djibouti,2032,Level 3
-14380,dji,Djibouti,2033,Level 3
-14381,dji,Djibouti,2034,Level 3
-14382,dji,Djibouti,2035,Level 3
-14383,dji,Djibouti,2036,Level 3
-14384,dji,Djibouti,2037,Level 3
-14385,dji,Djibouti,2038,Level 3
-14386,dji,Djibouti,2039,Level 3
-14387,dji,Djibouti,2040,Level 3
-14388,dji,Djibouti,2041,Level 3
-14389,dji,Djibouti,2042,Level 3
+14379,dji,Djibouti,2032,Level 2
+14380,dji,Djibouti,2033,Level 2
+14381,dji,Djibouti,2034,Level 2
+14382,dji,Djibouti,2035,Level 2
+14383,dji,Djibouti,2036,Level 2
+14384,dji,Djibouti,2037,Level 2
+14385,dji,Djibouti,2038,Level 2
+14386,dji,Djibouti,2039,Level 2
+14387,dji,Djibouti,2040,Level 2
+14388,dji,Djibouti,2041,Level 2
+14389,dji,Djibouti,2042,Level 2
 14390,dji,Djibouti,2043,Level 3
 14391,dji,Djibouti,2044,Level 3
 14392,dji,Djibouti,2045,Level 3
@@ -14640,16 +14640,16 @@
 14638,dma,Dominica,1990,Level 2
 14639,dma,Dominica,1991,Level 2
 14640,dma,Dominica,1992,Level 2
-14641,dma,Dominica,1993,Level 3
-14642,dma,Dominica,1994,Level 3
-14643,dma,Dominica,1995,Level 3
-14644,dma,Dominica,1996,Level 3
-14645,dma,Dominica,1997,Level 3
-14646,dma,Dominica,1998,Level 3
-14647,dma,Dominica,1999,Level 3
-14648,dma,Dominica,2000,Level 3
+14641,dma,Dominica,1993,Level 2
+14642,dma,Dominica,1994,Level 2
+14643,dma,Dominica,1995,Level 2
+14644,dma,Dominica,1996,Level 2
+14645,dma,Dominica,1997,Level 2
+14646,dma,Dominica,1998,Level 2
+14647,dma,Dominica,1999,Level 2
+14648,dma,Dominica,2000,Level 2
 14649,dma,Dominica,2001,Level 3
-14650,dma,Dominica,2002,Level 3
+14650,dma,Dominica,2002,Level 2
 14651,dma,Dominica,2003,Level 3
 14652,dma,Dominica,2004,Level 3
 14653,dma,Dominica,2005,Level 3
@@ -14947,14 +14947,14 @@
 14945,dom,Dominican Republic,1996,Level 2
 14946,dom,Dominican Republic,1997,Level 2
 14947,dom,Dominican Republic,1998,Level 2
-14948,dom,Dominican Republic,1999,Level 3
-14949,dom,Dominican Republic,2000,Level 3
-14950,dom,Dominican Republic,2001,Level 3
-14951,dom,Dominican Republic,2002,Level 3
-14952,dom,Dominican Republic,2003,Level 3
-14953,dom,Dominican Republic,2004,Level 3
-14954,dom,Dominican Republic,2005,Level 3
-14955,dom,Dominican Republic,2006,Level 3
+14948,dom,Dominican Republic,1999,Level 2
+14949,dom,Dominican Republic,2000,Level 2
+14950,dom,Dominican Republic,2001,Level 2
+14951,dom,Dominican Republic,2002,Level 2
+14952,dom,Dominican Republic,2003,Level 2
+14953,dom,Dominican Republic,2004,Level 2
+14954,dom,Dominican Republic,2005,Level 2
+14955,dom,Dominican Republic,2006,Level 2
 14956,dom,Dominican Republic,2007,Level 3
 14957,dom,Dominican Republic,2008,Level 3
 14958,dom,Dominican Republic,2009,Level 3
@@ -15253,15 +15253,15 @@
 15251,ecu,Ecuador,2001,Level 2
 15252,ecu,Ecuador,2002,Level 2
 15253,ecu,Ecuador,2003,Level 2
-15254,ecu,Ecuador,2004,Level 3
-15255,ecu,Ecuador,2005,Level 3
-15256,ecu,Ecuador,2006,Level 3
-15257,ecu,Ecuador,2007,Level 3
-15258,ecu,Ecuador,2008,Level 3
-15259,ecu,Ecuador,2009,Level 3
-15260,ecu,Ecuador,2010,Level 3
-15261,ecu,Ecuador,2011,Level 3
-15262,ecu,Ecuador,2012,Level 3
+15254,ecu,Ecuador,2004,Level 2
+15255,ecu,Ecuador,2005,Level 2
+15256,ecu,Ecuador,2006,Level 2
+15257,ecu,Ecuador,2007,Level 2
+15258,ecu,Ecuador,2008,Level 2
+15259,ecu,Ecuador,2009,Level 2
+15260,ecu,Ecuador,2010,Level 2
+15261,ecu,Ecuador,2011,Level 2
+15262,ecu,Ecuador,2012,Level 2
 15263,ecu,Ecuador,2013,Level 3
 15264,ecu,Ecuador,2014,Level 3
 15265,ecu,Ecuador,2015,Level 3
@@ -15269,7 +15269,7 @@
 15267,ecu,Ecuador,2017,Level 3
 15268,ecu,Ecuador,2018,Level 3
 15269,ecu,Ecuador,2019,Level 3
-15270,ecu,Ecuador,2020,Level 3
+15270,ecu,Ecuador,2020,Level 2
 15271,ecu,Ecuador,2021,Level 3
 15272,ecu,Ecuador,2022,Level 3
 15273,ecu,Ecuador,2023,Level 3
@@ -15552,14 +15552,14 @@
 15550,egy,Egypt,1999,Level 2
 15551,egy,Egypt,2000,Level 2
 15552,egy,Egypt,2001,Level 2
-15553,egy,Egypt,2002,Level 3
-15554,egy,Egypt,2003,Level 3
-15555,egy,Egypt,2004,Level 3
-15556,egy,Egypt,2005,Level 3
-15557,egy,Egypt,2006,Level 3
-15558,egy,Egypt,2007,Level 3
-15559,egy,Egypt,2008,Level 3
-15560,egy,Egypt,2009,Level 3
+15553,egy,Egypt,2002,Level 2
+15554,egy,Egypt,2003,Level 2
+15555,egy,Egypt,2004,Level 2
+15556,egy,Egypt,2005,Level 2
+15557,egy,Egypt,2006,Level 2
+15558,egy,Egypt,2007,Level 2
+15559,egy,Egypt,2008,Level 2
+15560,egy,Egypt,2009,Level 2
 15561,egy,Egypt,2010,Level 3
 15562,egy,Egypt,2011,Level 3
 15563,egy,Egypt,2012,Level 3
@@ -15868,16 +15868,16 @@
 15866,slv,El Salvador,2014,Level 2
 15867,slv,El Salvador,2015,Level 2
 15868,slv,El Salvador,2016,Level 2
-15869,slv,El Salvador,2017,Level 3
-15870,slv,El Salvador,2018,Level 3
-15871,slv,El Salvador,2019,Level 3
+15869,slv,El Salvador,2017,Level 2
+15870,slv,El Salvador,2018,Level 2
+15871,slv,El Salvador,2019,Level 2
 15872,slv,El Salvador,2020,Level 2
-15873,slv,El Salvador,2021,Level 3
-15874,slv,El Salvador,2022,Level 3
-15875,slv,El Salvador,2023,Level 3
-15876,slv,El Salvador,2024,Level 3
-15877,slv,El Salvador,2025,Level 3
-15878,slv,El Salvador,2026,Level 3
+15873,slv,El Salvador,2021,Level 2
+15874,slv,El Salvador,2022,Level 2
+15875,slv,El Salvador,2023,Level 2
+15876,slv,El Salvador,2024,Level 2
+15877,slv,El Salvador,2025,Level 2
+15878,slv,El Salvador,2026,Level 2
 15879,slv,El Salvador,2027,Level 3
 15880,slv,El Salvador,2028,Level 3
 15881,slv,El Salvador,2029,Level 3
@@ -16151,8 +16151,8 @@
 16149,gnq,Equatorial Guinea,1996,Level 2
 16150,gnq,Equatorial Guinea,1997,Level 2
 16151,gnq,Equatorial Guinea,1998,Level 2
-16152,gnq,Equatorial Guinea,1999,Level 3
-16153,gnq,Equatorial Guinea,2000,Level 3
+16152,gnq,Equatorial Guinea,1999,Level 2
+16153,gnq,Equatorial Guinea,2000,Level 2
 16154,gnq,Equatorial Guinea,2001,Level 3
 16155,gnq,Equatorial Guinea,2002,Level 3
 16156,gnq,Equatorial Guinea,2003,Level 3
@@ -16534,17 +16534,17 @@
 16532,eri,Eritrea,2078,Level 2
 16533,eri,Eritrea,2079,Level 2
 16534,eri,Eritrea,2080,Level 2
-16535,eri,Eritrea,2081,Level 3
-16536,eri,Eritrea,2082,Level 3
-16537,eri,Eritrea,2083,Level 3
-16538,eri,Eritrea,2084,Level 3
-16539,eri,Eritrea,2085,Level 3
-16540,eri,Eritrea,2086,Level 3
-16541,eri,Eritrea,2087,Level 3
-16542,eri,Eritrea,2088,Level 3
-16543,eri,Eritrea,2089,Level 3
-16544,eri,Eritrea,2090,Level 3
-16545,eri,Eritrea,2091,Level 3
+16535,eri,Eritrea,2081,Level 2
+16536,eri,Eritrea,2082,Level 2
+16537,eri,Eritrea,2083,Level 2
+16538,eri,Eritrea,2084,Level 2
+16539,eri,Eritrea,2085,Level 2
+16540,eri,Eritrea,2086,Level 2
+16541,eri,Eritrea,2087,Level 2
+16542,eri,Eritrea,2088,Level 2
+16543,eri,Eritrea,2089,Level 2
+16544,eri,Eritrea,2090,Level 2
+16545,eri,Eritrea,2091,Level 2
 16546,eri,Eritrea,2092,Level 3
 16547,eri,Eritrea,2093,Level 3
 16548,eri,Eritrea,2094,Level 3
@@ -16712,14 +16712,14 @@
 16710,est,Estonia,1955,Level 2
 16711,est,Estonia,1956,Level 2
 16712,est,Estonia,1957,Level 2
-16713,est,Estonia,1958,Level 3
-16714,est,Estonia,1959,Level 3
-16715,est,Estonia,1960,Level 3
-16716,est,Estonia,1961,Level 3
-16717,est,Estonia,1962,Level 3
-16718,est,Estonia,1963,Level 3
-16719,est,Estonia,1964,Level 3
-16720,est,Estonia,1965,Level 3
+16713,est,Estonia,1958,Level 2
+16714,est,Estonia,1959,Level 2
+16715,est,Estonia,1960,Level 2
+16716,est,Estonia,1961,Level 2
+16717,est,Estonia,1962,Level 2
+16718,est,Estonia,1963,Level 2
+16719,est,Estonia,1964,Level 2
+16720,est,Estonia,1965,Level 2
 16721,est,Estonia,1966,Level 3
 16722,est,Estonia,1967,Level 3
 16723,est,Estonia,1968,Level 3
@@ -17121,17 +17121,17 @@
 17119,eth,Ethiopia,2063,Level 2
 17120,eth,Ethiopia,2064,Level 2
 17121,eth,Ethiopia,2065,Level 2
-17122,eth,Ethiopia,2066,Level 3
-17123,eth,Ethiopia,2067,Level 3
-17124,eth,Ethiopia,2068,Level 3
-17125,eth,Ethiopia,2069,Level 3
-17126,eth,Ethiopia,2070,Level 3
-17127,eth,Ethiopia,2071,Level 3
-17128,eth,Ethiopia,2072,Level 3
-17129,eth,Ethiopia,2073,Level 3
-17130,eth,Ethiopia,2074,Level 3
-17131,eth,Ethiopia,2075,Level 3
-17132,eth,Ethiopia,2076,Level 3
+17122,eth,Ethiopia,2066,Level 2
+17123,eth,Ethiopia,2067,Level 2
+17124,eth,Ethiopia,2068,Level 2
+17125,eth,Ethiopia,2069,Level 2
+17126,eth,Ethiopia,2070,Level 2
+17127,eth,Ethiopia,2071,Level 2
+17128,eth,Ethiopia,2072,Level 2
+17129,eth,Ethiopia,2073,Level 2
+17130,eth,Ethiopia,2074,Level 2
+17131,eth,Ethiopia,2075,Level 2
+17132,eth,Ethiopia,2076,Level 2
 17133,eth,Ethiopia,2077,Level 3
 17134,eth,Ethiopia,2078,Level 3
 17135,eth,Ethiopia,2079,Level 3
@@ -17360,25 +17360,25 @@
 17358,fji,Fiji,2001,Level 2
 17359,fji,Fiji,2002,Level 2
 17360,fji,Fiji,2003,Level 2
-17361,fji,Fiji,2004,Level 3
-17362,fji,Fiji,2005,Level 3
-17363,fji,Fiji,2006,Level 3
-17364,fji,Fiji,2007,Level 3
-17365,fji,Fiji,2008,Level 3
+17361,fji,Fiji,2004,Level 2
+17362,fji,Fiji,2005,Level 2
+17363,fji,Fiji,2006,Level 2
+17364,fji,Fiji,2007,Level 2
+17365,fji,Fiji,2008,Level 2
 17366,fji,Fiji,2009,Level 2
-17367,fji,Fiji,2010,Level 3
-17368,fji,Fiji,2011,Level 3
-17369,fji,Fiji,2012,Level 3
-17370,fji,Fiji,2013,Level 3
-17371,fji,Fiji,2014,Level 3
-17372,fji,Fiji,2015,Level 3
-17373,fji,Fiji,2016,Level 3
+17367,fji,Fiji,2010,Level 2
+17368,fji,Fiji,2011,Level 2
+17369,fji,Fiji,2012,Level 2
+17370,fji,Fiji,2013,Level 2
+17371,fji,Fiji,2014,Level 2
+17372,fji,Fiji,2015,Level 2
+17373,fji,Fiji,2016,Level 2
 17374,fji,Fiji,2017,Level 3
 17375,fji,Fiji,2018,Level 3
 17376,fji,Fiji,2019,Level 3
-17377,fji,Fiji,2020,Level 3
-17378,fji,Fiji,2021,Level 3
-17379,fji,Fiji,2022,Level 3
+17377,fji,Fiji,2020,Level 2
+17378,fji,Fiji,2021,Level 2
+17379,fji,Fiji,2022,Level 2
 17380,fji,Fiji,2023,Level 3
 17381,fji,Fiji,2024,Level 3
 17382,fji,Fiji,2025,Level 3
@@ -17612,14 +17612,14 @@
 17610,fin,Finland,1952,Level 2
 17611,fin,Finland,1953,Level 2
 17612,fin,Finland,1954,Level 2
-17613,fin,Finland,1955,Level 3
-17614,fin,Finland,1956,Level 3
-17615,fin,Finland,1957,Level 3
-17616,fin,Finland,1958,Level 3
-17617,fin,Finland,1959,Level 3
-17618,fin,Finland,1960,Level 3
-17619,fin,Finland,1961,Level 3
-17620,fin,Finland,1962,Level 3
+17613,fin,Finland,1955,Level 2
+17614,fin,Finland,1956,Level 2
+17615,fin,Finland,1957,Level 2
+17616,fin,Finland,1958,Level 2
+17617,fin,Finland,1959,Level 2
+17618,fin,Finland,1960,Level 2
+17619,fin,Finland,1961,Level 2
+17620,fin,Finland,1962,Level 2
 17621,fin,Finland,1963,Level 3
 17622,fin,Finland,1964,Level 3
 17623,fin,Finland,1965,Level 3
@@ -17887,7 +17887,7 @@
 17885,fra,France,1926,Level 2
 17886,fra,France,1927,Level 2
 17887,fra,France,1928,Level 2
-17888,fra,France,1929,Level 3
+17888,fra,France,1929,Level 2
 17889,fra,France,1930,Level 2
 17890,fra,France,1931,Level 2
 17891,fra,France,1932,Level 2
@@ -17897,7 +17897,7 @@
 17895,fra,France,1936,Level 2
 17896,fra,France,1937,Level 2
 17897,fra,France,1938,Level 2
-17898,fra,France,1939,Level 3
+17898,fra,France,1939,Level 2
 17899,fra,France,1940,Level 2
 17900,fra,France,1941,Level 2
 17901,fra,France,1942,Level 2
@@ -17908,15 +17908,15 @@
 17906,fra,France,1947,Level 2
 17907,fra,France,1948,Level 2
 17908,fra,France,1949,Level 2
-17909,fra,France,1950,Level 3
-17910,fra,France,1951,Level 3
-17911,fra,France,1952,Level 3
-17912,fra,France,1953,Level 3
-17913,fra,France,1954,Level 3
-17914,fra,France,1955,Level 3
-17915,fra,France,1956,Level 3
-17916,fra,France,1957,Level 3
-17917,fra,France,1958,Level 3
+17909,fra,France,1950,Level 2
+17910,fra,France,1951,Level 2
+17911,fra,France,1952,Level 2
+17912,fra,France,1953,Level 2
+17913,fra,France,1954,Level 2
+17914,fra,France,1955,Level 2
+17915,fra,France,1956,Level 2
+17916,fra,France,1957,Level 2
+17917,fra,France,1958,Level 2
 17918,fra,France,1959,Level 3
 17919,fra,France,1960,Level 3
 17920,fra,France,1961,Level 3
@@ -18232,7 +18232,7 @@
 18230,gab,Gabon,1970,Level 2
 18231,gab,Gabon,1971,Level 2
 18232,gab,Gabon,1972,Level 2
-18233,gab,Gabon,1973,Level 3
+18233,gab,Gabon,1973,Level 2
 18234,gab,Gabon,1974,Level 3
 18235,gab,Gabon,1975,Level 3
 18236,gab,Gabon,1976,Level 3
@@ -18634,17 +18634,17 @@
 18632,gmb,Gambia,2071,Level 2
 18633,gmb,Gambia,2072,Level 2
 18634,gmb,Gambia,2073,Level 2
-18635,gmb,Gambia,2074,Level 3
-18636,gmb,Gambia,2075,Level 3
-18637,gmb,Gambia,2076,Level 3
-18638,gmb,Gambia,2077,Level 3
-18639,gmb,Gambia,2078,Level 3
-18640,gmb,Gambia,2079,Level 3
-18641,gmb,Gambia,2080,Level 3
-18642,gmb,Gambia,2081,Level 3
-18643,gmb,Gambia,2082,Level 3
-18644,gmb,Gambia,2083,Level 3
-18645,gmb,Gambia,2084,Level 3
+18635,gmb,Gambia,2074,Level 2
+18636,gmb,Gambia,2075,Level 2
+18637,gmb,Gambia,2076,Level 2
+18638,gmb,Gambia,2077,Level 2
+18639,gmb,Gambia,2078,Level 2
+18640,gmb,Gambia,2079,Level 2
+18641,gmb,Gambia,2080,Level 2
+18642,gmb,Gambia,2081,Level 2
+18643,gmb,Gambia,2082,Level 2
+18644,gmb,Gambia,2083,Level 2
+18645,gmb,Gambia,2084,Level 2
 18646,gmb,Gambia,2085,Level 3
 18647,gmb,Gambia,2086,Level 3
 18648,gmb,Gambia,2087,Level 3
@@ -18831,18 +18831,18 @@
 18829,geo,Georgia,1967,Level 2
 18830,geo,Georgia,1968,Level 2
 18831,geo,Georgia,1969,Level 2
-18832,geo,Georgia,1970,Level 3
-18833,geo,Georgia,1971,Level 3
-18834,geo,Georgia,1972,Level 3
-18835,geo,Georgia,1973,Level 3
-18836,geo,Georgia,1974,Level 3
-18837,geo,Georgia,1975,Level 3
-18838,geo,Georgia,1976,Level 3
-18839,geo,Georgia,1977,Level 3
-18840,geo,Georgia,1978,Level 3
-18841,geo,Georgia,1979,Level 3
-18842,geo,Georgia,1980,Level 3
-18843,geo,Georgia,1981,Level 3
+18832,geo,Georgia,1970,Level 2
+18833,geo,Georgia,1971,Level 2
+18834,geo,Georgia,1972,Level 2
+18835,geo,Georgia,1973,Level 2
+18836,geo,Georgia,1974,Level 2
+18837,geo,Georgia,1975,Level 2
+18838,geo,Georgia,1976,Level 2
+18839,geo,Georgia,1977,Level 2
+18840,geo,Georgia,1978,Level 2
+18841,geo,Georgia,1979,Level 2
+18842,geo,Georgia,1980,Level 2
+18843,geo,Georgia,1981,Level 2
 18844,geo,Georgia,1982,Level 3
 18845,geo,Georgia,1983,Level 3
 18846,geo,Georgia,1984,Level 3
@@ -18852,7 +18852,7 @@
 18850,geo,Georgia,1988,Level 3
 18851,geo,Georgia,1989,Level 3
 18852,geo,Georgia,1990,Level 3
-18853,geo,Georgia,1991,Level 3
+18853,geo,Georgia,1991,Level 2
 18854,geo,Georgia,1992,Level 2
 18855,geo,Georgia,1993,Level 2
 18856,geo,Georgia,1994,Level 2
@@ -18868,11 +18868,11 @@
 18866,geo,Georgia,2004,Level 2
 18867,geo,Georgia,2005,Level 2
 18868,geo,Georgia,2006,Level 2
-18869,geo,Georgia,2007,Level 3
-18870,geo,Georgia,2008,Level 3
-18871,geo,Georgia,2009,Level 3
-18872,geo,Georgia,2010,Level 3
-18873,geo,Georgia,2011,Level 3
+18869,geo,Georgia,2007,Level 2
+18870,geo,Georgia,2008,Level 2
+18871,geo,Georgia,2009,Level 2
+18872,geo,Georgia,2010,Level 2
+18873,geo,Georgia,2011,Level 2
 18874,geo,Georgia,2012,Level 3
 18875,geo,Georgia,2013,Level 3
 18876,geo,Georgia,2014,Level 3
@@ -19100,13 +19100,13 @@
 19098,deu,Germany,1935,Level 2
 19099,deu,Germany,1936,Level 2
 19100,deu,Germany,1937,Level 2
-19101,deu,Germany,1938,Level 3
-19102,deu,Germany,1939,Level 3
-19103,deu,Germany,1940,Level 3
-19104,deu,Germany,1941,Level 3
-19105,deu,Germany,1942,Level 3
-19106,deu,Germany,1943,Level 3
-19107,deu,Germany,1944,Level 3
+19101,deu,Germany,1938,Level 2
+19102,deu,Germany,1939,Level 2
+19103,deu,Germany,1940,Level 2
+19104,deu,Germany,1941,Level 2
+19105,deu,Germany,1942,Level 2
+19106,deu,Germany,1943,Level 2
+19107,deu,Germany,1944,Level 2
 19108,deu,Germany,1945,Level 2
 19109,deu,Germany,1946,Level 2
 19110,deu,Germany,1947,Level 2
@@ -19116,10 +19116,10 @@
 19114,deu,Germany,1951,Level 2
 19115,deu,Germany,1952,Level 2
 19116,deu,Germany,1953,Level 2
-19117,deu,Germany,1954,Level 3
-19118,deu,Germany,1955,Level 3
-19119,deu,Germany,1956,Level 3
-19120,deu,Germany,1957,Level 3
+19117,deu,Germany,1954,Level 2
+19118,deu,Germany,1955,Level 2
+19119,deu,Germany,1956,Level 2
+19120,deu,Germany,1957,Level 2
 19121,deu,Germany,1958,Level 3
 19122,deu,Germany,1959,Level 3
 19123,deu,Germany,1960,Level 3
@@ -19498,17 +19498,17 @@
 19496,gha,Ghana,2032,Level 2
 19497,gha,Ghana,2033,Level 2
 19498,gha,Ghana,2034,Level 2
-19499,gha,Ghana,2035,Level 3
-19500,gha,Ghana,2036,Level 3
-19501,gha,Ghana,2037,Level 3
-19502,gha,Ghana,2038,Level 3
-19503,gha,Ghana,2039,Level 3
-19504,gha,Ghana,2040,Level 3
-19505,gha,Ghana,2041,Level 3
-19506,gha,Ghana,2042,Level 3
-19507,gha,Ghana,2043,Level 3
-19508,gha,Ghana,2044,Level 3
-19509,gha,Ghana,2045,Level 3
+19499,gha,Ghana,2035,Level 2
+19500,gha,Ghana,2036,Level 2
+19501,gha,Ghana,2037,Level 2
+19502,gha,Ghana,2038,Level 2
+19503,gha,Ghana,2039,Level 2
+19504,gha,Ghana,2040,Level 2
+19505,gha,Ghana,2041,Level 2
+19506,gha,Ghana,2042,Level 2
+19507,gha,Ghana,2043,Level 2
+19508,gha,Ghana,2044,Level 2
+19509,gha,Ghana,2045,Level 2
 19510,gha,Ghana,2046,Level 3
 19511,gha,Ghana,2047,Level 3
 19512,gha,Ghana,2048,Level 3
@@ -19731,10 +19731,10 @@
 19729,grc,Greece,1964,Level 2
 19730,grc,Greece,1965,Level 2
 19731,grc,Greece,1966,Level 2
-19732,grc,Greece,1967,Level 3
-19733,grc,Greece,1968,Level 3
-19734,grc,Greece,1969,Level 3
-19735,grc,Greece,1970,Level 3
+19732,grc,Greece,1967,Level 2
+19733,grc,Greece,1968,Level 2
+19734,grc,Greece,1969,Level 2
+19735,grc,Greece,1970,Level 2
 19736,grc,Greece,1971,Level 3
 19737,grc,Greece,1972,Level 3
 19738,grc,Greece,1973,Level 3
@@ -20063,13 +20063,13 @@
 20061,grd,Grenada,1995,Level 2
 20062,grd,Grenada,1996,Level 2
 20063,grd,Grenada,1997,Level 2
-20064,grd,Grenada,1998,Level 3
-20065,grd,Grenada,1999,Level 3
-20066,grd,Grenada,2000,Level 3
-20067,grd,Grenada,2001,Level 3
-20068,grd,Grenada,2002,Level 3
-20069,grd,Grenada,2003,Level 3
-20070,grd,Grenada,2004,Level 3
+20064,grd,Grenada,1998,Level 2
+20065,grd,Grenada,1999,Level 2
+20066,grd,Grenada,2000,Level 2
+20067,grd,Grenada,2001,Level 2
+20068,grd,Grenada,2002,Level 2
+20069,grd,Grenada,2003,Level 2
+20070,grd,Grenada,2004,Level 2
 20071,grd,Grenada,2005,Level 3
 20072,grd,Grenada,2006,Level 3
 20073,grd,Grenada,2007,Level 3
@@ -20377,20 +20377,20 @@
 20375,gtm,Guatemala,2008,Level 2
 20376,gtm,Guatemala,2009,Level 2
 20377,gtm,Guatemala,2010,Level 2
-20378,gtm,Guatemala,2011,Level 3
-20379,gtm,Guatemala,2012,Level 3
-20380,gtm,Guatemala,2013,Level 3
-20381,gtm,Guatemala,2014,Level 3
-20382,gtm,Guatemala,2015,Level 3
-20383,gtm,Guatemala,2016,Level 3
-20384,gtm,Guatemala,2017,Level 3
-20385,gtm,Guatemala,2018,Level 3
-20386,gtm,Guatemala,2019,Level 3
-20387,gtm,Guatemala,2020,Level 3
-20388,gtm,Guatemala,2021,Level 3
-20389,gtm,Guatemala,2022,Level 3
-20390,gtm,Guatemala,2023,Level 3
-20391,gtm,Guatemala,2024,Level 3
+20378,gtm,Guatemala,2011,Level 2
+20379,gtm,Guatemala,2012,Level 2
+20380,gtm,Guatemala,2013,Level 2
+20381,gtm,Guatemala,2014,Level 2
+20382,gtm,Guatemala,2015,Level 2
+20383,gtm,Guatemala,2016,Level 2
+20384,gtm,Guatemala,2017,Level 2
+20385,gtm,Guatemala,2018,Level 2
+20386,gtm,Guatemala,2019,Level 2
+20387,gtm,Guatemala,2020,Level 2
+20388,gtm,Guatemala,2021,Level 2
+20389,gtm,Guatemala,2022,Level 2
+20390,gtm,Guatemala,2023,Level 2
+20391,gtm,Guatemala,2024,Level 2
 20392,gtm,Guatemala,2025,Level 3
 20393,gtm,Guatemala,2026,Level 3
 20394,gtm,Guatemala,2027,Level 3
@@ -20719,17 +20719,17 @@
 20717,gin,Guinea,2049,Level 2
 20718,gin,Guinea,2050,Level 2
 20719,gin,Guinea,2051,Level 2
-20720,gin,Guinea,2052,Level 3
-20721,gin,Guinea,2053,Level 3
-20722,gin,Guinea,2054,Level 3
-20723,gin,Guinea,2055,Level 3
-20724,gin,Guinea,2056,Level 3
-20725,gin,Guinea,2057,Level 3
-20726,gin,Guinea,2058,Level 3
-20727,gin,Guinea,2059,Level 3
-20728,gin,Guinea,2060,Level 3
-20729,gin,Guinea,2061,Level 3
-20730,gin,Guinea,2062,Level 3
+20720,gin,Guinea,2052,Level 2
+20721,gin,Guinea,2053,Level 2
+20722,gin,Guinea,2054,Level 2
+20723,gin,Guinea,2055,Level 2
+20724,gin,Guinea,2056,Level 2
+20725,gin,Guinea,2057,Level 2
+20726,gin,Guinea,2058,Level 2
+20727,gin,Guinea,2059,Level 2
+20728,gin,Guinea,2060,Level 2
+20729,gin,Guinea,2061,Level 2
+20730,gin,Guinea,2062,Level 2
 20731,gin,Guinea,2063,Level 3
 20732,gin,Guinea,2064,Level 3
 20733,gin,Guinea,2065,Level 3
@@ -21045,17 +21045,17 @@
 21043,gnb,Guinea-Bissau,2074,Level 2
 21044,gnb,Guinea-Bissau,2075,Level 2
 21045,gnb,Guinea-Bissau,2076,Level 2
-21046,gnb,Guinea-Bissau,2077,Level 3
-21047,gnb,Guinea-Bissau,2078,Level 3
-21048,gnb,Guinea-Bissau,2079,Level 3
-21049,gnb,Guinea-Bissau,2080,Level 3
-21050,gnb,Guinea-Bissau,2081,Level 3
-21051,gnb,Guinea-Bissau,2082,Level 3
-21052,gnb,Guinea-Bissau,2083,Level 3
-21053,gnb,Guinea-Bissau,2084,Level 3
-21054,gnb,Guinea-Bissau,2085,Level 3
-21055,gnb,Guinea-Bissau,2086,Level 3
-21056,gnb,Guinea-Bissau,2087,Level 3
+21046,gnb,Guinea-Bissau,2077,Level 2
+21047,gnb,Guinea-Bissau,2078,Level 2
+21048,gnb,Guinea-Bissau,2079,Level 2
+21049,gnb,Guinea-Bissau,2080,Level 2
+21050,gnb,Guinea-Bissau,2081,Level 2
+21051,gnb,Guinea-Bissau,2082,Level 2
+21052,gnb,Guinea-Bissau,2083,Level 2
+21053,gnb,Guinea-Bissau,2084,Level 2
+21054,gnb,Guinea-Bissau,2085,Level 2
+21055,gnb,Guinea-Bissau,2086,Level 2
+21056,gnb,Guinea-Bissau,2087,Level 2
 21057,gnb,Guinea-Bissau,2088,Level 3
 21058,gnb,Guinea-Bissau,2089,Level 3
 21059,gnb,Guinea-Bissau,2090,Level 3
@@ -21279,15 +21279,15 @@
 21277,guy,Guyana,2007,Level 2
 21278,guy,Guyana,2008,Level 2
 21279,guy,Guyana,2009,Level 2
-21280,guy,Guyana,2010,Level 3
-21281,guy,Guyana,2011,Level 3
-21282,guy,Guyana,2012,Level 3
-21283,guy,Guyana,2013,Level 3
-21284,guy,Guyana,2014,Level 3
-21285,guy,Guyana,2015,Level 3
-21286,guy,Guyana,2016,Level 3
-21287,guy,Guyana,2017,Level 3
-21288,guy,Guyana,2018,Level 3
+21280,guy,Guyana,2010,Level 2
+21281,guy,Guyana,2011,Level 2
+21282,guy,Guyana,2012,Level 2
+21283,guy,Guyana,2013,Level 2
+21284,guy,Guyana,2014,Level 2
+21285,guy,Guyana,2015,Level 2
+21286,guy,Guyana,2016,Level 2
+21287,guy,Guyana,2017,Level 2
+21288,guy,Guyana,2018,Level 2
 21289,guy,Guyana,2019,Level 3
 21290,guy,Guyana,2020,Level 3
 21291,guy,Guyana,2021,Level 3
@@ -21652,17 +21652,17 @@
 21650,hti,Haiti,2079,Level 2
 21651,hti,Haiti,2080,Level 2
 21652,hti,Haiti,2081,Level 2
-21653,hti,Haiti,2082,Level 3
-21654,hti,Haiti,2083,Level 3
-21655,hti,Haiti,2084,Level 3
-21656,hti,Haiti,2085,Level 3
-21657,hti,Haiti,2086,Level 3
-21658,hti,Haiti,2087,Level 3
-21659,hti,Haiti,2088,Level 3
-21660,hti,Haiti,2089,Level 3
-21661,hti,Haiti,2090,Level 3
-21662,hti,Haiti,2091,Level 3
-21663,hti,Haiti,2092,Level 3
+21653,hti,Haiti,2082,Level 2
+21654,hti,Haiti,2083,Level 2
+21655,hti,Haiti,2084,Level 2
+21656,hti,Haiti,2085,Level 2
+21657,hti,Haiti,2086,Level 2
+21658,hti,Haiti,2087,Level 2
+21659,hti,Haiti,2088,Level 2
+21660,hti,Haiti,2089,Level 2
+21661,hti,Haiti,2090,Level 2
+21662,hti,Haiti,2091,Level 2
+21663,hti,Haiti,2092,Level 2
 21664,hti,Haiti,2093,Level 3
 21665,hti,Haiti,2094,Level 3
 21666,hti,Haiti,2095,Level 3
@@ -22211,17 +22211,17 @@
 22209,hnd,Honduras,2036,Level 2
 22210,hnd,Honduras,2037,Level 2
 22211,hnd,Honduras,2038,Level 2
-22212,hnd,Honduras,2039,Level 3
-22213,hnd,Honduras,2040,Level 3
-22214,hnd,Honduras,2041,Level 3
-22215,hnd,Honduras,2042,Level 3
-22216,hnd,Honduras,2043,Level 3
-22217,hnd,Honduras,2044,Level 3
-22218,hnd,Honduras,2045,Level 3
-22219,hnd,Honduras,2046,Level 3
-22220,hnd,Honduras,2047,Level 3
-22221,hnd,Honduras,2048,Level 3
-22222,hnd,Honduras,2049,Level 3
+22212,hnd,Honduras,2039,Level 2
+22213,hnd,Honduras,2040,Level 2
+22214,hnd,Honduras,2041,Level 2
+22215,hnd,Honduras,2042,Level 2
+22216,hnd,Honduras,2043,Level 2
+22217,hnd,Honduras,2044,Level 2
+22218,hnd,Honduras,2045,Level 2
+22219,hnd,Honduras,2046,Level 2
+22220,hnd,Honduras,2047,Level 2
+22221,hnd,Honduras,2048,Level 2
+22222,hnd,Honduras,2049,Level 2
 22223,hnd,Honduras,2050,Level 3
 22224,hnd,Honduras,2051,Level 3
 22225,hnd,Honduras,2052,Level 3
@@ -22445,11 +22445,11 @@
 22443,hkg,"Hong Kong, China",1969,Level 2
 22444,hkg,"Hong Kong, China",1970,Level 2
 22445,hkg,"Hong Kong, China",1971,Level 2
-22446,hkg,"Hong Kong, China",1972,Level 3
-22447,hkg,"Hong Kong, China",1973,Level 3
-22448,hkg,"Hong Kong, China",1974,Level 3
-22449,hkg,"Hong Kong, China",1975,Level 3
-22450,hkg,"Hong Kong, China",1976,Level 3
+22446,hkg,"Hong Kong, China",1972,Level 2
+22447,hkg,"Hong Kong, China",1973,Level 2
+22448,hkg,"Hong Kong, China",1974,Level 2
+22449,hkg,"Hong Kong, China",1975,Level 2
+22450,hkg,"Hong Kong, China",1976,Level 2
 22451,hkg,"Hong Kong, China",1977,Level 3
 22452,hkg,"Hong Kong, China",1978,Level 3
 22453,hkg,"Hong Kong, China",1979,Level 3
@@ -22746,15 +22746,15 @@
 22744,hun,Hungary,1969,Level 2
 22745,hun,Hungary,1970,Level 2
 22746,hun,Hungary,1971,Level 2
-22747,hun,Hungary,1972,Level 3
-22748,hun,Hungary,1973,Level 3
-22749,hun,Hungary,1974,Level 3
-22750,hun,Hungary,1975,Level 3
-22751,hun,Hungary,1976,Level 3
-22752,hun,Hungary,1977,Level 3
-22753,hun,Hungary,1978,Level 3
-22754,hun,Hungary,1979,Level 3
-22755,hun,Hungary,1980,Level 3
+22747,hun,Hungary,1972,Level 2
+22748,hun,Hungary,1973,Level 2
+22749,hun,Hungary,1974,Level 2
+22750,hun,Hungary,1975,Level 2
+22751,hun,Hungary,1976,Level 2
+22752,hun,Hungary,1977,Level 2
+22753,hun,Hungary,1978,Level 2
+22754,hun,Hungary,1979,Level 2
+22755,hun,Hungary,1980,Level 2
 22756,hun,Hungary,1981,Level 3
 22757,hun,Hungary,1982,Level 3
 22758,hun,Hungary,1983,Level 3
@@ -23019,24 +23019,24 @@
 23017,isl,Iceland,1941,Level 2
 23018,isl,Iceland,1942,Level 2
 23019,isl,Iceland,1943,Level 2
-23020,isl,Iceland,1944,Level 3
-23021,isl,Iceland,1945,Level 3
-23022,isl,Iceland,1946,Level 3
-23023,isl,Iceland,1947,Level 3
-23024,isl,Iceland,1948,Level 3
-23025,isl,Iceland,1949,Level 3
-23026,isl,Iceland,1950,Level 3
-23027,isl,Iceland,1951,Level 3
-23028,isl,Iceland,1952,Level 3
-23029,isl,Iceland,1953,Level 3
-23030,isl,Iceland,1954,Level 3
-23031,isl,Iceland,1955,Level 3
-23032,isl,Iceland,1956,Level 3
-23033,isl,Iceland,1957,Level 3
-23034,isl,Iceland,1958,Level 3
+23020,isl,Iceland,1944,Level 2
+23021,isl,Iceland,1945,Level 2
+23022,isl,Iceland,1946,Level 2
+23023,isl,Iceland,1947,Level 2
+23024,isl,Iceland,1948,Level 2
+23025,isl,Iceland,1949,Level 2
+23026,isl,Iceland,1950,Level 2
+23027,isl,Iceland,1951,Level 2
+23028,isl,Iceland,1952,Level 2
+23029,isl,Iceland,1953,Level 2
+23030,isl,Iceland,1954,Level 2
+23031,isl,Iceland,1955,Level 2
+23032,isl,Iceland,1956,Level 2
+23033,isl,Iceland,1957,Level 2
+23034,isl,Iceland,1958,Level 2
 23035,isl,Iceland,1959,Level 3
 23036,isl,Iceland,1960,Level 3
-23037,isl,Iceland,1961,Level 3
+23037,isl,Iceland,1961,Level 2
 23038,isl,Iceland,1962,Level 3
 23039,isl,Iceland,1963,Level 3
 23040,isl,Iceland,1964,Level 3
@@ -23401,9 +23401,9 @@
 23399,ind,India,2022,Level 2
 23400,ind,India,2023,Level 2
 23401,ind,India,2024,Level 2
-23402,ind,India,2025,Level 3
-23403,ind,India,2026,Level 3
-23404,ind,India,2027,Level 3
+23402,ind,India,2025,Level 2
+23403,ind,India,2026,Level 2
+23404,ind,India,2027,Level 2
 23405,ind,India,2028,Level 3
 23406,ind,India,2029,Level 3
 23407,ind,India,2030,Level 3
@@ -23690,15 +23690,15 @@
 23688,idn,Indonesia,2010,Level 2
 23689,idn,Indonesia,2011,Level 2
 23690,idn,Indonesia,2012,Level 2
-23691,idn,Indonesia,2013,Level 3
-23692,idn,Indonesia,2014,Level 3
-23693,idn,Indonesia,2015,Level 3
-23694,idn,Indonesia,2016,Level 3
-23695,idn,Indonesia,2017,Level 3
-23696,idn,Indonesia,2018,Level 3
-23697,idn,Indonesia,2019,Level 3
-23698,idn,Indonesia,2020,Level 3
-23699,idn,Indonesia,2021,Level 3
+23691,idn,Indonesia,2013,Level 2
+23692,idn,Indonesia,2014,Level 2
+23693,idn,Indonesia,2015,Level 2
+23694,idn,Indonesia,2016,Level 2
+23695,idn,Indonesia,2017,Level 2
+23696,idn,Indonesia,2018,Level 2
+23697,idn,Indonesia,2019,Level 2
+23698,idn,Indonesia,2020,Level 2
+23699,idn,Indonesia,2021,Level 2
 23700,idn,Indonesia,2022,Level 3
 23701,idn,Indonesia,2023,Level 3
 23702,idn,Indonesia,2024,Level 3
@@ -23947,16 +23947,16 @@
 23945,irn,Iran,1966,Level 2
 23946,irn,Iran,1967,Level 2
 23947,irn,Iran,1968,Level 2
-23948,irn,Iran,1969,Level 3
+23948,irn,Iran,1969,Level 2
 23949,irn,Iran,1970,Level 2
 23950,irn,Iran,1971,Level 2
-23951,irn,Iran,1972,Level 3
-23952,irn,Iran,1973,Level 3
-23953,irn,Iran,1974,Level 3
-23954,irn,Iran,1975,Level 3
+23951,irn,Iran,1972,Level 2
+23952,irn,Iran,1973,Level 2
+23953,irn,Iran,1974,Level 2
+23954,irn,Iran,1975,Level 2
 23955,irn,Iran,1976,Level 3
-23956,irn,Iran,1977,Level 3
-23957,irn,Iran,1978,Level 3
+23956,irn,Iran,1977,Level 2
+23957,irn,Iran,1978,Level 2
 23958,irn,Iran,1979,Level 2
 23959,irn,Iran,1980,Level 2
 23960,irn,Iran,1981,Level 2
@@ -23974,14 +23974,14 @@
 23972,irn,Iran,1993,Level 2
 23973,irn,Iran,1994,Level 2
 23974,irn,Iran,1995,Level 2
-23975,irn,Iran,1996,Level 3
-23976,irn,Iran,1997,Level 3
-23977,irn,Iran,1998,Level 3
-23978,irn,Iran,1999,Level 3
-23979,irn,Iran,2000,Level 3
-23980,irn,Iran,2001,Level 3
-23981,irn,Iran,2002,Level 3
-23982,irn,Iran,2003,Level 3
+23975,irn,Iran,1996,Level 2
+23976,irn,Iran,1997,Level 2
+23977,irn,Iran,1998,Level 2
+23978,irn,Iran,1999,Level 2
+23979,irn,Iran,2000,Level 2
+23980,irn,Iran,2001,Level 2
+23981,irn,Iran,2002,Level 2
+23982,irn,Iran,2003,Level 2
 23983,irn,Iran,2004,Level 3
 23984,irn,Iran,2005,Level 3
 23985,irn,Iran,2006,Level 3
@@ -24255,18 +24255,18 @@
 24253,irq,Iraq,1973,Level 2
 24254,irq,Iraq,1974,Level 2
 24255,irq,Iraq,1975,Level 2
-24256,irq,Iraq,1976,Level 3
-24257,irq,Iraq,1977,Level 3
-24258,irq,Iraq,1978,Level 3
+24256,irq,Iraq,1976,Level 2
+24257,irq,Iraq,1977,Level 2
+24258,irq,Iraq,1978,Level 2
 24259,irq,Iraq,1979,Level 3
 24260,irq,Iraq,1980,Level 3
-24261,irq,Iraq,1981,Level 3
-24262,irq,Iraq,1982,Level 3
+24261,irq,Iraq,1981,Level 2
+24262,irq,Iraq,1982,Level 2
 24263,irq,Iraq,1983,Level 2
 24264,irq,Iraq,1984,Level 2
 24265,irq,Iraq,1985,Level 2
 24266,irq,Iraq,1986,Level 2
-24267,irq,Iraq,1987,Level 3
+24267,irq,Iraq,1987,Level 2
 24268,irq,Iraq,1988,Level 2
 24269,irq,Iraq,1989,Level 2
 24270,irq,Iraq,1990,Level 2
@@ -24279,18 +24279,18 @@
 24277,irq,Iraq,1997,Level 2
 24278,irq,Iraq,1998,Level 2
 24279,irq,Iraq,1999,Level 2
-24280,irq,Iraq,2000,Level 3
-24281,irq,Iraq,2001,Level 3
-24282,irq,Iraq,2002,Level 3
+24280,irq,Iraq,2000,Level 2
+24281,irq,Iraq,2001,Level 2
+24282,irq,Iraq,2002,Level 2
 24283,irq,Iraq,2003,Level 2
-24284,irq,Iraq,2004,Level 3
+24284,irq,Iraq,2004,Level 2
 24285,irq,Iraq,2005,Level 2
-24286,irq,Iraq,2006,Level 3
-24287,irq,Iraq,2007,Level 3
-24288,irq,Iraq,2008,Level 3
-24289,irq,Iraq,2009,Level 3
-24290,irq,Iraq,2010,Level 3
-24291,irq,Iraq,2011,Level 3
+24286,irq,Iraq,2006,Level 2
+24287,irq,Iraq,2007,Level 2
+24288,irq,Iraq,2008,Level 2
+24289,irq,Iraq,2009,Level 2
+24290,irq,Iraq,2010,Level 2
+24291,irq,Iraq,2011,Level 2
 24292,irq,Iraq,2012,Level 3
 24293,irq,Iraq,2013,Level 3
 24294,irq,Iraq,2014,Level 3
@@ -24299,13 +24299,13 @@
 24297,irq,Iraq,2017,Level 3
 24298,irq,Iraq,2018,Level 3
 24299,irq,Iraq,2019,Level 3
-24300,irq,Iraq,2020,Level 3
-24301,irq,Iraq,2021,Level 3
+24300,irq,Iraq,2020,Level 2
+24301,irq,Iraq,2021,Level 2
 24302,irq,Iraq,2022,Level 3
 24303,irq,Iraq,2023,Level 3
-24304,irq,Iraq,2024,Level 3
-24305,irq,Iraq,2025,Level 3
-24306,irq,Iraq,2026,Level 3
+24304,irq,Iraq,2024,Level 2
+24305,irq,Iraq,2025,Level 2
+24306,irq,Iraq,2026,Level 2
 24307,irq,Iraq,2027,Level 3
 24308,irq,Iraq,2028,Level 3
 24309,irq,Iraq,2029,Level 3
@@ -24544,14 +24544,14 @@
 24542,irl,Ireland,1961,Level 2
 24543,irl,Ireland,1962,Level 2
 24544,irl,Ireland,1963,Level 2
-24545,irl,Ireland,1964,Level 3
-24546,irl,Ireland,1965,Level 3
-24547,irl,Ireland,1966,Level 3
-24548,irl,Ireland,1967,Level 3
-24549,irl,Ireland,1968,Level 3
-24550,irl,Ireland,1969,Level 3
-24551,irl,Ireland,1970,Level 3
-24552,irl,Ireland,1971,Level 3
+24545,irl,Ireland,1964,Level 2
+24546,irl,Ireland,1965,Level 2
+24547,irl,Ireland,1966,Level 2
+24548,irl,Ireland,1967,Level 2
+24549,irl,Ireland,1968,Level 2
+24550,irl,Ireland,1969,Level 2
+24551,irl,Ireland,1970,Level 2
+24552,irl,Ireland,1971,Level 2
 24553,irl,Ireland,1972,Level 3
 24554,irl,Ireland,1973,Level 3
 24555,irl,Ireland,1974,Level 3
@@ -24844,12 +24844,12 @@
 24842,isr,Israel,1960,Level 2
 24843,isr,Israel,1961,Level 2
 24844,isr,Israel,1962,Level 2
-24845,isr,Israel,1963,Level 3
-24846,isr,Israel,1964,Level 3
-24847,isr,Israel,1965,Level 3
-24848,isr,Israel,1966,Level 3
-24849,isr,Israel,1967,Level 3
-24850,isr,Israel,1968,Level 3
+24845,isr,Israel,1963,Level 2
+24846,isr,Israel,1964,Level 2
+24847,isr,Israel,1965,Level 2
+24848,isr,Israel,1966,Level 2
+24849,isr,Israel,1967,Level 2
+24850,isr,Israel,1968,Level 2
 24851,isr,Israel,1969,Level 3
 24852,isr,Israel,1970,Level 3
 24853,isr,Israel,1971,Level 3
@@ -25140,10 +25140,10 @@
 25138,ita,Italy,1955,Level 2
 25139,ita,Italy,1956,Level 2
 25140,ita,Italy,1957,Level 2
-25141,ita,Italy,1958,Level 3
-25142,ita,Italy,1959,Level 3
-25143,ita,Italy,1960,Level 3
-25144,ita,Italy,1961,Level 3
+25141,ita,Italy,1958,Level 2
+25142,ita,Italy,1959,Level 2
+25143,ita,Italy,1960,Level 2
+25144,ita,Italy,1961,Level 2
 25145,ita,Italy,1962,Level 3
 25146,ita,Italy,1963,Level 3
 25147,ita,Italy,1964,Level 3
@@ -25487,11 +25487,11 @@
 25485,jam,Jamaica,2001,Level 2
 25486,jam,Jamaica,2002,Level 2
 25487,jam,Jamaica,2003,Level 2
-25488,jam,Jamaica,2004,Level 3
-25489,jam,Jamaica,2005,Level 3
-25490,jam,Jamaica,2006,Level 3
-25491,jam,Jamaica,2007,Level 3
-25492,jam,Jamaica,2008,Level 3
+25488,jam,Jamaica,2004,Level 2
+25489,jam,Jamaica,2005,Level 2
+25490,jam,Jamaica,2006,Level 2
+25491,jam,Jamaica,2007,Level 2
+25492,jam,Jamaica,2008,Level 2
 25493,jam,Jamaica,2009,Level 2
 25494,jam,Jamaica,2010,Level 2
 25495,jam,Jamaica,2011,Level 2
@@ -25501,22 +25501,22 @@
 25499,jam,Jamaica,2015,Level 2
 25500,jam,Jamaica,2016,Level 2
 25501,jam,Jamaica,2017,Level 2
-25502,jam,Jamaica,2018,Level 3
-25503,jam,Jamaica,2019,Level 3
+25502,jam,Jamaica,2018,Level 2
+25503,jam,Jamaica,2019,Level 2
 25504,jam,Jamaica,2020,Level 2
 25505,jam,Jamaica,2021,Level 2
-25506,jam,Jamaica,2022,Level 3
-25507,jam,Jamaica,2023,Level 3
-25508,jam,Jamaica,2024,Level 3
-25509,jam,Jamaica,2025,Level 3
-25510,jam,Jamaica,2026,Level 3
-25511,jam,Jamaica,2027,Level 3
-25512,jam,Jamaica,2028,Level 3
-25513,jam,Jamaica,2029,Level 3
-25514,jam,Jamaica,2030,Level 3
-25515,jam,Jamaica,2031,Level 3
-25516,jam,Jamaica,2032,Level 3
-25517,jam,Jamaica,2033,Level 3
+25506,jam,Jamaica,2022,Level 2
+25507,jam,Jamaica,2023,Level 2
+25508,jam,Jamaica,2024,Level 2
+25509,jam,Jamaica,2025,Level 2
+25510,jam,Jamaica,2026,Level 2
+25511,jam,Jamaica,2027,Level 2
+25512,jam,Jamaica,2028,Level 2
+25513,jam,Jamaica,2029,Level 2
+25514,jam,Jamaica,2030,Level 2
+25515,jam,Jamaica,2031,Level 2
+25516,jam,Jamaica,2032,Level 2
+25517,jam,Jamaica,2033,Level 2
 25518,jam,Jamaica,2034,Level 3
 25519,jam,Jamaica,2035,Level 3
 25520,jam,Jamaica,2036,Level 3
@@ -25749,9 +25749,9 @@
 25747,jpn,Japan,1962,Level 2
 25748,jpn,Japan,1963,Level 2
 25749,jpn,Japan,1964,Level 2
-25750,jpn,Japan,1965,Level 3
-25751,jpn,Japan,1966,Level 3
-25752,jpn,Japan,1967,Level 3
+25750,jpn,Japan,1965,Level 2
+25751,jpn,Japan,1966,Level 2
+25752,jpn,Japan,1967,Level 2
 25753,jpn,Japan,1968,Level 3
 25754,jpn,Japan,1969,Level 3
 25755,jpn,Japan,1970,Level 3
@@ -26090,16 +26090,16 @@
 26088,jor,Jordan,2002,Level 2
 26089,jor,Jordan,2003,Level 2
 26090,jor,Jordan,2004,Level 2
-26091,jor,Jordan,2005,Level 3
-26092,jor,Jordan,2006,Level 3
-26093,jor,Jordan,2007,Level 3
-26094,jor,Jordan,2008,Level 3
-26095,jor,Jordan,2009,Level 3
-26096,jor,Jordan,2010,Level 3
-26097,jor,Jordan,2011,Level 3
-26098,jor,Jordan,2012,Level 3
-26099,jor,Jordan,2013,Level 3
-26100,jor,Jordan,2014,Level 3
+26091,jor,Jordan,2005,Level 2
+26092,jor,Jordan,2006,Level 2
+26093,jor,Jordan,2007,Level 2
+26094,jor,Jordan,2008,Level 2
+26095,jor,Jordan,2009,Level 2
+26096,jor,Jordan,2010,Level 2
+26097,jor,Jordan,2011,Level 2
+26098,jor,Jordan,2012,Level 2
+26099,jor,Jordan,2013,Level 2
+26100,jor,Jordan,2014,Level 2
 26101,jor,Jordan,2015,Level 2
 26102,jor,Jordan,2016,Level 2
 26103,jor,Jordan,2017,Level 2
@@ -26111,15 +26111,15 @@
 26109,jor,Jordan,2023,Level 2
 26110,jor,Jordan,2024,Level 2
 26111,jor,Jordan,2025,Level 2
-26112,jor,Jordan,2026,Level 3
-26113,jor,Jordan,2027,Level 3
-26114,jor,Jordan,2028,Level 3
-26115,jor,Jordan,2029,Level 3
-26116,jor,Jordan,2030,Level 3
-26117,jor,Jordan,2031,Level 3
-26118,jor,Jordan,2032,Level 3
-26119,jor,Jordan,2033,Level 3
-26120,jor,Jordan,2034,Level 3
+26112,jor,Jordan,2026,Level 2
+26113,jor,Jordan,2027,Level 2
+26114,jor,Jordan,2028,Level 2
+26115,jor,Jordan,2029,Level 2
+26116,jor,Jordan,2030,Level 2
+26117,jor,Jordan,2031,Level 2
+26118,jor,Jordan,2032,Level 2
+26119,jor,Jordan,2033,Level 2
+26120,jor,Jordan,2034,Level 2
 26121,jor,Jordan,2035,Level 3
 26122,jor,Jordan,2036,Level 3
 26123,jor,Jordan,2037,Level 3
@@ -26346,13 +26346,13 @@
 26344,kaz,Kazakhstan,1957,Level 2
 26345,kaz,Kazakhstan,1958,Level 2
 26346,kaz,Kazakhstan,1959,Level 2
-26347,kaz,Kazakhstan,1960,Level 3
-26348,kaz,Kazakhstan,1961,Level 3
-26349,kaz,Kazakhstan,1962,Level 3
-26350,kaz,Kazakhstan,1963,Level 3
-26351,kaz,Kazakhstan,1964,Level 3
-26352,kaz,Kazakhstan,1965,Level 3
-26353,kaz,Kazakhstan,1966,Level 3
+26347,kaz,Kazakhstan,1960,Level 2
+26348,kaz,Kazakhstan,1961,Level 2
+26349,kaz,Kazakhstan,1962,Level 2
+26350,kaz,Kazakhstan,1963,Level 2
+26351,kaz,Kazakhstan,1964,Level 2
+26352,kaz,Kazakhstan,1965,Level 2
+26353,kaz,Kazakhstan,1966,Level 2
 26354,kaz,Kazakhstan,1967,Level 3
 26355,kaz,Kazakhstan,1968,Level 3
 26356,kaz,Kazakhstan,1969,Level 3
@@ -26379,14 +26379,14 @@
 26377,kaz,Kazakhstan,1990,Level 3
 26378,kaz,Kazakhstan,1991,Level 3
 26379,kaz,Kazakhstan,1992,Level 3
-26380,kaz,Kazakhstan,1993,Level 3
-26381,kaz,Kazakhstan,1994,Level 3
-26382,kaz,Kazakhstan,1995,Level 3
-26383,kaz,Kazakhstan,1996,Level 3
-26384,kaz,Kazakhstan,1997,Level 3
-26385,kaz,Kazakhstan,1998,Level 3
-26386,kaz,Kazakhstan,1999,Level 3
-26387,kaz,Kazakhstan,2000,Level 3
+26380,kaz,Kazakhstan,1993,Level 2
+26381,kaz,Kazakhstan,1994,Level 2
+26382,kaz,Kazakhstan,1995,Level 2
+26383,kaz,Kazakhstan,1996,Level 2
+26384,kaz,Kazakhstan,1997,Level 2
+26385,kaz,Kazakhstan,1998,Level 2
+26386,kaz,Kazakhstan,1999,Level 2
+26387,kaz,Kazakhstan,2000,Level 2
 26388,kaz,Kazakhstan,2001,Level 3
 26389,kaz,Kazakhstan,2002,Level 3
 26390,kaz,Kazakhstan,2003,Level 3
@@ -26728,17 +26728,17 @@
 26726,ken,Kenya,2038,Level 2
 26727,ken,Kenya,2039,Level 2
 26728,ken,Kenya,2040,Level 2
-26729,ken,Kenya,2041,Level 3
-26730,ken,Kenya,2042,Level 3
-26731,ken,Kenya,2043,Level 3
-26732,ken,Kenya,2044,Level 3
-26733,ken,Kenya,2045,Level 3
-26734,ken,Kenya,2046,Level 3
-26735,ken,Kenya,2047,Level 3
-26736,ken,Kenya,2048,Level 3
-26737,ken,Kenya,2049,Level 3
-26738,ken,Kenya,2050,Level 3
-26739,ken,Kenya,2051,Level 3
+26729,ken,Kenya,2041,Level 2
+26730,ken,Kenya,2042,Level 2
+26731,ken,Kenya,2043,Level 2
+26732,ken,Kenya,2044,Level 2
+26733,ken,Kenya,2045,Level 2
+26734,ken,Kenya,2046,Level 2
+26735,ken,Kenya,2047,Level 2
+26736,ken,Kenya,2048,Level 2
+26737,ken,Kenya,2049,Level 2
+26738,ken,Kenya,2050,Level 2
+26739,ken,Kenya,2051,Level 2
 26740,ken,Kenya,2052,Level 3
 26741,ken,Kenya,2053,Level 3
 26742,ken,Kenya,2054,Level 3
@@ -27056,17 +27056,17 @@
 27054,kir,Kiribati,2065,Level 2
 27055,kir,Kiribati,2066,Level 2
 27056,kir,Kiribati,2067,Level 2
-27057,kir,Kiribati,2068,Level 3
-27058,kir,Kiribati,2069,Level 3
-27059,kir,Kiribati,2070,Level 3
-27060,kir,Kiribati,2071,Level 3
-27061,kir,Kiribati,2072,Level 3
-27062,kir,Kiribati,2073,Level 3
-27063,kir,Kiribati,2074,Level 3
-27064,kir,Kiribati,2075,Level 3
-27065,kir,Kiribati,2076,Level 3
-27066,kir,Kiribati,2077,Level 3
-27067,kir,Kiribati,2078,Level 3
+27057,kir,Kiribati,2068,Level 2
+27058,kir,Kiribati,2069,Level 2
+27059,kir,Kiribati,2070,Level 2
+27060,kir,Kiribati,2071,Level 2
+27061,kir,Kiribati,2072,Level 2
+27062,kir,Kiribati,2073,Level 2
+27063,kir,Kiribati,2074,Level 2
+27064,kir,Kiribati,2075,Level 2
+27065,kir,Kiribati,2076,Level 2
+27066,kir,Kiribati,2077,Level 2
+27067,kir,Kiribati,2078,Level 2
 27068,kir,Kiribati,2079,Level 3
 27069,kir,Kiribati,2080,Level 3
 27070,kir,Kiribati,2081,Level 3
@@ -27241,7 +27241,7 @@
 27239,kwt,Kuwait,1949,Level 2
 27240,kwt,Kuwait,1950,Level 2
 27241,kwt,Kuwait,1951,Level 2
-27242,kwt,Kuwait,1952,Level 3
+27242,kwt,Kuwait,1952,Level 2
 27243,kwt,Kuwait,1953,Level 3
 27244,kwt,Kuwait,1954,Level 3
 27245,kwt,Kuwait,1955,Level 3
@@ -27622,17 +27622,17 @@
 27620,kgz,Kyrgyz Republic,2029,Level 2
 27621,kgz,Kyrgyz Republic,2030,Level 2
 27622,kgz,Kyrgyz Republic,2031,Level 2
-27623,kgz,Kyrgyz Republic,2032,Level 3
-27624,kgz,Kyrgyz Republic,2033,Level 3
-27625,kgz,Kyrgyz Republic,2034,Level 3
-27626,kgz,Kyrgyz Republic,2035,Level 3
-27627,kgz,Kyrgyz Republic,2036,Level 3
-27628,kgz,Kyrgyz Republic,2037,Level 3
-27629,kgz,Kyrgyz Republic,2038,Level 3
-27630,kgz,Kyrgyz Republic,2039,Level 3
-27631,kgz,Kyrgyz Republic,2040,Level 3
-27632,kgz,Kyrgyz Republic,2041,Level 3
-27633,kgz,Kyrgyz Republic,2042,Level 3
+27623,kgz,Kyrgyz Republic,2032,Level 2
+27624,kgz,Kyrgyz Republic,2033,Level 2
+27625,kgz,Kyrgyz Republic,2034,Level 2
+27626,kgz,Kyrgyz Republic,2035,Level 2
+27627,kgz,Kyrgyz Republic,2036,Level 2
+27628,kgz,Kyrgyz Republic,2037,Level 2
+27629,kgz,Kyrgyz Republic,2038,Level 2
+27630,kgz,Kyrgyz Republic,2039,Level 2
+27631,kgz,Kyrgyz Republic,2040,Level 2
+27632,kgz,Kyrgyz Republic,2041,Level 2
+27633,kgz,Kyrgyz Republic,2042,Level 2
 27634,kgz,Kyrgyz Republic,2043,Level 3
 27635,kgz,Kyrgyz Republic,2044,Level 3
 27636,kgz,Kyrgyz Republic,2045,Level 3
@@ -27920,15 +27920,15 @@
 27918,lao,Lao,2026,Level 2
 27919,lao,Lao,2027,Level 2
 27920,lao,Lao,2028,Level 2
-27921,lao,Lao,2029,Level 3
-27922,lao,Lao,2030,Level 3
-27923,lao,Lao,2031,Level 3
-27924,lao,Lao,2032,Level 3
-27925,lao,Lao,2033,Level 3
-27926,lao,Lao,2034,Level 3
-27927,lao,Lao,2035,Level 3
-27928,lao,Lao,2036,Level 3
-27929,lao,Lao,2037,Level 3
+27921,lao,Lao,2029,Level 2
+27922,lao,Lao,2030,Level 2
+27923,lao,Lao,2031,Level 2
+27924,lao,Lao,2032,Level 2
+27925,lao,Lao,2033,Level 2
+27926,lao,Lao,2034,Level 2
+27927,lao,Lao,2035,Level 2
+27928,lao,Lao,2036,Level 2
+27929,lao,Lao,2037,Level 2
 27930,lao,Lao,2038,Level 3
 27931,lao,Lao,2039,Level 3
 27932,lao,Lao,2040,Level 3
@@ -28156,12 +28156,12 @@
 28154,lva,Latvia,1961,Level 2
 28155,lva,Latvia,1962,Level 2
 28156,lva,Latvia,1963,Level 2
-28157,lva,Latvia,1964,Level 3
-28158,lva,Latvia,1965,Level 3
-28159,lva,Latvia,1966,Level 3
-28160,lva,Latvia,1967,Level 3
-28161,lva,Latvia,1968,Level 3
-28162,lva,Latvia,1969,Level 3
+28157,lva,Latvia,1964,Level 2
+28158,lva,Latvia,1965,Level 2
+28159,lva,Latvia,1966,Level 2
+28160,lva,Latvia,1967,Level 2
+28161,lva,Latvia,1968,Level 2
+28162,lva,Latvia,1969,Level 2
 28163,lva,Latvia,1970,Level 3
 28164,lva,Latvia,1971,Level 3
 28165,lva,Latvia,1972,Level 3
@@ -28184,12 +28184,12 @@
 28182,lva,Latvia,1989,Level 3
 28183,lva,Latvia,1990,Level 3
 28184,lva,Latvia,1991,Level 3
-28185,lva,Latvia,1992,Level 3
-28186,lva,Latvia,1993,Level 3
-28187,lva,Latvia,1994,Level 3
-28188,lva,Latvia,1995,Level 3
-28189,lva,Latvia,1996,Level 3
-28190,lva,Latvia,1997,Level 3
+28185,lva,Latvia,1992,Level 2
+28186,lva,Latvia,1993,Level 2
+28187,lva,Latvia,1994,Level 2
+28188,lva,Latvia,1995,Level 2
+28189,lva,Latvia,1996,Level 2
+28190,lva,Latvia,1997,Level 2
 28191,lva,Latvia,1998,Level 3
 28192,lva,Latvia,1999,Level 3
 28193,lva,Latvia,2000,Level 3
@@ -28463,11 +28463,11 @@
 28461,lbn,Lebanon,1967,Level 2
 28462,lbn,Lebanon,1968,Level 2
 28463,lbn,Lebanon,1969,Level 2
-28464,lbn,Lebanon,1970,Level 3
-28465,lbn,Lebanon,1971,Level 3
-28466,lbn,Lebanon,1972,Level 3
-28467,lbn,Lebanon,1973,Level 3
-28468,lbn,Lebanon,1974,Level 3
+28464,lbn,Lebanon,1970,Level 2
+28465,lbn,Lebanon,1971,Level 2
+28466,lbn,Lebanon,1972,Level 2
+28467,lbn,Lebanon,1973,Level 2
+28468,lbn,Lebanon,1974,Level 2
 28469,lbn,Lebanon,1975,Level 2
 28470,lbn,Lebanon,1976,Level 2
 28471,lbn,Lebanon,1977,Level 2
@@ -28478,9 +28478,9 @@
 28476,lbn,Lebanon,1982,Level 2
 28477,lbn,Lebanon,1983,Level 2
 28478,lbn,Lebanon,1984,Level 2
-28479,lbn,Lebanon,1985,Level 3
-28480,lbn,Lebanon,1986,Level 3
-28481,lbn,Lebanon,1987,Level 3
+28479,lbn,Lebanon,1985,Level 2
+28480,lbn,Lebanon,1986,Level 2
+28481,lbn,Lebanon,1987,Level 2
 28482,lbn,Lebanon,1988,Level 2
 28483,lbn,Lebanon,1989,Level 2
 28484,lbn,Lebanon,1990,Level 2
@@ -28488,16 +28488,16 @@
 28486,lbn,Lebanon,1992,Level 2
 28487,lbn,Lebanon,1993,Level 2
 28488,lbn,Lebanon,1994,Level 2
-28489,lbn,Lebanon,1995,Level 3
-28490,lbn,Lebanon,1996,Level 3
-28491,lbn,Lebanon,1997,Level 3
-28492,lbn,Lebanon,1998,Level 3
-28493,lbn,Lebanon,1999,Level 3
-28494,lbn,Lebanon,2000,Level 3
-28495,lbn,Lebanon,2001,Level 3
-28496,lbn,Lebanon,2002,Level 3
-28497,lbn,Lebanon,2003,Level 3
-28498,lbn,Lebanon,2004,Level 3
+28489,lbn,Lebanon,1995,Level 2
+28490,lbn,Lebanon,1996,Level 2
+28491,lbn,Lebanon,1997,Level 2
+28492,lbn,Lebanon,1998,Level 2
+28493,lbn,Lebanon,1999,Level 2
+28494,lbn,Lebanon,2000,Level 2
+28495,lbn,Lebanon,2001,Level 2
+28496,lbn,Lebanon,2002,Level 2
+28497,lbn,Lebanon,2003,Level 2
+28498,lbn,Lebanon,2004,Level 2
 28499,lbn,Lebanon,2005,Level 3
 28500,lbn,Lebanon,2006,Level 3
 28501,lbn,Lebanon,2007,Level 3
@@ -28513,21 +28513,21 @@
 28511,lbn,Lebanon,2017,Level 3
 28512,lbn,Lebanon,2018,Level 3
 28513,lbn,Lebanon,2019,Level 3
-28514,lbn,Lebanon,2020,Level 3
-28515,lbn,Lebanon,2021,Level 3
-28516,lbn,Lebanon,2022,Level 3
-28517,lbn,Lebanon,2023,Level 3
-28518,lbn,Lebanon,2024,Level 3
-28519,lbn,Lebanon,2025,Level 3
-28520,lbn,Lebanon,2026,Level 3
-28521,lbn,Lebanon,2027,Level 3
-28522,lbn,Lebanon,2028,Level 3
-28523,lbn,Lebanon,2029,Level 3
-28524,lbn,Lebanon,2030,Level 3
-28525,lbn,Lebanon,2031,Level 3
-28526,lbn,Lebanon,2032,Level 3
-28527,lbn,Lebanon,2033,Level 3
-28528,lbn,Lebanon,2034,Level 3
+28514,lbn,Lebanon,2020,Level 2
+28515,lbn,Lebanon,2021,Level 2
+28516,lbn,Lebanon,2022,Level 2
+28517,lbn,Lebanon,2023,Level 2
+28518,lbn,Lebanon,2024,Level 2
+28519,lbn,Lebanon,2025,Level 2
+28520,lbn,Lebanon,2026,Level 2
+28521,lbn,Lebanon,2027,Level 2
+28522,lbn,Lebanon,2028,Level 2
+28523,lbn,Lebanon,2029,Level 2
+28524,lbn,Lebanon,2030,Level 2
+28525,lbn,Lebanon,2031,Level 2
+28526,lbn,Lebanon,2032,Level 2
+28527,lbn,Lebanon,2033,Level 2
+28528,lbn,Lebanon,2034,Level 2
 28529,lbn,Lebanon,2035,Level 3
 28530,lbn,Lebanon,2036,Level 3
 28531,lbn,Lebanon,2037,Level 3
@@ -28878,17 +28878,17 @@
 28876,lso,Lesotho,2081,Level 2
 28877,lso,Lesotho,2082,Level 2
 28878,lso,Lesotho,2083,Level 2
-28879,lso,Lesotho,2084,Level 3
-28880,lso,Lesotho,2085,Level 3
-28881,lso,Lesotho,2086,Level 3
-28882,lso,Lesotho,2087,Level 3
-28883,lso,Lesotho,2088,Level 3
-28884,lso,Lesotho,2089,Level 3
-28885,lso,Lesotho,2090,Level 3
-28886,lso,Lesotho,2091,Level 3
-28887,lso,Lesotho,2092,Level 3
-28888,lso,Lesotho,2093,Level 3
-28889,lso,Lesotho,2094,Level 3
+28879,lso,Lesotho,2084,Level 2
+28880,lso,Lesotho,2085,Level 2
+28881,lso,Lesotho,2086,Level 2
+28882,lso,Lesotho,2087,Level 2
+28883,lso,Lesotho,2088,Level 2
+28884,lso,Lesotho,2089,Level 2
+28885,lso,Lesotho,2090,Level 2
+28886,lso,Lesotho,2091,Level 2
+28887,lso,Lesotho,2092,Level 2
+28888,lso,Lesotho,2093,Level 2
+28889,lso,Lesotho,2094,Level 2
 28890,lso,Lesotho,2095,Level 3
 28891,lso,Lesotho,2096,Level 3
 28892,lso,Lesotho,2097,Level 3
@@ -29195,7 +29195,7 @@
 29193,lbr,Liberia,2097,Level 2
 29194,lbr,Liberia,2098,Level 2
 29195,lbr,Liberia,2099,Level 2
-29196,lbr,Liberia,2100,Level 3
+29196,lbr,Liberia,2100,Level 2
 29197,lby,Libya,1800,Level 1
 29198,lby,Libya,1801,Level 1
 29199,lby,Libya,1802,Level 1
@@ -29364,12 +29364,12 @@
 29362,lby,Libya,1965,Level 2
 29363,lby,Libya,1966,Level 2
 29364,lby,Libya,1967,Level 2
-29365,lby,Libya,1968,Level 3
-29366,lby,Libya,1969,Level 3
-29367,lby,Libya,1970,Level 3
-29368,lby,Libya,1971,Level 3
-29369,lby,Libya,1972,Level 3
-29370,lby,Libya,1973,Level 3
+29365,lby,Libya,1968,Level 2
+29366,lby,Libya,1969,Level 2
+29367,lby,Libya,1970,Level 2
+29368,lby,Libya,1971,Level 2
+29369,lby,Libya,1972,Level 2
+29370,lby,Libya,1973,Level 2
 29371,lby,Libya,1974,Level 3
 29372,lby,Libya,1975,Level 3
 29373,lby,Libya,1976,Level 3
@@ -29383,9 +29383,9 @@
 29381,lby,Libya,1984,Level 3
 29382,lby,Libya,1985,Level 3
 29383,lby,Libya,1986,Level 3
-29384,lby,Libya,1987,Level 3
-29385,lby,Libya,1988,Level 3
-29386,lby,Libya,1989,Level 3
+29384,lby,Libya,1987,Level 2
+29385,lby,Libya,1988,Level 2
+29386,lby,Libya,1989,Level 2
 29387,lby,Libya,1990,Level 3
 29388,lby,Libya,1991,Level 3
 29389,lby,Libya,1992,Level 3
@@ -29407,20 +29407,20 @@
 29405,lby,Libya,2008,Level 3
 29406,lby,Libya,2009,Level 3
 29407,lby,Libya,2010,Level 3
-29408,lby,Libya,2011,Level 3
+29408,lby,Libya,2011,Level 2
 29409,lby,Libya,2012,Level 3
 29410,lby,Libya,2013,Level 3
-29411,lby,Libya,2014,Level 3
-29412,lby,Libya,2015,Level 3
-29413,lby,Libya,2016,Level 3
+29411,lby,Libya,2014,Level 2
+29412,lby,Libya,2015,Level 2
+29413,lby,Libya,2016,Level 2
 29414,lby,Libya,2017,Level 3
 29415,lby,Libya,2018,Level 3
 29416,lby,Libya,2019,Level 3
 29417,lby,Libya,2020,Level 2
-29418,lby,Libya,2021,Level 3
-29419,lby,Libya,2022,Level 3
-29420,lby,Libya,2023,Level 3
-29421,lby,Libya,2024,Level 3
+29418,lby,Libya,2021,Level 2
+29419,lby,Libya,2022,Level 2
+29420,lby,Libya,2023,Level 2
+29421,lby,Libya,2024,Level 2
 29422,lby,Libya,2025,Level 3
 29423,lby,Libya,2026,Level 3
 29424,lby,Libya,2027,Level 3
@@ -29954,16 +29954,16 @@
 29952,ltu,Lithuania,1953,Level 2
 29953,ltu,Lithuania,1954,Level 2
 29954,ltu,Lithuania,1955,Level 2
-29955,ltu,Lithuania,1956,Level 3
-29956,ltu,Lithuania,1957,Level 3
-29957,ltu,Lithuania,1958,Level 3
-29958,ltu,Lithuania,1959,Level 3
-29959,ltu,Lithuania,1960,Level 3
-29960,ltu,Lithuania,1961,Level 3
-29961,ltu,Lithuania,1962,Level 3
-29962,ltu,Lithuania,1963,Level 3
-29963,ltu,Lithuania,1964,Level 3
-29964,ltu,Lithuania,1965,Level 3
+29955,ltu,Lithuania,1956,Level 2
+29956,ltu,Lithuania,1957,Level 2
+29957,ltu,Lithuania,1958,Level 2
+29958,ltu,Lithuania,1959,Level 2
+29959,ltu,Lithuania,1960,Level 2
+29960,ltu,Lithuania,1961,Level 2
+29961,ltu,Lithuania,1962,Level 2
+29962,ltu,Lithuania,1963,Level 2
+29963,ltu,Lithuania,1964,Level 2
+29964,ltu,Lithuania,1965,Level 2
 29965,ltu,Lithuania,1966,Level 3
 29966,ltu,Lithuania,1967,Level 3
 29967,ltu,Lithuania,1968,Level 3
@@ -29991,10 +29991,10 @@
 29989,ltu,Lithuania,1990,Level 3
 29990,ltu,Lithuania,1991,Level 3
 29991,ltu,Lithuania,1992,Level 3
-29992,ltu,Lithuania,1993,Level 3
-29993,ltu,Lithuania,1994,Level 3
-29994,ltu,Lithuania,1995,Level 3
-29995,ltu,Lithuania,1996,Level 3
+29992,ltu,Lithuania,1993,Level 2
+29993,ltu,Lithuania,1994,Level 2
+29994,ltu,Lithuania,1995,Level 2
+29995,ltu,Lithuania,1996,Level 2
 29996,ltu,Lithuania,1997,Level 3
 29997,ltu,Lithuania,1998,Level 3
 29998,ltu,Lithuania,1999,Level 3
@@ -30226,16 +30226,16 @@
 30224,lux,Luxembourg,1924,Level 2
 30225,lux,Luxembourg,1925,Level 2
 30226,lux,Luxembourg,1926,Level 2
-30227,lux,Luxembourg,1927,Level 3
-30228,lux,Luxembourg,1928,Level 3
-30229,lux,Luxembourg,1929,Level 3
-30230,lux,Luxembourg,1930,Level 3
-30231,lux,Luxembourg,1931,Level 3
-30232,lux,Luxembourg,1932,Level 3
-30233,lux,Luxembourg,1933,Level 3
-30234,lux,Luxembourg,1934,Level 3
-30235,lux,Luxembourg,1935,Level 3
-30236,lux,Luxembourg,1936,Level 3
+30227,lux,Luxembourg,1927,Level 2
+30228,lux,Luxembourg,1928,Level 2
+30229,lux,Luxembourg,1929,Level 2
+30230,lux,Luxembourg,1930,Level 2
+30231,lux,Luxembourg,1931,Level 2
+30232,lux,Luxembourg,1932,Level 2
+30233,lux,Luxembourg,1933,Level 2
+30234,lux,Luxembourg,1934,Level 2
+30235,lux,Luxembourg,1935,Level 2
+30236,lux,Luxembourg,1936,Level 2
 30237,lux,Luxembourg,1937,Level 3
 30238,lux,Luxembourg,1938,Level 3
 30239,lux,Luxembourg,1939,Level 3
@@ -30573,12 +30573,12 @@
 30571,mkd,"Macedonia, FYR",1970,Level 2
 30572,mkd,"Macedonia, FYR",1971,Level 2
 30573,mkd,"Macedonia, FYR",1972,Level 2
-30574,mkd,"Macedonia, FYR",1973,Level 3
-30575,mkd,"Macedonia, FYR",1974,Level 3
-30576,mkd,"Macedonia, FYR",1975,Level 3
-30577,mkd,"Macedonia, FYR",1976,Level 3
-30578,mkd,"Macedonia, FYR",1977,Level 3
-30579,mkd,"Macedonia, FYR",1978,Level 3
+30574,mkd,"Macedonia, FYR",1973,Level 2
+30575,mkd,"Macedonia, FYR",1974,Level 2
+30576,mkd,"Macedonia, FYR",1975,Level 2
+30577,mkd,"Macedonia, FYR",1976,Level 2
+30578,mkd,"Macedonia, FYR",1977,Level 2
+30579,mkd,"Macedonia, FYR",1978,Level 2
 30580,mkd,"Macedonia, FYR",1979,Level 3
 30581,mkd,"Macedonia, FYR",1980,Level 3
 30582,mkd,"Macedonia, FYR",1981,Level 3
@@ -30590,21 +30590,21 @@
 30588,mkd,"Macedonia, FYR",1987,Level 3
 30589,mkd,"Macedonia, FYR",1988,Level 3
 30590,mkd,"Macedonia, FYR",1989,Level 3
-30591,mkd,"Macedonia, FYR",1990,Level 3
-30592,mkd,"Macedonia, FYR",1991,Level 3
-30593,mkd,"Macedonia, FYR",1992,Level 3
-30594,mkd,"Macedonia, FYR",1993,Level 3
-30595,mkd,"Macedonia, FYR",1994,Level 3
-30596,mkd,"Macedonia, FYR",1995,Level 3
-30597,mkd,"Macedonia, FYR",1996,Level 3
-30598,mkd,"Macedonia, FYR",1997,Level 3
-30599,mkd,"Macedonia, FYR",1998,Level 3
-30600,mkd,"Macedonia, FYR",1999,Level 3
-30601,mkd,"Macedonia, FYR",2000,Level 3
-30602,mkd,"Macedonia, FYR",2001,Level 3
-30603,mkd,"Macedonia, FYR",2002,Level 3
-30604,mkd,"Macedonia, FYR",2003,Level 3
-30605,mkd,"Macedonia, FYR",2004,Level 3
+30591,mkd,"Macedonia, FYR",1990,Level 2
+30592,mkd,"Macedonia, FYR",1991,Level 2
+30593,mkd,"Macedonia, FYR",1992,Level 2
+30594,mkd,"Macedonia, FYR",1993,Level 2
+30595,mkd,"Macedonia, FYR",1994,Level 2
+30596,mkd,"Macedonia, FYR",1995,Level 2
+30597,mkd,"Macedonia, FYR",1996,Level 2
+30598,mkd,"Macedonia, FYR",1997,Level 2
+30599,mkd,"Macedonia, FYR",1998,Level 2
+30600,mkd,"Macedonia, FYR",1999,Level 2
+30601,mkd,"Macedonia, FYR",2000,Level 2
+30602,mkd,"Macedonia, FYR",2001,Level 2
+30603,mkd,"Macedonia, FYR",2002,Level 2
+30604,mkd,"Macedonia, FYR",2003,Level 2
+30605,mkd,"Macedonia, FYR",2004,Level 2
 30606,mkd,"Macedonia, FYR",2005,Level 3
 30607,mkd,"Macedonia, FYR",2006,Level 3
 30608,mkd,"Macedonia, FYR",2007,Level 3
@@ -31000,8 +31000,8 @@
 30998,mdg,Madagascar,2096,Level 2
 30999,mdg,Madagascar,2097,Level 2
 31000,mdg,Madagascar,2098,Level 2
-31001,mdg,Madagascar,2099,Level 3
-31002,mdg,Madagascar,2100,Level 3
+31001,mdg,Madagascar,2099,Level 2
+31002,mdg,Madagascar,2100,Level 2
 31003,mwi,Malawi,1800,Level 1
 31004,mwi,Malawi,1801,Level 1
 31005,mwi,Malawi,1802,Level 1
@@ -31492,9 +31492,9 @@
 31490,mys,Malaysia,1986,Level 2
 31491,mys,Malaysia,1987,Level 2
 31492,mys,Malaysia,1988,Level 2
-31493,mys,Malaysia,1989,Level 3
-31494,mys,Malaysia,1990,Level 3
-31495,mys,Malaysia,1991,Level 3
+31493,mys,Malaysia,1989,Level 2
+31494,mys,Malaysia,1990,Level 2
+31495,mys,Malaysia,1991,Level 2
 31496,mys,Malaysia,1992,Level 3
 31497,mys,Malaysia,1993,Level 3
 31498,mys,Malaysia,1994,Level 3
@@ -31799,13 +31799,13 @@
 31797,mdv,Maldives,1992,Level 2
 31798,mdv,Maldives,1993,Level 2
 31799,mdv,Maldives,1994,Level 2
-31800,mdv,Maldives,1995,Level 3
-31801,mdv,Maldives,1996,Level 3
-31802,mdv,Maldives,1997,Level 3
-31803,mdv,Maldives,1998,Level 3
+31800,mdv,Maldives,1995,Level 2
+31801,mdv,Maldives,1996,Level 2
+31802,mdv,Maldives,1997,Level 2
+31803,mdv,Maldives,1998,Level 2
 31804,mdv,Maldives,1999,Level 3
 31805,mdv,Maldives,2000,Level 3
-31806,mdv,Maldives,2001,Level 3
+31806,mdv,Maldives,2001,Level 2
 31807,mdv,Maldives,2002,Level 3
 31808,mdv,Maldives,2003,Level 3
 31809,mdv,Maldives,2004,Level 3
@@ -32177,17 +32177,17 @@
 32175,mli,Mali,2069,Level 2
 32176,mli,Mali,2070,Level 2
 32177,mli,Mali,2071,Level 2
-32178,mli,Mali,2072,Level 3
-32179,mli,Mali,2073,Level 3
-32180,mli,Mali,2074,Level 3
-32181,mli,Mali,2075,Level 3
-32182,mli,Mali,2076,Level 3
-32183,mli,Mali,2077,Level 3
-32184,mli,Mali,2078,Level 3
-32185,mli,Mali,2079,Level 3
-32186,mli,Mali,2080,Level 3
-32187,mli,Mali,2081,Level 3
-32188,mli,Mali,2082,Level 3
+32178,mli,Mali,2072,Level 2
+32179,mli,Mali,2073,Level 2
+32180,mli,Mali,2074,Level 2
+32181,mli,Mali,2075,Level 2
+32182,mli,Mali,2076,Level 2
+32183,mli,Mali,2077,Level 2
+32184,mli,Mali,2078,Level 2
+32185,mli,Mali,2079,Level 2
+32186,mli,Mali,2080,Level 2
+32187,mli,Mali,2081,Level 2
+32188,mli,Mali,2082,Level 2
 32189,mli,Mali,2083,Level 3
 32190,mli,Mali,2084,Level 3
 32191,mli,Mali,2085,Level 3
@@ -32385,13 +32385,13 @@
 32383,mlt,Malta,1976,Level 2
 32384,mlt,Malta,1977,Level 2
 32385,mlt,Malta,1978,Level 2
-32386,mlt,Malta,1979,Level 3
-32387,mlt,Malta,1980,Level 3
-32388,mlt,Malta,1981,Level 3
-32389,mlt,Malta,1982,Level 3
-32390,mlt,Malta,1983,Level 3
-32391,mlt,Malta,1984,Level 3
-32392,mlt,Malta,1985,Level 3
+32386,mlt,Malta,1979,Level 2
+32387,mlt,Malta,1980,Level 2
+32388,mlt,Malta,1981,Level 2
+32389,mlt,Malta,1982,Level 2
+32390,mlt,Malta,1983,Level 2
+32391,mlt,Malta,1984,Level 2
+32392,mlt,Malta,1985,Level 2
 32393,mlt,Malta,1986,Level 3
 32394,mlt,Malta,1987,Level 3
 32395,mlt,Malta,1988,Level 3
@@ -32736,14 +32736,14 @@
 32734,mhl,Marshall Islands,2026,Level 2
 32735,mhl,Marshall Islands,2027,Level 2
 32736,mhl,Marshall Islands,2028,Level 2
-32737,mhl,Marshall Islands,2029,Level 3
-32738,mhl,Marshall Islands,2030,Level 3
-32739,mhl,Marshall Islands,2031,Level 3
-32740,mhl,Marshall Islands,2032,Level 3
-32741,mhl,Marshall Islands,2033,Level 3
-32742,mhl,Marshall Islands,2034,Level 3
-32743,mhl,Marshall Islands,2035,Level 3
-32744,mhl,Marshall Islands,2036,Level 3
+32737,mhl,Marshall Islands,2029,Level 2
+32738,mhl,Marshall Islands,2030,Level 2
+32739,mhl,Marshall Islands,2031,Level 2
+32740,mhl,Marshall Islands,2032,Level 2
+32741,mhl,Marshall Islands,2033,Level 2
+32742,mhl,Marshall Islands,2034,Level 2
+32743,mhl,Marshall Islands,2035,Level 2
+32744,mhl,Marshall Islands,2036,Level 2
 32745,mhl,Marshall Islands,2037,Level 3
 32746,mhl,Marshall Islands,2038,Level 3
 32747,mhl,Marshall Islands,2039,Level 3
@@ -33048,17 +33048,17 @@
 33046,mrt,Mauritania,2037,Level 2
 33047,mrt,Mauritania,2038,Level 2
 33048,mrt,Mauritania,2039,Level 2
-33049,mrt,Mauritania,2040,Level 3
-33050,mrt,Mauritania,2041,Level 3
-33051,mrt,Mauritania,2042,Level 3
-33052,mrt,Mauritania,2043,Level 3
-33053,mrt,Mauritania,2044,Level 3
-33054,mrt,Mauritania,2045,Level 3
-33055,mrt,Mauritania,2046,Level 3
-33056,mrt,Mauritania,2047,Level 3
-33057,mrt,Mauritania,2048,Level 3
-33058,mrt,Mauritania,2049,Level 3
-33059,mrt,Mauritania,2050,Level 3
+33049,mrt,Mauritania,2040,Level 2
+33050,mrt,Mauritania,2041,Level 2
+33051,mrt,Mauritania,2042,Level 2
+33052,mrt,Mauritania,2043,Level 2
+33053,mrt,Mauritania,2044,Level 2
+33054,mrt,Mauritania,2045,Level 2
+33055,mrt,Mauritania,2046,Level 2
+33056,mrt,Mauritania,2047,Level 2
+33057,mrt,Mauritania,2048,Level 2
+33058,mrt,Mauritania,2049,Level 2
+33059,mrt,Mauritania,2050,Level 2
 33060,mrt,Mauritania,2051,Level 3
 33061,mrt,Mauritania,2052,Level 3
 33062,mrt,Mauritania,2053,Level 3
@@ -33299,14 +33299,14 @@
 33297,mus,Mauritius,1987,Level 2
 33298,mus,Mauritius,1988,Level 2
 33299,mus,Mauritius,1989,Level 2
-33300,mus,Mauritius,1990,Level 3
-33301,mus,Mauritius,1991,Level 3
-33302,mus,Mauritius,1992,Level 3
-33303,mus,Mauritius,1993,Level 3
-33304,mus,Mauritius,1994,Level 3
-33305,mus,Mauritius,1995,Level 3
-33306,mus,Mauritius,1996,Level 3
-33307,mus,Mauritius,1997,Level 3
+33300,mus,Mauritius,1990,Level 2
+33301,mus,Mauritius,1991,Level 2
+33302,mus,Mauritius,1992,Level 2
+33303,mus,Mauritius,1993,Level 2
+33304,mus,Mauritius,1994,Level 2
+33305,mus,Mauritius,1995,Level 2
+33306,mus,Mauritius,1996,Level 2
+33307,mus,Mauritius,1997,Level 2
 33308,mus,Mauritius,1998,Level 3
 33309,mus,Mauritius,1999,Level 3
 33310,mus,Mauritius,2000,Level 3
@@ -33585,12 +33585,12 @@
 33583,mex,Mexico,1972,Level 2
 33584,mex,Mexico,1973,Level 2
 33585,mex,Mexico,1974,Level 2
-33586,mex,Mexico,1975,Level 3
-33587,mex,Mexico,1976,Level 3
-33588,mex,Mexico,1977,Level 3
-33589,mex,Mexico,1978,Level 3
-33590,mex,Mexico,1979,Level 3
-33591,mex,Mexico,1980,Level 3
+33586,mex,Mexico,1975,Level 2
+33587,mex,Mexico,1976,Level 2
+33588,mex,Mexico,1977,Level 2
+33589,mex,Mexico,1978,Level 2
+33590,mex,Mexico,1979,Level 2
+33591,mex,Mexico,1980,Level 2
 33592,mex,Mexico,1981,Level 3
 33593,mex,Mexico,1982,Level 3
 33594,mex,Mexico,1983,Level 3
@@ -33976,17 +33976,17 @@
 33974,fsm,"Micronesia, Fed. Sts.",2062,Level 2
 33975,fsm,"Micronesia, Fed. Sts.",2063,Level 2
 33976,fsm,"Micronesia, Fed. Sts.",2064,Level 2
-33977,fsm,"Micronesia, Fed. Sts.",2065,Level 3
-33978,fsm,"Micronesia, Fed. Sts.",2066,Level 3
-33979,fsm,"Micronesia, Fed. Sts.",2067,Level 3
-33980,fsm,"Micronesia, Fed. Sts.",2068,Level 3
-33981,fsm,"Micronesia, Fed. Sts.",2069,Level 3
-33982,fsm,"Micronesia, Fed. Sts.",2070,Level 3
-33983,fsm,"Micronesia, Fed. Sts.",2071,Level 3
-33984,fsm,"Micronesia, Fed. Sts.",2072,Level 3
-33985,fsm,"Micronesia, Fed. Sts.",2073,Level 3
-33986,fsm,"Micronesia, Fed. Sts.",2074,Level 3
-33987,fsm,"Micronesia, Fed. Sts.",2075,Level 3
+33977,fsm,"Micronesia, Fed. Sts.",2065,Level 2
+33978,fsm,"Micronesia, Fed. Sts.",2066,Level 2
+33979,fsm,"Micronesia, Fed. Sts.",2067,Level 2
+33980,fsm,"Micronesia, Fed. Sts.",2068,Level 2
+33981,fsm,"Micronesia, Fed. Sts.",2069,Level 2
+33982,fsm,"Micronesia, Fed. Sts.",2070,Level 2
+33983,fsm,"Micronesia, Fed. Sts.",2071,Level 2
+33984,fsm,"Micronesia, Fed. Sts.",2072,Level 2
+33985,fsm,"Micronesia, Fed. Sts.",2073,Level 2
+33986,fsm,"Micronesia, Fed. Sts.",2074,Level 2
+33987,fsm,"Micronesia, Fed. Sts.",2075,Level 2
 33988,fsm,"Micronesia, Fed. Sts.",2076,Level 3
 33989,fsm,"Micronesia, Fed. Sts.",2077,Level 3
 33990,fsm,"Micronesia, Fed. Sts.",2078,Level 3
@@ -34180,15 +34180,15 @@
 34178,mda,Moldova,1965,Level 2
 34179,mda,Moldova,1966,Level 2
 34180,mda,Moldova,1967,Level 2
-34181,mda,Moldova,1968,Level 3
-34182,mda,Moldova,1969,Level 3
-34183,mda,Moldova,1970,Level 3
-34184,mda,Moldova,1971,Level 3
-34185,mda,Moldova,1972,Level 3
-34186,mda,Moldova,1973,Level 3
-34187,mda,Moldova,1974,Level 3
-34188,mda,Moldova,1975,Level 3
-34189,mda,Moldova,1976,Level 3
+34181,mda,Moldova,1968,Level 2
+34182,mda,Moldova,1969,Level 2
+34183,mda,Moldova,1970,Level 2
+34184,mda,Moldova,1971,Level 2
+34185,mda,Moldova,1972,Level 2
+34186,mda,Moldova,1973,Level 2
+34187,mda,Moldova,1974,Level 2
+34188,mda,Moldova,1975,Level 2
+34189,mda,Moldova,1976,Level 2
 34190,mda,Moldova,1977,Level 3
 34191,mda,Moldova,1978,Level 3
 34192,mda,Moldova,1979,Level 3
@@ -34203,7 +34203,7 @@
 34201,mda,Moldova,1988,Level 3
 34202,mda,Moldova,1989,Level 3
 34203,mda,Moldova,1990,Level 3
-34204,mda,Moldova,1991,Level 3
+34204,mda,Moldova,1991,Level 2
 34205,mda,Moldova,1992,Level 2
 34206,mda,Moldova,1993,Level 2
 34207,mda,Moldova,1994,Level 2
@@ -34223,12 +34223,12 @@
 34221,mda,Moldova,2008,Level 2
 34222,mda,Moldova,2009,Level 2
 34223,mda,Moldova,2010,Level 2
-34224,mda,Moldova,2011,Level 3
-34225,mda,Moldova,2012,Level 3
-34226,mda,Moldova,2013,Level 3
-34227,mda,Moldova,2014,Level 3
-34228,mda,Moldova,2015,Level 3
-34229,mda,Moldova,2016,Level 3
+34224,mda,Moldova,2011,Level 2
+34225,mda,Moldova,2012,Level 2
+34226,mda,Moldova,2013,Level 2
+34227,mda,Moldova,2014,Level 2
+34228,mda,Moldova,2015,Level 2
+34229,mda,Moldova,2016,Level 2
 34230,mda,Moldova,2017,Level 3
 34231,mda,Moldova,2018,Level 3
 34232,mda,Moldova,2019,Level 3
@@ -34441,20 +34441,20 @@
 34439,mco,Monaco,1925,Level 2
 34440,mco,Monaco,1926,Level 2
 34441,mco,Monaco,1927,Level 2
-34442,mco,Monaco,1928,Level 3
-34443,mco,Monaco,1929,Level 3
-34444,mco,Monaco,1930,Level 3
-34445,mco,Monaco,1931,Level 3
-34446,mco,Monaco,1932,Level 3
-34447,mco,Monaco,1933,Level 3
-34448,mco,Monaco,1934,Level 3
-34449,mco,Monaco,1935,Level 3
-34450,mco,Monaco,1936,Level 3
-34451,mco,Monaco,1937,Level 3
-34452,mco,Monaco,1938,Level 3
-34453,mco,Monaco,1939,Level 3
-34454,mco,Monaco,1940,Level 3
-34455,mco,Monaco,1941,Level 3
+34442,mco,Monaco,1928,Level 2
+34443,mco,Monaco,1929,Level 2
+34444,mco,Monaco,1930,Level 2
+34445,mco,Monaco,1931,Level 2
+34446,mco,Monaco,1932,Level 2
+34447,mco,Monaco,1933,Level 2
+34448,mco,Monaco,1934,Level 2
+34449,mco,Monaco,1935,Level 2
+34450,mco,Monaco,1936,Level 2
+34451,mco,Monaco,1937,Level 2
+34452,mco,Monaco,1938,Level 2
+34453,mco,Monaco,1939,Level 2
+34454,mco,Monaco,1940,Level 2
+34455,mco,Monaco,1941,Level 2
 34456,mco,Monaco,1942,Level 3
 34457,mco,Monaco,1943,Level 3
 34458,mco,Monaco,1944,Level 3
@@ -34825,8 +34825,8 @@
 34823,mng,Mongolia,2008,Level 2
 34824,mng,Mongolia,2009,Level 2
 34825,mng,Mongolia,2010,Level 2
-34826,mng,Mongolia,2011,Level 3
-34827,mng,Mongolia,2012,Level 3
+34826,mng,Mongolia,2011,Level 2
+34827,mng,Mongolia,2012,Level 2
 34828,mng,Mongolia,2013,Level 3
 34829,mng,Mongolia,2014,Level 3
 34830,mng,Mongolia,2015,Level 3
@@ -35087,11 +35087,11 @@
 35085,mne,Montenegro,1969,Level 2
 35086,mne,Montenegro,1970,Level 2
 35087,mne,Montenegro,1971,Level 2
-35088,mne,Montenegro,1972,Level 3
-35089,mne,Montenegro,1973,Level 3
-35090,mne,Montenegro,1974,Level 3
-35091,mne,Montenegro,1975,Level 3
-35092,mne,Montenegro,1976,Level 3
+35088,mne,Montenegro,1972,Level 2
+35089,mne,Montenegro,1973,Level 2
+35090,mne,Montenegro,1974,Level 2
+35091,mne,Montenegro,1975,Level 2
+35092,mne,Montenegro,1976,Level 2
 35093,mne,Montenegro,1977,Level 3
 35094,mne,Montenegro,1978,Level 3
 35095,mne,Montenegro,1979,Level 3
@@ -35107,14 +35107,14 @@
 35105,mne,Montenegro,1989,Level 3
 35106,mne,Montenegro,1990,Level 3
 35107,mne,Montenegro,1991,Level 3
-35108,mne,Montenegro,1992,Level 3
+35108,mne,Montenegro,1992,Level 2
 35109,mne,Montenegro,1993,Level 2
 35110,mne,Montenegro,1994,Level 2
 35111,mne,Montenegro,1995,Level 2
-35112,mne,Montenegro,1996,Level 3
-35113,mne,Montenegro,1997,Level 3
+35112,mne,Montenegro,1996,Level 2
+35113,mne,Montenegro,1997,Level 2
 35114,mne,Montenegro,1998,Level 3
-35115,mne,Montenegro,1999,Level 3
+35115,mne,Montenegro,1999,Level 2
 35116,mne,Montenegro,2000,Level 3
 35117,mne,Montenegro,2001,Level 3
 35118,mne,Montenegro,2002,Level 3
@@ -35442,14 +35442,14 @@
 35440,mar,Morocco,2023,Level 2
 35441,mar,Morocco,2024,Level 2
 35442,mar,Morocco,2025,Level 2
-35443,mar,Morocco,2026,Level 3
-35444,mar,Morocco,2027,Level 3
-35445,mar,Morocco,2028,Level 3
-35446,mar,Morocco,2029,Level 3
-35447,mar,Morocco,2030,Level 3
-35448,mar,Morocco,2031,Level 3
-35449,mar,Morocco,2032,Level 3
-35450,mar,Morocco,2033,Level 3
+35443,mar,Morocco,2026,Level 2
+35444,mar,Morocco,2027,Level 2
+35445,mar,Morocco,2028,Level 2
+35446,mar,Morocco,2029,Level 2
+35447,mar,Morocco,2030,Level 2
+35448,mar,Morocco,2031,Level 2
+35449,mar,Morocco,2032,Level 2
+35450,mar,Morocco,2033,Level 2
 35451,mar,Morocco,2034,Level 3
 35452,mar,Morocco,2035,Level 3
 35453,mar,Morocco,2036,Level 3
@@ -36065,17 +36065,17 @@
 36063,mmr,Myanmar,2044,Level 2
 36064,mmr,Myanmar,2045,Level 2
 36065,mmr,Myanmar,2046,Level 2
-36066,mmr,Myanmar,2047,Level 3
-36067,mmr,Myanmar,2048,Level 3
-36068,mmr,Myanmar,2049,Level 3
-36069,mmr,Myanmar,2050,Level 3
-36070,mmr,Myanmar,2051,Level 3
-36071,mmr,Myanmar,2052,Level 3
-36072,mmr,Myanmar,2053,Level 3
-36073,mmr,Myanmar,2054,Level 3
-36074,mmr,Myanmar,2055,Level 3
-36075,mmr,Myanmar,2056,Level 3
-36076,mmr,Myanmar,2057,Level 3
+36066,mmr,Myanmar,2047,Level 2
+36067,mmr,Myanmar,2048,Level 2
+36068,mmr,Myanmar,2049,Level 2
+36069,mmr,Myanmar,2050,Level 2
+36070,mmr,Myanmar,2051,Level 2
+36071,mmr,Myanmar,2052,Level 2
+36072,mmr,Myanmar,2053,Level 2
+36073,mmr,Myanmar,2054,Level 2
+36074,mmr,Myanmar,2055,Level 2
+36075,mmr,Myanmar,2056,Level 2
+36076,mmr,Myanmar,2057,Level 2
 36077,mmr,Myanmar,2058,Level 3
 36078,mmr,Myanmar,2059,Level 3
 36079,mmr,Myanmar,2060,Level 3
@@ -36326,30 +36326,30 @@
 36324,nam,Namibia,2004,Level 2
 36325,nam,Namibia,2005,Level 2
 36326,nam,Namibia,2006,Level 2
-36327,nam,Namibia,2007,Level 3
-36328,nam,Namibia,2008,Level 3
-36329,nam,Namibia,2009,Level 3
-36330,nam,Namibia,2010,Level 3
-36331,nam,Namibia,2011,Level 3
-36332,nam,Namibia,2012,Level 3
-36333,nam,Namibia,2013,Level 3
-36334,nam,Namibia,2014,Level 3
-36335,nam,Namibia,2015,Level 3
-36336,nam,Namibia,2016,Level 3
-36337,nam,Namibia,2017,Level 3
-36338,nam,Namibia,2018,Level 3
-36339,nam,Namibia,2019,Level 3
+36327,nam,Namibia,2007,Level 2
+36328,nam,Namibia,2008,Level 2
+36329,nam,Namibia,2009,Level 2
+36330,nam,Namibia,2010,Level 2
+36331,nam,Namibia,2011,Level 2
+36332,nam,Namibia,2012,Level 2
+36333,nam,Namibia,2013,Level 2
+36334,nam,Namibia,2014,Level 2
+36335,nam,Namibia,2015,Level 2
+36336,nam,Namibia,2016,Level 2
+36337,nam,Namibia,2017,Level 2
+36338,nam,Namibia,2018,Level 2
+36339,nam,Namibia,2019,Level 2
 36340,nam,Namibia,2020,Level 2
 36341,nam,Namibia,2021,Level 2
 36342,nam,Namibia,2022,Level 2
-36343,nam,Namibia,2023,Level 3
-36344,nam,Namibia,2024,Level 3
-36345,nam,Namibia,2025,Level 3
-36346,nam,Namibia,2026,Level 3
-36347,nam,Namibia,2027,Level 3
-36348,nam,Namibia,2028,Level 3
-36349,nam,Namibia,2029,Level 3
-36350,nam,Namibia,2030,Level 3
+36343,nam,Namibia,2023,Level 2
+36344,nam,Namibia,2024,Level 2
+36345,nam,Namibia,2025,Level 2
+36346,nam,Namibia,2026,Level 2
+36347,nam,Namibia,2027,Level 2
+36348,nam,Namibia,2028,Level 2
+36349,nam,Namibia,2029,Level 2
+36350,nam,Namibia,2030,Level 2
 36351,nam,Namibia,2031,Level 3
 36352,nam,Namibia,2032,Level 3
 36353,nam,Namibia,2033,Level 3
@@ -36576,8 +36576,8 @@
 36574,nru,Nauru,1953,Level 2
 36575,nru,Nauru,1954,Level 2
 36576,nru,Nauru,1955,Level 2
-36577,nru,Nauru,1956,Level 3
-36578,nru,Nauru,1957,Level 3
+36577,nru,Nauru,1956,Level 2
+36578,nru,Nauru,1957,Level 2
 36579,nru,Nauru,1958,Level 3
 36580,nru,Nauru,1959,Level 3
 36581,nru,Nauru,1960,Level 3
@@ -36616,9 +36616,9 @@
 36614,nru,Nauru,1993,Level 3
 36615,nru,Nauru,1994,Level 3
 36616,nru,Nauru,1995,Level 3
-36617,nru,Nauru,1996,Level 3
-36618,nru,Nauru,1997,Level 3
-36619,nru,Nauru,1998,Level 3
+36617,nru,Nauru,1996,Level 2
+36618,nru,Nauru,1997,Level 2
+36619,nru,Nauru,1998,Level 2
 36620,nru,Nauru,1999,Level 2
 36621,nru,Nauru,2000,Level 2
 36622,nru,Nauru,2001,Level 2
@@ -36634,18 +36634,18 @@
 36632,nru,Nauru,2011,Level 2
 36633,nru,Nauru,2012,Level 2
 36634,nru,Nauru,2013,Level 2
-36635,nru,Nauru,2014,Level 3
-36636,nru,Nauru,2015,Level 3
-36637,nru,Nauru,2016,Level 3
-36638,nru,Nauru,2017,Level 3
-36639,nru,Nauru,2018,Level 3
-36640,nru,Nauru,2019,Level 3
-36641,nru,Nauru,2020,Level 3
-36642,nru,Nauru,2021,Level 3
-36643,nru,Nauru,2022,Level 3
-36644,nru,Nauru,2023,Level 3
-36645,nru,Nauru,2024,Level 3
-36646,nru,Nauru,2025,Level 3
+36635,nru,Nauru,2014,Level 2
+36636,nru,Nauru,2015,Level 2
+36637,nru,Nauru,2016,Level 2
+36638,nru,Nauru,2017,Level 2
+36639,nru,Nauru,2018,Level 2
+36640,nru,Nauru,2019,Level 2
+36641,nru,Nauru,2020,Level 2
+36642,nru,Nauru,2021,Level 2
+36643,nru,Nauru,2022,Level 2
+36644,nru,Nauru,2023,Level 2
+36645,nru,Nauru,2024,Level 2
+36646,nru,Nauru,2025,Level 2
 36647,nru,Nauru,2026,Level 3
 36648,nru,Nauru,2027,Level 3
 36649,nru,Nauru,2028,Level 3
@@ -36967,17 +36967,17 @@
 36965,npl,Nepal,2043,Level 2
 36966,npl,Nepal,2044,Level 2
 36967,npl,Nepal,2045,Level 2
-36968,npl,Nepal,2046,Level 3
-36969,npl,Nepal,2047,Level 3
-36970,npl,Nepal,2048,Level 3
-36971,npl,Nepal,2049,Level 3
-36972,npl,Nepal,2050,Level 3
-36973,npl,Nepal,2051,Level 3
-36974,npl,Nepal,2052,Level 3
-36975,npl,Nepal,2053,Level 3
-36976,npl,Nepal,2054,Level 3
-36977,npl,Nepal,2055,Level 3
-36978,npl,Nepal,2056,Level 3
+36968,npl,Nepal,2046,Level 2
+36969,npl,Nepal,2047,Level 2
+36970,npl,Nepal,2048,Level 2
+36971,npl,Nepal,2049,Level 2
+36972,npl,Nepal,2050,Level 2
+36973,npl,Nepal,2051,Level 2
+36974,npl,Nepal,2052,Level 2
+36975,npl,Nepal,2053,Level 2
+36976,npl,Nepal,2054,Level 2
+36977,npl,Nepal,2055,Level 2
+36978,npl,Nepal,2056,Level 2
 36979,npl,Nepal,2057,Level 3
 36980,npl,Nepal,2058,Level 3
 36981,npl,Nepal,2059,Level 3
@@ -37146,35 +37146,35 @@
 37144,nld,Netherlands,1921,Level 2
 37145,nld,Netherlands,1922,Level 2
 37146,nld,Netherlands,1923,Level 2
-37147,nld,Netherlands,1924,Level 3
-37148,nld,Netherlands,1925,Level 3
-37149,nld,Netherlands,1926,Level 3
-37150,nld,Netherlands,1927,Level 3
-37151,nld,Netherlands,1928,Level 3
-37152,nld,Netherlands,1929,Level 3
-37153,nld,Netherlands,1930,Level 3
-37154,nld,Netherlands,1931,Level 3
-37155,nld,Netherlands,1932,Level 3
-37156,nld,Netherlands,1933,Level 3
-37157,nld,Netherlands,1934,Level 3
-37158,nld,Netherlands,1935,Level 3
-37159,nld,Netherlands,1936,Level 3
-37160,nld,Netherlands,1937,Level 3
-37161,nld,Netherlands,1938,Level 3
-37162,nld,Netherlands,1939,Level 3
-37163,nld,Netherlands,1940,Level 3
+37147,nld,Netherlands,1924,Level 2
+37148,nld,Netherlands,1925,Level 2
+37149,nld,Netherlands,1926,Level 2
+37150,nld,Netherlands,1927,Level 2
+37151,nld,Netherlands,1928,Level 2
+37152,nld,Netherlands,1929,Level 2
+37153,nld,Netherlands,1930,Level 2
+37154,nld,Netherlands,1931,Level 2
+37155,nld,Netherlands,1932,Level 2
+37156,nld,Netherlands,1933,Level 2
+37157,nld,Netherlands,1934,Level 2
+37158,nld,Netherlands,1935,Level 2
+37159,nld,Netherlands,1936,Level 2
+37160,nld,Netherlands,1937,Level 2
+37161,nld,Netherlands,1938,Level 2
+37162,nld,Netherlands,1939,Level 2
+37163,nld,Netherlands,1940,Level 2
 37164,nld,Netherlands,1941,Level 2
 37165,nld,Netherlands,1942,Level 2
 37166,nld,Netherlands,1943,Level 2
 37167,nld,Netherlands,1944,Level 2
 37168,nld,Netherlands,1945,Level 2
 37169,nld,Netherlands,1946,Level 2
-37170,nld,Netherlands,1947,Level 3
-37171,nld,Netherlands,1948,Level 3
-37172,nld,Netherlands,1949,Level 3
-37173,nld,Netherlands,1950,Level 3
-37174,nld,Netherlands,1951,Level 3
-37175,nld,Netherlands,1952,Level 3
+37170,nld,Netherlands,1947,Level 2
+37171,nld,Netherlands,1948,Level 2
+37172,nld,Netherlands,1949,Level 2
+37173,nld,Netherlands,1950,Level 2
+37174,nld,Netherlands,1951,Level 2
+37175,nld,Netherlands,1952,Level 2
 37176,nld,Netherlands,1953,Level 3
 37177,nld,Netherlands,1954,Level 3
 37178,nld,Netherlands,1955,Level 3
@@ -37426,45 +37426,45 @@
 37424,nzl,New Zealand,1900,Level 2
 37425,nzl,New Zealand,1901,Level 2
 37426,nzl,New Zealand,1902,Level 2
-37427,nzl,New Zealand,1903,Level 3
+37427,nzl,New Zealand,1903,Level 2
 37428,nzl,New Zealand,1904,Level 2
-37429,nzl,New Zealand,1905,Level 3
-37430,nzl,New Zealand,1906,Level 3
-37431,nzl,New Zealand,1907,Level 3
-37432,nzl,New Zealand,1908,Level 3
-37433,nzl,New Zealand,1909,Level 3
-37434,nzl,New Zealand,1910,Level 3
-37435,nzl,New Zealand,1911,Level 3
-37436,nzl,New Zealand,1912,Level 3
-37437,nzl,New Zealand,1913,Level 3
-37438,nzl,New Zealand,1914,Level 3
-37439,nzl,New Zealand,1915,Level 3
-37440,nzl,New Zealand,1916,Level 3
-37441,nzl,New Zealand,1917,Level 3
-37442,nzl,New Zealand,1918,Level 3
-37443,nzl,New Zealand,1919,Level 3
-37444,nzl,New Zealand,1920,Level 3
-37445,nzl,New Zealand,1921,Level 3
-37446,nzl,New Zealand,1922,Level 3
-37447,nzl,New Zealand,1923,Level 3
-37448,nzl,New Zealand,1924,Level 3
-37449,nzl,New Zealand,1925,Level 3
-37450,nzl,New Zealand,1926,Level 3
+37429,nzl,New Zealand,1905,Level 2
+37430,nzl,New Zealand,1906,Level 2
+37431,nzl,New Zealand,1907,Level 2
+37432,nzl,New Zealand,1908,Level 2
+37433,nzl,New Zealand,1909,Level 2
+37434,nzl,New Zealand,1910,Level 2
+37435,nzl,New Zealand,1911,Level 2
+37436,nzl,New Zealand,1912,Level 2
+37437,nzl,New Zealand,1913,Level 2
+37438,nzl,New Zealand,1914,Level 2
+37439,nzl,New Zealand,1915,Level 2
+37440,nzl,New Zealand,1916,Level 2
+37441,nzl,New Zealand,1917,Level 2
+37442,nzl,New Zealand,1918,Level 2
+37443,nzl,New Zealand,1919,Level 2
+37444,nzl,New Zealand,1920,Level 2
+37445,nzl,New Zealand,1921,Level 2
+37446,nzl,New Zealand,1922,Level 2
+37447,nzl,New Zealand,1923,Level 2
+37448,nzl,New Zealand,1924,Level 2
+37449,nzl,New Zealand,1925,Level 2
+37450,nzl,New Zealand,1926,Level 2
 37451,nzl,New Zealand,1927,Level 2
-37452,nzl,New Zealand,1928,Level 3
-37453,nzl,New Zealand,1929,Level 3
-37454,nzl,New Zealand,1930,Level 3
+37452,nzl,New Zealand,1928,Level 2
+37453,nzl,New Zealand,1929,Level 2
+37454,nzl,New Zealand,1930,Level 2
 37455,nzl,New Zealand,1931,Level 2
 37456,nzl,New Zealand,1932,Level 2
 37457,nzl,New Zealand,1933,Level 2
-37458,nzl,New Zealand,1934,Level 3
-37459,nzl,New Zealand,1935,Level 3
-37460,nzl,New Zealand,1936,Level 3
-37461,nzl,New Zealand,1937,Level 3
+37458,nzl,New Zealand,1934,Level 2
+37459,nzl,New Zealand,1935,Level 2
+37460,nzl,New Zealand,1936,Level 2
+37461,nzl,New Zealand,1937,Level 2
 37462,nzl,New Zealand,1938,Level 3
 37463,nzl,New Zealand,1939,Level 3
 37464,nzl,New Zealand,1940,Level 3
-37465,nzl,New Zealand,1941,Level 3
+37465,nzl,New Zealand,1941,Level 2
 37466,nzl,New Zealand,1942,Level 3
 37467,nzl,New Zealand,1943,Level 3
 37468,nzl,New Zealand,1944,Level 3
@@ -37856,17 +37856,17 @@
 37854,nic,Nicaragua,2029,Level 2
 37855,nic,Nicaragua,2030,Level 2
 37856,nic,Nicaragua,2031,Level 2
-37857,nic,Nicaragua,2032,Level 3
-37858,nic,Nicaragua,2033,Level 3
-37859,nic,Nicaragua,2034,Level 3
-37860,nic,Nicaragua,2035,Level 3
-37861,nic,Nicaragua,2036,Level 3
-37862,nic,Nicaragua,2037,Level 3
-37863,nic,Nicaragua,2038,Level 3
-37864,nic,Nicaragua,2039,Level 3
-37865,nic,Nicaragua,2040,Level 3
-37866,nic,Nicaragua,2041,Level 3
-37867,nic,Nicaragua,2042,Level 3
+37857,nic,Nicaragua,2032,Level 2
+37858,nic,Nicaragua,2033,Level 2
+37859,nic,Nicaragua,2034,Level 2
+37860,nic,Nicaragua,2035,Level 2
+37861,nic,Nicaragua,2036,Level 2
+37862,nic,Nicaragua,2037,Level 2
+37863,nic,Nicaragua,2038,Level 2
+37864,nic,Nicaragua,2039,Level 2
+37865,nic,Nicaragua,2040,Level 2
+37866,nic,Nicaragua,2041,Level 2
+37867,nic,Nicaragua,2042,Level 2
 37868,nic,Nicaragua,2043,Level 3
 37869,nic,Nicaragua,2044,Level 3
 37870,nic,Nicaragua,2045,Level 3
@@ -38222,10 +38222,10 @@
 38220,ner,Niger,2094,Level 2
 38221,ner,Niger,2095,Level 2
 38222,ner,Niger,2096,Level 2
-38223,ner,Niger,2097,Level 3
-38224,ner,Niger,2098,Level 3
-38225,ner,Niger,2099,Level 3
-38226,ner,Niger,2100,Level 3
+38223,ner,Niger,2097,Level 2
+38224,ner,Niger,2098,Level 2
+38225,ner,Niger,2099,Level 2
+38226,ner,Niger,2100,Level 2
 38227,nga,Nigeria,1800,Level 1
 38228,nga,Nigeria,1801,Level 1
 38229,nga,Nigeria,1802,Level 1
@@ -38473,17 +38473,17 @@
 38471,nga,Nigeria,2044,Level 2
 38472,nga,Nigeria,2045,Level 2
 38473,nga,Nigeria,2046,Level 2
-38474,nga,Nigeria,2047,Level 3
-38475,nga,Nigeria,2048,Level 3
-38476,nga,Nigeria,2049,Level 3
-38477,nga,Nigeria,2050,Level 3
-38478,nga,Nigeria,2051,Level 3
-38479,nga,Nigeria,2052,Level 3
-38480,nga,Nigeria,2053,Level 3
-38481,nga,Nigeria,2054,Level 3
-38482,nga,Nigeria,2055,Level 3
-38483,nga,Nigeria,2056,Level 3
-38484,nga,Nigeria,2057,Level 3
+38474,nga,Nigeria,2047,Level 2
+38475,nga,Nigeria,2048,Level 2
+38476,nga,Nigeria,2049,Level 2
+38477,nga,Nigeria,2050,Level 2
+38478,nga,Nigeria,2051,Level 2
+38479,nga,Nigeria,2052,Level 2
+38480,nga,Nigeria,2053,Level 2
+38481,nga,Nigeria,2054,Level 2
+38482,nga,Nigeria,2055,Level 2
+38483,nga,Nigeria,2056,Level 2
+38484,nga,Nigeria,2057,Level 2
 38485,nga,Nigeria,2058,Level 3
 38486,nga,Nigeria,2059,Level 3
 38487,nga,Nigeria,2060,Level 3
@@ -38975,13 +38975,13 @@
 38973,nor,Norway,1944,Level 2
 38974,nor,Norway,1945,Level 2
 38975,nor,Norway,1946,Level 2
-38976,nor,Norway,1947,Level 3
-38977,nor,Norway,1948,Level 3
-38978,nor,Norway,1949,Level 3
-38979,nor,Norway,1950,Level 3
-38980,nor,Norway,1951,Level 3
-38981,nor,Norway,1952,Level 3
-38982,nor,Norway,1953,Level 3
+38976,nor,Norway,1947,Level 2
+38977,nor,Norway,1948,Level 2
+38978,nor,Norway,1949,Level 2
+38979,nor,Norway,1950,Level 2
+38980,nor,Norway,1951,Level 2
+38981,nor,Norway,1952,Level 2
+38982,nor,Norway,1953,Level 2
 38983,nor,Norway,1954,Level 3
 38984,nor,Norway,1955,Level 3
 38985,nor,Norway,1956,Level 3
@@ -39305,11 +39305,11 @@
 39303,omn,Oman,1973,Level 2
 39304,omn,Oman,1974,Level 2
 39305,omn,Oman,1975,Level 2
-39306,omn,Oman,1976,Level 3
-39307,omn,Oman,1977,Level 3
-39308,omn,Oman,1978,Level 3
-39309,omn,Oman,1979,Level 3
-39310,omn,Oman,1980,Level 3
+39306,omn,Oman,1976,Level 2
+39307,omn,Oman,1977,Level 2
+39308,omn,Oman,1978,Level 2
+39309,omn,Oman,1979,Level 2
+39310,omn,Oman,1980,Level 2
 39311,omn,Oman,1981,Level 3
 39312,omn,Oman,1982,Level 3
 39313,omn,Oman,1983,Level 3
@@ -39675,17 +39675,17 @@
 39673,pak,Pakistan,2042,Level 2
 39674,pak,Pakistan,2043,Level 2
 39675,pak,Pakistan,2044,Level 2
-39676,pak,Pakistan,2045,Level 3
-39677,pak,Pakistan,2046,Level 3
-39678,pak,Pakistan,2047,Level 3
-39679,pak,Pakistan,2048,Level 3
-39680,pak,Pakistan,2049,Level 3
-39681,pak,Pakistan,2050,Level 3
-39682,pak,Pakistan,2051,Level 3
-39683,pak,Pakistan,2052,Level 3
-39684,pak,Pakistan,2053,Level 3
-39685,pak,Pakistan,2054,Level 3
-39686,pak,Pakistan,2055,Level 3
+39676,pak,Pakistan,2045,Level 2
+39677,pak,Pakistan,2046,Level 2
+39678,pak,Pakistan,2047,Level 2
+39679,pak,Pakistan,2048,Level 2
+39680,pak,Pakistan,2049,Level 2
+39681,pak,Pakistan,2050,Level 2
+39682,pak,Pakistan,2051,Level 2
+39683,pak,Pakistan,2052,Level 2
+39684,pak,Pakistan,2053,Level 2
+39685,pak,Pakistan,2054,Level 2
+39686,pak,Pakistan,2055,Level 2
 39687,pak,Pakistan,2056,Level 3
 39688,pak,Pakistan,2057,Level 3
 39689,pak,Pakistan,2058,Level 3
@@ -39878,11 +39878,11 @@
 39876,plw,Palau,1944,Level 2
 39877,plw,Palau,1945,Level 2
 39878,plw,Palau,1946,Level 2
-39879,plw,Palau,1947,Level 3
-39880,plw,Palau,1948,Level 3
-39881,plw,Palau,1949,Level 3
-39882,plw,Palau,1950,Level 3
-39883,plw,Palau,1951,Level 3
+39879,plw,Palau,1947,Level 2
+39880,plw,Palau,1948,Level 2
+39881,plw,Palau,1949,Level 2
+39882,plw,Palau,1950,Level 2
+39883,plw,Palau,1951,Level 2
 39884,plw,Palau,1952,Level 3
 39885,plw,Palau,1953,Level 3
 39886,plw,Palau,1954,Level 3
@@ -40298,18 +40298,18 @@
 40296,pse,Palestine,2063,Level 2
 40297,pse,Palestine,2064,Level 2
 40298,pse,Palestine,2065,Level 2
-40299,pse,Palestine,2066,Level 3
-40300,pse,Palestine,2067,Level 3
-40301,pse,Palestine,2068,Level 3
-40302,pse,Palestine,2069,Level 3
-40303,pse,Palestine,2070,Level 3
-40304,pse,Palestine,2071,Level 3
-40305,pse,Palestine,2072,Level 3
-40306,pse,Palestine,2073,Level 3
-40307,pse,Palestine,2074,Level 3
-40308,pse,Palestine,2075,Level 3
-40309,pse,Palestine,2076,Level 3
-40310,pse,Palestine,2077,Level 3
+40299,pse,Palestine,2066,Level 2
+40300,pse,Palestine,2067,Level 2
+40301,pse,Palestine,2068,Level 2
+40302,pse,Palestine,2069,Level 2
+40303,pse,Palestine,2070,Level 2
+40304,pse,Palestine,2071,Level 2
+40305,pse,Palestine,2072,Level 2
+40306,pse,Palestine,2073,Level 2
+40307,pse,Palestine,2074,Level 2
+40308,pse,Palestine,2075,Level 2
+40309,pse,Palestine,2076,Level 2
+40310,pse,Palestine,2077,Level 2
 40311,pse,Palestine,2078,Level 3
 40312,pse,Palestine,2079,Level 3
 40313,pse,Palestine,2080,Level 3
@@ -40515,22 +40515,22 @@
 40513,pan,Panama,1979,Level 2
 40514,pan,Panama,1980,Level 2
 40515,pan,Panama,1981,Level 2
-40516,pan,Panama,1982,Level 3
+40516,pan,Panama,1982,Level 2
 40517,pan,Panama,1983,Level 2
-40518,pan,Panama,1984,Level 3
-40519,pan,Panama,1985,Level 3
-40520,pan,Panama,1986,Level 3
-40521,pan,Panama,1987,Level 3
+40518,pan,Panama,1984,Level 2
+40519,pan,Panama,1985,Level 2
+40520,pan,Panama,1986,Level 2
+40521,pan,Panama,1987,Level 2
 40522,pan,Panama,1988,Level 2
 40523,pan,Panama,1989,Level 2
-40524,pan,Panama,1990,Level 3
-40525,pan,Panama,1991,Level 3
-40526,pan,Panama,1992,Level 3
-40527,pan,Panama,1993,Level 3
-40528,pan,Panama,1994,Level 3
-40529,pan,Panama,1995,Level 3
-40530,pan,Panama,1996,Level 3
-40531,pan,Panama,1997,Level 3
+40524,pan,Panama,1990,Level 2
+40525,pan,Panama,1991,Level 2
+40526,pan,Panama,1992,Level 2
+40527,pan,Panama,1993,Level 2
+40528,pan,Panama,1994,Level 2
+40529,pan,Panama,1995,Level 2
+40530,pan,Panama,1996,Level 2
+40531,pan,Panama,1997,Level 2
 40532,pan,Panama,1998,Level 3
 40533,pan,Panama,1999,Level 3
 40534,pan,Panama,2000,Level 3
@@ -40892,17 +40892,17 @@
 40890,png,Papua New Guinea,2055,Level 2
 40891,png,Papua New Guinea,2056,Level 2
 40892,png,Papua New Guinea,2057,Level 2
-40893,png,Papua New Guinea,2058,Level 3
-40894,png,Papua New Guinea,2059,Level 3
-40895,png,Papua New Guinea,2060,Level 3
-40896,png,Papua New Guinea,2061,Level 3
-40897,png,Papua New Guinea,2062,Level 3
-40898,png,Papua New Guinea,2063,Level 3
-40899,png,Papua New Guinea,2064,Level 3
-40900,png,Papua New Guinea,2065,Level 3
-40901,png,Papua New Guinea,2066,Level 3
-40902,png,Papua New Guinea,2067,Level 3
-40903,png,Papua New Guinea,2068,Level 3
+40893,png,Papua New Guinea,2058,Level 2
+40894,png,Papua New Guinea,2059,Level 2
+40895,png,Papua New Guinea,2060,Level 2
+40896,png,Papua New Guinea,2061,Level 2
+40897,png,Papua New Guinea,2062,Level 2
+40898,png,Papua New Guinea,2063,Level 2
+40899,png,Papua New Guinea,2064,Level 2
+40900,png,Papua New Guinea,2065,Level 2
+40901,png,Papua New Guinea,2066,Level 2
+40902,png,Papua New Guinea,2067,Level 2
+40903,png,Papua New Guinea,2068,Level 2
 40904,png,Papua New Guinea,2069,Level 3
 40905,png,Papua New Guinea,2070,Level 3
 40906,png,Papua New Guinea,2071,Level 3
@@ -41130,24 +41130,24 @@
 41128,pry,Paraguay,1992,Level 2
 41129,pry,Paraguay,1993,Level 2
 41130,pry,Paraguay,1994,Level 2
-41131,pry,Paraguay,1995,Level 3
+41131,pry,Paraguay,1995,Level 2
 41132,pry,Paraguay,1996,Level 2
-41133,pry,Paraguay,1997,Level 3
-41134,pry,Paraguay,1998,Level 3
+41133,pry,Paraguay,1997,Level 2
+41134,pry,Paraguay,1998,Level 2
 41135,pry,Paraguay,1999,Level 2
 41136,pry,Paraguay,2000,Level 2
 41137,pry,Paraguay,2001,Level 2
 41138,pry,Paraguay,2002,Level 2
 41139,pry,Paraguay,2003,Level 2
 41140,pry,Paraguay,2004,Level 2
-41141,pry,Paraguay,2005,Level 3
-41142,pry,Paraguay,2006,Level 3
-41143,pry,Paraguay,2007,Level 3
-41144,pry,Paraguay,2008,Level 3
-41145,pry,Paraguay,2009,Level 3
-41146,pry,Paraguay,2010,Level 3
+41141,pry,Paraguay,2005,Level 2
+41142,pry,Paraguay,2006,Level 2
+41143,pry,Paraguay,2007,Level 2
+41144,pry,Paraguay,2008,Level 2
+41145,pry,Paraguay,2009,Level 2
+41146,pry,Paraguay,2010,Level 2
 41147,pry,Paraguay,2011,Level 3
-41148,pry,Paraguay,2012,Level 3
+41148,pry,Paraguay,2012,Level 2
 41149,pry,Paraguay,2013,Level 3
 41150,pry,Paraguay,2014,Level 3
 41151,pry,Paraguay,2015,Level 3
@@ -41443,11 +41443,11 @@
 41441,per,Peru,2004,Level 2
 41442,per,Peru,2005,Level 2
 41443,per,Peru,2006,Level 2
-41444,per,Peru,2007,Level 3
-41445,per,Peru,2008,Level 3
-41446,per,Peru,2009,Level 3
-41447,per,Peru,2010,Level 3
-41448,per,Peru,2011,Level 3
+41444,per,Peru,2007,Level 2
+41445,per,Peru,2008,Level 2
+41446,per,Peru,2009,Level 2
+41447,per,Peru,2010,Level 2
+41448,per,Peru,2011,Level 2
 41449,per,Peru,2012,Level 3
 41450,per,Peru,2013,Level 3
 41451,per,Peru,2014,Level 3
@@ -41761,10 +41761,10 @@
 41759,phl,Philippines,2021,Level 2
 41760,phl,Philippines,2022,Level 2
 41761,phl,Philippines,2023,Level 2
-41762,phl,Philippines,2024,Level 3
-41763,phl,Philippines,2025,Level 3
-41764,phl,Philippines,2026,Level 3
-41765,phl,Philippines,2027,Level 3
+41762,phl,Philippines,2024,Level 2
+41763,phl,Philippines,2025,Level 2
+41764,phl,Philippines,2026,Level 2
+41765,phl,Philippines,2027,Level 2
 41766,phl,Philippines,2028,Level 3
 41767,phl,Philippines,2029,Level 3
 41768,phl,Philippines,2030,Level 3
@@ -42013,26 +42013,26 @@
 42011,pol,Poland,1972,Level 2
 42012,pol,Poland,1973,Level 2
 42013,pol,Poland,1974,Level 2
-42014,pol,Poland,1975,Level 3
-42015,pol,Poland,1976,Level 3
-42016,pol,Poland,1977,Level 3
-42017,pol,Poland,1978,Level 3
-42018,pol,Poland,1979,Level 3
-42019,pol,Poland,1980,Level 3
+42014,pol,Poland,1975,Level 2
+42015,pol,Poland,1976,Level 2
+42016,pol,Poland,1977,Level 2
+42017,pol,Poland,1978,Level 2
+42018,pol,Poland,1979,Level 2
+42019,pol,Poland,1980,Level 2
 42020,pol,Poland,1981,Level 2
 42021,pol,Poland,1982,Level 2
-42022,pol,Poland,1983,Level 3
-42023,pol,Poland,1984,Level 3
-42024,pol,Poland,1985,Level 3
-42025,pol,Poland,1986,Level 3
-42026,pol,Poland,1987,Level 3
-42027,pol,Poland,1988,Level 3
+42022,pol,Poland,1983,Level 2
+42023,pol,Poland,1984,Level 2
+42024,pol,Poland,1985,Level 2
+42025,pol,Poland,1986,Level 2
+42026,pol,Poland,1987,Level 2
+42027,pol,Poland,1988,Level 2
 42028,pol,Poland,1989,Level 3
-42029,pol,Poland,1990,Level 3
-42030,pol,Poland,1991,Level 3
-42031,pol,Poland,1992,Level 3
-42032,pol,Poland,1993,Level 3
-42033,pol,Poland,1994,Level 3
+42029,pol,Poland,1990,Level 2
+42030,pol,Poland,1991,Level 2
+42031,pol,Poland,1992,Level 2
+42032,pol,Poland,1993,Level 2
+42033,pol,Poland,1994,Level 2
 42034,pol,Poland,1995,Level 3
 42035,pol,Poland,1996,Level 3
 42036,pol,Poland,1997,Level 3
@@ -42309,13 +42309,13 @@
 42307,prt,Portugal,1967,Level 2
 42308,prt,Portugal,1968,Level 2
 42309,prt,Portugal,1969,Level 2
-42310,prt,Portugal,1970,Level 3
-42311,prt,Portugal,1971,Level 3
-42312,prt,Portugal,1972,Level 3
+42310,prt,Portugal,1970,Level 2
+42311,prt,Portugal,1971,Level 2
+42312,prt,Portugal,1972,Level 2
 42313,prt,Portugal,1973,Level 3
 42314,prt,Portugal,1974,Level 3
-42315,prt,Portugal,1975,Level 3
-42316,prt,Portugal,1976,Level 3
+42315,prt,Portugal,1975,Level 2
+42316,prt,Portugal,1976,Level 2
 42317,prt,Portugal,1977,Level 3
 42318,prt,Portugal,1978,Level 3
 42319,prt,Portugal,1979,Level 3
@@ -42596,7 +42596,7 @@
 42594,qat,Qatar,1953,Level 2
 42595,qat,Qatar,1954,Level 2
 42596,qat,Qatar,1955,Level 2
-42597,qat,Qatar,1956,Level 3
+42597,qat,Qatar,1956,Level 2
 42598,qat,Qatar,1957,Level 3
 42599,qat,Qatar,1958,Level 3
 42600,qat,Qatar,1959,Level 3
@@ -42922,20 +42922,20 @@
 42920,rou,Romania,1978,Level 2
 42921,rou,Romania,1979,Level 2
 42922,rou,Romania,1980,Level 2
-42923,rou,Romania,1981,Level 3
-42924,rou,Romania,1982,Level 3
-42925,rou,Romania,1983,Level 3
-42926,rou,Romania,1984,Level 3
-42927,rou,Romania,1985,Level 3
+42923,rou,Romania,1981,Level 2
+42924,rou,Romania,1982,Level 2
+42925,rou,Romania,1983,Level 2
+42926,rou,Romania,1984,Level 2
+42927,rou,Romania,1985,Level 2
 42928,rou,Romania,1986,Level 3
 42929,rou,Romania,1987,Level 3
 42930,rou,Romania,1988,Level 3
 42931,rou,Romania,1989,Level 3
 42932,rou,Romania,1990,Level 3
-42933,rou,Romania,1991,Level 3
-42934,rou,Romania,1992,Level 3
-42935,rou,Romania,1993,Level 3
-42936,rou,Romania,1994,Level 3
+42933,rou,Romania,1991,Level 2
+42934,rou,Romania,1992,Level 2
+42935,rou,Romania,1993,Level 2
+42936,rou,Romania,1994,Level 2
 42937,rou,Romania,1995,Level 3
 42938,rou,Romania,1996,Level 3
 42939,rou,Romania,1997,Level 3
@@ -43205,10 +43205,10 @@
 43203,rus,Russia,1960,Level 2
 43204,rus,Russia,1961,Level 2
 43205,rus,Russia,1962,Level 2
-43206,rus,Russia,1963,Level 3
-43207,rus,Russia,1964,Level 3
-43208,rus,Russia,1965,Level 3
-43209,rus,Russia,1966,Level 3
+43206,rus,Russia,1963,Level 2
+43207,rus,Russia,1964,Level 2
+43208,rus,Russia,1965,Level 2
+43209,rus,Russia,1966,Level 2
 43210,rus,Russia,1967,Level 3
 43211,rus,Russia,1968,Level 3
 43212,rus,Russia,1969,Level 3
@@ -43605,17 +43605,17 @@
 43603,rwa,Rwanda,2059,Level 2
 43604,rwa,Rwanda,2060,Level 2
 43605,rwa,Rwanda,2061,Level 2
-43606,rwa,Rwanda,2062,Level 3
-43607,rwa,Rwanda,2063,Level 3
-43608,rwa,Rwanda,2064,Level 3
-43609,rwa,Rwanda,2065,Level 3
-43610,rwa,Rwanda,2066,Level 3
-43611,rwa,Rwanda,2067,Level 3
-43612,rwa,Rwanda,2068,Level 3
-43613,rwa,Rwanda,2069,Level 3
-43614,rwa,Rwanda,2070,Level 3
-43615,rwa,Rwanda,2071,Level 3
-43616,rwa,Rwanda,2072,Level 3
+43606,rwa,Rwanda,2062,Level 2
+43607,rwa,Rwanda,2063,Level 2
+43608,rwa,Rwanda,2064,Level 2
+43609,rwa,Rwanda,2065,Level 2
+43610,rwa,Rwanda,2066,Level 2
+43611,rwa,Rwanda,2067,Level 2
+43612,rwa,Rwanda,2068,Level 2
+43613,rwa,Rwanda,2069,Level 2
+43614,rwa,Rwanda,2070,Level 2
+43615,rwa,Rwanda,2071,Level 2
+43616,rwa,Rwanda,2072,Level 2
 43617,rwa,Rwanda,2073,Level 3
 43618,rwa,Rwanda,2074,Level 3
 43619,rwa,Rwanda,2075,Level 3
@@ -43882,17 +43882,17 @@
 43880,wsm,Samoa,2035,Level 2
 43881,wsm,Samoa,2036,Level 2
 43882,wsm,Samoa,2037,Level 2
-43883,wsm,Samoa,2038,Level 3
-43884,wsm,Samoa,2039,Level 3
-43885,wsm,Samoa,2040,Level 3
-43886,wsm,Samoa,2041,Level 3
-43887,wsm,Samoa,2042,Level 3
-43888,wsm,Samoa,2043,Level 3
-43889,wsm,Samoa,2044,Level 3
-43890,wsm,Samoa,2045,Level 3
-43891,wsm,Samoa,2046,Level 3
-43892,wsm,Samoa,2047,Level 3
-43893,wsm,Samoa,2048,Level 3
+43883,wsm,Samoa,2038,Level 2
+43884,wsm,Samoa,2039,Level 2
+43885,wsm,Samoa,2040,Level 2
+43886,wsm,Samoa,2041,Level 2
+43887,wsm,Samoa,2042,Level 2
+43888,wsm,Samoa,2043,Level 2
+43889,wsm,Samoa,2044,Level 2
+43890,wsm,Samoa,2045,Level 2
+43891,wsm,Samoa,2046,Level 2
+43892,wsm,Samoa,2047,Level 2
+43893,wsm,Samoa,2048,Level 2
 43894,wsm,Samoa,2049,Level 3
 43895,wsm,Samoa,2050,Level 3
 43896,wsm,Samoa,2051,Level 3
@@ -44094,12 +44094,12 @@
 44092,smr,San Marino,1946,Level 2
 44093,smr,San Marino,1947,Level 2
 44094,smr,San Marino,1948,Level 2
-44095,smr,San Marino,1949,Level 3
-44096,smr,San Marino,1950,Level 3
-44097,smr,San Marino,1951,Level 3
-44098,smr,San Marino,1952,Level 3
-44099,smr,San Marino,1953,Level 3
-44100,smr,San Marino,1954,Level 3
+44095,smr,San Marino,1949,Level 2
+44096,smr,San Marino,1950,Level 2
+44097,smr,San Marino,1951,Level 2
+44098,smr,San Marino,1952,Level 2
+44099,smr,San Marino,1953,Level 2
+44100,smr,San Marino,1954,Level 2
 44101,smr,San Marino,1955,Level 3
 44102,smr,San Marino,1956,Level 3
 44103,smr,San Marino,1957,Level 3
@@ -44496,17 +44496,17 @@
 44494,stp,Sao Tome and Principe,2047,Level 2
 44495,stp,Sao Tome and Principe,2048,Level 2
 44496,stp,Sao Tome and Principe,2049,Level 2
-44497,stp,Sao Tome and Principe,2050,Level 3
-44498,stp,Sao Tome and Principe,2051,Level 3
-44499,stp,Sao Tome and Principe,2052,Level 3
-44500,stp,Sao Tome and Principe,2053,Level 3
-44501,stp,Sao Tome and Principe,2054,Level 3
-44502,stp,Sao Tome and Principe,2055,Level 3
-44503,stp,Sao Tome and Principe,2056,Level 3
-44504,stp,Sao Tome and Principe,2057,Level 3
-44505,stp,Sao Tome and Principe,2058,Level 3
-44506,stp,Sao Tome and Principe,2059,Level 3
-44507,stp,Sao Tome and Principe,2060,Level 3
+44497,stp,Sao Tome and Principe,2050,Level 2
+44498,stp,Sao Tome and Principe,2051,Level 2
+44499,stp,Sao Tome and Principe,2052,Level 2
+44500,stp,Sao Tome and Principe,2053,Level 2
+44501,stp,Sao Tome and Principe,2054,Level 2
+44502,stp,Sao Tome and Principe,2055,Level 2
+44503,stp,Sao Tome and Principe,2056,Level 2
+44504,stp,Sao Tome and Principe,2057,Level 2
+44505,stp,Sao Tome and Principe,2058,Level 2
+44506,stp,Sao Tome and Principe,2059,Level 2
+44507,stp,Sao Tome and Principe,2060,Level 2
 44508,stp,Sao Tome and Principe,2061,Level 3
 44509,stp,Sao Tome and Principe,2062,Level 3
 44510,stp,Sao Tome and Principe,2063,Level 3
@@ -44706,9 +44706,9 @@
 44704,sau,Saudi Arabia,1956,Level 2
 44705,sau,Saudi Arabia,1957,Level 2
 44706,sau,Saudi Arabia,1958,Level 2
-44707,sau,Saudi Arabia,1959,Level 3
-44708,sau,Saudi Arabia,1960,Level 3
-44709,sau,Saudi Arabia,1961,Level 3
+44707,sau,Saudi Arabia,1959,Level 2
+44708,sau,Saudi Arabia,1960,Level 2
+44709,sau,Saudi Arabia,1961,Level 2
 44710,sau,Saudi Arabia,1962,Level 3
 44711,sau,Saudi Arabia,1963,Level 3
 44712,sau,Saudi Arabia,1964,Level 3
@@ -45101,17 +45101,17 @@
 45099,sen,Senegal,2050,Level 2
 45100,sen,Senegal,2051,Level 2
 45101,sen,Senegal,2052,Level 2
-45102,sen,Senegal,2053,Level 3
-45103,sen,Senegal,2054,Level 3
-45104,sen,Senegal,2055,Level 3
-45105,sen,Senegal,2056,Level 3
-45106,sen,Senegal,2057,Level 3
-45107,sen,Senegal,2058,Level 3
-45108,sen,Senegal,2059,Level 3
-45109,sen,Senegal,2060,Level 3
-45110,sen,Senegal,2061,Level 3
-45111,sen,Senegal,2062,Level 3
-45112,sen,Senegal,2063,Level 3
+45102,sen,Senegal,2053,Level 2
+45103,sen,Senegal,2054,Level 2
+45104,sen,Senegal,2055,Level 2
+45105,sen,Senegal,2056,Level 2
+45106,sen,Senegal,2057,Level 2
+45107,sen,Senegal,2058,Level 2
+45108,sen,Senegal,2059,Level 2
+45109,sen,Senegal,2060,Level 2
+45110,sen,Senegal,2061,Level 2
+45111,sen,Senegal,2062,Level 2
+45112,sen,Senegal,2063,Level 2
 45113,sen,Senegal,2064,Level 3
 45114,sen,Senegal,2065,Level 3
 45115,sen,Senegal,2066,Level 3
@@ -45318,11 +45318,11 @@
 45316,srb,Serbia,1966,Level 2
 45317,srb,Serbia,1967,Level 2
 45318,srb,Serbia,1968,Level 2
-45319,srb,Serbia,1969,Level 3
-45320,srb,Serbia,1970,Level 3
-45321,srb,Serbia,1971,Level 3
-45322,srb,Serbia,1972,Level 3
-45323,srb,Serbia,1973,Level 3
+45319,srb,Serbia,1969,Level 2
+45320,srb,Serbia,1970,Level 2
+45321,srb,Serbia,1971,Level 2
+45322,srb,Serbia,1972,Level 2
+45323,srb,Serbia,1973,Level 2
 45324,srb,Serbia,1974,Level 3
 45325,srb,Serbia,1975,Level 3
 45326,srb,Serbia,1976,Level 3
@@ -45341,18 +45341,18 @@
 45339,srb,Serbia,1989,Level 3
 45340,srb,Serbia,1990,Level 3
 45341,srb,Serbia,1991,Level 3
-45342,srb,Serbia,1992,Level 3
+45342,srb,Serbia,1992,Level 2
 45343,srb,Serbia,1993,Level 2
 45344,srb,Serbia,1994,Level 2
 45345,srb,Serbia,1995,Level 2
 45346,srb,Serbia,1996,Level 2
-45347,srb,Serbia,1997,Level 3
-45348,srb,Serbia,1998,Level 3
+45347,srb,Serbia,1997,Level 2
+45348,srb,Serbia,1998,Level 2
 45349,srb,Serbia,1999,Level 2
-45350,srb,Serbia,2000,Level 3
-45351,srb,Serbia,2001,Level 3
-45352,srb,Serbia,2002,Level 3
-45353,srb,Serbia,2003,Level 3
+45350,srb,Serbia,2000,Level 2
+45351,srb,Serbia,2001,Level 2
+45352,srb,Serbia,2002,Level 2
+45353,srb,Serbia,2003,Level 2
 45354,srb,Serbia,2004,Level 3
 45355,srb,Serbia,2005,Level 3
 45356,srb,Serbia,2006,Level 3
@@ -45636,10 +45636,10 @@
 45634,syc,Seychelles,1983,Level 2
 45635,syc,Seychelles,1984,Level 2
 45636,syc,Seychelles,1985,Level 2
-45637,syc,Seychelles,1986,Level 3
-45638,syc,Seychelles,1987,Level 3
-45639,syc,Seychelles,1988,Level 3
-45640,syc,Seychelles,1989,Level 3
+45637,syc,Seychelles,1986,Level 2
+45638,syc,Seychelles,1987,Level 2
+45639,syc,Seychelles,1988,Level 2
+45640,syc,Seychelles,1989,Level 2
 45641,syc,Seychelles,1990,Level 3
 45642,syc,Seychelles,1991,Level 3
 45643,syc,Seychelles,1992,Level 3
@@ -46022,17 +46022,17 @@
 46020,sle,Sierra Leone,2068,Level 2
 46021,sle,Sierra Leone,2069,Level 2
 46022,sle,Sierra Leone,2070,Level 2
-46023,sle,Sierra Leone,2071,Level 3
-46024,sle,Sierra Leone,2072,Level 3
-46025,sle,Sierra Leone,2073,Level 3
-46026,sle,Sierra Leone,2074,Level 3
-46027,sle,Sierra Leone,2075,Level 3
-46028,sle,Sierra Leone,2076,Level 3
-46029,sle,Sierra Leone,2077,Level 3
-46030,sle,Sierra Leone,2078,Level 3
-46031,sle,Sierra Leone,2079,Level 3
-46032,sle,Sierra Leone,2080,Level 3
-46033,sle,Sierra Leone,2081,Level 3
+46023,sle,Sierra Leone,2071,Level 2
+46024,sle,Sierra Leone,2072,Level 2
+46025,sle,Sierra Leone,2073,Level 2
+46026,sle,Sierra Leone,2074,Level 2
+46027,sle,Sierra Leone,2075,Level 2
+46028,sle,Sierra Leone,2076,Level 2
+46029,sle,Sierra Leone,2077,Level 2
+46030,sle,Sierra Leone,2078,Level 2
+46031,sle,Sierra Leone,2079,Level 2
+46032,sle,Sierra Leone,2080,Level 2
+46033,sle,Sierra Leone,2081,Level 2
 46034,sle,Sierra Leone,2082,Level 3
 46035,sle,Sierra Leone,2083,Level 3
 46036,sle,Sierra Leone,2084,Level 3
@@ -46224,10 +46224,10 @@
 46222,sgp,Singapore,1969,Level 2
 46223,sgp,Singapore,1970,Level 2
 46224,sgp,Singapore,1971,Level 2
-46225,sgp,Singapore,1972,Level 3
-46226,sgp,Singapore,1973,Level 3
-46227,sgp,Singapore,1974,Level 3
-46228,sgp,Singapore,1975,Level 3
+46225,sgp,Singapore,1972,Level 2
+46226,sgp,Singapore,1973,Level 2
+46227,sgp,Singapore,1974,Level 2
+46228,sgp,Singapore,1975,Level 2
 46229,sgp,Singapore,1976,Level 3
 46230,sgp,Singapore,1977,Level 3
 46231,sgp,Singapore,1978,Level 3
@@ -46513,17 +46513,17 @@
 46511,svk,Slovak Republic,1957,Level 2
 46512,svk,Slovak Republic,1958,Level 2
 46513,svk,Slovak Republic,1959,Level 2
-46514,svk,Slovak Republic,1960,Level 3
-46515,svk,Slovak Republic,1961,Level 3
-46516,svk,Slovak Republic,1962,Level 3
-46517,svk,Slovak Republic,1963,Level 3
-46518,svk,Slovak Republic,1964,Level 3
-46519,svk,Slovak Republic,1965,Level 3
-46520,svk,Slovak Republic,1966,Level 3
-46521,svk,Slovak Republic,1967,Level 3
-46522,svk,Slovak Republic,1968,Level 3
-46523,svk,Slovak Republic,1969,Level 3
-46524,svk,Slovak Republic,1970,Level 3
+46514,svk,Slovak Republic,1960,Level 2
+46515,svk,Slovak Republic,1961,Level 2
+46516,svk,Slovak Republic,1962,Level 2
+46517,svk,Slovak Republic,1963,Level 2
+46518,svk,Slovak Republic,1964,Level 2
+46519,svk,Slovak Republic,1965,Level 2
+46520,svk,Slovak Republic,1966,Level 2
+46521,svk,Slovak Republic,1967,Level 2
+46522,svk,Slovak Republic,1968,Level 2
+46523,svk,Slovak Republic,1969,Level 2
+46524,svk,Slovak Republic,1970,Level 2
 46525,svk,Slovak Republic,1971,Level 3
 46526,svk,Slovak Republic,1972,Level 3
 46527,svk,Slovak Republic,1973,Level 3
@@ -46815,9 +46815,9 @@
 46813,svn,Slovenia,1958,Level 2
 46814,svn,Slovenia,1959,Level 2
 46815,svn,Slovenia,1960,Level 2
-46816,svn,Slovenia,1961,Level 3
-46817,svn,Slovenia,1962,Level 3
-46818,svn,Slovenia,1963,Level 3
+46816,svn,Slovenia,1961,Level 2
+46817,svn,Slovenia,1962,Level 2
+46818,svn,Slovenia,1963,Level 2
 46819,svn,Slovenia,1964,Level 3
 46820,svn,Slovenia,1965,Level 3
 46821,svn,Slovenia,1966,Level 3
@@ -47240,17 +47240,17 @@
 47238,slb,Solomon Islands,2082,Level 2
 47239,slb,Solomon Islands,2083,Level 2
 47240,slb,Solomon Islands,2084,Level 2
-47241,slb,Solomon Islands,2085,Level 3
-47242,slb,Solomon Islands,2086,Level 3
-47243,slb,Solomon Islands,2087,Level 3
-47244,slb,Solomon Islands,2088,Level 3
-47245,slb,Solomon Islands,2089,Level 3
-47246,slb,Solomon Islands,2090,Level 3
-47247,slb,Solomon Islands,2091,Level 3
-47248,slb,Solomon Islands,2092,Level 3
-47249,slb,Solomon Islands,2093,Level 3
-47250,slb,Solomon Islands,2094,Level 3
-47251,slb,Solomon Islands,2095,Level 3
+47241,slb,Solomon Islands,2085,Level 2
+47242,slb,Solomon Islands,2086,Level 2
+47243,slb,Solomon Islands,2087,Level 2
+47244,slb,Solomon Islands,2088,Level 2
+47245,slb,Solomon Islands,2089,Level 2
+47246,slb,Solomon Islands,2090,Level 2
+47247,slb,Solomon Islands,2091,Level 2
+47248,slb,Solomon Islands,2092,Level 2
+47249,slb,Solomon Islands,2093,Level 2
+47250,slb,Solomon Islands,2094,Level 2
+47251,slb,Solomon Islands,2095,Level 2
 47252,slb,Solomon Islands,2096,Level 3
 47253,slb,Solomon Islands,2097,Level 3
 47254,slb,Solomon Islands,2098,Level 3
@@ -47753,16 +47753,16 @@
 47751,zaf,South Africa,1993,Level 2
 47752,zaf,South Africa,1994,Level 2
 47753,zaf,South Africa,1995,Level 2
-47754,zaf,South Africa,1996,Level 3
-47755,zaf,South Africa,1997,Level 3
-47756,zaf,South Africa,1998,Level 3
-47757,zaf,South Africa,1999,Level 3
-47758,zaf,South Africa,2000,Level 3
-47759,zaf,South Africa,2001,Level 3
-47760,zaf,South Africa,2002,Level 3
-47761,zaf,South Africa,2003,Level 3
-47762,zaf,South Africa,2004,Level 3
-47763,zaf,South Africa,2005,Level 3
+47754,zaf,South Africa,1996,Level 2
+47755,zaf,South Africa,1997,Level 2
+47756,zaf,South Africa,1998,Level 2
+47757,zaf,South Africa,1999,Level 2
+47758,zaf,South Africa,2000,Level 2
+47759,zaf,South Africa,2001,Level 2
+47760,zaf,South Africa,2002,Level 2
+47761,zaf,South Africa,2003,Level 2
+47762,zaf,South Africa,2004,Level 2
+47763,zaf,South Africa,2005,Level 2
 47764,zaf,South Africa,2006,Level 3
 47765,zaf,South Africa,2007,Level 3
 47766,zaf,South Africa,2008,Level 3
@@ -48045,8 +48045,8 @@
 48043,kor,South Korea,1984,Level 2
 48044,kor,South Korea,1985,Level 2
 48045,kor,South Korea,1986,Level 2
-48046,kor,South Korea,1987,Level 3
-48047,kor,South Korea,1988,Level 3
+48046,kor,South Korea,1987,Level 2
+48047,kor,South Korea,1988,Level 2
 48048,kor,South Korea,1989,Level 3
 48049,kor,South Korea,1990,Level 3
 48050,kor,South Korea,1991,Level 3
@@ -48626,11 +48626,11 @@
 48624,esp,Spain,1963,Level 2
 48625,esp,Spain,1964,Level 2
 48626,esp,Spain,1965,Level 2
-48627,esp,Spain,1966,Level 3
-48628,esp,Spain,1967,Level 3
-48629,esp,Spain,1968,Level 3
-48630,esp,Spain,1969,Level 3
-48631,esp,Spain,1970,Level 3
+48627,esp,Spain,1966,Level 2
+48628,esp,Spain,1967,Level 2
+48629,esp,Spain,1968,Level 2
+48630,esp,Spain,1969,Level 2
+48631,esp,Spain,1970,Level 2
 48632,esp,Spain,1971,Level 3
 48633,esp,Spain,1972,Level 3
 48634,esp,Spain,1973,Level 3
@@ -48972,10 +48972,10 @@
 48970,lka,Sri Lanka,2008,Level 2
 48971,lka,Sri Lanka,2009,Level 2
 48972,lka,Sri Lanka,2010,Level 2
-48973,lka,Sri Lanka,2011,Level 3
-48974,lka,Sri Lanka,2012,Level 3
-48975,lka,Sri Lanka,2013,Level 3
-48976,lka,Sri Lanka,2014,Level 3
+48973,lka,Sri Lanka,2011,Level 2
+48974,lka,Sri Lanka,2012,Level 2
+48975,lka,Sri Lanka,2013,Level 2
+48976,lka,Sri Lanka,2014,Level 2
 48977,lka,Sri Lanka,2015,Level 3
 48978,lka,Sri Lanka,2016,Level 3
 48979,lka,Sri Lanka,2017,Level 3
@@ -49248,8 +49248,8 @@
 49246,kna,St. Kitts and Nevis,1983,Level 2
 49247,kna,St. Kitts and Nevis,1984,Level 2
 49248,kna,St. Kitts and Nevis,1985,Level 2
-49249,kna,St. Kitts and Nevis,1986,Level 3
-49250,kna,St. Kitts and Nevis,1987,Level 3
+49249,kna,St. Kitts and Nevis,1986,Level 2
+49250,kna,St. Kitts and Nevis,1987,Level 2
 49251,kna,St. Kitts and Nevis,1988,Level 3
 49252,kna,St. Kitts and Nevis,1989,Level 3
 49253,kna,St. Kitts and Nevis,1990,Level 3
@@ -49551,8 +49551,8 @@
 49549,lca,St. Lucia,1985,Level 2
 49550,lca,St. Lucia,1986,Level 2
 49551,lca,St. Lucia,1987,Level 2
-49552,lca,St. Lucia,1988,Level 3
-49553,lca,St. Lucia,1989,Level 3
+49552,lca,St. Lucia,1988,Level 2
+49553,lca,St. Lucia,1989,Level 2
 49554,lca,St. Lucia,1990,Level 3
 49555,lca,St. Lucia,1991,Level 3
 49556,lca,St. Lucia,1992,Level 3
@@ -49864,12 +49864,12 @@
 49862,vct,St. Vincent and the Grenadines,1997,Level 2
 49863,vct,St. Vincent and the Grenadines,1998,Level 2
 49864,vct,St. Vincent and the Grenadines,1999,Level 2
-49865,vct,St. Vincent and the Grenadines,2000,Level 3
-49866,vct,St. Vincent and the Grenadines,2001,Level 3
-49867,vct,St. Vincent and the Grenadines,2002,Level 3
-49868,vct,St. Vincent and the Grenadines,2003,Level 3
-49869,vct,St. Vincent and the Grenadines,2004,Level 3
-49870,vct,St. Vincent and the Grenadines,2005,Level 3
+49865,vct,St. Vincent and the Grenadines,2000,Level 2
+49866,vct,St. Vincent and the Grenadines,2001,Level 2
+49867,vct,St. Vincent and the Grenadines,2002,Level 2
+49868,vct,St. Vincent and the Grenadines,2003,Level 2
+49869,vct,St. Vincent and the Grenadines,2004,Level 2
+49870,vct,St. Vincent and the Grenadines,2005,Level 2
 49871,vct,St. Vincent and the Grenadines,2006,Level 3
 49872,vct,St. Vincent and the Grenadines,2007,Level 3
 49873,vct,St. Vincent and the Grenadines,2008,Level 3
@@ -50259,13 +50259,13 @@
 50257,sdn,Sudan,2091,Level 2
 50258,sdn,Sudan,2092,Level 2
 50259,sdn,Sudan,2093,Level 2
-50260,sdn,Sudan,2094,Level 3
-50261,sdn,Sudan,2095,Level 3
-50262,sdn,Sudan,2096,Level 3
-50263,sdn,Sudan,2097,Level 3
-50264,sdn,Sudan,2098,Level 3
-50265,sdn,Sudan,2099,Level 3
-50266,sdn,Sudan,2100,Level 3
+50260,sdn,Sudan,2094,Level 2
+50261,sdn,Sudan,2095,Level 2
+50262,sdn,Sudan,2096,Level 2
+50263,sdn,Sudan,2097,Level 2
+50264,sdn,Sudan,2098,Level 2
+50265,sdn,Sudan,2099,Level 2
+50266,sdn,Sudan,2100,Level 2
 50267,sur,Suriname,1800,Level 1
 50268,sur,Suriname,1801,Level 1
 50269,sur,Suriname,1802,Level 1
@@ -50432,15 +50432,15 @@
 50430,sur,Suriname,1963,Level 2
 50431,sur,Suriname,1964,Level 2
 50432,sur,Suriname,1965,Level 2
-50433,sur,Suriname,1966,Level 3
-50434,sur,Suriname,1967,Level 3
-50435,sur,Suriname,1968,Level 3
-50436,sur,Suriname,1969,Level 3
-50437,sur,Suriname,1970,Level 3
-50438,sur,Suriname,1971,Level 3
-50439,sur,Suriname,1972,Level 3
+50433,sur,Suriname,1966,Level 2
+50434,sur,Suriname,1967,Level 2
+50435,sur,Suriname,1968,Level 2
+50436,sur,Suriname,1969,Level 2
+50437,sur,Suriname,1970,Level 2
+50438,sur,Suriname,1971,Level 2
+50439,sur,Suriname,1972,Level 2
 50440,sur,Suriname,1973,Level 3
-50441,sur,Suriname,1974,Level 3
+50441,sur,Suriname,1974,Level 2
 50442,sur,Suriname,1975,Level 3
 50443,sur,Suriname,1976,Level 3
 50444,sur,Suriname,1977,Level 3
@@ -50786,16 +50786,16 @@
 50784,swz,Swaziland,2016,Level 2
 50785,swz,Swaziland,2017,Level 2
 50786,swz,Swaziland,2018,Level 2
-50787,swz,Swaziland,2019,Level 3
+50787,swz,Swaziland,2019,Level 2
 50788,swz,Swaziland,2020,Level 2
 50789,swz,Swaziland,2021,Level 2
 50790,swz,Swaziland,2022,Level 2
-50791,swz,Swaziland,2023,Level 3
-50792,swz,Swaziland,2024,Level 3
-50793,swz,Swaziland,2025,Level 3
-50794,swz,Swaziland,2026,Level 3
-50795,swz,Swaziland,2027,Level 3
-50796,swz,Swaziland,2028,Level 3
+50791,swz,Swaziland,2023,Level 2
+50792,swz,Swaziland,2024,Level 2
+50793,swz,Swaziland,2025,Level 2
+50794,swz,Swaziland,2026,Level 2
+50795,swz,Swaziland,2027,Level 2
+50796,swz,Swaziland,2028,Level 2
 50797,swz,Swaziland,2029,Level 3
 50798,swz,Swaziland,2030,Level 3
 50799,swz,Swaziland,2031,Level 3
@@ -51005,19 +51005,19 @@
 51003,swe,Sweden,1934,Level 2
 51004,swe,Sweden,1935,Level 2
 51005,swe,Sweden,1936,Level 2
-51006,swe,Sweden,1937,Level 3
-51007,swe,Sweden,1938,Level 3
-51008,swe,Sweden,1939,Level 3
-51009,swe,Sweden,1940,Level 3
+51006,swe,Sweden,1937,Level 2
+51007,swe,Sweden,1938,Level 2
+51008,swe,Sweden,1939,Level 2
+51009,swe,Sweden,1940,Level 2
 51010,swe,Sweden,1941,Level 2
 51011,swe,Sweden,1942,Level 2
-51012,swe,Sweden,1943,Level 3
-51013,swe,Sweden,1944,Level 3
-51014,swe,Sweden,1945,Level 3
-51015,swe,Sweden,1946,Level 3
-51016,swe,Sweden,1947,Level 3
-51017,swe,Sweden,1948,Level 3
-51018,swe,Sweden,1949,Level 3
+51012,swe,Sweden,1943,Level 2
+51013,swe,Sweden,1944,Level 2
+51014,swe,Sweden,1945,Level 2
+51015,swe,Sweden,1946,Level 2
+51016,swe,Sweden,1947,Level 2
+51017,swe,Sweden,1948,Level 2
+51018,swe,Sweden,1949,Level 2
 51019,swe,Sweden,1950,Level 3
 51020,swe,Sweden,1951,Level 3
 51021,swe,Sweden,1952,Level 3
@@ -51275,46 +51275,46 @@
 51273,che,Switzerland,1903,Level 2
 51274,che,Switzerland,1904,Level 2
 51275,che,Switzerland,1905,Level 2
-51276,che,Switzerland,1906,Level 3
+51276,che,Switzerland,1906,Level 2
 51277,che,Switzerland,1907,Level 2
-51278,che,Switzerland,1908,Level 3
-51279,che,Switzerland,1909,Level 3
-51280,che,Switzerland,1910,Level 3
-51281,che,Switzerland,1911,Level 3
-51282,che,Switzerland,1912,Level 3
-51283,che,Switzerland,1913,Level 3
-51284,che,Switzerland,1914,Level 3
+51278,che,Switzerland,1908,Level 2
+51279,che,Switzerland,1909,Level 2
+51280,che,Switzerland,1910,Level 2
+51281,che,Switzerland,1911,Level 2
+51282,che,Switzerland,1912,Level 2
+51283,che,Switzerland,1913,Level 2
+51284,che,Switzerland,1914,Level 2
 51285,che,Switzerland,1915,Level 2
-51286,che,Switzerland,1916,Level 3
-51287,che,Switzerland,1917,Level 3
+51286,che,Switzerland,1916,Level 2
+51287,che,Switzerland,1917,Level 2
 51288,che,Switzerland,1918,Level 2
 51289,che,Switzerland,1919,Level 2
 51290,che,Switzerland,1920,Level 2
 51291,che,Switzerland,1921,Level 2
 51292,che,Switzerland,1922,Level 2
-51293,che,Switzerland,1923,Level 3
-51294,che,Switzerland,1924,Level 3
-51295,che,Switzerland,1925,Level 3
-51296,che,Switzerland,1926,Level 3
-51297,che,Switzerland,1927,Level 3
-51298,che,Switzerland,1928,Level 3
+51293,che,Switzerland,1923,Level 2
+51294,che,Switzerland,1924,Level 2
+51295,che,Switzerland,1925,Level 2
+51296,che,Switzerland,1926,Level 2
+51297,che,Switzerland,1927,Level 2
+51298,che,Switzerland,1928,Level 2
 51299,che,Switzerland,1929,Level 3
 51300,che,Switzerland,1930,Level 3
 51301,che,Switzerland,1931,Level 3
 51302,che,Switzerland,1932,Level 3
 51303,che,Switzerland,1933,Level 3
 51304,che,Switzerland,1934,Level 3
-51305,che,Switzerland,1935,Level 3
-51306,che,Switzerland,1936,Level 3
+51305,che,Switzerland,1935,Level 2
+51306,che,Switzerland,1936,Level 2
 51307,che,Switzerland,1937,Level 3
-51308,che,Switzerland,1938,Level 3
+51308,che,Switzerland,1938,Level 2
 51309,che,Switzerland,1939,Level 3
 51310,che,Switzerland,1940,Level 3
-51311,che,Switzerland,1941,Level 3
-51312,che,Switzerland,1942,Level 3
-51313,che,Switzerland,1943,Level 3
-51314,che,Switzerland,1944,Level 3
-51315,che,Switzerland,1945,Level 3
+51311,che,Switzerland,1941,Level 2
+51312,che,Switzerland,1942,Level 2
+51313,che,Switzerland,1943,Level 2
+51314,che,Switzerland,1944,Level 2
+51315,che,Switzerland,1945,Level 2
 51316,che,Switzerland,1946,Level 3
 51317,che,Switzerland,1947,Level 3
 51318,che,Switzerland,1948,Level 3
@@ -51735,17 +51735,17 @@
 51733,syr,Syria,2062,Level 2
 51734,syr,Syria,2063,Level 2
 51735,syr,Syria,2064,Level 2
-51736,syr,Syria,2065,Level 3
-51737,syr,Syria,2066,Level 3
-51738,syr,Syria,2067,Level 3
-51739,syr,Syria,2068,Level 3
-51740,syr,Syria,2069,Level 3
-51741,syr,Syria,2070,Level 3
-51742,syr,Syria,2071,Level 3
-51743,syr,Syria,2072,Level 3
-51744,syr,Syria,2073,Level 3
-51745,syr,Syria,2074,Level 3
-51746,syr,Syria,2075,Level 3
+51736,syr,Syria,2065,Level 2
+51737,syr,Syria,2066,Level 2
+51738,syr,Syria,2067,Level 2
+51739,syr,Syria,2068,Level 2
+51740,syr,Syria,2069,Level 2
+51741,syr,Syria,2070,Level 2
+51742,syr,Syria,2071,Level 2
+51743,syr,Syria,2072,Level 2
+51744,syr,Syria,2073,Level 2
+51745,syr,Syria,2074,Level 2
+51746,syr,Syria,2075,Level 2
 51747,syr,Syria,2076,Level 3
 51748,syr,Syria,2077,Level 3
 51749,syr,Syria,2078,Level 3
@@ -51959,10 +51959,10 @@
 51957,twn,Taiwan,1985,Level 2
 51958,twn,Taiwan,1986,Level 2
 51959,twn,Taiwan,1987,Level 2
-51960,twn,Taiwan,1988,Level 3
-51961,twn,Taiwan,1989,Level 3
-51962,twn,Taiwan,1990,Level 3
-51963,twn,Taiwan,1991,Level 3
+51960,twn,Taiwan,1988,Level 2
+51961,twn,Taiwan,1989,Level 2
+51962,twn,Taiwan,1990,Level 2
+51963,twn,Taiwan,1991,Level 2
 51964,twn,Taiwan,1992,Level 3
 51965,twn,Taiwan,1993,Level 3
 51966,twn,Taiwan,1994,Level 3
@@ -52320,17 +52320,17 @@
 52318,tjk,Tajikistan,2045,Level 2
 52319,tjk,Tajikistan,2046,Level 2
 52320,tjk,Tajikistan,2047,Level 2
-52321,tjk,Tajikistan,2048,Level 3
-52322,tjk,Tajikistan,2049,Level 3
-52323,tjk,Tajikistan,2050,Level 3
-52324,tjk,Tajikistan,2051,Level 3
-52325,tjk,Tajikistan,2052,Level 3
-52326,tjk,Tajikistan,2053,Level 3
-52327,tjk,Tajikistan,2054,Level 3
-52328,tjk,Tajikistan,2055,Level 3
-52329,tjk,Tajikistan,2056,Level 3
-52330,tjk,Tajikistan,2057,Level 3
-52331,tjk,Tajikistan,2058,Level 3
+52321,tjk,Tajikistan,2048,Level 2
+52322,tjk,Tajikistan,2049,Level 2
+52323,tjk,Tajikistan,2050,Level 2
+52324,tjk,Tajikistan,2051,Level 2
+52325,tjk,Tajikistan,2052,Level 2
+52326,tjk,Tajikistan,2053,Level 2
+52327,tjk,Tajikistan,2054,Level 2
+52328,tjk,Tajikistan,2055,Level 2
+52329,tjk,Tajikistan,2056,Level 2
+52330,tjk,Tajikistan,2057,Level 2
+52331,tjk,Tajikistan,2058,Level 2
 52332,tjk,Tajikistan,2059,Level 3
 52333,tjk,Tajikistan,2060,Level 3
 52334,tjk,Tajikistan,2061,Level 3
@@ -52631,17 +52631,17 @@
 52629,tza,Tanzania,2055,Level 2
 52630,tza,Tanzania,2056,Level 2
 52631,tza,Tanzania,2057,Level 2
-52632,tza,Tanzania,2058,Level 3
-52633,tza,Tanzania,2059,Level 3
-52634,tza,Tanzania,2060,Level 3
-52635,tza,Tanzania,2061,Level 3
-52636,tza,Tanzania,2062,Level 3
-52637,tza,Tanzania,2063,Level 3
-52638,tza,Tanzania,2064,Level 3
-52639,tza,Tanzania,2065,Level 3
-52640,tza,Tanzania,2066,Level 3
-52641,tza,Tanzania,2067,Level 3
-52642,tza,Tanzania,2068,Level 3
+52632,tza,Tanzania,2058,Level 2
+52633,tza,Tanzania,2059,Level 2
+52634,tza,Tanzania,2060,Level 2
+52635,tza,Tanzania,2061,Level 2
+52636,tza,Tanzania,2062,Level 2
+52637,tza,Tanzania,2063,Level 2
+52638,tza,Tanzania,2064,Level 2
+52639,tza,Tanzania,2065,Level 2
+52640,tza,Tanzania,2066,Level 2
+52641,tza,Tanzania,2067,Level 2
+52642,tza,Tanzania,2068,Level 2
 52643,tza,Tanzania,2069,Level 3
 52644,tza,Tanzania,2070,Level 3
 52645,tza,Tanzania,2071,Level 3
@@ -52866,17 +52866,17 @@
 52864,tha,Thailand,1989,Level 2
 52865,tha,Thailand,1990,Level 2
 52866,tha,Thailand,1991,Level 2
-52867,tha,Thailand,1992,Level 3
-52868,tha,Thailand,1993,Level 3
-52869,tha,Thailand,1994,Level 3
-52870,tha,Thailand,1995,Level 3
-52871,tha,Thailand,1996,Level 3
-52872,tha,Thailand,1997,Level 3
-52873,tha,Thailand,1998,Level 3
-52874,tha,Thailand,1999,Level 3
-52875,tha,Thailand,2000,Level 3
-52876,tha,Thailand,2001,Level 3
-52877,tha,Thailand,2002,Level 3
+52867,tha,Thailand,1992,Level 2
+52868,tha,Thailand,1993,Level 2
+52869,tha,Thailand,1994,Level 2
+52870,tha,Thailand,1995,Level 2
+52871,tha,Thailand,1996,Level 2
+52872,tha,Thailand,1997,Level 2
+52873,tha,Thailand,1998,Level 2
+52874,tha,Thailand,1999,Level 2
+52875,tha,Thailand,2000,Level 2
+52876,tha,Thailand,2001,Level 2
+52877,tha,Thailand,2002,Level 2
 52878,tha,Thailand,2003,Level 3
 52879,tha,Thailand,2004,Level 3
 52880,tha,Thailand,2005,Level 3
@@ -53234,17 +53234,17 @@
 53232,tls,Timor-Leste,2056,Level 2
 53233,tls,Timor-Leste,2057,Level 2
 53234,tls,Timor-Leste,2058,Level 2
-53235,tls,Timor-Leste,2059,Level 3
-53236,tls,Timor-Leste,2060,Level 3
-53237,tls,Timor-Leste,2061,Level 3
-53238,tls,Timor-Leste,2062,Level 3
-53239,tls,Timor-Leste,2063,Level 3
-53240,tls,Timor-Leste,2064,Level 3
-53241,tls,Timor-Leste,2065,Level 3
-53242,tls,Timor-Leste,2066,Level 3
-53243,tls,Timor-Leste,2067,Level 3
-53244,tls,Timor-Leste,2068,Level 3
-53245,tls,Timor-Leste,2069,Level 3
+53235,tls,Timor-Leste,2059,Level 2
+53236,tls,Timor-Leste,2060,Level 2
+53237,tls,Timor-Leste,2061,Level 2
+53238,tls,Timor-Leste,2062,Level 2
+53239,tls,Timor-Leste,2063,Level 2
+53240,tls,Timor-Leste,2064,Level 2
+53241,tls,Timor-Leste,2065,Level 2
+53242,tls,Timor-Leste,2066,Level 2
+53243,tls,Timor-Leste,2067,Level 2
+53244,tls,Timor-Leste,2068,Level 2
+53245,tls,Timor-Leste,2069,Level 2
 53246,tls,Timor-Leste,2070,Level 3
 53247,tls,Timor-Leste,2071,Level 3
 53248,tls,Timor-Leste,2072,Level 3
@@ -53549,17 +53549,17 @@
 53547,tgo,Togo,2070,Level 2
 53548,tgo,Togo,2071,Level 2
 53549,tgo,Togo,2072,Level 2
-53550,tgo,Togo,2073,Level 3
-53551,tgo,Togo,2074,Level 3
-53552,tgo,Togo,2075,Level 3
-53553,tgo,Togo,2076,Level 3
-53554,tgo,Togo,2077,Level 3
-53555,tgo,Togo,2078,Level 3
-53556,tgo,Togo,2079,Level 3
-53557,tgo,Togo,2080,Level 3
-53558,tgo,Togo,2081,Level 3
-53559,tgo,Togo,2082,Level 3
-53560,tgo,Togo,2083,Level 3
+53550,tgo,Togo,2073,Level 2
+53551,tgo,Togo,2074,Level 2
+53552,tgo,Togo,2075,Level 2
+53553,tgo,Togo,2076,Level 2
+53554,tgo,Togo,2077,Level 2
+53555,tgo,Togo,2078,Level 2
+53556,tgo,Togo,2079,Level 2
+53557,tgo,Togo,2080,Level 2
+53558,tgo,Togo,2081,Level 2
+53559,tgo,Togo,2082,Level 2
+53560,tgo,Togo,2083,Level 2
 53561,tgo,Togo,2084,Level 3
 53562,tgo,Togo,2085,Level 3
 53563,tgo,Togo,2086,Level 3
@@ -53810,17 +53810,17 @@
 53808,ton,Tonga,2030,Level 2
 53809,ton,Tonga,2031,Level 2
 53810,ton,Tonga,2032,Level 2
-53811,ton,Tonga,2033,Level 3
-53812,ton,Tonga,2034,Level 3
-53813,ton,Tonga,2035,Level 3
-53814,ton,Tonga,2036,Level 3
-53815,ton,Tonga,2037,Level 3
-53816,ton,Tonga,2038,Level 3
-53817,ton,Tonga,2039,Level 3
-53818,ton,Tonga,2040,Level 3
-53819,ton,Tonga,2041,Level 3
-53820,ton,Tonga,2042,Level 3
-53821,ton,Tonga,2043,Level 3
+53811,ton,Tonga,2033,Level 2
+53812,ton,Tonga,2034,Level 2
+53813,ton,Tonga,2035,Level 2
+53814,ton,Tonga,2036,Level 2
+53815,ton,Tonga,2037,Level 2
+53816,ton,Tonga,2038,Level 2
+53817,ton,Tonga,2039,Level 2
+53818,ton,Tonga,2040,Level 2
+53819,ton,Tonga,2041,Level 2
+53820,ton,Tonga,2042,Level 2
+53821,ton,Tonga,2043,Level 2
 53822,ton,Tonga,2044,Level 3
 53823,ton,Tonga,2045,Level 3
 53824,ton,Tonga,2046,Level 3
@@ -54038,22 +54038,22 @@
 54036,tto,Trinidad and Tobago,1957,Level 2
 54037,tto,Trinidad and Tobago,1958,Level 2
 54038,tto,Trinidad and Tobago,1959,Level 2
-54039,tto,Trinidad and Tobago,1960,Level 3
-54040,tto,Trinidad and Tobago,1961,Level 3
-54041,tto,Trinidad and Tobago,1962,Level 3
-54042,tto,Trinidad and Tobago,1963,Level 3
-54043,tto,Trinidad and Tobago,1964,Level 3
-54044,tto,Trinidad and Tobago,1965,Level 3
-54045,tto,Trinidad and Tobago,1966,Level 3
-54046,tto,Trinidad and Tobago,1967,Level 3
-54047,tto,Trinidad and Tobago,1968,Level 3
-54048,tto,Trinidad and Tobago,1969,Level 3
-54049,tto,Trinidad and Tobago,1970,Level 3
-54050,tto,Trinidad and Tobago,1971,Level 3
-54051,tto,Trinidad and Tobago,1972,Level 3
-54052,tto,Trinidad and Tobago,1973,Level 3
-54053,tto,Trinidad and Tobago,1974,Level 3
-54054,tto,Trinidad and Tobago,1975,Level 3
+54039,tto,Trinidad and Tobago,1960,Level 2
+54040,tto,Trinidad and Tobago,1961,Level 2
+54041,tto,Trinidad and Tobago,1962,Level 2
+54042,tto,Trinidad and Tobago,1963,Level 2
+54043,tto,Trinidad and Tobago,1964,Level 2
+54044,tto,Trinidad and Tobago,1965,Level 2
+54045,tto,Trinidad and Tobago,1966,Level 2
+54046,tto,Trinidad and Tobago,1967,Level 2
+54047,tto,Trinidad and Tobago,1968,Level 2
+54048,tto,Trinidad and Tobago,1969,Level 2
+54049,tto,Trinidad and Tobago,1970,Level 2
+54050,tto,Trinidad and Tobago,1971,Level 2
+54051,tto,Trinidad and Tobago,1972,Level 2
+54052,tto,Trinidad and Tobago,1973,Level 2
+54053,tto,Trinidad and Tobago,1974,Level 2
+54054,tto,Trinidad and Tobago,1975,Level 2
 54055,tto,Trinidad and Tobago,1976,Level 3
 54056,tto,Trinidad and Tobago,1977,Level 3
 54057,tto,Trinidad and Tobago,1978,Level 3
@@ -54383,27 +54383,27 @@
 54381,tun,Tunisia,2001,Level 2
 54382,tun,Tunisia,2002,Level 2
 54383,tun,Tunisia,2003,Level 2
-54384,tun,Tunisia,2004,Level 3
-54385,tun,Tunisia,2005,Level 3
-54386,tun,Tunisia,2006,Level 3
-54387,tun,Tunisia,2007,Level 3
-54388,tun,Tunisia,2008,Level 3
-54389,tun,Tunisia,2009,Level 3
-54390,tun,Tunisia,2010,Level 3
-54391,tun,Tunisia,2011,Level 3
-54392,tun,Tunisia,2012,Level 3
-54393,tun,Tunisia,2013,Level 3
-54394,tun,Tunisia,2014,Level 3
-54395,tun,Tunisia,2015,Level 3
-54396,tun,Tunisia,2016,Level 3
-54397,tun,Tunisia,2017,Level 3
+54384,tun,Tunisia,2004,Level 2
+54385,tun,Tunisia,2005,Level 2
+54386,tun,Tunisia,2006,Level 2
+54387,tun,Tunisia,2007,Level 2
+54388,tun,Tunisia,2008,Level 2
+54389,tun,Tunisia,2009,Level 2
+54390,tun,Tunisia,2010,Level 2
+54391,tun,Tunisia,2011,Level 2
+54392,tun,Tunisia,2012,Level 2
+54393,tun,Tunisia,2013,Level 2
+54394,tun,Tunisia,2014,Level 2
+54395,tun,Tunisia,2015,Level 2
+54396,tun,Tunisia,2016,Level 2
+54397,tun,Tunisia,2017,Level 2
 54398,tun,Tunisia,2018,Level 3
 54399,tun,Tunisia,2019,Level 3
-54400,tun,Tunisia,2020,Level 3
-54401,tun,Tunisia,2021,Level 3
-54402,tun,Tunisia,2022,Level 3
-54403,tun,Tunisia,2023,Level 3
-54404,tun,Tunisia,2024,Level 3
+54400,tun,Tunisia,2020,Level 2
+54401,tun,Tunisia,2021,Level 2
+54402,tun,Tunisia,2022,Level 2
+54403,tun,Tunisia,2023,Level 2
+54404,tun,Tunisia,2024,Level 2
 54405,tun,Tunisia,2025,Level 3
 54406,tun,Tunisia,2026,Level 3
 54407,tun,Tunisia,2027,Level 3
@@ -54667,15 +54667,15 @@
 54665,tur,Turkey,1984,Level 2
 54666,tur,Turkey,1985,Level 2
 54667,tur,Turkey,1986,Level 2
-54668,tur,Turkey,1987,Level 3
-54669,tur,Turkey,1988,Level 3
-54670,tur,Turkey,1989,Level 3
-54671,tur,Turkey,1990,Level 3
-54672,tur,Turkey,1991,Level 3
-54673,tur,Turkey,1992,Level 3
+54668,tur,Turkey,1987,Level 2
+54669,tur,Turkey,1988,Level 2
+54670,tur,Turkey,1989,Level 2
+54671,tur,Turkey,1990,Level 2
+54672,tur,Turkey,1991,Level 2
+54673,tur,Turkey,1992,Level 2
 54674,tur,Turkey,1993,Level 3
-54675,tur,Turkey,1994,Level 3
-54676,tur,Turkey,1995,Level 3
+54675,tur,Turkey,1994,Level 2
+54676,tur,Turkey,1995,Level 2
 54677,tur,Turkey,1996,Level 3
 54678,tur,Turkey,1997,Level 3
 54679,tur,Turkey,1998,Level 3
@@ -54954,9 +54954,9 @@
 54952,tkm,Turkmenistan,1970,Level 2
 54953,tkm,Turkmenistan,1971,Level 2
 54954,tkm,Turkmenistan,1972,Level 2
-54955,tkm,Turkmenistan,1973,Level 3
-54956,tkm,Turkmenistan,1974,Level 3
-54957,tkm,Turkmenistan,1975,Level 3
+54955,tkm,Turkmenistan,1973,Level 2
+54956,tkm,Turkmenistan,1974,Level 2
+54957,tkm,Turkmenistan,1975,Level 2
 54958,tkm,Turkmenistan,1976,Level 2
 54959,tkm,Turkmenistan,1977,Level 2
 54960,tkm,Turkmenistan,1978,Level 2
@@ -54993,9 +54993,9 @@
 54991,tkm,Turkmenistan,2009,Level 2
 54992,tkm,Turkmenistan,2010,Level 2
 54993,tkm,Turkmenistan,2011,Level 2
-54994,tkm,Turkmenistan,2012,Level 3
-54995,tkm,Turkmenistan,2013,Level 3
-54996,tkm,Turkmenistan,2014,Level 3
+54994,tkm,Turkmenistan,2012,Level 2
+54995,tkm,Turkmenistan,2013,Level 2
+54996,tkm,Turkmenistan,2014,Level 2
 54997,tkm,Turkmenistan,2015,Level 3
 54998,tkm,Turkmenistan,2016,Level 3
 54999,tkm,Turkmenistan,2017,Level 3
@@ -55320,17 +55320,17 @@
 55318,tuv,Tuvalu,2035,Level 2
 55319,tuv,Tuvalu,2036,Level 2
 55320,tuv,Tuvalu,2037,Level 2
-55321,tuv,Tuvalu,2038,Level 3
-55322,tuv,Tuvalu,2039,Level 3
-55323,tuv,Tuvalu,2040,Level 3
-55324,tuv,Tuvalu,2041,Level 3
-55325,tuv,Tuvalu,2042,Level 3
-55326,tuv,Tuvalu,2043,Level 3
-55327,tuv,Tuvalu,2044,Level 3
-55328,tuv,Tuvalu,2045,Level 3
-55329,tuv,Tuvalu,2046,Level 3
-55330,tuv,Tuvalu,2047,Level 3
-55331,tuv,Tuvalu,2048,Level 3
+55321,tuv,Tuvalu,2038,Level 2
+55322,tuv,Tuvalu,2039,Level 2
+55323,tuv,Tuvalu,2040,Level 2
+55324,tuv,Tuvalu,2041,Level 2
+55325,tuv,Tuvalu,2042,Level 2
+55326,tuv,Tuvalu,2043,Level 2
+55327,tuv,Tuvalu,2044,Level 2
+55328,tuv,Tuvalu,2045,Level 2
+55329,tuv,Tuvalu,2046,Level 2
+55330,tuv,Tuvalu,2047,Level 2
+55331,tuv,Tuvalu,2048,Level 2
 55332,tuv,Tuvalu,2049,Level 3
 55333,tuv,Tuvalu,2050,Level 3
 55334,tuv,Tuvalu,2051,Level 3
@@ -55650,17 +55650,17 @@
 55648,uga,Uganda,2064,Level 2
 55649,uga,Uganda,2065,Level 2
 55650,uga,Uganda,2066,Level 2
-55651,uga,Uganda,2067,Level 3
-55652,uga,Uganda,2068,Level 3
-55653,uga,Uganda,2069,Level 3
-55654,uga,Uganda,2070,Level 3
-55655,uga,Uganda,2071,Level 3
-55656,uga,Uganda,2072,Level 3
-55657,uga,Uganda,2073,Level 3
-55658,uga,Uganda,2074,Level 3
-55659,uga,Uganda,2075,Level 3
-55660,uga,Uganda,2076,Level 3
-55661,uga,Uganda,2077,Level 3
+55651,uga,Uganda,2067,Level 2
+55652,uga,Uganda,2068,Level 2
+55653,uga,Uganda,2069,Level 2
+55654,uga,Uganda,2070,Level 2
+55655,uga,Uganda,2071,Level 2
+55656,uga,Uganda,2072,Level 2
+55657,uga,Uganda,2073,Level 2
+55658,uga,Uganda,2074,Level 2
+55659,uga,Uganda,2075,Level 2
+55660,uga,Uganda,2076,Level 2
+55661,uga,Uganda,2077,Level 2
 55662,uga,Uganda,2078,Level 3
 55663,uga,Uganda,2079,Level 3
 55664,uga,Uganda,2080,Level 3
@@ -55850,14 +55850,14 @@
 55848,ukr,Ukraine,1963,Level 2
 55849,ukr,Ukraine,1964,Level 2
 55850,ukr,Ukraine,1965,Level 2
-55851,ukr,Ukraine,1966,Level 3
-55852,ukr,Ukraine,1967,Level 3
-55853,ukr,Ukraine,1968,Level 3
-55854,ukr,Ukraine,1969,Level 3
-55855,ukr,Ukraine,1970,Level 3
-55856,ukr,Ukraine,1971,Level 3
-55857,ukr,Ukraine,1972,Level 3
-55858,ukr,Ukraine,1973,Level 3
+55851,ukr,Ukraine,1966,Level 2
+55852,ukr,Ukraine,1967,Level 2
+55853,ukr,Ukraine,1968,Level 2
+55854,ukr,Ukraine,1969,Level 2
+55855,ukr,Ukraine,1970,Level 2
+55856,ukr,Ukraine,1971,Level 2
+55857,ukr,Ukraine,1972,Level 2
+55858,ukr,Ukraine,1973,Level 2
 55859,ukr,Ukraine,1974,Level 3
 55860,ukr,Ukraine,1975,Level 3
 55861,ukr,Ukraine,1976,Level 3
@@ -55878,16 +55878,16 @@
 55876,ukr,Ukraine,1991,Level 3
 55877,ukr,Ukraine,1992,Level 3
 55878,ukr,Ukraine,1993,Level 3
-55879,ukr,Ukraine,1994,Level 3
+55879,ukr,Ukraine,1994,Level 2
 55880,ukr,Ukraine,1995,Level 2
 55881,ukr,Ukraine,1996,Level 2
 55882,ukr,Ukraine,1997,Level 2
 55883,ukr,Ukraine,1998,Level 2
 55884,ukr,Ukraine,1999,Level 2
 55885,ukr,Ukraine,2000,Level 2
-55886,ukr,Ukraine,2001,Level 3
-55887,ukr,Ukraine,2002,Level 3
-55888,ukr,Ukraine,2003,Level 3
+55886,ukr,Ukraine,2001,Level 2
+55887,ukr,Ukraine,2002,Level 2
+55888,ukr,Ukraine,2003,Level 2
 55889,ukr,Ukraine,2004,Level 3
 55890,ukr,Ukraine,2005,Level 3
 55891,ukr,Ukraine,2006,Level 3
@@ -56384,45 +56384,45 @@
 56382,gbr,United Kingdom,1895,Level 2
 56383,gbr,United Kingdom,1896,Level 2
 56384,gbr,United Kingdom,1897,Level 2
-56385,gbr,United Kingdom,1898,Level 3
-56386,gbr,United Kingdom,1899,Level 3
-56387,gbr,United Kingdom,1900,Level 3
-56388,gbr,United Kingdom,1901,Level 3
-56389,gbr,United Kingdom,1902,Level 3
+56385,gbr,United Kingdom,1898,Level 2
+56386,gbr,United Kingdom,1899,Level 2
+56387,gbr,United Kingdom,1900,Level 2
+56388,gbr,United Kingdom,1901,Level 2
+56389,gbr,United Kingdom,1902,Level 2
 56390,gbr,United Kingdom,1903,Level 2
 56391,gbr,United Kingdom,1904,Level 2
-56392,gbr,United Kingdom,1905,Level 3
-56393,gbr,United Kingdom,1906,Level 3
-56394,gbr,United Kingdom,1907,Level 3
+56392,gbr,United Kingdom,1905,Level 2
+56393,gbr,United Kingdom,1906,Level 2
+56394,gbr,United Kingdom,1907,Level 2
 56395,gbr,United Kingdom,1908,Level 2
-56396,gbr,United Kingdom,1909,Level 3
-56397,gbr,United Kingdom,1910,Level 3
-56398,gbr,United Kingdom,1911,Level 3
-56399,gbr,United Kingdom,1912,Level 3
-56400,gbr,United Kingdom,1913,Level 3
-56401,gbr,United Kingdom,1914,Level 3
-56402,gbr,United Kingdom,1915,Level 3
-56403,gbr,United Kingdom,1916,Level 3
-56404,gbr,United Kingdom,1917,Level 3
-56405,gbr,United Kingdom,1918,Level 3
-56406,gbr,United Kingdom,1919,Level 3
+56396,gbr,United Kingdom,1909,Level 2
+56397,gbr,United Kingdom,1910,Level 2
+56398,gbr,United Kingdom,1911,Level 2
+56399,gbr,United Kingdom,1912,Level 2
+56400,gbr,United Kingdom,1913,Level 2
+56401,gbr,United Kingdom,1914,Level 2
+56402,gbr,United Kingdom,1915,Level 2
+56403,gbr,United Kingdom,1916,Level 2
+56404,gbr,United Kingdom,1917,Level 2
+56405,gbr,United Kingdom,1918,Level 2
+56406,gbr,United Kingdom,1919,Level 2
 56407,gbr,United Kingdom,1920,Level 2
 56408,gbr,United Kingdom,1921,Level 2
 56409,gbr,United Kingdom,1922,Level 2
-56410,gbr,United Kingdom,1923,Level 3
-56411,gbr,United Kingdom,1924,Level 3
-56412,gbr,United Kingdom,1925,Level 3
-56413,gbr,United Kingdom,1926,Level 3
-56414,gbr,United Kingdom,1927,Level 3
-56415,gbr,United Kingdom,1928,Level 3
-56416,gbr,United Kingdom,1929,Level 3
-56417,gbr,United Kingdom,1930,Level 3
-56418,gbr,United Kingdom,1931,Level 3
-56419,gbr,United Kingdom,1932,Level 3
-56420,gbr,United Kingdom,1933,Level 3
-56421,gbr,United Kingdom,1934,Level 3
-56422,gbr,United Kingdom,1935,Level 3
-56423,gbr,United Kingdom,1936,Level 3
+56410,gbr,United Kingdom,1923,Level 2
+56411,gbr,United Kingdom,1924,Level 2
+56412,gbr,United Kingdom,1925,Level 2
+56413,gbr,United Kingdom,1926,Level 2
+56414,gbr,United Kingdom,1927,Level 2
+56415,gbr,United Kingdom,1928,Level 2
+56416,gbr,United Kingdom,1929,Level 2
+56417,gbr,United Kingdom,1930,Level 2
+56418,gbr,United Kingdom,1931,Level 2
+56419,gbr,United Kingdom,1932,Level 2
+56420,gbr,United Kingdom,1933,Level 2
+56421,gbr,United Kingdom,1934,Level 2
+56422,gbr,United Kingdom,1935,Level 2
+56423,gbr,United Kingdom,1936,Level 2
 56424,gbr,United Kingdom,1937,Level 3
 56425,gbr,United Kingdom,1938,Level 3
 56426,gbr,United Kingdom,1939,Level 3
@@ -56686,29 +56686,29 @@
 56684,usa,United States,1896,Level 2
 56685,usa,United States,1897,Level 2
 56686,usa,United States,1898,Level 2
-56687,usa,United States,1899,Level 3
-56688,usa,United States,1900,Level 3
-56689,usa,United States,1901,Level 3
-56690,usa,United States,1902,Level 3
-56691,usa,United States,1903,Level 3
-56692,usa,United States,1904,Level 3
-56693,usa,United States,1905,Level 3
+56687,usa,United States,1899,Level 2
+56688,usa,United States,1900,Level 2
+56689,usa,United States,1901,Level 2
+56690,usa,United States,1902,Level 2
+56691,usa,United States,1903,Level 2
+56692,usa,United States,1904,Level 2
+56693,usa,United States,1905,Level 2
 56694,usa,United States,1906,Level 3
 56695,usa,United States,1907,Level 3
-56696,usa,United States,1908,Level 3
+56696,usa,United States,1908,Level 2
 56697,usa,United States,1909,Level 3
-56698,usa,United States,1910,Level 3
+56698,usa,United States,1910,Level 2
 56699,usa,United States,1911,Level 3
 56700,usa,United States,1912,Level 3
 56701,usa,United States,1913,Level 3
-56702,usa,United States,1914,Level 3
-56703,usa,United States,1915,Level 3
+56702,usa,United States,1914,Level 2
+56703,usa,United States,1915,Level 2
 56704,usa,United States,1916,Level 3
 56705,usa,United States,1917,Level 3
 56706,usa,United States,1918,Level 3
 56707,usa,United States,1919,Level 3
 56708,usa,United States,1920,Level 3
-56709,usa,United States,1921,Level 3
+56709,usa,United States,1921,Level 2
 56710,usa,United States,1922,Level 3
 56711,usa,United States,1923,Level 3
 56712,usa,United States,1924,Level 3
@@ -56719,10 +56719,10 @@
 56717,usa,United States,1929,Level 3
 56718,usa,United States,1930,Level 3
 56719,usa,United States,1931,Level 3
-56720,usa,United States,1932,Level 3
-56721,usa,United States,1933,Level 3
-56722,usa,United States,1934,Level 3
-56723,usa,United States,1935,Level 3
+56720,usa,United States,1932,Level 2
+56721,usa,United States,1933,Level 2
+56722,usa,United States,1934,Level 2
+56723,usa,United States,1935,Level 2
 56724,usa,United States,1936,Level 3
 56725,usa,United States,1937,Level 3
 56726,usa,United States,1938,Level 3
@@ -57041,11 +57041,11 @@
 57039,ury,Uruguay,1950,Level 2
 57040,ury,Uruguay,1951,Level 2
 57041,ury,Uruguay,1952,Level 2
-57042,ury,Uruguay,1953,Level 3
-57043,ury,Uruguay,1954,Level 3
-57044,ury,Uruguay,1955,Level 3
-57045,ury,Uruguay,1956,Level 3
-57046,ury,Uruguay,1957,Level 3
+57042,ury,Uruguay,1953,Level 2
+57043,ury,Uruguay,1954,Level 2
+57044,ury,Uruguay,1955,Level 2
+57045,ury,Uruguay,1956,Level 2
+57046,ury,Uruguay,1957,Level 2
 57047,ury,Uruguay,1958,Level 2
 57048,ury,Uruguay,1959,Level 2
 57049,ury,Uruguay,1960,Level 2
@@ -57065,17 +57065,17 @@
 57063,ury,Uruguay,1974,Level 2
 57064,ury,Uruguay,1975,Level 2
 57065,ury,Uruguay,1976,Level 2
-57066,ury,Uruguay,1977,Level 3
-57067,ury,Uruguay,1978,Level 3
-57068,ury,Uruguay,1979,Level 3
-57069,ury,Uruguay,1980,Level 3
-57070,ury,Uruguay,1981,Level 3
-57071,ury,Uruguay,1982,Level 3
-57072,ury,Uruguay,1983,Level 3
-57073,ury,Uruguay,1984,Level 3
-57074,ury,Uruguay,1985,Level 3
-57075,ury,Uruguay,1986,Level 3
-57076,ury,Uruguay,1987,Level 3
+57066,ury,Uruguay,1977,Level 2
+57067,ury,Uruguay,1978,Level 2
+57068,ury,Uruguay,1979,Level 2
+57069,ury,Uruguay,1980,Level 2
+57070,ury,Uruguay,1981,Level 2
+57071,ury,Uruguay,1982,Level 2
+57072,ury,Uruguay,1983,Level 2
+57073,ury,Uruguay,1984,Level 2
+57074,ury,Uruguay,1985,Level 2
+57075,ury,Uruguay,1986,Level 2
+57076,ury,Uruguay,1987,Level 2
 57077,ury,Uruguay,1988,Level 3
 57078,ury,Uruguay,1989,Level 3
 57079,ury,Uruguay,1990,Level 3
@@ -57412,11 +57412,11 @@
 57410,uzb,Uzbekistan,2020,Level 2
 57411,uzb,Uzbekistan,2021,Level 2
 57412,uzb,Uzbekistan,2022,Level 2
-57413,uzb,Uzbekistan,2023,Level 3
-57414,uzb,Uzbekistan,2024,Level 3
-57415,uzb,Uzbekistan,2025,Level 3
-57416,uzb,Uzbekistan,2026,Level 3
-57417,uzb,Uzbekistan,2027,Level 3
+57413,uzb,Uzbekistan,2023,Level 2
+57414,uzb,Uzbekistan,2024,Level 2
+57415,uzb,Uzbekistan,2025,Level 2
+57416,uzb,Uzbekistan,2026,Level 2
+57417,uzb,Uzbekistan,2027,Level 2
 57418,uzb,Uzbekistan,2028,Level 3
 57419,uzb,Uzbekistan,2029,Level 3
 57420,uzb,Uzbekistan,2030,Level 3
@@ -57768,17 +57768,17 @@
 57766,vut,Vanuatu,2075,Level 2
 57767,vut,Vanuatu,2076,Level 2
 57768,vut,Vanuatu,2077,Level 2
-57769,vut,Vanuatu,2078,Level 3
-57770,vut,Vanuatu,2079,Level 3
-57771,vut,Vanuatu,2080,Level 3
-57772,vut,Vanuatu,2081,Level 3
-57773,vut,Vanuatu,2082,Level 3
-57774,vut,Vanuatu,2083,Level 3
-57775,vut,Vanuatu,2084,Level 3
-57776,vut,Vanuatu,2085,Level 3
-57777,vut,Vanuatu,2086,Level 3
-57778,vut,Vanuatu,2087,Level 3
-57779,vut,Vanuatu,2088,Level 3
+57769,vut,Vanuatu,2078,Level 2
+57770,vut,Vanuatu,2079,Level 2
+57771,vut,Vanuatu,2080,Level 2
+57772,vut,Vanuatu,2081,Level 2
+57773,vut,Vanuatu,2082,Level 2
+57774,vut,Vanuatu,2083,Level 2
+57775,vut,Vanuatu,2084,Level 2
+57776,vut,Vanuatu,2085,Level 2
+57777,vut,Vanuatu,2086,Level 2
+57778,vut,Vanuatu,2087,Level 2
+57779,vut,Vanuatu,2088,Level 2
 57780,vut,Vanuatu,2089,Level 3
 57781,vut,Vanuatu,2090,Level 3
 57782,vut,Vanuatu,2091,Level 3
@@ -57942,60 +57942,60 @@
 57940,ven,Venezuela,1948,Level 2
 57941,ven,Venezuela,1949,Level 2
 57942,ven,Venezuela,1950,Level 2
-57943,ven,Venezuela,1951,Level 3
-57944,ven,Venezuela,1952,Level 3
-57945,ven,Venezuela,1953,Level 3
-57946,ven,Venezuela,1954,Level 3
-57947,ven,Venezuela,1955,Level 3
-57948,ven,Venezuela,1956,Level 3
-57949,ven,Venezuela,1957,Level 3
-57950,ven,Venezuela,1958,Level 3
-57951,ven,Venezuela,1959,Level 3
-57952,ven,Venezuela,1960,Level 3
-57953,ven,Venezuela,1961,Level 3
-57954,ven,Venezuela,1962,Level 3
-57955,ven,Venezuela,1963,Level 3
-57956,ven,Venezuela,1964,Level 3
-57957,ven,Venezuela,1965,Level 3
-57958,ven,Venezuela,1966,Level 3
-57959,ven,Venezuela,1967,Level 3
-57960,ven,Venezuela,1968,Level 3
-57961,ven,Venezuela,1969,Level 3
-57962,ven,Venezuela,1970,Level 3
-57963,ven,Venezuela,1971,Level 3
-57964,ven,Venezuela,1972,Level 3
-57965,ven,Venezuela,1973,Level 3
-57966,ven,Venezuela,1974,Level 3
+57943,ven,Venezuela,1951,Level 2
+57944,ven,Venezuela,1952,Level 2
+57945,ven,Venezuela,1953,Level 2
+57946,ven,Venezuela,1954,Level 2
+57947,ven,Venezuela,1955,Level 2
+57948,ven,Venezuela,1956,Level 2
+57949,ven,Venezuela,1957,Level 2
+57950,ven,Venezuela,1958,Level 2
+57951,ven,Venezuela,1959,Level 2
+57952,ven,Venezuela,1960,Level 2
+57953,ven,Venezuela,1961,Level 2
+57954,ven,Venezuela,1962,Level 2
+57955,ven,Venezuela,1963,Level 2
+57956,ven,Venezuela,1964,Level 2
+57957,ven,Venezuela,1965,Level 2
+57958,ven,Venezuela,1966,Level 2
+57959,ven,Venezuela,1967,Level 2
+57960,ven,Venezuela,1968,Level 2
+57961,ven,Venezuela,1969,Level 2
+57962,ven,Venezuela,1970,Level 2
+57963,ven,Venezuela,1971,Level 2
+57964,ven,Venezuela,1972,Level 2
+57965,ven,Venezuela,1973,Level 2
+57966,ven,Venezuela,1974,Level 2
 57967,ven,Venezuela,1975,Level 3
 57968,ven,Venezuela,1976,Level 3
 57969,ven,Venezuela,1977,Level 3
 57970,ven,Venezuela,1978,Level 3
 57971,ven,Venezuela,1979,Level 3
-57972,ven,Venezuela,1980,Level 3
-57973,ven,Venezuela,1981,Level 3
-57974,ven,Venezuela,1982,Level 3
-57975,ven,Venezuela,1983,Level 3
-57976,ven,Venezuela,1984,Level 3
-57977,ven,Venezuela,1985,Level 3
-57978,ven,Venezuela,1986,Level 3
-57979,ven,Venezuela,1987,Level 3
-57980,ven,Venezuela,1988,Level 3
-57981,ven,Venezuela,1989,Level 3
-57982,ven,Venezuela,1990,Level 3
-57983,ven,Venezuela,1991,Level 3
+57972,ven,Venezuela,1980,Level 2
+57973,ven,Venezuela,1981,Level 2
+57974,ven,Venezuela,1982,Level 2
+57975,ven,Venezuela,1983,Level 2
+57976,ven,Venezuela,1984,Level 2
+57977,ven,Venezuela,1985,Level 2
+57978,ven,Venezuela,1986,Level 2
+57979,ven,Venezuela,1987,Level 2
+57980,ven,Venezuela,1988,Level 2
+57981,ven,Venezuela,1989,Level 2
+57982,ven,Venezuela,1990,Level 2
+57983,ven,Venezuela,1991,Level 2
 57984,ven,Venezuela,1992,Level 3
 57985,ven,Venezuela,1993,Level 3
-57986,ven,Venezuela,1994,Level 3
-57987,ven,Venezuela,1995,Level 3
-57988,ven,Venezuela,1996,Level 3
+57986,ven,Venezuela,1994,Level 2
+57987,ven,Venezuela,1995,Level 2
+57988,ven,Venezuela,1996,Level 2
 57989,ven,Venezuela,1997,Level 3
 57990,ven,Venezuela,1998,Level 3
-57991,ven,Venezuela,1999,Level 3
-57992,ven,Venezuela,2000,Level 3
-57993,ven,Venezuela,2001,Level 3
-57994,ven,Venezuela,2002,Level 3
-57995,ven,Venezuela,2003,Level 3
-57996,ven,Venezuela,2004,Level 3
+57991,ven,Venezuela,1999,Level 2
+57992,ven,Venezuela,2000,Level 2
+57993,ven,Venezuela,2001,Level 2
+57994,ven,Venezuela,2002,Level 2
+57995,ven,Venezuela,2003,Level 2
+57996,ven,Venezuela,2004,Level 2
 57997,ven,Venezuela,2005,Level 3
 57998,ven,Venezuela,2006,Level 3
 57999,ven,Venezuela,2007,Level 3
@@ -58008,8 +58008,8 @@
 58006,ven,Venezuela,2014,Level 3
 58007,ven,Venezuela,2015,Level 3
 58008,ven,Venezuela,2016,Level 3
-58009,ven,Venezuela,2017,Level 3
-58010,ven,Venezuela,2018,Level 3
+58009,ven,Venezuela,2017,Level 2
+58010,ven,Venezuela,2018,Level 2
 58011,ven,Venezuela,2019,Level 2
 58012,ven,Venezuela,2020,Level 2
 58013,ven,Venezuela,2021,Level 2
@@ -58020,17 +58020,17 @@
 58018,ven,Venezuela,2026,Level 2
 58019,ven,Venezuela,2027,Level 2
 58020,ven,Venezuela,2028,Level 2
-58021,ven,Venezuela,2029,Level 3
-58022,ven,Venezuela,2030,Level 3
-58023,ven,Venezuela,2031,Level 3
-58024,ven,Venezuela,2032,Level 3
-58025,ven,Venezuela,2033,Level 3
-58026,ven,Venezuela,2034,Level 3
-58027,ven,Venezuela,2035,Level 3
-58028,ven,Venezuela,2036,Level 3
-58029,ven,Venezuela,2037,Level 3
-58030,ven,Venezuela,2038,Level 3
-58031,ven,Venezuela,2039,Level 3
+58021,ven,Venezuela,2029,Level 2
+58022,ven,Venezuela,2030,Level 2
+58023,ven,Venezuela,2031,Level 2
+58024,ven,Venezuela,2032,Level 2
+58025,ven,Venezuela,2033,Level 2
+58026,ven,Venezuela,2034,Level 2
+58027,ven,Venezuela,2035,Level 2
+58028,ven,Venezuela,2036,Level 2
+58029,ven,Venezuela,2037,Level 2
+58030,ven,Venezuela,2038,Level 2
+58031,ven,Venezuela,2039,Level 2
 58032,ven,Venezuela,2040,Level 3
 58033,ven,Venezuela,2041,Level 3
 58034,ven,Venezuela,2042,Level 3
@@ -58309,12 +58309,12 @@
 58307,vnm,Vietnam,2014,Level 2
 58308,vnm,Vietnam,2015,Level 2
 58309,vnm,Vietnam,2016,Level 2
-58310,vnm,Vietnam,2017,Level 3
-58311,vnm,Vietnam,2018,Level 3
-58312,vnm,Vietnam,2019,Level 3
-58313,vnm,Vietnam,2020,Level 3
-58314,vnm,Vietnam,2021,Level 3
-58315,vnm,Vietnam,2022,Level 3
+58310,vnm,Vietnam,2017,Level 2
+58311,vnm,Vietnam,2018,Level 2
+58312,vnm,Vietnam,2019,Level 2
+58313,vnm,Vietnam,2020,Level 2
+58314,vnm,Vietnam,2021,Level 2
+58315,vnm,Vietnam,2022,Level 2
 58316,vnm,Vietnam,2023,Level 3
 58317,vnm,Vietnam,2024,Level 3
 58318,vnm,Vietnam,2025,Level 3
@@ -58953,17 +58953,17 @@
 58951,zmb,Zambia,2056,Level 2
 58952,zmb,Zambia,2057,Level 2
 58953,zmb,Zambia,2058,Level 2
-58954,zmb,Zambia,2059,Level 3
-58955,zmb,Zambia,2060,Level 3
-58956,zmb,Zambia,2061,Level 3
-58957,zmb,Zambia,2062,Level 3
-58958,zmb,Zambia,2063,Level 3
-58959,zmb,Zambia,2064,Level 3
-58960,zmb,Zambia,2065,Level 3
-58961,zmb,Zambia,2066,Level 3
-58962,zmb,Zambia,2067,Level 3
-58963,zmb,Zambia,2068,Level 3
-58964,zmb,Zambia,2069,Level 3
+58954,zmb,Zambia,2059,Level 2
+58955,zmb,Zambia,2060,Level 2
+58956,zmb,Zambia,2061,Level 2
+58957,zmb,Zambia,2062,Level 2
+58958,zmb,Zambia,2063,Level 2
+58959,zmb,Zambia,2064,Level 2
+58960,zmb,Zambia,2065,Level 2
+58961,zmb,Zambia,2066,Level 2
+58962,zmb,Zambia,2067,Level 2
+58963,zmb,Zambia,2068,Level 2
+58964,zmb,Zambia,2069,Level 2
 58965,zmb,Zambia,2070,Level 3
 58966,zmb,Zambia,2071,Level 3
 58967,zmb,Zambia,2072,Level 3
@@ -59259,17 +59259,17 @@
 59257,zwe,Zimbabwe,2061,Level 2
 59258,zwe,Zimbabwe,2062,Level 2
 59259,zwe,Zimbabwe,2063,Level 2
-59260,zwe,Zimbabwe,2064,Level 3
-59261,zwe,Zimbabwe,2065,Level 3
-59262,zwe,Zimbabwe,2066,Level 3
-59263,zwe,Zimbabwe,2067,Level 3
-59264,zwe,Zimbabwe,2068,Level 3
-59265,zwe,Zimbabwe,2069,Level 3
-59266,zwe,Zimbabwe,2070,Level 3
-59267,zwe,Zimbabwe,2071,Level 3
-59268,zwe,Zimbabwe,2072,Level 3
-59269,zwe,Zimbabwe,2073,Level 3
-59270,zwe,Zimbabwe,2074,Level 3
+59260,zwe,Zimbabwe,2064,Level 2
+59261,zwe,Zimbabwe,2065,Level 2
+59262,zwe,Zimbabwe,2066,Level 2
+59263,zwe,Zimbabwe,2067,Level 2
+59264,zwe,Zimbabwe,2068,Level 2
+59265,zwe,Zimbabwe,2069,Level 2
+59266,zwe,Zimbabwe,2070,Level 2
+59267,zwe,Zimbabwe,2071,Level 2
+59268,zwe,Zimbabwe,2072,Level 2
+59269,zwe,Zimbabwe,2073,Level 2
+59270,zwe,Zimbabwe,2074,Level 2
 59271,zwe,Zimbabwe,2075,Level 3
 59272,zwe,Zimbabwe,2076,Level 3
 59273,zwe,Zimbabwe,2077,Level 3
