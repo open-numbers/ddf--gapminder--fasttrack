@@ -58,8 +58,8 @@ civlibx_eiu,Civil liberties index (EIU),"[geo:country,time:time]","{timeInColumn
 c_demox_eiu,Change in democracy index (EIU),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1V2GcmG-4-BqyRDAmOk0qPjJUoppY6w4-bszedOvhPTY-data-for-countries-etc-by-year
 u5pop,Under-five population,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1-5qutEU2Fxg4t5Cx37Y1gpgOShTz-Adt5rEg1U31-S4-data-for-countries-etc-by-year
 u5stunted_prc,Stunting prevalence,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1GqwGgOnd4jMPn2cQfqOFFIVqvBoLVx9X9OsZZK-Fwq8-data-for-countries-etc-by-year
-ilevels4_wb,4 income groups (WB),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1jH-pAuHTzBXE-MAqnVnIARz14beqRlHpPU2OD6Qiz8M-data-for-countries-etc-by-year
-ilevels3_wb,3 income groups (WB),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1jH-pAuHTzBXE-MAqnVnIARz14beqRlHpPU2OD6Qiz8M-data-for-countries-etc-by-year
+ilevels4_wb,4 income groups (WB),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1UAvqXiiBb2IwibDFO4NamQgF3GzlyNv_ttk-XapIkJY-data-for-countries-etc-by-year
+ilevels3_wb,3 income groups (WB),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1UAvqXiiBb2IwibDFO4NamQgF3GzlyNv_ttk-XapIkJY-data-for-countries-etc-by-year
 vccine_imptn_dag,"Vaccine importance, disagree (%)","[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1_EN4eAOS7zugaxQeEVYYVwFy3iFcBqzp5J6vvEGxJfI-data-for-countries-etc-by-year
 vccin_sfty_dag,"Vaccine safety, disagree (%)","[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1_EN4eAOS7zugaxQeEVYYVwFy3iFcBqzp5J6vvEGxJfI-data-for-countries-etc-by-year
 vccin_effect_dag,"Vaccine effectiveness, disagree (%)","[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1_EN4eAOS7zugaxQeEVYYVwFy3iFcBqzp5J6vvEGxJfI-data-for-countries-etc-by-year
@@ -121,7 +121,7 @@ top10_ptaxinc_wid,Estimates of richest 10% pre-tax income share (WID),"[geo:coun
 legslav_status,Legal slavery (or hard to inspect),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",127vyLTfQzz898M70Ip5xUg5dz3q0rS4BwE4dm1H4MGA-data-for-countries-etc-by-year
 legslav_numc,Number of countries with legal slavery (or hard to inspect),"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",127vyLTfQzz898M70Ip5xUg5dz3q0rS4BwE4dm1H4MGA-data-for-world-by-year
 refas_prc_undesa,Refugees and asylum seekers (% of migrant stock) (UNDESA),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1hvP9tgZVAHLZyt2_b-J3HFv10EvLqBslJex8DGS6NWg-data-for-countries-etc-by-year
-ilevels,Income levels,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nvB-nd3Kxo21Tljlug-47JHjNoq3AbY-EtRWbLhg158-data-for-countries-etc-by-year
+ilevels,Income levels,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1a91oEvjaQoAO-rVeWldpiB9MkJ4OE6MbkHU-m_XJIcA-data-for-countries-etc-by-year
 int_refg_in,International refugees by asylum,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qpZ1zw7wO6m3edFDY0bgZNrsOcd2nHUNUuKxT4GSRE-data-for-countries-etc-by-year
 int_refg_in_prc,International refugees (% of population ),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qpZ1zw7wO6m3edFDY0bgZNrsOcd2nHUNUuKxT4GSRE-data-for-countries-etc-by-year
 int_refg_origin,International refugees by origin,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qpZ1zw7wO6m3edFDY0bgZNrsOcd2nHUNUuKxT4GSRE-data-for-countries-etc-by-year
@@ -133,7 +133,7 @@ as_in,Asylum-seekers by country of residence,"[geo:country,time:time]","{timeInC
 unhcr_refg_from,UNHCR refugees by country of origin,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nRg5UzdKI-DRiIT8ZD12njYgOaxcZlmq5ZtfC-GGQxs-data-for-countries-etc-by-year
 as_from,Asylum-seekers by country of origin,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nRg5UzdKI-DRiIT8ZD12njYgOaxcZlmq5ZtfC-GGQxs-data-for-countries-etc-by-year
 idps,Internally displaced persons,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nRg5UzdKI-DRiIT8ZD12njYgOaxcZlmq5ZtfC-GGQxs-data-for-countries-etc-by-year
-mincpcap_cppp,Average daily income per capita,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1oyaSmlcX_sofdk4ZLTQA3MWIn5H9SBIouYpFVYxx5Yo-data-for-countries-etc-by-year
+mincpcap_cppp,Average daily income per capita,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1wJ02C2gvPTp4CKv9avsiDm4en726RuVTdb7KLUeQbtk-data-for-countries-etc-by-year
 sdi,Sustainable Development Index,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1nfGL9zIEzcwaM-bToNlbHfSXz4PZ9uW8uhWHwxW7VKI-data-for-countries-etc-by-year
 hmless_nd,Homeless from natural disasters,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1KQaJDqZkRoVQGnIDAjtx9k5m1y6mRdCMEwSIS2i-eQo-data-for-countries-etc-by-year
 hmless_nd,Homeless from natural disasters,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1KQaJDqZkRoVQGnIDAjtx9k5m1y6mRdCMEwSIS2i-eQo-data-for-regions-by-year
@@ -202,10 +202,8 @@ co2_pcap_terr,CO2 per Cap (Territorial),"[geo:country,time:time]","{timeInColumn
 co2_terr,CO2 Emissions total (Territorial),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11YXbHov2h0Gk-8oC1VrakT4SSjPFKhbV5zEHIkyNtRQ-data-for-countries-etc-by-year
 carbonfp_pcap,National carbon footprint,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1TQXa62vo3WKM499neWOQAPsyyPuzwn-CMnUDFCA8Dgo-data-for-countries-etc-by-year
 cemission_cap,Global Carbon Project,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1TQXa62vo3WKM499neWOQAPsyyPuzwn-CMnUDFCA8Dgo-data-for-countries-etc-by-year
-gdp_pcap,Income per person,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1KcsWpIxQXYER9Ydoo1WWzBzCVEGNtC_vV88gaPw-3w0-data-for-countries-etc-by-year
-gdp_pcap,Income per person,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1KcsWpIxQXYER9Ydoo1WWzBzCVEGNtC_vV88gaPw-3w0-data-for-world-by-year
-gdp_pcap_21,Income per person (ppp$2021),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RuGcXnt6mrhXumhUuRv4-lC4DmPyohznCiJy8paPM7Q-data-for-countries-etc-by-year
-gdp_pcap_21,Income per person (ppp$2021),"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RuGcXnt6mrhXumhUuRv4-lC4DmPyohznCiJy8paPM7Q-data-for-world-by-year
+gdp_pcap,Income per person,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QCO--GBHfyAkDqCxpTW8dnpOrpXGBI3kmMIGgtmZCzA-data-for-countries-etc-by-year
+gdp_pcap,Income per person,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QCO--GBHfyAkDqCxpTW8dnpOrpXGBI3kmMIGgtmZCzA-data-for-world-by-year
 lex,Life expectancy,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RehxZjXd7_rG8v2pJYV6aY0J3LAsgUPDQnbY4dRdiSs-data-for-countries-etc-by-year
 lex,Life expectancy,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RehxZjXd7_rG8v2pJYV6aY0J3LAsgUPDQnbY4dRdiSs-data-for-regions-by-year
 lex,Life expectancy,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RehxZjXd7_rG8v2pJYV6aY0J3LAsgUPDQnbY4dRdiSs-data-for-world-by-year
@@ -214,9 +212,9 @@ pop,Population,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameCol
 pop,Population,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qDjnPu2BlFFegwpPl3CcyZtfiYT4R2seU_IcIcJkHM-data-for-world-by-year
 un_member_status,UN members,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1q9KUfgCyCYre-mRIXUQuh58aApuiJGCRMjc2viadC50-data-for-countries-etc-by-year
 number_of_child_deaths,Child deaths,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1GrC4DMuT0WFvBOrUOBZqQpU7c8dPFLMLzp9PbtFml2M-data-for-countries-etc-by-year
-child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RghEVLmEnpJQrBdldELHhS6tN-tGYGq2LyqgpzfronM-data-for-countries-etc-by-year
-child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RghEVLmEnpJQrBdldELHhS6tN-tGYGq2LyqgpzfronM-data-for-world-by-year
-child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RghEVLmEnpJQrBdldELHhS6tN-tGYGq2LyqgpzfronM-data-for-regions-by-year
+child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QJVuAYKNWy33MAWJRwXQn-967ZkkgmaacIZfyfWjf5s-data-for-countries-etc-by-year
+child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QJVuAYKNWy33MAWJRwXQn-967ZkkgmaacIZfyfWjf5s-data-for-world-by-year
+child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QJVuAYKNWy33MAWJRwXQn-967ZkkgmaacIZfyfWjf5s-data-for-regions-by-year
 population_aged_0_4_years_both_sexes_percent,"Population aged 0-4, both sexes (%)","[geo:geo,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1oDXyF2u03a5AA_CPdsXQgYV08WYOLAOezaYjpGoTm1g-data-for-countries-etc-by-year
 population_aged_0_4_years_female_percent,"Population aged 0-4, female (%)","[geo:geo,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1oDXyF2u03a5AA_CPdsXQgYV08WYOLAOezaYjpGoTm1g-data-for-countries-etc-by-year
 population_aged_0_4_years_male_percent,"Population aged 0-4, male (%)","[geo:geo,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1oDXyF2u03a5AA_CPdsXQgYV08WYOLAOezaYjpGoTm1g-data-for-countries-etc-by-year
