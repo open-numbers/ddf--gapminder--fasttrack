@@ -4,3 +4,4 @@ requests
 gspread
 gspread-pandas
 xlrd
+ddf_utils
