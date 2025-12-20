@@ -4,4 +4,4 @@ requests
 gspread
 gspread-pandas
 xlrd
-ddf_utils
+ddf_utils>=1.0.18
