@@ -2,5 +2,6 @@ pandas
 parse
 requests
 gspread
-gspread-pandas
+gspread-pandas>=3.3.0
 xlrd
+ddf_utils>=1.0.18
