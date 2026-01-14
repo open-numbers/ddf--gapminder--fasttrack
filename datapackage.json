@@ -7,7 +7,7 @@
     "language": {
         "id": "en"
     },
-    "created": "2026-01-11T01:12:19.192Z",
+    "created": "2026-01-14T22:26:30.761Z",
     "version": "2.0.0",
     "resources": [
         {
@@ -7996,6 +7996,69 @@
             }
         },
         {
+            "name": "ddf--datapoints--vacc_belief--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--vacc_belief--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "vacc_belief"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--vacc_eff--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--vacc_eff--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "vacc_eff"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--vacc_imp_child--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--vacc_imp_child--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "vacc_imp_child"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--vacc_rate--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--vacc_rate--by--country--time.csv",
             "schema": {
@@ -8033,6 +8096,48 @@
                 ],
                 "primaryKey": [
                     "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--vacc_safe--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--vacc_safe--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "vacc_safe"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--vacc_share_unsafe--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--vacc_share_unsafe--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "vacc_share_unsafe"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
                     "time"
                 ]
             }
@@ -11475,9 +11580,59 @@
                     "country",
                     "time"
                 ],
+                "value": "vacc_belief",
+                "resources": [
+                    "ddf--datapoints--vacc_belief--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "vacc_eff",
+                "resources": [
+                    "ddf--datapoints--vacc_eff--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "vacc_imp_child",
+                "resources": [
+                    "ddf--datapoints--vacc_imp_child--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "vacc_rate",
                 "resources": [
                     "ddf--datapoints--vacc_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "vacc_safe",
+                "resources": [
+                    "ddf--datapoints--vacc_safe--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "vacc_share_unsafe",
+                "resources": [
+                    "ddf--datapoints--vacc_share_unsafe--by--country--time"
                 ]
             },
             {
@@ -13853,10 +14008,60 @@
                     "geo",
                     "time"
                 ],
+                "value": "vacc_belief",
+                "resources": [
+                    "ddf--datapoints--vacc_belief--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "vacc_eff",
+                "resources": [
+                    "ddf--datapoints--vacc_eff--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "vacc_imp_child",
+                "resources": [
+                    "ddf--datapoints--vacc_imp_child--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
                 "value": "vacc_rate",
                 "resources": [
                     "ddf--datapoints--vacc_rate--by--global--time",
                     "ddf--datapoints--vacc_rate--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "vacc_safe",
+                "resources": [
+                    "ddf--datapoints--vacc_safe--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "vacc_share_unsafe",
+                "resources": [
+                    "ddf--datapoints--vacc_share_unsafe--by--country--time"
                 ]
             },
             {
