@@ -35,3 +35,4 @@ male_by_age,Male by age (%),population
 both_sexes_by_age_total,Both sexes by age (total),population
 newborn_infants,Newborn & Infants,health
 poverty,Poverty,economy
+vaccine_confidence,Vaccine Confidence,vaccine

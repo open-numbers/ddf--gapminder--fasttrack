@@ -204,9 +204,9 @@ carbonfp_pcap,National carbon footprint,"[geo:country,time:time]","{timeInColumn
 cemission_cap,Global Carbon Project,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1TQXa62vo3WKM499neWOQAPsyyPuzwn-CMnUDFCA8Dgo-data-for-countries-etc-by-year
 gdp_pcap,Income per person,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QCO--GBHfyAkDqCxpTW8dnpOrpXGBI3kmMIGgtmZCzA-data-for-countries-etc-by-year
 gdp_pcap,Income per person,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1QCO--GBHfyAkDqCxpTW8dnpOrpXGBI3kmMIGgtmZCzA-data-for-world-by-year
-lex,Life expectancy,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RehxZjXd7_rG8v2pJYV6aY0J3LAsgUPDQnbY4dRdiSs-data-for-countries-etc-by-year
-lex,Life expectancy,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RehxZjXd7_rG8v2pJYV6aY0J3LAsgUPDQnbY4dRdiSs-data-for-regions-by-year
-lex,Life expectancy,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1RehxZjXd7_rG8v2pJYV6aY0J3LAsgUPDQnbY4dRdiSs-data-for-world-by-year
+lex,Life expectancy,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",17mwUSQPfwxnGxM0irRhWflFf-meaSoa9JE6iFJadazc-data-for-countries-etc-by-year
+lex,Life expectancy,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",17mwUSQPfwxnGxM0irRhWflFf-meaSoa9JE6iFJadazc-data-for-regions-by-year
+lex,Life expectancy,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",17mwUSQPfwxnGxM0irRhWflFf-meaSoa9JE6iFJadazc-data-for-world-by-year
 pop,Population,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qDjnPu2BlFFegwpPl3CcyZtfiYT4R2seU_IcIcJkHM-data-for-countries-etc-by-year
 pop,Population,"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qDjnPu2BlFFegwpPl3CcyZtfiYT4R2seU_IcIcJkHM-data-for-regions-by-year
 pop,Population,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",11qDjnPu2BlFFegwpPl3CcyZtfiYT4R2seU_IcIcJkHM-data-for-world-by-year
@@ -364,3 +364,8 @@ vacc_rate,Some vaccination rate,"[geo:global,time:time]","{timeInColumns:FALSE, 
 six_vacc_rate,Lowest vaccination rate among six basic vaccines,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1Lly6Noee7mpZ1zgyeuj7-ZEeOa77dEdOU8sQCJs40SY-data-for-world-by-year
 pab_immunized_percent_of_newborns,PAB Immunized,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1n5uKVd9qINM_-zyAcOHwuXB6-aNknDrFh9BQFkl_m08-data-for-countries-etc-by-year
 pab_immunized_percent_of_newborns,PAB Immunized,"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1n5uKVd9qINM_-zyAcOHwuXB6-aNknDrFh9BQFkl_m08-data-for-world-by-year
+vacc_share_unsafe,Share that disagrees vaccines are safe,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CbWhSLFIvE-yYsZGEJMQai61s8Koz-4Ex4KMG8u55L4-data-for-countries-etc-by-year
+vacc_imp_child,Share that agree vaccines are important for children,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CbWhSLFIvE-yYsZGEJMQai61s8Koz-4Ex4KMG8u55L4-data-for-countries-etc-by-year
+vacc_safe,Share that agree vaccines are safe,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CbWhSLFIvE-yYsZGEJMQai61s8Koz-4Ex4KMG8u55L4-data-for-countries-etc-by-year
+vacc_eff,Share that agree vaccines are effective,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CbWhSLFIvE-yYsZGEJMQai61s8Koz-4Ex4KMG8u55L4-data-for-countries-etc-by-year
+vacc_belief,Share that agree vaccines are compatible with my religious beliefs,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",1CbWhSLFIvE-yYsZGEJMQai61s8Koz-4Ex4KMG8u55L4-data-for-countries-etc-by-year
