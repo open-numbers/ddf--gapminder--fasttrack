@@ -1,8 +1,9 @@
 global,time,immigrant_pc
-world,1990,2.87
-world,1995,2.81
-world,2000,2.82
-world,2005,2.93
-world,2010,3.18
-world,2015,3.36
-world,2020,3.6
+world,1990,2.84
+world,1995,2.78
+world,2000,2.77
+world,2005,2.87
+world,2010,3.09
+world,2015,3.29
+world,2020,3.43
+world,2024,3.67
