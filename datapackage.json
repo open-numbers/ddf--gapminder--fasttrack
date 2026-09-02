@@ -7,7 +7,7 @@
     "language": {
         "id": "en"
     },
-    "created": "2026-07-13T21:18:55.266Z",
+    "created": "2026-09-02T12:02:10.845Z",
     "version": "2.0.0",
     "resources": [
         {
@@ -4195,6 +4195,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--matfootp--by--income_groups--time",
+            "path": "global_regions_datapoints/ddf--datapoints--matfootp--by--income_groups--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "income_groups"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "matfootp"
+                    }
+                ],
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--matfootp--by--world_4region--time",
             "path": "global_regions_datapoints/ddf--datapoints--matfootp--by--world_4region--time.csv",
             "schema": {
@@ -4253,6 +4274,27 @@
                 ],
                 "primaryKey": [
                     "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--matfootp_cap--by--income_groups--time",
+            "path": "global_regions_datapoints/ddf--datapoints--matfootp_cap--by--income_groups--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "income_groups"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "matfootp_cap"
+                    }
+                ],
+                "primaryKey": [
+                    "income_groups",
                     "time"
                 ]
             }
@@ -12916,6 +12958,7 @@
                 "value": "matfootp",
                 "resources": [
                     "ddf--datapoints--matfootp--by--world_4region--time",
+                    "ddf--datapoints--matfootp--by--income_groups--time",
                     "ddf--datapoints--matfootp--by--global--time",
                     "ddf--datapoints--matfootp--by--country--time"
                 ]
@@ -12928,6 +12971,7 @@
                 "value": "matfootp_cap",
                 "resources": [
                     "ddf--datapoints--matfootp_cap--by--world_4region--time",
+                    "ddf--datapoints--matfootp_cap--by--income_groups--time",
                     "ddf--datapoints--matfootp_cap--by--global--time",
                     "ddf--datapoints--matfootp_cap--by--country--time"
                 ]
@@ -15255,6 +15299,26 @@
                     "income_3groups",
                     "time"
                 ],
+                "value": "matfootp",
+                "resources": [
+                    "ddf--datapoints--matfootp--by--income_groups--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_3groups",
+                    "time"
+                ],
+                "value": "matfootp_cap",
+                "resources": [
+                    "ddf--datapoints--matfootp_cap--by--income_groups--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_3groups",
+                    "time"
+                ],
                 "value": "pop_income_group",
                 "resources": [
                     "ddf--datapoints--pop_income_group--by--income_groups--time"
@@ -15268,6 +15332,26 @@
                 "value": "pop_income_group_percentage",
                 "resources": [
                     "ddf--datapoints--pop_income_group_percentage--by--income_groups--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "matfootp",
+                "resources": [
+                    "ddf--datapoints--matfootp--by--income_groups--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "matfootp_cap",
+                "resources": [
+                    "ddf--datapoints--matfootp_cap--by--income_groups--time"
                 ]
             },
             {
