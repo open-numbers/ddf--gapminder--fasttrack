@@ -107,6 +107,8 @@ matfootp,Material footprint (tonnes),"[geo:world_4region,time:time]","{timeInCol
 matfootp_cap,Material footprint per capita (tonnes),"[geo:world_4region,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",184zxUS5FKM07NeNHM_msW9wTzRCnuCsnU2nv0gWtXvI-data-for-regions-by-year
 matfootp,Material footprint (tonnes),"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",184zxUS5FKM07NeNHM_msW9wTzRCnuCsnU2nv0gWtXvI-data-for-world-by-year
 matfootp_cap,Material footprint per capita (tonnes),"[geo:global,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",184zxUS5FKM07NeNHM_msW9wTzRCnuCsnU2nv0gWtXvI-data-for-world-by-year
+matfootp,Material footprint (tonnes),"[geo:income_groups,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",184zxUS5FKM07NeNHM_msW9wTzRCnuCsnU2nv0gWtXvI-data-for-4ilevels-by-year
+matfootp_cap,Material footprint per capita (tonnes),"[geo:income_groups,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",184zxUS5FKM07NeNHM_msW9wTzRCnuCsnU2nv0gWtXvI-data-for-4ilevels-by-year
 net_users_num,Internet users,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",14HINefWNOFkh4TNz-ZmBwb1K6w2Lg9z0P9rDJlJiQ8s-data-for-countries-etc-by-year
 non_net_users_prc,Non-internet users (%),"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",14HINefWNOFkh4TNz-ZmBwb1K6w2Lg9z0P9rDJlJiQ8s-data-for-countries-etc-by-year
 non_net_users_num,Non Internet users,"[geo:country,time:time]","{timeInColumns:FALSE, hasNameColumn:TRUE,nameColumn:“B”}",14HINefWNOFkh4TNz-ZmBwb1K6w2Lg9z0P9rDJlJiQ8s-data-for-countries-etc-by-year
