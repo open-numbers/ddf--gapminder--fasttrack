@@ -7,7 +7,7 @@
     "language": {
         "id": "en"
     },
-    "created": "2026-09-06T01:11:36.599Z",
+    "created": "2026-09-27T12:14:29.408Z",
     "version": "2.0.0",
     "resources": [
         {
@@ -4552,6 +4552,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--ndisasd_noep_rate--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--ndisasd_noep_rate--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ndisasd_noep_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--ndisasd_noep_tot--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--ndisasd_noep_tot--by--country--time.csv",
             "schema": {
@@ -4573,6 +4594,69 @@
             }
         },
         {
+            "name": "ddf--datapoints--ndisasd_noep_tot--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--ndisasd_noep_tot--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ndisasd_noep_tot"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ndisasd_noep_tot--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--ndisasd_noep_tot--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ndisasd_noep_tot"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ndisasd_rate--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--ndisasd_rate--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ndisasd_rate"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--ndisasd_tot--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--ndisasd_tot--by--country--time.csv",
             "schema": {
@@ -4589,6 +4673,48 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ndisasd_tot--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--ndisasd_tot--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ndisasd_tot"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ndisasd_tot--by--world_4region--time",
+            "path": "global_regions_datapoints/ddf--datapoints--ndisasd_tot--by--world_4region--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "world_4region"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ndisasd_tot"
+                    }
+                ],
+                "primaryKey": [
+                    "world_4region",
                     "time"
                 ]
             }
@@ -13064,9 +13190,31 @@
                     "geo",
                     "time"
                 ],
+                "value": "ndisasd_noep_rate",
+                "resources": [
+                    "ddf--datapoints--ndisasd_noep_rate--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
                 "value": "ndisasd_noep_tot",
                 "resources": [
+                    "ddf--datapoints--ndisasd_noep_tot--by--world_4region--time",
+                    "ddf--datapoints--ndisasd_noep_tot--by--global--time",
                     "ddf--datapoints--ndisasd_noep_tot--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "ndisasd_rate",
+                "resources": [
+                    "ddf--datapoints--ndisasd_rate--by--global--time"
                 ]
             },
             {
@@ -13076,6 +13224,8 @@
                 ],
                 "value": "ndisasd_tot",
                 "resources": [
+                    "ddf--datapoints--ndisasd_tot--by--world_4region--time",
+                    "ddf--datapoints--ndisasd_tot--by--global--time",
                     "ddf--datapoints--ndisasd_tot--by--country--time"
                 ]
             },
@@ -14609,6 +14759,46 @@
                     "global",
                     "time"
                 ],
+                "value": "ndisasd_noep_rate",
+                "resources": [
+                    "ddf--datapoints--ndisasd_noep_rate--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "ndisasd_noep_tot",
+                "resources": [
+                    "ddf--datapoints--ndisasd_noep_tot--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "ndisasd_rate",
+                "resources": [
+                    "ddf--datapoints--ndisasd_rate--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "ndisasd_tot",
+                "resources": [
+                    "ddf--datapoints--ndisasd_tot--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
                 "value": "num_countries_fhos",
                 "resources": [
                     "ddf--datapoints--num_countries_fhos--by--global--time"
@@ -15682,6 +15872,26 @@
                 "value": "nc_sexhw_pc",
                 "resources": [
                     "ddf--datapoints--nc_sexhw_pc--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ],
+                "value": "ndisasd_noep_tot",
+                "resources": [
+                    "ddf--datapoints--ndisasd_noep_tot--by--world_4region--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "world_4region",
+                    "time"
+                ],
+                "value": "ndisasd_tot",
+                "resources": [
+                    "ddf--datapoints--ndisasd_tot--by--world_4region--time"
                 ]
             },
             {

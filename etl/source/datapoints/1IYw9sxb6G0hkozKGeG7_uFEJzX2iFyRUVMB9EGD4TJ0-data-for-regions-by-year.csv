@@ -1,0 +1,505 @@
+,geo,Name,time,Natural disaster deaths per year,"Natural disaster deaths excluding epidemics, per year"
+0,africa,Africa,1900,11000,11000
+1,africa,Africa,1901,200000,0
+2,africa,Africa,1902,0,0
+3,africa,Africa,1903,17,17
+4,africa,Africa,1904,0,0
+5,africa,Africa,1905,0,0
+6,africa,Africa,1906,0,0
+7,africa,Africa,1907,0,0
+8,africa,Africa,1908,0,0
+9,africa,Africa,1909,100,100
+10,africa,Africa,1910,85012,85012
+11,africa,Africa,1911,0,0
+12,africa,Africa,1912,0,0
+13,africa,Africa,1913,0,0
+14,africa,Africa,1914,0,0
+15,africa,Africa,1915,0,0
+16,africa,Africa,1916,0,0
+17,africa,Africa,1917,0,0
+18,africa,Africa,1918,0,0
+19,africa,Africa,1919,0,0
+20,africa,Africa,1920,24000,24000
+21,africa,Africa,1921,0,0
+22,africa,Africa,1922,0,0
+23,africa,Africa,1923,100000,0
+24,africa,Africa,1924,0,0
+25,africa,Africa,1925,0,0
+26,africa,Africa,1926,12,12
+27,africa,Africa,1927,3000,3000
+28,africa,Africa,1928,0,0
+29,africa,Africa,1929,0,0
+30,africa,Africa,1930,0,0
+31,africa,Africa,1931,0,0
+32,africa,Africa,1932,0,0
+33,africa,Africa,1933,0,0
+34,africa,Africa,1934,0,0
+35,africa,Africa,1935,2012,0
+36,africa,Africa,1936,0,0
+37,africa,Africa,1937,12,0
+38,africa,Africa,1938,11,0
+39,africa,Africa,1939,22,22
+40,africa,Africa,1940,21500,20000
+41,africa,Africa,1941,20,0
+42,africa,Africa,1942,25,0
+43,africa,Africa,1943,33,0
+44,africa,Africa,1944,0,0
+45,africa,Africa,1945,0,0
+46,africa,Africa,1946,30276,30276
+47,africa,Africa,1947,10276,0
+48,africa,Africa,1948,44,0
+49,africa,Africa,1949,0,0
+50,africa,Africa,1950,0,0
+51,africa,Africa,1951,631,631
+52,africa,Africa,1952,75,60
+53,africa,Africa,1953,0,0
+54,africa,Africa,1954,1280,1280
+55,africa,Africa,1955,20,20
+56,africa,Africa,1956,107,107
+57,africa,Africa,1957,13,13
+58,africa,Africa,1958,65,0
+59,africa,Africa,1959,99,51
+60,africa,Africa,1960,12551,12099
+61,africa,Africa,1961,230,230
+62,africa,Africa,1962,40,40
+63,africa,Africa,1963,469,469
+64,africa,Africa,1964,179,179
+65,africa,Africa,1965,2601,2077
+66,africa,Africa,1966,385,185
+67,africa,Africa,1967,184,184
+68,africa,Africa,1968,224,224
+69,africa,Africa,1969,3709,743
+70,africa,Africa,1970,1109,81
+71,africa,Africa,1971,2812,500
+72,africa,Africa,1972,114,93
+73,africa,Africa,1973,119414,119132
+74,africa,Africa,1974,169,62
+75,africa,Africa,1975,211,43
+76,africa,Africa,1976,412,16
+77,africa,Africa,1977,1389,649
+78,africa,Africa,1978,602,296
+79,africa,Africa,1979,432,74
+80,africa,Africa,1980,6278,5633
+81,africa,Africa,1981,102777,100284
+82,africa,Africa,1982,663,371
+83,africa,Africa,1983,451563,450361
+84,africa,Africa,1984,1897,421
+85,africa,Africa,1985,3682,140
+86,africa,Africa,1986,5065,1868
+87,africa,Africa,1987,5230,1597
+88,africa,Africa,1988,12415,842
+89,africa,Africa,1989,3400,404
+90,africa,Africa,1990,2472,327
+91,africa,Africa,1991,15952,580
+92,africa,Africa,1992,6504,600
+93,africa,Africa,1993,2136,173
+94,africa,Africa,1994,5179,1797
+95,africa,Africa,1995,6529,1288
+96,africa,Africa,1996,18165,451
+97,africa,Africa,1997,14036,3249
+98,africa,Africa,1998,11960,428
+99,africa,Africa,1999,7809,975
+100,africa,Africa,2000,6635,1430
+101,africa,Africa,2001,9910,1722
+102,africa,Africa,2002,6297,1469
+103,africa,Africa,2003,5647,2916
+104,africa,Africa,2004,4079,1702
+105,africa,Africa,2005,3640,665
+106,africa,Africa,2006,7834,1505
+107,africa,Africa,2007,5797,1124
+108,africa,Africa,2008,7385,896
+109,africa,Africa,2009,4384,735
+110,africa,Africa,2010,25467,21337
+111,africa,Africa,2011,3667,792
+112,africa,Africa,2012,2643,1030
+113,africa,Africa,2013,1265,948
+114,africa,Africa,2014,13497,592
+115,africa,Africa,2015,2568,1332
+116,africa,Africa,2016,3019,1020
+117,africa,Africa,2017,3591,2003
+118,africa,Africa,2018,3767,1017
+119,africa,Africa,2019,11027,2746
+120,africa,Africa,2020,1557,1341
+121,africa,Africa,2021,4602,557
+122,africa,Africa,2022,8708,5100
+123,africa,Africa,2023,24875,22015
+124,africa,Africa,2024,6926,3557
+125,africa,Africa,2025,4310,3085
+126,asia,Asia,1900,1250030,1250030
+127,asia,Asia,1901,18,18
+128,asia,Asia,1902,3225,3225
+129,asia,Asia,1903,370,370
+130,asia,Asia,1904,148,148
+131,asia,Asia,1905,20292,20292
+132,asia,Asia,1906,11553,11553
+133,asia,Asia,1907,1312000,12000
+134,asia,Asia,1908,20,0
+135,asia,Asia,1909,1505514,5474
+136,asia,Asia,1910,61478,1439
+137,asia,Asia,1911,103587,103587
+138,asia,Asia,1912,52000,51000
+139,asia,Asia,1913,1080,1080
+140,asia,Asia,1914,254,254
+141,asia,Asia,1915,170,170
+142,asia,Asia,1916,1481,481
+143,asia,Asia,1917,20854,20854
+144,asia,Asia,1918,409800,10100
+145,asia,Asia,1919,5000,5000
+146,asia,Asia,1920,3180040,680000
+147,asia,Asia,1921,1000,0
+148,asia,Asia,1922,100049,100032
+149,asia,Asia,1923,157759,153959
+150,asia,Asia,1924,303129,3129
+151,asia,Asia,1925,6004,6004
+152,asia,Asia,1926,425844,2844
+153,asia,Asia,1927,49937,49937
+154,asia,Asia,1928,3000164,3000164
+155,asia,Asia,1929,3270,3270
+156,asia,Asia,1930,3995,3995
+157,asia,Asia,1931,3711806,3711806
+158,asia,Asia,1932,1223,1223
+159,asia,Asia,1933,31200,31200
+160,asia,Asia,1934,5102,3591
+161,asia,Asia,1935,268972,268972
+162,asia,Asia,1936,3252,3047
+163,asia,Asia,1937,12893,12128
+164,asia,Asia,1938,1316,1259
+165,asia,Asia,1939,500098,500098
+166,asia,Asia,1940,264,254
+167,asia,Asia,1941,7435,7417
+168,asia,Asia,1942,1602722,1601120
+169,asia,Asia,1943,1907623,1907603
+170,asia,Asia,1944,1610,1596
+171,asia,Asia,1945,10540,10540
+172,asia,Asia,1946,2318,2318
+173,asia,Asia,1947,7455,6830
+174,asia,Asia,1948,11046,9811
+175,asia,Asia,1949,61338,59638
+176,asia,Asia,1950,6382,5943
+177,asia,Asia,1951,15371,15371
+178,asia,Asia,1952,2079,2079
+179,asia,Asia,1953,8450,8039
+180,asia,Asia,1954,40082,38739
+181,asia,Asia,1955,4073,3973
+182,asia,Asia,1956,7143,7115
+183,asia,Asia,1957,9871,9571
+184,asia,Asia,1958,3592,3388
+185,asia,Asia,1959,2009673,2009673
+186,asia,Asia,1960,20007,20007
+187,asia,Asia,1961,15825,15810
+188,asia,Asia,1962,13953,13790
+189,asia,Asia,1963,26020,24858
+190,asia,Asia,1964,12498,11379
+191,asia,Asia,1965,1561128,1560326
+192,asia,Asia,1966,11782,11695
+193,asia,Asia,1967,7231,3880
+194,asia,Asia,1968,20856,20777
+195,asia,Asia,1969,5881,5705
+196,asia,Asia,1970,316925,316468
+197,asia,Asia,1971,12486,12166
+198,asia,Asia,1972,9341,8640
+199,asia,Asia,1973,5538,5411
+200,asia,Asia,1974,57718,57236
+201,asia,Asia,1975,25047,23830
+202,asia,Asia,1976,251246,251081
+203,asia,Asia,1977,19244,18369
+204,asia,Asia,1978,37884,34313
+205,asia,Asia,1979,6200,3729
+206,asia,Asia,1980,13647,11702
+207,asia,Asia,1981,14063,12809
+208,asia,Asia,1982,8861,5401
+209,asia,Asia,1983,7588,5631
+210,asia,Asia,1984,16567,6683
+211,asia,Asia,1985,25692,20781
+212,asia,Asia,1986,8297,3462
+213,asia,Asia,1987,17652,9011
+214,asia,Asia,1988,23803,14344
+215,asia,Asia,1989,14097,9030
+216,asia,Asia,1990,55552,49099
+217,asia,Asia,1991,167833,157135
+218,asia,Asia,1992,14038,9922
+219,asia,Asia,1993,23166,18216
+220,asia,Asia,1994,14291,8885
+221,asia,Asia,1995,631431,16928
+222,asia,Asia,1996,17423,13160
+223,asia,Asia,1997,19021,13394
+224,asia,Asia,1998,35606,27301
+225,asia,Asia,1999,23564,17968
+226,asia,Asia,2000,8215,6506
+227,asia,Asia,2001,26645,26341
+228,asia,Asia,2002,12204,8910
+229,asia,Asia,2003,33279,33257
+230,asia,Asia,2004,233533,232721
+231,asia,Asia,2005,84364,83496
+232,asia,Asia,2006,16689,16685
+233,asia,Asia,2007,13630,12822
+234,asia,Asia,2008,232458,232430
+235,asia,Asia,2009,9271,8108
+236,asia,Asia,2010,15237,14404
+237,asia,Asia,2011,27041,26787
+238,asia,Asia,2012,6404,6374
+239,asia,Asia,2013,18992,18907
+240,asia,Asia,2014,5995,5993
+241,asia,Asia,2015,16437,16398
+242,asia,Asia,2016,5239,5152
+243,asia,Asia,2017,6022,5627
+244,asia,Asia,2018,9888,9369
+245,asia,Asia,2019,7406,5322
+246,asia,Asia,2020,6075,6075
+247,asia,Asia,2021,5080,5080
+248,asia,Asia,2022,7833,7715
+249,asia,Asia,2023,11651,11424
+250,asia,Asia,2024,11605,10747
+251,asia,Asia,2025,12433,12424
+252,europe,Europe,1900,140,140
+253,europe,Europe,1901,18,0
+254,europe,Europe,1902,4648,4648
+255,europe,Europe,1903,6344,6260
+256,europe,Europe,1904,19,4
+257,europe,Europe,1905,693,677
+258,europe,Europe,1906,1863,706
+259,europe,Europe,1907,0,0
+260,europe,Europe,1908,75378,75000
+261,europe,Europe,1909,76,76
+262,europe,Europe,1910,0,0
+263,europe,Europe,1911,0,0
+264,europe,Europe,1912,2923,923
+265,europe,Europe,1913,467,0
+266,europe,Europe,1914,4134,4134
+267,europe,Europe,1915,30247,29980
+268,europe,Europe,1916,89,0
+269,europe,Europe,1917,2500667,0
+270,europe,Europe,1918,82,0
+271,europe,Europe,1919,0,0
+272,europe,Europe,1920,1612,1600
+273,europe,Europe,1921,1200665,1200000
+274,europe,Europe,1922,310,100
+275,europe,Europe,1923,633,23
+276,europe,Europe,1924,134,110
+277,europe,Europe,1925,203,203
+278,europe,Europe,1926,1028,1028
+279,europe,Europe,1927,26,0
+280,europe,Europe,1928,348,348
+281,europe,Europe,1929,58,0
+282,europe,Europe,1930,2168,2083
+283,europe,Europe,1931,3497,2980
+284,europe,Europe,1932,5000198,181
+285,europe,Europe,1933,353,10
+286,europe,Europe,1934,188,120
+287,europe,Europe,1935,635,540
+288,europe,Europe,1936,136,73
+289,europe,Europe,1937,72,0
+290,europe,Europe,1938,407,149
+291,europe,Europe,1939,33169,33045
+292,europe,Europe,1940,1128,1033
+293,europe,Europe,1941,718,585
+294,europe,Europe,1942,3340,3076
+295,europe,Europe,1943,5246,5159
+296,europe,Europe,1944,5208,4033
+297,europe,Europe,1945,702,600
+298,europe,Europe,1946,1740,1252
+299,europe,Europe,1947,199,3
+300,europe,Europe,1948,110658,110439
+301,europe,Europe,1949,16100,15900
+302,europe,Europe,1950,208,20
+303,europe,Europe,1951,333,309
+304,europe,Europe,1952,4605,4279
+305,europe,Europe,1953,4071,3914
+306,europe,Europe,1954,2611,563
+307,europe,Europe,1955,216,8
+308,europe,Europe,1956,468,206
+309,europe,Europe,1957,344,229
+310,europe,Europe,1958,65,35
+311,europe,Europe,1959,547,0
+312,europe,Europe,1960,142,12
+313,europe,Europe,1961,306,209
+314,europe,Europe,1962,962,823
+315,europe,Europe,1963,3132,2999
+316,europe,Europe,1964,153,23
+317,europe,Europe,1965,880,266
+318,europe,Europe,1966,2801,2677
+319,europe,Europe,1967,1521,775
+320,europe,Europe,1968,755,529
+321,europe,Europe,1969,143,96
+322,europe,Europe,1970,2014,1817
+323,europe,Europe,1971,1723,1357
+324,europe,Europe,1972,689,33
+325,europe,Europe,1973,1042,568
+326,europe,Europe,1974,644,72
+327,europe,Europe,1975,2658,2485
+328,europe,Europe,1976,5280,4941
+329,europe,Europe,1977,1983,1786
+330,europe,Europe,1978,400,63
+331,europe,Europe,1979,959,261
+332,europe,Europe,1980,5638,4811
+333,europe,Europe,1981,861,167
+334,europe,Europe,1982,567,120
+335,europe,Europe,1983,2757,1519
+336,europe,Europe,1984,1200,508
+337,europe,Europe,1985,2008,612
+338,europe,Europe,1986,809,74
+339,europe,Europe,1987,2127,1409
+340,europe,Europe,1988,26099,25187
+341,europe,Europe,1989,2108,456
+342,europe,Europe,1990,1304,378
+343,europe,Europe,1991,830,237
+344,europe,Europe,1992,2493,1047
+345,europe,Europe,1993,1286,677
+346,europe,Europe,1994,2531,355
+347,europe,Europe,1995,3999,2780
+348,europe,Europe,1996,1231,164
+349,europe,Europe,1997,1270,424
+350,europe,Europe,1998,1545,899
+351,europe,Europe,1999,19582,18907
+352,europe,Europe,2000,721,719
+353,europe,Europe,2001,1366,1353
+354,europe,Europe,2002,1070,1067
+355,europe,Europe,2003,72474,72474
+356,europe,Europe,2004,235,235
+357,europe,Europe,2005,1051,1051
+358,europe,Europe,2006,4661,4641
+359,europe,Europe,2007,845,845
+360,europe,Europe,2008,210,210
+361,europe,Europe,2009,884,884
+362,europe,Europe,2010,56540,56540
+363,europe,Europe,2011,736,736
+364,europe,Europe,2012,1321,1321
+365,europe,Europe,2013,897,897
+366,europe,Europe,2014,272,272
+367,europe,Europe,2015,3897,3897
+368,europe,Europe,2016,416,416
+369,europe,Europe,2017,337,337
+370,europe,Europe,2018,1345,1345
+371,europe,Europe,2019,2939,2939
+372,europe,Europe,2020,6933,6933
+373,europe,Europe,2021,413,413
+374,europe,Europe,2022,61781,61781
+375,europe,Europe,2023,100931,100931
+376,europe,Europe,2024,63134,63134
+377,europe,Europe,2025,24378,24378
+378,americas,The Americas,1900,6630,6300
+379,americas,The Americas,1901,0,0
+380,americas,The Americas,1902,10680,10565
+381,americas,The Americas,1903,1091,489
+382,americas,The Americas,1904,1096,0
+383,americas,The Americas,1905,18,18
+384,americas,The Americas,1906,22586,21398
+385,americas,The Americas,1907,1275,1200
+386,americas,The Americas,1908,485,33
+387,americas,The Americas,1909,916,666
+388,americas,The Americas,1910,2605,2542
+389,americas,The Americas,1911,343,118
+390,americas,The Americas,1912,170,170
+391,americas,The Americas,1913,1117,882
+392,americas,The Americas,1914,1237,34
+393,americas,The Americas,1915,2999,2187
+394,americas,The Americas,1916,271,0
+395,americas,The Americas,1917,4372,2707
+396,americas,The Americas,1918,51701,1034
+397,americas,The Americas,1919,500,500
+398,americas,The Americas,1920,1272,1272
+399,americas,The Americas,1921,0,0
+400,americas,The Americas,1922,1077,1043
+401,americas,The Americas,1923,304,304
+402,americas,The Americas,1924,40,40
+403,americas,The Americas,1925,779,765
+404,americas,The Americas,1926,968,968
+405,americas,The Americas,1927,409,333
+406,americas,The Americas,1928,2622,2083
+407,americas,The Americas,1929,74,60
+408,americas,The Americas,1930,5333,5000
+409,americas,The Americas,1931,4190,4190
+410,americas,The Americas,1932,3288,3272
+411,americas,The Americas,1933,242,232
+412,americas,The Americas,1934,2137,2000
+413,americas,The Americas,1935,2634,2593
+414,americas,The Americas,1936,2871,2766
+415,americas,The Americas,1937,365,322
+416,americas,The Americas,1938,881,800
+417,americas,The Americas,1939,30574,30037
+418,americas,The Americas,1940,615,363
+419,americas,The Americas,1941,5166,5000
+420,americas,The Americas,1942,921,230
+421,americas,The Americas,1943,494,212
+422,americas,The Americas,1944,10842,10543
+423,americas,The Americas,1945,196,196
+424,americas,The Americas,1946,1994,1690
+425,americas,The Americas,1947,1133,541
+426,americas,The Americas,1948,411,411
+427,americas,The Americas,1949,48386,48236
+428,americas,The Americas,1950,1013,882
+429,americas,The Americas,1951,2009,1914
+430,americas,The Americas,1952,487,468
+431,americas,The Americas,1953,1085,563
+432,americas,The Americas,1954,1405,1265
+433,americas,The Americas,1955,1854,1554
+434,americas,The Americas,1956,3152,309
+435,americas,The Americas,1957,988,741
+436,americas,The Americas,1958,908,638
+437,americas,The Americas,1959,3518,3483
+438,americas,The Americas,1960,6726,6501
+439,americas,The Americas,1961,1476,1132
+440,americas,The Americas,1962,2677,2580
+441,americas,The Americas,1963,8523,8095
+442,americas,The Americas,1964,1057,680
+443,americas,The Americas,1965,2051,2044
+444,americas,The Americas,1966,2350,2341
+445,americas,The Americas,1967,2143,2054
+446,americas,The Americas,1968,542,467
+447,americas,The Americas,1969,2277,1650
+448,americas,The Americas,1970,68146,67679
+449,americas,The Americas,1971,1822,1751
+450,americas,The Americas,1972,11930,11200
+451,americas,The Americas,1973,4569,4483
+452,americas,The Americas,1974,11410,9655
+453,americas,The Americas,1975,624,411
+454,americas,The Americas,1976,24588,24037
+455,americas,The Americas,1977,938,436
+456,americas,The Americas,1978,1925,364
+457,americas,The Americas,1979,2890,2762
+458,americas,The Americas,1980,2542,2063
+459,americas,The Americas,1981,1488,683
+460,americas,The Americas,1982,3930,3243
+461,americas,The Americas,1983,2685,2324
+462,americas,The Americas,1984,2384,989
+463,americas,The Americas,1985,32722,32244
+464,americas,The Americas,1986,2848,1898
+465,americas,The Americas,1987,8221,6890
+466,americas,The Americas,1988,3044,1865
+467,americas,The Americas,1989,2816,749
+468,americas,The Americas,1990,2366,1049
+469,americas,The Americas,1991,13656,701
+470,americas,The Americas,1992,3020,646
+471,americas,The Americas,1993,4698,2083
+472,americas,The Americas,1994,2866,2048
+473,americas,The Americas,1995,2505,1732
+474,americas,The Americas,1996,2625,915
+475,americas,The Americas,1997,3296,2203
+476,americas,The Americas,1998,22036,21054
+477,americas,The Americas,1999,34050,32755
+478,americas,The Americas,2000,996,964
+479,americas,The Americas,2001,2028,2027
+480,americas,The Americas,2002,1323,1035
+481,americas,The Americas,2003,1713,1369
+482,americas,The Americas,2004,6835,6835
+483,americas,The Americas,2005,4420,4420
+484,americas,The Americas,2006,678,658
+485,americas,The Americas,2007,2120,2119
+486,americas,The Americas,2008,1936,1778
+487,americas,The Americas,2009,1465,1381
+488,americas,The Americas,2010,232895,225728
+489,americas,The Americas,2011,2679,2634
+490,americas,The Americas,2012,1360,1121
+491,americas,The Americas,2013,1048,916
+492,americas,The Americas,2014,1111,1107
+493,americas,The Americas,2015,1430,1260
+494,americas,The Americas,2016,2056,1769
+495,americas,The Americas,2017,1842,1688
+496,americas,The Americas,2018,987,964
+497,americas,The Americas,2019,1295,927
+498,americas,The Americas,2020,1196,1165
+499,americas,The Americas,2021,4523,4523
+500,americas,The Americas,2022,2176,1665
+501,americas,The Americas,2023,1690,1514
+502,americas,The Americas,2024,2352,2330
+503,americas,The Americas,2025,1365,1365
