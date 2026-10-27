@@ -7,7 +7,7 @@
     "language": {
         "id": "en"
     },
-    "created": "2026-10-25T01:19:04.327Z",
+    "created": "2026-10-27T11:36:49.545Z",
     "version": "2.0.0",
     "resources": [
         {
@@ -520,6 +520,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--abscorrup_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--abscorrup_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "abscorrup_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--actual_progress--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--actual_progress--by--country--time.csv",
             "schema": {
@@ -557,6 +578,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ajustice_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--ajustice_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ajustice_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -667,6 +709,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--bwelfr_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--bwelfr_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "bwelfr_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--c_checkgvt_idea--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--c_checkgvt_idea--by--country--time.csv",
             "schema": {
@@ -704,6 +767,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--c_civsocpart_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--c_civsocpart_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "c_civsocpart_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -751,6 +835,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--c_dirdemo_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--c_dirdemo_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "c_dirdemo_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--c_elecparti_idea--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--c_elecparti_idea--by--country--time.csv",
             "schema": {
@@ -767,6 +872,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--c_elecparti_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--c_elecparti_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "c_elecparti_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -814,6 +940,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--c_fundright_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--c_fundright_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "c_fundright_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--c_impadmin_idea--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--c_impadmin_idea--by--country--time.csv",
             "schema": {
@@ -856,6 +1003,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--c_locdemo_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--c_locdemo_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "c_locdemo_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--c_rgvt_idea--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--c_rgvt_idea--by--country--time.csv",
             "schema": {
@@ -872,6 +1040,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--c_rgvt_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--c_rgvt_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "c_rgvt_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -1040,6 +1229,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--celec_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--celec_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "celec_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -1381,6 +1591,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--civsocpart_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--civsocpart_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "civsocpart_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--cliberities_fh--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--cliberities_fh--by--country--time.csv",
             "schema": {
@@ -1418,6 +1649,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--cliberties_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--cliberties_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "cliberties_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -1717,6 +1969,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--dirdemo_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--dirdemo_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "dirdemo_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--dtp3_vacc--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--dtp3_vacc--by--country--time.csv",
             "schema": {
@@ -1780,6 +2053,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--efparlt_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--efparlt_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "efparlt_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--elecparti_idea--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--elecparti_idea--by--country--time.csv",
             "schema": {
@@ -1796,6 +2090,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--elecparti_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--elecparti_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "elecparti_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -1838,6 +2153,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--elgov_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--elgov_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "elgov_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -1990,6 +2326,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--fassoas_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--fassoas_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "fassoas_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--female_hos--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--female_hos--by--country--time.csv",
             "schema": {
@@ -2027,6 +2384,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--fexpression_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--fexpression_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "fexpression_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -2116,6 +2494,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--fmvt_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--fmvt_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "fmvt_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--fppart_idea--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--fppart_idea--by--country--time.csv",
             "schema": {
@@ -2132,6 +2531,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--fppart_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--fppart_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "fppart_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -2200,6 +2620,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--freligion_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--freligion_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "freligion_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--fundright_idea--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--fundright_idea--by--country--time.csv",
             "schema": {
@@ -2216,6 +2657,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--fundright_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--fundright_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "fundright_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -2300,6 +2762,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gendereq_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--gendereq_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gendereq_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -3754,6 +4237,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--isuffrage_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--isuffrage_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "isuffrage_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--journakilled--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--journakilled--by--country--time.csv",
             "schema": {
@@ -3964,6 +4468,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--judicindep_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--judicindep_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "judicindep_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--legs_sexhw--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--legs_sexhw--by--country--time.csv",
             "schema": {
@@ -4106,6 +4631,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--locdemo_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--locdemo_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "locdemo_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -4421,6 +4967,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--mediaint_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--mediaint_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "mediaint_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -5513,6 +6080,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--pisec_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--pisec_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "pisec_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -7681,6 +8269,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--prenforct_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--prenforct_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "prenforct_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--refas_prc_unhcr--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--refas_prc_unhcr--by--country--time.csv",
             "schema": {
@@ -7765,6 +8374,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--rgov_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--rgov_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "rgov_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--rotac_vacc--by--country--time",
             "path": "countries_etc_datapoints/ddf--datapoints--rotac_vacc--by--country--time.csv",
             "schema": {
@@ -7844,6 +8474,27 @@
                 ],
                 "primaryKey": [
                     "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sgeq_idea--by--global--time",
+            "path": "global_regions_datapoints/ddf--datapoints--sgeq_idea--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sgeq_idea"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -11892,6 +12543,7 @@
                 ],
                 "value": "abscorrup_idea",
                 "resources": [
+                    "ddf--datapoints--abscorrup_idea--by--global--time",
                     "ddf--datapoints--abscorrup_idea--by--country--time"
                 ]
             },
@@ -11912,6 +12564,7 @@
                 ],
                 "value": "ajustice_idea",
                 "resources": [
+                    "ddf--datapoints--ajustice_idea--by--global--time",
                     "ddf--datapoints--ajustice_idea--by--country--time"
                 ]
             },
@@ -11953,6 +12606,7 @@
                 ],
                 "value": "bwelfr_idea",
                 "resources": [
+                    "ddf--datapoints--bwelfr_idea--by--global--time",
                     "ddf--datapoints--bwelfr_idea--by--country--time"
                 ]
             },
@@ -11973,6 +12627,7 @@
                 ],
                 "value": "c_civsocpart_idea",
                 "resources": [
+                    "ddf--datapoints--c_civsocpart_idea--by--global--time",
                     "ddf--datapoints--c_civsocpart_idea--by--country--time"
                 ]
             },
@@ -11993,6 +12648,7 @@
                 ],
                 "value": "c_dirdemo_idea",
                 "resources": [
+                    "ddf--datapoints--c_dirdemo_idea--by--global--time",
                     "ddf--datapoints--c_dirdemo_idea--by--country--time"
                 ]
             },
@@ -12003,6 +12659,7 @@
                 ],
                 "value": "c_elecparti_idea",
                 "resources": [
+                    "ddf--datapoints--c_elecparti_idea--by--global--time",
                     "ddf--datapoints--c_elecparti_idea--by--country--time"
                 ]
             },
@@ -12023,6 +12680,7 @@
                 ],
                 "value": "c_fundright_idea",
                 "resources": [
+                    "ddf--datapoints--c_fundright_idea--by--global--time",
                     "ddf--datapoints--c_fundright_idea--by--country--time"
                 ]
             },
@@ -12043,6 +12701,7 @@
                 ],
                 "value": "c_locdemo_idea",
                 "resources": [
+                    "ddf--datapoints--c_locdemo_idea--by--global--time",
                     "ddf--datapoints--c_locdemo_idea--by--country--time"
                 ]
             },
@@ -12053,6 +12712,7 @@
                 ],
                 "value": "c_rgvt_idea",
                 "resources": [
+                    "ddf--datapoints--c_rgvt_idea--by--global--time",
                     "ddf--datapoints--c_rgvt_idea--by--country--time"
                 ]
             },
@@ -12106,6 +12766,7 @@
                 ],
                 "value": "celec_idea",
                 "resources": [
+                    "ddf--datapoints--celec_idea--by--global--time",
                     "ddf--datapoints--celec_idea--by--country--time"
                 ]
             },
@@ -12230,6 +12891,7 @@
                 ],
                 "value": "civsocpart_idea",
                 "resources": [
+                    "ddf--datapoints--civsocpart_idea--by--global--time",
                     "ddf--datapoints--civsocpart_idea--by--country--time"
                 ]
             },
@@ -12250,6 +12912,7 @@
                 ],
                 "value": "cliberties_idea",
                 "resources": [
+                    "ddf--datapoints--cliberties_idea--by--global--time",
                     "ddf--datapoints--cliberties_idea--by--country--time"
                 ]
             },
@@ -12372,6 +13035,7 @@
                 ],
                 "value": "dirdemo_idea",
                 "resources": [
+                    "ddf--datapoints--dirdemo_idea--by--global--time",
                     "ddf--datapoints--dirdemo_idea--by--country--time"
                 ]
             },
@@ -12393,6 +13057,7 @@
                 ],
                 "value": "efparlt_idea",
                 "resources": [
+                    "ddf--datapoints--efparlt_idea--by--global--time",
                     "ddf--datapoints--efparlt_idea--by--country--time"
                 ]
             },
@@ -12403,6 +13068,7 @@
                 ],
                 "value": "elecparti_idea",
                 "resources": [
+                    "ddf--datapoints--elecparti_idea--by--global--time",
                     "ddf--datapoints--elecparti_idea--by--country--time"
                 ]
             },
@@ -12423,6 +13089,7 @@
                 ],
                 "value": "elgov_idea",
                 "resources": [
+                    "ddf--datapoints--elgov_idea--by--global--time",
                     "ddf--datapoints--elgov_idea--by--country--time"
                 ]
             },
@@ -12457,6 +13124,7 @@
                 ],
                 "value": "fassoas_idea",
                 "resources": [
+                    "ddf--datapoints--fassoas_idea--by--global--time",
                     "ddf--datapoints--fassoas_idea--by--country--time"
                 ]
             },
@@ -12477,6 +13145,7 @@
                 ],
                 "value": "fexpression_idea",
                 "resources": [
+                    "ddf--datapoints--fexpression_idea--by--global--time",
                     "ddf--datapoints--fexpression_idea--by--country--time"
                 ]
             },
@@ -12499,6 +13168,7 @@
                 ],
                 "value": "fmvt_idea",
                 "resources": [
+                    "ddf--datapoints--fmvt_idea--by--global--time",
                     "ddf--datapoints--fmvt_idea--by--country--time"
                 ]
             },
@@ -12509,6 +13179,7 @@
                 ],
                 "value": "fppart_idea",
                 "resources": [
+                    "ddf--datapoints--fppart_idea--by--global--time",
                     "ddf--datapoints--fppart_idea--by--country--time"
                 ]
             },
@@ -12539,6 +13210,7 @@
                 ],
                 "value": "freligion_idea",
                 "resources": [
+                    "ddf--datapoints--freligion_idea--by--global--time",
                     "ddf--datapoints--freligion_idea--by--country--time"
                 ]
             },
@@ -12549,6 +13221,7 @@
                 ],
                 "value": "fundright_idea",
                 "resources": [
+                    "ddf--datapoints--fundright_idea--by--global--time",
                     "ddf--datapoints--fundright_idea--by--country--time"
                 ]
             },
@@ -12580,6 +13253,7 @@
                 ],
                 "value": "gendereq_idea",
                 "resources": [
+                    "ddf--datapoints--gendereq_idea--by--global--time",
                     "ddf--datapoints--gendereq_idea--by--country--time"
                 ]
             },
@@ -12964,6 +13638,7 @@
                 ],
                 "value": "isuffrage_idea",
                 "resources": [
+                    "ddf--datapoints--isuffrage_idea--by--global--time",
                     "ddf--datapoints--isuffrage_idea--by--country--time"
                 ]
             },
@@ -13010,6 +13685,7 @@
                 ],
                 "value": "judicindep_idea",
                 "resources": [
+                    "ddf--datapoints--judicindep_idea--by--global--time",
                     "ddf--datapoints--judicindep_idea--by--country--time"
                 ]
             },
@@ -13062,6 +13738,7 @@
                 ],
                 "value": "locdemo_idea",
                 "resources": [
+                    "ddf--datapoints--locdemo_idea--by--global--time",
                     "ddf--datapoints--locdemo_idea--by--country--time"
                 ]
             },
@@ -13131,6 +13808,7 @@
                 ],
                 "value": "mediaint_idea",
                 "resources": [
+                    "ddf--datapoints--mediaint_idea--by--global--time",
                     "ddf--datapoints--mediaint_idea--by--country--time"
                 ]
             },
@@ -13471,6 +14149,7 @@
                 ],
                 "value": "pisec_idea",
                 "resources": [
+                    "ddf--datapoints--pisec_idea--by--global--time",
                     "ddf--datapoints--pisec_idea--by--country--time"
                 ]
             },
@@ -14060,6 +14739,7 @@
                 ],
                 "value": "prenforct_idea",
                 "resources": [
+                    "ddf--datapoints--prenforct_idea--by--global--time",
                     "ddf--datapoints--prenforct_idea--by--country--time"
                 ]
             },
@@ -14082,6 +14762,7 @@
                 ],
                 "value": "rgov_idea",
                 "resources": [
+                    "ddf--datapoints--rgov_idea--by--global--time",
                     "ddf--datapoints--rgov_idea--by--country--time"
                 ]
             },
@@ -14113,6 +14794,7 @@
                 ],
                 "value": "sgeq_idea",
                 "resources": [
+                    "ddf--datapoints--sgeq_idea--by--global--time",
                     "ddf--datapoints--sgeq_idea--by--country--time"
                 ]
             },
@@ -14349,9 +15031,99 @@
                     "global",
                     "time"
                 ],
+                "value": "abscorrup_idea",
+                "resources": [
+                    "ddf--datapoints--abscorrup_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "ajustice_idea",
+                "resources": [
+                    "ddf--datapoints--ajustice_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
                 "value": "bcg_vacc",
                 "resources": [
                     "ddf--datapoints--bcg_vacc--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "bwelfr_idea",
+                "resources": [
+                    "ddf--datapoints--bwelfr_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "c_civsocpart_idea",
+                "resources": [
+                    "ddf--datapoints--c_civsocpart_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "c_dirdemo_idea",
+                "resources": [
+                    "ddf--datapoints--c_dirdemo_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "c_elecparti_idea",
+                "resources": [
+                    "ddf--datapoints--c_elecparti_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "c_fundright_idea",
+                "resources": [
+                    "ddf--datapoints--c_fundright_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "c_locdemo_idea",
+                "resources": [
+                    "ddf--datapoints--c_locdemo_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "c_rgvt_idea",
+                "resources": [
+                    "ddf--datapoints--c_rgvt_idea--by--global--time"
                 ]
             },
             {
@@ -14389,6 +15161,16 @@
                     "global",
                     "time"
                 ],
+                "value": "celec_idea",
+                "resources": [
+                    "ddf--datapoints--celec_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
                 "value": "child_mortality_0_5_year_olds_dying_per_1000_born",
                 "resources": [
                     "ddf--datapoints--child_mortality_0_5_year_olds_dying_per_1000_born--by--global--time"
@@ -14409,6 +15191,26 @@
                     "global",
                     "time"
                 ],
+                "value": "civsocpart_idea",
+                "resources": [
+                    "ddf--datapoints--civsocpart_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "cliberties_idea",
+                "resources": [
+                    "ddf--datapoints--cliberties_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
                 "value": "corruption_perception_index_cpi",
                 "resources": [
                     "ddf--datapoints--corruption_perception_index_cpi--by--global--time"
@@ -14419,9 +15221,49 @@
                     "global",
                     "time"
                 ],
+                "value": "dirdemo_idea",
+                "resources": [
+                    "ddf--datapoints--dirdemo_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
                 "value": "dtp3_vacc",
                 "resources": [
                     "ddf--datapoints--dtp3_vacc--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "efparlt_idea",
+                "resources": [
+                    "ddf--datapoints--efparlt_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "elecparti_idea",
+                "resources": [
+                    "ddf--datapoints--elecparti_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "elgov_idea",
+                "resources": [
+                    "ddf--datapoints--elgov_idea--by--global--time"
                 ]
             },
             {
@@ -14449,6 +15291,26 @@
                     "global",
                     "time"
                 ],
+                "value": "fassoas_idea",
+                "resources": [
+                    "ddf--datapoints--fassoas_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "fexpression_idea",
+                "resources": [
+                    "ddf--datapoints--fexpression_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
                 "value": "fisfod_cons_pc",
                 "resources": [
                     "ddf--datapoints--fisfod_cons_pc--by--global--time"
@@ -14459,9 +15321,59 @@
                     "global",
                     "time"
                 ],
+                "value": "fmvt_idea",
+                "resources": [
+                    "ddf--datapoints--fmvt_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "fppart_idea",
+                "resources": [
+                    "ddf--datapoints--fppart_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "freligion_idea",
+                "resources": [
+                    "ddf--datapoints--freligion_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "fundright_idea",
+                "resources": [
+                    "ddf--datapoints--fundright_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
                 "value": "gdp_pcap",
                 "resources": [
                     "ddf--datapoints--gdp_pcap--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gendereq_idea",
+                "resources": [
+                    "ddf--datapoints--gendereq_idea--by--global--time"
                 ]
             },
             {
@@ -14649,6 +15561,16 @@
                     "global",
                     "time"
                 ],
+                "value": "isuffrage_idea",
+                "resources": [
+                    "ddf--datapoints--isuffrage_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
                 "value": "journakilled",
                 "resources": [
                     "ddf--datapoints--journakilled--by--global--time"
@@ -14679,6 +15601,16 @@
                     "global",
                     "time"
                 ],
+                "value": "judicindep_idea",
+                "resources": [
+                    "ddf--datapoints--judicindep_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
                 "value": "legslav_numc",
                 "resources": [
                     "ddf--datapoints--legslav_numc--by--global--time"
@@ -14692,6 +15624,16 @@
                 "value": "lex",
                 "resources": [
                     "ddf--datapoints--lex--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "locdemo_idea",
+                "resources": [
+                    "ddf--datapoints--locdemo_idea--by--global--time"
                 ]
             },
             {
@@ -14742,6 +15684,16 @@
                 "value": "mcv2_vacc",
                 "resources": [
                     "ddf--datapoints--mcv2_vacc--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "mediaint_idea",
+                "resources": [
+                    "ddf--datapoints--mediaint_idea--by--global--time"
                 ]
             },
             {
@@ -14932,6 +15884,16 @@
                 "value": "pirats_bo",
                 "resources": [
                     "ddf--datapoints--pirats_bo--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "pisec_idea",
+                "resources": [
+                    "ddf--datapoints--pisec_idea--by--global--time"
                 ]
             },
             {
@@ -15419,6 +16381,16 @@
                     "global",
                     "time"
                 ],
+                "value": "prenforct_idea",
+                "resources": [
+                    "ddf--datapoints--prenforct_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
                 "value": "refas_prc_unhcr",
                 "resources": [
                     "ddf--datapoints--refas_prc_unhcr--by--global--time"
@@ -15429,9 +16401,29 @@
                     "global",
                     "time"
                 ],
+                "value": "rgov_idea",
+                "resources": [
+                    "ddf--datapoints--rgov_idea--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
                 "value": "rotac_vacc",
                 "resources": [
                     "ddf--datapoints--rotac_vacc--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sgeq_idea",
+                "resources": [
+                    "ddf--datapoints--sgeq_idea--by--global--time"
                 ]
             },
             {
