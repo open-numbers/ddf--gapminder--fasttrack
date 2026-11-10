@@ -1,0 +1,558 @@
+,geo,name,time,Pirate attacks on boats
+0,dza,Algeria,2012,1
+1,dza,Algeria,2013,0
+2,dza,Algeria,2014,0
+3,dza,Algeria,2015,0
+4,dza,Algeria,2016,0
+5,dza,Algeria,2017,0
+6,dza,Algeria,2018,0
+7,dza,Algeria,2019,1
+8,ago,Angola,2011,1
+9,ago,Angola,2012,0
+10,ago,Angola,2013,0
+11,ago,Angola,2014,1
+12,ago,Angola,2015,0
+13,ago,Angola,2016,2
+14,ago,Angola,2017,1
+15,ago,Angola,2018,0
+16,ago,Angola,2019,0
+17,ago,Angola,2020,6
+18,ago,Angola,2021,4
+19,ago,Angola,2022,5
+20,ago,Angola,2023,3
+21,ago,Angola,2024,5
+22,ago,Angola,2025,4
+23,bgd,Bangladesh,2010,23
+24,bgd,Bangladesh,2011,10
+25,bgd,Bangladesh,2012,11
+26,bgd,Bangladesh,2013,12
+27,bgd,Bangladesh,2014,21
+28,bgd,Bangladesh,2015,11
+29,bgd,Bangladesh,2016,3
+30,bgd,Bangladesh,2017,11
+31,bgd,Bangladesh,2018,12
+32,bgd,Bangladesh,2019,0
+33,bgd,Bangladesh,2020,4
+34,bgd,Bangladesh,2021,0
+35,bgd,Bangladesh,2022,7
+36,bgd,Bangladesh,2023,1
+37,bgd,Bangladesh,2024,14
+38,bgd,Bangladesh,2025,6
+39,ben,Benin,2011,20
+40,ben,Benin,2012,2
+41,ben,Benin,2013,0
+42,ben,Benin,2014,0
+43,ben,Benin,2015,0
+44,ben,Benin,2016,1
+45,ben,Benin,2017,0
+46,ben,Benin,2018,5
+47,ben,Benin,2019,3
+48,ben,Benin,2020,11
+49,ben,Benin,2021,2
+50,ben,Benin,2022,0
+51,ben,Benin,2023,0
+52,ben,Benin,2024,1
+53,bra,Brazil,2010,9
+54,bra,Brazil,2011,3
+55,bra,Brazil,2012,1
+56,bra,Brazil,2013,1
+57,bra,Brazil,2014,1
+58,bra,Brazil,2015,0
+59,bra,Brazil,2016,0
+60,bra,Brazil,2017,0
+61,bra,Brazil,2018,4
+62,bra,Brazil,2019,2
+63,bra,Brazil,2020,7
+64,bra,Brazil,2021,3
+65,bra,Brazil,2022,5
+66,bra,Brazil,2023,1
+67,cmr,Cameroon,2010,5
+68,cmr,Cameroon,2011,0
+69,cmr,Cameroon,2012,1
+70,cmr,Cameroon,2013,0
+71,cmr,Cameroon,2014,1
+72,cmr,Cameroon,2015,1
+73,cmr,Cameroon,2016,0
+74,cmr,Cameroon,2017,0
+75,cmr,Cameroon,2018,7
+76,cmr,Cameroon,2019,6
+77,cmr,Cameroon,2020,0
+78,cmr,Cameroon,2021,1
+79,cmr,Cameroon,2022,0
+80,cmr,Cameroon,2023,3
+81,cpv,Cape Verde,2024,1
+82,chn,China,2010,1
+83,chn,China,2011,2
+84,chn,China,2012,1
+85,chn,China,2013,0
+86,chn,China,2014,0
+87,chn,China,2015,4
+88,chn,China,2016,7
+89,chn,China,2017,2
+90,chn,China,2018,3
+91,chn,China,2019,3
+92,col,Colombia,2010,3
+93,col,Colombia,2011,4
+94,col,Colombia,2012,5
+95,col,Colombia,2013,7
+96,col,Colombia,2014,2
+97,col,Colombia,2015,5
+98,col,Colombia,2016,4
+99,col,Colombia,2017,6
+100,col,Colombia,2018,1
+101,col,Colombia,2019,3
+102,col,Colombia,2020,1
+103,col,Colombia,2021,6
+104,col,Colombia,2022,0
+105,col,Colombia,2023,2
+106,col,Colombia,2024,1
+107,col,Colombia,2025,2
+108,cod,"Congo, Dem. Rep.",2010,3
+109,cod,"Congo, Dem. Rep.",2011,4
+110,cod,"Congo, Dem. Rep.",2012,2
+111,cod,"Congo, Dem. Rep.",2013,0
+112,cod,"Congo, Dem. Rep.",2014,1
+113,cod,"Congo, Dem. Rep.",2015,3
+114,cod,"Congo, Dem. Rep.",2016,2
+115,cod,"Congo, Dem. Rep.",2017,0
+116,cod,"Congo, Dem. Rep.",2018,1
+117,cod,"Congo, Dem. Rep.",2019,1
+118,cod,"Congo, Dem. Rep.",2020,0
+119,cod,"Congo, Dem. Rep.",2021,1
+120,cod,"Congo, Dem. Rep.",2022,1
+121,cod,"Congo, Dem. Rep.",2023,0
+122,cod,"Congo, Dem. Rep.",2024,0
+123,cod,"Congo, Dem. Rep.",2025,1
+124,cog,"Congo, Rep.",2010,1
+125,cog,"Congo, Rep.",2011,3
+126,cog,"Congo, Rep.",2012,4
+127,cog,"Congo, Rep.",2013,3
+128,cog,"Congo, Rep.",2014,7
+129,cog,"Congo, Rep.",2015,5
+130,cog,"Congo, Rep.",2016,6
+131,cog,"Congo, Rep.",2017,1
+132,cog,"Congo, Rep.",2018,6
+133,cog,"Congo, Rep.",2019,3
+134,cog,"Congo, Rep.",2020,3
+135,cog,"Congo, Rep.",2021,1
+136,cog,"Congo, Rep.",2022,0
+137,cog,"Congo, Rep.",2023,1
+138,cog,"Congo, Rep.",2024,0
+139,cog,"Congo, Rep.",2025,1
+140,cri,Costa Rica,2010,1
+141,cri,Costa Rica,2011,3
+142,cri,Costa Rica,2012,1
+143,civ,Cote d'Ivoire,2010,4
+144,civ,Cote d'Ivoire,2011,1
+145,civ,Cote d'Ivoire,2012,5
+146,civ,Cote d'Ivoire,2013,4
+147,civ,Cote d'Ivoire,2014,3
+148,civ,Cote d'Ivoire,2015,1
+149,civ,Cote d'Ivoire,2016,1
+150,civ,Cote d'Ivoire,2017,1
+151,civ,Cote d'Ivoire,2018,1
+152,civ,Cote d'Ivoire,2019,1
+153,civ,Cote d'Ivoire,2020,3
+154,civ,Cote d'Ivoire,2021,0
+155,civ,Cote d'Ivoire,2022,2
+156,civ,Cote d'Ivoire,2023,2
+157,civ,Cote d'Ivoire,2024,1
+158,civ,Cote d'Ivoire,2025,2
+159,dom,Dominican Republic,2012,1
+160,dom,Dominican Republic,2013,1
+161,dom,Dominican Republic,2014,0
+162,dom,Dominican Republic,2015,0
+163,dom,Dominican Republic,2016,0
+164,dom,Dominican Republic,2017,0
+165,dom,Dominican Republic,2018,0
+166,dom,Dominican Republic,2019,1
+167,ecu,Ecuador,2010,3
+168,ecu,Ecuador,2011,6
+169,ecu,Ecuador,2012,4
+170,ecu,Ecuador,2013,3
+171,ecu,Ecuador,2014,0
+172,ecu,Ecuador,2015,0
+173,ecu,Ecuador,2016,0
+174,ecu,Ecuador,2017,2
+175,ecu,Ecuador,2018,4
+176,ecu,Ecuador,2019,3
+177,ecu,Ecuador,2020,5
+178,ecu,Ecuador,2021,4
+179,ecu,Ecuador,2022,0
+180,ecu,Ecuador,2023,1
+181,ecu,Ecuador,2024,0
+182,ecu,Ecuador,2025,1
+183,egy,Egypt,2010,2
+184,egy,Egypt,2011,3
+185,egy,Egypt,2012,7
+186,egy,Egypt,2013,7
+187,egy,Egypt,2014,0
+188,egy,Egypt,2015,1
+189,egy,Egypt,2016,0
+190,egy,Egypt,2017,0
+191,egy,Egypt,2018,0
+192,egy,Egypt,2019,0
+193,egy,Egypt,2020,0
+194,egy,Egypt,2021,0
+195,egy,Egypt,2022,1
+196,egy,Egypt,2023,1
+197,gnq,Equatorial Guinea,2019,2
+198,gnq,Equatorial Guinea,2020,3
+199,gnq,Equatorial Guinea,2021,2
+200,gnq,Equatorial Guinea,2022,2
+201,gnq,Equatorial Guinea,2023,0
+202,gnq,Equatorial Guinea,2024,4
+203,gnq,Equatorial Guinea,2025,2
+204,gab,Gabon,2013,2
+205,gab,Gabon,2014,1
+206,gab,Gabon,2015,0
+207,gab,Gabon,2016,0
+208,gab,Gabon,2017,0
+209,gab,Gabon,2018,0
+210,gab,Gabon,2019,1
+211,gab,Gabon,2020,2
+212,gab,Gabon,2021,4
+213,gab,Gabon,2022,0
+214,gab,Gabon,2023,1
+215,gab,Gabon,2024,1
+216,gha,Ghana,2011,2
+217,gha,Ghana,2012,2
+218,gha,Ghana,2013,1
+219,gha,Ghana,2014,4
+220,gha,Ghana,2015,2
+221,gha,Ghana,2016,3
+222,gha,Ghana,2017,1
+223,gha,Ghana,2018,10
+224,gha,Ghana,2019,3
+225,gha,Ghana,2020,9
+226,gha,Ghana,2021,5
+227,gha,Ghana,2022,7
+228,gha,Ghana,2023,6
+229,gha,Ghana,2024,2
+230,gha,Ghana,2025,3
+231,gin,Guinea,2010,6
+232,gin,Guinea,2011,5
+233,gin,Guinea,2012,3
+234,gin,Guinea,2013,1
+235,gin,Guinea,2014,0
+236,gin,Guinea,2015,3
+237,gin,Guinea,2016,3
+238,gin,Guinea,2017,2
+239,gin,Guinea,2018,3
+240,gin,Guinea,2019,2
+241,gin,Guinea,2020,5
+242,gin,Guinea,2021,3
+243,gin,Guinea,2022,0
+244,gin,Guinea,2023,2
+245,gin,Guinea,2024,1
+246,guy,Guyana,2010,2
+247,guy,Guyana,2011,1
+248,guy,Guyana,2012,0
+249,guy,Guyana,2013,2
+250,guy,Guyana,2014,1
+251,guy,Guyana,2015,0
+252,guy,Guyana,2016,2
+253,guy,Guyana,2017,1
+254,guy,Guyana,2018,2
+255,guy,Guyana,2019,0
+256,guy,Guyana,2020,0
+257,guy,Guyana,2021,0
+258,guy,Guyana,2022,2
+259,guy,Guyana,2023,0
+260,guy,Guyana,2024,1
+261,hti,Haiti,2010,5
+262,hti,Haiti,2011,2
+263,hti,Haiti,2012,2
+264,hti,Haiti,2013,0
+265,hti,Haiti,2014,0
+266,hti,Haiti,2015,2
+267,hti,Haiti,2016,4
+268,hti,Haiti,2017,1
+269,hti,Haiti,2018,3
+270,hti,Haiti,2019,2
+271,hti,Haiti,2020,5
+272,hti,Haiti,2021,4
+273,hti,Haiti,2022,1
+274,hti,Haiti,2023,0
+275,hti,Haiti,2024,0
+276,hti,Haiti,2025,1
+277,ind,India,2010,5
+278,ind,India,2011,6
+279,ind,India,2012,8
+280,ind,India,2013,14
+281,ind,India,2014,13
+282,ind,India,2015,13
+283,ind,India,2016,14
+284,ind,India,2017,4
+285,ind,India,2018,6
+286,ind,India,2019,4
+287,ind,India,2020,6
+288,ind,India,2021,2
+289,ind,India,2022,3
+290,ind,India,2023,4
+291,ind,India,2024,2
+292,ind,India,2025,2
+293,idn,Indonesia,2010,40
+294,idn,Indonesia,2011,46
+295,idn,Indonesia,2012,81
+296,idn,Indonesia,2013,106
+297,idn,Indonesia,2014,100
+298,idn,Indonesia,2015,108
+299,idn,Indonesia,2016,49
+300,idn,Indonesia,2017,43
+301,idn,Indonesia,2018,36
+302,idn,Indonesia,2019,25
+303,idn,Indonesia,2020,26
+304,idn,Indonesia,2021,9
+305,idn,Indonesia,2022,10
+306,idn,Indonesia,2023,18
+307,idn,Indonesia,2024,22
+308,idn,Indonesia,2025,12
+309,irq,Iraq,2010,2
+310,irq,Iraq,2011,0
+311,irq,Iraq,2012,0
+312,irq,Iraq,2013,0
+313,irq,Iraq,2014,0
+314,irq,Iraq,2015,0
+315,irq,Iraq,2016,0
+316,irq,Iraq,2017,0
+317,irq,Iraq,2018,0
+318,irq,Iraq,2019,0
+319,irq,Iraq,2020,1
+320,ken,Kenya,2011,1
+321,ken,Kenya,2012,1
+322,ken,Kenya,2013,1
+323,ken,Kenya,2014,0
+324,ken,Kenya,2015,2
+325,ken,Kenya,2016,2
+326,ken,Kenya,2017,1
+327,ken,Kenya,2018,0
+328,ken,Kenya,2019,1
+329,lbr,Liberia,2010,1
+330,lbr,Liberia,2011,0
+331,lbr,Liberia,2012,0
+332,lbr,Liberia,2013,0
+333,lbr,Liberia,2014,1
+334,lbr,Liberia,2015,2
+335,lbr,Liberia,2016,0
+336,lbr,Liberia,2017,0
+337,lbr,Liberia,2018,0
+338,lbr,Liberia,2019,2
+339,lbr,Liberia,2020,2
+340,lbr,Liberia,2021,1
+341,lbr,Liberia,2022,1
+342,lbr,Liberia,2023,0
+343,lbr,Liberia,2024,1
+344,lbr,Liberia,2025,1
+345,mys,Malaysia,2010,18
+346,mys,Malaysia,2011,16
+347,mys,Malaysia,2012,12
+348,mys,Malaysia,2013,9
+349,mys,Malaysia,2014,24
+350,mys,Malaysia,2015,13
+351,mys,Malaysia,2016,7
+352,mys,Malaysia,2017,7
+353,mys,Malaysia,2018,11
+354,mys,Malaysia,2019,11
+355,mys,Malaysia,2020,4
+356,mys,Malaysia,2021,2
+357,mys,Malaysia,2022,4
+358,mys,Malaysia,2023,2
+359,mys,Malaysia,2024,1
+360,mys,Malaysia,2025,1
+361,mrt,Mauritania,2013,1
+362,mex,Mexico,2016,1
+363,mex,Mexico,2017,0
+364,mex,Mexico,2018,0
+365,mex,Mexico,2019,1
+366,mex,Mexico,2020,4
+367,mex,Mexico,2021,1
+368,mex,Mexico,2022,1
+369,mar,Morocco,2013,1
+370,mar,Morocco,2014,1
+371,mar,Morocco,2015,0
+372,mar,Morocco,2016,1
+373,mar,Morocco,2017,0
+374,mar,Morocco,2018,0
+375,mar,Morocco,2019,2
+376,moz,Mozambique,2012,2
+377,moz,Mozambique,2013,2
+378,moz,Mozambique,2014,1
+379,moz,Mozambique,2015,1
+380,moz,Mozambique,2016,1
+381,moz,Mozambique,2017,2
+382,moz,Mozambique,2018,2
+383,moz,Mozambique,2019,3
+384,moz,Mozambique,2020,4
+385,moz,Mozambique,2021,1
+386,moz,Mozambique,2022,0
+387,moz,Mozambique,2023,2
+388,moz,Mozambique,2024,0
+389,moz,Mozambique,2025,3
+390,mmr,Myanmar,2011,1
+391,nga,Nigeria,2010,19
+392,nga,Nigeria,2011,10
+393,nga,Nigeria,2012,27
+394,nga,Nigeria,2013,31
+395,nga,Nigeria,2014,18
+396,nga,Nigeria,2015,14
+397,nga,Nigeria,2016,36
+398,nga,Nigeria,2017,33
+399,nga,Nigeria,2018,48
+400,nga,Nigeria,2019,35
+401,nga,Nigeria,2020,35
+402,nga,Nigeria,2021,6
+403,nga,Nigeria,2022,0
+404,nga,Nigeria,2023,2
+405,nga,Nigeria,2024,1
+406,nga,Nigeria,2025,4
+407,omn,Oman,2011,1
+408,omn,Oman,2012,0
+409,omn,Oman,2013,0
+410,omn,Oman,2014,2
+411,omn,Oman,2015,0
+412,omn,Oman,2016,0
+413,omn,Oman,2017,1
+414,pan,Panama,2019,1
+415,pan,Panama,2020,0
+416,pan,Panama,2021,0
+417,pan,Panama,2022,0
+418,pan,Panama,2023,1
+419,png,Papua New Guinea,2015,1
+420,per,Peru,2010,10
+421,per,Peru,2011,2
+422,per,Peru,2012,3
+423,per,Peru,2013,4
+424,per,Peru,2014,0
+425,per,Peru,2015,0
+426,per,Peru,2016,11
+427,per,Peru,2017,2
+428,per,Peru,2018,4
+429,per,Peru,2019,10
+430,per,Peru,2020,8
+431,per,Peru,2021,18
+432,per,Peru,2022,12
+433,per,Peru,2023,14
+434,per,Peru,2024,0
+435,per,Peru,2025,1
+436,phl,Philippines,2010,5
+437,phl,Philippines,2011,5
+438,phl,Philippines,2012,3
+439,phl,Philippines,2013,3
+440,phl,Philippines,2014,6
+441,phl,Philippines,2015,11
+442,phl,Philippines,2016,10
+443,phl,Philippines,2017,22
+444,phl,Philippines,2018,10
+445,phl,Philippines,2019,5
+446,phl,Philippines,2020,8
+447,phl,Philippines,2021,9
+448,phl,Philippines,2022,6
+449,phl,Philippines,2023,9
+450,phl,Philippines,2024,3
+451,phl,Philippines,2025,1
+452,stp,Sao Tome and Principe,2014,1
+453,stp,Sao Tome and Principe,2015,0
+454,stp,Sao Tome and Principe,2016,0
+455,stp,Sao Tome and Principe,2017,1
+456,stp,Sao Tome and Principe,2018,0
+457,stp,Sao Tome and Principe,2019,1
+458,stp,Sao Tome and Principe,2020,2
+459,stp,Sao Tome and Principe,2021,5
+460,stp,Sao Tome and Principe,2022,0
+461,stp,Sao Tome and Principe,2023,0
+462,stp,Sao Tome and Principe,2024,0
+463,stp,Sao Tome and Principe,2025,3
+464,sen,Senegal,2017,1
+465,sle,Sierra Leone,2011,1
+466,sle,Sierra Leone,2012,1
+467,sle,Sierra Leone,2013,2
+468,sle,Sierra Leone,2014,1
+469,sle,Sierra Leone,2015,0
+470,sle,Sierra Leone,2016,0
+471,sle,Sierra Leone,2017,4
+472,sle,Sierra Leone,2018,0
+473,sle,Sierra Leone,2019,1
+474,sle,Sierra Leone,2020,0
+475,sle,Sierra Leone,2021,0
+476,sle,Sierra Leone,2022,1
+477,sle,Sierra Leone,2023,2
+478,som,Somalia,2010,139
+479,som,Somalia,2011,160
+480,som,Somalia,2012,49
+481,som,Somalia,2013,7
+482,som,Somalia,2014,3
+483,som,Somalia,2015,0
+484,som,Somalia,2016,1
+485,som,Somalia,2017,5
+486,som,Somalia,2018,2
+487,som,Somalia,2019,0
+488,som,Somalia,2020,0
+489,som,Somalia,2021,0
+490,som,Somalia,2022,0
+491,som,Somalia,2023,1
+492,som,Somalia,2024,7
+493,som,Somalia,2025,5
+494,zaf,South Africa,2016,1
+495,zaf,South Africa,2017,0
+496,zaf,South Africa,2018,0
+497,zaf,South Africa,2019,0
+498,zaf,South Africa,2020,0
+499,zaf,South Africa,2021,0
+500,zaf,South Africa,2022,1
+501,tza,Tanzania,2010,1
+502,tza,Tanzania,2011,0
+503,tza,Tanzania,2012,2
+504,tza,Tanzania,2013,1
+505,tza,Tanzania,2014,1
+506,tha,Thailand,2010,2
+507,tha,Thailand,2011,0
+508,tha,Thailand,2012,0
+509,tha,Thailand,2013,0
+510,tha,Thailand,2014,2
+511,tha,Thailand,2015,1
+512,tha,Thailand,2016,0
+513,tha,Thailand,2017,0
+514,tha,Thailand,2018,0
+515,tha,Thailand,2019,0
+516,tha,Thailand,2020,1
+517,tgo,Togo,2011,6
+518,tgo,Togo,2012,15
+519,tgo,Togo,2013,7
+520,tgo,Togo,2014,2
+521,tgo,Togo,2015,0
+522,tgo,Togo,2016,1
+523,tgo,Togo,2017,0
+524,tgo,Togo,2018,1
+525,tgo,Togo,2019,3
+526,tgo,Togo,2020,3
+527,ven,Venezuela,2010,7
+528,ven,Venezuela,2011,4
+529,ven,Venezuela,2012,0
+530,ven,Venezuela,2013,0
+531,ven,Venezuela,2014,1
+532,ven,Venezuela,2015,1
+533,ven,Venezuela,2016,5
+534,ven,Venezuela,2017,12
+535,ven,Venezuela,2018,11
+536,ven,Venezuela,2019,6
+537,ven,Venezuela,2020,0
+538,ven,Venezuela,2021,0
+539,ven,Venezuela,2022,3
+540,vnm,Vietnam,2010,12
+541,vnm,Vietnam,2011,8
+542,vnm,Vietnam,2012,4
+543,vnm,Vietnam,2013,9
+544,vnm,Vietnam,2014,7
+545,vnm,Vietnam,2015,27
+546,vnm,Vietnam,2016,9
+547,vnm,Vietnam,2017,2
+548,vnm,Vietnam,2018,4
+549,vnm,Vietnam,2019,2
+550,vnm,Vietnam,2020,4
+551,vnm,Vietnam,2021,1
+552,vnm,Vietnam,2022,2
+553,vnm,Vietnam,2023,3
+554,vnm,Vietnam,2024,2
+555,yem,Yemen,2016,1
+556,yem,Yemen,2017,3
