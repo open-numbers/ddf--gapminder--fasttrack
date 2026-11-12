@@ -7,7 +7,7 @@
     "language": {
         "id": "en"
     },
-    "created": "2026-11-10T21:28:00.687Z",
+    "created": "2026-11-11T21:46:18.021Z",
     "version": "2.0.0",
     "resources": [
         {
@@ -5299,6 +5299,27 @@
                     },
                     {
                         "name": "net_users_num"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--net_users_prc--by--country--time",
+            "path": "countries_etc_datapoints/ddf--datapoints--net_users_prc--by--country--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "net_users_prc"
                     }
                 ],
                 "primaryKey": [
@@ -11581,6 +11602,16 @@
                     "country",
                     "time"
                 ],
+                "value": "net_users_prc",
+                "resources": [
+                    "ddf--datapoints--net_users_prc--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "non_net_users_num",
                 "resources": [
                     "ddf--datapoints--non_net_users_num--by--country--time"
@@ -13915,6 +13946,16 @@
                 "value": "net_users_num",
                 "resources": [
                     "ddf--datapoints--net_users_num--by--country--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "net_users_prc",
+                "resources": [
+                    "ddf--datapoints--net_users_prc--by--country--time"
                 ]
             },
             {
